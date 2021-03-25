@@ -1,1368 +1,1368 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
-gdc,pzj2.0,2363,2430,günther,2417,2423,meinen,günther
-gdc,pzj2.0,2435,2748,frowald,2445,2448,Ich,frowald
-gdc,pzj2.0,2753,2914,käsperle,2822,2825,ich,käsperle
-gdc,pzj2.0,3740,3797,fust,3747,3750,Ich,fust
-gdc,pzj2.0,3740,3797,fust,3769,3773,mich,fust
-gdc,pzj2.0,3802,3999,eckhard,3836,3839,ich,eckhard
-gdc,pzj2.0,3802,3999,eckhard,3980,3983,Ich,eckhard
-gdc,pzj2.0,4490,4661,eckhard,4536,4539,ich,eckhard
-gdc,pzj2.0,4490,4661,eckhard,4633,4636,ich,eckhard
-gdc,pzj2.0,4666,4753,fust,4709,4712,ich,fust
-gdc,pzj2.0,4863,4991,käsperle,4962,4965,Ich,käsperle
-gdc,pzj2.0,5484,5597,günther,5541,5544,ich,günther
-gdc,pzj2.0,5665,5744,günther,5699,5705,meinem,günther
-gdc,pzj2.0,5665,5744,günther,5714,5717,Ich,günther
-gdc,pzj2.0,5665,5744,günther,5723,5727,mein,günther
-gdc,pzj2.0,5749,5983,veit,5770,5774,mich,veit
-gdc,pzj2.0,5988,6036,günther,6020,6023,ich,günther
-gdc,pzj2.0,6120,6362,wallfahrer,6178,6181,mir,wallfahrer
-gdc,pzj2.0,6120,6362,wallfahrer,6187,6190,ich,wallfahrer
-gdc,pzj2.0,6120,6362,wallfahrer,6243,6248,meine,wallfahrer
-gdc,pzj2.0,6120,6362,wallfahrer,6296,6299,ich,wallfahrer
-gdc,pzj2.0,6120,6362,wallfahrer,6345,6348,mir,wallfahrer
-gdc,pzj2.0,6469,6767,wallfahrer,6512,6515,ich,wallfahrer
-gdc,pzj2.0,6469,6767,wallfahrer,6543,6546,ich,wallfahrer
-gdc,pzj2.0,6469,6767,wallfahrer,6611,6616,meine,wallfahrer
-gdc,pzj2.0,6469,6767,wallfahrer,6659,6663,mich,wallfahrer
-gdc,pzj2.0,6469,6767,wallfahrer,6679,6682,ich,wallfahrer
-gdc,pzj2.0,8093,8242,günther,8131,8134,ich,günther
-gdc,pzj2.0,8093,8242,günther,8187,8190,ich,günther
-gdc,pzj2.0,9434,9458,günther,9453,9456,ich,günther
-gdc,pzj2.0,9463,9610,wallfahrer,9476,9479,Ich,wallfahrer
-gdc,pzj2.0,10137,10180,günther,10169,10172,ich,günther
-gdc,pzj2.0,10333,10476,günther,10353,10356,mir,günther
-gdc,pzj2.0,10333,10476,günther,10378,10381,ich,günther
-gdc,pzj2.0,10482,10543,geist,10490,10493,Ich,geist
-gdc,pzj2.0,10482,10543,geist,10501,10504,ich,geist
-gdc,pzj2.0,10748,10894,käsperle,10809,10815,meinem,käsperle
-gdc,pzj2.0,10900,11062,günther,10913,10916,ich,günther
-gdc,pzj2.0,10900,11062,günther,11008,11011,ich,günther
-gdc,pzj2.0,11067,11230,käsperle,11126,11129,ich,käsperle
-gdc,pzj2.0,11067,11230,käsperle,11176,11179,ich,käsperle
-gdc,pzj2.0,11067,11230,käsperle,11180,11184,mich,käsperle
-gdc,pzj2.0,11267,11343,käsperle,11301,11304,Ich,käsperle
-gdc,pzj2.0,11348,11454,günther,11381,11385,mich,günther
-gdc,pzj2.0,11348,11454,günther,11419,11422,ich,günther
-gdc,pzj2.0,11348,11454,günther,11428,11431,mir,günther
-gdc,pzj2.0,11587,11663,günther,11636,11640,mich,günther
-gdc,pzj2.0,11840,11890,günther,11880,11883,ich,günther
-gdc,pzj2.0,12111,12168,günther,12133,12139,meinen,günther
-gdc,pzj2.0,12111,12168,günther,12163,12167,mich,günther
-gdc,pzj2.0,12173,12346,käsperle,12237,12241,mich,käsperle
-gdc,pzj2.0,12173,12346,käsperle,12256,12259,ich,käsperle
-gdc,pzj2.0,12173,12346,käsperle,12265,12268,mir,käsperle
-gdc,pzj2.0,12351,12397,günther,12385,12391,meinen,günther
-gdc,pzj2.0,12402,12463,käsperle,12444,12447,ich,käsperle
-gdc,pzj2.0,12468,12513,günther,12478,12481,Ich,günther
-gdc,pzj2.0,12604,12902,käsperle,12631,12634,Ich,käsperle
-gdc,pzj2.0,12604,12902,käsperle,12701,12704,ich,käsperle
-gdc,pzj2.0,12604,12902,käsperle,12772,12775,ich,käsperle
-gdc,pzj2.0,12604,12902,käsperle,12837,12840,ich,käsperle
-gdc,pzj2.0,12980,13112,käsperle,13050,13054,mich,käsperle
-gdc,pzj2.0,12980,13112,käsperle,13077,13081,mich,käsperle
-gdc,pzj2.0,13117,13172,hans,13134,13138,mich,hans
-gdc,pzj2.0,13117,13172,hans,13152,13155,ich,hans
-gdc,pzj2.0,13321,13454,käsperle,13350,13354,mein,käsperle
-gdc,pzj2.0,13321,13454,käsperle,13398,13402,mich,käsperle
-gdc,pzj2.0,13459,13554,hans,13484,13487,ich,hans
-gdc,pzj2.0,13459,13554,hans,13543,13546,mir,hans
-gdc,pzj2.0,13592,13765,hans,13611,13614,ich,hans
-gdc,pzj2.0,13592,13765,hans,13657,13660,ich,hans
-gdc,pzj2.0,13592,13765,hans,13690,13693,ich,hans
-gdc,pzj2.0,13592,13765,hans,13694,13698,mich,hans
-gdc,pzj2.0,13592,13765,hans,13704,13710,meinem,hans
-gdc,pzj2.0,13592,13765,hans,13756,13759,mir,hans
-gdc,pzj2.0,13802,13887,hans,13821,13824,mir,hans
-gdc,pzj2.0,13802,13887,hans,13862,13866,mein,hans
-gdc,pzj2.0,13892,14558,käsperle,13917,13920,ich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,13958,13961,ich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14015,14018,ich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14024,14028,mich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14136,14139,ich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14140,14144,mich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14256,14259,ich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14290,14294,mich,käsperle
-gdc,pzj2.0,13892,14558,käsperle,14492,14495,ich,käsperle
-gdc,pzj2.0,14980,15096,örtchen,15026,15029,ich,örtchen
-gdc,pzj2.0,14980,15096,örtchen,15056,15062,meinem,örtchen
-gdc,pzj2.0,15101,15198,hans,15156,15159,ich,hans
-gdc,pzj2.0,15242,15448,hans,15254,15257,ich,hans
-gdc,pzj2.0,15242,15448,hans,15331,15337,meiner,hans
-gdc,pzj2.0,15242,15448,hans,15343,15346,ich,hans
-gdc,pzj2.0,15600,15672,hans,15635,15638,ich,hans
-gdc,pzj2.0,15600,15672,hans,15647,15650,ich,hans
-gdc,pzj2.0,16094,16260,hans,16106,16109,mir,hans
-gdc,pzj2.0,16094,16260,hans,16146,16150,mein,hans
-gdc,pzj2.0,16094,16260,hans,16161,16164,ich,hans
-gdc,pzj2.0,16267,16440,örtchen,16303,16306,ich,örtchen
-gdc,pzj2.0,16813,16863,ritter_hans,16827,16830,Ich,ritter_hans
-gdc,pzj2.0,16868,16979,günther,16878,16881,Ich,günther
-gdc,pzj2.0,16868,16979,günther,16934,16937,ich,günther
-gdc,pzj2.0,16984,17023,ritter_hans,16998,17003,Meine,ritter_hans
-gdc,pzj2.0,17028,17282,günther,17038,17041,Ich,günther
-gdc,pzj2.0,17028,17282,günther,17068,17071,ich,günther
-gdc,pzj2.0,17028,17282,günther,17168,17172,Mein,günther
-gdc,pzj2.0,17028,17282,günther,17184,17188,mich,günther
-gdc,pzj2.0,17028,17282,günther,17226,17230,mich,günther
-gdc,pzj2.0,17359,17584,günther,17511,17514,Ich,günther
-gdc,pzj2.0,17359,17584,günther,17530,17534,mein,günther
-gdc,pzj2.0,17359,17584,günther,17575,17578,ich,günther
-gdc,pzj2.0,17589,17662,ritter_hans,17603,17606,Ich,ritter_hans
-gdc,pzj2.0,17589,17662,ritter_hans,17621,17626,Meine,ritter_hans
-gdc,pzj2.0,17941,18078,ritter_hans,18006,18011,meine,ritter_hans
-gdc,pzj2.0,18084,18512,günther,18173,18176,ich,günther
-gdc,pzj2.0,18084,18512,günther,18330,18333,ich,günther
-gdc,pzj2.0,18084,18512,günther,18375,18380,meine,günther
-gdc,pzj2.0,18084,18512,günther,18425,18429,mich,günther
-gdc,pzj2.0,18084,18512,günther,18453,18456,ich,günther
-gdc,pzj2.0,18734,18812,mathilde,18759,18762,mir,mathilde
-gdc,pzj2.0,18896,18972,mathilde,18957,18963,meines,mathilde
-gdc,pzj2.0,18977,19093,bertha,19037,19040,ich,bertha
-gdc,pzj2.0,19098,19153,mathilde,19117,19120,ich,mathilde
-gdc,pzj2.0,19098,19153,mathilde,19137,19140,ich,mathilde
-gdc,pzj2.0,19290,19369,mathilde,19340,19343,ich,mathilde
-gdc,pzj2.0,19290,19369,mathilde,19361,19364,ich,mathilde
-gdc,pzj2.0,19467,19661,jeriel,19521,19524,mir,jeriel
-gdc,pzj2.0,19467,19661,jeriel,19541,19544,ich,jeriel
-gdc,pzj2.0,19889,20038,jeriel,19898,19901,Ich,jeriel
-gdc,pzj2.0,19889,20038,jeriel,19950,19954,mein,jeriel
-gdc,pzj2.0,19889,20038,jeriel,19965,19969,mich,jeriel
-gdc,pzj2.0,20043,20736,mathilde,20098,20101,mir,mathilde
-gdc,pzj2.0,20043,20736,mathilde,20111,20117,meines,mathilde
-gdc,pzj2.0,20043,20736,mathilde,20131,20136,meine,mathilde
-gdc,pzj2.0,20834,20947,mathilde,20934,20940,meiner,mathilde
-gdc,pzj2.0,20952,21015,bertha,20971,20974,ich,bertha
-gdc,pzj2.0,20952,21015,bertha,21011,21014,ich,bertha
-gdc,pzj2.0,21087,21275,günther,21121,21124,ich,günther
-gdc,pzj2.0,21087,21275,günther,21150,21153,ich,günther
-gdc,pzj2.0,21087,21275,günther,21201,21204,ich,günther
-gdc,pzj2.0,21087,21275,günther,21205,21209,mich,günther
-gdc,pzj2.0,21307,21520,günther,21337,21340,mir,günther
-gdc,pzj2.0,21307,21520,günther,21360,21363,ich,günther
-gdc,pzj2.0,21307,21520,günther,21417,21420,ich,günther
-gdc,pzj2.0,21570,21677,günther,21640,21643,ich,günther
-gdc,pzj2.0,21682,21736,mathilde,21723,21726,ich,mathilde
-gdc,pzj2.0,21741,21783,günther,21769,21773,mich,günther
-gdc,pzj2.0,21909,22053,günther,21958,21961,ich,günther
-gdc,pzj2.0,21909,22053,günther,22021,22024,ich,günther
-gdc,pzj2.0,22098,22300,günther,22124,22129,meine,günther
-gdc,pzj2.0,22098,22300,günther,22142,22145,mir,günther
-gdc,pzj2.0,22098,22300,günther,22177,22180,mir,günther
-gdc,pzj2.0,22098,22300,günther,22206,22209,ich,günther
-gdc,pzj2.0,22098,22300,günther,22229,22233,mich,günther
-gdc,pzj2.0,22098,22300,günther,22245,22248,ich,günther
-gdc,pzj2.0,22365,22489,günther,22424,22428,mein,günther
-gdc,pzj2.0,22756,23048,otto,22777,22780,ich,otto
-gdc,pzj2.0,22756,23048,otto,22970,22973,ich,otto
-gdc,pzj2.0,23053,23107,günther,23071,23074,ich,günther
-gdc,pzj2.0,23112,23178,otto,23135,23138,mir,otto
-gdc,pzj2.0,23373,23460,günther,23393,23399,meiner,günther
-gdc,pzj2.0,23373,23460,günther,23414,23417,ich,günther
-gdc,pzj2.0,23373,23460,günther,23418,23422,mich,günther
-gdc,pzj2.0,23611,23695,günther,23661,23664,mir,günther
-gdc,pzj2.0,23611,23695,günther,23681,23684,ich,günther
-gdc,pzj2.0,24418,24527,otto,24432,24435,Ich,otto
-gdc,pzj2.0,24717,24783,wallberg,24769,24772,mir,wallberg
-gdc,pzj2.0,25483,25555,bodo,25490,25493,Ich,bodo
-gdc,pzj2.0,25605,25871,eckard,25689,25692,ich,eckard
-gdc,pzj2.0,25605,25871,eckard,25703,25709,meinem,eckard
-gdc,pzj2.0,25605,25871,eckard,25721,25724,ich,eckard
-gdc,pzj2.0,25605,25871,eckard,25735,25738,ich,eckard
-gdc,pzj2.0,25605,25871,eckard,25790,25793,mir,eckard
-gdc,pzj2.0,25605,25871,eckard,25813,25816,ich,eckard
-gdc,pzj2.0,25605,25871,eckard,25825,25831,meinem,eckard
-gdc,pzj2.0,26016,26112,wallberg,26079,26082,mir,wallberg
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26133,26136,ich,hanns_von_stauffen
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26186,26192,meiner,hanns_von_stauffen
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26204,26207,ich,hanns_von_stauffen
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26226,26229,ich,hanns_von_stauffen
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26681,26684,ich,hanns_von_stauffen
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26725,26728,Ich,hanns_von_stauffen
-gdc,pzj2.0,26117,26871,hanns_von_stauffen,26738,26742,mein,hanns_von_stauffen
-gdc,pzj2.0,26963,27096,käsperle,27009,27013,mein,käsperle
-gdc,pzj2.0,26963,27096,käsperle,27039,27042,ich,käsperle
-gdc,pzj2.0,27238,27526,käsperle,27262,27265,ich,käsperle
-gdc,pzj2.0,27238,27526,käsperle,27306,27309,ich,käsperle
-gdc,pzj2.0,27238,27526,käsperle,27343,27347,mein,käsperle
-gdc,pzj2.0,27623,27715,käsperle,27652,27656,mich,käsperle
-gdc,pzj2.0,27720,27885,fust,27798,27801,ich,fust
-gdc,pzj2.0,27720,27885,fust,27825,27831,meinem,fust
-gdc,pzj2.0,27891,28056,käsperle,27912,27915,Ich,käsperle
-gdc,pzj2.0,27891,28056,käsperle,27954,27958,mich,käsperle
-gdc,pzj2.0,27891,28056,käsperle,27964,27967,Ich,käsperle
-gdc,pzj2.0,27891,28056,käsperle,28013,28019,meinen,käsperle
-gdc,pzj2.0,28500,28758,käsperle,28626,28629,ich,käsperle
-gdc,pzj2.0,28500,28758,käsperle,28695,28698,Ich,käsperle
-gdc,pzj2.0,28500,28758,käsperle,28737,28740,ich,käsperle
-gdc,pzj2.0,28815,28984,käsperle,28915,28921,meines,käsperle
-gdc,pzj2.0,28815,28984,käsperle,28957,28960,ich,käsperle
-gdc,pzj2.0,29080,29183,käsperle,29119,29122,ich,käsperle
-gdc,pzj2.0,29080,29183,käsperle,29145,29148,ich,käsperle
-gdc,pzj2.0,29080,29183,käsperle,29174,29177,ich,käsperle
-gdc,pzj2.0,29245,29395,käsperle,29285,29288,ich,käsperle
-gdc,pzj2.0,29245,29395,käsperle,29331,29334,ich,käsperle
-gdc,pzj2.0,29245,29395,käsperle,29335,29339,mich,käsperle
-gdc,pzj2.0,29400,29473,günther,29428,29432,mich,günther
-gdc,pzj2.0,29478,29601,käsperle,29545,29548,ich,käsperle
-gdc,pzj2.0,29478,29601,käsperle,29582,29586,mich,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29658,29661,Ich,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29664,29667,ich,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29674,29677,ich,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29713,29716,ich,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29719,29722,ich,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29770,29773,mir,käsperle
-gdc,pzj2.0,29647,29887,käsperle,29775,29778,ich,käsperle
-gdc,pzj2.0,29892,29929,günther,29902,29906,Mein,günther
-gdc,pzj2.0,29934,30062,käsperle,29965,29968,ich,käsperle
-gdc,pzj2.0,30067,30126,günther,30112,30116,mich,günther
-gdc,pzj2.0,30131,30216,käsperle,30163,30166,ich,käsperle
-gdc,pzj2.0,30131,30216,käsperle,30176,30179,Ich,käsperle
-gdc,pzj2.0,30221,30409,günther,30323,30327,mich,günther
-gdc,pzj2.0,30221,30409,günther,30359,30365,meines,günther
-gdc,pzj2.0,30415,30586,käsperle,30505,30508,mir,käsperle
-gdc,pzj2.0,30591,30716,günther,30660,30664,mich,günther
-gdc,pzj2.0,30591,30716,günther,30691,30697,meinem,günther
-gdc,pzj2.0,30899,31007,günther,30969,30972,ich,günther
-gdc,pzj2.0,31012,31083,käsperle,31062,31066,mich,käsperle
-gdc,pzj2.0,31162,31285,veit,31221,31226,meine,veit
-gdc,pzj2.0,31290,31503,günther,31306,31309,ich,günther
-gdc,pzj2.0,31290,31503,günther,31343,31346,ich,günther
-gdc,pzj2.0,31290,31503,günther,31419,31425,meinen,günther
-gdc,pzj2.0,31290,31503,günther,31453,31456,mir,günther
-gdc,pzj2.0,31290,31503,günther,31482,31486,mich,günther
-gdc,pzj2.0,31508,31696,veit,31546,31549,ich,veit
-gdc,pzj2.0,31508,31696,veit,31608,31611,ich,veit
-gdc,pzj2.0,31508,31696,veit,31647,31650,ich,veit
-gdc,pzj2.0,31701,31853,käsperle,31747,31750,ich,käsperle
-gdc,pzj2.0,31701,31853,käsperle,31792,31796,mich,käsperle
-gdc,pzj2.0,31701,31853,käsperle,31827,31831,mein,käsperle
-gdc,pzj2.0,31931,31984,käsperle,31951,31954,ich,käsperle
-gdc,pzj2.0,31989,32570,veit,32053,32056,mir,veit
-gdc,pzj2.0,31989,32570,veit,32466,32469,Ich,veit
-gdc,pzj2.0,31989,32570,veit,32500,32504,mein,veit
-gdc,pzj2.0,31989,32570,veit,32554,32557,ich,veit
-gdc,pzj2.0,32696,32834,käsperle,32796,32800,mein,käsperle
-gdc,pzj2.0,32696,32834,käsperle,32817,32821,mich,käsperle
-gdc,pzj2.0,33131,33277,jeriel,33150,33154,mich,jeriel
-gdc,pzj2.0,33131,33277,jeriel,33179,33182,ich,jeriel
-gdc,pzj2.0,33282,33374,käsperle,33321,33324,mir,käsperle
-gdc,pzj2.0,33379,33473,jeriel,33423,33426,Ich,jeriel
-gdc,pzj2.0,33379,33473,jeriel,33437,33442,meine,jeriel
-gdc,pzj2.0,33517,33642,jeriel,33589,33593,mein,jeriel
-gdc,pzj2.0,33647,33828,käsperle,33738,33741,mir,käsperle
-gdc,pzj2.0,33647,33828,käsperle,33801,33805,mein,käsperle
-gdc,pzj2.0,35342,35480,veit,35398,35401,ich,veit
-gdc,pzj2.0,35485,35654,hans,35599,35602,ich,hans
-gdc,pzj2.0,35485,35654,hans,35619,35623,mein,hans
-gdc,pzj2.0,35717,35887,hans,35746,35749,ich,hans
-gdc,pzj2.0,35717,35887,hans,35774,35777,mir,hans
-gdc,pzj2.0,35717,35887,hans,35814,35817,ich,hans
-gdc,pzj2.0,35892,35946,frowald,35916,35919,ich,frowald
-gdc,pzj2.0,36802,37100,mathilde,36847,36850,ich,mathilde
-gdc,pzj2.0,36802,37100,mathilde,36851,36855,mein,mathilde
-gdc,pzj2.0,36802,37100,mathilde,36869,36872,ich,mathilde
-gdc,pzj2.0,36802,37100,mathilde,36899,36904,meine,mathilde
-gdc,pzj2.0,37106,37254,mathilde,37175,37180,meine,mathilde
-gdc,pzj2.0,37106,37254,mathilde,37198,37201,ich,mathilde
-gdc,pzj2.0,37635,37750,mathilde,37646,37649,Ich,mathilde
-gdc,pzj2.0,37635,37750,mathilde,37729,37733,mein,mathilde
-gdc,pzj2.0,37954,38096,mathilde,37979,37983,mich,mathilde
-gdc,pzj2.0,37954,38096,mathilde,38012,38016,mich,mathilde
-gdc,pzj2.0,37954,38096,mathilde,38061,38064,Ich,mathilde
-gdc,pzj2.0,38101,38319,otto,38245,38248,mir,otto
-gdc,pzj2.0,38101,38319,otto,38288,38291,mir,otto
-gdc,pzj2.0,38324,38381,mathilde,38354,38357,ich,mathilde
-gdc,pzj2.0,38386,38596,hans,38518,38524,meiner,hans
-gdc,pzj2.0,38601,38836,mathilde,38714,38718,mich,mathilde
-gdc,pzj2.0,38601,38836,mathilde,38762,38765,ich,mathilde
-gdc,pzj2.0,38842,39015,hans,38967,38973,meinen,hans
-gdc,pzj2.0,39145,39193,hanns_von_stauffen,39160,39165,meine,hanns_von_stauffen
-gdc,pzj2.0,39238,39384,hanns_von_stauffen,39266,39272,meinen,hanns_von_stauffen
-gdc,pzj2.0,39622,39664,hanns_von_stauffen,39650,39655,meine,hanns_von_stauffen
-gdc,pzj2.0,39669,39790,otto,39736,39742,meinen,otto
-gdc,pzj2.0,39943,40103,otto,40033,40039,meinem,otto
-gdc,pzj2.0,39943,40103,otto,40053,40056,ich,otto
-gdc,pzj2.0,40108,40152,hanns_von_stauffen,40131,40134,mir,hanns_von_stauffen
-gdc,pzj2.0,40347,40391,hanns_von_stauffen,40359,40363,mich,hanns_von_stauffen
-gdc,pzj2.0,40397,40756,weib,40537,40540,mir,weib
-gdc,pzj2.0,40397,40756,weib,40561,40565,mein,weib
-gdc,pzj2.0,40397,40756,weib,40592,40596,mich,weib
-gdc,pzj2.0,40397,40756,weib,40619,40622,ich,weib
-gdc,pzj2.0,40397,40756,weib,40646,40649,mir,weib
-gdc,pzj2.0,40397,40756,weib,40685,40689,mein,weib
-gdc,pzj2.0,41354,41801,weib,41448,41453,meine,weib
-gdc,pzj2.0,42326,42449,käsperle,42378,42381,ich,käsperle
-gdc,pzj2.0,42326,42449,käsperle,42386,42389,mir,käsperle
-gdc,pzj2.0,42574,42744,käsperle,42596,42599,Ich,käsperle
-gdc,pzj2.0,42795,42936,käsperle,42806,42809,Ich,käsperle
-gdc,pzj2.0,42795,42936,käsperle,42871,42874,ich,käsperle
-gdc,pzj2.0,42795,42936,käsperle,42914,42917,ich,käsperle
-gdc,pzj2.0,42976,43108,käsperle,42993,42996,ich,käsperle
-gdc,pzj2.0,43223,43320,jeriel,43256,43259,ich,jeriel
-gdc,pzj2.0,43223,43320,jeriel,43301,43304,mir,jeriel
-gdc,pzj2.0,43325,43394,günther,43351,43354,ich,günther
-gdc,pzj2.0,43325,43394,günther,43355,43359,mich,günther
-gdc,pzj2.0,43325,43394,günther,43381,43384,ich,günther
-gdc,pzj2.0,43729,43817,günther,43759,43763,mein,günther
-gdc,pzj2.0,43729,43817,günther,43775,43778,ich,günther
-gdc,pzj2.0,43729,43817,günther,43789,43794,meine,günther
-gdc,pzj2.0,43823,43969,käsperle,43893,43896,ich,käsperle
-gdc,pzj2.0,43823,43969,käsperle,43930,43933,ich,käsperle
-gdc,pzj2.0,43974,43998,günther,43993,43996,mir,günther
-gdc,pzj2.0,44078,44215,käsperle,44161,44164,mir,käsperle
-gdc,pzj2.0,44078,44215,käsperle,44175,44181,meiner,käsperle
-gdc,pzj2.0,44078,44215,käsperle,44205,44208,ich,käsperle
-gdc,pzj2.0,44220,44364,jeriel,44265,44268,Ich,jeriel
-gdc,pzj2.0,44485,44706,käsperle,44555,44559,mich,käsperle
-gdc,pzj2.0,44485,44706,käsperle,44629,44632,ich,käsperle
-gdc,pzj2.0,44485,44706,käsperle,44633,44637,mich,käsperle
-gdc,pzj2.0,44712,44815,günther,44760,44764,mein,günther
-gdc,pzj2.0,44926,45011,günther,44936,44939,Ich,günther
-gdc,pzj2.0,44926,45011,günther,44982,44985,ich,günther
-gdc,pzj2.0,45016,45094,käsperle,45065,45069,mich,käsperle
-gdc,pzj2.0,45099,45165,günther,45121,45125,mich,günther
-gdc,pzj2.0,45099,45165,günther,45149,45152,ich,günther
-gdc,pzj2.0,45170,45344,käsperle,45216,45219,ich,käsperle
-gdc,pzj2.0,45170,45344,käsperle,45265,45268,ich,käsperle
-gdc,pzj2.0,45170,45344,käsperle,45324,45329,meine,käsperle
-gdc,pzj2.0,45627,45689,günther,45673,45676,ich,günther
-gdc,pzj2.0,45694,45788,käsperle,45720,45723,ich,käsperle
-gdc,pzj2.0,46017,46078,günther,46041,46047,meiner,günther
-gdc,pzj2.0,46017,46078,günther,46053,46056,ich,günther
-gdc,pzj2.0,46084,46330,käsperle,46153,46156,ich,käsperle
-gdc,pzj2.0,46084,46330,käsperle,46190,46194,mich,käsperle
-gdc,pzj2.0,46336,46394,geist,46350,46353,mir,geist
-gdc,pzj2.0,46336,46394,geist,46356,46359,ich,geist
-gdc,pzj2.0,46399,46525,käsperle,46457,46460,ich,käsperle
-gdc,pzj2.0,46399,46525,käsperle,46463,46466,ich,käsperle
-gdc,pzj2.0,46399,46525,käsperle,46499,46502,ich,käsperle
-gdc,pzj2.0,46399,46525,käsperle,46511,46517,meinem,käsperle
-gdc,pzj2.0,46530,46586,geist,46547,46550,mir,geist
-gdc,pzj2.0,46530,46586,geist,46553,46556,ich,geist
-gdc,pzj2.0,46591,46752,käsperle,46614,46617,Ich,käsperle
-gdc,pzj2.0,46591,46752,käsperle,46620,46623,ich,käsperle
-gdc,pzj2.0,46591,46752,käsperle,46643,46649,meinem,käsperle
-gdc,pzj2.0,46591,46752,käsperle,46659,46662,ich,käsperle
-gdc,pzj2.0,46591,46752,käsperle,46689,46692,ich,käsperle
-gdc,pzj2.0,46591,46752,käsperle,46723,46726,ich,käsperle
-gdc,pzj2.0,46591,46752,käsperle,46739,46742,Ich,käsperle
-gdc,pzj2.0,46758,46811,geist,46793,46796,mir,geist
-gdc,pzj2.0,46816,47016,käsperle,46907,46911,mich,käsperle
-gdc,pzj2.0,46816,47016,käsperle,46962,46965,ich,käsperle
-gdc,pzj2.0,47708,47889,günther,47743,47749,meinem,günther
-gdc,pzj2.0,47708,47889,günther,47783,47786,ich,günther
-gdc,pzj2.0,47708,47889,günther,47834,47837,mir,günther
-gdc,pzj2.0,47894,48234,geist,47922,47925,Ich,geist
-gdc,pzj2.0,47894,48234,geist,47975,47979,mein,geist
-gdc,pzj2.0,47894,48234,geist,47992,47995,ich,geist
-gdc,pzj2.0,47894,48234,geist,48023,48029,meinen,geist
-gdc,pzj2.0,47894,48234,geist,48037,48041,Mein,geist
-gdc,pzj2.0,47894,48234,geist,48200,48203,Ich,geist
-gdc,pzj2.0,48311,48652,geist,48319,48323,Mein,geist
-gdc,pzj2.0,48311,48652,geist,48330,48333,Ich,geist
-gdc,pzj2.0,48311,48652,geist,48494,48499,meine,geist
-gdc,pzj2.0,48311,48652,geist,48562,48568,meinem,geist
-gdc,pzj2.0,48311,48652,geist,48618,48621,ich,geist
-gdc,pzj2.0,48657,48721,günther,48676,48679,mir,günther
-gdc,pzj2.0,48657,48721,günther,48691,48694,ich,günther
-gdc,pzj2.0,48726,49074,geist,48759,48765,meines,geist
-gdc,pzj2.0,48726,49074,geist,48839,48844,meine,geist
-gdc,pzj2.0,48726,49074,geist,48901,48904,ich,geist
-gdc,pzj2.0,48726,49074,geist,49029,49033,mich,geist
-gdc,pzj2.0,48726,49074,geist,49048,49051,ich,geist
-gdc,pzj2.0,49109,49448,geist,49117,49120,Ich,geist
-gdc,pzj2.0,49109,49448,geist,49188,49192,mich,geist
-gdc,pzj2.0,49493,49590,geist,49517,49522,meine,geist
-gdc,pzj2.0,49595,49696,günther,49634,49638,mein,günther
-gdc,pzj2.0,49595,49696,günther,49661,49665,mein,günther
-gdc,pzj2.0,49701,49906,geist,49719,49722,mir,geist
-gdc,pzj2.0,49701,49906,geist,49732,49735,ich,geist
-gdc,pzj2.0,49701,49906,geist,49741,49745,mich,geist
-gdc,pzj2.0,49701,49906,geist,49817,49821,mich,geist
-gdc,pzj2.0,49911,49980,günther,49968,49971,ich,günther
-gdc,pzj2.0,49985,50384,geist,50179,50185,meiner,geist
-gdc,pzj2.0,50390,50843,günther,50409,50412,ich,günther
-gdc,pzj2.0,50390,50843,günther,50424,50428,mich,günther
-gdc,pzj2.0,50390,50843,günther,50457,50460,ich,günther
-gdc,pzj2.0,50390,50843,günther,50521,50524,ich,günther
-gdc,pzj2.0,50390,50843,günther,50605,50608,ich,günther
-gdc,pzj2.0,50390,50843,günther,50651,50654,ich,günther
-gdc,pzj2.0,50390,50843,günther,50688,50691,mir,günther
-gdc,pzj2.0,51113,51741,käsperle,51131,51135,mich,käsperle
-gdc,pzj2.0,51113,51741,käsperle,51205,51209,mein,käsperle
-gdc,pzj2.0,51747,51948,käsperle,51799,51802,ich,käsperle
-gdc,pzj2.0,51992,52036,käsperle,52007,52011,mich,käsperle
-gdc,pzj2.0,53246,53531,ritter,53319,53322,ich,ritter
-gdc,pzj2.0,53599,53748,ritter,53725,53729,mich,ritter
-gdc,pzj2.0,54330,54389,veit,54369,54372,ich,veit
-gdc,pzj2.0,54509,54702,örtchen,54540,54544,mich,örtchen
-gdc,pzj2.0,54509,54702,örtchen,54566,54570,mein,örtchen
-gdc,pzj2.0,55384,55444,veit,55401,55404,ich,veit
-gdc,pzj2.0,55450,56111,örtchen,55543,55547,Mein,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55667,55670,ich,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55752,55755,mir,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55800,55803,ich,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55832,55835,mir,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55877,55880,ich,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55900,55903,mir,örtchen
-gdc,pzj2.0,55450,56111,örtchen,55972,55975,ich,örtchen
-gdc,pzj2.0,55450,56111,örtchen,56001,56005,mein,örtchen
-gdc,pzj2.0,56246,56439,hans,56281,56284,ich,hans
-gdc,pzj2.0,56246,56439,hans,56295,56298,Ich,hans
-gdc,pzj2.0,56444,56622,veit,56458,56461,ich,veit
-gdc,pzj2.0,56709,57629,veit,56716,56719,Ich,veit
-gdc,pzj2.0,56709,57629,veit,56741,56744,ich,veit
-gdc,pzj2.0,56709,57629,veit,56867,56870,mir,veit
-gdc,pzj2.0,56709,57629,veit,56877,56882,meine,veit
-gdc,pzj2.0,56709,57629,veit,57168,57172,Mein,veit
-gdc,pzj2.0,56709,57629,veit,57182,57185,ich,veit
-gdc,pzj2.0,56709,57629,veit,57259,57262,Ich,veit
-gdc,pzj2.0,56709,57629,veit,57322,57326,Mich,veit
-gdc,pzj2.0,57738,58003,käsperle,57759,57762,ich,käsperle
-gdc,pzj2.0,57738,58003,käsperle,57836,57840,mein,käsperle
-gdc,pzj2.0,58008,58126,günther,58040,58043,Ich,günther
-gdc,pzj2.0,58008,58126,günther,58060,58066,meines,günther
-gdc,pzj2.0,58356,58476,käsperle,58378,58381,ich,käsperle
-gdc,pzj2.0,58356,58476,käsperle,58393,58399,meinem,käsperle
-gdc,pzj2.0,59001,59114,käsperle,59068,59071,ich,käsperle
-gdc,pzj2.0,59274,59470,günther,59300,59303,ich,günther
-gdc,pzj2.0,59274,59470,günther,59309,59315,meinen,günther
-gdc,pzj2.0,59475,59610,günther,59486,59489,Ich,günther
-gdc,pzj2.0,59475,59610,günther,59533,59537,mich,günther
-gdc,pzj2.0,59760,60231,käsperle,59814,59817,ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,59834,59837,ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,59845,59848,ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,59911,59914,Ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,59934,59937,ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,59987,59990,ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,60060,60064,mich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,60087,60091,Mein,käsperle
-gdc,pzj2.0,59760,60231,käsperle,60121,60127,meiner,käsperle
-gdc,pzj2.0,59760,60231,käsperle,60143,60146,ich,käsperle
-gdc,pzj2.0,59760,60231,käsperle,60177,60180,Ich,käsperle
-gdc,pzj2.0,60364,60555,käsperle,60375,60378,Ich,käsperle
-gdc,pzj2.0,60364,60555,käsperle,60381,60384,ich,käsperle
-gdc,pzj2.0,60827,60925,käsperle,60848,60851,mir,käsperle
-gdc,pzj2.0,60930,61028,jeriel,60946,60949,ich,jeriel
-gdc,pzj2.0,60930,61028,jeriel,60959,60964,meine,jeriel
-gdc,pzj2.0,61236,61361,käsperle,61318,61321,ich,käsperle
-gdc,pzj2.0,61236,61361,käsperle,61322,61325,mir,käsperle
-gdc,pzj2.0,61439,61557,käsperle,61507,61510,mir,käsperle
-gdc,pzj2.0,62028,62212,käsperle,62039,62042,Ich,käsperle
-gdc,pzj2.0,62028,62212,käsperle,62139,62142,ich,käsperle
-gdc,pzj2.0,62028,62212,käsperle,62155,62159,mich,käsperle
-gdc,pzj2.0,62217,62298,mädchen,62254,62257,ich,mädchen
-gdc,pzj2.0,62303,62524,käsperle,62331,62334,ich,käsperle
-gdc,pzj2.0,62303,62524,käsperle,62338,62342,mein,käsperle
-gdc,pzj2.0,62303,62524,käsperle,62400,62403,ich,käsperle
-gdc,pzj2.0,62529,62606,mädchen,62551,62557,meiner,mädchen
-gdc,pzj2.0,62529,62606,mädchen,62580,62584,mich,mädchen
-gdc,pzj2.0,62611,62695,käsperle,62664,62667,mir,käsperle
-gdc,pzj2.0,62700,62845,mädchen,62714,62717,ich,mädchen
-gdc,pzj2.0,62700,62845,mädchen,62743,62746,ich,mädchen
-gdc,pzj2.0,62700,62845,mädchen,62774,62777,mir,mädchen
-gdc,pzj2.0,62700,62845,mädchen,62788,62791,ich,mädchen
-gdc,pzj2.0,62850,62987,käsperle,62898,62901,mir,käsperle
-gdc,pzj2.0,62992,63053,mädchen,63035,63038,mir,mädchen
-gdc,pzj2.0,63058,63378,käsperle,63234,63239,meine,käsperle
-gdc,pzj2.0,63058,63378,käsperle,63346,63349,ich,käsperle
-gdc,pzj2.0,63466,63516,die_alte,63512,63515,mir,die_alte
-gdc,pzj2.0,63612,63647,die_alte,63633,63638,meine,die_alte
-gdc,pzj2.0,63776,64243,die_alte,63935,63941,meiner,die_alte
-gdc,pzj2.0,63776,64243,die_alte,63993,63998,meine,die_alte
-gdc,pzj2.0,64627,64772,günther,64655,64658,ich,günther
-gdc,pzj2.0,64627,64772,günther,64686,64689,ich,günther
-gdc,pzj2.0,64627,64772,günther,64727,64730,mir,günther
-gdc,pzj2.0,64627,64772,günther,64753,64756,ich,günther
-gdc,pzj2.0,64777,65225,boodsheim,64924,64930,meiner,boodsheim
-gdc,pzj2.0,64777,65225,boodsheim,64973,64978,meine,boodsheim
-gdc,pzj2.0,64777,65225,boodsheim,65029,65034,meine,boodsheim
-gdc,pzj2.0,65230,65558,günther,65240,65243,Ich,günther
-gdc,pzj2.0,65230,65558,günther,65304,65307,ich,günther
-gdc,pzj2.0,65230,65558,günther,65321,65327,meinem,günther
-gdc,pzj2.0,65230,65558,günther,65382,65385,ich,günther
-gdc,pzj2.0,65230,65558,günther,65412,65415,ich,günther
-gdc,pzj2.0,65230,65558,günther,65453,65457,mich,günther
-gdc,pzj2.0,65230,65558,günther,65488,65491,ich,günther
-gdc,pzj2.0,65563,65743,boodsheim,65579,65584,meine,boodsheim
-gdc,pzj2.0,65563,65743,boodsheim,65616,65619,mir,boodsheim
-gdc,pzj2.0,65563,65743,boodsheim,65661,65664,ich,boodsheim
-gdc,pzj2.0,65563,65743,boodsheim,65685,65691,meiner,boodsheim
-gdc,pzj2.0,65794,65905,günther,65816,65819,mir,günther
-gdc,pzj2.0,65794,65905,günther,65863,65866,ich,günther
-gdc,pzj2.0,65794,65905,günther,65867,65873,meinen,günther
-gdc,pzj2.0,65794,65905,günther,65886,65889,ich,günther
-gdc,pzj2.0,65910,66159,boodsheim,65922,65927,Meine,boodsheim
-gdc,pzj2.0,65910,66159,boodsheim,65978,65981,ich,boodsheim
-gdc,pzj2.0,65910,66159,boodsheim,66066,66069,ich,boodsheim
-gdc,pzj2.0,66165,66331,günther,66197,66201,mich,günther
-gdc,pzj2.0,66165,66331,günther,66254,66260,meiner,günther
-gdc,pzj2.0,66566,66766,käsperle,66694,66697,ich,käsperle
-gdc,pzj2.0,66566,66766,käsperle,66706,66709,ich,käsperle
-gdc,pzj2.0,66566,66766,käsperle,66734,66737,ich,käsperle
-gdc,pzj2.0,66566,66766,käsperle,66743,66746,mir,käsperle
-gdc,pzj2.0,66832,67001,käsperle,66880,66883,ich,käsperle
-gdc,pzj2.0,66832,67001,käsperle,66944,66947,ich,käsperle
-gdc,pzj2.0,66832,67001,käsperle,66971,66974,ich,käsperle
-gdc,pzj2.0,67049,67123,käsperle,67068,67074,meinen,käsperle
-gdc,pzj2.0,67166,67285,käsperle,67194,67197,ich,käsperle
-gdc,pzj2.0,67166,67285,käsperle,67281,67284,ich,käsperle
-gdc,pzj2.0,67430,67560,käsperle,67479,67482,ich,käsperle
-gdc,pzj2.0,67430,67560,käsperle,67550,67553,mir,käsperle
-gdc,pzj2.0,67608,67888,käsperle,67633,67636,ich,käsperle
-gdc,pzj2.0,67608,67888,käsperle,67665,67668,mir,käsperle
-gdc,pzj2.0,67608,67888,käsperle,67733,67736,mir,käsperle
-gdc,pzj2.0,67608,67888,käsperle,67748,67751,ich,käsperle
-gdc,pzj2.0,67608,67888,käsperle,67771,67775,mein,käsperle
-gdc,pzj2.0,67930,68166,käsperle,67964,67967,mir,käsperle
-gdc,pzj2.0,67930,68166,käsperle,68029,68032,ich,käsperle
-gdc,pzj2.0,68195,68359,käsperle,68329,68335,meinen,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68615,68618,ich,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68721,68724,ich,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68741,68744,ich,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68745,68748,mir,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68774,68777,ich,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68809,68812,ich,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68945,68948,mir,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68964,68968,mein,käsperle
-gdc,pzj2.0,68500,69133,käsperle,68986,68989,ich,käsperle
-gdc,pzj2.0,69479,69603,hanns_von_stauffen,69502,69505,mir,hanns_von_stauffen
-gdc,pzj2.0,69479,69603,hanns_von_stauffen,69568,69571,ich,hanns_von_stauffen
-gdc,pzj2.0,69761,69883,hanns_von_stauffen,69774,69777,ich,hanns_von_stauffen
-gdc,pzj2.0,69761,69883,hanns_von_stauffen,69862,69865,ich,hanns_von_stauffen
-gdc,pzj2.0,70412,70541,örtchen,70525,70528,mir,örtchen
-gdc,pzj2.0,70632,71049,jeriel,70648,70652,mich,jeriel
-gdc,pzj2.0,70632,71049,jeriel,70662,70668,meinen,jeriel
-gdc,pzj2.0,71175,71325,hanns_von_stauffen,71192,71195,ich,hanns_von_stauffen
-gdc,pzj2.0,71175,71325,hanns_von_stauffen,71196,71201,meine,hanns_von_stauffen
-gdc,pzj2.0,71175,71325,hanns_von_stauffen,71241,71246,meine,hanns_von_stauffen
-gdc,pzj2.0,71175,71325,hanns_von_stauffen,71258,71263,meine,hanns_von_stauffen
-gdc,pzj2.0,71175,71325,hanns_von_stauffen,71276,71279,ich,hanns_von_stauffen
-gdc,pzj2.0,71175,71325,hanns_von_stauffen,71297,71301,mein,hanns_von_stauffen
-gdc,pzj2.0,71754,71944,hanns_von_stauffen,71781,71784,ich,hanns_von_stauffen
-gdc,pzj2.0,71754,71944,hanns_von_stauffen,71858,71863,meine,hanns_von_stauffen
-gdc,pzj2.0,71754,71944,hanns_von_stauffen,71881,71884,mir,hanns_von_stauffen
-gdc,pzj2.0,72291,72342,hanns_von_stauffen,72318,72323,meine,hanns_von_stauffen
-gdc,pzj2.0,72553,72671,otto,72570,72574,mich,otto
-gdc,pzj2.0,72553,72671,otto,72590,72593,Ich,otto
-gdc,pzj2.0,72553,72671,otto,72602,72607,meine,otto
-gdc,pzj2.0,73192,73248,mann,73216,73219,ich,mann
-gdc,pzj2.0,73253,73361,günther,73337,73341,mich,günther
-gdc,pzj2.0,73367,73450,mann,73388,73391,Ich,mann
-gdc,pzj2.0,73367,73450,mann,73442,73445,ich,mann
-gdc,pzj2.0,73455,73546,günther,73514,73517,ich,günther
-gdc,pzj2.0,73551,73613,mann,73570,73574,mich,mann
-gdc,pzj2.0,73551,73613,mann,73588,73591,mir,mann
-gdc,pzj2.0,73618,73790,günther,73637,73640,ich,günther
-gdc,pzj2.0,73618,73790,günther,73659,73662,ich,günther
-gdc,pzj2.0,73618,73790,günther,73692,73696,mein,günther
-gdc,pzj2.0,73618,73790,günther,73726,73729,ich,günther
-gdc,pzj2.0,73618,73790,günther,73769,73772,mir,günther
-gdc,pzj2.0,73858,73901,günther,73886,73889,ich,günther
-gdc,pzj2.0,74288,74381,boodsheim,74362,74365,ich,boodsheim
-gdc,pzj2.0,74386,74489,günther,74415,74418,ich,günther
-gdc,pzj2.0,74386,74489,günther,74456,74461,meine,günther
-gdc,pzj2.0,74737,74788,günther,74747,74750,Ich,günther
-gdc,pzj2.0,74737,74788,günther,74775,74778,ich,günther
-gdc,pzj2.0,74793,75668,mann,74839,74842,ich,mann
-gdc,pzj2.0,75674,76027,hanns_von_stauffen,75755,75758,ich,hanns_von_stauffen
-gdc,pzj2.0,76033,76302,günther,76074,76077,ich,günther
-gdc,pzj2.0,76033,76302,günther,76126,76129,Ich,günther
-gdc,pzj2.0,76400,76459,günther,76436,76439,ich,günther
-gdc,pzj2.0,76498,76655,otto,76505,76508,Ich,otto
-gdc,pzj2.0,76498,76655,otto,76592,76595,ich,otto
-gdc,pzj2.0,77992,78234,otto,78063,78069,meiner,otto
-gdc,pzj2.0,77992,78234,otto,78108,78112,mich,otto
-gdc,pzj2.0,77992,78234,otto,78144,78148,mein,otto
-gdc,pzj2.0,77992,78234,otto,78210,78213,ich,otto
-gdc,pzj2.0,78370,78417,otto,78385,78390,Meine,otto
-gdc,pzj2.0,78423,78611,geist,78544,78550,meiner,geist
-gdc,pzj2.0,78677,78757,_stage,78677,78699,Herberge am Wienerberg,die-Herberge
-gdc,pzj2.0,78677,78757,_stage,78686,78699,am Wienerberg,am-Wienerberg
-gdc,pzj2.0,78677,78757,_stage,78701,78709,Käsperle,käsperle
-gdc,pzj2.0,78677,78757,_stage,78716,78724,am Tisch,am-Tisch
-gdc,pzj2.0,78677,78757,_stage,78747,78754,Frowald,frowald
-gdc,pzj2.0,78760,78983,käsperle,78831,78835,sich,günther
-gdc,pzj2.0,78760,78983,käsperle,78836,78852,mein Herr Ritter,günther
-gdc,pzj2.0,78760,78983,käsperle,78836,78840,mein,käsperle
-gdc,pzj2.0,78760,78983,käsperle,78853,78860,im Wald,den-Forst
-gdc,pzj2.0,78760,78983,käsperle,78874,78893,dem Meister Luzifer,dem-Meister-Luzifer
-gdc,pzj2.0,78760,78983,käsperle,78915,78917,er,günther
-gdc,pzj2.0,78760,78983,käsperle,78928,78931,ich,käsperle
-gdc,pzj2.0,78760,78983,käsperle,78963,78966,mir,käsperle
-gdc,pzj2.0,78989,79026,frowald,79013,79025,guter Freund,käsperle
-gdc,pzj2.0,79077,79159,frowald,79094,79097,ich,frowald
-gdc,pzj2.0,79077,79159,frowald,79110,79113,ihr,käsperle
-gdc,pzj2.0,79077,79159,frowald,79118,79122,euer,käsperle
-gdc,pzj2.0,79164,79280,käsperle,79182,79185,mir,käsperle
-gdc,pzj2.0,79164,79280,käsperle,79213,79216,ich,käsperle
-gdc,pzj2.0,79164,79280,käsperle,79217,79221,euch,frowald
-gdc,pzj2.0,79164,79280,käsperle,79231,79234,ich,käsperle
-gdc,pzj2.0,79164,79280,käsperle,79243,79247,euch,frowald
-gdc,pzj2.0,79164,79280,käsperle,79258,79263,eurer,frowald
-gdc,pzj2.0,79285,79363,frowald,79295,79298,Ihr,käsperle
-gdc,pzj2.0,79285,79363,frowald,79313,79325,guter Freund,käsperle
-gdc,pzj2.0,79368,79420,käsperle,79387,79390,mir,käsperle
-gdc,pzj2.0,79368,79420,käsperle,79406,79409,ich,käsperle
-gdc,pzj2.0,79425,79531,frowald,79435,79449,Ein Wallfahrer,Ein-Wallfahrer
-gdc,pzj2.0,79425,79531,frowald,79464,79476,die Herberge,die-Herberge
-gdc,pzj2.0,79425,79531,frowald,79486,79495,dem Wirth,veit
-gdc,pzj2.0,79425,79531,frowald,79513,79517,euch,käsperle
-gdc,pzj2.0,79536,79678,käsperle,79567,79570,ich,käsperle
-gdc,pzj2.0,79536,79678,käsperle,79582,79585,ich,käsperle
-gdc,pzj2.0,79536,79678,käsperle,79644,79658,Mein Gutthäter,Ein-Wallfahrer
-gdc,pzj2.0,79536,79678,käsperle,79644,79648,Mein,käsperle
-gdc,pzj2.0,79730,79753,_stage,79730,79736,Vorige,Vorige
-gdc,pzj2.0,79730,79753,_stage,79738,79752,Ritter Günther,günther
-gdc,pzj2.0,79756,79799,günther,79778,79798,mein lieber Käsperle,käsperle
-gdc,pzj2.0,79756,79799,günther,79778,79782,mein,günther
-gdc,pzj2.0,79804,79888,käsperle,79857,79860,ihn,günther
-gdc,pzj2.0,79804,79888,käsperle,79861,79871,der Teufel,dem-Meister-Luzifer
-gdc,pzj2.0,79893,79944,günther,79907,79910,ich,günther
-gdc,pzj2.0,79893,79944,günther,79925,79928,dir,käsperle
-gdc,pzj2.0,79949,80064,käsperle,80004,80007,ihr,günther
-gdc,pzj2.0,79949,80064,käsperle,80020,80031,Herr Ritter,günther
-gdc,pzj2.0,79949,80064,käsperle,80040,80044,euch,günther
-gdc,pzj2.0,80069,80181,günther,80079,80082,Ich,günther
-gdc,pzj2.0,80069,80181,günther,80101,80105,mein,günther
-gdc,pzj2.0,80069,80181,günther,80170,80175,meine,günther
-gdc,pzj2.0,80186,80233,käsperle,80197,80200,Ich,käsperle
-gdc,pzj2.0,80186,80233,käsperle,80208,80212,euch,günther
-gdc,pzj2.0,80238,80300,günther,80253,80255,du,käsperle
-gdc,pzj2.0,80238,80300,günther,80280,80282,du,käsperle
-gdc,pzj2.0,80238,80300,günther,80283,80286,mir,günther
-gdc,pzj2.0,80238,80300,günther,80290,80299,den Forst,den-Forst
-gdc,pzj2.0,80325,80338,günther,80335,80337,Du,käsperle
-gdc,pzj2.0,80343,80418,käsperle,80377,80380,ich,käsperle
-gdc,pzj2.0,80423,80516,günther,80433,80440,Schurke,käsperle
-gdc,pzj2.0,80423,80516,günther,80447,80449,du,käsperle
-gdc,pzj2.0,80423,80516,günther,80459,80465,meinem,günther
-gdc,pzj2.0,80423,80516,günther,80480,80482,du,käsperle
-gdc,pzj2.0,80423,80516,günther,80483,80486,mir,günther
-gdc,pzj2.0,80423,80516,günther,80507,80510,ich,günther
-gdc,pzj2.0,80521,80644,käsperle,80540,80543,ihr,günther
-gdc,pzj2.0,80521,80644,käsperle,80548,80556,Menschen,Menschen
-gdc,pzj2.0,80521,80644,käsperle,80588,80599,den Luzifer,dem-Meister-Luzifer
-gdc,pzj2.0,80521,80644,käsperle,80605,80608,ich,käsperle
-gdc,pzj2.0,80521,80644,käsperle,80633,80636,ich,käsperle
-gdc,pzj2.0,80649,80727,günther,80659,80667,Dummkopf,käsperle
-gdc,pzj2.0,80649,80727,günther,80669,80671,du,käsperle
-gdc,pzj2.0,80649,80727,günther,80683,80687,mich,günther
-gdc,pzj2.0,80649,80727,günther,80691,80707,einem Einsiedler,geist
-gdc,pzj2.0,80649,80727,günther,80711,80726,den nahen Forst,den-Forst
-gdc,pzj2.0,80733,80841,käsperle,80747,80763,einem Einsiedler,geist
-gdc,pzj2.0,80733,80841,käsperle,80816,80819,ich,käsperle
-gdc,pzj2.0,80733,80841,käsperle,80824,80828,euch,günther
-gdc,pzj2.0,80847,80895,günther,80857,80860,Ich,günther
-gdc,pzj2.0,80847,80895,günther,80869,80873,dich,käsperle
-gdc,pzj2.0,80847,80895,günther,80878,80890,der Herberge,die-Herberge
-gdc,pzj2.0,80910,80922,_stage,80913,80921,Käsperle,käsperle
-gdc,pzj2.0,80901,81071,frowald,80935,80947,guter Freund,käsperle
-gdc,pzj2.0,80901,81071,frowald,80954,80968,der Einsiedler,geist
-gdc,pzj2.0,80901,81071,frowald,80996,80998,er,geist
-gdc,pzj2.0,80901,81071,frowald,81012,81016,sich,geist
-gdc,pzj2.0,80901,81071,frowald,81053,81057,euch,käsperle
-gdc,pzj2.0,81086,81117,_stage,81092,81096,sich,käsperle
-gdc,pzj2.0,81086,81117,_stage,81107,81116,den Tisch,am-Tisch
-gdc,pzj2.0,81076,81152,käsperle,81120,81122,Er,käsperle
-gdc,pzj2.0,81076,81152,käsperle,81139,81141,er,käsperle
-gdc,pzj2.0,81157,81183,günther,81174,81182,Käsperle,käsperle
-gdc,pzj2.0,81188,81227,käsperle,81204,81207,ich,käsperle
-gdc,pzj2.0,81233,81352,frowald,81243,81246,Ihr,käsperle
-gdc,pzj2.0,81233,81352,frowald,81254,81266,euren Ritter,günther
-gdc,pzj2.0,81233,81352,frowald,81254,81259,euren,käsperle
-gdc,pzj2.0,81233,81352,frowald,81284,81296,guter Freund,käsperle
-gdc,pzj2.0,81233,81352,frowald,81314,81317,ihm,günther
-gdc,pzj2.0,81357,81491,käsperle,81373,81379,meinen,käsperle
-gdc,pzj2.0,81357,81491,käsperle,81402,81405,ich,käsperle
-gdc,pzj2.0,81357,81491,käsperle,81412,81427,die Akzidenzeln,die-Akzidenzeln
-gdc,pzj2.0,81357,81491,käsperle,81442,81445,die,die-Akzidenzeln
-gdc,pzj2.0,81357,81491,käsperle,81446,81449,mir,käsperle
-gdc,pzj2.0,81496,81585,günther,81529,81540,der Schurke,käsperle
-gdc,pzj2.0,81496,81585,günther,81558,81560,du,käsperle
-gdc,pzj2.0,81496,81585,günther,81561,81565,dich,käsperle
-gdc,pzj2.0,81600,81636,_stage,81610,81613,ihm,günther
-gdc,pzj2.0,81590,81751,käsperle,81643,81661,lieber Herr Ritter,günther
-gdc,pzj2.0,81590,81751,käsperle,81668,81672,mich,käsperle
-gdc,pzj2.0,81590,81751,käsperle,81702,81705,ihr,günther
-gdc,pzj2.0,81590,81751,käsperle,81733,81736,ihr,günther
-gdc,pzj2.0,81590,81751,käsperle,81737,81741,mich,käsperle
-gdc,pzj2.0,81765,81784,_stage,81771,81775,sein,günther
-gdc,pzj2.0,81756,81820,günther,81787,81794,Schurke,käsperle
-gdc,pzj2.0,81756,81820,günther,81795,81797,du,käsperle
-gdc,pzj2.0,81756,81820,günther,81806,81808,du,käsperle
-gdc,pzj2.0,81756,81820,günther,81809,81813,mich,günther
-gdc,pzj2.0,81825,82020,käsperle,81873,81876,ich,käsperle
-gdc,pzj2.0,81825,82020,käsperle,81968,81980,zum Belzebub,dem-Meister-Luzifer
-gdc,pzj2.0,81825,82020,käsperle,82004,82006,Er,günther
-gdc,pzj2.0,81825,82020,käsperle,82012,82015,ihn,käsperle
-gdc,pzj2.0,82072,82087,_stage,82072,82079,Frowald,frowald
-gdc,pzj2.0,82798,82883,_stage,82809,82825,der Stauffenburg,der-Stauffenburg
-gdc,pzj2.0,82798,82883,_stage,82827,82841,Hanns Stauffen,hanns
-gdc,pzj2.0,82798,82883,_stage,82868,82882,der Schloßvogt,berthold
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,82903,82906,ich,hanns_von_stauffen
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,82957,82960,mir,hanns_von_stauffen
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,83032,83041,der Vater,der-Vater
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,83061,83064,ihm,der-Vater
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,83098,83101,ihm,der-Vater
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,83123,83133,Löbenstein,löbenstein
-gdc,pzj2.0,82886,83199,hanns_von_stauffen,83172,83178,deiner,löbenstein
-gdc,pzj2.0,83204,83311,berthold,83215,83226,Herr Ritter,hanns
-gdc,pzj2.0,83204,83311,berthold,83228,83254,Eine alte blinde Bettlerin,mathilde
-gdc,pzj2.0,83204,83311,berthold,83271,83283,einen Knaben,jeriel
-gdc,pzj2.0,83204,83311,berthold,83294,83298,euch,hanns
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83324,83327,Ich,hanns_von_stauffen
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83393,83396,ich,hanns_von_stauffen
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83397,83401,mein,hanns_von_stauffen
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83443,83495,"die Strenge, die ich an meinem einzigen Kind ausübte","die-Strenge,-die-ich-an-meinem-einzigen-Kind-ausübte"
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83456,83459,die,"die-Strenge,-die-ich-an-meinem-einzigen-Kind-ausübte"
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83460,83463,ich,hanns_von_stauffen
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83467,83487,meinem einzigen Kind,mathilde
-gdc,pzj2.0,83316,83497,hanns_von_stauffen,83467,83473,meinem,hanns_von_stauffen
-gdc,pzj2.0,83502,83605,berthold,83518,83521,ich,berthold
-gdc,pzj2.0,83502,83605,berthold,83522,83534,die Hülflose,mathilde
-gdc,pzj2.0,83502,83605,berthold,83584,83592,der Burg,der-Stauffenburg
-gdc,pzj2.0,83610,83805,hanns_von_stauffen,83635,83637,du,berthold
-gdc,pzj2.0,83610,83805,hanns_von_stauffen,83652,83655,ihr,mathilde
-gdc,pzj2.0,83610,83805,hanns_von_stauffen,83679,83682,ihr,mathilde
-gdc,pzj2.0,83610,83805,hanns_von_stauffen,83697,83699,du,berthold
-gdc,pzj2.0,83610,83805,hanns_von_stauffen,83713,83716,mir,hanns_von_stauffen
-gdc,pzj2.0,83610,83805,hanns_von_stauffen,83781,83787,meiner,hanns_von_stauffen
-gdc,pzj2.0,83810,83888,berthold,83829,83833,euch,hanns
-gdc,pzj2.0,83810,83888,berthold,83834,83838,Gott,Gott
-gdc,pzj2.0,83810,83888,berthold,83856,83866,edler Herr,hanns
-gdc,pzj2.0,83810,83888,berthold,83884,83887,sie,jeriel-und-mathilde
-gdc,pzj2.0,83939,84017,_stage,83939,83945,Vorige,Vorige
-gdc,pzj2.0,83939,84017,_stage,83947,83955,Mathilde,mathilde
-gdc,pzj2.0,83939,84017,_stage,83998,84004,Jeriel,jeriel
-gdc,pzj2.0,84020,84058,hanns_von_stauffen,84041,84043,du,mathilde
-gdc,pzj2.0,84020,84058,hanns_von_stauffen,84045,84057,Unglückliche,mathilde
-gdc,pzj2.0,84063,84382,mathilde,84099,84108,Mein Mann,Mein-Mann
-gdc,pzj2.0,84063,84382,mathilde,84099,84103,Mein,mathilde
-gdc,pzj2.0,84063,84382,mathilde,84146,84148,er,Mein-Mann
-gdc,pzj2.0,84063,84382,mathilde,84185,84198,die Sarazenen,die-Sarazenen
-gdc,pzj2.0,84063,84382,mathilde,84200,84203,Ich,mathilde
-gdc,pzj2.0,84063,84382,mathilde,84234,84248,jener Barbaren,die-Sarazenen
-gdc,pzj2.0,84063,84382,mathilde,84251,84254,sie,die-Sarazenen
-gdc,pzj2.0,84063,84382,mathilde,84265,84269,mich,mathilde
-gdc,pzj2.0,84063,84382,mathilde,84311,84329,Gottes schöne Erde,Gottes-schöne-Erde
-gdc,pzj2.0,84063,84382,mathilde,84311,84317,Gottes,Gott
-gdc,pzj2.0,84063,84382,mathilde,84334,84338,mich,mathilde
-gdc,pzj2.0,84063,84382,mathilde,84363,84368,ihrer,Gottes-schöne-Erde
-gdc,pzj2.0,84388,84416,hanns_von_stauffen,84405,84415,Armes Weib,mathilde
-gdc,pzj2.0,84421,84549,mathilde,84442,84446,mich,mathilde
-gdc,pzj2.0,84421,84549,mathilde,84447,84456,mein Sohn,jeriel
-gdc,pzj2.0,84421,84549,mathilde,84447,84451,mein,mathilde
-gdc,pzj2.0,84421,84549,mathilde,84467,84480,gute Menschen,Menschen
-gdc,pzj2.0,84421,84549,mathilde,84492,84495,die,Menschen
-gdc,pzj2.0,84421,84549,mathilde,84496,84499,mir,mathilde
-gdc,pzj2.0,84421,84549,mathilde,84521,84525,mich,mathilde
-gdc,pzj2.0,84561,84587,_stage,84567,84578,den Kleinen,jeriel
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84601,84603,du,jeriel
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84618,84628,gutes Kind,jeriel
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84630,84632,du,jeriel
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84644,84647,mir,hanns_von_stauffen
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84658,84661,ich,hanns_von_stauffen
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84680,84691,meiner Habe,meiner-Habe
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84680,84686,meiner,hanns_von_stauffen
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84697,84718,meine einzige Tochter,mathilde
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84697,84702,meine,hanns_von_stauffen
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84725,84728,sie,die-Buben
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84729,84733,mich,hanns_von_stauffen
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84755,84764,die Buben,die-Buben
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84766,84768,Du,jeriel
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84785,84788,mir,hanns_von_stauffen
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84798,84812,lieber Kleiner,jeriel
-gdc,pzj2.0,84554,84830,hanns_von_stauffen,84826,84829,ihm,jeriel
-gdc,pzj2.0,84836,84941,jeriel,84859,84869,die Mutter,mathilde
-gdc,pzj2.0,84836,84941,jeriel,84888,84891,sie,mathilde
-gdc,pzj2.0,84836,84941,jeriel,84917,84920,sie,mathilde
-gdc,pzj2.0,84836,84941,jeriel,84921,84925,mich,jeriel
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,84954,84962,Berthold,berthold
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,84970,84980,die Mutter,mathilde
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,84981,84994,dieses Kindes,jeriel
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,84998,85002,mein,hanns_von_stauffen
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85030,85033,ihr,mathilde
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85045,85048,sie,mathilde
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85060,85079,diese arme Menschen,jeriel-und-mathilde
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85087,85090,mir,hanns_von_stauffen
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85103,85117,meiner Tochter,mathilde
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85103,85109,meiner,hanns_von_stauffen
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85129,85142,diesen Knaben,jeriel
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85148,85151,ich,hanns_von_stauffen
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85178,85181,ihn,jeriel
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85212,85214,er,jeriel
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85229,85241,meiner Güter,meiner-Habe
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85229,85235,meiner,hanns_von_stauffen
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85254,85257,mir,hanns_von_stauffen
-gdc,pzj2.0,84946,85323,hanns_von_stauffen,85269,85272,ich,hanns_von_stauffen
-gdc,pzj2.0,85328,85459,mathilde,85353,85374,eure Tochter Mathilde,mathilde
-gdc,pzj2.0,85328,85459,mathilde,85353,85357,eure,hanns
-gdc,pzj2.0,85328,85459,mathilde,85392,85395,sie,mathilde
-gdc,pzj2.0,85328,85459,mathilde,85413,85436,diese ungebetenen Erben,jeriel-und-mathilde
-gdc,pzj2.0,85328,85459,mathilde,85441,85451,eurer Burg,der-Stauffenburg
-gdc,pzj2.0,85328,85459,mathilde,85441,85446,eurer,hanns
-gdc,pzj2.0,85464,85517,hans,85482,85490,Mathilde,mathilde
-gdc,pzj2.0,85464,85517,hans,85493,85506,meine Tochter,mathilde
-gdc,pzj2.0,85464,85517,hans,85493,85498,meine,hans
-gdc,pzj2.0,85464,85517,hans,85514,85516,du,mathilde
-gdc,pzj2.0,85522,85556,jeriel,85541,85544,sie,mathilde
-gdc,pzj2.0,85567,85622,_stage,85572,85575,ihn,jeriel
-gdc,pzj2.0,85561,85713,hans,85630,85633,sie,mathilde
-gdc,pzj2.0,85561,85713,hans,85646,85652,Jeriel,jeriel
-gdc,pzj2.0,85561,85713,hans,85686,85695,Mathilden,mathilde
-gdc,pzj2.0,85561,85713,hans,85697,85699,er,jeriel
-gdc,pzj2.0,85719,85778,mathilde,85730,85733,Sie,mathilde
-gdc,pzj2.0,85719,85778,mathilde,85753,85758,euren,hanns
-gdc,pzj2.0,85719,85778,mathilde,85767,85777,Mein Vater,hanns
-gdc,pzj2.0,85719,85778,mathilde,85767,85771,Mein,mathilde
-gdc,pzj2.0,85783,85816,hans,85790,85798,Mathilde,mathilde
-gdc,pzj2.0,85856,86417,hans,85871,85875,mein,hans
-gdc,pzj2.0,85856,86417,hans,85883,85891,Mathilde,mathilde
-gdc,pzj2.0,85856,86417,hans,85907,85935,der wiedergefundenen Tochter,mathilde
-gdc,pzj2.0,85856,86417,hans,85975,85978,ich,hans
-gdc,pzj2.0,85856,86417,hans,86058,86066,Berthold,berthold
-gdc,pzj2.0,85856,86417,hans,86076,86091,mehrere Knechte,mehrere-Knechte
-gdc,pzj2.0,85856,86417,hans,86097,86123,der Herberge am Wienerberg,die-Herberge
-gdc,pzj2.0,85856,86417,hans,86110,86123,am Wienerberg,am-Wienerberg
-gdc,pzj2.0,85856,86417,hans,86138,86141,sie,mehrere-Knechte
-gdc,pzj2.0,85856,86417,hans,86142,86149,Günther,günther
-gdc,pzj2.0,85856,86417,hans,86227,86235,Berthold,berthold
-gdc,pzj2.0,85856,86417,hans,86240,86243,ich,hans
-gdc,pzj2.0,85856,86417,hans,86249,86253,mich,hans
-gdc,pzj2.0,85856,86417,hans,86281,86284,ich,hans
-gdc,pzj2.0,85856,86417,hans,86290,86303,meine Tochter,mathilde
-gdc,pzj2.0,85856,86417,hans,86290,86295,meine,hans
-gdc,pzj2.0,85856,86417,hans,86337,86340,mir,hans
-gdc,pzj2.0,85856,86417,hans,86354,86362,der Welt,Gottes-schöne-Erde
-gdc,pzj2.0,85856,86417,hans,86369,86372,ich,hans
-gdc,pzj2.0,85856,86417,hans,86373,86376,sie,Gottes-schöne-Erde
-gdc,pzj2.0,86422,86467,mathilde,86435,86446,guter Vater,hanns
-gdc,pzj2.0,86422,86467,mathilde,86453,86456,ihm,hanns
-gdc,pzj2.0,86473,86666,hans,86480,86483,Ich,hans
-gdc,pzj2.0,86473,86666,hans,86509,86512,ich,hans
-gdc,pzj2.0,86473,86666,hans,86542,86545,ich,hans
-gdc,pzj2.0,86473,86666,hans,86553,86556,ich,hans
-gdc,pzj2.0,86473,86666,hans,86562,86575,meine Tochter,mathilde
-gdc,pzj2.0,86473,86666,hans,86562,86567,meine,hans
-gdc,pzj2.0,86473,86666,hans,86592,86600,der Mann,der-Mann
-gdc,pzj2.0,86473,86666,hans,86641,86644,der,der-Mann
-gdc,pzj2.0,86719,86749,_stage,86719,86727,Herberge,die-Herberge
-gdc,pzj2.0,86719,86749,_stage,86729,86742,Ritter Eckard,eckard
-gdc,pzj2.0,86719,86749,_stage,86744,86748,Veit,veit
-gdc,pzj2.0,86752,86823,veit,86759,86762,Ihr,eckard
-gdc,pzj2.0,86752,86823,veit,86769,86780,Herr Ritter,eckard
-gdc,pzj2.0,86752,86823,veit,86791,86800,die Sache,die-Sache
-gdc,pzj2.0,86828,86856,eckard,86845,86855,eine Sache,die-Sache
-gdc,pzj2.0,86861,86926,veit,86872,86886,meiner Tochter,örtchen
-gdc,pzj2.0,86861,86926,veit,86872,86878,meiner,veit
-gdc,pzj2.0,86861,86926,veit,86888,86925,Sie soll in's Himmelsnahmen heurathen,die-Sache
-gdc,pzj2.0,86861,86926,veit,86888,86891,Sie,örtchen
-gdc,pzj2.0,86931,86962,eckard,86940,86943,Ich,eckard
-gdc,pzj2.0,86931,86962,eckard,86952,86955,ihr,örtchen
-gdc,pzj2.0,86967,87210,veit,86983,86986,ich,veit
-gdc,pzj2.0,86967,87210,veit,87005,87014,der Vogel,der-Vogel
-gdc,pzj2.0,86967,87210,veit,87031,87033,er,der-Vogel
-gdc,pzj2.0,86967,87210,veit,87053,87064,das Mädchen,das-Mädchen
-gdc,pzj2.0,86967,87210,veit,87085,87088,sie,das-Mädchen
-gdc,pzj2.0,86967,87210,veit,87157,87160,sie,das-Mädchen
-gdc,pzj2.0,86967,87210,veit,87191,87200,das Mädel,das-Mädchen
-gdc,pzj2.0,87215,87256,eckard,87224,87227,Ihr,veit
-gdc,pzj2.0,87261,87470,veit,87314,87317,ich,veit
-gdc,pzj2.0,87261,87470,veit,87340,87343,ich,veit
-gdc,pzj2.0,87261,87470,veit,87374,87377,mir,veit
-gdc,pzj2.0,87261,87470,veit,87387,87398,Herr Ritter,eckard
-gdc,pzj2.0,87261,87470,veit,87408,87414,meinem,veit
-gdc,pzj2.0,87521,87651,veit,87576,87579,mir,veit
-gdc,pzj2.0,87521,87651,veit,87580,87588,der Bube,hans
-gdc,pzj2.0,87521,87651,veit,87589,87598,die Dirne,örtchen
-gdc,pzj2.0,87656,87694,eckard,87665,87668,Ihr,veit
-gdc,pzj2.0,88554,88569,_stage,88554,88562,Märtchen,örtchen
-gdc,pzj2.0,88554,88569,_stage,88564,88568,Hans,hans
-gdc,pzj2.0,88572,88672,hans,88585,88600,liebes Märtchen,örtchen
-gdc,pzj2.0,88572,88672,hans,88613,88616,wir,hans-und-märtchen
-gdc,pzj2.0,88572,88672,hans,88647,88650,wir,hans-und-märtchen
-gdc,pzj2.0,88572,88672,hans,88651,88654,uns,hans-und-märtchen
-gdc,pzj2.0,88677,88879,örtchen,88730,88739,der Vater,veit
-gdc,pzj2.0,88677,88879,örtchen,88759,88761,Du,hans
-gdc,pzj2.0,88677,88879,örtchen,88801,88803,du,hans
-gdc,pzj2.0,88677,88879,örtchen,88830,88833,ich,örtchen
-gdc,pzj2.0,88677,88879,örtchen,88842,88845,ich,örtchen
-gdc,pzj2.0,88677,88879,örtchen,88852,88856,dich,hans
-gdc,pzj2.0,88884,88926,hans,88900,88903,ich,hans
-gdc,pzj2.0,88884,88926,hans,88904,88908,dich,örtchen
-gdc,pzj2.0,88931,89091,örtchen,88962,88964,du,hans
-gdc,pzj2.0,88931,89091,örtchen,88996,88999,wir,hans-und-märtchen
-gdc,pzj2.0,88931,89091,örtchen,89026,89028,du,hans
-gdc,pzj2.0,88931,89091,örtchen,89059,89068,der Vater,veit
-gdc,pzj2.0,89096,89245,hans,89115,89130,liebes Märtchen,örtchen
-gdc,pzj2.0,89096,89245,hans,89132,89135,wir,hans-und-märtchen
-gdc,pzj2.0,89096,89245,hans,89177,89186,den Vater,veit
-gdc,pzj2.0,89096,89245,hans,89205,89208,uns,hans-und-märtchen
-gdc,pzj2.0,89250,89479,hans,89297,89305,Märtchen,örtchen
-gdc,pzj2.0,89250,89479,hans,89306,89310,mein,
-gdc,pzj2.0,89250,89479,hans,89328,89331,sie,örtchen
-gdc,pzj2.0,89250,89479,hans,89332,89336,mich,hans
-gdc,pzj2.0,89250,89479,hans,89359,89362,ich,hans
-gdc,pzj2.0,89250,89479,hans,89396,89399,ich,hans
-gdc,pzj2.0,89250,89479,hans,89419,89427,der Welt,Gottes-schöne-Erde
-gdc,pzj2.0,89486,89711,örtchen,89550,89554,Sich,Ein-Blumenstrauß
-gdc,pzj2.0,89486,89711,örtchen,89564,89570,meinem,örtchen
-gdc,pzj2.0,89486,89711,örtchen,89584,89600,Ein Blumenstrauß,Ein-Blumenstrauß
-gdc,pzj2.0,89486,89711,örtchen,89611,89614,ich,örtchen
-gdc,pzj2.0,89717,89999,,89783,89785,du,örtchen
-gdc,pzj2.0,89717,89999,,89804,89807,ich,örtchen
-gdc,pzj2.0,89717,89999,,89887,89890,Ich,hans
-gdc,pzj2.0,89717,89999,,89896,89900,dich,örtchen
-gdc,pzj2.0,89717,89999,,89915,89917,du,örtchen
-gdc,pzj2.0,89717,89999,,89925,89929,mich,hans
-gdc,pzj2.0,89717,89999,,89945,89948,ich,hans
-gdc,pzj2.0,90049,90127,_stage,90049,90053,Wald,den-Forst
-gdc,pzj2.0,90049,90127,_stage,90071,90092,eine Einsiedler-Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,90049,90127,_stage,90094,90108,Ritter Günther,günther
-gdc,pzj2.0,90049,90127,_stage,90114,90117,ihm,günther
-gdc,pzj2.0,90049,90127,_stage,90118,90126,Käsperle,käsperle
-gdc,pzj2.0,90130,90244,günther,90147,90149,du,käsperle
-gdc,pzj2.0,90130,90244,günther,90162,90165,wir,käsperle-und-günther
-gdc,pzj2.0,90130,90244,günther,90198,90243,"die Einsiedler-Hütte, die wir zu suchen haben","die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,90130,90244,günther,90220,90223,die,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,90130,90244,günther,90224,90227,wir,käsperle-und-günther
-gdc,pzj2.0,90259,90275,_stage,90270,90274,sich,käsperle
-gdc,pzj2.0,90249,90384,käsperle,90302,90307,unser,käsperle-und-günther
-gdc,pzj2.0,90249,90384,käsperle,90364,90367,wir,käsperle-und-günther
-gdc,pzj2.0,90389,90472,günther,90403,90405,du,käsperle
-gdc,pzj2.0,90389,90472,günther,90411,90415,dein,käsperle
-gdc,pzj2.0,90389,90472,günther,90464,90471,Bursche,käsperle
-gdc,pzj2.0,90556,90723,käsperle,90572,90575,ich,käsperle
-gdc,pzj2.0,90556,90723,käsperle,90594,90597,ich,käsperle
-gdc,pzj2.0,90556,90723,käsperle,90598,90602,euch,günther
-gdc,pzj2.0,90556,90723,käsperle,90623,90626,ich,käsperle
-gdc,pzj2.0,90556,90723,käsperle,90661,90664,ich,käsperle
-gdc,pzj2.0,90556,90723,käsperle,90665,90669,mich,käsperle
-gdc,pzj2.0,90728,90767,günther,90738,90743,Memme,käsperle
-gdc,pzj2.0,90820,90849,_stage,90820,90826,Vorige,Vorige
-gdc,pzj2.0,90820,90849,_stage,90828,90833,Marie,geist
-gdc,pzj2.0,90852,90916,geist,90872,90883,meine Söhne,käsperle-und-günther
-gdc,pzj2.0,90852,90916,geist,90872,90877,meine,geist
-gdc,pzj2.0,90852,90916,geist,90888,90915,der Wohnung der Dürftigkeit,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,90921,90960,günther,90942,90959,ehrwürdiger Vater,geist
-gdc,pzj2.0,90965,91087,geist,90979,90982,ihr,käsperle-und-günther
-gdc,pzj2.0,90965,91087,geist,91035,91052,einige Erdfrüchte,einige-Erdfrüchte
-gdc,pzj2.0,90965,91087,geist,91072,91075,mir,geist
-gdc,pzj2.0,91102,91111,_stage,91106,91110,sich,käsperle
-gdc,pzj2.0,91092,91179,käsperle,91163,91166,man,man
-gdc,pzj2.0,91184,91372,günther,91208,91225,ehrwürdiger Vater,geist
-gdc,pzj2.0,91184,91372,günther,91232,91238,meinem,günther
-gdc,pzj2.0,91184,91372,günther,91257,91302,"eure Früchte, gewürzt von freundlichen Händen",einige-Erdfrüchte
-gdc,pzj2.0,91184,91372,günther,91257,91261,eure,geist
-gdc,pzj2.0,91184,91372,günther,91310,91313,mir,günther
-gdc,pzj2.0,91184,91372,günther,91334,91349,manchem Reichen,manchem-Reichen
-gdc,pzj2.0,91184,91372,günther,91350,91355,seine,manchem-Reichen
-gdc,pzj2.0,91387,91396,_stage,91391,91395,sich,käsperle
-gdc,pzj2.0,91377,91437,käsperle,91409,91412,ich,käsperle
-gdc,pzj2.0,91377,91437,käsperle,91415,91418,ihn,günther
-gdc,pzj2.0,91442,91483,geist,91460,91463,ihr,günther
-gdc,pzj2.0,91442,91483,geist,91464,91468,euch,günther
-gdc,pzj2.0,91442,91483,geist,91470,91482,guter Freund,günther
-gdc,pzj2.0,91488,91522,günther,91498,91521,Günther von Schwarzenau,günther
-gdc,pzj2.0,91527,91689,käsperle,91554,91557,Ich,käsperle
-gdc,pzj2.0,91527,91689,käsperle,91563,91571,Käsperle,käsperle
-gdc,pzj2.0,91527,91689,käsperle,91578,91602,des Ritters Waffenknecht,käsperle
-gdc,pzj2.0,91527,91689,käsperle,91578,91589,des Ritters,günther
-gdc,pzj2.0,91527,91689,käsperle,91650,91656,meiner,käsperle
-gdc,pzj2.0,91703,91713,_stage,91709,91712,ihm,käsperle
-gdc,pzj2.0,91694,91804,günther,91722,91724,du,käsperle
-gdc,pzj2.0,91694,91804,günther,91741,91750,Zum Geist,geist
-gdc,pzj2.0,91694,91804,günther,91752,91765,Frommer Greiß,geist
-gdc,pzj2.0,91694,91804,günther,91767,91770,man,man
-gdc,pzj2.0,91694,91804,günther,91775,91779,mich,günther
-gdc,pzj2.0,91694,91804,günther,91783,91787,euch,geist
-gdc,pzj2.0,91809,91878,geist,91817,91824,Günther,günther
-gdc,pzj2.0,91809,91878,geist,91831,91834,ihr,günther
-gdc,pzj2.0,91809,91878,geist,91841,91845,euer,günther
-gdc,pzj2.0,91883,91990,günther,91893,91896,Ich,günther
-gdc,pzj2.0,91883,91990,günther,91911,91914,ihr,geist
-gdc,pzj2.0,91883,91990,günther,91937,91940,mir,günther
-gdc,pzj2.0,91883,91990,günther,91942,91959,ehrwürdiger Vater,geist
-gdc,pzj2.0,91883,91990,günther,91961,91965,mein,günther
-gdc,pzj2.0,91883,91990,günther,91980,91989,Mathilden,mathilde
-gdc,pzj2.0,91995,92356,geist,92017,92036,der versöhnte Vater,hanns
-gdc,pzj2.0,91995,92356,geist,92037,92051,seiner Tochter,mathilde
-gdc,pzj2.0,91995,92356,geist,92037,92043,seiner,hanns
-gdc,pzj2.0,91995,92356,geist,92066,92072,deiner,günther
-gdc,pzj2.0,91995,92356,geist,92085,92087,Er,geist
-gdc,pzj2.0,91995,92356,geist,92128,92131,Man,man
-gdc,pzj2.0,91995,92356,geist,92144,92158,einen Schleyer,einen-Schleyer
-gdc,pzj2.0,91995,92356,geist,92271,92278,Günther,günther
-gdc,pzj2.0,91995,92356,geist,92283,92291,Mathilde,mathilde
-gdc,pzj2.0,91995,92356,geist,92293,92296,Sie,mathilde
-gdc,pzj2.0,91995,92356,geist,92301,92313,ein Jüngling,günther
-gdc,pzj2.0,91995,92356,geist,92338,92348,des Vaters,hanns
-gdc,pzj2.0,92362,92456,günther,92386,92389,ich,günther
-gdc,pzj2.0,92362,92456,günther,92392,92400,Mathilde,mathilde
-gdc,pzj2.0,92362,92456,günther,92406,92410,mein,günther
-gdc,pzj2.0,92362,92456,günther,92423,92434,Die Kortine,Die-Kortine
-gdc,pzj2.0,92472,92486,_stage,92481,92485,sich,käsperle
-gdc,pzj2.0,92462,92579,käsperle,92551,92554,ich,käsperle
-gdc,pzj2.0,92585,92622,günther,92595,92603,Käsperle,käsperle
-gdc,pzj2.0,92585,92622,günther,92605,92607,du,käsperle
-gdc,pzj2.0,92627,92778,käsperle,92684,92687,ich,käsperle
-gdc,pzj2.0,92627,92778,käsperle,92703,92706,ihr,günther
-gdc,pzj2.0,92627,92778,käsperle,92730,92733,mir,käsperle
-gdc,pzj2.0,92627,92778,käsperle,92753,92758,meine,käsperle
-gdc,pzj2.0,92784,93398,geist,92803,92805,du,günther
-gdc,pzj2.0,92784,93398,geist,92820,92828,Jüngling,günther
-gdc,pzj2.0,92784,93398,geist,92870,92872,Er,geist
-gdc,pzj2.0,92784,93398,geist,92881,92892,Die Kortine,Die-Kortine
-gdc,pzj2.0,92784,93398,geist,92931,92934,Man,man
-gdc,pzj2.0,92784,93398,geist,92952,92966,jenen Schleyer,einen-Schleyer
-gdc,pzj2.0,92784,93398,geist,92967,92981,die offene See,die-offene-See
-gdc,pzj2.0,92784,93398,geist,93053,93057,sich,günther
-gdc,pzj2.0,92784,93398,geist,93058,93068,ein Ritter,günther
-gdc,pzj2.0,92784,93398,geist,93103,93105,er,günther
-gdc,pzj2.0,92784,93398,geist,93114,93121,die See,die-offene-See
-gdc,pzj2.0,92784,93398,geist,93136,93138,er,günther
-gdc,pzj2.0,92784,93398,geist,93150,93159,der Fluth,der-Fluth
-gdc,pzj2.0,92784,93398,geist,93210,93219,der Fluth,der-Fluth
-gdc,pzj2.0,92784,93398,geist,93228,93231,ihn,günther
-gdc,pzj2.0,92784,93398,geist,93242,93245,ihn,günther
-gdc,pzj2.0,92784,93398,geist,93261,93273,Der Jüngling,günther
-gdc,pzj2.0,92784,93398,geist,93324,93335,die Kortine,Die-Kortine
-gdc,pzj2.0,92784,93398,geist,93351,93359,Käsperle,käsperle
-gdc,pzj2.0,93404,93459,günther,93414,93431,Ehrwürdiger Alter,geist
-gdc,pzj2.0,93404,93459,günther,93442,93458,das wogende Meer,die-offene-See
-gdc,pzj2.0,93464,93702,geist,93485,93491,deines,günther
-gdc,pzj2.0,93464,93702,geist,93523,93525,du,günther
-gdc,pzj2.0,93464,93702,geist,93548,93550,du,günther
-gdc,pzj2.0,93464,93702,geist,93569,93573,mich,geist
-gdc,pzj2.0,93464,93702,geist,93587,93595,Jüngling,günther
-gdc,pzj2.0,93464,93702,geist,93597,93675,"eine wichtige Pflicht, die ich schon dreyssig Jahre zu erfüllen heilig gelobte","eine-wichtige-Pflicht,-die-ich-schon-dreyssig-Jahre-zu-erfüllen-heilig-gelobte"
-gdc,pzj2.0,93464,93702,geist,93620,93623,die,"eine-wichtige-Pflicht,-die-ich-schon-dreyssig-Jahre-zu-erfüllen-heilig-gelobte"
-gdc,pzj2.0,93464,93702,geist,93624,93627,ich,geist
-gdc,pzj2.0,93464,93702,geist,93684,93688,mich,geist
-gdc,pzj2.0,93707,93733,günther,93721,93726,diese,"eine-wichtige-Pflicht,-die-ich-schon-dreyssig-Jahre-zu-erfüllen-heilig-gelobte"
-gdc,pzj2.0,93745,93767,_stage,93751,93766,eine Bodenthüre,eine-Bodenthüre
-gdc,pzj2.0,93738,94024,geist,93787,93804,ein Unglücklicher,kilian
-gdc,pzj2.0,93738,94024,geist,93834,93836,er,kilian
-gdc,pzj2.0,93738,94024,geist,93841,93846,seine,kilian
-gdc,pzj2.0,93738,94024,geist,93882,93884,er,kilian
-gdc,pzj2.0,93738,94024,geist,93893,93897,sich,kilian
-gdc,pzj2.0,93738,94024,geist,93898,93905,den Tod,den-Tod
-gdc,pzj2.0,93738,94024,geist,93911,93917,dieser,den-Tod
-gdc,pzj2.0,93738,94024,geist,93925,93928,ihn,kilian
-gdc,pzj2.0,93738,94024,geist,93974,93977,ihn,kilian
-gdc,pzj2.0,94029,94053,günther,94048,94051,ich,günther
-gdc,pzj2.0,94058,94140,geist,94077,94083,meiner,geist
-gdc,pzj2.0,94058,94140,geist,94085,94093,Jüngling,günther
-gdc,pzj2.0,94058,94140,geist,94104,94107,ich,geist
-gdc,pzj2.0,94058,94140,geist,94119,94122,dir,günther
-gdc,pzj2.0,94058,94140,geist,94124,94126,Er,geist
-gdc,pzj2.0,94193,94211,_stage,94193,94200,Günther,günther
-gdc,pzj2.0,94193,94211,_stage,94202,94210,Käsperle,käsperle
-gdc,pzj2.0,94214,94307,günther,94254,94258,mich,günther
-gdc,pzj2.0,94214,94307,günther,94272,94275,ich,günther
-gdc,pzj2.0,94214,94307,günther,94298,94306,Käsperle,käsperle
-gdc,pzj2.0,94312,94407,käsperle,94355,94370,gestrenger Herr,günther
-gdc,pzj2.0,94312,94407,käsperle,94372,94375,ich,käsperle
-gdc,pzj2.0,94412,94446,günther,94442,94445,mir,günther
-gdc,pzj2.0,94451,94509,käsperle,94491,94494,wir,käsperle-und-günther
-gdc,pzj2.0,94451,94509,käsperle,94498,94508,d' Herberg,die-Herberge
-gdc,pzj2.0,94514,94582,günther,94541,94543,du,käsperle
-gdc,pzj2.0,94514,94582,günther,94544,94547,mir,günther
-gdc,pzj2.0,94514,94582,günther,94559,94563,Bube,käsperle
-gdc,pzj2.0,94587,94637,käsperle,94618,94620,Er,käsperle
-gdc,pzj2.0,94642,94771,günther,94663,94665,du,käsperle
-gdc,pzj2.0,94642,94771,günther,94666,94669,mir,günther
-gdc,pzj2.0,94642,94771,günther,94693,94696,Ich,günther
-gdc,pzj2.0,94642,94771,günther,94704,94707,ich,günther
-gdc,pzj2.0,94642,94771,günther,94730,94736,meiner,günther
-gdc,pzj2.0,94642,94771,günther,94751,94753,Er,günther
-gdc,pzj2.0,94642,94771,günther,94761,94770,die Thüre,eine-Bodenthüre
-gdc,pzj2.0,94904,94938,günther,94929,94937,Käsperle,käsperle
-gdc,pzj2.0,94943,95302,käsperle,94971,94974,ich,käsperle
-gdc,pzj2.0,94943,95302,käsperle,95077,95080,man,man
-gdc,pzj2.0,94943,95302,käsperle,95155,95158,ihr,günther
-gdc,pzj2.0,94943,95302,käsperle,95177,95192,g'strenger Herr,günther
-gdc,pzj2.0,94943,95302,käsperle,95213,95216,ihm,käsperle
-gdc,pzj2.0,94943,95302,käsperle,95228,95247,ein schwarzer Geist,geist
-gdc,pzj2.0,94943,95302,käsperle,95256,95262,seinen,geist
-gdc,pzj2.0,95308,95355,geist,95325,95334,Muthloser,käsperle
-gdc,pzj2.0,95308,95355,geist,95336,95345,Die Thüre,eine-Bodenthüre
-gdc,pzj2.0,95361,95679,käsperle,95380,95383,mir,käsperle
-gdc,pzj2.0,95361,95679,käsperle,95397,95400,ich,käsperle
-gdc,pzj2.0,95361,95679,käsperle,95405,95408,mir,käsperle
-gdc,pzj2.0,95361,95679,käsperle,95433,95438,einen,man
-gdc,pzj2.0,95361,95679,käsperle,95462,95465,man,man
-gdc,pzj2.0,95361,95679,käsperle,95547,95561,der Einsiedler,geist
-gdc,pzj2.0,95361,95679,käsperle,95573,95575,Er,käsperle
-gdc,pzj2.0,95361,95679,käsperle,95586,95595,die Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,95361,95679,käsperle,95604,95610,Jeriel,jeriel
-gdc,pzj2.0,95361,95679,käsperle,95640,95654,der Einsiedler,geist
-gdc,pzj2.0,95361,95679,käsperle,95656,95658,er,jeriel
-gdc,pzj2.0,95732,95749,_stage,95732,95740,Käsperle,käsperle
-gdc,pzj2.0,95732,95749,_stage,95742,95748,Jeriel,jeriel
-gdc,pzj2.0,95762,95784,_stage,95774,95783,der Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,95752,95825,käsperle,95808,95811,ich,käsperle
-gdc,pzj2.0,95830,95879,jeriel,95865,95867,du,käsperle
-gdc,pzj2.0,95830,95879,jeriel,95869,95878,Fremdling,käsperle
-gdc,pzj2.0,95884,95965,käsperle,95934,95947,der alte Herr,geist
-gdc,pzj2.0,95970,96033,jeriel,96004,96006,du,käsperle
-gdc,pzj2.0,95970,96033,jeriel,96007,96012,meine,jeriel
-gdc,pzj2.0,95970,96033,jeriel,96020,96032,guter Freund,käsperle
-gdc,pzj2.0,96038,96194,käsperle,96140,96154,der Einsiedler,geist
-gdc,pzj2.0,96199,96298,jeriel,96220,96222,Du,käsperle
-gdc,pzj2.0,96199,96298,jeriel,96228,96232,dich,käsperle
-gdc,pzj2.0,96199,96298,jeriel,96242,96254,diesem Forst,den-Forst
-gdc,pzj2.0,96199,96298,jeriel,96270,96287,weiblicher Stimme,weiblicher-Stimme
-gdc,pzj2.0,96199,96298,jeriel,96289,96297,Käsperle,käsperle
-gdc,pzj2.0,96313,96350,_stage,96320,96324,sich,käsperle
-gdc,pzj2.0,96313,96350,_stage,96332,96342,die Stimme,weiblicher-Stimme
-gdc,pzj2.0,96303,96438,käsperle,96375,96378,mir,käsperle
-gdc,pzj2.0,96303,96438,käsperle,96400,96403,ich,käsperle
-gdc,pzj2.0,96303,96438,käsperle,96410,96430,eine weibliche Stimm,weiblicher-Stimme
-gdc,pzj2.0,96443,96539,jeriel,96467,96471,dich,käsperle
-gdc,pzj2.0,96544,96625,käsperle,96571,96591,der Einsiedler-Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
-gdc,pzj2.0,96544,96625,käsperle,96610,96613,mir,käsperle
-gdc,pzj2.0,96638,96660,_stage,96642,96659,weiblicher Stimme,weiblicher-Stimme
-gdc,pzj2.0,96630,96695,jeriel,96669,96689,mein lieber Käsperle,käsperle
-gdc,pzj2.0,96630,96695,jeriel,96669,96673,mein,jeriel
-gdc,pzj2.0,96700,96763,käsperle,96749,96753,eine,Sie
-gdc,pzj2.0,96768,96809,jeriel,96777,96780,Sie,Sie
-gdc,pzj2.0,96768,96809,jeriel,96786,96790,dich,käsperle
-gdc,pzj2.0,96768,96809,jeriel,96795,96801,deinem,käsperle
-gdc,pzj2.0,96815,96912,käsperle,96836,96839,mir,käsperle
-gdc,pzj2.0,96815,96912,käsperle,96845,96859,saubre Musterl,saubre-Musterl
-gdc,pzj2.0,96815,96912,käsperle,96866,96869,die,saubre-Musterl
-gdc,pzj2.0,96815,96912,käsperle,96870,96874,sich,saubre-Musterl
-gdc,pzj2.0,96917,97030,jeriel,96926,96928,Du,käsperle
-gdc,pzj2.0,96917,97030,jeriel,96936,96952,holder Fremdling,käsperle
-gdc,pzj2.0,96917,97030,jeriel,96954,96956,es,saubre-Musterl
-gdc,pzj2.0,96917,97030,jeriel,97007,97019,einen Fehler,einen-Fehler
-gdc,pzj2.0,96917,97030,jeriel,97026,97029,sie,saubre-Musterl
-gdc,pzj2.0,97035,97072,käsperle,97046,97058,Einen Fehler,einen-Fehler
-gdc,pzj2.0,97035,97072,käsperle,97064,97067,der,einen-Fehler
-gdc,pzj2.0,97077,97203,jeriel,97086,97105,Sie sind sehr klein,einen-Fehler
-gdc,pzj2.0,97077,97203,jeriel,97086,97089,Sie,saubre-Musterl
-gdc,pzj2.0,97077,97203,jeriel,97126,97129,ich,jeriel
-gdc,pzj2.0,97077,97203,jeriel,97187,97190,sie,saubre-Musterl
-gdc,pzj2.0,97208,97323,käsperle,97231,97234,das,saubre-Musterl
-gdc,pzj2.0,97208,97323,käsperle,97270,97273,Sie,jeriel
-gdc,pzj2.0,97208,97323,käsperle,97285,97289,sich,jeriel
-gdc,pzj2.0,97329,97405,jeriel,97381,97389,Käsperle,käsperle
-gdc,pzj2.0,97329,97405,jeriel,97398,97401,ich,jeriel
-gdc,pzj2.0,97410,97477,käsperle,97457,97459,du,jeriel
-gdc,pzj2.0,97410,97477,käsperle,97465,97468,mir,käsperle
-gdc,pzj2.0,97482,97651,jeriel,97525,97538,meinen Hiesel,meinen-Hiesel
-gdc,pzj2.0,97482,97651,jeriel,97525,97531,meinen,jeriel
-gdc,pzj2.0,97482,97651,jeriel,97543,97546,ich,jeriel
-gdc,pzj2.0,97482,97651,jeriel,97560,97562,er,meinen-Hiesel
-gdc,pzj2.0,97482,97651,jeriel,97579,97582,ich,jeriel
-gdc,pzj2.0,97482,97651,jeriel,97625,97627,er,meinen-Hiesel
-gdc,pzj2.0,97482,97651,jeriel,97628,97632,mich,jeriel
-gdc,pzj2.0,97656,97726,käsperle,97672,97674,Du,jeriel
-gdc,pzj2.0,97656,97726,käsperle,97696,97725,"einen Buben, den du lieb hast",meinen-Hiesel
-gdc,pzj2.0,97656,97726,käsperle,97709,97712,den,meinen-Hiesel
-gdc,pzj2.0,97656,97726,käsperle,97713,97715,du,jeriel
-gdc,pzj2.0,97731,97812,jeriel,97773,97776,mir,jeriel
-gdc,pzj2.0,97731,97812,jeriel,97780,97790,d' Herberg,die-Herberge
-gdc,pzj2.0,97731,97812,jeriel,97792,97794,du,käsperle
-gdc,pzj2.0,97731,97812,jeriel,97802,97805,ihn,meinen-Hiesel
-gdc,pzj2.0,97817,97908,käsperle,97847,97850,mir,käsperle
-gdc,pzj2.0,97817,97908,käsperle,97862,97865,ich,käsperle
-gdc,pzj2.0,97913,98652,jeriel,97927,97929,du,käsperle
-gdc,pzj2.0,97913,98652,jeriel,97936,97940,dich,käsperle
-gdc,pzj2.0,97913,98652,jeriel,97962,97973,mein Hiesel,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,97962,97966,mein,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98011,98013,er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98014,98018,mich,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98053,98064,Mein Hiesel,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98053,98057,Mein,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98067,98070,der,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98075,98078,mir,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98084,98087,ich,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98092,98095,ihm,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98102,98104,Er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98116,98119,ich,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98144,98146,Er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98178,98181,mir,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98196,98207,Mein Hiesel,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98196,98200,Mein,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98270,98272,er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98306,98308,er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98377,98379,er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98380,98383,mir,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98391,98393,Er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98399,98402,mir,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98412,98414,er,meinen-Hiesel
-gdc,pzj2.0,97913,98652,jeriel,98415,98419,mich,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98605,98608,ich,jeriel
-gdc,pzj2.0,97913,98652,jeriel,98609,98619,den Hiesel,meinen-Hiesel
-gdc,pzj2.0,98706,98818,_stage,98706,98725,Unterirdische Höhle,Unterirdische-Höhle
-gdc,pzj2.0,98706,98818,_stage,98727,98733,Kilian,kilian
-gdc,pzj2.0,98706,98818,_stage,98737,98744,Fesseln,Fesseln
-gdc,pzj2.0,98706,98818,_stage,98747,98749,er,kilian
-gdc,pzj2.0,98706,98818,_stage,98773,98787,Ritter Günther,günther
-gdc,pzj2.0,98821,99095,kilian,98847,98850,ich,kilian
-gdc,pzj2.0,98821,99095,kilian,98851,98862,die Speisen,die-Speisen
-gdc,pzj2.0,98821,99095,kilian,98874,98877,die,die-Speisen
-gdc,pzj2.0,98821,99095,kilian,98878,98881,ich,kilian
-gdc,pzj2.0,98821,99095,kilian,98895,98901,meines,kilian
-gdc,pzj2.0,98821,99095,kilian,98960,98963,ich,kilian
-gdc,pzj2.0,98821,99095,kilian,99002,99005,mir,kilian
-gdc,pzj2.0,98821,99095,kilian,99021,99027,meiner,kilian
-gdc,pzj2.0,98821,99095,kilian,99037,99044,Günther,günther
-gdc,pzj2.0,98821,99095,kilian,99071,99074,ich,kilian
-gdc,pzj2.0,99100,99210,günther,99110,99154,"Ein Mensch, der kommt, um Menschen zu retten",günther
-gdc,pzj2.0,99100,99210,günther,99122,99125,der,günther
-gdc,pzj2.0,99100,99210,günther,99164,99168,euch,kilian
-gdc,pzj2.0,99100,99210,günther,99170,99176,Kilian,kilian
-gdc,pzj2.0,99100,99210,günther,99187,99192,eurer,kilian
-gdc,pzj2.0,99215,99240,kilian,99224,99227,Ihr,günther
-gdc,pzj2.0,99215,99240,kilian,99235,99239,mich,kilian
-gdc,pzj2.0,99245,99316,günther,99289,99292,Ihr,kilian
-gdc,pzj2.0,99321,99399,kilian,99336,99349,diesen Nahmen,diesen-Nahmen
-gdc,pzj2.0,99321,99399,kilian,99358,99363,seine,diesen-Nahmen
-gdc,pzj2.0,99321,99399,kilian,99383,99387,mich,kilian
-gdc,pzj2.0,99404,99505,günther,99424,99428,euch,kilian
-gdc,pzj2.0,99404,99505,günther,99431,99434,ich,günther
-gdc,pzj2.0,99404,99505,günther,99449,99461,eure Fesseln,Fesseln
-gdc,pzj2.0,99404,99505,günther,99449,99453,eure,kilian
-gdc,pzj2.0,99404,99505,günther,99486,99489,ihr,kilian
-gdc,pzj2.0,99404,99505,günther,99493,99504,diese Höhle,Unterirdische-Höhle
-gdc,pzj2.0,99510,99992,kilian,99519,99522,Ich,kilian
-gdc,pzj2.0,99510,99992,kilian,99529,99533,mich,kilian
-gdc,pzj2.0,99510,99992,kilian,99612,99615,ich,kilian
-gdc,pzj2.0,99510,99992,kilian,99638,99648,eine Mühle,eine-Mühle
-gdc,pzj2.0,99510,99992,kilian,99661,99669,Reisende,Reisende
-gdc,pzj2.0,99510,99992,kilian,99680,99683,sie,Reisende
-gdc,pzj2.0,99510,99992,kilian,99697,99706,Mein Weib,geist
-gdc,pzj2.0,99510,99992,kilian,99697,99701,Mein,kilian
-gdc,pzj2.0,99510,99992,kilian,99716,99720,mich,kilian
-gdc,pzj2.0,99510,99992,kilian,99723,99726,ich,kilian
-gdc,pzj2.0,99510,99992,kilian,99736,99739,sie,geist
-gdc,pzj2.0,99510,99992,kilian,99750,99759,der Mühle,eine-Mühle
-gdc,pzj2.0,99510,99992,kilian,99764,99768,mich,kilian
-gdc,pzj2.0,99510,99992,kilian,99828,99832,mich,kilian
-gdc,pzj2.0,99510,99992,kilian,99842,99845,ich,kilian
-gdc,pzj2.0,99510,99992,kilian,99911,99916,meine,kilian
-gdc,pzj2.0,99510,99992,kilian,99942,99966,Ein ehrlicher Einsiedler,geist
-gdc,pzj2.0,99510,99992,kilian,99974,99978,mich,kilian
-gdc,pzj2.0,99997,100080,günther,100007,100020,Unglücklicher,kilian
-gdc,pzj2.0,99997,100080,günther,100031,100044,deines Weibes,geist
-gdc,pzj2.0,99997,100080,günther,100031,100037,deines,kilian
-gdc,pzj2.0,99997,100080,günther,100053,100058,deine,kilian
-gdc,pzj2.0,99997,100080,günther,100076,100079,mir,günther
-gdc,pzj2.0,100085,100113,kilian,100099,100112,diese Fesseln,Fesseln
-gdc,pzj2.0,100118,100282,günther,100128,100131,Ich,günther
-gdc,pzj2.0,100118,100282,günther,100160,100180,eines höheren Wesens,geist
-gdc,pzj2.0,100118,100282,günther,100183,100186,ich,günther
-gdc,pzj2.0,100118,100282,günther,100191,100197,seines,geist
-gdc,pzj2.0,100118,100282,günther,100216,100227,Die Fesseln,Fesseln
-gdc,pzj2.0,100118,100282,günther,100234,100238,sich,Fesseln
-gdc,pzj2.0,100118,100282,günther,100265,100271,Kilian,kilian
-gdc,pzj2.0,100288,100411,kilian,100334,100337,ich,kilian
-gdc,pzj2.0,100288,100411,kilian,100345,100351,Ritter,günther
-gdc,pzj2.0,100288,100411,kilian,100358,100361,mir,kilian
-gdc,pzj2.0,100288,100411,kilian,100362,100371,eure Hand,eure-Hand
-gdc,pzj2.0,100288,100411,kilian,100362,100366,eure,günther
-gdc,pzj2.0,100288,100411,kilian,100379,100382,sie,eure-Hand
-gdc,pzj2.0,100288,100411,kilian,100387,100393,meinen,kilian
-gdc,pzj2.0,100416,100515,günther,100440,100443,mir,günther
-gdc,pzj2.0,100416,100515,günther,100448,100466,dieser Mörderhöhle,Unterirdische-Höhle
-gdc,pzj2.0,100416,100515,günther,100491,100502,des Geistes,geist
-gdc,pzj2.0,100520,100723,kilian,100535,100552,meinen Wohlthäter,geist
-gdc,pzj2.0,100520,100723,kilian,100535,100541,meinen,kilian
-gdc,pzj2.0,100520,100723,kilian,100559,100562,ich,kilian
-gdc,pzj2.0,100520,100723,kilian,100601,100604,ihm,geist
-gdc,pzj2.0,100520,100723,kilian,100617,100620,ich,kilian
-gdc,pzj2.0,100520,100723,kilian,100645,100649,mich,kilian
-gdc,pzj2.0,100520,100723,kilian,100673,100675,er,geist
-gdc,pzj2.0,100520,100723,kilian,100697,100701,mein,kilian
-gdc,pzj2.0,100730,100856,geist,100767,100780,Unglücklicher,kilian
-gdc,pzj2.0,100730,100856,geist,100804,100807,dir,kilian
-gdc,pzj2.0,100913,101014,_stage,100913,100922,Die Bühne,Die-Bühne
-gdc,pzj2.0,100913,101014,_stage,100934,100938,sich,Die-Bühne
-gdc,pzj2.0,100913,101014,_stage,100983,100991,ein Haus,ein-Haus
-gdc,pzj2.0,100913,101014,_stage,101002,101013,ein Brunnen,dieser-Brunnen
-gdc,pzj2.0,101017,101167,kilian,101039,101042,ich,kilian
-gdc,pzj2.0,101017,101167,kilian,101050,101063,meine Wohnung,ein-Haus
-gdc,pzj2.0,101017,101167,kilian,101050,101055,meine,kilian
-gdc,pzj2.0,101017,101167,kilian,101066,101080,dieser Brunnen,dieser-Brunnen
-gdc,pzj2.0,101017,101167,kilian,101086,101088,er,dieser-Brunnen
-gdc,pzj2.0,101017,101167,kilian,101098,101102,mich,kilian
-gdc,pzj2.0,101017,101167,kilian,101106,101166,"die letzte schreckliche That, die ich an meinem Weib verübte","die-letzte-schreckliche-That,-die-ich-an-meinem-Weib-verübte"
-gdc,pzj2.0,101017,101167,kilian,101136,101139,die,"die-letzte-schreckliche-That,-die-ich-an-meinem-Weib-verübte"
-gdc,pzj2.0,101017,101167,kilian,101140,101143,ich,kilian
-gdc,pzj2.0,101017,101167,kilian,101147,101158,meinem Weib,geist
-gdc,pzj2.0,101017,101167,kilian,101147,101153,meinem,kilian
-gdc,pzj2.0,101172,101446,günther,101190,101204,diesem Brunnen,dieser-Brunnen
-gdc,pzj2.0,101172,101446,günther,101212,101237,die Gebeine deines Weibes,die-Gebeine-deines-Weibes
-gdc,pzj2.0,101172,101446,günther,101224,101237,deines Weibes,geist
-gdc,pzj2.0,101172,101446,günther,101253,101266,Unglücklicher,kilian
-gdc,pzj2.0,101172,101446,günther,101289,101305,deiner Pflichten,deiner-Pflichten
-gdc,pzj2.0,101172,101446,günther,101289,101295,deiner,kilian
-gdc,pzj2.0,101172,101446,günther,101363,101376,deiner Gattin,geist
-gdc,pzj2.0,101172,101446,günther,101363,101369,deiner,kilian
-gdc,pzj2.0,101172,101446,günther,101428,101439,den ihrigen,die-Gebeine-deines-Weibes
-gdc,pzj2.0,101451,101635,kilian,101460,101463,Ich,kilian
-gdc,pzj2.0,101451,101635,kilian,101560,101566,Kilian,kilian
-gdc,pzj2.0,101640,101927,kilian,101649,101653,Gott,Gott
-gdc,pzj2.0,101640,101927,kilian,101655,101657,du,Gott
-gdc,pzj2.0,101640,101927,kilian,101678,101684,deinem,Gott
-gdc,pzj2.0,101640,101927,kilian,101714,101716,du,Gott
-gdc,pzj2.0,101640,101927,kilian,101769,101774,deine,Gott
-gdc,pzj2.0,101640,101927,kilian,101843,101856,deine Pflicht,deiner-Pflichten
-gdc,pzj2.0,101640,101927,kilian,101843,101848,deine,kilian
-gdc,pzj2.0,101640,101927,kilian,101889,101902,Müder Wandrer,kilian
-gdc,pzj2.0,101932,103775,kilian,101960,101963,ich,kilian
-gdc,pzj2.0,101932,103775,kilian,102019,102022,ich,kilian
-gdc,pzj2.0,101932,103775,kilian,102040,102043,ich,kilian
-gdc,pzj2.0,101932,103775,kilian,102073,102084,dem Brunnen,dieser-Brunnen
-gdc,pzj2.0,101932,103775,kilian,102135,102144,Der Blitz,Der-Blitz
-gdc,pzj2.0,101932,103775,kilian,102199,102209,der Donner,der-Donner
-gdc,pzj2.0,102241,102558,_stage,102241,102250,Der Blitz,Der-Blitz
-gdc,pzj2.0,102241,102558,_stage,102261,102271,den Müller,kilian
-gdc,pzj2.0,102241,102558,_stage,102273,102284,der Brunnen,dieser-Brunnen
-gdc,pzj2.0,102241,102558,_stage,102296,102299,ihm,kilian
-gdc,pzj2.0,102241,102558,_stage,102324,102357,diesem schrecklichen Donnerschlag,der-Donner
-gdc,pzj2.0,102241,102558,_stage,102429,102434,Marie,geist
-gdc,pzj2.0,102241,102558,_stage,102518,102521,Sie,geist
-gdc,pzj2.0,101932,103775,kilian,102571,102574,Ich,
-gdc,pzj2.0,101932,103775,kilian,102590,102593,mir,
-gdc,pzj2.0,101932,103775,kilian,102619,102627,Jüngling,günther
-gdc,pzj2.0,101932,103775,kilian,102629,102631,du,günther
-gdc,pzj2.0,101932,103775,kilian,102658,102661,dir,günther
-gdc,pzj2.0,101932,103775,kilian,102668,102693,die verheissene Belohnung,die-verheissene-Belohnung
-gdc,pzj2.0,101932,103775,kilian,102722,102734,einen Schatz,die-verheissene-Belohnung
-gdc,pzj2.0,101932,103775,kilian,102745,102747,er,die-verheissene-Belohnung
-gdc,pzj2.0,101932,103775,kilian,102777,102787,Mathildens,mathilde
-gdc,pzj2.0,101932,103775,kilian,102824,102828,dein,günther
-gdc,pzj2.0,101932,103775,kilian,102851,102857,deinen,günther
-gdc,pzj2.0,101932,103775,kilian,102870,102875,deine,günther
-gdc,pzj2.0,101932,103775,kilian,102900,102903,ich,
-gdc,pzj2.0,101932,103775,kilian,102939,102942,Sie,geist
-gdc,pzj2.0,101932,103775,kilian,103065,103068,dir,geist
-gdc,pzj2.0,101932,103775,kilian,103111,103115,Dich,geist
-gdc,pzj2.0,101932,103775,kilian,103118,103127,Dulderinn,geist
-gdc,pzj2.0,103139,103485,_stage,103139,103148,Die Bühne,Die-Bühne
-gdc,pzj2.0,103139,103485,_stage,103160,103164,sich,Die-Bühne
-gdc,pzj2.0,103139,103485,_stage,103205,103233,ein transparenter Regenbogen,ein-transparenter-Regenbogen
-gdc,pzj2.0,103139,103485,_stage,103266,103272,Jeriel,jeriel
-gdc,pzj2.0,103139,103485,_stage,103276,103282,seiner,jeriel
-gdc,pzj2.0,103139,103485,_stage,103304,103313,der Bühne,Die-Bühne
-gdc,pzj2.0,103139,103485,_stage,103346,103363,Hans von Stauffen,hanns
-gdc,pzj2.0,103139,103485,_stage,103365,103373,Mathilde,mathilde
-gdc,pzj2.0,103139,103485,_stage,103397,103403,Vorige,Vorige
-gdc,pzj2.0,103139,103485,_stage,103405,103413,Mathilde,mathilde
-gdc,pzj2.0,103139,103485,_stage,103422,103430,Günthers,günther
-gdc,pzj2.0,103139,103485,_stage,103437,103446,der Vater,hanns
-gdc,pzj2.0,103139,103485,_stage,103452,103457,seine,hanns
-gdc,pzj2.0,101932,103775,kilian,103535,103550,Geist der Liebe,Geist-der-Liebe
-gdc,pzj2.0,101932,103775,kilian,103562,103565,uns,Alle
-gdc,pzj2.0,101932,103775,kilian,103573,103576,uns,Alle
-gdc,pzj2.0,101932,103775,kilian,103612,103615,uns,Alle
-gdc,pzj2.0,101932,103775,kilian,103617,103634,Diesen Regenbogen,ein-transparenter-Regenbogen
-gdc,pzj2.0,101932,103775,kilian,103640,103642,du,Geist-der-Liebe
-gdc,pzj2.0,101932,103775,kilian,103669,103674,Deine,Geist-der-Liebe
-gdc,pzj2.0,101932,103775,kilian,103696,103699,uns,Alle
+gdc-coref,pzj2.0,2363,2430,günther,2417,2423,meinen,günther
+gdc-coref,pzj2.0,2435,2748,frowald,2445,2448,Ich,frowald
+gdc-coref,pzj2.0,2753,2914,käsperle,2822,2825,ich,käsperle
+gdc-coref,pzj2.0,3740,3797,fust,3747,3750,Ich,fust
+gdc-coref,pzj2.0,3740,3797,fust,3769,3773,mich,fust
+gdc-coref,pzj2.0,3802,3999,eckhard,3836,3839,ich,eckhard
+gdc-coref,pzj2.0,3802,3999,eckhard,3980,3983,Ich,eckhard
+gdc-coref,pzj2.0,4490,4661,eckhard,4536,4539,ich,eckhard
+gdc-coref,pzj2.0,4490,4661,eckhard,4633,4636,ich,eckhard
+gdc-coref,pzj2.0,4666,4753,fust,4709,4712,ich,fust
+gdc-coref,pzj2.0,4863,4991,käsperle,4962,4965,Ich,käsperle
+gdc-coref,pzj2.0,5484,5597,günther,5541,5544,ich,günther
+gdc-coref,pzj2.0,5665,5744,günther,5699,5705,meinem,günther
+gdc-coref,pzj2.0,5665,5744,günther,5714,5717,Ich,günther
+gdc-coref,pzj2.0,5665,5744,günther,5723,5727,mein,günther
+gdc-coref,pzj2.0,5749,5983,veit,5770,5774,mich,veit
+gdc-coref,pzj2.0,5988,6036,günther,6020,6023,ich,günther
+gdc-coref,pzj2.0,6120,6362,wallfahrer,6178,6181,mir,wallfahrer
+gdc-coref,pzj2.0,6120,6362,wallfahrer,6187,6190,ich,wallfahrer
+gdc-coref,pzj2.0,6120,6362,wallfahrer,6243,6248,meine,wallfahrer
+gdc-coref,pzj2.0,6120,6362,wallfahrer,6296,6299,ich,wallfahrer
+gdc-coref,pzj2.0,6120,6362,wallfahrer,6345,6348,mir,wallfahrer
+gdc-coref,pzj2.0,6469,6767,wallfahrer,6512,6515,ich,wallfahrer
+gdc-coref,pzj2.0,6469,6767,wallfahrer,6543,6546,ich,wallfahrer
+gdc-coref,pzj2.0,6469,6767,wallfahrer,6611,6616,meine,wallfahrer
+gdc-coref,pzj2.0,6469,6767,wallfahrer,6659,6663,mich,wallfahrer
+gdc-coref,pzj2.0,6469,6767,wallfahrer,6679,6682,ich,wallfahrer
+gdc-coref,pzj2.0,8093,8242,günther,8131,8134,ich,günther
+gdc-coref,pzj2.0,8093,8242,günther,8187,8190,ich,günther
+gdc-coref,pzj2.0,9434,9458,günther,9453,9456,ich,günther
+gdc-coref,pzj2.0,9463,9610,wallfahrer,9476,9479,Ich,wallfahrer
+gdc-coref,pzj2.0,10137,10180,günther,10169,10172,ich,günther
+gdc-coref,pzj2.0,10333,10476,günther,10353,10356,mir,günther
+gdc-coref,pzj2.0,10333,10476,günther,10378,10381,ich,günther
+gdc-coref,pzj2.0,10482,10543,geist,10490,10493,Ich,geist
+gdc-coref,pzj2.0,10482,10543,geist,10501,10504,ich,geist
+gdc-coref,pzj2.0,10748,10894,käsperle,10809,10815,meinem,käsperle
+gdc-coref,pzj2.0,10900,11062,günther,10913,10916,ich,günther
+gdc-coref,pzj2.0,10900,11062,günther,11008,11011,ich,günther
+gdc-coref,pzj2.0,11067,11230,käsperle,11126,11129,ich,käsperle
+gdc-coref,pzj2.0,11067,11230,käsperle,11176,11179,ich,käsperle
+gdc-coref,pzj2.0,11067,11230,käsperle,11180,11184,mich,käsperle
+gdc-coref,pzj2.0,11267,11343,käsperle,11301,11304,Ich,käsperle
+gdc-coref,pzj2.0,11348,11454,günther,11381,11385,mich,günther
+gdc-coref,pzj2.0,11348,11454,günther,11419,11422,ich,günther
+gdc-coref,pzj2.0,11348,11454,günther,11428,11431,mir,günther
+gdc-coref,pzj2.0,11587,11663,günther,11636,11640,mich,günther
+gdc-coref,pzj2.0,11840,11890,günther,11880,11883,ich,günther
+gdc-coref,pzj2.0,12111,12168,günther,12133,12139,meinen,günther
+gdc-coref,pzj2.0,12111,12168,günther,12163,12167,mich,günther
+gdc-coref,pzj2.0,12173,12346,käsperle,12237,12241,mich,käsperle
+gdc-coref,pzj2.0,12173,12346,käsperle,12256,12259,ich,käsperle
+gdc-coref,pzj2.0,12173,12346,käsperle,12265,12268,mir,käsperle
+gdc-coref,pzj2.0,12351,12397,günther,12385,12391,meinen,günther
+gdc-coref,pzj2.0,12402,12463,käsperle,12444,12447,ich,käsperle
+gdc-coref,pzj2.0,12468,12513,günther,12478,12481,Ich,günther
+gdc-coref,pzj2.0,12604,12902,käsperle,12631,12634,Ich,käsperle
+gdc-coref,pzj2.0,12604,12902,käsperle,12701,12704,ich,käsperle
+gdc-coref,pzj2.0,12604,12902,käsperle,12772,12775,ich,käsperle
+gdc-coref,pzj2.0,12604,12902,käsperle,12837,12840,ich,käsperle
+gdc-coref,pzj2.0,12980,13112,käsperle,13050,13054,mich,käsperle
+gdc-coref,pzj2.0,12980,13112,käsperle,13077,13081,mich,käsperle
+gdc-coref,pzj2.0,13117,13172,hans,13134,13138,mich,hans
+gdc-coref,pzj2.0,13117,13172,hans,13152,13155,ich,hans
+gdc-coref,pzj2.0,13321,13454,käsperle,13350,13354,mein,käsperle
+gdc-coref,pzj2.0,13321,13454,käsperle,13398,13402,mich,käsperle
+gdc-coref,pzj2.0,13459,13554,hans,13484,13487,ich,hans
+gdc-coref,pzj2.0,13459,13554,hans,13543,13546,mir,hans
+gdc-coref,pzj2.0,13592,13765,hans,13611,13614,ich,hans
+gdc-coref,pzj2.0,13592,13765,hans,13657,13660,ich,hans
+gdc-coref,pzj2.0,13592,13765,hans,13690,13693,ich,hans
+gdc-coref,pzj2.0,13592,13765,hans,13694,13698,mich,hans
+gdc-coref,pzj2.0,13592,13765,hans,13704,13710,meinem,hans
+gdc-coref,pzj2.0,13592,13765,hans,13756,13759,mir,hans
+gdc-coref,pzj2.0,13802,13887,hans,13821,13824,mir,hans
+gdc-coref,pzj2.0,13802,13887,hans,13862,13866,mein,hans
+gdc-coref,pzj2.0,13892,14558,käsperle,13917,13920,ich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,13958,13961,ich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14015,14018,ich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14024,14028,mich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14136,14139,ich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14140,14144,mich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14256,14259,ich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14290,14294,mich,käsperle
+gdc-coref,pzj2.0,13892,14558,käsperle,14492,14495,ich,käsperle
+gdc-coref,pzj2.0,14980,15096,örtchen,15026,15029,ich,örtchen
+gdc-coref,pzj2.0,14980,15096,örtchen,15056,15062,meinem,örtchen
+gdc-coref,pzj2.0,15101,15198,hans,15156,15159,ich,hans
+gdc-coref,pzj2.0,15242,15448,hans,15254,15257,ich,hans
+gdc-coref,pzj2.0,15242,15448,hans,15331,15337,meiner,hans
+gdc-coref,pzj2.0,15242,15448,hans,15343,15346,ich,hans
+gdc-coref,pzj2.0,15600,15672,hans,15635,15638,ich,hans
+gdc-coref,pzj2.0,15600,15672,hans,15647,15650,ich,hans
+gdc-coref,pzj2.0,16094,16260,hans,16106,16109,mir,hans
+gdc-coref,pzj2.0,16094,16260,hans,16146,16150,mein,hans
+gdc-coref,pzj2.0,16094,16260,hans,16161,16164,ich,hans
+gdc-coref,pzj2.0,16267,16440,örtchen,16303,16306,ich,örtchen
+gdc-coref,pzj2.0,16813,16863,ritter_hans,16827,16830,Ich,ritter_hans
+gdc-coref,pzj2.0,16868,16979,günther,16878,16881,Ich,günther
+gdc-coref,pzj2.0,16868,16979,günther,16934,16937,ich,günther
+gdc-coref,pzj2.0,16984,17023,ritter_hans,16998,17003,Meine,ritter_hans
+gdc-coref,pzj2.0,17028,17282,günther,17038,17041,Ich,günther
+gdc-coref,pzj2.0,17028,17282,günther,17068,17071,ich,günther
+gdc-coref,pzj2.0,17028,17282,günther,17168,17172,Mein,günther
+gdc-coref,pzj2.0,17028,17282,günther,17184,17188,mich,günther
+gdc-coref,pzj2.0,17028,17282,günther,17226,17230,mich,günther
+gdc-coref,pzj2.0,17359,17584,günther,17511,17514,Ich,günther
+gdc-coref,pzj2.0,17359,17584,günther,17530,17534,mein,günther
+gdc-coref,pzj2.0,17359,17584,günther,17575,17578,ich,günther
+gdc-coref,pzj2.0,17589,17662,ritter_hans,17603,17606,Ich,ritter_hans
+gdc-coref,pzj2.0,17589,17662,ritter_hans,17621,17626,Meine,ritter_hans
+gdc-coref,pzj2.0,17941,18078,ritter_hans,18006,18011,meine,ritter_hans
+gdc-coref,pzj2.0,18084,18512,günther,18173,18176,ich,günther
+gdc-coref,pzj2.0,18084,18512,günther,18330,18333,ich,günther
+gdc-coref,pzj2.0,18084,18512,günther,18375,18380,meine,günther
+gdc-coref,pzj2.0,18084,18512,günther,18425,18429,mich,günther
+gdc-coref,pzj2.0,18084,18512,günther,18453,18456,ich,günther
+gdc-coref,pzj2.0,18734,18812,mathilde,18759,18762,mir,mathilde
+gdc-coref,pzj2.0,18896,18972,mathilde,18957,18963,meines,mathilde
+gdc-coref,pzj2.0,18977,19093,bertha,19037,19040,ich,bertha
+gdc-coref,pzj2.0,19098,19153,mathilde,19117,19120,ich,mathilde
+gdc-coref,pzj2.0,19098,19153,mathilde,19137,19140,ich,mathilde
+gdc-coref,pzj2.0,19290,19369,mathilde,19340,19343,ich,mathilde
+gdc-coref,pzj2.0,19290,19369,mathilde,19361,19364,ich,mathilde
+gdc-coref,pzj2.0,19467,19661,jeriel,19521,19524,mir,jeriel
+gdc-coref,pzj2.0,19467,19661,jeriel,19541,19544,ich,jeriel
+gdc-coref,pzj2.0,19889,20038,jeriel,19898,19901,Ich,jeriel
+gdc-coref,pzj2.0,19889,20038,jeriel,19950,19954,mein,jeriel
+gdc-coref,pzj2.0,19889,20038,jeriel,19965,19969,mich,jeriel
+gdc-coref,pzj2.0,20043,20736,mathilde,20098,20101,mir,mathilde
+gdc-coref,pzj2.0,20043,20736,mathilde,20111,20117,meines,mathilde
+gdc-coref,pzj2.0,20043,20736,mathilde,20131,20136,meine,mathilde
+gdc-coref,pzj2.0,20834,20947,mathilde,20934,20940,meiner,mathilde
+gdc-coref,pzj2.0,20952,21015,bertha,20971,20974,ich,bertha
+gdc-coref,pzj2.0,20952,21015,bertha,21011,21014,ich,bertha
+gdc-coref,pzj2.0,21087,21275,günther,21121,21124,ich,günther
+gdc-coref,pzj2.0,21087,21275,günther,21150,21153,ich,günther
+gdc-coref,pzj2.0,21087,21275,günther,21201,21204,ich,günther
+gdc-coref,pzj2.0,21087,21275,günther,21205,21209,mich,günther
+gdc-coref,pzj2.0,21307,21520,günther,21337,21340,mir,günther
+gdc-coref,pzj2.0,21307,21520,günther,21360,21363,ich,günther
+gdc-coref,pzj2.0,21307,21520,günther,21417,21420,ich,günther
+gdc-coref,pzj2.0,21570,21677,günther,21640,21643,ich,günther
+gdc-coref,pzj2.0,21682,21736,mathilde,21723,21726,ich,mathilde
+gdc-coref,pzj2.0,21741,21783,günther,21769,21773,mich,günther
+gdc-coref,pzj2.0,21909,22053,günther,21958,21961,ich,günther
+gdc-coref,pzj2.0,21909,22053,günther,22021,22024,ich,günther
+gdc-coref,pzj2.0,22098,22300,günther,22124,22129,meine,günther
+gdc-coref,pzj2.0,22098,22300,günther,22142,22145,mir,günther
+gdc-coref,pzj2.0,22098,22300,günther,22177,22180,mir,günther
+gdc-coref,pzj2.0,22098,22300,günther,22206,22209,ich,günther
+gdc-coref,pzj2.0,22098,22300,günther,22229,22233,mich,günther
+gdc-coref,pzj2.0,22098,22300,günther,22245,22248,ich,günther
+gdc-coref,pzj2.0,22365,22489,günther,22424,22428,mein,günther
+gdc-coref,pzj2.0,22756,23048,otto,22777,22780,ich,otto
+gdc-coref,pzj2.0,22756,23048,otto,22970,22973,ich,otto
+gdc-coref,pzj2.0,23053,23107,günther,23071,23074,ich,günther
+gdc-coref,pzj2.0,23112,23178,otto,23135,23138,mir,otto
+gdc-coref,pzj2.0,23373,23460,günther,23393,23399,meiner,günther
+gdc-coref,pzj2.0,23373,23460,günther,23414,23417,ich,günther
+gdc-coref,pzj2.0,23373,23460,günther,23418,23422,mich,günther
+gdc-coref,pzj2.0,23611,23695,günther,23661,23664,mir,günther
+gdc-coref,pzj2.0,23611,23695,günther,23681,23684,ich,günther
+gdc-coref,pzj2.0,24418,24527,otto,24432,24435,Ich,otto
+gdc-coref,pzj2.0,24717,24783,wallberg,24769,24772,mir,wallberg
+gdc-coref,pzj2.0,25483,25555,bodo,25490,25493,Ich,bodo
+gdc-coref,pzj2.0,25605,25871,eckard,25689,25692,ich,eckard
+gdc-coref,pzj2.0,25605,25871,eckard,25703,25709,meinem,eckard
+gdc-coref,pzj2.0,25605,25871,eckard,25721,25724,ich,eckard
+gdc-coref,pzj2.0,25605,25871,eckard,25735,25738,ich,eckard
+gdc-coref,pzj2.0,25605,25871,eckard,25790,25793,mir,eckard
+gdc-coref,pzj2.0,25605,25871,eckard,25813,25816,ich,eckard
+gdc-coref,pzj2.0,25605,25871,eckard,25825,25831,meinem,eckard
+gdc-coref,pzj2.0,26016,26112,wallberg,26079,26082,mir,wallberg
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26133,26136,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26186,26192,meiner,hanns_von_stauffen
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26204,26207,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26226,26229,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26681,26684,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26725,26728,Ich,hanns_von_stauffen
+gdc-coref,pzj2.0,26117,26871,hanns_von_stauffen,26738,26742,mein,hanns_von_stauffen
+gdc-coref,pzj2.0,26963,27096,käsperle,27009,27013,mein,käsperle
+gdc-coref,pzj2.0,26963,27096,käsperle,27039,27042,ich,käsperle
+gdc-coref,pzj2.0,27238,27526,käsperle,27262,27265,ich,käsperle
+gdc-coref,pzj2.0,27238,27526,käsperle,27306,27309,ich,käsperle
+gdc-coref,pzj2.0,27238,27526,käsperle,27343,27347,mein,käsperle
+gdc-coref,pzj2.0,27623,27715,käsperle,27652,27656,mich,käsperle
+gdc-coref,pzj2.0,27720,27885,fust,27798,27801,ich,fust
+gdc-coref,pzj2.0,27720,27885,fust,27825,27831,meinem,fust
+gdc-coref,pzj2.0,27891,28056,käsperle,27912,27915,Ich,käsperle
+gdc-coref,pzj2.0,27891,28056,käsperle,27954,27958,mich,käsperle
+gdc-coref,pzj2.0,27891,28056,käsperle,27964,27967,Ich,käsperle
+gdc-coref,pzj2.0,27891,28056,käsperle,28013,28019,meinen,käsperle
+gdc-coref,pzj2.0,28500,28758,käsperle,28626,28629,ich,käsperle
+gdc-coref,pzj2.0,28500,28758,käsperle,28695,28698,Ich,käsperle
+gdc-coref,pzj2.0,28500,28758,käsperle,28737,28740,ich,käsperle
+gdc-coref,pzj2.0,28815,28984,käsperle,28915,28921,meines,käsperle
+gdc-coref,pzj2.0,28815,28984,käsperle,28957,28960,ich,käsperle
+gdc-coref,pzj2.0,29080,29183,käsperle,29119,29122,ich,käsperle
+gdc-coref,pzj2.0,29080,29183,käsperle,29145,29148,ich,käsperle
+gdc-coref,pzj2.0,29080,29183,käsperle,29174,29177,ich,käsperle
+gdc-coref,pzj2.0,29245,29395,käsperle,29285,29288,ich,käsperle
+gdc-coref,pzj2.0,29245,29395,käsperle,29331,29334,ich,käsperle
+gdc-coref,pzj2.0,29245,29395,käsperle,29335,29339,mich,käsperle
+gdc-coref,pzj2.0,29400,29473,günther,29428,29432,mich,günther
+gdc-coref,pzj2.0,29478,29601,käsperle,29545,29548,ich,käsperle
+gdc-coref,pzj2.0,29478,29601,käsperle,29582,29586,mich,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29658,29661,Ich,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29664,29667,ich,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29674,29677,ich,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29713,29716,ich,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29719,29722,ich,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29770,29773,mir,käsperle
+gdc-coref,pzj2.0,29647,29887,käsperle,29775,29778,ich,käsperle
+gdc-coref,pzj2.0,29892,29929,günther,29902,29906,Mein,günther
+gdc-coref,pzj2.0,29934,30062,käsperle,29965,29968,ich,käsperle
+gdc-coref,pzj2.0,30067,30126,günther,30112,30116,mich,günther
+gdc-coref,pzj2.0,30131,30216,käsperle,30163,30166,ich,käsperle
+gdc-coref,pzj2.0,30131,30216,käsperle,30176,30179,Ich,käsperle
+gdc-coref,pzj2.0,30221,30409,günther,30323,30327,mich,günther
+gdc-coref,pzj2.0,30221,30409,günther,30359,30365,meines,günther
+gdc-coref,pzj2.0,30415,30586,käsperle,30505,30508,mir,käsperle
+gdc-coref,pzj2.0,30591,30716,günther,30660,30664,mich,günther
+gdc-coref,pzj2.0,30591,30716,günther,30691,30697,meinem,günther
+gdc-coref,pzj2.0,30899,31007,günther,30969,30972,ich,günther
+gdc-coref,pzj2.0,31012,31083,käsperle,31062,31066,mich,käsperle
+gdc-coref,pzj2.0,31162,31285,veit,31221,31226,meine,veit
+gdc-coref,pzj2.0,31290,31503,günther,31306,31309,ich,günther
+gdc-coref,pzj2.0,31290,31503,günther,31343,31346,ich,günther
+gdc-coref,pzj2.0,31290,31503,günther,31419,31425,meinen,günther
+gdc-coref,pzj2.0,31290,31503,günther,31453,31456,mir,günther
+gdc-coref,pzj2.0,31290,31503,günther,31482,31486,mich,günther
+gdc-coref,pzj2.0,31508,31696,veit,31546,31549,ich,veit
+gdc-coref,pzj2.0,31508,31696,veit,31608,31611,ich,veit
+gdc-coref,pzj2.0,31508,31696,veit,31647,31650,ich,veit
+gdc-coref,pzj2.0,31701,31853,käsperle,31747,31750,ich,käsperle
+gdc-coref,pzj2.0,31701,31853,käsperle,31792,31796,mich,käsperle
+gdc-coref,pzj2.0,31701,31853,käsperle,31827,31831,mein,käsperle
+gdc-coref,pzj2.0,31931,31984,käsperle,31951,31954,ich,käsperle
+gdc-coref,pzj2.0,31989,32570,veit,32053,32056,mir,veit
+gdc-coref,pzj2.0,31989,32570,veit,32466,32469,Ich,veit
+gdc-coref,pzj2.0,31989,32570,veit,32500,32504,mein,veit
+gdc-coref,pzj2.0,31989,32570,veit,32554,32557,ich,veit
+gdc-coref,pzj2.0,32696,32834,käsperle,32796,32800,mein,käsperle
+gdc-coref,pzj2.0,32696,32834,käsperle,32817,32821,mich,käsperle
+gdc-coref,pzj2.0,33131,33277,jeriel,33150,33154,mich,jeriel
+gdc-coref,pzj2.0,33131,33277,jeriel,33179,33182,ich,jeriel
+gdc-coref,pzj2.0,33282,33374,käsperle,33321,33324,mir,käsperle
+gdc-coref,pzj2.0,33379,33473,jeriel,33423,33426,Ich,jeriel
+gdc-coref,pzj2.0,33379,33473,jeriel,33437,33442,meine,jeriel
+gdc-coref,pzj2.0,33517,33642,jeriel,33589,33593,mein,jeriel
+gdc-coref,pzj2.0,33647,33828,käsperle,33738,33741,mir,käsperle
+gdc-coref,pzj2.0,33647,33828,käsperle,33801,33805,mein,käsperle
+gdc-coref,pzj2.0,35342,35480,veit,35398,35401,ich,veit
+gdc-coref,pzj2.0,35485,35654,hans,35599,35602,ich,hans
+gdc-coref,pzj2.0,35485,35654,hans,35619,35623,mein,hans
+gdc-coref,pzj2.0,35717,35887,hans,35746,35749,ich,hans
+gdc-coref,pzj2.0,35717,35887,hans,35774,35777,mir,hans
+gdc-coref,pzj2.0,35717,35887,hans,35814,35817,ich,hans
+gdc-coref,pzj2.0,35892,35946,frowald,35916,35919,ich,frowald
+gdc-coref,pzj2.0,36802,37100,mathilde,36847,36850,ich,mathilde
+gdc-coref,pzj2.0,36802,37100,mathilde,36851,36855,mein,mathilde
+gdc-coref,pzj2.0,36802,37100,mathilde,36869,36872,ich,mathilde
+gdc-coref,pzj2.0,36802,37100,mathilde,36899,36904,meine,mathilde
+gdc-coref,pzj2.0,37106,37254,mathilde,37175,37180,meine,mathilde
+gdc-coref,pzj2.0,37106,37254,mathilde,37198,37201,ich,mathilde
+gdc-coref,pzj2.0,37635,37750,mathilde,37646,37649,Ich,mathilde
+gdc-coref,pzj2.0,37635,37750,mathilde,37729,37733,mein,mathilde
+gdc-coref,pzj2.0,37954,38096,mathilde,37979,37983,mich,mathilde
+gdc-coref,pzj2.0,37954,38096,mathilde,38012,38016,mich,mathilde
+gdc-coref,pzj2.0,37954,38096,mathilde,38061,38064,Ich,mathilde
+gdc-coref,pzj2.0,38101,38319,otto,38245,38248,mir,otto
+gdc-coref,pzj2.0,38101,38319,otto,38288,38291,mir,otto
+gdc-coref,pzj2.0,38324,38381,mathilde,38354,38357,ich,mathilde
+gdc-coref,pzj2.0,38386,38596,hans,38518,38524,meiner,hans
+gdc-coref,pzj2.0,38601,38836,mathilde,38714,38718,mich,mathilde
+gdc-coref,pzj2.0,38601,38836,mathilde,38762,38765,ich,mathilde
+gdc-coref,pzj2.0,38842,39015,hans,38967,38973,meinen,hans
+gdc-coref,pzj2.0,39145,39193,hanns_von_stauffen,39160,39165,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,39238,39384,hanns_von_stauffen,39266,39272,meinen,hanns_von_stauffen
+gdc-coref,pzj2.0,39622,39664,hanns_von_stauffen,39650,39655,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,39669,39790,otto,39736,39742,meinen,otto
+gdc-coref,pzj2.0,39943,40103,otto,40033,40039,meinem,otto
+gdc-coref,pzj2.0,39943,40103,otto,40053,40056,ich,otto
+gdc-coref,pzj2.0,40108,40152,hanns_von_stauffen,40131,40134,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,40347,40391,hanns_von_stauffen,40359,40363,mich,hanns_von_stauffen
+gdc-coref,pzj2.0,40397,40756,weib,40537,40540,mir,weib
+gdc-coref,pzj2.0,40397,40756,weib,40561,40565,mein,weib
+gdc-coref,pzj2.0,40397,40756,weib,40592,40596,mich,weib
+gdc-coref,pzj2.0,40397,40756,weib,40619,40622,ich,weib
+gdc-coref,pzj2.0,40397,40756,weib,40646,40649,mir,weib
+gdc-coref,pzj2.0,40397,40756,weib,40685,40689,mein,weib
+gdc-coref,pzj2.0,41354,41801,weib,41448,41453,meine,weib
+gdc-coref,pzj2.0,42326,42449,käsperle,42378,42381,ich,käsperle
+gdc-coref,pzj2.0,42326,42449,käsperle,42386,42389,mir,käsperle
+gdc-coref,pzj2.0,42574,42744,käsperle,42596,42599,Ich,käsperle
+gdc-coref,pzj2.0,42795,42936,käsperle,42806,42809,Ich,käsperle
+gdc-coref,pzj2.0,42795,42936,käsperle,42871,42874,ich,käsperle
+gdc-coref,pzj2.0,42795,42936,käsperle,42914,42917,ich,käsperle
+gdc-coref,pzj2.0,42976,43108,käsperle,42993,42996,ich,käsperle
+gdc-coref,pzj2.0,43223,43320,jeriel,43256,43259,ich,jeriel
+gdc-coref,pzj2.0,43223,43320,jeriel,43301,43304,mir,jeriel
+gdc-coref,pzj2.0,43325,43394,günther,43351,43354,ich,günther
+gdc-coref,pzj2.0,43325,43394,günther,43355,43359,mich,günther
+gdc-coref,pzj2.0,43325,43394,günther,43381,43384,ich,günther
+gdc-coref,pzj2.0,43729,43817,günther,43759,43763,mein,günther
+gdc-coref,pzj2.0,43729,43817,günther,43775,43778,ich,günther
+gdc-coref,pzj2.0,43729,43817,günther,43789,43794,meine,günther
+gdc-coref,pzj2.0,43823,43969,käsperle,43893,43896,ich,käsperle
+gdc-coref,pzj2.0,43823,43969,käsperle,43930,43933,ich,käsperle
+gdc-coref,pzj2.0,43974,43998,günther,43993,43996,mir,günther
+gdc-coref,pzj2.0,44078,44215,käsperle,44161,44164,mir,käsperle
+gdc-coref,pzj2.0,44078,44215,käsperle,44175,44181,meiner,käsperle
+gdc-coref,pzj2.0,44078,44215,käsperle,44205,44208,ich,käsperle
+gdc-coref,pzj2.0,44220,44364,jeriel,44265,44268,Ich,jeriel
+gdc-coref,pzj2.0,44485,44706,käsperle,44555,44559,mich,käsperle
+gdc-coref,pzj2.0,44485,44706,käsperle,44629,44632,ich,käsperle
+gdc-coref,pzj2.0,44485,44706,käsperle,44633,44637,mich,käsperle
+gdc-coref,pzj2.0,44712,44815,günther,44760,44764,mein,günther
+gdc-coref,pzj2.0,44926,45011,günther,44936,44939,Ich,günther
+gdc-coref,pzj2.0,44926,45011,günther,44982,44985,ich,günther
+gdc-coref,pzj2.0,45016,45094,käsperle,45065,45069,mich,käsperle
+gdc-coref,pzj2.0,45099,45165,günther,45121,45125,mich,günther
+gdc-coref,pzj2.0,45099,45165,günther,45149,45152,ich,günther
+gdc-coref,pzj2.0,45170,45344,käsperle,45216,45219,ich,käsperle
+gdc-coref,pzj2.0,45170,45344,käsperle,45265,45268,ich,käsperle
+gdc-coref,pzj2.0,45170,45344,käsperle,45324,45329,meine,käsperle
+gdc-coref,pzj2.0,45627,45689,günther,45673,45676,ich,günther
+gdc-coref,pzj2.0,45694,45788,käsperle,45720,45723,ich,käsperle
+gdc-coref,pzj2.0,46017,46078,günther,46041,46047,meiner,günther
+gdc-coref,pzj2.0,46017,46078,günther,46053,46056,ich,günther
+gdc-coref,pzj2.0,46084,46330,käsperle,46153,46156,ich,käsperle
+gdc-coref,pzj2.0,46084,46330,käsperle,46190,46194,mich,käsperle
+gdc-coref,pzj2.0,46336,46394,geist,46350,46353,mir,geist
+gdc-coref,pzj2.0,46336,46394,geist,46356,46359,ich,geist
+gdc-coref,pzj2.0,46399,46525,käsperle,46457,46460,ich,käsperle
+gdc-coref,pzj2.0,46399,46525,käsperle,46463,46466,ich,käsperle
+gdc-coref,pzj2.0,46399,46525,käsperle,46499,46502,ich,käsperle
+gdc-coref,pzj2.0,46399,46525,käsperle,46511,46517,meinem,käsperle
+gdc-coref,pzj2.0,46530,46586,geist,46547,46550,mir,geist
+gdc-coref,pzj2.0,46530,46586,geist,46553,46556,ich,geist
+gdc-coref,pzj2.0,46591,46752,käsperle,46614,46617,Ich,käsperle
+gdc-coref,pzj2.0,46591,46752,käsperle,46620,46623,ich,käsperle
+gdc-coref,pzj2.0,46591,46752,käsperle,46643,46649,meinem,käsperle
+gdc-coref,pzj2.0,46591,46752,käsperle,46659,46662,ich,käsperle
+gdc-coref,pzj2.0,46591,46752,käsperle,46689,46692,ich,käsperle
+gdc-coref,pzj2.0,46591,46752,käsperle,46723,46726,ich,käsperle
+gdc-coref,pzj2.0,46591,46752,käsperle,46739,46742,Ich,käsperle
+gdc-coref,pzj2.0,46758,46811,geist,46793,46796,mir,geist
+gdc-coref,pzj2.0,46816,47016,käsperle,46907,46911,mich,käsperle
+gdc-coref,pzj2.0,46816,47016,käsperle,46962,46965,ich,käsperle
+gdc-coref,pzj2.0,47708,47889,günther,47743,47749,meinem,günther
+gdc-coref,pzj2.0,47708,47889,günther,47783,47786,ich,günther
+gdc-coref,pzj2.0,47708,47889,günther,47834,47837,mir,günther
+gdc-coref,pzj2.0,47894,48234,geist,47922,47925,Ich,geist
+gdc-coref,pzj2.0,47894,48234,geist,47975,47979,mein,geist
+gdc-coref,pzj2.0,47894,48234,geist,47992,47995,ich,geist
+gdc-coref,pzj2.0,47894,48234,geist,48023,48029,meinen,geist
+gdc-coref,pzj2.0,47894,48234,geist,48037,48041,Mein,geist
+gdc-coref,pzj2.0,47894,48234,geist,48200,48203,Ich,geist
+gdc-coref,pzj2.0,48311,48652,geist,48319,48323,Mein,geist
+gdc-coref,pzj2.0,48311,48652,geist,48330,48333,Ich,geist
+gdc-coref,pzj2.0,48311,48652,geist,48494,48499,meine,geist
+gdc-coref,pzj2.0,48311,48652,geist,48562,48568,meinem,geist
+gdc-coref,pzj2.0,48311,48652,geist,48618,48621,ich,geist
+gdc-coref,pzj2.0,48657,48721,günther,48676,48679,mir,günther
+gdc-coref,pzj2.0,48657,48721,günther,48691,48694,ich,günther
+gdc-coref,pzj2.0,48726,49074,geist,48759,48765,meines,geist
+gdc-coref,pzj2.0,48726,49074,geist,48839,48844,meine,geist
+gdc-coref,pzj2.0,48726,49074,geist,48901,48904,ich,geist
+gdc-coref,pzj2.0,48726,49074,geist,49029,49033,mich,geist
+gdc-coref,pzj2.0,48726,49074,geist,49048,49051,ich,geist
+gdc-coref,pzj2.0,49109,49448,geist,49117,49120,Ich,geist
+gdc-coref,pzj2.0,49109,49448,geist,49188,49192,mich,geist
+gdc-coref,pzj2.0,49493,49590,geist,49517,49522,meine,geist
+gdc-coref,pzj2.0,49595,49696,günther,49634,49638,mein,günther
+gdc-coref,pzj2.0,49595,49696,günther,49661,49665,mein,günther
+gdc-coref,pzj2.0,49701,49906,geist,49719,49722,mir,geist
+gdc-coref,pzj2.0,49701,49906,geist,49732,49735,ich,geist
+gdc-coref,pzj2.0,49701,49906,geist,49741,49745,mich,geist
+gdc-coref,pzj2.0,49701,49906,geist,49817,49821,mich,geist
+gdc-coref,pzj2.0,49911,49980,günther,49968,49971,ich,günther
+gdc-coref,pzj2.0,49985,50384,geist,50179,50185,meiner,geist
+gdc-coref,pzj2.0,50390,50843,günther,50409,50412,ich,günther
+gdc-coref,pzj2.0,50390,50843,günther,50424,50428,mich,günther
+gdc-coref,pzj2.0,50390,50843,günther,50457,50460,ich,günther
+gdc-coref,pzj2.0,50390,50843,günther,50521,50524,ich,günther
+gdc-coref,pzj2.0,50390,50843,günther,50605,50608,ich,günther
+gdc-coref,pzj2.0,50390,50843,günther,50651,50654,ich,günther
+gdc-coref,pzj2.0,50390,50843,günther,50688,50691,mir,günther
+gdc-coref,pzj2.0,51113,51741,käsperle,51131,51135,mich,käsperle
+gdc-coref,pzj2.0,51113,51741,käsperle,51205,51209,mein,käsperle
+gdc-coref,pzj2.0,51747,51948,käsperle,51799,51802,ich,käsperle
+gdc-coref,pzj2.0,51992,52036,käsperle,52007,52011,mich,käsperle
+gdc-coref,pzj2.0,53246,53531,ritter,53319,53322,ich,ritter
+gdc-coref,pzj2.0,53599,53748,ritter,53725,53729,mich,ritter
+gdc-coref,pzj2.0,54330,54389,veit,54369,54372,ich,veit
+gdc-coref,pzj2.0,54509,54702,örtchen,54540,54544,mich,örtchen
+gdc-coref,pzj2.0,54509,54702,örtchen,54566,54570,mein,örtchen
+gdc-coref,pzj2.0,55384,55444,veit,55401,55404,ich,veit
+gdc-coref,pzj2.0,55450,56111,örtchen,55543,55547,Mein,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55667,55670,ich,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55752,55755,mir,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55800,55803,ich,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55832,55835,mir,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55877,55880,ich,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55900,55903,mir,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,55972,55975,ich,örtchen
+gdc-coref,pzj2.0,55450,56111,örtchen,56001,56005,mein,örtchen
+gdc-coref,pzj2.0,56246,56439,hans,56281,56284,ich,hans
+gdc-coref,pzj2.0,56246,56439,hans,56295,56298,Ich,hans
+gdc-coref,pzj2.0,56444,56622,veit,56458,56461,ich,veit
+gdc-coref,pzj2.0,56709,57629,veit,56716,56719,Ich,veit
+gdc-coref,pzj2.0,56709,57629,veit,56741,56744,ich,veit
+gdc-coref,pzj2.0,56709,57629,veit,56867,56870,mir,veit
+gdc-coref,pzj2.0,56709,57629,veit,56877,56882,meine,veit
+gdc-coref,pzj2.0,56709,57629,veit,57168,57172,Mein,veit
+gdc-coref,pzj2.0,56709,57629,veit,57182,57185,ich,veit
+gdc-coref,pzj2.0,56709,57629,veit,57259,57262,Ich,veit
+gdc-coref,pzj2.0,56709,57629,veit,57322,57326,Mich,veit
+gdc-coref,pzj2.0,57738,58003,käsperle,57759,57762,ich,käsperle
+gdc-coref,pzj2.0,57738,58003,käsperle,57836,57840,mein,käsperle
+gdc-coref,pzj2.0,58008,58126,günther,58040,58043,Ich,günther
+gdc-coref,pzj2.0,58008,58126,günther,58060,58066,meines,günther
+gdc-coref,pzj2.0,58356,58476,käsperle,58378,58381,ich,käsperle
+gdc-coref,pzj2.0,58356,58476,käsperle,58393,58399,meinem,käsperle
+gdc-coref,pzj2.0,59001,59114,käsperle,59068,59071,ich,käsperle
+gdc-coref,pzj2.0,59274,59470,günther,59300,59303,ich,günther
+gdc-coref,pzj2.0,59274,59470,günther,59309,59315,meinen,günther
+gdc-coref,pzj2.0,59475,59610,günther,59486,59489,Ich,günther
+gdc-coref,pzj2.0,59475,59610,günther,59533,59537,mich,günther
+gdc-coref,pzj2.0,59760,60231,käsperle,59814,59817,ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,59834,59837,ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,59845,59848,ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,59911,59914,Ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,59934,59937,ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,59987,59990,ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,60060,60064,mich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,60087,60091,Mein,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,60121,60127,meiner,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,60143,60146,ich,käsperle
+gdc-coref,pzj2.0,59760,60231,käsperle,60177,60180,Ich,käsperle
+gdc-coref,pzj2.0,60364,60555,käsperle,60375,60378,Ich,käsperle
+gdc-coref,pzj2.0,60364,60555,käsperle,60381,60384,ich,käsperle
+gdc-coref,pzj2.0,60827,60925,käsperle,60848,60851,mir,käsperle
+gdc-coref,pzj2.0,60930,61028,jeriel,60946,60949,ich,jeriel
+gdc-coref,pzj2.0,60930,61028,jeriel,60959,60964,meine,jeriel
+gdc-coref,pzj2.0,61236,61361,käsperle,61318,61321,ich,käsperle
+gdc-coref,pzj2.0,61236,61361,käsperle,61322,61325,mir,käsperle
+gdc-coref,pzj2.0,61439,61557,käsperle,61507,61510,mir,käsperle
+gdc-coref,pzj2.0,62028,62212,käsperle,62039,62042,Ich,käsperle
+gdc-coref,pzj2.0,62028,62212,käsperle,62139,62142,ich,käsperle
+gdc-coref,pzj2.0,62028,62212,käsperle,62155,62159,mich,käsperle
+gdc-coref,pzj2.0,62217,62298,mädchen,62254,62257,ich,mädchen
+gdc-coref,pzj2.0,62303,62524,käsperle,62331,62334,ich,käsperle
+gdc-coref,pzj2.0,62303,62524,käsperle,62338,62342,mein,käsperle
+gdc-coref,pzj2.0,62303,62524,käsperle,62400,62403,ich,käsperle
+gdc-coref,pzj2.0,62529,62606,mädchen,62551,62557,meiner,mädchen
+gdc-coref,pzj2.0,62529,62606,mädchen,62580,62584,mich,mädchen
+gdc-coref,pzj2.0,62611,62695,käsperle,62664,62667,mir,käsperle
+gdc-coref,pzj2.0,62700,62845,mädchen,62714,62717,ich,mädchen
+gdc-coref,pzj2.0,62700,62845,mädchen,62743,62746,ich,mädchen
+gdc-coref,pzj2.0,62700,62845,mädchen,62774,62777,mir,mädchen
+gdc-coref,pzj2.0,62700,62845,mädchen,62788,62791,ich,mädchen
+gdc-coref,pzj2.0,62850,62987,käsperle,62898,62901,mir,käsperle
+gdc-coref,pzj2.0,62992,63053,mädchen,63035,63038,mir,mädchen
+gdc-coref,pzj2.0,63058,63378,käsperle,63234,63239,meine,käsperle
+gdc-coref,pzj2.0,63058,63378,käsperle,63346,63349,ich,käsperle
+gdc-coref,pzj2.0,63466,63516,die_alte,63512,63515,mir,die_alte
+gdc-coref,pzj2.0,63612,63647,die_alte,63633,63638,meine,die_alte
+gdc-coref,pzj2.0,63776,64243,die_alte,63935,63941,meiner,die_alte
+gdc-coref,pzj2.0,63776,64243,die_alte,63993,63998,meine,die_alte
+gdc-coref,pzj2.0,64627,64772,günther,64655,64658,ich,günther
+gdc-coref,pzj2.0,64627,64772,günther,64686,64689,ich,günther
+gdc-coref,pzj2.0,64627,64772,günther,64727,64730,mir,günther
+gdc-coref,pzj2.0,64627,64772,günther,64753,64756,ich,günther
+gdc-coref,pzj2.0,64777,65225,boodsheim,64924,64930,meiner,boodsheim
+gdc-coref,pzj2.0,64777,65225,boodsheim,64973,64978,meine,boodsheim
+gdc-coref,pzj2.0,64777,65225,boodsheim,65029,65034,meine,boodsheim
+gdc-coref,pzj2.0,65230,65558,günther,65240,65243,Ich,günther
+gdc-coref,pzj2.0,65230,65558,günther,65304,65307,ich,günther
+gdc-coref,pzj2.0,65230,65558,günther,65321,65327,meinem,günther
+gdc-coref,pzj2.0,65230,65558,günther,65382,65385,ich,günther
+gdc-coref,pzj2.0,65230,65558,günther,65412,65415,ich,günther
+gdc-coref,pzj2.0,65230,65558,günther,65453,65457,mich,günther
+gdc-coref,pzj2.0,65230,65558,günther,65488,65491,ich,günther
+gdc-coref,pzj2.0,65563,65743,boodsheim,65579,65584,meine,boodsheim
+gdc-coref,pzj2.0,65563,65743,boodsheim,65616,65619,mir,boodsheim
+gdc-coref,pzj2.0,65563,65743,boodsheim,65661,65664,ich,boodsheim
+gdc-coref,pzj2.0,65563,65743,boodsheim,65685,65691,meiner,boodsheim
+gdc-coref,pzj2.0,65794,65905,günther,65816,65819,mir,günther
+gdc-coref,pzj2.0,65794,65905,günther,65863,65866,ich,günther
+gdc-coref,pzj2.0,65794,65905,günther,65867,65873,meinen,günther
+gdc-coref,pzj2.0,65794,65905,günther,65886,65889,ich,günther
+gdc-coref,pzj2.0,65910,66159,boodsheim,65922,65927,Meine,boodsheim
+gdc-coref,pzj2.0,65910,66159,boodsheim,65978,65981,ich,boodsheim
+gdc-coref,pzj2.0,65910,66159,boodsheim,66066,66069,ich,boodsheim
+gdc-coref,pzj2.0,66165,66331,günther,66197,66201,mich,günther
+gdc-coref,pzj2.0,66165,66331,günther,66254,66260,meiner,günther
+gdc-coref,pzj2.0,66566,66766,käsperle,66694,66697,ich,käsperle
+gdc-coref,pzj2.0,66566,66766,käsperle,66706,66709,ich,käsperle
+gdc-coref,pzj2.0,66566,66766,käsperle,66734,66737,ich,käsperle
+gdc-coref,pzj2.0,66566,66766,käsperle,66743,66746,mir,käsperle
+gdc-coref,pzj2.0,66832,67001,käsperle,66880,66883,ich,käsperle
+gdc-coref,pzj2.0,66832,67001,käsperle,66944,66947,ich,käsperle
+gdc-coref,pzj2.0,66832,67001,käsperle,66971,66974,ich,käsperle
+gdc-coref,pzj2.0,67049,67123,käsperle,67068,67074,meinen,käsperle
+gdc-coref,pzj2.0,67166,67285,käsperle,67194,67197,ich,käsperle
+gdc-coref,pzj2.0,67166,67285,käsperle,67281,67284,ich,käsperle
+gdc-coref,pzj2.0,67430,67560,käsperle,67479,67482,ich,käsperle
+gdc-coref,pzj2.0,67430,67560,käsperle,67550,67553,mir,käsperle
+gdc-coref,pzj2.0,67608,67888,käsperle,67633,67636,ich,käsperle
+gdc-coref,pzj2.0,67608,67888,käsperle,67665,67668,mir,käsperle
+gdc-coref,pzj2.0,67608,67888,käsperle,67733,67736,mir,käsperle
+gdc-coref,pzj2.0,67608,67888,käsperle,67748,67751,ich,käsperle
+gdc-coref,pzj2.0,67608,67888,käsperle,67771,67775,mein,käsperle
+gdc-coref,pzj2.0,67930,68166,käsperle,67964,67967,mir,käsperle
+gdc-coref,pzj2.0,67930,68166,käsperle,68029,68032,ich,käsperle
+gdc-coref,pzj2.0,68195,68359,käsperle,68329,68335,meinen,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68615,68618,ich,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68721,68724,ich,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68741,68744,ich,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68745,68748,mir,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68774,68777,ich,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68809,68812,ich,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68945,68948,mir,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68964,68968,mein,käsperle
+gdc-coref,pzj2.0,68500,69133,käsperle,68986,68989,ich,käsperle
+gdc-coref,pzj2.0,69479,69603,hanns_von_stauffen,69502,69505,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,69479,69603,hanns_von_stauffen,69568,69571,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,69761,69883,hanns_von_stauffen,69774,69777,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,69761,69883,hanns_von_stauffen,69862,69865,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,70412,70541,örtchen,70525,70528,mir,örtchen
+gdc-coref,pzj2.0,70632,71049,jeriel,70648,70652,mich,jeriel
+gdc-coref,pzj2.0,70632,71049,jeriel,70662,70668,meinen,jeriel
+gdc-coref,pzj2.0,71175,71325,hanns_von_stauffen,71192,71195,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,71175,71325,hanns_von_stauffen,71196,71201,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,71175,71325,hanns_von_stauffen,71241,71246,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,71175,71325,hanns_von_stauffen,71258,71263,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,71175,71325,hanns_von_stauffen,71276,71279,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,71175,71325,hanns_von_stauffen,71297,71301,mein,hanns_von_stauffen
+gdc-coref,pzj2.0,71754,71944,hanns_von_stauffen,71781,71784,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,71754,71944,hanns_von_stauffen,71858,71863,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,71754,71944,hanns_von_stauffen,71881,71884,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,72291,72342,hanns_von_stauffen,72318,72323,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,72553,72671,otto,72570,72574,mich,otto
+gdc-coref,pzj2.0,72553,72671,otto,72590,72593,Ich,otto
+gdc-coref,pzj2.0,72553,72671,otto,72602,72607,meine,otto
+gdc-coref,pzj2.0,73192,73248,mann,73216,73219,ich,mann
+gdc-coref,pzj2.0,73253,73361,günther,73337,73341,mich,günther
+gdc-coref,pzj2.0,73367,73450,mann,73388,73391,Ich,mann
+gdc-coref,pzj2.0,73367,73450,mann,73442,73445,ich,mann
+gdc-coref,pzj2.0,73455,73546,günther,73514,73517,ich,günther
+gdc-coref,pzj2.0,73551,73613,mann,73570,73574,mich,mann
+gdc-coref,pzj2.0,73551,73613,mann,73588,73591,mir,mann
+gdc-coref,pzj2.0,73618,73790,günther,73637,73640,ich,günther
+gdc-coref,pzj2.0,73618,73790,günther,73659,73662,ich,günther
+gdc-coref,pzj2.0,73618,73790,günther,73692,73696,mein,günther
+gdc-coref,pzj2.0,73618,73790,günther,73726,73729,ich,günther
+gdc-coref,pzj2.0,73618,73790,günther,73769,73772,mir,günther
+gdc-coref,pzj2.0,73858,73901,günther,73886,73889,ich,günther
+gdc-coref,pzj2.0,74288,74381,boodsheim,74362,74365,ich,boodsheim
+gdc-coref,pzj2.0,74386,74489,günther,74415,74418,ich,günther
+gdc-coref,pzj2.0,74386,74489,günther,74456,74461,meine,günther
+gdc-coref,pzj2.0,74737,74788,günther,74747,74750,Ich,günther
+gdc-coref,pzj2.0,74737,74788,günther,74775,74778,ich,günther
+gdc-coref,pzj2.0,74793,75668,mann,74839,74842,ich,mann
+gdc-coref,pzj2.0,75674,76027,hanns_von_stauffen,75755,75758,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,76033,76302,günther,76074,76077,ich,günther
+gdc-coref,pzj2.0,76033,76302,günther,76126,76129,Ich,günther
+gdc-coref,pzj2.0,76400,76459,günther,76436,76439,ich,günther
+gdc-coref,pzj2.0,76498,76655,otto,76505,76508,Ich,otto
+gdc-coref,pzj2.0,76498,76655,otto,76592,76595,ich,otto
+gdc-coref,pzj2.0,77992,78234,otto,78063,78069,meiner,otto
+gdc-coref,pzj2.0,77992,78234,otto,78108,78112,mich,otto
+gdc-coref,pzj2.0,77992,78234,otto,78144,78148,mein,otto
+gdc-coref,pzj2.0,77992,78234,otto,78210,78213,ich,otto
+gdc-coref,pzj2.0,78370,78417,otto,78385,78390,Meine,otto
+gdc-coref,pzj2.0,78423,78611,geist,78544,78550,meiner,geist
+gdc-coref,pzj2.0,78677,78757,_stage,78677,78699,Herberge am Wienerberg,die-Herberge
+gdc-coref,pzj2.0,78677,78757,_stage,78686,78699,am Wienerberg,am-Wienerberg
+gdc-coref,pzj2.0,78677,78757,_stage,78701,78709,Käsperle,käsperle
+gdc-coref,pzj2.0,78677,78757,_stage,78716,78724,am Tisch,am-Tisch
+gdc-coref,pzj2.0,78677,78757,_stage,78747,78754,Frowald,frowald
+gdc-coref,pzj2.0,78760,78983,käsperle,78831,78835,sich,günther
+gdc-coref,pzj2.0,78760,78983,käsperle,78836,78852,mein Herr Ritter,günther
+gdc-coref,pzj2.0,78760,78983,käsperle,78836,78840,mein,käsperle
+gdc-coref,pzj2.0,78760,78983,käsperle,78853,78860,im Wald,den-Forst
+gdc-coref,pzj2.0,78760,78983,käsperle,78874,78893,dem Meister Luzifer,dem-Meister-Luzifer
+gdc-coref,pzj2.0,78760,78983,käsperle,78915,78917,er,günther
+gdc-coref,pzj2.0,78760,78983,käsperle,78928,78931,ich,käsperle
+gdc-coref,pzj2.0,78760,78983,käsperle,78963,78966,mir,käsperle
+gdc-coref,pzj2.0,78989,79026,frowald,79013,79025,guter Freund,käsperle
+gdc-coref,pzj2.0,79077,79159,frowald,79094,79097,ich,frowald
+gdc-coref,pzj2.0,79077,79159,frowald,79110,79113,ihr,käsperle
+gdc-coref,pzj2.0,79077,79159,frowald,79118,79122,euer,käsperle
+gdc-coref,pzj2.0,79164,79280,käsperle,79182,79185,mir,käsperle
+gdc-coref,pzj2.0,79164,79280,käsperle,79213,79216,ich,käsperle
+gdc-coref,pzj2.0,79164,79280,käsperle,79217,79221,euch,frowald
+gdc-coref,pzj2.0,79164,79280,käsperle,79231,79234,ich,käsperle
+gdc-coref,pzj2.0,79164,79280,käsperle,79243,79247,euch,frowald
+gdc-coref,pzj2.0,79164,79280,käsperle,79258,79263,eurer,frowald
+gdc-coref,pzj2.0,79285,79363,frowald,79295,79298,Ihr,käsperle
+gdc-coref,pzj2.0,79285,79363,frowald,79313,79325,guter Freund,käsperle
+gdc-coref,pzj2.0,79368,79420,käsperle,79387,79390,mir,käsperle
+gdc-coref,pzj2.0,79368,79420,käsperle,79406,79409,ich,käsperle
+gdc-coref,pzj2.0,79425,79531,frowald,79435,79449,Ein Wallfahrer,Ein-Wallfahrer
+gdc-coref,pzj2.0,79425,79531,frowald,79464,79476,die Herberge,die-Herberge
+gdc-coref,pzj2.0,79425,79531,frowald,79486,79495,dem Wirth,veit
+gdc-coref,pzj2.0,79425,79531,frowald,79513,79517,euch,käsperle
+gdc-coref,pzj2.0,79536,79678,käsperle,79567,79570,ich,käsperle
+gdc-coref,pzj2.0,79536,79678,käsperle,79582,79585,ich,käsperle
+gdc-coref,pzj2.0,79536,79678,käsperle,79644,79658,Mein Gutthäter,Ein-Wallfahrer
+gdc-coref,pzj2.0,79536,79678,käsperle,79644,79648,Mein,käsperle
+gdc-coref,pzj2.0,79730,79753,_stage,79730,79736,Vorige,Vorige
+gdc-coref,pzj2.0,79730,79753,_stage,79738,79752,Ritter Günther,günther
+gdc-coref,pzj2.0,79756,79799,günther,79778,79798,mein lieber Käsperle,käsperle
+gdc-coref,pzj2.0,79756,79799,günther,79778,79782,mein,günther
+gdc-coref,pzj2.0,79804,79888,käsperle,79857,79860,ihn,günther
+gdc-coref,pzj2.0,79804,79888,käsperle,79861,79871,der Teufel,dem-Meister-Luzifer
+gdc-coref,pzj2.0,79893,79944,günther,79907,79910,ich,günther
+gdc-coref,pzj2.0,79893,79944,günther,79925,79928,dir,käsperle
+gdc-coref,pzj2.0,79949,80064,käsperle,80004,80007,ihr,günther
+gdc-coref,pzj2.0,79949,80064,käsperle,80020,80031,Herr Ritter,günther
+gdc-coref,pzj2.0,79949,80064,käsperle,80040,80044,euch,günther
+gdc-coref,pzj2.0,80069,80181,günther,80079,80082,Ich,günther
+gdc-coref,pzj2.0,80069,80181,günther,80101,80105,mein,günther
+gdc-coref,pzj2.0,80069,80181,günther,80170,80175,meine,günther
+gdc-coref,pzj2.0,80186,80233,käsperle,80197,80200,Ich,käsperle
+gdc-coref,pzj2.0,80186,80233,käsperle,80208,80212,euch,günther
+gdc-coref,pzj2.0,80238,80300,günther,80253,80255,du,käsperle
+gdc-coref,pzj2.0,80238,80300,günther,80280,80282,du,käsperle
+gdc-coref,pzj2.0,80238,80300,günther,80283,80286,mir,günther
+gdc-coref,pzj2.0,80238,80300,günther,80290,80299,den Forst,den-Forst
+gdc-coref,pzj2.0,80325,80338,günther,80335,80337,Du,käsperle
+gdc-coref,pzj2.0,80343,80418,käsperle,80377,80380,ich,käsperle
+gdc-coref,pzj2.0,80423,80516,günther,80433,80440,Schurke,käsperle
+gdc-coref,pzj2.0,80423,80516,günther,80447,80449,du,käsperle
+gdc-coref,pzj2.0,80423,80516,günther,80459,80465,meinem,günther
+gdc-coref,pzj2.0,80423,80516,günther,80480,80482,du,käsperle
+gdc-coref,pzj2.0,80423,80516,günther,80483,80486,mir,günther
+gdc-coref,pzj2.0,80423,80516,günther,80507,80510,ich,günther
+gdc-coref,pzj2.0,80521,80644,käsperle,80540,80543,ihr,günther
+gdc-coref,pzj2.0,80521,80644,käsperle,80548,80556,Menschen,Menschen
+gdc-coref,pzj2.0,80521,80644,käsperle,80588,80599,den Luzifer,dem-Meister-Luzifer
+gdc-coref,pzj2.0,80521,80644,käsperle,80605,80608,ich,käsperle
+gdc-coref,pzj2.0,80521,80644,käsperle,80633,80636,ich,käsperle
+gdc-coref,pzj2.0,80649,80727,günther,80659,80667,Dummkopf,käsperle
+gdc-coref,pzj2.0,80649,80727,günther,80669,80671,du,käsperle
+gdc-coref,pzj2.0,80649,80727,günther,80683,80687,mich,günther
+gdc-coref,pzj2.0,80649,80727,günther,80691,80707,einem Einsiedler,geist
+gdc-coref,pzj2.0,80649,80727,günther,80711,80726,den nahen Forst,den-Forst
+gdc-coref,pzj2.0,80733,80841,käsperle,80747,80763,einem Einsiedler,geist
+gdc-coref,pzj2.0,80733,80841,käsperle,80816,80819,ich,käsperle
+gdc-coref,pzj2.0,80733,80841,käsperle,80824,80828,euch,günther
+gdc-coref,pzj2.0,80847,80895,günther,80857,80860,Ich,günther
+gdc-coref,pzj2.0,80847,80895,günther,80869,80873,dich,käsperle
+gdc-coref,pzj2.0,80847,80895,günther,80878,80890,der Herberge,die-Herberge
+gdc-coref,pzj2.0,80910,80922,_stage,80913,80921,Käsperle,käsperle
+gdc-coref,pzj2.0,80901,81071,frowald,80935,80947,guter Freund,käsperle
+gdc-coref,pzj2.0,80901,81071,frowald,80954,80968,der Einsiedler,geist
+gdc-coref,pzj2.0,80901,81071,frowald,80996,80998,er,geist
+gdc-coref,pzj2.0,80901,81071,frowald,81012,81016,sich,geist
+gdc-coref,pzj2.0,80901,81071,frowald,81053,81057,euch,käsperle
+gdc-coref,pzj2.0,81086,81117,_stage,81092,81096,sich,käsperle
+gdc-coref,pzj2.0,81086,81117,_stage,81107,81116,den Tisch,am-Tisch
+gdc-coref,pzj2.0,81076,81152,käsperle,81120,81122,Er,käsperle
+gdc-coref,pzj2.0,81076,81152,käsperle,81139,81141,er,käsperle
+gdc-coref,pzj2.0,81157,81183,günther,81174,81182,Käsperle,käsperle
+gdc-coref,pzj2.0,81188,81227,käsperle,81204,81207,ich,käsperle
+gdc-coref,pzj2.0,81233,81352,frowald,81243,81246,Ihr,käsperle
+gdc-coref,pzj2.0,81233,81352,frowald,81254,81266,euren Ritter,günther
+gdc-coref,pzj2.0,81233,81352,frowald,81254,81259,euren,käsperle
+gdc-coref,pzj2.0,81233,81352,frowald,81284,81296,guter Freund,käsperle
+gdc-coref,pzj2.0,81233,81352,frowald,81314,81317,ihm,günther
+gdc-coref,pzj2.0,81357,81491,käsperle,81373,81379,meinen,käsperle
+gdc-coref,pzj2.0,81357,81491,käsperle,81402,81405,ich,käsperle
+gdc-coref,pzj2.0,81357,81491,käsperle,81412,81427,die Akzidenzeln,die-Akzidenzeln
+gdc-coref,pzj2.0,81357,81491,käsperle,81442,81445,die,die-Akzidenzeln
+gdc-coref,pzj2.0,81357,81491,käsperle,81446,81449,mir,käsperle
+gdc-coref,pzj2.0,81496,81585,günther,81529,81540,der Schurke,käsperle
+gdc-coref,pzj2.0,81496,81585,günther,81558,81560,du,käsperle
+gdc-coref,pzj2.0,81496,81585,günther,81561,81565,dich,käsperle
+gdc-coref,pzj2.0,81600,81636,_stage,81610,81613,ihm,günther
+gdc-coref,pzj2.0,81590,81751,käsperle,81643,81661,lieber Herr Ritter,günther
+gdc-coref,pzj2.0,81590,81751,käsperle,81668,81672,mich,käsperle
+gdc-coref,pzj2.0,81590,81751,käsperle,81702,81705,ihr,günther
+gdc-coref,pzj2.0,81590,81751,käsperle,81733,81736,ihr,günther
+gdc-coref,pzj2.0,81590,81751,käsperle,81737,81741,mich,käsperle
+gdc-coref,pzj2.0,81765,81784,_stage,81771,81775,sein,günther
+gdc-coref,pzj2.0,81756,81820,günther,81787,81794,Schurke,käsperle
+gdc-coref,pzj2.0,81756,81820,günther,81795,81797,du,käsperle
+gdc-coref,pzj2.0,81756,81820,günther,81806,81808,du,käsperle
+gdc-coref,pzj2.0,81756,81820,günther,81809,81813,mich,günther
+gdc-coref,pzj2.0,81825,82020,käsperle,81873,81876,ich,käsperle
+gdc-coref,pzj2.0,81825,82020,käsperle,81968,81980,zum Belzebub,dem-Meister-Luzifer
+gdc-coref,pzj2.0,81825,82020,käsperle,82004,82006,Er,günther
+gdc-coref,pzj2.0,81825,82020,käsperle,82012,82015,ihn,käsperle
+gdc-coref,pzj2.0,82072,82087,_stage,82072,82079,Frowald,frowald
+gdc-coref,pzj2.0,82798,82883,_stage,82809,82825,der Stauffenburg,der-Stauffenburg
+gdc-coref,pzj2.0,82798,82883,_stage,82827,82841,Hanns Stauffen,hanns
+gdc-coref,pzj2.0,82798,82883,_stage,82868,82882,der Schloßvogt,berthold
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,82903,82906,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,82957,82960,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,83032,83041,der Vater,der-Vater
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,83061,83064,ihm,der-Vater
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,83098,83101,ihm,der-Vater
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,83123,83133,Löbenstein,löbenstein
+gdc-coref,pzj2.0,82886,83199,hanns_von_stauffen,83172,83178,deiner,löbenstein
+gdc-coref,pzj2.0,83204,83311,berthold,83215,83226,Herr Ritter,hanns
+gdc-coref,pzj2.0,83204,83311,berthold,83228,83254,Eine alte blinde Bettlerin,mathilde
+gdc-coref,pzj2.0,83204,83311,berthold,83271,83283,einen Knaben,jeriel
+gdc-coref,pzj2.0,83204,83311,berthold,83294,83298,euch,hanns
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83324,83327,Ich,hanns_von_stauffen
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83393,83396,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83397,83401,mein,hanns_von_stauffen
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83443,83495,"die Strenge, die ich an meinem einzigen Kind ausübte","die-Strenge,-die-ich-an-meinem-einzigen-Kind-ausübte"
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83456,83459,die,"die-Strenge,-die-ich-an-meinem-einzigen-Kind-ausübte"
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83460,83463,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83467,83487,meinem einzigen Kind,mathilde
+gdc-coref,pzj2.0,83316,83497,hanns_von_stauffen,83467,83473,meinem,hanns_von_stauffen
+gdc-coref,pzj2.0,83502,83605,berthold,83518,83521,ich,berthold
+gdc-coref,pzj2.0,83502,83605,berthold,83522,83534,die Hülflose,mathilde
+gdc-coref,pzj2.0,83502,83605,berthold,83584,83592,der Burg,der-Stauffenburg
+gdc-coref,pzj2.0,83610,83805,hanns_von_stauffen,83635,83637,du,berthold
+gdc-coref,pzj2.0,83610,83805,hanns_von_stauffen,83652,83655,ihr,mathilde
+gdc-coref,pzj2.0,83610,83805,hanns_von_stauffen,83679,83682,ihr,mathilde
+gdc-coref,pzj2.0,83610,83805,hanns_von_stauffen,83697,83699,du,berthold
+gdc-coref,pzj2.0,83610,83805,hanns_von_stauffen,83713,83716,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,83610,83805,hanns_von_stauffen,83781,83787,meiner,hanns_von_stauffen
+gdc-coref,pzj2.0,83810,83888,berthold,83829,83833,euch,hanns
+gdc-coref,pzj2.0,83810,83888,berthold,83834,83838,Gott,Gott
+gdc-coref,pzj2.0,83810,83888,berthold,83856,83866,edler Herr,hanns
+gdc-coref,pzj2.0,83810,83888,berthold,83884,83887,sie,jeriel-und-mathilde
+gdc-coref,pzj2.0,83939,84017,_stage,83939,83945,Vorige,Vorige
+gdc-coref,pzj2.0,83939,84017,_stage,83947,83955,Mathilde,mathilde
+gdc-coref,pzj2.0,83939,84017,_stage,83998,84004,Jeriel,jeriel
+gdc-coref,pzj2.0,84020,84058,hanns_von_stauffen,84041,84043,du,mathilde
+gdc-coref,pzj2.0,84020,84058,hanns_von_stauffen,84045,84057,Unglückliche,mathilde
+gdc-coref,pzj2.0,84063,84382,mathilde,84099,84108,Mein Mann,Mein-Mann
+gdc-coref,pzj2.0,84063,84382,mathilde,84099,84103,Mein,mathilde
+gdc-coref,pzj2.0,84063,84382,mathilde,84146,84148,er,Mein-Mann
+gdc-coref,pzj2.0,84063,84382,mathilde,84185,84198,die Sarazenen,die-Sarazenen
+gdc-coref,pzj2.0,84063,84382,mathilde,84200,84203,Ich,mathilde
+gdc-coref,pzj2.0,84063,84382,mathilde,84234,84248,jener Barbaren,die-Sarazenen
+gdc-coref,pzj2.0,84063,84382,mathilde,84251,84254,sie,die-Sarazenen
+gdc-coref,pzj2.0,84063,84382,mathilde,84265,84269,mich,mathilde
+gdc-coref,pzj2.0,84063,84382,mathilde,84311,84329,Gottes schöne Erde,Gottes-schöne-Erde
+gdc-coref,pzj2.0,84063,84382,mathilde,84311,84317,Gottes,Gott
+gdc-coref,pzj2.0,84063,84382,mathilde,84334,84338,mich,mathilde
+gdc-coref,pzj2.0,84063,84382,mathilde,84363,84368,ihrer,Gottes-schöne-Erde
+gdc-coref,pzj2.0,84388,84416,hanns_von_stauffen,84405,84415,Armes Weib,mathilde
+gdc-coref,pzj2.0,84421,84549,mathilde,84442,84446,mich,mathilde
+gdc-coref,pzj2.0,84421,84549,mathilde,84447,84456,mein Sohn,jeriel
+gdc-coref,pzj2.0,84421,84549,mathilde,84447,84451,mein,mathilde
+gdc-coref,pzj2.0,84421,84549,mathilde,84467,84480,gute Menschen,Menschen
+gdc-coref,pzj2.0,84421,84549,mathilde,84492,84495,die,Menschen
+gdc-coref,pzj2.0,84421,84549,mathilde,84496,84499,mir,mathilde
+gdc-coref,pzj2.0,84421,84549,mathilde,84521,84525,mich,mathilde
+gdc-coref,pzj2.0,84561,84587,_stage,84567,84578,den Kleinen,jeriel
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84601,84603,du,jeriel
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84618,84628,gutes Kind,jeriel
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84630,84632,du,jeriel
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84644,84647,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84658,84661,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84680,84691,meiner Habe,meiner-Habe
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84680,84686,meiner,hanns_von_stauffen
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84697,84718,meine einzige Tochter,mathilde
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84697,84702,meine,hanns_von_stauffen
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84725,84728,sie,die-Buben
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84729,84733,mich,hanns_von_stauffen
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84755,84764,die Buben,die-Buben
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84766,84768,Du,jeriel
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84785,84788,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84798,84812,lieber Kleiner,jeriel
+gdc-coref,pzj2.0,84554,84830,hanns_von_stauffen,84826,84829,ihm,jeriel
+gdc-coref,pzj2.0,84836,84941,jeriel,84859,84869,die Mutter,mathilde
+gdc-coref,pzj2.0,84836,84941,jeriel,84888,84891,sie,mathilde
+gdc-coref,pzj2.0,84836,84941,jeriel,84917,84920,sie,mathilde
+gdc-coref,pzj2.0,84836,84941,jeriel,84921,84925,mich,jeriel
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,84954,84962,Berthold,berthold
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,84970,84980,die Mutter,mathilde
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,84981,84994,dieses Kindes,jeriel
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,84998,85002,mein,hanns_von_stauffen
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85030,85033,ihr,mathilde
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85045,85048,sie,mathilde
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85060,85079,diese arme Menschen,jeriel-und-mathilde
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85087,85090,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85103,85117,meiner Tochter,mathilde
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85103,85109,meiner,hanns_von_stauffen
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85129,85142,diesen Knaben,jeriel
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85148,85151,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85178,85181,ihn,jeriel
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85212,85214,er,jeriel
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85229,85241,meiner Güter,meiner-Habe
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85229,85235,meiner,hanns_von_stauffen
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85254,85257,mir,hanns_von_stauffen
+gdc-coref,pzj2.0,84946,85323,hanns_von_stauffen,85269,85272,ich,hanns_von_stauffen
+gdc-coref,pzj2.0,85328,85459,mathilde,85353,85374,eure Tochter Mathilde,mathilde
+gdc-coref,pzj2.0,85328,85459,mathilde,85353,85357,eure,hanns
+gdc-coref,pzj2.0,85328,85459,mathilde,85392,85395,sie,mathilde
+gdc-coref,pzj2.0,85328,85459,mathilde,85413,85436,diese ungebetenen Erben,jeriel-und-mathilde
+gdc-coref,pzj2.0,85328,85459,mathilde,85441,85451,eurer Burg,der-Stauffenburg
+gdc-coref,pzj2.0,85328,85459,mathilde,85441,85446,eurer,hanns
+gdc-coref,pzj2.0,85464,85517,hans,85482,85490,Mathilde,mathilde
+gdc-coref,pzj2.0,85464,85517,hans,85493,85506,meine Tochter,mathilde
+gdc-coref,pzj2.0,85464,85517,hans,85493,85498,meine,hans
+gdc-coref,pzj2.0,85464,85517,hans,85514,85516,du,mathilde
+gdc-coref,pzj2.0,85522,85556,jeriel,85541,85544,sie,mathilde
+gdc-coref,pzj2.0,85567,85622,_stage,85572,85575,ihn,jeriel
+gdc-coref,pzj2.0,85561,85713,hans,85630,85633,sie,mathilde
+gdc-coref,pzj2.0,85561,85713,hans,85646,85652,Jeriel,jeriel
+gdc-coref,pzj2.0,85561,85713,hans,85686,85695,Mathilden,mathilde
+gdc-coref,pzj2.0,85561,85713,hans,85697,85699,er,jeriel
+gdc-coref,pzj2.0,85719,85778,mathilde,85730,85733,Sie,mathilde
+gdc-coref,pzj2.0,85719,85778,mathilde,85753,85758,euren,hanns
+gdc-coref,pzj2.0,85719,85778,mathilde,85767,85777,Mein Vater,hanns
+gdc-coref,pzj2.0,85719,85778,mathilde,85767,85771,Mein,mathilde
+gdc-coref,pzj2.0,85783,85816,hans,85790,85798,Mathilde,mathilde
+gdc-coref,pzj2.0,85856,86417,hans,85871,85875,mein,hans
+gdc-coref,pzj2.0,85856,86417,hans,85883,85891,Mathilde,mathilde
+gdc-coref,pzj2.0,85856,86417,hans,85907,85935,der wiedergefundenen Tochter,mathilde
+gdc-coref,pzj2.0,85856,86417,hans,85975,85978,ich,hans
+gdc-coref,pzj2.0,85856,86417,hans,86058,86066,Berthold,berthold
+gdc-coref,pzj2.0,85856,86417,hans,86076,86091,mehrere Knechte,mehrere-Knechte
+gdc-coref,pzj2.0,85856,86417,hans,86097,86123,der Herberge am Wienerberg,die-Herberge
+gdc-coref,pzj2.0,85856,86417,hans,86110,86123,am Wienerberg,am-Wienerberg
+gdc-coref,pzj2.0,85856,86417,hans,86138,86141,sie,mehrere-Knechte
+gdc-coref,pzj2.0,85856,86417,hans,86142,86149,Günther,günther
+gdc-coref,pzj2.0,85856,86417,hans,86227,86235,Berthold,berthold
+gdc-coref,pzj2.0,85856,86417,hans,86240,86243,ich,hans
+gdc-coref,pzj2.0,85856,86417,hans,86249,86253,mich,hans
+gdc-coref,pzj2.0,85856,86417,hans,86281,86284,ich,hans
+gdc-coref,pzj2.0,85856,86417,hans,86290,86303,meine Tochter,mathilde
+gdc-coref,pzj2.0,85856,86417,hans,86290,86295,meine,hans
+gdc-coref,pzj2.0,85856,86417,hans,86337,86340,mir,hans
+gdc-coref,pzj2.0,85856,86417,hans,86354,86362,der Welt,Gottes-schöne-Erde
+gdc-coref,pzj2.0,85856,86417,hans,86369,86372,ich,hans
+gdc-coref,pzj2.0,85856,86417,hans,86373,86376,sie,Gottes-schöne-Erde
+gdc-coref,pzj2.0,86422,86467,mathilde,86435,86446,guter Vater,hanns
+gdc-coref,pzj2.0,86422,86467,mathilde,86453,86456,ihm,hanns
+gdc-coref,pzj2.0,86473,86666,hans,86480,86483,Ich,hans
+gdc-coref,pzj2.0,86473,86666,hans,86509,86512,ich,hans
+gdc-coref,pzj2.0,86473,86666,hans,86542,86545,ich,hans
+gdc-coref,pzj2.0,86473,86666,hans,86553,86556,ich,hans
+gdc-coref,pzj2.0,86473,86666,hans,86562,86575,meine Tochter,mathilde
+gdc-coref,pzj2.0,86473,86666,hans,86562,86567,meine,hans
+gdc-coref,pzj2.0,86473,86666,hans,86592,86600,der Mann,der-Mann
+gdc-coref,pzj2.0,86473,86666,hans,86641,86644,der,der-Mann
+gdc-coref,pzj2.0,86719,86749,_stage,86719,86727,Herberge,die-Herberge
+gdc-coref,pzj2.0,86719,86749,_stage,86729,86742,Ritter Eckard,eckard
+gdc-coref,pzj2.0,86719,86749,_stage,86744,86748,Veit,veit
+gdc-coref,pzj2.0,86752,86823,veit,86759,86762,Ihr,eckard
+gdc-coref,pzj2.0,86752,86823,veit,86769,86780,Herr Ritter,eckard
+gdc-coref,pzj2.0,86752,86823,veit,86791,86800,die Sache,die-Sache
+gdc-coref,pzj2.0,86828,86856,eckard,86845,86855,eine Sache,die-Sache
+gdc-coref,pzj2.0,86861,86926,veit,86872,86886,meiner Tochter,örtchen
+gdc-coref,pzj2.0,86861,86926,veit,86872,86878,meiner,veit
+gdc-coref,pzj2.0,86861,86926,veit,86888,86925,Sie soll in's Himmelsnahmen heurathen,die-Sache
+gdc-coref,pzj2.0,86861,86926,veit,86888,86891,Sie,örtchen
+gdc-coref,pzj2.0,86931,86962,eckard,86940,86943,Ich,eckard
+gdc-coref,pzj2.0,86931,86962,eckard,86952,86955,ihr,örtchen
+gdc-coref,pzj2.0,86967,87210,veit,86983,86986,ich,veit
+gdc-coref,pzj2.0,86967,87210,veit,87005,87014,der Vogel,der-Vogel
+gdc-coref,pzj2.0,86967,87210,veit,87031,87033,er,der-Vogel
+gdc-coref,pzj2.0,86967,87210,veit,87053,87064,das Mädchen,das-Mädchen
+gdc-coref,pzj2.0,86967,87210,veit,87085,87088,sie,das-Mädchen
+gdc-coref,pzj2.0,86967,87210,veit,87157,87160,sie,das-Mädchen
+gdc-coref,pzj2.0,86967,87210,veit,87191,87200,das Mädel,das-Mädchen
+gdc-coref,pzj2.0,87215,87256,eckard,87224,87227,Ihr,veit
+gdc-coref,pzj2.0,87261,87470,veit,87314,87317,ich,veit
+gdc-coref,pzj2.0,87261,87470,veit,87340,87343,ich,veit
+gdc-coref,pzj2.0,87261,87470,veit,87374,87377,mir,veit
+gdc-coref,pzj2.0,87261,87470,veit,87387,87398,Herr Ritter,eckard
+gdc-coref,pzj2.0,87261,87470,veit,87408,87414,meinem,veit
+gdc-coref,pzj2.0,87521,87651,veit,87576,87579,mir,veit
+gdc-coref,pzj2.0,87521,87651,veit,87580,87588,der Bube,hans
+gdc-coref,pzj2.0,87521,87651,veit,87589,87598,die Dirne,örtchen
+gdc-coref,pzj2.0,87656,87694,eckard,87665,87668,Ihr,veit
+gdc-coref,pzj2.0,88554,88569,_stage,88554,88562,Märtchen,örtchen
+gdc-coref,pzj2.0,88554,88569,_stage,88564,88568,Hans,hans
+gdc-coref,pzj2.0,88572,88672,hans,88585,88600,liebes Märtchen,örtchen
+gdc-coref,pzj2.0,88572,88672,hans,88613,88616,wir,hans-und-märtchen
+gdc-coref,pzj2.0,88572,88672,hans,88647,88650,wir,hans-und-märtchen
+gdc-coref,pzj2.0,88572,88672,hans,88651,88654,uns,hans-und-märtchen
+gdc-coref,pzj2.0,88677,88879,örtchen,88730,88739,der Vater,veit
+gdc-coref,pzj2.0,88677,88879,örtchen,88759,88761,Du,hans
+gdc-coref,pzj2.0,88677,88879,örtchen,88801,88803,du,hans
+gdc-coref,pzj2.0,88677,88879,örtchen,88830,88833,ich,örtchen
+gdc-coref,pzj2.0,88677,88879,örtchen,88842,88845,ich,örtchen
+gdc-coref,pzj2.0,88677,88879,örtchen,88852,88856,dich,hans
+gdc-coref,pzj2.0,88884,88926,hans,88900,88903,ich,hans
+gdc-coref,pzj2.0,88884,88926,hans,88904,88908,dich,örtchen
+gdc-coref,pzj2.0,88931,89091,örtchen,88962,88964,du,hans
+gdc-coref,pzj2.0,88931,89091,örtchen,88996,88999,wir,hans-und-märtchen
+gdc-coref,pzj2.0,88931,89091,örtchen,89026,89028,du,hans
+gdc-coref,pzj2.0,88931,89091,örtchen,89059,89068,der Vater,veit
+gdc-coref,pzj2.0,89096,89245,hans,89115,89130,liebes Märtchen,örtchen
+gdc-coref,pzj2.0,89096,89245,hans,89132,89135,wir,hans-und-märtchen
+gdc-coref,pzj2.0,89096,89245,hans,89177,89186,den Vater,veit
+gdc-coref,pzj2.0,89096,89245,hans,89205,89208,uns,hans-und-märtchen
+gdc-coref,pzj2.0,89250,89479,hans,89297,89305,Märtchen,örtchen
+gdc-coref,pzj2.0,89250,89479,hans,89306,89310,mein,
+gdc-coref,pzj2.0,89250,89479,hans,89328,89331,sie,örtchen
+gdc-coref,pzj2.0,89250,89479,hans,89332,89336,mich,hans
+gdc-coref,pzj2.0,89250,89479,hans,89359,89362,ich,hans
+gdc-coref,pzj2.0,89250,89479,hans,89396,89399,ich,hans
+gdc-coref,pzj2.0,89250,89479,hans,89419,89427,der Welt,Gottes-schöne-Erde
+gdc-coref,pzj2.0,89486,89711,örtchen,89550,89554,Sich,Ein-Blumenstrauß
+gdc-coref,pzj2.0,89486,89711,örtchen,89564,89570,meinem,örtchen
+gdc-coref,pzj2.0,89486,89711,örtchen,89584,89600,Ein Blumenstrauß,Ein-Blumenstrauß
+gdc-coref,pzj2.0,89486,89711,örtchen,89611,89614,ich,örtchen
+gdc-coref,pzj2.0,89717,89999,,89783,89785,du,örtchen
+gdc-coref,pzj2.0,89717,89999,,89804,89807,ich,örtchen
+gdc-coref,pzj2.0,89717,89999,,89887,89890,Ich,hans
+gdc-coref,pzj2.0,89717,89999,,89896,89900,dich,örtchen
+gdc-coref,pzj2.0,89717,89999,,89915,89917,du,örtchen
+gdc-coref,pzj2.0,89717,89999,,89925,89929,mich,hans
+gdc-coref,pzj2.0,89717,89999,,89945,89948,ich,hans
+gdc-coref,pzj2.0,90049,90127,_stage,90049,90053,Wald,den-Forst
+gdc-coref,pzj2.0,90049,90127,_stage,90071,90092,eine Einsiedler-Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,90049,90127,_stage,90094,90108,Ritter Günther,günther
+gdc-coref,pzj2.0,90049,90127,_stage,90114,90117,ihm,günther
+gdc-coref,pzj2.0,90049,90127,_stage,90118,90126,Käsperle,käsperle
+gdc-coref,pzj2.0,90130,90244,günther,90147,90149,du,käsperle
+gdc-coref,pzj2.0,90130,90244,günther,90162,90165,wir,käsperle-und-günther
+gdc-coref,pzj2.0,90130,90244,günther,90198,90243,"die Einsiedler-Hütte, die wir zu suchen haben","die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,90130,90244,günther,90220,90223,die,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,90130,90244,günther,90224,90227,wir,käsperle-und-günther
+gdc-coref,pzj2.0,90259,90275,_stage,90270,90274,sich,käsperle
+gdc-coref,pzj2.0,90249,90384,käsperle,90302,90307,unser,käsperle-und-günther
+gdc-coref,pzj2.0,90249,90384,käsperle,90364,90367,wir,käsperle-und-günther
+gdc-coref,pzj2.0,90389,90472,günther,90403,90405,du,käsperle
+gdc-coref,pzj2.0,90389,90472,günther,90411,90415,dein,käsperle
+gdc-coref,pzj2.0,90389,90472,günther,90464,90471,Bursche,käsperle
+gdc-coref,pzj2.0,90556,90723,käsperle,90572,90575,ich,käsperle
+gdc-coref,pzj2.0,90556,90723,käsperle,90594,90597,ich,käsperle
+gdc-coref,pzj2.0,90556,90723,käsperle,90598,90602,euch,günther
+gdc-coref,pzj2.0,90556,90723,käsperle,90623,90626,ich,käsperle
+gdc-coref,pzj2.0,90556,90723,käsperle,90661,90664,ich,käsperle
+gdc-coref,pzj2.0,90556,90723,käsperle,90665,90669,mich,käsperle
+gdc-coref,pzj2.0,90728,90767,günther,90738,90743,Memme,käsperle
+gdc-coref,pzj2.0,90820,90849,_stage,90820,90826,Vorige,Vorige
+gdc-coref,pzj2.0,90820,90849,_stage,90828,90833,Marie,geist
+gdc-coref,pzj2.0,90852,90916,geist,90872,90883,meine Söhne,käsperle-und-günther
+gdc-coref,pzj2.0,90852,90916,geist,90872,90877,meine,geist
+gdc-coref,pzj2.0,90852,90916,geist,90888,90915,der Wohnung der Dürftigkeit,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,90921,90960,günther,90942,90959,ehrwürdiger Vater,geist
+gdc-coref,pzj2.0,90965,91087,geist,90979,90982,ihr,käsperle-und-günther
+gdc-coref,pzj2.0,90965,91087,geist,91035,91052,einige Erdfrüchte,einige-Erdfrüchte
+gdc-coref,pzj2.0,90965,91087,geist,91072,91075,mir,geist
+gdc-coref,pzj2.0,91102,91111,_stage,91106,91110,sich,käsperle
+gdc-coref,pzj2.0,91092,91179,käsperle,91163,91166,man,man
+gdc-coref,pzj2.0,91184,91372,günther,91208,91225,ehrwürdiger Vater,geist
+gdc-coref,pzj2.0,91184,91372,günther,91232,91238,meinem,günther
+gdc-coref,pzj2.0,91184,91372,günther,91257,91302,"eure Früchte, gewürzt von freundlichen Händen",einige-Erdfrüchte
+gdc-coref,pzj2.0,91184,91372,günther,91257,91261,eure,geist
+gdc-coref,pzj2.0,91184,91372,günther,91310,91313,mir,günther
+gdc-coref,pzj2.0,91184,91372,günther,91334,91349,manchem Reichen,manchem-Reichen
+gdc-coref,pzj2.0,91184,91372,günther,91350,91355,seine,manchem-Reichen
+gdc-coref,pzj2.0,91387,91396,_stage,91391,91395,sich,käsperle
+gdc-coref,pzj2.0,91377,91437,käsperle,91409,91412,ich,käsperle
+gdc-coref,pzj2.0,91377,91437,käsperle,91415,91418,ihn,günther
+gdc-coref,pzj2.0,91442,91483,geist,91460,91463,ihr,günther
+gdc-coref,pzj2.0,91442,91483,geist,91464,91468,euch,günther
+gdc-coref,pzj2.0,91442,91483,geist,91470,91482,guter Freund,günther
+gdc-coref,pzj2.0,91488,91522,günther,91498,91521,Günther von Schwarzenau,günther
+gdc-coref,pzj2.0,91527,91689,käsperle,91554,91557,Ich,käsperle
+gdc-coref,pzj2.0,91527,91689,käsperle,91563,91571,Käsperle,käsperle
+gdc-coref,pzj2.0,91527,91689,käsperle,91578,91602,des Ritters Waffenknecht,käsperle
+gdc-coref,pzj2.0,91527,91689,käsperle,91578,91589,des Ritters,günther
+gdc-coref,pzj2.0,91527,91689,käsperle,91650,91656,meiner,käsperle
+gdc-coref,pzj2.0,91703,91713,_stage,91709,91712,ihm,käsperle
+gdc-coref,pzj2.0,91694,91804,günther,91722,91724,du,käsperle
+gdc-coref,pzj2.0,91694,91804,günther,91741,91750,Zum Geist,geist
+gdc-coref,pzj2.0,91694,91804,günther,91752,91765,Frommer Greiß,geist
+gdc-coref,pzj2.0,91694,91804,günther,91767,91770,man,man
+gdc-coref,pzj2.0,91694,91804,günther,91775,91779,mich,günther
+gdc-coref,pzj2.0,91694,91804,günther,91783,91787,euch,geist
+gdc-coref,pzj2.0,91809,91878,geist,91817,91824,Günther,günther
+gdc-coref,pzj2.0,91809,91878,geist,91831,91834,ihr,günther
+gdc-coref,pzj2.0,91809,91878,geist,91841,91845,euer,günther
+gdc-coref,pzj2.0,91883,91990,günther,91893,91896,Ich,günther
+gdc-coref,pzj2.0,91883,91990,günther,91911,91914,ihr,geist
+gdc-coref,pzj2.0,91883,91990,günther,91937,91940,mir,günther
+gdc-coref,pzj2.0,91883,91990,günther,91942,91959,ehrwürdiger Vater,geist
+gdc-coref,pzj2.0,91883,91990,günther,91961,91965,mein,günther
+gdc-coref,pzj2.0,91883,91990,günther,91980,91989,Mathilden,mathilde
+gdc-coref,pzj2.0,91995,92356,geist,92017,92036,der versöhnte Vater,hanns
+gdc-coref,pzj2.0,91995,92356,geist,92037,92051,seiner Tochter,mathilde
+gdc-coref,pzj2.0,91995,92356,geist,92037,92043,seiner,hanns
+gdc-coref,pzj2.0,91995,92356,geist,92066,92072,deiner,günther
+gdc-coref,pzj2.0,91995,92356,geist,92085,92087,Er,geist
+gdc-coref,pzj2.0,91995,92356,geist,92128,92131,Man,man
+gdc-coref,pzj2.0,91995,92356,geist,92144,92158,einen Schleyer,einen-Schleyer
+gdc-coref,pzj2.0,91995,92356,geist,92271,92278,Günther,günther
+gdc-coref,pzj2.0,91995,92356,geist,92283,92291,Mathilde,mathilde
+gdc-coref,pzj2.0,91995,92356,geist,92293,92296,Sie,mathilde
+gdc-coref,pzj2.0,91995,92356,geist,92301,92313,ein Jüngling,günther
+gdc-coref,pzj2.0,91995,92356,geist,92338,92348,des Vaters,hanns
+gdc-coref,pzj2.0,92362,92456,günther,92386,92389,ich,günther
+gdc-coref,pzj2.0,92362,92456,günther,92392,92400,Mathilde,mathilde
+gdc-coref,pzj2.0,92362,92456,günther,92406,92410,mein,günther
+gdc-coref,pzj2.0,92362,92456,günther,92423,92434,Die Kortine,Die-Kortine
+gdc-coref,pzj2.0,92472,92486,_stage,92481,92485,sich,käsperle
+gdc-coref,pzj2.0,92462,92579,käsperle,92551,92554,ich,käsperle
+gdc-coref,pzj2.0,92585,92622,günther,92595,92603,Käsperle,käsperle
+gdc-coref,pzj2.0,92585,92622,günther,92605,92607,du,käsperle
+gdc-coref,pzj2.0,92627,92778,käsperle,92684,92687,ich,käsperle
+gdc-coref,pzj2.0,92627,92778,käsperle,92703,92706,ihr,günther
+gdc-coref,pzj2.0,92627,92778,käsperle,92730,92733,mir,käsperle
+gdc-coref,pzj2.0,92627,92778,käsperle,92753,92758,meine,käsperle
+gdc-coref,pzj2.0,92784,93398,geist,92803,92805,du,günther
+gdc-coref,pzj2.0,92784,93398,geist,92820,92828,Jüngling,günther
+gdc-coref,pzj2.0,92784,93398,geist,92870,92872,Er,geist
+gdc-coref,pzj2.0,92784,93398,geist,92881,92892,Die Kortine,Die-Kortine
+gdc-coref,pzj2.0,92784,93398,geist,92931,92934,Man,man
+gdc-coref,pzj2.0,92784,93398,geist,92952,92966,jenen Schleyer,einen-Schleyer
+gdc-coref,pzj2.0,92784,93398,geist,92967,92981,die offene See,die-offene-See
+gdc-coref,pzj2.0,92784,93398,geist,93053,93057,sich,günther
+gdc-coref,pzj2.0,92784,93398,geist,93058,93068,ein Ritter,günther
+gdc-coref,pzj2.0,92784,93398,geist,93103,93105,er,günther
+gdc-coref,pzj2.0,92784,93398,geist,93114,93121,die See,die-offene-See
+gdc-coref,pzj2.0,92784,93398,geist,93136,93138,er,günther
+gdc-coref,pzj2.0,92784,93398,geist,93150,93159,der Fluth,der-Fluth
+gdc-coref,pzj2.0,92784,93398,geist,93210,93219,der Fluth,der-Fluth
+gdc-coref,pzj2.0,92784,93398,geist,93228,93231,ihn,günther
+gdc-coref,pzj2.0,92784,93398,geist,93242,93245,ihn,günther
+gdc-coref,pzj2.0,92784,93398,geist,93261,93273,Der Jüngling,günther
+gdc-coref,pzj2.0,92784,93398,geist,93324,93335,die Kortine,Die-Kortine
+gdc-coref,pzj2.0,92784,93398,geist,93351,93359,Käsperle,käsperle
+gdc-coref,pzj2.0,93404,93459,günther,93414,93431,Ehrwürdiger Alter,geist
+gdc-coref,pzj2.0,93404,93459,günther,93442,93458,das wogende Meer,die-offene-See
+gdc-coref,pzj2.0,93464,93702,geist,93485,93491,deines,günther
+gdc-coref,pzj2.0,93464,93702,geist,93523,93525,du,günther
+gdc-coref,pzj2.0,93464,93702,geist,93548,93550,du,günther
+gdc-coref,pzj2.0,93464,93702,geist,93569,93573,mich,geist
+gdc-coref,pzj2.0,93464,93702,geist,93587,93595,Jüngling,günther
+gdc-coref,pzj2.0,93464,93702,geist,93597,93675,"eine wichtige Pflicht, die ich schon dreyssig Jahre zu erfüllen heilig gelobte","eine-wichtige-Pflicht,-die-ich-schon-dreyssig-Jahre-zu-erfüllen-heilig-gelobte"
+gdc-coref,pzj2.0,93464,93702,geist,93620,93623,die,"eine-wichtige-Pflicht,-die-ich-schon-dreyssig-Jahre-zu-erfüllen-heilig-gelobte"
+gdc-coref,pzj2.0,93464,93702,geist,93624,93627,ich,geist
+gdc-coref,pzj2.0,93464,93702,geist,93684,93688,mich,geist
+gdc-coref,pzj2.0,93707,93733,günther,93721,93726,diese,"eine-wichtige-Pflicht,-die-ich-schon-dreyssig-Jahre-zu-erfüllen-heilig-gelobte"
+gdc-coref,pzj2.0,93745,93767,_stage,93751,93766,eine Bodenthüre,eine-Bodenthüre
+gdc-coref,pzj2.0,93738,94024,geist,93787,93804,ein Unglücklicher,kilian
+gdc-coref,pzj2.0,93738,94024,geist,93834,93836,er,kilian
+gdc-coref,pzj2.0,93738,94024,geist,93841,93846,seine,kilian
+gdc-coref,pzj2.0,93738,94024,geist,93882,93884,er,kilian
+gdc-coref,pzj2.0,93738,94024,geist,93893,93897,sich,kilian
+gdc-coref,pzj2.0,93738,94024,geist,93898,93905,den Tod,den-Tod
+gdc-coref,pzj2.0,93738,94024,geist,93911,93917,dieser,den-Tod
+gdc-coref,pzj2.0,93738,94024,geist,93925,93928,ihn,kilian
+gdc-coref,pzj2.0,93738,94024,geist,93974,93977,ihn,kilian
+gdc-coref,pzj2.0,94029,94053,günther,94048,94051,ich,günther
+gdc-coref,pzj2.0,94058,94140,geist,94077,94083,meiner,geist
+gdc-coref,pzj2.0,94058,94140,geist,94085,94093,Jüngling,günther
+gdc-coref,pzj2.0,94058,94140,geist,94104,94107,ich,geist
+gdc-coref,pzj2.0,94058,94140,geist,94119,94122,dir,günther
+gdc-coref,pzj2.0,94058,94140,geist,94124,94126,Er,geist
+gdc-coref,pzj2.0,94193,94211,_stage,94193,94200,Günther,günther
+gdc-coref,pzj2.0,94193,94211,_stage,94202,94210,Käsperle,käsperle
+gdc-coref,pzj2.0,94214,94307,günther,94254,94258,mich,günther
+gdc-coref,pzj2.0,94214,94307,günther,94272,94275,ich,günther
+gdc-coref,pzj2.0,94214,94307,günther,94298,94306,Käsperle,käsperle
+gdc-coref,pzj2.0,94312,94407,käsperle,94355,94370,gestrenger Herr,günther
+gdc-coref,pzj2.0,94312,94407,käsperle,94372,94375,ich,käsperle
+gdc-coref,pzj2.0,94412,94446,günther,94442,94445,mir,günther
+gdc-coref,pzj2.0,94451,94509,käsperle,94491,94494,wir,käsperle-und-günther
+gdc-coref,pzj2.0,94451,94509,käsperle,94498,94508,d' Herberg,die-Herberge
+gdc-coref,pzj2.0,94514,94582,günther,94541,94543,du,käsperle
+gdc-coref,pzj2.0,94514,94582,günther,94544,94547,mir,günther
+gdc-coref,pzj2.0,94514,94582,günther,94559,94563,Bube,käsperle
+gdc-coref,pzj2.0,94587,94637,käsperle,94618,94620,Er,käsperle
+gdc-coref,pzj2.0,94642,94771,günther,94663,94665,du,käsperle
+gdc-coref,pzj2.0,94642,94771,günther,94666,94669,mir,günther
+gdc-coref,pzj2.0,94642,94771,günther,94693,94696,Ich,günther
+gdc-coref,pzj2.0,94642,94771,günther,94704,94707,ich,günther
+gdc-coref,pzj2.0,94642,94771,günther,94730,94736,meiner,günther
+gdc-coref,pzj2.0,94642,94771,günther,94751,94753,Er,günther
+gdc-coref,pzj2.0,94642,94771,günther,94761,94770,die Thüre,eine-Bodenthüre
+gdc-coref,pzj2.0,94904,94938,günther,94929,94937,Käsperle,käsperle
+gdc-coref,pzj2.0,94943,95302,käsperle,94971,94974,ich,käsperle
+gdc-coref,pzj2.0,94943,95302,käsperle,95077,95080,man,man
+gdc-coref,pzj2.0,94943,95302,käsperle,95155,95158,ihr,günther
+gdc-coref,pzj2.0,94943,95302,käsperle,95177,95192,g'strenger Herr,günther
+gdc-coref,pzj2.0,94943,95302,käsperle,95213,95216,ihm,käsperle
+gdc-coref,pzj2.0,94943,95302,käsperle,95228,95247,ein schwarzer Geist,geist
+gdc-coref,pzj2.0,94943,95302,käsperle,95256,95262,seinen,geist
+gdc-coref,pzj2.0,95308,95355,geist,95325,95334,Muthloser,käsperle
+gdc-coref,pzj2.0,95308,95355,geist,95336,95345,Die Thüre,eine-Bodenthüre
+gdc-coref,pzj2.0,95361,95679,käsperle,95380,95383,mir,käsperle
+gdc-coref,pzj2.0,95361,95679,käsperle,95397,95400,ich,käsperle
+gdc-coref,pzj2.0,95361,95679,käsperle,95405,95408,mir,käsperle
+gdc-coref,pzj2.0,95361,95679,käsperle,95433,95438,einen,man
+gdc-coref,pzj2.0,95361,95679,käsperle,95462,95465,man,man
+gdc-coref,pzj2.0,95361,95679,käsperle,95547,95561,der Einsiedler,geist
+gdc-coref,pzj2.0,95361,95679,käsperle,95573,95575,Er,käsperle
+gdc-coref,pzj2.0,95361,95679,käsperle,95586,95595,die Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,95361,95679,käsperle,95604,95610,Jeriel,jeriel
+gdc-coref,pzj2.0,95361,95679,käsperle,95640,95654,der Einsiedler,geist
+gdc-coref,pzj2.0,95361,95679,käsperle,95656,95658,er,jeriel
+gdc-coref,pzj2.0,95732,95749,_stage,95732,95740,Käsperle,käsperle
+gdc-coref,pzj2.0,95732,95749,_stage,95742,95748,Jeriel,jeriel
+gdc-coref,pzj2.0,95762,95784,_stage,95774,95783,der Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,95752,95825,käsperle,95808,95811,ich,käsperle
+gdc-coref,pzj2.0,95830,95879,jeriel,95865,95867,du,käsperle
+gdc-coref,pzj2.0,95830,95879,jeriel,95869,95878,Fremdling,käsperle
+gdc-coref,pzj2.0,95884,95965,käsperle,95934,95947,der alte Herr,geist
+gdc-coref,pzj2.0,95970,96033,jeriel,96004,96006,du,käsperle
+gdc-coref,pzj2.0,95970,96033,jeriel,96007,96012,meine,jeriel
+gdc-coref,pzj2.0,95970,96033,jeriel,96020,96032,guter Freund,käsperle
+gdc-coref,pzj2.0,96038,96194,käsperle,96140,96154,der Einsiedler,geist
+gdc-coref,pzj2.0,96199,96298,jeriel,96220,96222,Du,käsperle
+gdc-coref,pzj2.0,96199,96298,jeriel,96228,96232,dich,käsperle
+gdc-coref,pzj2.0,96199,96298,jeriel,96242,96254,diesem Forst,den-Forst
+gdc-coref,pzj2.0,96199,96298,jeriel,96270,96287,weiblicher Stimme,weiblicher-Stimme
+gdc-coref,pzj2.0,96199,96298,jeriel,96289,96297,Käsperle,käsperle
+gdc-coref,pzj2.0,96313,96350,_stage,96320,96324,sich,käsperle
+gdc-coref,pzj2.0,96313,96350,_stage,96332,96342,die Stimme,weiblicher-Stimme
+gdc-coref,pzj2.0,96303,96438,käsperle,96375,96378,mir,käsperle
+gdc-coref,pzj2.0,96303,96438,käsperle,96400,96403,ich,käsperle
+gdc-coref,pzj2.0,96303,96438,käsperle,96410,96430,eine weibliche Stimm,weiblicher-Stimme
+gdc-coref,pzj2.0,96443,96539,jeriel,96467,96471,dich,käsperle
+gdc-coref,pzj2.0,96544,96625,käsperle,96571,96591,der Einsiedler-Hütte,"die-Einsiedler-Hütte,-die-wir-zu-suchen-haben"
+gdc-coref,pzj2.0,96544,96625,käsperle,96610,96613,mir,käsperle
+gdc-coref,pzj2.0,96638,96660,_stage,96642,96659,weiblicher Stimme,weiblicher-Stimme
+gdc-coref,pzj2.0,96630,96695,jeriel,96669,96689,mein lieber Käsperle,käsperle
+gdc-coref,pzj2.0,96630,96695,jeriel,96669,96673,mein,jeriel
+gdc-coref,pzj2.0,96700,96763,käsperle,96749,96753,eine,Sie
+gdc-coref,pzj2.0,96768,96809,jeriel,96777,96780,Sie,Sie
+gdc-coref,pzj2.0,96768,96809,jeriel,96786,96790,dich,käsperle
+gdc-coref,pzj2.0,96768,96809,jeriel,96795,96801,deinem,käsperle
+gdc-coref,pzj2.0,96815,96912,käsperle,96836,96839,mir,käsperle
+gdc-coref,pzj2.0,96815,96912,käsperle,96845,96859,saubre Musterl,saubre-Musterl
+gdc-coref,pzj2.0,96815,96912,käsperle,96866,96869,die,saubre-Musterl
+gdc-coref,pzj2.0,96815,96912,käsperle,96870,96874,sich,saubre-Musterl
+gdc-coref,pzj2.0,96917,97030,jeriel,96926,96928,Du,käsperle
+gdc-coref,pzj2.0,96917,97030,jeriel,96936,96952,holder Fremdling,käsperle
+gdc-coref,pzj2.0,96917,97030,jeriel,96954,96956,es,saubre-Musterl
+gdc-coref,pzj2.0,96917,97030,jeriel,97007,97019,einen Fehler,einen-Fehler
+gdc-coref,pzj2.0,96917,97030,jeriel,97026,97029,sie,saubre-Musterl
+gdc-coref,pzj2.0,97035,97072,käsperle,97046,97058,Einen Fehler,einen-Fehler
+gdc-coref,pzj2.0,97035,97072,käsperle,97064,97067,der,einen-Fehler
+gdc-coref,pzj2.0,97077,97203,jeriel,97086,97105,Sie sind sehr klein,einen-Fehler
+gdc-coref,pzj2.0,97077,97203,jeriel,97086,97089,Sie,saubre-Musterl
+gdc-coref,pzj2.0,97077,97203,jeriel,97126,97129,ich,jeriel
+gdc-coref,pzj2.0,97077,97203,jeriel,97187,97190,sie,saubre-Musterl
+gdc-coref,pzj2.0,97208,97323,käsperle,97231,97234,das,saubre-Musterl
+gdc-coref,pzj2.0,97208,97323,käsperle,97270,97273,Sie,jeriel
+gdc-coref,pzj2.0,97208,97323,käsperle,97285,97289,sich,jeriel
+gdc-coref,pzj2.0,97329,97405,jeriel,97381,97389,Käsperle,käsperle
+gdc-coref,pzj2.0,97329,97405,jeriel,97398,97401,ich,jeriel
+gdc-coref,pzj2.0,97410,97477,käsperle,97457,97459,du,jeriel
+gdc-coref,pzj2.0,97410,97477,käsperle,97465,97468,mir,käsperle
+gdc-coref,pzj2.0,97482,97651,jeriel,97525,97538,meinen Hiesel,meinen-Hiesel
+gdc-coref,pzj2.0,97482,97651,jeriel,97525,97531,meinen,jeriel
+gdc-coref,pzj2.0,97482,97651,jeriel,97543,97546,ich,jeriel
+gdc-coref,pzj2.0,97482,97651,jeriel,97560,97562,er,meinen-Hiesel
+gdc-coref,pzj2.0,97482,97651,jeriel,97579,97582,ich,jeriel
+gdc-coref,pzj2.0,97482,97651,jeriel,97625,97627,er,meinen-Hiesel
+gdc-coref,pzj2.0,97482,97651,jeriel,97628,97632,mich,jeriel
+gdc-coref,pzj2.0,97656,97726,käsperle,97672,97674,Du,jeriel
+gdc-coref,pzj2.0,97656,97726,käsperle,97696,97725,"einen Buben, den du lieb hast",meinen-Hiesel
+gdc-coref,pzj2.0,97656,97726,käsperle,97709,97712,den,meinen-Hiesel
+gdc-coref,pzj2.0,97656,97726,käsperle,97713,97715,du,jeriel
+gdc-coref,pzj2.0,97731,97812,jeriel,97773,97776,mir,jeriel
+gdc-coref,pzj2.0,97731,97812,jeriel,97780,97790,d' Herberg,die-Herberge
+gdc-coref,pzj2.0,97731,97812,jeriel,97792,97794,du,käsperle
+gdc-coref,pzj2.0,97731,97812,jeriel,97802,97805,ihn,meinen-Hiesel
+gdc-coref,pzj2.0,97817,97908,käsperle,97847,97850,mir,käsperle
+gdc-coref,pzj2.0,97817,97908,käsperle,97862,97865,ich,käsperle
+gdc-coref,pzj2.0,97913,98652,jeriel,97927,97929,du,käsperle
+gdc-coref,pzj2.0,97913,98652,jeriel,97936,97940,dich,käsperle
+gdc-coref,pzj2.0,97913,98652,jeriel,97962,97973,mein Hiesel,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,97962,97966,mein,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98011,98013,er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98014,98018,mich,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98053,98064,Mein Hiesel,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98053,98057,Mein,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98067,98070,der,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98075,98078,mir,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98084,98087,ich,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98092,98095,ihm,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98102,98104,Er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98116,98119,ich,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98144,98146,Er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98178,98181,mir,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98196,98207,Mein Hiesel,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98196,98200,Mein,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98270,98272,er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98306,98308,er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98377,98379,er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98380,98383,mir,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98391,98393,Er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98399,98402,mir,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98412,98414,er,meinen-Hiesel
+gdc-coref,pzj2.0,97913,98652,jeriel,98415,98419,mich,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98605,98608,ich,jeriel
+gdc-coref,pzj2.0,97913,98652,jeriel,98609,98619,den Hiesel,meinen-Hiesel
+gdc-coref,pzj2.0,98706,98818,_stage,98706,98725,Unterirdische Höhle,Unterirdische-Höhle
+gdc-coref,pzj2.0,98706,98818,_stage,98727,98733,Kilian,kilian
+gdc-coref,pzj2.0,98706,98818,_stage,98737,98744,Fesseln,Fesseln
+gdc-coref,pzj2.0,98706,98818,_stage,98747,98749,er,kilian
+gdc-coref,pzj2.0,98706,98818,_stage,98773,98787,Ritter Günther,günther
+gdc-coref,pzj2.0,98821,99095,kilian,98847,98850,ich,kilian
+gdc-coref,pzj2.0,98821,99095,kilian,98851,98862,die Speisen,die-Speisen
+gdc-coref,pzj2.0,98821,99095,kilian,98874,98877,die,die-Speisen
+gdc-coref,pzj2.0,98821,99095,kilian,98878,98881,ich,kilian
+gdc-coref,pzj2.0,98821,99095,kilian,98895,98901,meines,kilian
+gdc-coref,pzj2.0,98821,99095,kilian,98960,98963,ich,kilian
+gdc-coref,pzj2.0,98821,99095,kilian,99002,99005,mir,kilian
+gdc-coref,pzj2.0,98821,99095,kilian,99021,99027,meiner,kilian
+gdc-coref,pzj2.0,98821,99095,kilian,99037,99044,Günther,günther
+gdc-coref,pzj2.0,98821,99095,kilian,99071,99074,ich,kilian
+gdc-coref,pzj2.0,99100,99210,günther,99110,99154,"Ein Mensch, der kommt, um Menschen zu retten",günther
+gdc-coref,pzj2.0,99100,99210,günther,99122,99125,der,günther
+gdc-coref,pzj2.0,99100,99210,günther,99164,99168,euch,kilian
+gdc-coref,pzj2.0,99100,99210,günther,99170,99176,Kilian,kilian
+gdc-coref,pzj2.0,99100,99210,günther,99187,99192,eurer,kilian
+gdc-coref,pzj2.0,99215,99240,kilian,99224,99227,Ihr,günther
+gdc-coref,pzj2.0,99215,99240,kilian,99235,99239,mich,kilian
+gdc-coref,pzj2.0,99245,99316,günther,99289,99292,Ihr,kilian
+gdc-coref,pzj2.0,99321,99399,kilian,99336,99349,diesen Nahmen,diesen-Nahmen
+gdc-coref,pzj2.0,99321,99399,kilian,99358,99363,seine,diesen-Nahmen
+gdc-coref,pzj2.0,99321,99399,kilian,99383,99387,mich,kilian
+gdc-coref,pzj2.0,99404,99505,günther,99424,99428,euch,kilian
+gdc-coref,pzj2.0,99404,99505,günther,99431,99434,ich,günther
+gdc-coref,pzj2.0,99404,99505,günther,99449,99461,eure Fesseln,Fesseln
+gdc-coref,pzj2.0,99404,99505,günther,99449,99453,eure,kilian
+gdc-coref,pzj2.0,99404,99505,günther,99486,99489,ihr,kilian
+gdc-coref,pzj2.0,99404,99505,günther,99493,99504,diese Höhle,Unterirdische-Höhle
+gdc-coref,pzj2.0,99510,99992,kilian,99519,99522,Ich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99529,99533,mich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99612,99615,ich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99638,99648,eine Mühle,eine-Mühle
+gdc-coref,pzj2.0,99510,99992,kilian,99661,99669,Reisende,Reisende
+gdc-coref,pzj2.0,99510,99992,kilian,99680,99683,sie,Reisende
+gdc-coref,pzj2.0,99510,99992,kilian,99697,99706,Mein Weib,geist
+gdc-coref,pzj2.0,99510,99992,kilian,99697,99701,Mein,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99716,99720,mich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99723,99726,ich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99736,99739,sie,geist
+gdc-coref,pzj2.0,99510,99992,kilian,99750,99759,der Mühle,eine-Mühle
+gdc-coref,pzj2.0,99510,99992,kilian,99764,99768,mich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99828,99832,mich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99842,99845,ich,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99911,99916,meine,kilian
+gdc-coref,pzj2.0,99510,99992,kilian,99942,99966,Ein ehrlicher Einsiedler,geist
+gdc-coref,pzj2.0,99510,99992,kilian,99974,99978,mich,kilian
+gdc-coref,pzj2.0,99997,100080,günther,100007,100020,Unglücklicher,kilian
+gdc-coref,pzj2.0,99997,100080,günther,100031,100044,deines Weibes,geist
+gdc-coref,pzj2.0,99997,100080,günther,100031,100037,deines,kilian
+gdc-coref,pzj2.0,99997,100080,günther,100053,100058,deine,kilian
+gdc-coref,pzj2.0,99997,100080,günther,100076,100079,mir,günther
+gdc-coref,pzj2.0,100085,100113,kilian,100099,100112,diese Fesseln,Fesseln
+gdc-coref,pzj2.0,100118,100282,günther,100128,100131,Ich,günther
+gdc-coref,pzj2.0,100118,100282,günther,100160,100180,eines höheren Wesens,geist
+gdc-coref,pzj2.0,100118,100282,günther,100183,100186,ich,günther
+gdc-coref,pzj2.0,100118,100282,günther,100191,100197,seines,geist
+gdc-coref,pzj2.0,100118,100282,günther,100216,100227,Die Fesseln,Fesseln
+gdc-coref,pzj2.0,100118,100282,günther,100234,100238,sich,Fesseln
+gdc-coref,pzj2.0,100118,100282,günther,100265,100271,Kilian,kilian
+gdc-coref,pzj2.0,100288,100411,kilian,100334,100337,ich,kilian
+gdc-coref,pzj2.0,100288,100411,kilian,100345,100351,Ritter,günther
+gdc-coref,pzj2.0,100288,100411,kilian,100358,100361,mir,kilian
+gdc-coref,pzj2.0,100288,100411,kilian,100362,100371,eure Hand,eure-Hand
+gdc-coref,pzj2.0,100288,100411,kilian,100362,100366,eure,günther
+gdc-coref,pzj2.0,100288,100411,kilian,100379,100382,sie,eure-Hand
+gdc-coref,pzj2.0,100288,100411,kilian,100387,100393,meinen,kilian
+gdc-coref,pzj2.0,100416,100515,günther,100440,100443,mir,günther
+gdc-coref,pzj2.0,100416,100515,günther,100448,100466,dieser Mörderhöhle,Unterirdische-Höhle
+gdc-coref,pzj2.0,100416,100515,günther,100491,100502,des Geistes,geist
+gdc-coref,pzj2.0,100520,100723,kilian,100535,100552,meinen Wohlthäter,geist
+gdc-coref,pzj2.0,100520,100723,kilian,100535,100541,meinen,kilian
+gdc-coref,pzj2.0,100520,100723,kilian,100559,100562,ich,kilian
+gdc-coref,pzj2.0,100520,100723,kilian,100601,100604,ihm,geist
+gdc-coref,pzj2.0,100520,100723,kilian,100617,100620,ich,kilian
+gdc-coref,pzj2.0,100520,100723,kilian,100645,100649,mich,kilian
+gdc-coref,pzj2.0,100520,100723,kilian,100673,100675,er,geist
+gdc-coref,pzj2.0,100520,100723,kilian,100697,100701,mein,kilian
+gdc-coref,pzj2.0,100730,100856,geist,100767,100780,Unglücklicher,kilian
+gdc-coref,pzj2.0,100730,100856,geist,100804,100807,dir,kilian
+gdc-coref,pzj2.0,100913,101014,_stage,100913,100922,Die Bühne,Die-Bühne
+gdc-coref,pzj2.0,100913,101014,_stage,100934,100938,sich,Die-Bühne
+gdc-coref,pzj2.0,100913,101014,_stage,100983,100991,ein Haus,ein-Haus
+gdc-coref,pzj2.0,100913,101014,_stage,101002,101013,ein Brunnen,dieser-Brunnen
+gdc-coref,pzj2.0,101017,101167,kilian,101039,101042,ich,kilian
+gdc-coref,pzj2.0,101017,101167,kilian,101050,101063,meine Wohnung,ein-Haus
+gdc-coref,pzj2.0,101017,101167,kilian,101050,101055,meine,kilian
+gdc-coref,pzj2.0,101017,101167,kilian,101066,101080,dieser Brunnen,dieser-Brunnen
+gdc-coref,pzj2.0,101017,101167,kilian,101086,101088,er,dieser-Brunnen
+gdc-coref,pzj2.0,101017,101167,kilian,101098,101102,mich,kilian
+gdc-coref,pzj2.0,101017,101167,kilian,101106,101166,"die letzte schreckliche That, die ich an meinem Weib verübte","die-letzte-schreckliche-That,-die-ich-an-meinem-Weib-verübte"
+gdc-coref,pzj2.0,101017,101167,kilian,101136,101139,die,"die-letzte-schreckliche-That,-die-ich-an-meinem-Weib-verübte"
+gdc-coref,pzj2.0,101017,101167,kilian,101140,101143,ich,kilian
+gdc-coref,pzj2.0,101017,101167,kilian,101147,101158,meinem Weib,geist
+gdc-coref,pzj2.0,101017,101167,kilian,101147,101153,meinem,kilian
+gdc-coref,pzj2.0,101172,101446,günther,101190,101204,diesem Brunnen,dieser-Brunnen
+gdc-coref,pzj2.0,101172,101446,günther,101212,101237,die Gebeine deines Weibes,die-Gebeine-deines-Weibes
+gdc-coref,pzj2.0,101172,101446,günther,101224,101237,deines Weibes,geist
+gdc-coref,pzj2.0,101172,101446,günther,101253,101266,Unglücklicher,kilian
+gdc-coref,pzj2.0,101172,101446,günther,101289,101305,deiner Pflichten,deiner-Pflichten
+gdc-coref,pzj2.0,101172,101446,günther,101289,101295,deiner,kilian
+gdc-coref,pzj2.0,101172,101446,günther,101363,101376,deiner Gattin,geist
+gdc-coref,pzj2.0,101172,101446,günther,101363,101369,deiner,kilian
+gdc-coref,pzj2.0,101172,101446,günther,101428,101439,den ihrigen,die-Gebeine-deines-Weibes
+gdc-coref,pzj2.0,101451,101635,kilian,101460,101463,Ich,kilian
+gdc-coref,pzj2.0,101451,101635,kilian,101560,101566,Kilian,kilian
+gdc-coref,pzj2.0,101640,101927,kilian,101649,101653,Gott,Gott
+gdc-coref,pzj2.0,101640,101927,kilian,101655,101657,du,Gott
+gdc-coref,pzj2.0,101640,101927,kilian,101678,101684,deinem,Gott
+gdc-coref,pzj2.0,101640,101927,kilian,101714,101716,du,Gott
+gdc-coref,pzj2.0,101640,101927,kilian,101769,101774,deine,Gott
+gdc-coref,pzj2.0,101640,101927,kilian,101843,101856,deine Pflicht,deiner-Pflichten
+gdc-coref,pzj2.0,101640,101927,kilian,101843,101848,deine,kilian
+gdc-coref,pzj2.0,101640,101927,kilian,101889,101902,Müder Wandrer,kilian
+gdc-coref,pzj2.0,101932,103775,kilian,101960,101963,ich,kilian
+gdc-coref,pzj2.0,101932,103775,kilian,102019,102022,ich,kilian
+gdc-coref,pzj2.0,101932,103775,kilian,102040,102043,ich,kilian
+gdc-coref,pzj2.0,101932,103775,kilian,102073,102084,dem Brunnen,dieser-Brunnen
+gdc-coref,pzj2.0,101932,103775,kilian,102135,102144,Der Blitz,Der-Blitz
+gdc-coref,pzj2.0,101932,103775,kilian,102199,102209,der Donner,der-Donner
+gdc-coref,pzj2.0,102241,102558,_stage,102241,102250,Der Blitz,Der-Blitz
+gdc-coref,pzj2.0,102241,102558,_stage,102261,102271,den Müller,kilian
+gdc-coref,pzj2.0,102241,102558,_stage,102273,102284,der Brunnen,dieser-Brunnen
+gdc-coref,pzj2.0,102241,102558,_stage,102296,102299,ihm,kilian
+gdc-coref,pzj2.0,102241,102558,_stage,102324,102357,diesem schrecklichen Donnerschlag,der-Donner
+gdc-coref,pzj2.0,102241,102558,_stage,102429,102434,Marie,geist
+gdc-coref,pzj2.0,102241,102558,_stage,102518,102521,Sie,geist
+gdc-coref,pzj2.0,101932,103775,kilian,102571,102574,Ich,
+gdc-coref,pzj2.0,101932,103775,kilian,102590,102593,mir,
+gdc-coref,pzj2.0,101932,103775,kilian,102619,102627,Jüngling,günther
+gdc-coref,pzj2.0,101932,103775,kilian,102629,102631,du,günther
+gdc-coref,pzj2.0,101932,103775,kilian,102658,102661,dir,günther
+gdc-coref,pzj2.0,101932,103775,kilian,102668,102693,die verheissene Belohnung,die-verheissene-Belohnung
+gdc-coref,pzj2.0,101932,103775,kilian,102722,102734,einen Schatz,die-verheissene-Belohnung
+gdc-coref,pzj2.0,101932,103775,kilian,102745,102747,er,die-verheissene-Belohnung
+gdc-coref,pzj2.0,101932,103775,kilian,102777,102787,Mathildens,mathilde
+gdc-coref,pzj2.0,101932,103775,kilian,102824,102828,dein,günther
+gdc-coref,pzj2.0,101932,103775,kilian,102851,102857,deinen,günther
+gdc-coref,pzj2.0,101932,103775,kilian,102870,102875,deine,günther
+gdc-coref,pzj2.0,101932,103775,kilian,102900,102903,ich,
+gdc-coref,pzj2.0,101932,103775,kilian,102939,102942,Sie,geist
+gdc-coref,pzj2.0,101932,103775,kilian,103065,103068,dir,geist
+gdc-coref,pzj2.0,101932,103775,kilian,103111,103115,Dich,geist
+gdc-coref,pzj2.0,101932,103775,kilian,103118,103127,Dulderinn,geist
+gdc-coref,pzj2.0,103139,103485,_stage,103139,103148,Die Bühne,Die-Bühne
+gdc-coref,pzj2.0,103139,103485,_stage,103160,103164,sich,Die-Bühne
+gdc-coref,pzj2.0,103139,103485,_stage,103205,103233,ein transparenter Regenbogen,ein-transparenter-Regenbogen
+gdc-coref,pzj2.0,103139,103485,_stage,103266,103272,Jeriel,jeriel
+gdc-coref,pzj2.0,103139,103485,_stage,103276,103282,seiner,jeriel
+gdc-coref,pzj2.0,103139,103485,_stage,103304,103313,der Bühne,Die-Bühne
+gdc-coref,pzj2.0,103139,103485,_stage,103346,103363,Hans von Stauffen,hanns
+gdc-coref,pzj2.0,103139,103485,_stage,103365,103373,Mathilde,mathilde
+gdc-coref,pzj2.0,103139,103485,_stage,103397,103403,Vorige,Vorige
+gdc-coref,pzj2.0,103139,103485,_stage,103405,103413,Mathilde,mathilde
+gdc-coref,pzj2.0,103139,103485,_stage,103422,103430,Günthers,günther
+gdc-coref,pzj2.0,103139,103485,_stage,103437,103446,der Vater,hanns
+gdc-coref,pzj2.0,103139,103485,_stage,103452,103457,seine,hanns
+gdc-coref,pzj2.0,101932,103775,kilian,103535,103550,Geist der Liebe,Geist-der-Liebe
+gdc-coref,pzj2.0,101932,103775,kilian,103562,103565,uns,Alle
+gdc-coref,pzj2.0,101932,103775,kilian,103573,103576,uns,Alle
+gdc-coref,pzj2.0,101932,103775,kilian,103612,103615,uns,Alle
+gdc-coref,pzj2.0,101932,103775,kilian,103617,103634,Diesen Regenbogen,ein-transparenter-Regenbogen
+gdc-coref,pzj2.0,101932,103775,kilian,103640,103642,du,Geist-der-Liebe
+gdc-coref,pzj2.0,101932,103775,kilian,103669,103674,Deine,Geist-der-Liebe
+gdc-coref,pzj2.0,101932,103775,kilian,103696,103699,uns,Alle

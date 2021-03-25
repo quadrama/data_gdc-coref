@@ -1,1046 +1,1046 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
-gdc,ndtw.0,186,202,_stage,186,191,Lamon,lamon
-gdc,ndtw.0,186,202,_stage,196,201,Chloe,chloe
-gdc,ndtw.0,205,380,chloe,233,245,mein Nachbar,lamon
-gdc,ndtw.0,205,380,chloe,233,237,mein,chloe
-gdc,ndtw.0,205,380,chloe,252,262,wir Leuthe,
-gdc,ndtw.0,205,380,chloe,293,296,wir,
-gdc,ndtw.0,205,380,chloe,326,331,unser,
-gdc,ndtw.0,385,829,lamon,393,395,Du,chloe
-gdc,ndtw.0,385,829,lamon,408,422,redliches Weib,chloe
-gdc,ndtw.0,385,829,lamon,480,483,Ich,lamon
-gdc,ndtw.0,385,829,lamon,519,522,ich,lamon
-gdc,ndtw.0,385,829,lamon,543,546,ich,lamon
-gdc,ndtw.0,385,829,lamon,560,596,die Erstlinge von fynf jungen Bæumen,die-Erstlinge
-gdc,ndtw.0,385,829,lamon,578,596,fynf jungen Bæumen,fynf-jungen-Bæumen
-gdc,ndtw.0,385,829,lamon,615,618,die,
-gdc,ndtw.0,385,829,lamon,619,622,ich,lamon
-gdc,ndtw.0,385,829,lamon,660,684,"Evander, mein Pfleg-Sohn",evander
-gdc,ndtw.0,385,829,lamon,669,673,mein,lamon
-gdc,ndtw.0,385,829,lamon,685,688,mir,lamon
-gdc,ndtw.0,385,829,lamon,705,708,Sie,die-Erstlinge
-gdc,ndtw.0,385,829,lamon,739,742,sie,die-Erstlinge
-gdc,ndtw.0,385,829,lamon,778,788,die Gœtter,die-Gœtter
-gdc,ndtw.0,385,829,lamon,796,799,uns,lamon
-gdc,ndtw.0,834,1458,chloe,842,844,Du,lamon
-gdc,ndtw.0,834,1458,chloe,878,880,du,lamon
-gdc,ndtw.0,834,1458,chloe,894,897,man,man
-gdc,ndtw.0,834,1458,chloe,927,930,man,man
-gdc,ndtw.0,834,1458,chloe,947,957,die Gœtter,die-Gœtter
-gdc,ndtw.0,834,1458,chloe,981,986,Leute,Leute
-gdc,ndtw.0,834,1458,chloe,999,1002,die,Leute
-gdc,ndtw.0,834,1458,chloe,1006,1011,ihrem,Leute
-gdc,ndtw.0,834,1458,chloe,1091,1094,Wir,
-gdc,ndtw.0,834,1458,chloe,1107,1110,uns,
-gdc,ndtw.0,834,1458,chloe,1119,1136,unserm Geheimniss,unserm-Geheimniss
-gdc,ndtw.0,834,1458,chloe,1119,1125,unserm,
-gdc,ndtw.0,834,1458,chloe,1150,1153,Sie,chloe
-gdc,ndtw.0,834,1458,chloe,1163,1167,sich,chloe
-gdc,ndtw.0,834,1458,chloe,1178,1181,ich,chloe
-gdc,ndtw.0,834,1458,chloe,1208,1238,"Alcimna, meiner Pflege-Tochter",alcimna
-gdc,ndtw.0,834,1458,chloe,1217,1223,meiner,chloe
-gdc,ndtw.0,834,1458,chloe,1289,1292,sie,alcimna
-gdc,ndtw.0,834,1458,chloe,1293,1296,mir,chloe
-gdc,ndtw.0,834,1458,chloe,1328,1331,sie,alcimna
-gdc,ndtw.0,834,1458,chloe,1351,1355,dein,chloe
-gdc,ndtw.0,834,1458,chloe,1384,1398,das Geheimniss,unserm-Geheimniss
-gdc,ndtw.0,834,1458,chloe,1402,1406,dein,chloe
-gdc,ndtw.0,834,1458,chloe,1442,1445,mir,chloe
-gdc,ndtw.0,834,1458,chloe,1446,1449,sie,alcimna
-gdc,ndtw.0,1463,1931,lamon,1471,1481,Die Gœtter,die-Gœtter
-gdc,ndtw.0,1463,1931,lamon,1504,1509,ihnen,
-gdc,ndtw.0,1463,1931,lamon,1515,1522,Evander,evander
-gdc,ndtw.0,1463,1931,lamon,1553,1555,er,evander
-gdc,ndtw.0,1463,1931,lamon,1627,1629,er,evander
-gdc,ndtw.0,1463,1931,lamon,1713,1715,er,evander
-gdc,ndtw.0,1463,1931,lamon,1731,1733,er,evander
-gdc,ndtw.0,1463,1931,lamon,1778,1781,ihn,evander
-gdc,ndtw.0,1463,1931,lamon,1860,1872,Seine Lieder,Seine-Lieder
-gdc,ndtw.0,1463,1931,lamon,1860,1865,Seine,evander
-gdc,ndtw.0,1463,1931,lamon,1900,1903,sie,Seine-Lieder
-gdc,ndtw.0,1463,1931,lamon,1910,1913,ihm,evander
-gdc,ndtw.0,1937,2177,chloe,1968,1975,Alcimna,alcimna
-gdc,ndtw.0,1937,2177,chloe,1976,1995,die andern Mædchens,die-andern-Mædchens
-gdc,ndtw.0,1937,2177,chloe,1997,2000,sie,alcimna
-gdc,ndtw.0,1937,2177,chloe,2103,2106,sie,alcimna
-gdc,ndtw.0,1937,2177,chloe,2117,2132,die andern alle,die-andern-Mædchens
-gdc,ndtw.0,2182,2687,lamon,2190,2193,Ich,lamon
-gdc,ndtw.0,2182,2687,lamon,2235,2246,ihrer Liebe,unsrer-Liebe
-gdc,ndtw.0,2182,2687,lamon,2235,2240,ihrer,
-gdc,ndtw.0,2182,2687,lamon,2266,2276,die Gœtter,die-Gœtter
-gdc,ndtw.0,2182,2687,lamon,2291,2294,sie,
-gdc,ndtw.0,2182,2687,lamon,2295,2299,sich,
-gdc,ndtw.0,2182,2687,lamon,2326,2329,wir,
-gdc,ndtw.0,2182,2687,lamon,2361,2364,ich,lamon
-gdc,ndtw.0,2182,2687,lamon,2385,2388,sie,
-gdc,ndtw.0,2182,2687,lamon,2413,2416,wir,
-gdc,ndtw.0,2182,2687,lamon,2433,2436,ihr,
-gdc,ndtw.0,2182,2687,lamon,2480,2483,sie,
-gdc,ndtw.0,2182,2687,lamon,2484,2489,unsre,
-gdc,ndtw.0,2182,2687,lamon,2521,2524,sie,
-gdc,ndtw.0,2182,2687,lamon,2536,2539,uns,
-gdc,ndtw.0,2182,2687,lamon,2578,2581,wir,
-gdc,ndtw.0,2182,2687,lamon,2632,2635,sie,
-gdc,ndtw.0,2182,2687,lamon,2646,2649,wir,
-gdc,ndtw.0,2182,2687,lamon,2662,2666,ihre,
-gdc,ndtw.0,2693,2860,chloe,2709,2711,du,lamon
-gdc,ndtw.0,2693,2860,chloe,2724,2729,Lamon,lamon
-gdc,ndtw.0,2693,2860,chloe,2731,2734,Ich,chloe
-gdc,ndtw.0,2693,2860,chloe,2742,2745,wir,
-gdc,ndtw.0,2693,2860,chloe,2788,2791,ich,chloe
-gdc,ndtw.0,2693,2860,chloe,2829,2831,du,lamon
-gdc,ndtw.0,2693,2860,chloe,2833,2836,ich,chloe
-gdc,ndtw.0,2865,3314,lamon,2873,2883,Die Gœtter,die-Gœtter
-gdc,ndtw.0,2865,3314,lamon,2950,2954,mich,lamon
-gdc,ndtw.0,2865,3314,lamon,3001,3006,beyde,
-gdc,ndtw.0,2865,3314,lamon,3035,3039,mich,lamon
-gdc,ndtw.0,2865,3314,lamon,3046,3049,ich,lamon
-gdc,ndtw.0,2865,3314,lamon,3061,3067,seiner,evander
-gdc,ndtw.0,2865,3314,lamon,3106,3109,Ich,lamon
-gdc,ndtw.0,2865,3314,lamon,3136,3139,ich,lamon
-gdc,ndtw.0,2865,3314,lamon,3140,3143,ihm,evander
-gdc,ndtw.0,2865,3314,lamon,3164,3167,Ich,lamon
-gdc,ndtw.0,2865,3314,lamon,3194,3204,die Gœtter,die-Gœtter
-gdc,ndtw.0,2865,3314,lamon,3213,3216,uns,
-gdc,ndtw.0,2865,3314,lamon,3228,3231,Wir,
-gdc,ndtw.0,2865,3314,lamon,3246,3248,du,lamon
-gdc,ndtw.0,2865,3314,lamon,3253,3256,ich,lamon
-gdc,ndtw.0,3320,3638,chloe,3328,3330,Du,lamon
-gdc,ndtw.0,3320,3638,chloe,3387,3390,wir,
-gdc,ndtw.0,3320,3638,chloe,3403,3406,sie,die-Gœtter
-gdc,ndtw.0,3320,3638,chloe,3442,3444,du,lamon
-gdc,ndtw.0,3320,3638,chloe,3458,3461,Wir,
-gdc,ndtw.0,3320,3638,chloe,3489,3494,ihrem,
-gdc,ndtw.0,3320,3638,chloe,3540,3543,ich,chloe
-gdc,ndtw.0,3320,3638,chloe,3552,3558,meinen,chloe
-gdc,ndtw.0,3320,3638,chloe,3587,3596,dein Sohn,evander
-gdc,ndtw.0,3320,3638,chloe,3587,3591,dein,lamon
-gdc,ndtw.0,3320,3638,chloe,3598,3601,ich,chloe
-gdc,ndtw.0,3643,3709,lamon,3651,3654,Ich,lamon
-gdc,ndtw.0,3643,3709,lamon,3665,3668,ich,lamon
-gdc,ndtw.0,3643,3709,lamon,3674,3680,seinen,evander
-gdc,ndtw.0,3760,3777,_stage,3760,3767,Evander,evander
-gdc,ndtw.0,3760,3777,_stage,3769,3776,Alcimna,alcimna
-gdc,ndtw.0,3780,4802,evander,3790,3793,Ich,evander
-gdc,ndtw.0,3780,4802,evander,3800,3803,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,3825,3828,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,3899,3902,ich,evander
-gdc,ndtw.0,3780,4802,evander,3903,3906,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,3942,3945,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,3963,3966,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,3967,3989,die geschæftige Mutter,chloe
-gdc,ndtw.0,3780,4802,evander,3995,3997,Er,evander
-gdc,ndtw.0,3780,4802,evander,4024,4026,Er,lamon
-gdc,ndtw.0,3780,4802,evander,4034,4038,mich,evander
-gdc,ndtw.0,3780,4802,evander,4044,4054,mein Vater,lamon
-gdc,ndtw.0,3780,4802,evander,4044,4048,mein,evander
-gdc,ndtw.0,3780,4802,evander,4062,4066,mich,evander
-gdc,ndtw.0,3780,4802,evander,4079,4081,er,lamon
-gdc,ndtw.0,3780,4802,evander,4092,4095,ich,evander
-gdc,ndtw.0,3780,4802,evander,4106,4120,meiner Alcimna,alcimna
-gdc,ndtw.0,3780,4802,evander,4106,4112,meiner,evander
-gdc,ndtw.0,3780,4802,evander,4121,4124,ihm,lamon
-gdc,ndtw.0,3780,4802,evander,4132,4138,Gœtter,die-Gœtter
-gdc,ndtw.0,3780,4802,evander,4140,4143,Ich,evander
-gdc,ndtw.0,3780,4802,evander,4161,4164,ich,evander
-gdc,ndtw.0,3780,4802,evander,4200,4203,ihm,lamon
-gdc,ndtw.0,3780,4802,evander,4224,4227,ich,evander
-gdc,ndtw.0,3780,4802,evander,4228,4260,das beste Mædchen im ganzen Land,alcimna
-gdc,ndtw.0,3780,4802,evander,4246,4260,im ganzen Land,im-ganzen-Land
-gdc,ndtw.0,3780,4802,evander,4280,4289,er selbst,lamon
-gdc,ndtw.0,3780,4802,evander,4300,4303,ihr,alcimna
-gdc,ndtw.0,3780,4802,evander,4339,4342,mir,evander
-gdc,ndtw.0,3780,4802,evander,4373,4376,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,4378,4381,Sie,alcimna
-gdc,ndtw.0,3780,4802,evander,4408,4440,diesen Baum von so glatter Rinde,diesen-Baum-von-so-glatter-Rinde
-gdc,ndtw.0,3780,4802,evander,4424,4440,so glatter Rinde,so-glatter-Rinde
-gdc,ndtw.0,3780,4802,evander,4446,4449,ich,evander
-gdc,ndtw.0,3780,4802,evander,4450,4461,ihren Namen,ihren-Namen
-gdc,ndtw.0,3780,4802,evander,4450,4455,ihren,alcimna
-gdc,ndtw.0,3780,4802,evander,4473,4475,Er,evander
-gdc,ndtw.0,3780,4802,evander,4520,4522,Du,diesen-Baum-von-so-glatter-Rinde
-gdc,ndtw.0,3780,4802,evander,4530,4541,ihren Namen,ihren-Namen
-gdc,ndtw.0,3780,4802,evander,4530,4535,ihren,alcimna
-gdc,ndtw.0,3780,4802,evander,4588,4592,dich,diesen-Baum-von-so-glatter-Rinde
-gdc,ndtw.0,3780,4802,evander,4618,4629,dieser Baum,diesen-Baum-von-so-glatter-Rinde
-gdc,ndtw.0,3780,4802,evander,4685,4687,er,evander
-gdc,ndtw.0,3780,4802,evander,4699,4708,die Rinde,so-glatter-Rinde
-gdc,ndtw.0,3780,4802,evander,4726,4733,Alcimna,alcimna
-gdc,ndtw.0,3780,4802,evander,4748,4751,ihn,evander
-gdc,ndtw.0,3780,4802,evander,4761,4764,sie,alcimna
-gdc,ndtw.0,3780,4802,evander,4770,4773,ihm,evander
-gdc,ndtw.0,3780,4802,evander,4788,4801,beyden Hænden,beyden-Hænden
-gdc,ndtw.0,4808,4830,alcimna,4826,4829,ich,alcimna
-gdc,ndtw.0,4835,4867,evander,4847,4854,Alcimna,alcimna
-gdc,ndtw.0,4835,4867,evander,4858,4866,Geliebte,alcimna
-gdc,ndtw.0,4872,4898,alcimna,4882,4884,Du,evander
-gdc,ndtw.0,4872,4898,alcimna,4893,4897,dich,evander
-gdc,ndtw.0,4903,4965,evander,4919,4922,ich,evander
-gdc,ndtw.0,4903,4965,evander,4930,4934,mich,evander
-gdc,ndtw.0,4903,4965,evander,4953,4955,du,alcimna
-gdc,ndtw.0,4970,5059,alcimna,4985,4987,du,evander
-gdc,ndtw.0,4970,5059,alcimna,4988,4992,dich,evander
-gdc,ndtw.0,4970,5059,alcimna,5018,5022,mich,alcimna
-gdc,ndtw.0,4970,5059,alcimna,5024,5027,Sie,alcimna
-gdc,ndtw.0,4970,5059,alcimna,5034,5037,ihn,evander
-gdc,ndtw.0,4970,5059,alcimna,5043,5046,sie,
-gdc,ndtw.0,4970,5059,alcimna,5054,5058,sich,
-gdc,ndtw.0,5065,5200,alcimna,5083,5085,er,milon
-gdc,ndtw.0,5065,5200,alcimna,5086,5090,mich,alcimna
-gdc,ndtw.0,5065,5200,alcimna,5122,5126,mich,alcimna
-gdc,ndtw.0,5065,5200,alcimna,5134,5156,"Milon, der Ziegen-Hirt",milon
-gdc,ndtw.0,5065,5200,alcimna,5175,5180,seine,milon
-gdc,ndtw.0,5065,5200,alcimna,5187,5190,mir,alcimna
-gdc,ndtw.0,5206,5234,evander,5216,5222,Gœtter,die-Gœtter
-gdc,ndtw.0,5206,5234,evander,5231,5233,er,milon
-gdc,ndtw.0,5285,5304,_stage,5285,5290,Milon,milon
-gdc,ndtw.0,5285,5304,_stage,5292,5303,die vorigen,
-gdc,ndtw.0,5307,5499,milon,5327,5330,ich,milon
-gdc,ndtw.0,5307,5499,milon,5332,5334,du,alcimna
-gdc,ndtw.0,5307,5499,milon,5343,5351,Evandern,evander
-gdc,ndtw.0,5307,5499,milon,5365,5372,Evander,evander
-gdc,ndtw.0,5307,5499,milon,5435,5446,den Mædchen,die-andern-Mædchens
-gdc,ndtw.0,5307,5499,milon,5448,5455,Evander,evander
-gdc,ndtw.0,5307,5499,milon,5457,5459,du,evander
-gdc,ndtw.0,5504,5538,alcimna,5525,5528,wir,
-gdc,ndtw.0,5543,5636,milon,5551,5554,Ich,milon
-gdc,ndtw.0,5543,5636,milon,5560,5582,des einfæltigen Battus,des-einfæltigen-Battus
-gdc,ndtw.0,5543,5636,milon,5596,5598,er,des-einfæltigen-Battus
-gdc,ndtw.0,5543,5636,milon,5603,5606,dir,alcimna
-gdc,ndtw.0,5641,5726,alcimna,5665,5668,wir,
-gdc,ndtw.0,5641,5726,alcimna,5713,5715,du,milon
-gdc,ndtw.0,5732,5796,milon,5763,5785,Ein guter Blik von dir,Ein-guter-Blik-von-dir
-gdc,ndtw.0,5732,5796,milon,5782,5785,dir,alcimna
-gdc,ndtw.0,5810,5835,_stage,5818,5821,ihn,milon
-gdc,ndtw.0,5801,5867,alcimna,5846,5848,du,milon
-gdc,ndtw.0,5801,5867,alcimna,5849,5852,ihn,Ein-guter-Blik-von-dir
-gdc,ndtw.0,5872,5985,milon,5899,5903,mich,milon
-gdc,ndtw.0,5872,5985,milon,5904,5907,dir,alcimna
-gdc,ndtw.0,5872,5985,milon,5931,5934,ich,milon
-gdc,ndtw.0,5872,5985,milon,5940,5943,dir,alcimna
-gdc,ndtw.0,5872,5985,milon,5944,5952,ein Lied,ein-Lied
-gdc,ndtw.0,5872,5985,milon,5961,5964,das,ein-Lied
-gdc,ndtw.0,5872,5985,milon,5965,5968,ich,milon
-gdc,ndtw.0,5990,6032,alcimna,6008,6009,s,ein-Lied
-gdc,ndtw.0,6037,6063,milon,6056,6057,s,ein-Lied
-gdc,ndtw.0,6068,6114,alcimna,6086,6089,ich,alcimna
-gdc,ndtw.0,6068,6114,alcimna,6090,6099,die Hænde,beyden-Hænden
-gdc,ndtw.0,6119,6417,milon,6127,6129,Du,evander
-gdc,ndtw.0,6119,6417,milon,6147,6149,du,evander
-gdc,ndtw.0,6119,6417,milon,6158,6165,Evander,evander
-gdc,ndtw.0,6119,6417,milon,6177,6179,du,evander
-gdc,ndtw.0,6119,6417,milon,6180,6184,mich,milon
-gdc,ndtw.0,6119,6417,milon,6190,6199,im Flœten,im-Flœten
-gdc,ndtw.0,6119,6417,milon,6219,6222,ich,milon
-gdc,ndtw.0,6119,6417,milon,6228,6232,eine,eine
-gdc,ndtw.0,6119,6417,milon,6239,6244,diese,eine
-gdc,ndtw.0,6119,6417,milon,6250,6253,ich,milon
-gdc,ndtw.0,6119,6417,milon,6258,6261,sie,eine
-gdc,ndtw.0,6119,6417,milon,6291,6294,die,eine
-gdc,ndtw.0,6119,6417,milon,6313,6316,ich,milon
-gdc,ndtw.0,6119,6417,milon,6339,6345,darmit,
-gdc,ndtw.0,6119,6417,milon,6370,6373,ich,milon
-gdc,ndtw.0,6119,6417,milon,6379,6383,dich,evander
-gdc,ndtw.0,6422,6470,evander,6432,6435,Ich,evander
-gdc,ndtw.0,6422,6470,evander,6457,6458,s,im-Flœten
-gdc,ndtw.0,6475,6512,milon,6486,6489,ich,milon
-gdc,ndtw.0,6517,6735,alcimna,6531,6534,ich,alcimna
-gdc,ndtw.0,6517,6735,alcimna,6557,6559,du,milon
-gdc,ndtw.0,6517,6735,alcimna,6592,6606,im ganzen Land,im-ganzen-Land
-gdc,ndtw.0,6517,6735,alcimna,6614,6616,du,milon
-gdc,ndtw.0,6517,6735,alcimna,6637,6639,Du,milon
-gdc,ndtw.0,6517,6735,alcimna,6707,6709,du,milon
-gdc,ndtw.0,6517,6735,alcimna,6720,6724,dich,milon
-gdc,ndtw.0,6740,6787,milon,6748,6751,Ich,milon
-gdc,ndtw.0,6740,6787,milon,6765,6768,ihr,
-gdc,ndtw.0,6792,6828,evander,6802,6804,Du,milon
-gdc,ndtw.0,6834,7023,milon,6849,6852,ich,milon
-gdc,ndtw.0,6834,7023,milon,6854,6856,Er,milon
-gdc,ndtw.0,6834,7023,milon,6889,6892,ich,milon
-gdc,ndtw.0,6834,7023,milon,6926,6929,ich,milon
-gdc,ndtw.0,6834,7023,milon,6935,6939,euch,
-gdc,ndtw.0,6834,7023,milon,6963,6972,die Sonne,die-Sonne
-gdc,ndtw.0,6834,7023,milon,6983,6990,im Meer,dem-hohen-Meer
-gdc,ndtw.0,6834,7023,milon,7001,7004,ich,milon
-gdc,ndtw.0,6834,7023,milon,7005,7012,am Ufer,am-Ufer
-gdc,ndtw.0,7067,7357,milon,7087,7090,ich,milon
-gdc,ndtw.0,7067,7357,milon,7115,7118,ich,milon
-gdc,ndtw.0,7067,7357,milon,7141,7144,ich,milon
-gdc,ndtw.0,7067,7357,milon,7145,7167,"Asphalion, den Fischer","Asphalion,-den-Fischer"
-gdc,ndtw.0,7067,7357,milon,7169,7171,er,"Asphalion,-den-Fischer"
-gdc,ndtw.0,7067,7357,milon,7183,7187,sein,"Asphalion,-den-Fischer"
-gdc,ndtw.0,7067,7357,milon,7198,7201,der,"Asphalion,-den-Fischer"
-gdc,ndtw.0,7067,7357,milon,7210,7212,er,"Asphalion,-den-Fischer"
-gdc,ndtw.0,7067,7357,milon,7222,7228,Sonnen,die-Sonne
-gdc,ndtw.0,7067,7357,milon,7239,7258,fynf grosse Schiffe,fynf-grosse-Schiffe
-gdc,ndtw.0,7067,7357,milon,7263,7277,dem hohen Meer,dem-hohen-Meer
-gdc,ndtw.0,7067,7357,milon,7291,7293,er,"Asphalion,-den-Fischer"
-gdc,ndtw.0,7067,7357,milon,7302,7305,sie,fynf-grosse-Schiffe
-gdc,ndtw.0,7067,7357,milon,7313,7327,an unserm Ufer,am-Ufer
-gdc,ndtw.0,7067,7357,milon,7316,7322,unserm,
-gdc,ndtw.0,7362,7456,alcimna,7385,7388,sie,fynf-grosse-Schiffe
-gdc,ndtw.0,7362,7456,alcimna,7401,7415,an unserm Ufer,am-Ufer
-gdc,ndtw.0,7362,7456,alcimna,7404,7410,unserm,
-gdc,ndtw.0,7362,7456,alcimna,7424,7426,Du,milon
-gdc,ndtw.0,7462,7499,milon,7491,7493,Er,milon
-gdc,ndtw.0,7551,7568,_stage,7551,7558,Evander,evander
-gdc,ndtw.0,7551,7568,_stage,7560,7567,Alcimna,alcimna
-gdc,ndtw.0,7571,8117,alcimna,7585,7587,er,milon
-gdc,ndtw.0,7571,8117,alcimna,7605,7620,der Schwazhafte,milon
-gdc,ndtw.0,7571,8117,alcimna,7622,7625,Sie,alcimna
-gdc,ndtw.0,7571,8117,alcimna,7632,7636,sich,alcimna
-gdc,ndtw.0,7571,8117,alcimna,7655,7657,er,milon
-gdc,ndtw.0,7571,8117,alcimna,7712,7716,mich,alcimna
-gdc,ndtw.0,7571,8117,alcimna,7718,7732,mein Geliebter,evander
-gdc,ndtw.0,7571,8117,alcimna,7718,7722,mein,alcimna
-gdc,ndtw.0,7571,8117,alcimna,7734,7737,dir,evander
-gdc,ndtw.0,7571,8117,alcimna,7760,7766,deiner,evander
-gdc,ndtw.0,7571,8117,alcimna,7777,7781,mich,alcimna
-gdc,ndtw.0,7571,8117,alcimna,7805,7815,die Zeisig,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,7819,7831,ihren Jungen,ihren-Jungen
-gdc,ndtw.0,7571,8117,alcimna,7819,7824,ihren,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,7852,7873,ein muthwilliger Knab,ein-muthwilliger-Knab
-gdc,ndtw.0,7571,8117,alcimna,7888,7891,sie,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,7899,7901,er,ein-muthwilliger-Knab
-gdc,ndtw.0,7571,8117,alcimna,7906,7909,ihr,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,7924,7926,er,ein-muthwilliger-Knab
-gdc,ndtw.0,7571,8117,alcimna,7941,7944,sie,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,7972,7975,sie,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,7994,7997,sie,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,8033,8045,ihren Jungen,ihren-Jungen
-gdc,ndtw.0,7571,8117,alcimna,8033,8038,ihren,die-Zeisig
-gdc,ndtw.0,7571,8117,alcimna,8054,8057,ich,alcimna
-gdc,ndtw.0,7571,8117,alcimna,8058,8061,dir,evander
-gdc,ndtw.0,7571,8117,alcimna,8073,8078,Milon,milon
-gdc,ndtw.0,7571,8117,alcimna,8079,8083,mich,alcimna
-gdc,ndtw.0,7571,8117,alcimna,8098,8101,ich,alcimna
-gdc,ndtw.0,7571,8117,alcimna,8102,8105,ihm,milon
-gdc,ndtw.0,8123,8497,evander,8135,8149,meine Geliebte,alcimna
-gdc,ndtw.0,8123,8497,evander,8135,8140,meine,evander
-gdc,ndtw.0,8123,8497,evander,8159,8162,ich,evander
-gdc,ndtw.0,8123,8497,evander,8177,8179,du,alcimna
-gdc,ndtw.0,8123,8497,evander,8183,8187,mich,evander
-gdc,ndtw.0,8123,8497,evander,8200,8203,ich,evander
-gdc,ndtw.0,8123,8497,evander,8261,8264,ich,evander
-gdc,ndtw.0,8123,8497,evander,8265,8276,diese Rosen,diese-Rosen
-gdc,ndtw.0,8123,8497,evander,8287,8295,einander,diese-Rosen
-gdc,ndtw.0,8123,8497,evander,8364,8367,sie,diese-Rosen
-gdc,ndtw.0,8123,8497,evander,8368,8386,die syssen Geryche,die-syssen-Geryche
-gdc,ndtw.0,8123,8497,evander,8409,8412,sie,diese-Rosen
-gdc,ndtw.0,8123,8497,evander,8433,8447,meine Geliebte,alcimna
-gdc,ndtw.0,8123,8497,evander,8433,8438,meine,evander
-gdc,ndtw.0,8123,8497,evander,8457,8479,dies Bild unsrer Liebe,diese-Rosen
-gdc,ndtw.0,8123,8497,evander,8467,8479,unsrer Liebe,unsrer-Liebe
-gdc,ndtw.0,8123,8497,evander,8467,8473,unsrer,
-gdc,ndtw.0,8123,8497,evander,8484,8496,deinen Busen,deinen-Busen
-gdc,ndtw.0,8123,8497,evander,8484,8490,deinen,alcimna
-gdc,ndtw.0,8502,8613,alcimna,8516,8519,ich,alcimna
-gdc,ndtw.0,8502,8613,alcimna,8528,8531,sie,diese-Rosen
-gdc,ndtw.0,8502,8613,alcimna,8536,8548,meinen Busen,deinen-Busen
-gdc,ndtw.0,8502,8613,alcimna,8536,8542,meinen,alcimna
-gdc,ndtw.0,8502,8613,alcimna,8566,8569,sie,diese-Rosen
-gdc,ndtw.0,8502,8613,alcimna,8590,8593,wir,
-gdc,ndtw.0,8502,8613,alcimna,8600,8608,einander,
-gdc,ndtw.0,8618,8714,evander,8646,8649,wir,
-gdc,ndtw.0,8618,8714,evander,8650,8663,unsre Stunden,unsre-Stunden
-gdc,ndtw.0,8618,8714,evander,8650,8655,unsre,
-gdc,ndtw.0,8618,8714,evander,8671,8674,sie,unsre-Stunden
-gdc,ndtw.0,8618,8714,evander,8700,8713,Rosen-Geryche,die-syssen-Geryche
-gdc,ndtw.0,8719,8811,alcimna,8739,8742,wir,
-gdc,ndtw.0,8719,8811,alcimna,8749,8757,einander,
-gdc,ndtw.0,8719,8811,alcimna,8779,8782,mir,alcimna
-gdc,ndtw.0,8719,8811,alcimna,8792,8796,mich,alcimna
-gdc,ndtw.0,8816,8897,evander,8837,8840,mir,evander
-gdc,ndtw.0,8816,8897,evander,8851,8854,ich,evander
-gdc,ndtw.0,8816,8897,evander,8855,8859,dich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,8912,8915,Ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,8942,8945,ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,8950,8953,ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,8992,9001,den Milon,milon
-gdc,ndtw.0,8902,9565,alcimna,9008,9010,er,milon
-gdc,ndtw.0,8902,9565,alcimna,9015,9018,mir,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9062,9064,Er,milon
-gdc,ndtw.0,8902,9565,alcimna,9089,9102,Jedes Mædchen,Jedes-Mædchen
-gdc,ndtw.0,8902,9565,alcimna,9111,9113,er,milon
-gdc,ndtw.0,8902,9565,alcimna,9115,9118,das,Jedes-Mædchen
-gdc,ndtw.0,8902,9565,alcimna,9150,9153,mir,
-gdc,ndtw.0,8902,9565,alcimna,9185,9189,mich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9209,9212,ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9228,9230,er,milon
-gdc,ndtw.0,8902,9565,alcimna,9237,9241,mich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9283,9286,ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9306,9347,"jene weisse Kuh, die dort im Sumpf wattet","jene-weisse-Kuh,-die-dort-im-Sumpf-wattet"
-gdc,ndtw.0,8902,9565,alcimna,9349,9352,die,"jene-weisse-Kuh,-die-dort-im-Sumpf-wattet"
-gdc,ndtw.0,8902,9565,alcimna,9357,9361,sich,"jene-weisse-Kuh,-die-dort-im-Sumpf-wattet"
-gdc,ndtw.0,8902,9565,alcimna,9385,9387,er,milon
-gdc,ndtw.0,8902,9565,alcimna,9405,9408,ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9416,9419,ihm,milon
-gdc,ndtw.0,8902,9565,alcimna,9429,9432,ich,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9458,9460,er,milon
-gdc,ndtw.0,8902,9565,alcimna,9497,9521,der beschwerliche Mensch,milon
-gdc,ndtw.0,8902,9565,alcimna,9522,9525,mir,alcimna
-gdc,ndtw.0,8902,9565,alcimna,9537,9539,du,evander
-gdc,ndtw.0,9570,9584,evander,9580,9583,Ich,evander
-gdc,ndtw.0,9589,9706,alcimna,9602,9604,du,evander
-gdc,ndtw.0,9589,9706,alcimna,9606,9608,du,evander
-gdc,ndtw.0,9589,9706,alcimna,9631,9633,du,evander
-gdc,ndtw.0,9589,9706,alcimna,9634,9637,was,was
-gdc,ndtw.0,9589,9706,alcimna,9648,9651,das,was
-gdc,ndtw.0,9589,9706,alcimna,9652,9654,du,evander
-gdc,ndtw.0,9589,9706,alcimna,9687,9691,mich,alcimna
-gdc,ndtw.0,9711,9767,evander,9721,9724,Ich,evander
-gdc,ndtw.0,9711,9767,evander,9731,9734,Ich,evander
-gdc,ndtw.0,9711,9767,evander,9754,9755,s,was
-gdc,ndtw.0,9772,9830,alcimna,9782,9785,Ich,alcimna
-gdc,ndtw.0,9772,9830,alcimna,9816,9817,s,was
-gdc,ndtw.0,9835,10142,evander,9845,9849,Mich,evander
-gdc,ndtw.0,9835,10142,evander,9877,9887,mein Vater,lamon
-gdc,ndtw.0,9835,10142,evander,9877,9881,mein,evander
-gdc,ndtw.0,9835,10142,evander,9920,9932,unsrer Liebe,unsrer-Liebe
-gdc,ndtw.0,9835,10142,evander,9920,9926,unsrer,
-gdc,ndtw.0,9835,10142,evander,9970,9972,er,lamon
-gdc,ndtw.0,9835,10142,evander,9981,9985,mich,evander
-gdc,ndtw.0,9835,10142,evander,10013,10015,er,lamon
-gdc,ndtw.0,9835,10142,evander,10016,10019,mir,evander
-gdc,ndtw.0,9835,10142,evander,10047,10050,ich,evander
-gdc,ndtw.0,9835,10142,evander,10051,10054,ihm,lamon
-gdc,ndtw.0,9835,10142,evander,10059,10071,unsrer Liebe,unsrer-Liebe
-gdc,ndtw.0,9835,10142,evander,10059,10065,unsrer,
-gdc,ndtw.0,9835,10142,evander,10091,10093,er,lamon
-gdc,ndtw.0,10147,10200,alcimna,10157,10160,Mir,alcimna
-gdc,ndtw.0,10147,10200,alcimna,10172,10184,meine Mutter,chloe
-gdc,ndtw.0,10147,10200,alcimna,10172,10177,meine,alcimna
-gdc,ndtw.0,10205,10792,evander,10225,10227,er,lamon
-gdc,ndtw.0,10205,10792,evander,10232,10283,"den Erstlingen der fynf Bæume, die er gepflanzt hat",die-Erstlinge
-gdc,ndtw.0,10205,10792,evander,10247,10261,der fynf Bæume,fynf-jungen-Bæumen
-gdc,ndtw.0,10205,10792,evander,10288,10291,ich,evander
-gdc,ndtw.0,10205,10792,evander,10321,10332,den Gœttern,die-Gœtter
-gdc,ndtw.0,10205,10792,evander,10343,10346,ich,evander
-gdc,ndtw.0,10205,10792,evander,10374,10376,er,lamon
-gdc,ndtw.0,10205,10792,evander,10394,10399,seine,lamon
-gdc,ndtw.0,10205,10792,evander,10431,10434,ich,evander
-gdc,ndtw.0,10205,10792,evander,10435,10446,im Gebysche,im-Gebysche
-gdc,ndtw.0,10205,10792,evander,10469,10472,ich,evander
-gdc,ndtw.0,10205,10792,evander,10473,10476,ihn,lamon
-gdc,ndtw.0,10205,10792,evander,10483,10494,den Gœttern,die-Gœtter
-gdc,ndtw.0,10205,10792,evander,10503,10525,Ihr gutthætigen Gœtter,die-Gœtter
-gdc,ndtw.0,10205,10792,evander,10533,10544,mein Gebett,mein-Gebett
-gdc,ndtw.0,10205,10792,evander,10533,10537,mein,
-gdc,ndtw.0,10205,10792,evander,10557,10572,dies mein Opfer,die-Erstlinge
-gdc,ndtw.0,10205,10792,evander,10562,10566,mein,evander
-gdc,ndtw.0,10205,10792,evander,10596,10607,meinem Sohn,evander
-gdc,ndtw.0,10205,10792,evander,10596,10602,meinem,
-gdc,ndtw.0,10205,10792,evander,10619,10644,die wunderbaren Schiksale,die-wunderbaren-Schiksale
-gdc,ndtw.0,10205,10792,evander,10654,10657,ihn,evander
-gdc,ndtw.0,10205,10792,evander,10682,10684,Er,lamon
-gdc,ndtw.0,10205,10792,evander,10737,10750,des Gebysches,im-Gebysche
-gdc,ndtw.0,10205,10792,evander,10777,10780,ich,evander
-gdc,ndtw.0,10797,10878,alcimna,10807,10810,Ich,alcimna
-gdc,ndtw.0,10797,10878,alcimna,10837,10840,ich,alcimna
-gdc,ndtw.0,10797,10878,alcimna,10847,10857,die Gœtter,die-Gœtter
-gdc,ndtw.0,10797,10878,alcimna,10858,10869,sein Gebett,mein-Gebett
-gdc,ndtw.0,10797,10878,alcimna,10858,10862,sein,lamon
-gdc,ndtw.0,10883,11026,evander,10906,10915,Schiksale,die-wunderbaren-Schiksale
-gdc,ndtw.0,10883,11026,evander,10920,10924,mich,evander
-gdc,ndtw.0,10883,11026,evander,10933,10943,die Gœtter,die-Gœtter
-gdc,ndtw.0,10883,11026,evander,10956,10958,es,die-wunderbaren-Schiksale
-gdc,ndtw.0,10883,11026,evander,10978,10983,deine,alcimna
-gdc,ndtw.0,10883,11026,evander,10997,11001,mich,evander
-gdc,ndtw.0,11031,11289,alcimna,11043,11057,mein Geliebter,evander
-gdc,ndtw.0,11031,11289,alcimna,11043,11047,mein,alcimna
-gdc,ndtw.0,11031,11289,alcimna,11082,11085,uns,
-gdc,ndtw.0,11031,11289,alcimna,11113,11116,uns,
-gdc,ndtw.0,11031,11289,alcimna,11117,11127,ein Unglyk,ein-Unglyk
-gdc,ndtw.0,11031,11289,alcimna,11156,11160,dass,ein-Unglyk
-gdc,ndtw.0,11031,11289,alcimna,11201,11205,dich,evander
-gdc,ndtw.0,11031,11289,alcimna,11213,11217,mich,alcimna
-gdc,ndtw.0,11031,11289,alcimna,11228,11231,wir,
-gdc,ndtw.0,11031,11289,alcimna,11239,11247,das Lied,das-Lied
-gdc,ndtw.0,11031,11289,alcimna,11256,11259,das,das-Lied
-gdc,ndtw.0,11031,11289,alcimna,11260,11263,wir,
-gdc,ndtw.0,11031,11289,alcimna,11273,11281,einander,
-gdc,ndtw.0,11294,11363,evander,11308,11311,dir,alcimna
-gdc,ndtw.0,11294,11363,evander,11320,11323,ich,evander
-gdc,ndtw.0,11294,11363,evander,11345,11347,du,alcimna
-gdc,ndtw.0,11368,11589,alcimna,11383,11386,ich,alcimna
-gdc,ndtw.0,11368,11589,alcimna,11405,11408,ich,alcimna
-gdc,ndtw.0,11368,11589,alcimna,11410,11424,mein Geliebter,evander
-gdc,ndtw.0,11368,11589,alcimna,11410,11414,mein,alcimna
-gdc,ndtw.0,11368,11589,alcimna,11436,11440,dich,evander
-gdc,ndtw.0,11368,11589,alcimna,11461,11466,Sonne,die-Sonne
-gdc,ndtw.0,11368,11589,alcimna,11468,11479,Die Blythen,Die-Blythen
-gdc,ndtw.0,11368,11589,alcimna,11489,11492,Sie,Die-Blythen
-gdc,ndtw.0,11368,11589,alcimna,11519,11531,Der Fryhling,Der-Fryhling
-gdc,ndtw.0,11368,11589,alcimna,11545,11555,Munterkeit,Munterkeit
-gdc,ndtw.0,11368,11589,alcimna,11560,11566,Freude,Freude
-gdc,ndtw.0,11368,11589,alcimna,11579,11588,der Trift,der-Trift
-gdc,ndtw.0,11595,11969,evander,11605,11608,Mir,evander
-gdc,ndtw.0,11595,11969,evander,11614,11617,mir,evander
-gdc,ndtw.0,11595,11969,evander,11636,11642,deinem,alcimna
-gdc,ndtw.0,11595,11969,evander,11669,11674,Sonne,die-Sonne
-gdc,ndtw.0,11595,11969,evander,11676,11687,Den Blythen,Die-Blythen
-gdc,ndtw.0,11595,11969,evander,11724,11736,Der Fryhling,Der-Fryhling
-gdc,ndtw.0,11595,11969,evander,11749,11759,Munterkeit,Munterkeit
-gdc,ndtw.0,11595,11969,evander,11764,11770,Freude,Freude
-gdc,ndtw.0,11595,11969,evander,11780,11789,die Trift,der-Trift
-gdc,ndtw.0,11795,11801,_stage,11795,11800,Beyde,
-gdc,ndtw.0,11595,11969,evander,11804,11807,Ich,evander
-gdc,ndtw.0,11595,11969,evander,11813,11817,dich,
-gdc,ndtw.0,11595,11969,evander,11844,11847,ich,evander
-gdc,ndtw.0,11595,11969,evander,11865,11883,Beym heilg'en Hain,Beym-heilg'en-Hain
-gdc,ndtw.0,11595,11969,evander,11919,11922,Ich,evander
-gdc,ndtw.0,11595,11969,evander,11938,11948,den Fluren,den-Fluren
-gdc,ndtw.0,11595,11969,evander,11950,11968,Beym heil'gen Hain,Beym-heilg'en-Hain
-gdc,ndtw.0,11975,12174,alcimna,11994,12008,der œde Winter,der-œde-Winter
-gdc,ndtw.0,11975,12174,alcimna,12032,12048,Die kleine Biene,Die-kleine-Biene
-gdc,ndtw.0,11975,12174,alcimna,12081,12084,sie,Die-kleine-Biene
-gdc,ndtw.0,11975,12174,alcimna,12106,12116,Den Winter,der-œde-Winter
-gdc,ndtw.0,11975,12174,alcimna,12135,12138,ich,alcimna
-gdc,ndtw.0,11975,12174,alcimna,12145,12147,du,evander
-gdc,ndtw.0,12180,12557,evander,12220,12229,Die Sonne,die-Sonne
-gdc,ndtw.0,12180,12557,evander,12258,12267,die Biene,Die-kleine-Biene
-gdc,ndtw.0,12180,12557,evander,12295,12298,sie,Die-kleine-Biene
-gdc,ndtw.0,12180,12557,evander,12299,12312,des Fryhlings,Der-Fryhling
-gdc,ndtw.0,12180,12557,evander,12346,12349,ich,evander
-gdc,ndtw.0,12180,12557,evander,12350,12355,deine,alcimna
-gdc,ndtw.0,12180,12557,evander,12368,12371,ich,evander
-gdc,ndtw.0,12384,12390,_stage,12384,12389,Beyde,
-gdc,ndtw.0,12180,12557,evander,12393,12397,Dich,
-gdc,ndtw.0,12180,12557,evander,12403,12406,ich,evander
-gdc,ndtw.0,12180,12557,evander,12432,12435,ich,evander
-gdc,ndtw.0,12180,12557,evander,12440,12450,den Fluren,den-Fluren
-gdc,ndtw.0,12180,12557,evander,12507,12510,Ich,evander
-gdc,ndtw.0,12180,12557,evander,12538,12556,Beym heil'gen Hain,Beym-heilg'en-Hain
-gdc,ndtw.0,12609,12628,_stage,12609,12614,Milon,milon
-gdc,ndtw.0,12609,12628,_stage,12616,12627,die vorigen,
-gdc,ndtw.0,12631,12678,milon,12639,12642,Ihr,
-gdc,ndtw.0,12631,12678,milon,12648,12656,das Lied,das-Lied
-gdc,ndtw.0,12683,12770,alcimna,12698,12700,Du,milon
-gdc,ndtw.0,12683,12770,alcimna,12728,12730,du,milon
-gdc,ndtw.0,12776,12859,milon,12788,12791,ich,milon
-gdc,ndtw.0,12776,12859,milon,12816,12819,ich,milon
-gdc,ndtw.0,12776,12859,milon,12835,12846,euers Lieds,das-Lied
-gdc,ndtw.0,12776,12859,milon,12835,12840,euers,
-gdc,ndtw.0,12864,12910,alcimna,12890,12892,du,milon
-gdc,ndtw.0,12864,12910,alcimna,12899,12909,Ungestymer,milon
-gdc,ndtw.0,12915,13093,milon,12923,12926,Ich,milon
-gdc,ndtw.0,12915,13093,milon,12945,12948,dir,alcimna
-gdc,ndtw.0,12915,13093,milon,12956,12959,ihr,
-gdc,ndtw.0,12915,13093,milon,12980,12984,euch,
-gdc,ndtw.0,12915,13093,milon,13037,13041,euch,
-gdc,ndtw.0,12915,13093,milon,13064,13067,ihr,
-gdc,ndtw.0,12915,13093,milon,13073,13086,dies Gewimmel,dies-Gewimmel
-gdc,ndtw.0,13098,13117,evander,13108,13111,Was,dies-Gewimmel
-gdc,ndtw.0,13122,13194,milon,13130,13141,Die Schiffe,
-gdc,ndtw.0,13122,13194,milon,13147,13152,denen,
-gdc,ndtw.0,13122,13194,milon,13153,13162,Asphalion,"Asphalion,-den-Fischer"
-gdc,ndtw.0,13199,13238,alcimna,13227,13230,uns,
-gdc,ndtw.0,13243,13293,milon,13264,13267,ihr,
-gdc,ndtw.0,13243,13293,milon,13268,13274,meiner,milon
-gdc,ndtw.0,13325,13358,milon,13333,13336,Ich,milon
-gdc,ndtw.0,13363,13405,alcimna,13373,13375,Du,milon
-gdc,ndtw.0,13410,13661,milon,13418,13421,Sie,fynf-grosse-Schiffe
-gdc,ndtw.0,13410,13661,milon,13427,13435,ans Ufer,am-Ufer
-gdc,ndtw.0,13410,13661,milon,13520,13523,sie,sie
-gdc,ndtw.0,13410,13661,milon,13537,13540,Ich,milon
-gdc,ndtw.0,13410,13661,milon,13549,13553,euch,
-gdc,ndtw.0,13410,13661,milon,13567,13570,ihr,
-gdc,ndtw.0,13410,13661,milon,13610,13613,sie,sie
-gdc,ndtw.0,13410,13661,milon,13627,13630,ihr,
-gdc,ndtw.0,13666,13758,alcimna,13676,13681,Deine,milon
-gdc,ndtw.0,13666,13758,alcimna,13700,13705,Milon,milon
-gdc,ndtw.0,13666,13758,alcimna,13718,13721,ich,alcimna
-gdc,ndtw.0,13666,13758,alcimna,13748,13751,uns,
-gdc,ndtw.0,13898,14327,pyrhus,13920,13923,ich,pyrhus
-gdc,ndtw.0,13898,14327,pyrhus,13936,13942,meinen,pyrhus
-gdc,ndtw.0,13898,14327,pyrhus,14039,14042,ich,pyrhus
-gdc,ndtw.0,13898,14327,pyrhus,14131,14134,ich,pyrhus
-gdc,ndtw.0,13898,14327,pyrhus,14212,14215,Ich,pyrhus
-gdc,ndtw.0,14332,14752,arates,14341,14344,Ich,arates
-gdc,ndtw.0,14332,14752,arates,14480,14483,Ich,arates
-gdc,ndtw.0,14332,14752,arates,14531,14536,meine,arates
-gdc,ndtw.0,14332,14752,arates,14604,14607,ich,arates
-gdc,ndtw.0,14332,14752,arates,14613,14616,ich,arates
-gdc,ndtw.0,14332,14752,arates,14643,14649,meinen,arates
-gdc,ndtw.0,14332,14752,arates,14685,14688,mir,arates
-gdc,ndtw.0,14332,14752,arates,14714,14720,meinem,arates
-gdc,ndtw.0,14757,15288,pyrhus,14976,14980,mich,pyrhus
-gdc,ndtw.0,14757,15288,pyrhus,15023,15028,meine,pyrhus
-gdc,ndtw.0,15604,15824,pyrhus,15648,15651,ich,pyrhus
-gdc,ndtw.0,15604,15824,pyrhus,15740,15743,mir,pyrhus
-gdc,ndtw.0,15604,15824,pyrhus,15774,15778,mein,pyrhus
-gdc,ndtw.0,15900,15942,evander,15915,15918,mir,evander
-gdc,ndtw.0,15900,15942,evander,15929,15934,meine,evander
-gdc,ndtw.0,16036,16248,evander,16133,16136,mir,evander
-gdc,ndtw.0,16375,16680,evander,16385,16388,Ich,evander
-gdc,ndtw.0,16375,16680,evander,16407,16410,ich,evander
-gdc,ndtw.0,16375,16680,evander,16424,16427,Ich,evander
-gdc,ndtw.0,16375,16680,evander,16487,16490,Ich,evander
-gdc,ndtw.0,16375,16680,evander,16520,16523,ich,evander
-gdc,ndtw.0,16375,16680,evander,16537,16540,ich,evander
-gdc,ndtw.0,16754,18091,evander,16764,16767,Ich,evander
-gdc,ndtw.0,16754,18091,evander,16774,16778,mich,evander
-gdc,ndtw.0,16754,18091,evander,17264,17267,ich,evander
-gdc,ndtw.0,16754,18091,evander,17301,17304,ich,evander
-gdc,ndtw.0,16754,18091,evander,17322,17325,ich,evander
-gdc,ndtw.0,16754,18091,evander,17479,17485,meiner,evander
-gdc,ndtw.0,16754,18091,evander,17495,17498,mir,evander
-gdc,ndtw.0,16754,18091,evander,17531,17534,ich,evander
-gdc,ndtw.0,16754,18091,evander,17623,17626,ich,evander
-gdc,ndtw.0,16754,18091,evander,17628,17631,ich,evander
-gdc,ndtw.0,16754,18091,evander,17656,17659,ich,evander
-gdc,ndtw.0,16754,18091,evander,17660,17664,mein,evander
-gdc,ndtw.0,16754,18091,evander,17734,17738,mich,evander
-gdc,ndtw.0,16754,18091,evander,17758,17764,meiner,evander
-gdc,ndtw.0,16754,18091,evander,17770,17773,ich,evander
-gdc,ndtw.0,16754,18091,evander,17803,17806,mir,evander
-gdc,ndtw.0,16754,18091,evander,17866,17869,ich,evander
-gdc,ndtw.0,16754,18091,evander,17915,17918,mir,evander
-gdc,ndtw.0,16754,18091,evander,17942,17946,mich,evander
-gdc,ndtw.0,18096,18186,pyrhus,18118,18122,mich,pyrhus
-gdc,ndtw.0,18096,18186,pyrhus,18137,18140,ich,pyrhus
-gdc,ndtw.0,18096,18186,pyrhus,18169,18172,mir,pyrhus
-gdc,ndtw.0,18191,18667,evander,18201,18204,Ich,evander
-gdc,ndtw.0,18191,18667,evander,18226,18229,ich,evander
-gdc,ndtw.0,18191,18667,evander,18251,18254,ich,evander
-gdc,ndtw.0,18191,18667,evander,18255,18261,meinen,evander
-gdc,ndtw.0,18191,18667,evander,18279,18282,ich,evander
-gdc,ndtw.0,18191,18667,evander,18349,18353,Mein,evander
-gdc,ndtw.0,18191,18667,evander,18388,18393,meine,evander
-gdc,ndtw.0,18191,18667,evander,18417,18420,ich,evander
-gdc,ndtw.0,18191,18667,evander,18586,18590,mich,evander
-gdc,ndtw.0,18191,18667,evander,18631,18634,mir,evander
-gdc,ndtw.0,18191,18667,evander,18645,18648,ich,evander
-gdc,ndtw.0,18725,18993,evander,18735,18739,Mein,evander
-gdc,ndtw.0,18725,18993,evander,18753,18757,mich,evander
-gdc,ndtw.0,18725,18993,evander,18766,18769,ich,evander
-gdc,ndtw.0,18725,18993,evander,18802,18805,ich,evander
-gdc,ndtw.0,18725,18993,evander,18913,18916,ich,evander
-gdc,ndtw.0,18725,18993,evander,18978,18981,ich,evander
-gdc,ndtw.0,18998,19175,pyrhus,19026,19030,mein,pyrhus
-gdc,ndtw.0,19281,19471,evander,19301,19304,mir,evander
-gdc,ndtw.0,19281,19471,evander,19329,19332,ich,evander
-gdc,ndtw.0,19281,19471,evander,19352,19355,Ich,evander
-gdc,ndtw.0,19281,19471,evander,19368,19371,ich,evander
-gdc,ndtw.0,19281,19471,evander,19436,19440,mein,evander
-gdc,ndtw.0,19281,19471,evander,19458,19462,mich,evander
-gdc,ndtw.0,19476,19542,pyrhus,19515,19518,ich,pyrhus
-gdc,ndtw.0,19591,19665,pyrhus,19604,19607,ich,pyrhus
-gdc,ndtw.0,19670,19733,evander,19680,19684,Mein,evander
-gdc,ndtw.0,19739,19860,pyrhus,19763,19767,mein,pyrhus
-gdc,ndtw.0,19739,19860,pyrhus,19776,19779,Ich,pyrhus
-gdc,ndtw.0,19739,19860,pyrhus,19785,19789,mich,pyrhus
-gdc,ndtw.0,19865,19909,arates,19887,19890,ich,arates
-gdc,ndtw.0,19914,19955,evander,19937,19941,mein,evander
-gdc,ndtw.0,20054,20160,bedienter,20079,20083,Mein,bedienter
-gdc,ndtw.0,20165,20260,pyrhus,20190,20194,mein,pyrhus
-gdc,ndtw.0,20266,20528,lamon,20278,20282,mein,lamon
-gdc,ndtw.0,20266,20528,lamon,20289,20292,Ich,lamon
-gdc,ndtw.0,20266,20528,lamon,20393,20396,ich,lamon
-gdc,ndtw.0,20266,20528,lamon,20432,20435,mir,lamon
-gdc,ndtw.0,20266,20528,lamon,20508,20511,mir,lamon
-gdc,ndtw.0,20533,20563,evander,20559,20562,ich,evander
-gdc,ndtw.0,20568,20682,pyrhus,20608,20612,mich,pyrhus
-gdc,ndtw.0,20568,20682,pyrhus,20622,20626,mein,pyrhus
-gdc,ndtw.0,20688,20727,evander,20702,20705,mir,evander
-gdc,ndtw.0,20688,20727,evander,20716,20720,mein,evander
-gdc,ndtw.0,20732,20902,pyrhus,20745,20748,ich,pyrhus
-gdc,ndtw.0,20732,20902,pyrhus,20791,20794,ich,pyrhus
-gdc,ndtw.0,20732,20902,pyrhus,20823,20829,meinen,pyrhus
-gdc,ndtw.0,20908,21040,evander,20943,20947,mein,evander
-gdc,ndtw.0,20908,21040,evander,20964,20967,Ich,evander
-gdc,ndtw.0,20908,21040,evander,21011,21015,mich,evander
-gdc,ndtw.0,21045,21232,pyrhus,21085,21091,meinen,pyrhus
-gdc,ndtw.0,21045,21232,pyrhus,21126,21129,mir,pyrhus
-gdc,ndtw.0,21045,21232,pyrhus,21156,21160,mein,pyrhus
-gdc,ndtw.0,21045,21232,pyrhus,21178,21181,ich,pyrhus
-gdc,ndtw.0,21237,21452,lamon,21302,21307,meine,lamon
-gdc,ndtw.0,21237,21452,lamon,21327,21330,mir,lamon
-gdc,ndtw.0,21237,21452,lamon,21353,21357,mich,lamon
-gdc,ndtw.0,21237,21452,lamon,21397,21400,Ich,lamon
-gdc,ndtw.0,21237,21452,lamon,21433,21436,mir,lamon
-gdc,ndtw.0,21457,21784,pyrhus,21521,21524,ich,pyrhus
-gdc,ndtw.0,21457,21784,pyrhus,21530,21535,meine,pyrhus
-gdc,ndtw.0,21457,21784,pyrhus,21652,21656,mein,pyrhus
-gdc,ndtw.0,21457,21784,pyrhus,21679,21682,ich,pyrhus
-gdc,ndtw.0,21457,21784,pyrhus,21714,21718,mein,pyrhus
-gdc,ndtw.0,21863,22131,evander,21900,21903,ich,evander
-gdc,ndtw.0,21863,22131,evander,21920,21923,ich,evander
-gdc,ndtw.0,21863,22131,evander,21943,21946,ich,evander
-gdc,ndtw.0,21863,22131,evander,21984,21987,ich,evander
-gdc,ndtw.0,21863,22131,evander,21995,22001,meiner,evander
-gdc,ndtw.0,21863,22131,evander,22039,22042,mir,evander
-gdc,ndtw.0,21863,22131,evander,22118,22121,mir,evander
-gdc,ndtw.0,22136,22226,junger_herr,22159,22163,mein,junger_herr
-gdc,ndtw.0,22136,22226,junger_herr,22201,22206,meine,junger_herr
-gdc,ndtw.0,22231,22277,evander,22265,22269,mein,evander
-gdc,ndtw.0,22511,22690,evander,22571,22574,Ich,evander
-gdc,ndtw.0,22511,22690,evander,22592,22598,meiner,evander
-gdc,ndtw.0,22695,22930,junger_herr,22843,22846,ich,junger_herr
-gdc,ndtw.0,22695,22930,junger_herr,22890,22894,mich,junger_herr
-gdc,ndtw.0,23392,23458,junger_herr,23433,23436,ich,junger_herr
-gdc,ndtw.0,23524,23603,junger_herr,23548,23551,ich,junger_herr
-gdc,ndtw.0,23608,23649,evander,23627,23630,mir,evander
-gdc,ndtw.0,23654,23701,junger_herr,23668,23671,Ich,junger_herr
-gdc,ndtw.0,23753,23985,junger_herr,23778,23781,Ich,junger_herr
-gdc,ndtw.0,23753,23985,junger_herr,23854,23859,Meine,junger_herr
-gdc,ndtw.0,24018,24093,junger_herr,24064,24067,ich,junger_herr
-gdc,ndtw.0,24352,25099,junger_herr,24811,24817,meiner,junger_herr
-gdc,ndtw.0,24352,25099,junger_herr,25002,25005,Ich,junger_herr
-gdc,ndtw.0,24352,25099,junger_herr,25039,25045,meinem,junger_herr
-gdc,ndtw.0,24352,25099,junger_herr,25073,25077,mich,junger_herr
-gdc,ndtw.0,25211,25724,junger_herr,25286,25289,ich,junger_herr
-gdc,ndtw.0,25211,25724,junger_herr,25291,25294,ich,junger_herr
-gdc,ndtw.0,25211,25724,junger_herr,25339,25342,ich,junger_herr
-gdc,ndtw.0,25211,25724,junger_herr,25490,25493,Ich,junger_herr
-gdc,ndtw.0,25211,25724,junger_herr,25548,25551,ich,junger_herr
-gdc,ndtw.0,25211,25724,junger_herr,25664,25667,ich,junger_herr
-gdc,ndtw.0,26036,26169,junger_herr,26060,26064,mein,junger_herr
-gdc,ndtw.0,26276,26347,junger_herr,26290,26293,Ich,junger_herr
-gdc,ndtw.0,26276,26347,junger_herr,26306,26310,mein,junger_herr
-gdc,ndtw.0,26276,26347,junger_herr,26323,26327,mich,junger_herr
-gdc,ndtw.0,26352,26415,evander,26405,26408,mir,evander
-gdc,ndtw.0,26647,26882,evander,26692,26695,Ich,evander
-gdc,ndtw.0,26647,26882,evander,26770,26774,mein,evander
-gdc,ndtw.0,26887,26919,officier,26898,26902,Mein,officier
-gdc,ndtw.0,26924,27180,evander,27017,27020,Ich,evander
-gdc,ndtw.0,27186,27260,officier,27197,27200,Ich,officier
-gdc,ndtw.0,27339,27462,officier,27431,27434,mir,officier
-gdc,ndtw.0,27339,27462,officier,27446,27449,ich,officier
-gdc,ndtw.0,27538,27567,officier,27556,27560,mein,officier
-gdc,ndtw.0,28258,28503,evander,28311,28314,ich,evander
-gdc,ndtw.0,28813,29256,evander,28863,28867,mich,evander
-gdc,ndtw.0,28813,29256,evander,28974,28977,Mir,evander
-gdc,ndtw.0,28813,29256,evander,28988,28991,ich,evander
-gdc,ndtw.0,28813,29256,evander,29203,29207,mein,evander
-gdc,ndtw.0,29657,29982,officier,29687,29690,Ich,officier
-gdc,ndtw.0,29657,29982,officier,29704,29707,ich,officier
-gdc,ndtw.0,29987,30116,evander,30021,30024,ich,evander
-gdc,ndtw.0,29987,30116,evander,30051,30054,mir,evander
-gdc,ndtw.0,29987,30116,evander,30079,30083,mein,evander
-gdc,ndtw.0,30614,30789,evander,30626,30629,ich,evander
-gdc,ndtw.0,30614,30789,evander,30652,30655,mir,evander
-gdc,ndtw.0,30614,30789,evander,30674,30678,mich,evander
-gdc,ndtw.0,30614,30789,evander,30692,30695,ich,evander
-gdc,ndtw.0,31045,31123,der_andre,31063,31067,mein,der_andre
-gdc,ndtw.0,31045,31123,der_andre,31083,31086,mir,der_andre
-gdc,ndtw.0,31128,31265,evander,31165,31169,mein,evander
-gdc,ndtw.0,31128,31265,evander,31211,31215,mich,evander
-gdc,ndtw.0,31270,31378,der_andre,31297,31301,mich,der_andre
-gdc,ndtw.0,31270,31378,der_andre,31339,31342,ich,der_andre
-gdc,ndtw.0,31383,31580,evander,31405,31408,ich,evander
-gdc,ndtw.0,31383,31580,evander,31494,31497,ich,evander
-gdc,ndtw.0,31586,31857,der_andre,31598,31602,Mein,der_andre
-gdc,ndtw.0,31586,31857,der_andre,31610,31613,Ich,der_andre
-gdc,ndtw.0,31586,31857,der_andre,31723,31728,meine,der_andre
-gdc,ndtw.0,31586,31857,der_andre,31771,31774,ich,der_andre
-gdc,ndtw.0,31586,31857,der_andre,31775,31780,meine,der_andre
-gdc,ndtw.0,31586,31857,der_andre,31818,31821,ich,der_andre
-gdc,ndtw.0,31862,32220,evander,31876,31879,ich,evander
-gdc,ndtw.0,31862,32220,evander,31930,31934,mich,evander
-gdc,ndtw.0,31862,32220,evander,31995,31998,Ich,evander
-gdc,ndtw.0,31862,32220,evander,32018,32021,ich,evander
-gdc,ndtw.0,31862,32220,evander,32107,32110,mir,evander
-gdc,ndtw.0,31862,32220,evander,32123,32126,ich,evander
-gdc,ndtw.0,31862,32220,evander,32176,32179,ich,evander
-gdc,ndtw.0,32300,32492,gelehrter,32349,32352,mir,gelehrter
-gdc,ndtw.0,32300,32492,gelehrter,32411,32417,meines,gelehrter
-gdc,ndtw.0,32497,32653,evander,32523,32526,ich,evander
-gdc,ndtw.0,32497,32653,evander,32527,32531,mich,evander
-gdc,ndtw.0,33027,33134,gelehrter,33044,33047,Ich,gelehrter
-gdc,ndtw.0,33269,33333,gelehrter,33281,33284,Ich,gelehrter
-gdc,ndtw.0,33269,33333,gelehrter,33290,33294,mich,gelehrter
-gdc,ndtw.0,33409,33683,gelehrter,33421,33424,Ich,gelehrter
-gdc,ndtw.0,33409,33683,gelehrter,33460,33463,ich,gelehrter
-gdc,ndtw.0,33409,33683,gelehrter,33510,33513,ich,gelehrter
-gdc,ndtw.0,33688,33831,evander,33721,33724,ich,evander
-gdc,ndtw.0,33688,33831,evander,33745,33749,mich,evander
-gdc,ndtw.0,33688,33831,evander,33757,33761,mich,evander
-gdc,ndtw.0,33688,33831,evander,33763,33766,Ich,evander
-gdc,ndtw.0,33688,33831,evander,33773,33777,mich,evander
-gdc,ndtw.0,33688,33831,evander,33805,33811,meiner,evander
-gdc,ndtw.0,33942,34034,alcimna,33987,33990,Mir,alcimna
-gdc,ndtw.0,34168,34273,bedienter,34198,34201,ich,bedienter
-gdc,ndtw.0,34168,34273,bedienter,34210,34216,meinem,bedienter
-gdc,ndtw.0,34279,34472,alcimna,34295,34299,mein,alcimna
-gdc,ndtw.0,34279,34472,alcimna,34337,34340,mir,alcimna
-gdc,ndtw.0,34279,34472,alcimna,34459,34462,ich,alcimna
-gdc,ndtw.0,34477,34592,chloe,34485,34488,Ich,chloe
-gdc,ndtw.0,34597,34670,alcimna,34621,34624,ich,alcimna
-gdc,ndtw.0,34597,34670,alcimna,34629,34635,meinem,alcimna
-gdc,ndtw.0,34597,34670,alcimna,34661,34664,mir,alcimna
-gdc,ndtw.0,34675,34720,chloe,34687,34691,mein,chloe
-gdc,ndtw.0,34725,34824,alcimna,34778,34781,mir,alcimna
-gdc,ndtw.0,34725,34824,alcimna,34783,34786,Ich,alcimna
-gdc,ndtw.0,34829,34972,chloe,34898,34902,mein,chloe
-gdc,ndtw.0,34829,34972,chloe,34945,34950,meine,chloe
-gdc,ndtw.0,34977,35040,alcimna,35006,35009,ich,alcimna
-gdc,ndtw.0,34977,35040,alcimna,35024,35027,mir,alcimna
-gdc,ndtw.0,35045,35112,chloe,35102,35106,mein,chloe
-gdc,ndtw.0,35117,35279,alcimna,35136,35139,ich,alcimna
-gdc,ndtw.0,35117,35279,alcimna,35152,35156,mich,alcimna
-gdc,ndtw.0,35117,35279,alcimna,35166,35169,ich,alcimna
-gdc,ndtw.0,35117,35279,alcimna,35196,35200,mich,alcimna
-gdc,ndtw.0,35117,35279,alcimna,35258,35261,ich,alcimna
-gdc,ndtw.0,35311,35353,alcimna,35348,35352,mich,alcimna
-gdc,ndtw.0,35358,35448,chloe,35384,35387,ich,chloe
-gdc,ndtw.0,35454,35489,alcimna,35469,35475,meinen,alcimna
-gdc,ndtw.0,35494,35602,chloe,35506,35509,Ich,chloe
-gdc,ndtw.0,35494,35602,chloe,35539,35542,ich,chloe
-gdc,ndtw.0,35494,35602,chloe,35579,35583,mein,chloe
-gdc,ndtw.0,35667,35918,chloe,35675,35678,Ich,chloe
-gdc,ndtw.0,35667,35918,chloe,35691,35695,mein,chloe
-gdc,ndtw.0,35667,35918,chloe,35820,35823,mir,chloe
-gdc,ndtw.0,35923,36415,alcimna,35955,35959,mich,alcimna
-gdc,ndtw.0,35923,36415,alcimna,35974,35977,ich,alcimna
-gdc,ndtw.0,35923,36415,alcimna,36070,36073,mir,alcimna
-gdc,ndtw.0,35923,36415,alcimna,36197,36200,ich,alcimna
-gdc,ndtw.0,35923,36415,alcimna,36326,36330,Mein,alcimna
-gdc,ndtw.0,35923,36415,alcimna,36359,36363,mein,alcimna
-gdc,ndtw.0,35923,36415,alcimna,36391,36394,ich,alcimna
-gdc,ndtw.0,36520,36690,arates,36564,36568,mein,arates
-gdc,ndtw.0,36696,36960,bedienter,36721,36725,mein,bedienter
-gdc,ndtw.0,36696,36960,bedienter,36732,36735,Ich,bedienter
-gdc,ndtw.0,36696,36960,bedienter,36784,36787,mir,bedienter
-gdc,ndtw.0,36696,36960,bedienter,36841,36844,ich,bedienter
-gdc,ndtw.0,36965,37103,arates,36997,37000,mir,arates
-gdc,ndtw.0,36965,37103,arates,37017,37020,mir,arates
-gdc,ndtw.0,36965,37103,arates,37031,37036,meine,arates
-gdc,ndtw.0,36965,37103,arates,37082,37086,mich,arates
-gdc,ndtw.0,37108,37174,alcimna,37126,37130,mein,alcimna
-gdc,ndtw.0,37108,37174,alcimna,37147,37150,mir,alcimna
-gdc,ndtw.0,37108,37174,alcimna,37151,37155,mein,alcimna
-gdc,ndtw.0,37179,37226,arates,37188,37191,Ich,arates
-gdc,ndtw.0,37231,37254,alcimna,37243,37247,mein,alcimna
-gdc,ndtw.0,37393,37496,chloe,37401,37405,Mein,chloe
-gdc,ndtw.0,37393,37496,chloe,37429,37434,meine,chloe
-gdc,ndtw.0,37393,37496,chloe,37450,37453,ich,chloe
-gdc,ndtw.0,37501,37659,arates,37638,37642,mich,arates
-gdc,ndtw.0,37664,37707,alcimna,37674,37677,Ich,alcimna
-gdc,ndtw.0,37712,37989,arates,37773,37776,ich,arates
-gdc,ndtw.0,37712,37989,arates,37801,37804,ich,arates
-gdc,ndtw.0,37712,37989,arates,37827,37832,meine,arates
-gdc,ndtw.0,37712,37989,arates,37858,37862,mein,arates
-gdc,ndtw.0,37712,37989,arates,37896,37899,ich,arates
-gdc,ndtw.0,37712,37989,arates,37938,37941,ich,arates
-gdc,ndtw.0,37994,38096,chloe,38012,38017,meine,chloe
-gdc,ndtw.0,37994,38096,chloe,38027,38030,Ich,chloe
-gdc,ndtw.0,37994,38096,chloe,38059,38062,Ich,chloe
-gdc,ndtw.0,37994,38096,chloe,38077,38083,meiner,chloe
-gdc,ndtw.0,38101,38210,alcimna,38121,38126,meine,alcimna
-gdc,ndtw.0,38101,38210,alcimna,38148,38152,mich,alcimna
-gdc,ndtw.0,38215,38275,chloe,38223,38226,Ich,chloe
-gdc,ndtw.0,38215,38275,chloe,38237,38242,meine,chloe
-gdc,ndtw.0,38556,38697,alcimna,38600,38603,mir,alcimna
-gdc,ndtw.0,38556,38697,alcimna,38633,38637,mich,alcimna
-gdc,ndtw.0,38812,39119,alcimna,38832,38835,ich,alcimna
-gdc,ndtw.0,38812,39119,alcimna,38868,38871,ich,alcimna
-gdc,ndtw.0,39364,39577,alcimna,39386,39389,ich,alcimna
-gdc,ndtw.0,39364,39577,alcimna,39397,39400,Ich,alcimna
-gdc,ndtw.0,39364,39577,alcimna,39436,39439,ich,alcimna
-gdc,ndtw.0,39364,39577,alcimna,39470,39473,ich,alcimna
-gdc,ndtw.0,39364,39577,alcimna,39480,39483,mir,alcimna
-gdc,ndtw.0,39364,39577,alcimna,39556,39561,meine,alcimna
-gdc,ndtw.0,39663,39722,alcimna,39706,39709,ich,alcimna
-gdc,ndtw.0,39975,40342,alcimna,39996,39999,mir,alcimna
-gdc,ndtw.0,39975,40342,alcimna,40241,40244,mir,alcimna
-gdc,ndtw.0,39975,40342,alcimna,40280,40283,ich,alcimna
-gdc,ndtw.0,39975,40342,alcimna,40292,40295,ich,alcimna
-gdc,ndtw.0,39975,40342,alcimna,40315,40318,mir,alcimna
-gdc,ndtw.0,40513,40675,alcimna,40546,40549,Ich,alcimna
-gdc,ndtw.0,40513,40675,alcimna,40665,40668,mir,alcimna
-gdc,ndtw.0,40764,40906,alcimna,40823,40826,mir,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41132,41135,mir,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41177,41180,ich,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41259,41262,ich,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41277,41280,ich,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41365,41368,ich,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41374,41377,mir,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41409,41413,mein,alcimna
-gdc,ndtw.0,41114,41582,alcimna,41542,41545,ich,alcimna
-gdc,ndtw.0,41985,42135,alcimna,42047,42050,mir,alcimna
-gdc,ndtw.0,41985,42135,alcimna,42076,42079,ich,alcimna
-gdc,ndtw.0,41985,42135,alcimna,42126,42129,ich,alcimna
-gdc,ndtw.0,42564,42631,alcimna,42581,42585,mich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42801,42805,mich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42840,42843,ich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42844,42848,mich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42876,42880,mich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42909,42912,ich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42943,42946,ich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,42968,42971,ich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,43005,43008,mir,alcimna
-gdc,ndtw.0,42775,43123,alcimna,43066,43069,ich,alcimna
-gdc,ndtw.0,42775,43123,alcimna,43104,43107,ich,alcimna
-gdc,ndtw.0,43177,43443,alcimna,43195,43198,ich,alcimna
-gdc,ndtw.0,43177,43443,alcimna,43205,43209,mich,alcimna
-gdc,ndtw.0,43177,43443,alcimna,43251,43254,ich,alcimna
-gdc,ndtw.0,43177,43443,alcimna,43265,43268,ich,alcimna
-gdc,ndtw.0,43177,43443,alcimna,43312,43316,mich,alcimna
-gdc,ndtw.0,43448,43929,erste_aufwærterin,43619,43622,ich,erste_aufwærterin
-gdc,ndtw.0,43934,44303,alcimna,43958,43961,ich,alcimna
-gdc,ndtw.0,43934,44303,alcimna,43980,43983,ich,alcimna
-gdc,ndtw.0,43934,44303,alcimna,44003,44006,ich,alcimna
-gdc,ndtw.0,43934,44303,alcimna,44007,44011,mein,alcimna
-gdc,ndtw.0,43934,44303,alcimna,44081,44084,ich,alcimna
-gdc,ndtw.0,43934,44303,alcimna,44238,44241,ich,alcimna
-gdc,ndtw.0,43934,44303,alcimna,44280,44283,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44507,44510,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44579,44582,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44612,44616,Mein,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44624,44627,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44682,44685,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44699,44702,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44735,44738,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44767,44770,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44897,44900,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44956,44960,mich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,44990,44994,mich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,45030,45033,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,45089,45093,mich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,45114,45117,ich,alcimna
-gdc,ndtw.0,44421,45212,alcimna,45144,45147,mir,alcimna
-gdc,ndtw.0,44421,45212,alcimna,45161,45166,meine,alcimna
-gdc,ndtw.0,45217,45432,zweyte_aufwærterin,45413,45416,ich,zweyte_aufwærterin
-gdc,ndtw.0,45437,45755,alcimna,45447,45450,Ich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45470,45473,ich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45488,45491,ich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45512,45515,ich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45541,45544,ich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45619,45622,ich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45676,45680,mich,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45687,45691,mein,alcimna
-gdc,ndtw.0,45437,45755,alcimna,45730,45733,ich,alcimna
-gdc,ndtw.0,45913,45981,alcimna,45931,45935,mich,alcimna
-gdc,ndtw.0,45913,45981,alcimna,45954,45957,ich,alcimna
-gdc,ndtw.0,46112,46221,alcimna,46136,46140,mich,alcimna
-gdc,ndtw.0,46112,46221,alcimna,46171,46174,mir,alcimna
-gdc,ndtw.0,46366,49756,evander,46413,46416,ich,evander
-gdc,ndtw.0,46366,49756,evander,46512,46515,ich,evander
-gdc,ndtw.0,46366,49756,evander,46516,46521,meine,evander
-gdc,ndtw.0,46366,49756,evander,46624,46628,mich,evander
-gdc,ndtw.0,46366,49756,evander,46643,46646,ich,evander
-gdc,ndtw.0,46366,49756,evander,46693,46696,Ich,evander
-gdc,ndtw.0,46366,49756,evander,46783,46786,ich,evander
-gdc,ndtw.0,46366,49756,evander,46845,46848,mir,evander
-gdc,ndtw.0,46366,49756,evander,46904,46908,mich,evander
-gdc,ndtw.0,46366,49756,evander,46954,46957,ich,evander
-gdc,ndtw.0,46366,49756,evander,47048,47051,ich,evander
-gdc,ndtw.0,46366,49756,evander,47052,47056,mich,evander
-gdc,ndtw.0,46366,49756,evander,47105,47109,mein,evander
-gdc,ndtw.0,46366,49756,evander,47139,47142,ich,evander
-gdc,ndtw.0,46366,49756,evander,47171,47175,mich,evander
-gdc,ndtw.0,46366,49756,evander,47292,47295,ich,evander
-gdc,ndtw.0,46366,49756,evander,47418,47421,Ich,evander
-gdc,ndtw.0,46366,49756,evander,47578,47581,ich,evander
-gdc,ndtw.0,46366,49756,evander,47590,47596,meinen,evander
-gdc,ndtw.0,46366,49756,evander,47636,47639,ich,evander
-gdc,ndtw.0,46366,49756,evander,47677,47680,ich,evander
-gdc,ndtw.0,46366,49756,evander,47719,47722,mir,evander
-gdc,ndtw.0,46366,49756,evander,47832,47836,mich,evander
-gdc,ndtw.0,46366,49756,evander,47926,47929,ich,evander
-gdc,ndtw.0,46366,49756,evander,47963,47967,mich,evander
-gdc,ndtw.0,46366,49756,evander,48046,48049,ich,evander
-gdc,ndtw.0,46366,49756,evander,48053,48059,meines,evander
-gdc,ndtw.0,46366,49756,evander,48184,48187,ich,evander
-gdc,ndtw.0,46366,49756,evander,48341,48346,meine,evander
-gdc,ndtw.0,46366,49756,evander,48355,48358,mir,evander
-gdc,ndtw.0,46366,49756,evander,48445,48450,meine,evander
-gdc,ndtw.0,46366,49756,evander,48525,48528,Ich,evander
-gdc,ndtw.0,46366,49756,evander,48537,48540,ich,evander
-gdc,ndtw.0,46366,49756,evander,48599,48602,mir,evander
-gdc,ndtw.0,46366,49756,evander,48629,48633,mich,evander
-gdc,ndtw.0,46366,49756,evander,48674,48677,mir,evander
-gdc,ndtw.0,46366,49756,evander,48692,48695,ich,evander
-gdc,ndtw.0,46366,49756,evander,48981,48987,meiner,evander
-gdc,ndtw.0,46366,49756,evander,49032,49035,ich,evander
-gdc,ndtw.0,46366,49756,evander,49054,49057,ich,evander
-gdc,ndtw.0,46366,49756,evander,49087,49090,ich,evander
-gdc,ndtw.0,46366,49756,evander,49133,49136,ich,evander
-gdc,ndtw.0,46366,49756,evander,49228,49231,mir,evander
-gdc,ndtw.0,46366,49756,evander,49338,49344,meinen,evander
-gdc,ndtw.0,46366,49756,evander,49412,49415,ich,evander
-gdc,ndtw.0,46366,49756,evander,49471,49474,ich,evander
-gdc,ndtw.0,46366,49756,evander,49528,49532,mich,evander
-gdc,ndtw.0,46366,49756,evander,49648,49651,ich,evander
-gdc,ndtw.0,46366,49756,evander,49667,49670,ich,evander
-gdc,ndtw.0,46366,49756,evander,49707,49711,mein,evander
-gdc,ndtw.0,49826,49936,pyrhus,49835,49839,Mein,pyrhus
-gdc,ndtw.0,49826,49936,pyrhus,49868,49871,ich,pyrhus
-gdc,ndtw.0,49826,49936,pyrhus,49923,49926,mir,pyrhus
-gdc,ndtw.0,49941,50030,evander,49951,49954,Ich,evander
-gdc,ndtw.0,49941,50030,evander,50007,50010,ich,evander
-gdc,ndtw.0,50035,50191,pyrhus,50082,50085,mir,pyrhus
-gdc,ndtw.0,50196,50566,evander,50236,50240,mich,evander
-gdc,ndtw.0,50196,50566,evander,50384,50387,Ich,evander
-gdc,ndtw.0,50196,50566,evander,50448,50451,mir,evander
-gdc,ndtw.0,50196,50566,evander,50478,50481,mir,evander
-gdc,ndtw.0,50196,50566,evander,50483,50487,mein,evander
-gdc,ndtw.0,50777,50998,evander,50800,50803,mir,evander
-gdc,ndtw.0,50777,50998,evander,50828,50832,mich,evander
-gdc,ndtw.0,50777,50998,evander,50863,50866,mir,evander
-gdc,ndtw.0,50777,50998,evander,50888,50891,ich,evander
-gdc,ndtw.0,50777,50998,evander,50911,50914,Ich,evander
-gdc,ndtw.0,50777,50998,evander,50964,50967,ich,evander
-gdc,ndtw.0,51003,51176,pyrhus,51012,51016,Mein,pyrhus
-gdc,ndtw.0,51181,51607,evander,51191,51195,Mein,evander
-gdc,ndtw.0,51181,51607,evander,51404,51407,ich,evander
-gdc,ndtw.0,51181,51607,evander,51464,51467,ich,evander
-gdc,ndtw.0,51613,51801,pyrhus,51714,51717,mir,pyrhus
-gdc,ndtw.0,51613,51801,pyrhus,51731,51734,mir,pyrhus
-gdc,ndtw.0,51613,51801,pyrhus,51759,51762,mir,pyrhus
-gdc,ndtw.0,51613,51801,pyrhus,51777,51783,meinem,pyrhus
-gdc,ndtw.0,51806,51864,evander,51816,51819,Ich,evander
-gdc,ndtw.0,51806,51864,evander,51838,51842,mein,evander
-gdc,ndtw.0,51929,52077,pyrhus,51951,51955,mein,pyrhus
-gdc,ndtw.0,51929,52077,pyrhus,52023,52026,ich,pyrhus
-gdc,ndtw.0,52082,52125,evander,52109,52112,mir,evander
-gdc,ndtw.0,52131,52281,pyrhus,52149,52152,Ich,pyrhus
-gdc,ndtw.0,52131,52281,pyrhus,52183,52187,mein,pyrhus
-gdc,ndtw.0,52131,52281,pyrhus,52249,52252,ich,pyrhus
-gdc,ndtw.0,52311,52398,pyrhus,52340,52345,meine,pyrhus
-gdc,ndtw.0,52311,52398,pyrhus,52373,52376,mir,pyrhus
-gdc,ndtw.0,52403,52448,evander,52433,52436,ich,evander
-gdc,ndtw.0,52536,52611,evander,52548,52552,mein,evander
-gdc,ndtw.0,52536,52611,evander,52577,52581,mein,evander
-gdc,ndtw.0,52536,52611,evander,52604,52607,ich,evander
-gdc,ndtw.0,52727,52886,arates,52744,52747,mir,arates
-gdc,ndtw.0,52727,52886,arates,52749,52753,mein,arates
-gdc,ndtw.0,52727,52886,arates,52766,52769,ich,arates
-gdc,ndtw.0,52727,52886,arates,52770,52775,meine,arates
-gdc,ndtw.0,52727,52886,arates,52875,52879,mein,arates
-gdc,ndtw.0,52891,53017,evander,52901,52904,Ich,evander
-gdc,ndtw.0,52891,53017,evander,52927,52930,mir,evander
-gdc,ndtw.0,52891,53017,evander,52931,52935,mein,evander
-gdc,ndtw.0,52891,53017,evander,52979,52983,Mein,evander
-gdc,ndtw.0,52891,53017,evander,52994,52998,mein,evander
-gdc,ndtw.0,53022,53104,arates,53031,53034,Ich,arates
-gdc,ndtw.0,53271,53391,pyrhus,53280,53283,Ich,pyrhus
-gdc,ndtw.0,53544,53697,alcimna,53576,53579,ich,alcimna
-gdc,ndtw.0,53544,53697,alcimna,53651,53654,ich,alcimna
-gdc,ndtw.0,53544,53697,alcimna,53673,53676,ich,alcimna
-gdc,ndtw.0,53702,53797,evander,53773,53776,ich,evander
-gdc,ndtw.0,53702,53797,evander,53785,53788,ich,evander
-gdc,ndtw.0,53803,53870,alcimna,53825,53828,ich,alcimna
-gdc,ndtw.0,53803,53870,alcimna,53830,53833,ich,alcimna
-gdc,ndtw.0,53875,53970,evander,53923,53927,mich,evander
-gdc,ndtw.0,53875,53970,evander,53956,53959,ich,evander
-gdc,ndtw.0,53975,54061,alcimna,54000,54004,mich,alcimna
-gdc,ndtw.0,53975,54061,alcimna,54026,54030,mich,alcimna
-gdc,ndtw.0,54066,54129,evander,54096,54099,ich,evander
-gdc,ndtw.0,54134,54208,arates,54159,54162,ich,arates
-gdc,ndtw.0,54213,54325,evander,54261,54265,mich,evander
-gdc,ndtw.0,54213,54325,evander,54311,54316,meine,evander
-gdc,ndtw.0,54331,54430,alcimna,54352,54356,Mein,alcimna
-gdc,ndtw.0,54435,54537,evander,54470,54473,ich,evander
-gdc,ndtw.0,54435,54537,evander,54474,54478,mich,evander
-gdc,ndtw.0,54435,54537,evander,54507,54510,ich,evander
-gdc,ndtw.0,54542,54640,alcimna,54572,54575,ich,alcimna
-gdc,ndtw.0,54542,54640,alcimna,54616,54619,ich,alcimna
-gdc,ndtw.0,54542,54640,alcimna,54620,54624,mein,alcimna
-gdc,ndtw.0,54645,54780,pyrhus,54768,54772,mein,pyrhus
-gdc,ndtw.0,54785,54883,arates,54794,54797,Ich,arates
-gdc,ndtw.0,54785,54883,arates,54803,54807,mich,arates
-gdc,ndtw.0,54785,54883,arates,54812,54818,meinem,arates
-gdc,ndtw.0,54785,54883,arates,54841,54846,meine,arates
-gdc,ndtw.0,54785,54883,arates,54858,54864,meinen,arates
+gdc-coref,ndtw.0,186,202,_stage,186,191,Lamon,lamon
+gdc-coref,ndtw.0,186,202,_stage,196,201,Chloe,chloe
+gdc-coref,ndtw.0,205,380,chloe,233,245,mein Nachbar,lamon
+gdc-coref,ndtw.0,205,380,chloe,233,237,mein,chloe
+gdc-coref,ndtw.0,205,380,chloe,252,262,wir Leuthe,
+gdc-coref,ndtw.0,205,380,chloe,293,296,wir,
+gdc-coref,ndtw.0,205,380,chloe,326,331,unser,
+gdc-coref,ndtw.0,385,829,lamon,393,395,Du,chloe
+gdc-coref,ndtw.0,385,829,lamon,408,422,redliches Weib,chloe
+gdc-coref,ndtw.0,385,829,lamon,480,483,Ich,lamon
+gdc-coref,ndtw.0,385,829,lamon,519,522,ich,lamon
+gdc-coref,ndtw.0,385,829,lamon,543,546,ich,lamon
+gdc-coref,ndtw.0,385,829,lamon,560,596,die Erstlinge von fynf jungen Bæumen,die-Erstlinge
+gdc-coref,ndtw.0,385,829,lamon,578,596,fynf jungen Bæumen,fynf-jungen-Bæumen
+gdc-coref,ndtw.0,385,829,lamon,615,618,die,
+gdc-coref,ndtw.0,385,829,lamon,619,622,ich,lamon
+gdc-coref,ndtw.0,385,829,lamon,660,684,"Evander, mein Pfleg-Sohn",evander
+gdc-coref,ndtw.0,385,829,lamon,669,673,mein,lamon
+gdc-coref,ndtw.0,385,829,lamon,685,688,mir,lamon
+gdc-coref,ndtw.0,385,829,lamon,705,708,Sie,die-Erstlinge
+gdc-coref,ndtw.0,385,829,lamon,739,742,sie,die-Erstlinge
+gdc-coref,ndtw.0,385,829,lamon,778,788,die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,385,829,lamon,796,799,uns,lamon
+gdc-coref,ndtw.0,834,1458,chloe,842,844,Du,lamon
+gdc-coref,ndtw.0,834,1458,chloe,878,880,du,lamon
+gdc-coref,ndtw.0,834,1458,chloe,894,897,man,man
+gdc-coref,ndtw.0,834,1458,chloe,927,930,man,man
+gdc-coref,ndtw.0,834,1458,chloe,947,957,die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,834,1458,chloe,981,986,Leute,Leute
+gdc-coref,ndtw.0,834,1458,chloe,999,1002,die,Leute
+gdc-coref,ndtw.0,834,1458,chloe,1006,1011,ihrem,Leute
+gdc-coref,ndtw.0,834,1458,chloe,1091,1094,Wir,
+gdc-coref,ndtw.0,834,1458,chloe,1107,1110,uns,
+gdc-coref,ndtw.0,834,1458,chloe,1119,1136,unserm Geheimniss,unserm-Geheimniss
+gdc-coref,ndtw.0,834,1458,chloe,1119,1125,unserm,
+gdc-coref,ndtw.0,834,1458,chloe,1150,1153,Sie,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1163,1167,sich,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1178,1181,ich,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1208,1238,"Alcimna, meiner Pflege-Tochter",alcimna
+gdc-coref,ndtw.0,834,1458,chloe,1217,1223,meiner,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1289,1292,sie,alcimna
+gdc-coref,ndtw.0,834,1458,chloe,1293,1296,mir,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1328,1331,sie,alcimna
+gdc-coref,ndtw.0,834,1458,chloe,1351,1355,dein,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1384,1398,das Geheimniss,unserm-Geheimniss
+gdc-coref,ndtw.0,834,1458,chloe,1402,1406,dein,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1442,1445,mir,chloe
+gdc-coref,ndtw.0,834,1458,chloe,1446,1449,sie,alcimna
+gdc-coref,ndtw.0,1463,1931,lamon,1471,1481,Die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,1463,1931,lamon,1504,1509,ihnen,
+gdc-coref,ndtw.0,1463,1931,lamon,1515,1522,Evander,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1553,1555,er,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1627,1629,er,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1713,1715,er,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1731,1733,er,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1778,1781,ihn,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1860,1872,Seine Lieder,Seine-Lieder
+gdc-coref,ndtw.0,1463,1931,lamon,1860,1865,Seine,evander
+gdc-coref,ndtw.0,1463,1931,lamon,1900,1903,sie,Seine-Lieder
+gdc-coref,ndtw.0,1463,1931,lamon,1910,1913,ihm,evander
+gdc-coref,ndtw.0,1937,2177,chloe,1968,1975,Alcimna,alcimna
+gdc-coref,ndtw.0,1937,2177,chloe,1976,1995,die andern Mædchens,die-andern-Mædchens
+gdc-coref,ndtw.0,1937,2177,chloe,1997,2000,sie,alcimna
+gdc-coref,ndtw.0,1937,2177,chloe,2103,2106,sie,alcimna
+gdc-coref,ndtw.0,1937,2177,chloe,2117,2132,die andern alle,die-andern-Mædchens
+gdc-coref,ndtw.0,2182,2687,lamon,2190,2193,Ich,lamon
+gdc-coref,ndtw.0,2182,2687,lamon,2235,2246,ihrer Liebe,unsrer-Liebe
+gdc-coref,ndtw.0,2182,2687,lamon,2235,2240,ihrer,
+gdc-coref,ndtw.0,2182,2687,lamon,2266,2276,die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,2182,2687,lamon,2291,2294,sie,
+gdc-coref,ndtw.0,2182,2687,lamon,2295,2299,sich,
+gdc-coref,ndtw.0,2182,2687,lamon,2326,2329,wir,
+gdc-coref,ndtw.0,2182,2687,lamon,2361,2364,ich,lamon
+gdc-coref,ndtw.0,2182,2687,lamon,2385,2388,sie,
+gdc-coref,ndtw.0,2182,2687,lamon,2413,2416,wir,
+gdc-coref,ndtw.0,2182,2687,lamon,2433,2436,ihr,
+gdc-coref,ndtw.0,2182,2687,lamon,2480,2483,sie,
+gdc-coref,ndtw.0,2182,2687,lamon,2484,2489,unsre,
+gdc-coref,ndtw.0,2182,2687,lamon,2521,2524,sie,
+gdc-coref,ndtw.0,2182,2687,lamon,2536,2539,uns,
+gdc-coref,ndtw.0,2182,2687,lamon,2578,2581,wir,
+gdc-coref,ndtw.0,2182,2687,lamon,2632,2635,sie,
+gdc-coref,ndtw.0,2182,2687,lamon,2646,2649,wir,
+gdc-coref,ndtw.0,2182,2687,lamon,2662,2666,ihre,
+gdc-coref,ndtw.0,2693,2860,chloe,2709,2711,du,lamon
+gdc-coref,ndtw.0,2693,2860,chloe,2724,2729,Lamon,lamon
+gdc-coref,ndtw.0,2693,2860,chloe,2731,2734,Ich,chloe
+gdc-coref,ndtw.0,2693,2860,chloe,2742,2745,wir,
+gdc-coref,ndtw.0,2693,2860,chloe,2788,2791,ich,chloe
+gdc-coref,ndtw.0,2693,2860,chloe,2829,2831,du,lamon
+gdc-coref,ndtw.0,2693,2860,chloe,2833,2836,ich,chloe
+gdc-coref,ndtw.0,2865,3314,lamon,2873,2883,Die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,2865,3314,lamon,2950,2954,mich,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3001,3006,beyde,
+gdc-coref,ndtw.0,2865,3314,lamon,3035,3039,mich,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3046,3049,ich,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3061,3067,seiner,evander
+gdc-coref,ndtw.0,2865,3314,lamon,3106,3109,Ich,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3136,3139,ich,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3140,3143,ihm,evander
+gdc-coref,ndtw.0,2865,3314,lamon,3164,3167,Ich,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3194,3204,die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,2865,3314,lamon,3213,3216,uns,
+gdc-coref,ndtw.0,2865,3314,lamon,3228,3231,Wir,
+gdc-coref,ndtw.0,2865,3314,lamon,3246,3248,du,lamon
+gdc-coref,ndtw.0,2865,3314,lamon,3253,3256,ich,lamon
+gdc-coref,ndtw.0,3320,3638,chloe,3328,3330,Du,lamon
+gdc-coref,ndtw.0,3320,3638,chloe,3387,3390,wir,
+gdc-coref,ndtw.0,3320,3638,chloe,3403,3406,sie,die-Gœtter
+gdc-coref,ndtw.0,3320,3638,chloe,3442,3444,du,lamon
+gdc-coref,ndtw.0,3320,3638,chloe,3458,3461,Wir,
+gdc-coref,ndtw.0,3320,3638,chloe,3489,3494,ihrem,
+gdc-coref,ndtw.0,3320,3638,chloe,3540,3543,ich,chloe
+gdc-coref,ndtw.0,3320,3638,chloe,3552,3558,meinen,chloe
+gdc-coref,ndtw.0,3320,3638,chloe,3587,3596,dein Sohn,evander
+gdc-coref,ndtw.0,3320,3638,chloe,3587,3591,dein,lamon
+gdc-coref,ndtw.0,3320,3638,chloe,3598,3601,ich,chloe
+gdc-coref,ndtw.0,3643,3709,lamon,3651,3654,Ich,lamon
+gdc-coref,ndtw.0,3643,3709,lamon,3665,3668,ich,lamon
+gdc-coref,ndtw.0,3643,3709,lamon,3674,3680,seinen,evander
+gdc-coref,ndtw.0,3760,3777,_stage,3760,3767,Evander,evander
+gdc-coref,ndtw.0,3760,3777,_stage,3769,3776,Alcimna,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,3790,3793,Ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,3800,3803,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,3825,3828,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,3899,3902,ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,3903,3906,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,3942,3945,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,3963,3966,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,3967,3989,die geschæftige Mutter,chloe
+gdc-coref,ndtw.0,3780,4802,evander,3995,3997,Er,evander
+gdc-coref,ndtw.0,3780,4802,evander,4024,4026,Er,lamon
+gdc-coref,ndtw.0,3780,4802,evander,4034,4038,mich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4044,4054,mein Vater,lamon
+gdc-coref,ndtw.0,3780,4802,evander,4044,4048,mein,evander
+gdc-coref,ndtw.0,3780,4802,evander,4062,4066,mich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4079,4081,er,lamon
+gdc-coref,ndtw.0,3780,4802,evander,4092,4095,ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4106,4120,meiner Alcimna,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4106,4112,meiner,evander
+gdc-coref,ndtw.0,3780,4802,evander,4121,4124,ihm,lamon
+gdc-coref,ndtw.0,3780,4802,evander,4132,4138,Gœtter,die-Gœtter
+gdc-coref,ndtw.0,3780,4802,evander,4140,4143,Ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4161,4164,ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4200,4203,ihm,lamon
+gdc-coref,ndtw.0,3780,4802,evander,4224,4227,ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4228,4260,das beste Mædchen im ganzen Land,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4246,4260,im ganzen Land,im-ganzen-Land
+gdc-coref,ndtw.0,3780,4802,evander,4280,4289,er selbst,lamon
+gdc-coref,ndtw.0,3780,4802,evander,4300,4303,ihr,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4339,4342,mir,evander
+gdc-coref,ndtw.0,3780,4802,evander,4373,4376,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4378,4381,Sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4408,4440,diesen Baum von so glatter Rinde,diesen-Baum-von-so-glatter-Rinde
+gdc-coref,ndtw.0,3780,4802,evander,4424,4440,so glatter Rinde,so-glatter-Rinde
+gdc-coref,ndtw.0,3780,4802,evander,4446,4449,ich,evander
+gdc-coref,ndtw.0,3780,4802,evander,4450,4461,ihren Namen,ihren-Namen
+gdc-coref,ndtw.0,3780,4802,evander,4450,4455,ihren,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4473,4475,Er,evander
+gdc-coref,ndtw.0,3780,4802,evander,4520,4522,Du,diesen-Baum-von-so-glatter-Rinde
+gdc-coref,ndtw.0,3780,4802,evander,4530,4541,ihren Namen,ihren-Namen
+gdc-coref,ndtw.0,3780,4802,evander,4530,4535,ihren,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4588,4592,dich,diesen-Baum-von-so-glatter-Rinde
+gdc-coref,ndtw.0,3780,4802,evander,4618,4629,dieser Baum,diesen-Baum-von-so-glatter-Rinde
+gdc-coref,ndtw.0,3780,4802,evander,4685,4687,er,evander
+gdc-coref,ndtw.0,3780,4802,evander,4699,4708,die Rinde,so-glatter-Rinde
+gdc-coref,ndtw.0,3780,4802,evander,4726,4733,Alcimna,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4748,4751,ihn,evander
+gdc-coref,ndtw.0,3780,4802,evander,4761,4764,sie,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4770,4773,ihm,evander
+gdc-coref,ndtw.0,3780,4802,evander,4788,4801,beyden Hænden,beyden-Hænden
+gdc-coref,ndtw.0,4808,4830,alcimna,4826,4829,ich,alcimna
+gdc-coref,ndtw.0,4835,4867,evander,4847,4854,Alcimna,alcimna
+gdc-coref,ndtw.0,4835,4867,evander,4858,4866,Geliebte,alcimna
+gdc-coref,ndtw.0,4872,4898,alcimna,4882,4884,Du,evander
+gdc-coref,ndtw.0,4872,4898,alcimna,4893,4897,dich,evander
+gdc-coref,ndtw.0,4903,4965,evander,4919,4922,ich,evander
+gdc-coref,ndtw.0,4903,4965,evander,4930,4934,mich,evander
+gdc-coref,ndtw.0,4903,4965,evander,4953,4955,du,alcimna
+gdc-coref,ndtw.0,4970,5059,alcimna,4985,4987,du,evander
+gdc-coref,ndtw.0,4970,5059,alcimna,4988,4992,dich,evander
+gdc-coref,ndtw.0,4970,5059,alcimna,5018,5022,mich,alcimna
+gdc-coref,ndtw.0,4970,5059,alcimna,5024,5027,Sie,alcimna
+gdc-coref,ndtw.0,4970,5059,alcimna,5034,5037,ihn,evander
+gdc-coref,ndtw.0,4970,5059,alcimna,5043,5046,sie,
+gdc-coref,ndtw.0,4970,5059,alcimna,5054,5058,sich,
+gdc-coref,ndtw.0,5065,5200,alcimna,5083,5085,er,milon
+gdc-coref,ndtw.0,5065,5200,alcimna,5086,5090,mich,alcimna
+gdc-coref,ndtw.0,5065,5200,alcimna,5122,5126,mich,alcimna
+gdc-coref,ndtw.0,5065,5200,alcimna,5134,5156,"Milon, der Ziegen-Hirt",milon
+gdc-coref,ndtw.0,5065,5200,alcimna,5175,5180,seine,milon
+gdc-coref,ndtw.0,5065,5200,alcimna,5187,5190,mir,alcimna
+gdc-coref,ndtw.0,5206,5234,evander,5216,5222,Gœtter,die-Gœtter
+gdc-coref,ndtw.0,5206,5234,evander,5231,5233,er,milon
+gdc-coref,ndtw.0,5285,5304,_stage,5285,5290,Milon,milon
+gdc-coref,ndtw.0,5285,5304,_stage,5292,5303,die vorigen,
+gdc-coref,ndtw.0,5307,5499,milon,5327,5330,ich,milon
+gdc-coref,ndtw.0,5307,5499,milon,5332,5334,du,alcimna
+gdc-coref,ndtw.0,5307,5499,milon,5343,5351,Evandern,evander
+gdc-coref,ndtw.0,5307,5499,milon,5365,5372,Evander,evander
+gdc-coref,ndtw.0,5307,5499,milon,5435,5446,den Mædchen,die-andern-Mædchens
+gdc-coref,ndtw.0,5307,5499,milon,5448,5455,Evander,evander
+gdc-coref,ndtw.0,5307,5499,milon,5457,5459,du,evander
+gdc-coref,ndtw.0,5504,5538,alcimna,5525,5528,wir,
+gdc-coref,ndtw.0,5543,5636,milon,5551,5554,Ich,milon
+gdc-coref,ndtw.0,5543,5636,milon,5560,5582,des einfæltigen Battus,des-einfæltigen-Battus
+gdc-coref,ndtw.0,5543,5636,milon,5596,5598,er,des-einfæltigen-Battus
+gdc-coref,ndtw.0,5543,5636,milon,5603,5606,dir,alcimna
+gdc-coref,ndtw.0,5641,5726,alcimna,5665,5668,wir,
+gdc-coref,ndtw.0,5641,5726,alcimna,5713,5715,du,milon
+gdc-coref,ndtw.0,5732,5796,milon,5763,5785,Ein guter Blik von dir,Ein-guter-Blik-von-dir
+gdc-coref,ndtw.0,5732,5796,milon,5782,5785,dir,alcimna
+gdc-coref,ndtw.0,5810,5835,_stage,5818,5821,ihn,milon
+gdc-coref,ndtw.0,5801,5867,alcimna,5846,5848,du,milon
+gdc-coref,ndtw.0,5801,5867,alcimna,5849,5852,ihn,Ein-guter-Blik-von-dir
+gdc-coref,ndtw.0,5872,5985,milon,5899,5903,mich,milon
+gdc-coref,ndtw.0,5872,5985,milon,5904,5907,dir,alcimna
+gdc-coref,ndtw.0,5872,5985,milon,5931,5934,ich,milon
+gdc-coref,ndtw.0,5872,5985,milon,5940,5943,dir,alcimna
+gdc-coref,ndtw.0,5872,5985,milon,5944,5952,ein Lied,ein-Lied
+gdc-coref,ndtw.0,5872,5985,milon,5961,5964,das,ein-Lied
+gdc-coref,ndtw.0,5872,5985,milon,5965,5968,ich,milon
+gdc-coref,ndtw.0,5990,6032,alcimna,6008,6009,s,ein-Lied
+gdc-coref,ndtw.0,6037,6063,milon,6056,6057,s,ein-Lied
+gdc-coref,ndtw.0,6068,6114,alcimna,6086,6089,ich,alcimna
+gdc-coref,ndtw.0,6068,6114,alcimna,6090,6099,die Hænde,beyden-Hænden
+gdc-coref,ndtw.0,6119,6417,milon,6127,6129,Du,evander
+gdc-coref,ndtw.0,6119,6417,milon,6147,6149,du,evander
+gdc-coref,ndtw.0,6119,6417,milon,6158,6165,Evander,evander
+gdc-coref,ndtw.0,6119,6417,milon,6177,6179,du,evander
+gdc-coref,ndtw.0,6119,6417,milon,6180,6184,mich,milon
+gdc-coref,ndtw.0,6119,6417,milon,6190,6199,im Flœten,im-Flœten
+gdc-coref,ndtw.0,6119,6417,milon,6219,6222,ich,milon
+gdc-coref,ndtw.0,6119,6417,milon,6228,6232,eine,eine
+gdc-coref,ndtw.0,6119,6417,milon,6239,6244,diese,eine
+gdc-coref,ndtw.0,6119,6417,milon,6250,6253,ich,milon
+gdc-coref,ndtw.0,6119,6417,milon,6258,6261,sie,eine
+gdc-coref,ndtw.0,6119,6417,milon,6291,6294,die,eine
+gdc-coref,ndtw.0,6119,6417,milon,6313,6316,ich,milon
+gdc-coref,ndtw.0,6119,6417,milon,6339,6345,darmit,
+gdc-coref,ndtw.0,6119,6417,milon,6370,6373,ich,milon
+gdc-coref,ndtw.0,6119,6417,milon,6379,6383,dich,evander
+gdc-coref,ndtw.0,6422,6470,evander,6432,6435,Ich,evander
+gdc-coref,ndtw.0,6422,6470,evander,6457,6458,s,im-Flœten
+gdc-coref,ndtw.0,6475,6512,milon,6486,6489,ich,milon
+gdc-coref,ndtw.0,6517,6735,alcimna,6531,6534,ich,alcimna
+gdc-coref,ndtw.0,6517,6735,alcimna,6557,6559,du,milon
+gdc-coref,ndtw.0,6517,6735,alcimna,6592,6606,im ganzen Land,im-ganzen-Land
+gdc-coref,ndtw.0,6517,6735,alcimna,6614,6616,du,milon
+gdc-coref,ndtw.0,6517,6735,alcimna,6637,6639,Du,milon
+gdc-coref,ndtw.0,6517,6735,alcimna,6707,6709,du,milon
+gdc-coref,ndtw.0,6517,6735,alcimna,6720,6724,dich,milon
+gdc-coref,ndtw.0,6740,6787,milon,6748,6751,Ich,milon
+gdc-coref,ndtw.0,6740,6787,milon,6765,6768,ihr,
+gdc-coref,ndtw.0,6792,6828,evander,6802,6804,Du,milon
+gdc-coref,ndtw.0,6834,7023,milon,6849,6852,ich,milon
+gdc-coref,ndtw.0,6834,7023,milon,6854,6856,Er,milon
+gdc-coref,ndtw.0,6834,7023,milon,6889,6892,ich,milon
+gdc-coref,ndtw.0,6834,7023,milon,6926,6929,ich,milon
+gdc-coref,ndtw.0,6834,7023,milon,6935,6939,euch,
+gdc-coref,ndtw.0,6834,7023,milon,6963,6972,die Sonne,die-Sonne
+gdc-coref,ndtw.0,6834,7023,milon,6983,6990,im Meer,dem-hohen-Meer
+gdc-coref,ndtw.0,6834,7023,milon,7001,7004,ich,milon
+gdc-coref,ndtw.0,6834,7023,milon,7005,7012,am Ufer,am-Ufer
+gdc-coref,ndtw.0,7067,7357,milon,7087,7090,ich,milon
+gdc-coref,ndtw.0,7067,7357,milon,7115,7118,ich,milon
+gdc-coref,ndtw.0,7067,7357,milon,7141,7144,ich,milon
+gdc-coref,ndtw.0,7067,7357,milon,7145,7167,"Asphalion, den Fischer","Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,7067,7357,milon,7169,7171,er,"Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,7067,7357,milon,7183,7187,sein,"Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,7067,7357,milon,7198,7201,der,"Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,7067,7357,milon,7210,7212,er,"Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,7067,7357,milon,7222,7228,Sonnen,die-Sonne
+gdc-coref,ndtw.0,7067,7357,milon,7239,7258,fynf grosse Schiffe,fynf-grosse-Schiffe
+gdc-coref,ndtw.0,7067,7357,milon,7263,7277,dem hohen Meer,dem-hohen-Meer
+gdc-coref,ndtw.0,7067,7357,milon,7291,7293,er,"Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,7067,7357,milon,7302,7305,sie,fynf-grosse-Schiffe
+gdc-coref,ndtw.0,7067,7357,milon,7313,7327,an unserm Ufer,am-Ufer
+gdc-coref,ndtw.0,7067,7357,milon,7316,7322,unserm,
+gdc-coref,ndtw.0,7362,7456,alcimna,7385,7388,sie,fynf-grosse-Schiffe
+gdc-coref,ndtw.0,7362,7456,alcimna,7401,7415,an unserm Ufer,am-Ufer
+gdc-coref,ndtw.0,7362,7456,alcimna,7404,7410,unserm,
+gdc-coref,ndtw.0,7362,7456,alcimna,7424,7426,Du,milon
+gdc-coref,ndtw.0,7462,7499,milon,7491,7493,Er,milon
+gdc-coref,ndtw.0,7551,7568,_stage,7551,7558,Evander,evander
+gdc-coref,ndtw.0,7551,7568,_stage,7560,7567,Alcimna,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,7585,7587,er,milon
+gdc-coref,ndtw.0,7571,8117,alcimna,7605,7620,der Schwazhafte,milon
+gdc-coref,ndtw.0,7571,8117,alcimna,7622,7625,Sie,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,7632,7636,sich,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,7655,7657,er,milon
+gdc-coref,ndtw.0,7571,8117,alcimna,7712,7716,mich,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,7718,7732,mein Geliebter,evander
+gdc-coref,ndtw.0,7571,8117,alcimna,7718,7722,mein,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,7734,7737,dir,evander
+gdc-coref,ndtw.0,7571,8117,alcimna,7760,7766,deiner,evander
+gdc-coref,ndtw.0,7571,8117,alcimna,7777,7781,mich,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,7805,7815,die Zeisig,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,7819,7831,ihren Jungen,ihren-Jungen
+gdc-coref,ndtw.0,7571,8117,alcimna,7819,7824,ihren,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,7852,7873,ein muthwilliger Knab,ein-muthwilliger-Knab
+gdc-coref,ndtw.0,7571,8117,alcimna,7888,7891,sie,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,7899,7901,er,ein-muthwilliger-Knab
+gdc-coref,ndtw.0,7571,8117,alcimna,7906,7909,ihr,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,7924,7926,er,ein-muthwilliger-Knab
+gdc-coref,ndtw.0,7571,8117,alcimna,7941,7944,sie,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,7972,7975,sie,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,7994,7997,sie,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,8033,8045,ihren Jungen,ihren-Jungen
+gdc-coref,ndtw.0,7571,8117,alcimna,8033,8038,ihren,die-Zeisig
+gdc-coref,ndtw.0,7571,8117,alcimna,8054,8057,ich,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,8058,8061,dir,evander
+gdc-coref,ndtw.0,7571,8117,alcimna,8073,8078,Milon,milon
+gdc-coref,ndtw.0,7571,8117,alcimna,8079,8083,mich,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,8098,8101,ich,alcimna
+gdc-coref,ndtw.0,7571,8117,alcimna,8102,8105,ihm,milon
+gdc-coref,ndtw.0,8123,8497,evander,8135,8149,meine Geliebte,alcimna
+gdc-coref,ndtw.0,8123,8497,evander,8135,8140,meine,evander
+gdc-coref,ndtw.0,8123,8497,evander,8159,8162,ich,evander
+gdc-coref,ndtw.0,8123,8497,evander,8177,8179,du,alcimna
+gdc-coref,ndtw.0,8123,8497,evander,8183,8187,mich,evander
+gdc-coref,ndtw.0,8123,8497,evander,8200,8203,ich,evander
+gdc-coref,ndtw.0,8123,8497,evander,8261,8264,ich,evander
+gdc-coref,ndtw.0,8123,8497,evander,8265,8276,diese Rosen,diese-Rosen
+gdc-coref,ndtw.0,8123,8497,evander,8287,8295,einander,diese-Rosen
+gdc-coref,ndtw.0,8123,8497,evander,8364,8367,sie,diese-Rosen
+gdc-coref,ndtw.0,8123,8497,evander,8368,8386,die syssen Geryche,die-syssen-Geryche
+gdc-coref,ndtw.0,8123,8497,evander,8409,8412,sie,diese-Rosen
+gdc-coref,ndtw.0,8123,8497,evander,8433,8447,meine Geliebte,alcimna
+gdc-coref,ndtw.0,8123,8497,evander,8433,8438,meine,evander
+gdc-coref,ndtw.0,8123,8497,evander,8457,8479,dies Bild unsrer Liebe,diese-Rosen
+gdc-coref,ndtw.0,8123,8497,evander,8467,8479,unsrer Liebe,unsrer-Liebe
+gdc-coref,ndtw.0,8123,8497,evander,8467,8473,unsrer,
+gdc-coref,ndtw.0,8123,8497,evander,8484,8496,deinen Busen,deinen-Busen
+gdc-coref,ndtw.0,8123,8497,evander,8484,8490,deinen,alcimna
+gdc-coref,ndtw.0,8502,8613,alcimna,8516,8519,ich,alcimna
+gdc-coref,ndtw.0,8502,8613,alcimna,8528,8531,sie,diese-Rosen
+gdc-coref,ndtw.0,8502,8613,alcimna,8536,8548,meinen Busen,deinen-Busen
+gdc-coref,ndtw.0,8502,8613,alcimna,8536,8542,meinen,alcimna
+gdc-coref,ndtw.0,8502,8613,alcimna,8566,8569,sie,diese-Rosen
+gdc-coref,ndtw.0,8502,8613,alcimna,8590,8593,wir,
+gdc-coref,ndtw.0,8502,8613,alcimna,8600,8608,einander,
+gdc-coref,ndtw.0,8618,8714,evander,8646,8649,wir,
+gdc-coref,ndtw.0,8618,8714,evander,8650,8663,unsre Stunden,unsre-Stunden
+gdc-coref,ndtw.0,8618,8714,evander,8650,8655,unsre,
+gdc-coref,ndtw.0,8618,8714,evander,8671,8674,sie,unsre-Stunden
+gdc-coref,ndtw.0,8618,8714,evander,8700,8713,Rosen-Geryche,die-syssen-Geryche
+gdc-coref,ndtw.0,8719,8811,alcimna,8739,8742,wir,
+gdc-coref,ndtw.0,8719,8811,alcimna,8749,8757,einander,
+gdc-coref,ndtw.0,8719,8811,alcimna,8779,8782,mir,alcimna
+gdc-coref,ndtw.0,8719,8811,alcimna,8792,8796,mich,alcimna
+gdc-coref,ndtw.0,8816,8897,evander,8837,8840,mir,evander
+gdc-coref,ndtw.0,8816,8897,evander,8851,8854,ich,evander
+gdc-coref,ndtw.0,8816,8897,evander,8855,8859,dich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,8912,8915,Ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,8942,8945,ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,8950,8953,ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,8992,9001,den Milon,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9008,9010,er,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9015,9018,mir,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9062,9064,Er,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9089,9102,Jedes Mædchen,Jedes-Mædchen
+gdc-coref,ndtw.0,8902,9565,alcimna,9111,9113,er,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9115,9118,das,Jedes-Mædchen
+gdc-coref,ndtw.0,8902,9565,alcimna,9150,9153,mir,
+gdc-coref,ndtw.0,8902,9565,alcimna,9185,9189,mich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9209,9212,ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9228,9230,er,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9237,9241,mich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9283,9286,ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9306,9347,"jene weisse Kuh, die dort im Sumpf wattet","jene-weisse-Kuh,-die-dort-im-Sumpf-wattet"
+gdc-coref,ndtw.0,8902,9565,alcimna,9349,9352,die,"jene-weisse-Kuh,-die-dort-im-Sumpf-wattet"
+gdc-coref,ndtw.0,8902,9565,alcimna,9357,9361,sich,"jene-weisse-Kuh,-die-dort-im-Sumpf-wattet"
+gdc-coref,ndtw.0,8902,9565,alcimna,9385,9387,er,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9405,9408,ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9416,9419,ihm,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9429,9432,ich,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9458,9460,er,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9497,9521,der beschwerliche Mensch,milon
+gdc-coref,ndtw.0,8902,9565,alcimna,9522,9525,mir,alcimna
+gdc-coref,ndtw.0,8902,9565,alcimna,9537,9539,du,evander
+gdc-coref,ndtw.0,9570,9584,evander,9580,9583,Ich,evander
+gdc-coref,ndtw.0,9589,9706,alcimna,9602,9604,du,evander
+gdc-coref,ndtw.0,9589,9706,alcimna,9606,9608,du,evander
+gdc-coref,ndtw.0,9589,9706,alcimna,9631,9633,du,evander
+gdc-coref,ndtw.0,9589,9706,alcimna,9634,9637,was,was
+gdc-coref,ndtw.0,9589,9706,alcimna,9648,9651,das,was
+gdc-coref,ndtw.0,9589,9706,alcimna,9652,9654,du,evander
+gdc-coref,ndtw.0,9589,9706,alcimna,9687,9691,mich,alcimna
+gdc-coref,ndtw.0,9711,9767,evander,9721,9724,Ich,evander
+gdc-coref,ndtw.0,9711,9767,evander,9731,9734,Ich,evander
+gdc-coref,ndtw.0,9711,9767,evander,9754,9755,s,was
+gdc-coref,ndtw.0,9772,9830,alcimna,9782,9785,Ich,alcimna
+gdc-coref,ndtw.0,9772,9830,alcimna,9816,9817,s,was
+gdc-coref,ndtw.0,9835,10142,evander,9845,9849,Mich,evander
+gdc-coref,ndtw.0,9835,10142,evander,9877,9887,mein Vater,lamon
+gdc-coref,ndtw.0,9835,10142,evander,9877,9881,mein,evander
+gdc-coref,ndtw.0,9835,10142,evander,9920,9932,unsrer Liebe,unsrer-Liebe
+gdc-coref,ndtw.0,9835,10142,evander,9920,9926,unsrer,
+gdc-coref,ndtw.0,9835,10142,evander,9970,9972,er,lamon
+gdc-coref,ndtw.0,9835,10142,evander,9981,9985,mich,evander
+gdc-coref,ndtw.0,9835,10142,evander,10013,10015,er,lamon
+gdc-coref,ndtw.0,9835,10142,evander,10016,10019,mir,evander
+gdc-coref,ndtw.0,9835,10142,evander,10047,10050,ich,evander
+gdc-coref,ndtw.0,9835,10142,evander,10051,10054,ihm,lamon
+gdc-coref,ndtw.0,9835,10142,evander,10059,10071,unsrer Liebe,unsrer-Liebe
+gdc-coref,ndtw.0,9835,10142,evander,10059,10065,unsrer,
+gdc-coref,ndtw.0,9835,10142,evander,10091,10093,er,lamon
+gdc-coref,ndtw.0,10147,10200,alcimna,10157,10160,Mir,alcimna
+gdc-coref,ndtw.0,10147,10200,alcimna,10172,10184,meine Mutter,chloe
+gdc-coref,ndtw.0,10147,10200,alcimna,10172,10177,meine,alcimna
+gdc-coref,ndtw.0,10205,10792,evander,10225,10227,er,lamon
+gdc-coref,ndtw.0,10205,10792,evander,10232,10283,"den Erstlingen der fynf Bæume, die er gepflanzt hat",die-Erstlinge
+gdc-coref,ndtw.0,10205,10792,evander,10247,10261,der fynf Bæume,fynf-jungen-Bæumen
+gdc-coref,ndtw.0,10205,10792,evander,10288,10291,ich,evander
+gdc-coref,ndtw.0,10205,10792,evander,10321,10332,den Gœttern,die-Gœtter
+gdc-coref,ndtw.0,10205,10792,evander,10343,10346,ich,evander
+gdc-coref,ndtw.0,10205,10792,evander,10374,10376,er,lamon
+gdc-coref,ndtw.0,10205,10792,evander,10394,10399,seine,lamon
+gdc-coref,ndtw.0,10205,10792,evander,10431,10434,ich,evander
+gdc-coref,ndtw.0,10205,10792,evander,10435,10446,im Gebysche,im-Gebysche
+gdc-coref,ndtw.0,10205,10792,evander,10469,10472,ich,evander
+gdc-coref,ndtw.0,10205,10792,evander,10473,10476,ihn,lamon
+gdc-coref,ndtw.0,10205,10792,evander,10483,10494,den Gœttern,die-Gœtter
+gdc-coref,ndtw.0,10205,10792,evander,10503,10525,Ihr gutthætigen Gœtter,die-Gœtter
+gdc-coref,ndtw.0,10205,10792,evander,10533,10544,mein Gebett,mein-Gebett
+gdc-coref,ndtw.0,10205,10792,evander,10533,10537,mein,
+gdc-coref,ndtw.0,10205,10792,evander,10557,10572,dies mein Opfer,die-Erstlinge
+gdc-coref,ndtw.0,10205,10792,evander,10562,10566,mein,evander
+gdc-coref,ndtw.0,10205,10792,evander,10596,10607,meinem Sohn,evander
+gdc-coref,ndtw.0,10205,10792,evander,10596,10602,meinem,
+gdc-coref,ndtw.0,10205,10792,evander,10619,10644,die wunderbaren Schiksale,die-wunderbaren-Schiksale
+gdc-coref,ndtw.0,10205,10792,evander,10654,10657,ihn,evander
+gdc-coref,ndtw.0,10205,10792,evander,10682,10684,Er,lamon
+gdc-coref,ndtw.0,10205,10792,evander,10737,10750,des Gebysches,im-Gebysche
+gdc-coref,ndtw.0,10205,10792,evander,10777,10780,ich,evander
+gdc-coref,ndtw.0,10797,10878,alcimna,10807,10810,Ich,alcimna
+gdc-coref,ndtw.0,10797,10878,alcimna,10837,10840,ich,alcimna
+gdc-coref,ndtw.0,10797,10878,alcimna,10847,10857,die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,10797,10878,alcimna,10858,10869,sein Gebett,mein-Gebett
+gdc-coref,ndtw.0,10797,10878,alcimna,10858,10862,sein,lamon
+gdc-coref,ndtw.0,10883,11026,evander,10906,10915,Schiksale,die-wunderbaren-Schiksale
+gdc-coref,ndtw.0,10883,11026,evander,10920,10924,mich,evander
+gdc-coref,ndtw.0,10883,11026,evander,10933,10943,die Gœtter,die-Gœtter
+gdc-coref,ndtw.0,10883,11026,evander,10956,10958,es,die-wunderbaren-Schiksale
+gdc-coref,ndtw.0,10883,11026,evander,10978,10983,deine,alcimna
+gdc-coref,ndtw.0,10883,11026,evander,10997,11001,mich,evander
+gdc-coref,ndtw.0,11031,11289,alcimna,11043,11057,mein Geliebter,evander
+gdc-coref,ndtw.0,11031,11289,alcimna,11043,11047,mein,alcimna
+gdc-coref,ndtw.0,11031,11289,alcimna,11082,11085,uns,
+gdc-coref,ndtw.0,11031,11289,alcimna,11113,11116,uns,
+gdc-coref,ndtw.0,11031,11289,alcimna,11117,11127,ein Unglyk,ein-Unglyk
+gdc-coref,ndtw.0,11031,11289,alcimna,11156,11160,dass,ein-Unglyk
+gdc-coref,ndtw.0,11031,11289,alcimna,11201,11205,dich,evander
+gdc-coref,ndtw.0,11031,11289,alcimna,11213,11217,mich,alcimna
+gdc-coref,ndtw.0,11031,11289,alcimna,11228,11231,wir,
+gdc-coref,ndtw.0,11031,11289,alcimna,11239,11247,das Lied,das-Lied
+gdc-coref,ndtw.0,11031,11289,alcimna,11256,11259,das,das-Lied
+gdc-coref,ndtw.0,11031,11289,alcimna,11260,11263,wir,
+gdc-coref,ndtw.0,11031,11289,alcimna,11273,11281,einander,
+gdc-coref,ndtw.0,11294,11363,evander,11308,11311,dir,alcimna
+gdc-coref,ndtw.0,11294,11363,evander,11320,11323,ich,evander
+gdc-coref,ndtw.0,11294,11363,evander,11345,11347,du,alcimna
+gdc-coref,ndtw.0,11368,11589,alcimna,11383,11386,ich,alcimna
+gdc-coref,ndtw.0,11368,11589,alcimna,11405,11408,ich,alcimna
+gdc-coref,ndtw.0,11368,11589,alcimna,11410,11424,mein Geliebter,evander
+gdc-coref,ndtw.0,11368,11589,alcimna,11410,11414,mein,alcimna
+gdc-coref,ndtw.0,11368,11589,alcimna,11436,11440,dich,evander
+gdc-coref,ndtw.0,11368,11589,alcimna,11461,11466,Sonne,die-Sonne
+gdc-coref,ndtw.0,11368,11589,alcimna,11468,11479,Die Blythen,Die-Blythen
+gdc-coref,ndtw.0,11368,11589,alcimna,11489,11492,Sie,Die-Blythen
+gdc-coref,ndtw.0,11368,11589,alcimna,11519,11531,Der Fryhling,Der-Fryhling
+gdc-coref,ndtw.0,11368,11589,alcimna,11545,11555,Munterkeit,Munterkeit
+gdc-coref,ndtw.0,11368,11589,alcimna,11560,11566,Freude,Freude
+gdc-coref,ndtw.0,11368,11589,alcimna,11579,11588,der Trift,der-Trift
+gdc-coref,ndtw.0,11595,11969,evander,11605,11608,Mir,evander
+gdc-coref,ndtw.0,11595,11969,evander,11614,11617,mir,evander
+gdc-coref,ndtw.0,11595,11969,evander,11636,11642,deinem,alcimna
+gdc-coref,ndtw.0,11595,11969,evander,11669,11674,Sonne,die-Sonne
+gdc-coref,ndtw.0,11595,11969,evander,11676,11687,Den Blythen,Die-Blythen
+gdc-coref,ndtw.0,11595,11969,evander,11724,11736,Der Fryhling,Der-Fryhling
+gdc-coref,ndtw.0,11595,11969,evander,11749,11759,Munterkeit,Munterkeit
+gdc-coref,ndtw.0,11595,11969,evander,11764,11770,Freude,Freude
+gdc-coref,ndtw.0,11595,11969,evander,11780,11789,die Trift,der-Trift
+gdc-coref,ndtw.0,11795,11801,_stage,11795,11800,Beyde,
+gdc-coref,ndtw.0,11595,11969,evander,11804,11807,Ich,evander
+gdc-coref,ndtw.0,11595,11969,evander,11813,11817,dich,
+gdc-coref,ndtw.0,11595,11969,evander,11844,11847,ich,evander
+gdc-coref,ndtw.0,11595,11969,evander,11865,11883,Beym heilg'en Hain,Beym-heilg'en-Hain
+gdc-coref,ndtw.0,11595,11969,evander,11919,11922,Ich,evander
+gdc-coref,ndtw.0,11595,11969,evander,11938,11948,den Fluren,den-Fluren
+gdc-coref,ndtw.0,11595,11969,evander,11950,11968,Beym heil'gen Hain,Beym-heilg'en-Hain
+gdc-coref,ndtw.0,11975,12174,alcimna,11994,12008,der œde Winter,der-œde-Winter
+gdc-coref,ndtw.0,11975,12174,alcimna,12032,12048,Die kleine Biene,Die-kleine-Biene
+gdc-coref,ndtw.0,11975,12174,alcimna,12081,12084,sie,Die-kleine-Biene
+gdc-coref,ndtw.0,11975,12174,alcimna,12106,12116,Den Winter,der-œde-Winter
+gdc-coref,ndtw.0,11975,12174,alcimna,12135,12138,ich,alcimna
+gdc-coref,ndtw.0,11975,12174,alcimna,12145,12147,du,evander
+gdc-coref,ndtw.0,12180,12557,evander,12220,12229,Die Sonne,die-Sonne
+gdc-coref,ndtw.0,12180,12557,evander,12258,12267,die Biene,Die-kleine-Biene
+gdc-coref,ndtw.0,12180,12557,evander,12295,12298,sie,Die-kleine-Biene
+gdc-coref,ndtw.0,12180,12557,evander,12299,12312,des Fryhlings,Der-Fryhling
+gdc-coref,ndtw.0,12180,12557,evander,12346,12349,ich,evander
+gdc-coref,ndtw.0,12180,12557,evander,12350,12355,deine,alcimna
+gdc-coref,ndtw.0,12180,12557,evander,12368,12371,ich,evander
+gdc-coref,ndtw.0,12384,12390,_stage,12384,12389,Beyde,
+gdc-coref,ndtw.0,12180,12557,evander,12393,12397,Dich,
+gdc-coref,ndtw.0,12180,12557,evander,12403,12406,ich,evander
+gdc-coref,ndtw.0,12180,12557,evander,12432,12435,ich,evander
+gdc-coref,ndtw.0,12180,12557,evander,12440,12450,den Fluren,den-Fluren
+gdc-coref,ndtw.0,12180,12557,evander,12507,12510,Ich,evander
+gdc-coref,ndtw.0,12180,12557,evander,12538,12556,Beym heil'gen Hain,Beym-heilg'en-Hain
+gdc-coref,ndtw.0,12609,12628,_stage,12609,12614,Milon,milon
+gdc-coref,ndtw.0,12609,12628,_stage,12616,12627,die vorigen,
+gdc-coref,ndtw.0,12631,12678,milon,12639,12642,Ihr,
+gdc-coref,ndtw.0,12631,12678,milon,12648,12656,das Lied,das-Lied
+gdc-coref,ndtw.0,12683,12770,alcimna,12698,12700,Du,milon
+gdc-coref,ndtw.0,12683,12770,alcimna,12728,12730,du,milon
+gdc-coref,ndtw.0,12776,12859,milon,12788,12791,ich,milon
+gdc-coref,ndtw.0,12776,12859,milon,12816,12819,ich,milon
+gdc-coref,ndtw.0,12776,12859,milon,12835,12846,euers Lieds,das-Lied
+gdc-coref,ndtw.0,12776,12859,milon,12835,12840,euers,
+gdc-coref,ndtw.0,12864,12910,alcimna,12890,12892,du,milon
+gdc-coref,ndtw.0,12864,12910,alcimna,12899,12909,Ungestymer,milon
+gdc-coref,ndtw.0,12915,13093,milon,12923,12926,Ich,milon
+gdc-coref,ndtw.0,12915,13093,milon,12945,12948,dir,alcimna
+gdc-coref,ndtw.0,12915,13093,milon,12956,12959,ihr,
+gdc-coref,ndtw.0,12915,13093,milon,12980,12984,euch,
+gdc-coref,ndtw.0,12915,13093,milon,13037,13041,euch,
+gdc-coref,ndtw.0,12915,13093,milon,13064,13067,ihr,
+gdc-coref,ndtw.0,12915,13093,milon,13073,13086,dies Gewimmel,dies-Gewimmel
+gdc-coref,ndtw.0,13098,13117,evander,13108,13111,Was,dies-Gewimmel
+gdc-coref,ndtw.0,13122,13194,milon,13130,13141,Die Schiffe,
+gdc-coref,ndtw.0,13122,13194,milon,13147,13152,denen,
+gdc-coref,ndtw.0,13122,13194,milon,13153,13162,Asphalion,"Asphalion,-den-Fischer"
+gdc-coref,ndtw.0,13199,13238,alcimna,13227,13230,uns,
+gdc-coref,ndtw.0,13243,13293,milon,13264,13267,ihr,
+gdc-coref,ndtw.0,13243,13293,milon,13268,13274,meiner,milon
+gdc-coref,ndtw.0,13325,13358,milon,13333,13336,Ich,milon
+gdc-coref,ndtw.0,13363,13405,alcimna,13373,13375,Du,milon
+gdc-coref,ndtw.0,13410,13661,milon,13418,13421,Sie,fynf-grosse-Schiffe
+gdc-coref,ndtw.0,13410,13661,milon,13427,13435,ans Ufer,am-Ufer
+gdc-coref,ndtw.0,13410,13661,milon,13520,13523,sie,sie
+gdc-coref,ndtw.0,13410,13661,milon,13537,13540,Ich,milon
+gdc-coref,ndtw.0,13410,13661,milon,13549,13553,euch,
+gdc-coref,ndtw.0,13410,13661,milon,13567,13570,ihr,
+gdc-coref,ndtw.0,13410,13661,milon,13610,13613,sie,sie
+gdc-coref,ndtw.0,13410,13661,milon,13627,13630,ihr,
+gdc-coref,ndtw.0,13666,13758,alcimna,13676,13681,Deine,milon
+gdc-coref,ndtw.0,13666,13758,alcimna,13700,13705,Milon,milon
+gdc-coref,ndtw.0,13666,13758,alcimna,13718,13721,ich,alcimna
+gdc-coref,ndtw.0,13666,13758,alcimna,13748,13751,uns,
+gdc-coref,ndtw.0,13898,14327,pyrhus,13920,13923,ich,pyrhus
+gdc-coref,ndtw.0,13898,14327,pyrhus,13936,13942,meinen,pyrhus
+gdc-coref,ndtw.0,13898,14327,pyrhus,14039,14042,ich,pyrhus
+gdc-coref,ndtw.0,13898,14327,pyrhus,14131,14134,ich,pyrhus
+gdc-coref,ndtw.0,13898,14327,pyrhus,14212,14215,Ich,pyrhus
+gdc-coref,ndtw.0,14332,14752,arates,14341,14344,Ich,arates
+gdc-coref,ndtw.0,14332,14752,arates,14480,14483,Ich,arates
+gdc-coref,ndtw.0,14332,14752,arates,14531,14536,meine,arates
+gdc-coref,ndtw.0,14332,14752,arates,14604,14607,ich,arates
+gdc-coref,ndtw.0,14332,14752,arates,14613,14616,ich,arates
+gdc-coref,ndtw.0,14332,14752,arates,14643,14649,meinen,arates
+gdc-coref,ndtw.0,14332,14752,arates,14685,14688,mir,arates
+gdc-coref,ndtw.0,14332,14752,arates,14714,14720,meinem,arates
+gdc-coref,ndtw.0,14757,15288,pyrhus,14976,14980,mich,pyrhus
+gdc-coref,ndtw.0,14757,15288,pyrhus,15023,15028,meine,pyrhus
+gdc-coref,ndtw.0,15604,15824,pyrhus,15648,15651,ich,pyrhus
+gdc-coref,ndtw.0,15604,15824,pyrhus,15740,15743,mir,pyrhus
+gdc-coref,ndtw.0,15604,15824,pyrhus,15774,15778,mein,pyrhus
+gdc-coref,ndtw.0,15900,15942,evander,15915,15918,mir,evander
+gdc-coref,ndtw.0,15900,15942,evander,15929,15934,meine,evander
+gdc-coref,ndtw.0,16036,16248,evander,16133,16136,mir,evander
+gdc-coref,ndtw.0,16375,16680,evander,16385,16388,Ich,evander
+gdc-coref,ndtw.0,16375,16680,evander,16407,16410,ich,evander
+gdc-coref,ndtw.0,16375,16680,evander,16424,16427,Ich,evander
+gdc-coref,ndtw.0,16375,16680,evander,16487,16490,Ich,evander
+gdc-coref,ndtw.0,16375,16680,evander,16520,16523,ich,evander
+gdc-coref,ndtw.0,16375,16680,evander,16537,16540,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,16764,16767,Ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,16774,16778,mich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17264,17267,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17301,17304,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17322,17325,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17479,17485,meiner,evander
+gdc-coref,ndtw.0,16754,18091,evander,17495,17498,mir,evander
+gdc-coref,ndtw.0,16754,18091,evander,17531,17534,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17623,17626,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17628,17631,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17656,17659,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17660,17664,mein,evander
+gdc-coref,ndtw.0,16754,18091,evander,17734,17738,mich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17758,17764,meiner,evander
+gdc-coref,ndtw.0,16754,18091,evander,17770,17773,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17803,17806,mir,evander
+gdc-coref,ndtw.0,16754,18091,evander,17866,17869,ich,evander
+gdc-coref,ndtw.0,16754,18091,evander,17915,17918,mir,evander
+gdc-coref,ndtw.0,16754,18091,evander,17942,17946,mich,evander
+gdc-coref,ndtw.0,18096,18186,pyrhus,18118,18122,mich,pyrhus
+gdc-coref,ndtw.0,18096,18186,pyrhus,18137,18140,ich,pyrhus
+gdc-coref,ndtw.0,18096,18186,pyrhus,18169,18172,mir,pyrhus
+gdc-coref,ndtw.0,18191,18667,evander,18201,18204,Ich,evander
+gdc-coref,ndtw.0,18191,18667,evander,18226,18229,ich,evander
+gdc-coref,ndtw.0,18191,18667,evander,18251,18254,ich,evander
+gdc-coref,ndtw.0,18191,18667,evander,18255,18261,meinen,evander
+gdc-coref,ndtw.0,18191,18667,evander,18279,18282,ich,evander
+gdc-coref,ndtw.0,18191,18667,evander,18349,18353,Mein,evander
+gdc-coref,ndtw.0,18191,18667,evander,18388,18393,meine,evander
+gdc-coref,ndtw.0,18191,18667,evander,18417,18420,ich,evander
+gdc-coref,ndtw.0,18191,18667,evander,18586,18590,mich,evander
+gdc-coref,ndtw.0,18191,18667,evander,18631,18634,mir,evander
+gdc-coref,ndtw.0,18191,18667,evander,18645,18648,ich,evander
+gdc-coref,ndtw.0,18725,18993,evander,18735,18739,Mein,evander
+gdc-coref,ndtw.0,18725,18993,evander,18753,18757,mich,evander
+gdc-coref,ndtw.0,18725,18993,evander,18766,18769,ich,evander
+gdc-coref,ndtw.0,18725,18993,evander,18802,18805,ich,evander
+gdc-coref,ndtw.0,18725,18993,evander,18913,18916,ich,evander
+gdc-coref,ndtw.0,18725,18993,evander,18978,18981,ich,evander
+gdc-coref,ndtw.0,18998,19175,pyrhus,19026,19030,mein,pyrhus
+gdc-coref,ndtw.0,19281,19471,evander,19301,19304,mir,evander
+gdc-coref,ndtw.0,19281,19471,evander,19329,19332,ich,evander
+gdc-coref,ndtw.0,19281,19471,evander,19352,19355,Ich,evander
+gdc-coref,ndtw.0,19281,19471,evander,19368,19371,ich,evander
+gdc-coref,ndtw.0,19281,19471,evander,19436,19440,mein,evander
+gdc-coref,ndtw.0,19281,19471,evander,19458,19462,mich,evander
+gdc-coref,ndtw.0,19476,19542,pyrhus,19515,19518,ich,pyrhus
+gdc-coref,ndtw.0,19591,19665,pyrhus,19604,19607,ich,pyrhus
+gdc-coref,ndtw.0,19670,19733,evander,19680,19684,Mein,evander
+gdc-coref,ndtw.0,19739,19860,pyrhus,19763,19767,mein,pyrhus
+gdc-coref,ndtw.0,19739,19860,pyrhus,19776,19779,Ich,pyrhus
+gdc-coref,ndtw.0,19739,19860,pyrhus,19785,19789,mich,pyrhus
+gdc-coref,ndtw.0,19865,19909,arates,19887,19890,ich,arates
+gdc-coref,ndtw.0,19914,19955,evander,19937,19941,mein,evander
+gdc-coref,ndtw.0,20054,20160,bedienter,20079,20083,Mein,bedienter
+gdc-coref,ndtw.0,20165,20260,pyrhus,20190,20194,mein,pyrhus
+gdc-coref,ndtw.0,20266,20528,lamon,20278,20282,mein,lamon
+gdc-coref,ndtw.0,20266,20528,lamon,20289,20292,Ich,lamon
+gdc-coref,ndtw.0,20266,20528,lamon,20393,20396,ich,lamon
+gdc-coref,ndtw.0,20266,20528,lamon,20432,20435,mir,lamon
+gdc-coref,ndtw.0,20266,20528,lamon,20508,20511,mir,lamon
+gdc-coref,ndtw.0,20533,20563,evander,20559,20562,ich,evander
+gdc-coref,ndtw.0,20568,20682,pyrhus,20608,20612,mich,pyrhus
+gdc-coref,ndtw.0,20568,20682,pyrhus,20622,20626,mein,pyrhus
+gdc-coref,ndtw.0,20688,20727,evander,20702,20705,mir,evander
+gdc-coref,ndtw.0,20688,20727,evander,20716,20720,mein,evander
+gdc-coref,ndtw.0,20732,20902,pyrhus,20745,20748,ich,pyrhus
+gdc-coref,ndtw.0,20732,20902,pyrhus,20791,20794,ich,pyrhus
+gdc-coref,ndtw.0,20732,20902,pyrhus,20823,20829,meinen,pyrhus
+gdc-coref,ndtw.0,20908,21040,evander,20943,20947,mein,evander
+gdc-coref,ndtw.0,20908,21040,evander,20964,20967,Ich,evander
+gdc-coref,ndtw.0,20908,21040,evander,21011,21015,mich,evander
+gdc-coref,ndtw.0,21045,21232,pyrhus,21085,21091,meinen,pyrhus
+gdc-coref,ndtw.0,21045,21232,pyrhus,21126,21129,mir,pyrhus
+gdc-coref,ndtw.0,21045,21232,pyrhus,21156,21160,mein,pyrhus
+gdc-coref,ndtw.0,21045,21232,pyrhus,21178,21181,ich,pyrhus
+gdc-coref,ndtw.0,21237,21452,lamon,21302,21307,meine,lamon
+gdc-coref,ndtw.0,21237,21452,lamon,21327,21330,mir,lamon
+gdc-coref,ndtw.0,21237,21452,lamon,21353,21357,mich,lamon
+gdc-coref,ndtw.0,21237,21452,lamon,21397,21400,Ich,lamon
+gdc-coref,ndtw.0,21237,21452,lamon,21433,21436,mir,lamon
+gdc-coref,ndtw.0,21457,21784,pyrhus,21521,21524,ich,pyrhus
+gdc-coref,ndtw.0,21457,21784,pyrhus,21530,21535,meine,pyrhus
+gdc-coref,ndtw.0,21457,21784,pyrhus,21652,21656,mein,pyrhus
+gdc-coref,ndtw.0,21457,21784,pyrhus,21679,21682,ich,pyrhus
+gdc-coref,ndtw.0,21457,21784,pyrhus,21714,21718,mein,pyrhus
+gdc-coref,ndtw.0,21863,22131,evander,21900,21903,ich,evander
+gdc-coref,ndtw.0,21863,22131,evander,21920,21923,ich,evander
+gdc-coref,ndtw.0,21863,22131,evander,21943,21946,ich,evander
+gdc-coref,ndtw.0,21863,22131,evander,21984,21987,ich,evander
+gdc-coref,ndtw.0,21863,22131,evander,21995,22001,meiner,evander
+gdc-coref,ndtw.0,21863,22131,evander,22039,22042,mir,evander
+gdc-coref,ndtw.0,21863,22131,evander,22118,22121,mir,evander
+gdc-coref,ndtw.0,22136,22226,junger_herr,22159,22163,mein,junger_herr
+gdc-coref,ndtw.0,22136,22226,junger_herr,22201,22206,meine,junger_herr
+gdc-coref,ndtw.0,22231,22277,evander,22265,22269,mein,evander
+gdc-coref,ndtw.0,22511,22690,evander,22571,22574,Ich,evander
+gdc-coref,ndtw.0,22511,22690,evander,22592,22598,meiner,evander
+gdc-coref,ndtw.0,22695,22930,junger_herr,22843,22846,ich,junger_herr
+gdc-coref,ndtw.0,22695,22930,junger_herr,22890,22894,mich,junger_herr
+gdc-coref,ndtw.0,23392,23458,junger_herr,23433,23436,ich,junger_herr
+gdc-coref,ndtw.0,23524,23603,junger_herr,23548,23551,ich,junger_herr
+gdc-coref,ndtw.0,23608,23649,evander,23627,23630,mir,evander
+gdc-coref,ndtw.0,23654,23701,junger_herr,23668,23671,Ich,junger_herr
+gdc-coref,ndtw.0,23753,23985,junger_herr,23778,23781,Ich,junger_herr
+gdc-coref,ndtw.0,23753,23985,junger_herr,23854,23859,Meine,junger_herr
+gdc-coref,ndtw.0,24018,24093,junger_herr,24064,24067,ich,junger_herr
+gdc-coref,ndtw.0,24352,25099,junger_herr,24811,24817,meiner,junger_herr
+gdc-coref,ndtw.0,24352,25099,junger_herr,25002,25005,Ich,junger_herr
+gdc-coref,ndtw.0,24352,25099,junger_herr,25039,25045,meinem,junger_herr
+gdc-coref,ndtw.0,24352,25099,junger_herr,25073,25077,mich,junger_herr
+gdc-coref,ndtw.0,25211,25724,junger_herr,25286,25289,ich,junger_herr
+gdc-coref,ndtw.0,25211,25724,junger_herr,25291,25294,ich,junger_herr
+gdc-coref,ndtw.0,25211,25724,junger_herr,25339,25342,ich,junger_herr
+gdc-coref,ndtw.0,25211,25724,junger_herr,25490,25493,Ich,junger_herr
+gdc-coref,ndtw.0,25211,25724,junger_herr,25548,25551,ich,junger_herr
+gdc-coref,ndtw.0,25211,25724,junger_herr,25664,25667,ich,junger_herr
+gdc-coref,ndtw.0,26036,26169,junger_herr,26060,26064,mein,junger_herr
+gdc-coref,ndtw.0,26276,26347,junger_herr,26290,26293,Ich,junger_herr
+gdc-coref,ndtw.0,26276,26347,junger_herr,26306,26310,mein,junger_herr
+gdc-coref,ndtw.0,26276,26347,junger_herr,26323,26327,mich,junger_herr
+gdc-coref,ndtw.0,26352,26415,evander,26405,26408,mir,evander
+gdc-coref,ndtw.0,26647,26882,evander,26692,26695,Ich,evander
+gdc-coref,ndtw.0,26647,26882,evander,26770,26774,mein,evander
+gdc-coref,ndtw.0,26887,26919,officier,26898,26902,Mein,officier
+gdc-coref,ndtw.0,26924,27180,evander,27017,27020,Ich,evander
+gdc-coref,ndtw.0,27186,27260,officier,27197,27200,Ich,officier
+gdc-coref,ndtw.0,27339,27462,officier,27431,27434,mir,officier
+gdc-coref,ndtw.0,27339,27462,officier,27446,27449,ich,officier
+gdc-coref,ndtw.0,27538,27567,officier,27556,27560,mein,officier
+gdc-coref,ndtw.0,28258,28503,evander,28311,28314,ich,evander
+gdc-coref,ndtw.0,28813,29256,evander,28863,28867,mich,evander
+gdc-coref,ndtw.0,28813,29256,evander,28974,28977,Mir,evander
+gdc-coref,ndtw.0,28813,29256,evander,28988,28991,ich,evander
+gdc-coref,ndtw.0,28813,29256,evander,29203,29207,mein,evander
+gdc-coref,ndtw.0,29657,29982,officier,29687,29690,Ich,officier
+gdc-coref,ndtw.0,29657,29982,officier,29704,29707,ich,officier
+gdc-coref,ndtw.0,29987,30116,evander,30021,30024,ich,evander
+gdc-coref,ndtw.0,29987,30116,evander,30051,30054,mir,evander
+gdc-coref,ndtw.0,29987,30116,evander,30079,30083,mein,evander
+gdc-coref,ndtw.0,30614,30789,evander,30626,30629,ich,evander
+gdc-coref,ndtw.0,30614,30789,evander,30652,30655,mir,evander
+gdc-coref,ndtw.0,30614,30789,evander,30674,30678,mich,evander
+gdc-coref,ndtw.0,30614,30789,evander,30692,30695,ich,evander
+gdc-coref,ndtw.0,31045,31123,der_andre,31063,31067,mein,der_andre
+gdc-coref,ndtw.0,31045,31123,der_andre,31083,31086,mir,der_andre
+gdc-coref,ndtw.0,31128,31265,evander,31165,31169,mein,evander
+gdc-coref,ndtw.0,31128,31265,evander,31211,31215,mich,evander
+gdc-coref,ndtw.0,31270,31378,der_andre,31297,31301,mich,der_andre
+gdc-coref,ndtw.0,31270,31378,der_andre,31339,31342,ich,der_andre
+gdc-coref,ndtw.0,31383,31580,evander,31405,31408,ich,evander
+gdc-coref,ndtw.0,31383,31580,evander,31494,31497,ich,evander
+gdc-coref,ndtw.0,31586,31857,der_andre,31598,31602,Mein,der_andre
+gdc-coref,ndtw.0,31586,31857,der_andre,31610,31613,Ich,der_andre
+gdc-coref,ndtw.0,31586,31857,der_andre,31723,31728,meine,der_andre
+gdc-coref,ndtw.0,31586,31857,der_andre,31771,31774,ich,der_andre
+gdc-coref,ndtw.0,31586,31857,der_andre,31775,31780,meine,der_andre
+gdc-coref,ndtw.0,31586,31857,der_andre,31818,31821,ich,der_andre
+gdc-coref,ndtw.0,31862,32220,evander,31876,31879,ich,evander
+gdc-coref,ndtw.0,31862,32220,evander,31930,31934,mich,evander
+gdc-coref,ndtw.0,31862,32220,evander,31995,31998,Ich,evander
+gdc-coref,ndtw.0,31862,32220,evander,32018,32021,ich,evander
+gdc-coref,ndtw.0,31862,32220,evander,32107,32110,mir,evander
+gdc-coref,ndtw.0,31862,32220,evander,32123,32126,ich,evander
+gdc-coref,ndtw.0,31862,32220,evander,32176,32179,ich,evander
+gdc-coref,ndtw.0,32300,32492,gelehrter,32349,32352,mir,gelehrter
+gdc-coref,ndtw.0,32300,32492,gelehrter,32411,32417,meines,gelehrter
+gdc-coref,ndtw.0,32497,32653,evander,32523,32526,ich,evander
+gdc-coref,ndtw.0,32497,32653,evander,32527,32531,mich,evander
+gdc-coref,ndtw.0,33027,33134,gelehrter,33044,33047,Ich,gelehrter
+gdc-coref,ndtw.0,33269,33333,gelehrter,33281,33284,Ich,gelehrter
+gdc-coref,ndtw.0,33269,33333,gelehrter,33290,33294,mich,gelehrter
+gdc-coref,ndtw.0,33409,33683,gelehrter,33421,33424,Ich,gelehrter
+gdc-coref,ndtw.0,33409,33683,gelehrter,33460,33463,ich,gelehrter
+gdc-coref,ndtw.0,33409,33683,gelehrter,33510,33513,ich,gelehrter
+gdc-coref,ndtw.0,33688,33831,evander,33721,33724,ich,evander
+gdc-coref,ndtw.0,33688,33831,evander,33745,33749,mich,evander
+gdc-coref,ndtw.0,33688,33831,evander,33757,33761,mich,evander
+gdc-coref,ndtw.0,33688,33831,evander,33763,33766,Ich,evander
+gdc-coref,ndtw.0,33688,33831,evander,33773,33777,mich,evander
+gdc-coref,ndtw.0,33688,33831,evander,33805,33811,meiner,evander
+gdc-coref,ndtw.0,33942,34034,alcimna,33987,33990,Mir,alcimna
+gdc-coref,ndtw.0,34168,34273,bedienter,34198,34201,ich,bedienter
+gdc-coref,ndtw.0,34168,34273,bedienter,34210,34216,meinem,bedienter
+gdc-coref,ndtw.0,34279,34472,alcimna,34295,34299,mein,alcimna
+gdc-coref,ndtw.0,34279,34472,alcimna,34337,34340,mir,alcimna
+gdc-coref,ndtw.0,34279,34472,alcimna,34459,34462,ich,alcimna
+gdc-coref,ndtw.0,34477,34592,chloe,34485,34488,Ich,chloe
+gdc-coref,ndtw.0,34597,34670,alcimna,34621,34624,ich,alcimna
+gdc-coref,ndtw.0,34597,34670,alcimna,34629,34635,meinem,alcimna
+gdc-coref,ndtw.0,34597,34670,alcimna,34661,34664,mir,alcimna
+gdc-coref,ndtw.0,34675,34720,chloe,34687,34691,mein,chloe
+gdc-coref,ndtw.0,34725,34824,alcimna,34778,34781,mir,alcimna
+gdc-coref,ndtw.0,34725,34824,alcimna,34783,34786,Ich,alcimna
+gdc-coref,ndtw.0,34829,34972,chloe,34898,34902,mein,chloe
+gdc-coref,ndtw.0,34829,34972,chloe,34945,34950,meine,chloe
+gdc-coref,ndtw.0,34977,35040,alcimna,35006,35009,ich,alcimna
+gdc-coref,ndtw.0,34977,35040,alcimna,35024,35027,mir,alcimna
+gdc-coref,ndtw.0,35045,35112,chloe,35102,35106,mein,chloe
+gdc-coref,ndtw.0,35117,35279,alcimna,35136,35139,ich,alcimna
+gdc-coref,ndtw.0,35117,35279,alcimna,35152,35156,mich,alcimna
+gdc-coref,ndtw.0,35117,35279,alcimna,35166,35169,ich,alcimna
+gdc-coref,ndtw.0,35117,35279,alcimna,35196,35200,mich,alcimna
+gdc-coref,ndtw.0,35117,35279,alcimna,35258,35261,ich,alcimna
+gdc-coref,ndtw.0,35311,35353,alcimna,35348,35352,mich,alcimna
+gdc-coref,ndtw.0,35358,35448,chloe,35384,35387,ich,chloe
+gdc-coref,ndtw.0,35454,35489,alcimna,35469,35475,meinen,alcimna
+gdc-coref,ndtw.0,35494,35602,chloe,35506,35509,Ich,chloe
+gdc-coref,ndtw.0,35494,35602,chloe,35539,35542,ich,chloe
+gdc-coref,ndtw.0,35494,35602,chloe,35579,35583,mein,chloe
+gdc-coref,ndtw.0,35667,35918,chloe,35675,35678,Ich,chloe
+gdc-coref,ndtw.0,35667,35918,chloe,35691,35695,mein,chloe
+gdc-coref,ndtw.0,35667,35918,chloe,35820,35823,mir,chloe
+gdc-coref,ndtw.0,35923,36415,alcimna,35955,35959,mich,alcimna
+gdc-coref,ndtw.0,35923,36415,alcimna,35974,35977,ich,alcimna
+gdc-coref,ndtw.0,35923,36415,alcimna,36070,36073,mir,alcimna
+gdc-coref,ndtw.0,35923,36415,alcimna,36197,36200,ich,alcimna
+gdc-coref,ndtw.0,35923,36415,alcimna,36326,36330,Mein,alcimna
+gdc-coref,ndtw.0,35923,36415,alcimna,36359,36363,mein,alcimna
+gdc-coref,ndtw.0,35923,36415,alcimna,36391,36394,ich,alcimna
+gdc-coref,ndtw.0,36520,36690,arates,36564,36568,mein,arates
+gdc-coref,ndtw.0,36696,36960,bedienter,36721,36725,mein,bedienter
+gdc-coref,ndtw.0,36696,36960,bedienter,36732,36735,Ich,bedienter
+gdc-coref,ndtw.0,36696,36960,bedienter,36784,36787,mir,bedienter
+gdc-coref,ndtw.0,36696,36960,bedienter,36841,36844,ich,bedienter
+gdc-coref,ndtw.0,36965,37103,arates,36997,37000,mir,arates
+gdc-coref,ndtw.0,36965,37103,arates,37017,37020,mir,arates
+gdc-coref,ndtw.0,36965,37103,arates,37031,37036,meine,arates
+gdc-coref,ndtw.0,36965,37103,arates,37082,37086,mich,arates
+gdc-coref,ndtw.0,37108,37174,alcimna,37126,37130,mein,alcimna
+gdc-coref,ndtw.0,37108,37174,alcimna,37147,37150,mir,alcimna
+gdc-coref,ndtw.0,37108,37174,alcimna,37151,37155,mein,alcimna
+gdc-coref,ndtw.0,37179,37226,arates,37188,37191,Ich,arates
+gdc-coref,ndtw.0,37231,37254,alcimna,37243,37247,mein,alcimna
+gdc-coref,ndtw.0,37393,37496,chloe,37401,37405,Mein,chloe
+gdc-coref,ndtw.0,37393,37496,chloe,37429,37434,meine,chloe
+gdc-coref,ndtw.0,37393,37496,chloe,37450,37453,ich,chloe
+gdc-coref,ndtw.0,37501,37659,arates,37638,37642,mich,arates
+gdc-coref,ndtw.0,37664,37707,alcimna,37674,37677,Ich,alcimna
+gdc-coref,ndtw.0,37712,37989,arates,37773,37776,ich,arates
+gdc-coref,ndtw.0,37712,37989,arates,37801,37804,ich,arates
+gdc-coref,ndtw.0,37712,37989,arates,37827,37832,meine,arates
+gdc-coref,ndtw.0,37712,37989,arates,37858,37862,mein,arates
+gdc-coref,ndtw.0,37712,37989,arates,37896,37899,ich,arates
+gdc-coref,ndtw.0,37712,37989,arates,37938,37941,ich,arates
+gdc-coref,ndtw.0,37994,38096,chloe,38012,38017,meine,chloe
+gdc-coref,ndtw.0,37994,38096,chloe,38027,38030,Ich,chloe
+gdc-coref,ndtw.0,37994,38096,chloe,38059,38062,Ich,chloe
+gdc-coref,ndtw.0,37994,38096,chloe,38077,38083,meiner,chloe
+gdc-coref,ndtw.0,38101,38210,alcimna,38121,38126,meine,alcimna
+gdc-coref,ndtw.0,38101,38210,alcimna,38148,38152,mich,alcimna
+gdc-coref,ndtw.0,38215,38275,chloe,38223,38226,Ich,chloe
+gdc-coref,ndtw.0,38215,38275,chloe,38237,38242,meine,chloe
+gdc-coref,ndtw.0,38556,38697,alcimna,38600,38603,mir,alcimna
+gdc-coref,ndtw.0,38556,38697,alcimna,38633,38637,mich,alcimna
+gdc-coref,ndtw.0,38812,39119,alcimna,38832,38835,ich,alcimna
+gdc-coref,ndtw.0,38812,39119,alcimna,38868,38871,ich,alcimna
+gdc-coref,ndtw.0,39364,39577,alcimna,39386,39389,ich,alcimna
+gdc-coref,ndtw.0,39364,39577,alcimna,39397,39400,Ich,alcimna
+gdc-coref,ndtw.0,39364,39577,alcimna,39436,39439,ich,alcimna
+gdc-coref,ndtw.0,39364,39577,alcimna,39470,39473,ich,alcimna
+gdc-coref,ndtw.0,39364,39577,alcimna,39480,39483,mir,alcimna
+gdc-coref,ndtw.0,39364,39577,alcimna,39556,39561,meine,alcimna
+gdc-coref,ndtw.0,39663,39722,alcimna,39706,39709,ich,alcimna
+gdc-coref,ndtw.0,39975,40342,alcimna,39996,39999,mir,alcimna
+gdc-coref,ndtw.0,39975,40342,alcimna,40241,40244,mir,alcimna
+gdc-coref,ndtw.0,39975,40342,alcimna,40280,40283,ich,alcimna
+gdc-coref,ndtw.0,39975,40342,alcimna,40292,40295,ich,alcimna
+gdc-coref,ndtw.0,39975,40342,alcimna,40315,40318,mir,alcimna
+gdc-coref,ndtw.0,40513,40675,alcimna,40546,40549,Ich,alcimna
+gdc-coref,ndtw.0,40513,40675,alcimna,40665,40668,mir,alcimna
+gdc-coref,ndtw.0,40764,40906,alcimna,40823,40826,mir,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41132,41135,mir,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41177,41180,ich,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41259,41262,ich,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41277,41280,ich,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41365,41368,ich,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41374,41377,mir,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41409,41413,mein,alcimna
+gdc-coref,ndtw.0,41114,41582,alcimna,41542,41545,ich,alcimna
+gdc-coref,ndtw.0,41985,42135,alcimna,42047,42050,mir,alcimna
+gdc-coref,ndtw.0,41985,42135,alcimna,42076,42079,ich,alcimna
+gdc-coref,ndtw.0,41985,42135,alcimna,42126,42129,ich,alcimna
+gdc-coref,ndtw.0,42564,42631,alcimna,42581,42585,mich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42801,42805,mich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42840,42843,ich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42844,42848,mich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42876,42880,mich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42909,42912,ich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42943,42946,ich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,42968,42971,ich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,43005,43008,mir,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,43066,43069,ich,alcimna
+gdc-coref,ndtw.0,42775,43123,alcimna,43104,43107,ich,alcimna
+gdc-coref,ndtw.0,43177,43443,alcimna,43195,43198,ich,alcimna
+gdc-coref,ndtw.0,43177,43443,alcimna,43205,43209,mich,alcimna
+gdc-coref,ndtw.0,43177,43443,alcimna,43251,43254,ich,alcimna
+gdc-coref,ndtw.0,43177,43443,alcimna,43265,43268,ich,alcimna
+gdc-coref,ndtw.0,43177,43443,alcimna,43312,43316,mich,alcimna
+gdc-coref,ndtw.0,43448,43929,erste_aufwærterin,43619,43622,ich,erste_aufwærterin
+gdc-coref,ndtw.0,43934,44303,alcimna,43958,43961,ich,alcimna
+gdc-coref,ndtw.0,43934,44303,alcimna,43980,43983,ich,alcimna
+gdc-coref,ndtw.0,43934,44303,alcimna,44003,44006,ich,alcimna
+gdc-coref,ndtw.0,43934,44303,alcimna,44007,44011,mein,alcimna
+gdc-coref,ndtw.0,43934,44303,alcimna,44081,44084,ich,alcimna
+gdc-coref,ndtw.0,43934,44303,alcimna,44238,44241,ich,alcimna
+gdc-coref,ndtw.0,43934,44303,alcimna,44280,44283,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44507,44510,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44579,44582,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44612,44616,Mein,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44624,44627,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44682,44685,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44699,44702,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44735,44738,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44767,44770,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44897,44900,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44956,44960,mich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,44990,44994,mich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,45030,45033,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,45089,45093,mich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,45114,45117,ich,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,45144,45147,mir,alcimna
+gdc-coref,ndtw.0,44421,45212,alcimna,45161,45166,meine,alcimna
+gdc-coref,ndtw.0,45217,45432,zweyte_aufwærterin,45413,45416,ich,zweyte_aufwærterin
+gdc-coref,ndtw.0,45437,45755,alcimna,45447,45450,Ich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45470,45473,ich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45488,45491,ich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45512,45515,ich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45541,45544,ich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45619,45622,ich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45676,45680,mich,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45687,45691,mein,alcimna
+gdc-coref,ndtw.0,45437,45755,alcimna,45730,45733,ich,alcimna
+gdc-coref,ndtw.0,45913,45981,alcimna,45931,45935,mich,alcimna
+gdc-coref,ndtw.0,45913,45981,alcimna,45954,45957,ich,alcimna
+gdc-coref,ndtw.0,46112,46221,alcimna,46136,46140,mich,alcimna
+gdc-coref,ndtw.0,46112,46221,alcimna,46171,46174,mir,alcimna
+gdc-coref,ndtw.0,46366,49756,evander,46413,46416,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46512,46515,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46516,46521,meine,evander
+gdc-coref,ndtw.0,46366,49756,evander,46624,46628,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46643,46646,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46693,46696,Ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46783,46786,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46845,46848,mir,evander
+gdc-coref,ndtw.0,46366,49756,evander,46904,46908,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,46954,46957,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47048,47051,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47052,47056,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47105,47109,mein,evander
+gdc-coref,ndtw.0,46366,49756,evander,47139,47142,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47171,47175,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47292,47295,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47418,47421,Ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47578,47581,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47590,47596,meinen,evander
+gdc-coref,ndtw.0,46366,49756,evander,47636,47639,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47677,47680,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47719,47722,mir,evander
+gdc-coref,ndtw.0,46366,49756,evander,47832,47836,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47926,47929,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,47963,47967,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48046,48049,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48053,48059,meines,evander
+gdc-coref,ndtw.0,46366,49756,evander,48184,48187,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48341,48346,meine,evander
+gdc-coref,ndtw.0,46366,49756,evander,48355,48358,mir,evander
+gdc-coref,ndtw.0,46366,49756,evander,48445,48450,meine,evander
+gdc-coref,ndtw.0,46366,49756,evander,48525,48528,Ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48537,48540,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48599,48602,mir,evander
+gdc-coref,ndtw.0,46366,49756,evander,48629,48633,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48674,48677,mir,evander
+gdc-coref,ndtw.0,46366,49756,evander,48692,48695,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,48981,48987,meiner,evander
+gdc-coref,ndtw.0,46366,49756,evander,49032,49035,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49054,49057,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49087,49090,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49133,49136,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49228,49231,mir,evander
+gdc-coref,ndtw.0,46366,49756,evander,49338,49344,meinen,evander
+gdc-coref,ndtw.0,46366,49756,evander,49412,49415,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49471,49474,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49528,49532,mich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49648,49651,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49667,49670,ich,evander
+gdc-coref,ndtw.0,46366,49756,evander,49707,49711,mein,evander
+gdc-coref,ndtw.0,49826,49936,pyrhus,49835,49839,Mein,pyrhus
+gdc-coref,ndtw.0,49826,49936,pyrhus,49868,49871,ich,pyrhus
+gdc-coref,ndtw.0,49826,49936,pyrhus,49923,49926,mir,pyrhus
+gdc-coref,ndtw.0,49941,50030,evander,49951,49954,Ich,evander
+gdc-coref,ndtw.0,49941,50030,evander,50007,50010,ich,evander
+gdc-coref,ndtw.0,50035,50191,pyrhus,50082,50085,mir,pyrhus
+gdc-coref,ndtw.0,50196,50566,evander,50236,50240,mich,evander
+gdc-coref,ndtw.0,50196,50566,evander,50384,50387,Ich,evander
+gdc-coref,ndtw.0,50196,50566,evander,50448,50451,mir,evander
+gdc-coref,ndtw.0,50196,50566,evander,50478,50481,mir,evander
+gdc-coref,ndtw.0,50196,50566,evander,50483,50487,mein,evander
+gdc-coref,ndtw.0,50777,50998,evander,50800,50803,mir,evander
+gdc-coref,ndtw.0,50777,50998,evander,50828,50832,mich,evander
+gdc-coref,ndtw.0,50777,50998,evander,50863,50866,mir,evander
+gdc-coref,ndtw.0,50777,50998,evander,50888,50891,ich,evander
+gdc-coref,ndtw.0,50777,50998,evander,50911,50914,Ich,evander
+gdc-coref,ndtw.0,50777,50998,evander,50964,50967,ich,evander
+gdc-coref,ndtw.0,51003,51176,pyrhus,51012,51016,Mein,pyrhus
+gdc-coref,ndtw.0,51181,51607,evander,51191,51195,Mein,evander
+gdc-coref,ndtw.0,51181,51607,evander,51404,51407,ich,evander
+gdc-coref,ndtw.0,51181,51607,evander,51464,51467,ich,evander
+gdc-coref,ndtw.0,51613,51801,pyrhus,51714,51717,mir,pyrhus
+gdc-coref,ndtw.0,51613,51801,pyrhus,51731,51734,mir,pyrhus
+gdc-coref,ndtw.0,51613,51801,pyrhus,51759,51762,mir,pyrhus
+gdc-coref,ndtw.0,51613,51801,pyrhus,51777,51783,meinem,pyrhus
+gdc-coref,ndtw.0,51806,51864,evander,51816,51819,Ich,evander
+gdc-coref,ndtw.0,51806,51864,evander,51838,51842,mein,evander
+gdc-coref,ndtw.0,51929,52077,pyrhus,51951,51955,mein,pyrhus
+gdc-coref,ndtw.0,51929,52077,pyrhus,52023,52026,ich,pyrhus
+gdc-coref,ndtw.0,52082,52125,evander,52109,52112,mir,evander
+gdc-coref,ndtw.0,52131,52281,pyrhus,52149,52152,Ich,pyrhus
+gdc-coref,ndtw.0,52131,52281,pyrhus,52183,52187,mein,pyrhus
+gdc-coref,ndtw.0,52131,52281,pyrhus,52249,52252,ich,pyrhus
+gdc-coref,ndtw.0,52311,52398,pyrhus,52340,52345,meine,pyrhus
+gdc-coref,ndtw.0,52311,52398,pyrhus,52373,52376,mir,pyrhus
+gdc-coref,ndtw.0,52403,52448,evander,52433,52436,ich,evander
+gdc-coref,ndtw.0,52536,52611,evander,52548,52552,mein,evander
+gdc-coref,ndtw.0,52536,52611,evander,52577,52581,mein,evander
+gdc-coref,ndtw.0,52536,52611,evander,52604,52607,ich,evander
+gdc-coref,ndtw.0,52727,52886,arates,52744,52747,mir,arates
+gdc-coref,ndtw.0,52727,52886,arates,52749,52753,mein,arates
+gdc-coref,ndtw.0,52727,52886,arates,52766,52769,ich,arates
+gdc-coref,ndtw.0,52727,52886,arates,52770,52775,meine,arates
+gdc-coref,ndtw.0,52727,52886,arates,52875,52879,mein,arates
+gdc-coref,ndtw.0,52891,53017,evander,52901,52904,Ich,evander
+gdc-coref,ndtw.0,52891,53017,evander,52927,52930,mir,evander
+gdc-coref,ndtw.0,52891,53017,evander,52931,52935,mein,evander
+gdc-coref,ndtw.0,52891,53017,evander,52979,52983,Mein,evander
+gdc-coref,ndtw.0,52891,53017,evander,52994,52998,mein,evander
+gdc-coref,ndtw.0,53022,53104,arates,53031,53034,Ich,arates
+gdc-coref,ndtw.0,53271,53391,pyrhus,53280,53283,Ich,pyrhus
+gdc-coref,ndtw.0,53544,53697,alcimna,53576,53579,ich,alcimna
+gdc-coref,ndtw.0,53544,53697,alcimna,53651,53654,ich,alcimna
+gdc-coref,ndtw.0,53544,53697,alcimna,53673,53676,ich,alcimna
+gdc-coref,ndtw.0,53702,53797,evander,53773,53776,ich,evander
+gdc-coref,ndtw.0,53702,53797,evander,53785,53788,ich,evander
+gdc-coref,ndtw.0,53803,53870,alcimna,53825,53828,ich,alcimna
+gdc-coref,ndtw.0,53803,53870,alcimna,53830,53833,ich,alcimna
+gdc-coref,ndtw.0,53875,53970,evander,53923,53927,mich,evander
+gdc-coref,ndtw.0,53875,53970,evander,53956,53959,ich,evander
+gdc-coref,ndtw.0,53975,54061,alcimna,54000,54004,mich,alcimna
+gdc-coref,ndtw.0,53975,54061,alcimna,54026,54030,mich,alcimna
+gdc-coref,ndtw.0,54066,54129,evander,54096,54099,ich,evander
+gdc-coref,ndtw.0,54134,54208,arates,54159,54162,ich,arates
+gdc-coref,ndtw.0,54213,54325,evander,54261,54265,mich,evander
+gdc-coref,ndtw.0,54213,54325,evander,54311,54316,meine,evander
+gdc-coref,ndtw.0,54331,54430,alcimna,54352,54356,Mein,alcimna
+gdc-coref,ndtw.0,54435,54537,evander,54470,54473,ich,evander
+gdc-coref,ndtw.0,54435,54537,evander,54474,54478,mich,evander
+gdc-coref,ndtw.0,54435,54537,evander,54507,54510,ich,evander
+gdc-coref,ndtw.0,54542,54640,alcimna,54572,54575,ich,alcimna
+gdc-coref,ndtw.0,54542,54640,alcimna,54616,54619,ich,alcimna
+gdc-coref,ndtw.0,54542,54640,alcimna,54620,54624,mein,alcimna
+gdc-coref,ndtw.0,54645,54780,pyrhus,54768,54772,mein,pyrhus
+gdc-coref,ndtw.0,54785,54883,arates,54794,54797,Ich,arates
+gdc-coref,ndtw.0,54785,54883,arates,54803,54807,mich,arates
+gdc-coref,ndtw.0,54785,54883,arates,54812,54818,meinem,arates
+gdc-coref,ndtw.0,54785,54883,arates,54841,54846,meine,arates
+gdc-coref,ndtw.0,54785,54883,arates,54858,54864,meinen,arates

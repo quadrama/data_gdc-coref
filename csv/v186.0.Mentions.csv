@@ -1,1463 +1,1463 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
-gdc,v186.0,2689,5677,hanswurst,2738,2741,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,2760,2764,mein,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3015,3018,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3032,3038,meiner,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3172,3175,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3212,3216,mich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3231,3234,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3288,3292,mich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3372,3375,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3410,3414,mich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3496,3502,meinem,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3520,3523,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3707,3712,meine,hanswurst
-gdc,v186.0,2689,5677,hanswurst,3956,3959,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4020,4025,meine,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4121,4125,Mein,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4395,4398,mir,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4475,4479,mich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4518,4522,mich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4533,4537,mein,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4648,4651,mir,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4684,4687,ich,hanswurst
-gdc,v186.0,2689,5677,hanswurst,4831,4835,mein,hanswurst
-gdc,v186.0,2689,5677,hanswurst,5198,5204,meiner,hanswurst
-gdc,v186.0,2689,5677,hanswurst,5373,5377,mein,hanswurst
-gdc,v186.0,2689,5677,hanswurst,5508,5511,ich,hanswurst
-gdc,v186.0,5760,6085,stoffel_knips,5807,5811,mich,stoffel_knips
-gdc,v186.0,6091,6592,hanswurst,6246,6250,mein,hanswurst
-gdc,v186.0,6091,6592,hanswurst,6298,6302,mich,hanswurst
-gdc,v186.0,6091,6592,hanswurst,6413,6416,ich,hanswurst
-gdc,v186.0,6598,7503,stoffel_knips,6688,6691,Ich,stoffel_knips
-gdc,v186.0,7509,9153,hanswurst,9066,9070,mein,hanswurst
-gdc,v186.0,9302,10835,hanswurst,9360,9363,ich,hanswurst
-gdc,v186.0,9302,10835,hanswurst,9423,9428,Meine,hanswurst
-gdc,v186.0,10841,11054,stoffel_knips,10930,10933,mir,stoffel_knips
-gdc,v186.0,11060,11800,hanswurst,11111,11115,mich,hanswurst
-gdc,v186.0,11060,11800,hanswurst,11142,11148,meinen,hanswurst
-gdc,v186.0,11060,11800,hanswurst,11405,11409,mein,hanswurst
-gdc,v186.0,11060,11800,hanswurst,11577,11580,ich,hanswurst
-gdc,v186.0,11060,11800,hanswurst,11766,11769,mir,hanswurst
-gdc,v186.0,11806,12004,stoffel_knips,11845,11849,mein,stoffel_knips
-gdc,v186.0,11806,12004,stoffel_knips,11967,11970,ich,stoffel_knips
-gdc,v186.0,12010,12110,hanswurst,12063,12067,mich,hanswurst
-gdc,v186.0,12255,12917,frau_knips,12278,12281,ich,frau_knips
-gdc,v186.0,12255,12917,frau_knips,12309,12313,Mein,frau_knips
-gdc,v186.0,12255,12917,frau_knips,12364,12368,mein,frau_knips
-gdc,v186.0,12255,12917,frau_knips,12517,12520,ich,frau_knips
-gdc,v186.0,12255,12917,frau_knips,12538,12542,mich,frau_knips
-gdc,v186.0,12255,12917,frau_knips,12672,12675,mir,frau_knips
-gdc,v186.0,13002,13071,stoffel_knips,13028,13032,mein,stoffel_knips
-gdc,v186.0,13002,13071,stoffel_knips,13061,13065,mein,stoffel_knips
-gdc,v186.0,13139,13481,stoffel_knips,13239,13242,ich,stoffel_knips
-gdc,v186.0,13487,13691,frau_knips,13509,13512,mir,frau_knips
-gdc,v186.0,13487,13691,frau_knips,13674,13678,mich,frau_knips
-gdc,v186.0,13697,13973,stoffel_knips,13847,13850,Ich,stoffel_knips
-gdc,v186.0,13979,14186,frau_knips,14003,14006,ich,frau_knips
-gdc,v186.0,13979,14186,frau_knips,14120,14123,ich,frau_knips
-gdc,v186.0,14192,14417,stoffel_knips,14226,14230,mein,stoffel_knips
-gdc,v186.0,14423,14589,frau_knips,14473,14476,ich,frau_knips
-gdc,v186.0,14423,14589,frau_knips,14555,14558,mir,frau_knips
-gdc,v186.0,14423,14589,frau_knips,14573,14576,ich,frau_knips
-gdc,v186.0,14651,14968,frau_knips,14789,14793,mich,frau_knips
-gdc,v186.0,14651,14968,frau_knips,14833,14837,mich,frau_knips
-gdc,v186.0,14651,14968,frau_knips,14875,14879,mein,frau_knips
-gdc,v186.0,14651,14968,frau_knips,14952,14956,mein,frau_knips
-gdc,v186.0,15044,15448,hanswurst,15199,15202,ich,hanswurst
-gdc,v186.0,15044,15448,hanswurst,15234,15237,ich,hanswurst
-gdc,v186.0,15044,15448,hanswurst,15258,15261,ich,hanswurst
-gdc,v186.0,15044,15448,hanswurst,15344,15347,mir,hanswurst
-gdc,v186.0,15044,15448,hanswurst,15382,15388,meinen,hanswurst
-gdc,v186.0,15454,15537,stoffel_knips,15495,15501,meinem,stoffel_knips
-gdc,v186.0,15543,15889,hanswurst,15602,15605,ich,hanswurst
-gdc,v186.0,15895,16053,frau_knips,15972,15976,mein,frau_knips
-gdc,v186.0,16059,16351,stoffel_knips,16100,16103,ich,stoffel_knips
-gdc,v186.0,16059,16351,stoffel_knips,16289,16293,mein,stoffel_knips
-gdc,v186.0,16431,17035,hanswurst,16523,16526,mir,hanswurst
-gdc,v186.0,16431,17035,hanswurst,16597,16600,Ich,hanswurst
-gdc,v186.0,16431,17035,hanswurst,16619,16622,ich,hanswurst
-gdc,v186.0,16431,17035,hanswurst,16646,16650,mich,hanswurst
-gdc,v186.0,16431,17035,hanswurst,16971,16974,ich,hanswurst
-gdc,v186.0,17156,17208,frau_knips,17191,17195,mein,frau_knips
-gdc,v186.0,17213,17522,hanswurst,17242,17247,meine,hanswurst
-gdc,v186.0,17528,17586,frau_knips,17581,17585,mein,frau_knips
-gdc,v186.0,17591,17721,hanswurst,17695,17698,ich,hanswurst
-gdc,v186.0,17591,17721,hanswurst,17699,17703,mich,hanswurst
-gdc,v186.0,17915,18036,stoffel_knips,17956,17959,ich,stoffel_knips
-gdc,v186.0,17915,18036,stoffel_knips,17977,17983,meiner,stoffel_knips
-gdc,v186.0,18042,18294,hanswurst,18131,18134,ich,hanswurst
-gdc,v186.0,18300,18577,stoffel_knips,18316,18319,Ich,stoffel_knips
-gdc,v186.0,18300,18577,stoffel_knips,18381,18385,mein,stoffel_knips
-gdc,v186.0,18300,18577,stoffel_knips,18536,18539,mir,stoffel_knips
-gdc,v186.0,18627,18859,stoffel_knips,18691,18694,ich,stoffel_knips
-gdc,v186.0,18627,18859,stoffel_knips,18715,18718,ich,stoffel_knips
-gdc,v186.0,18627,18859,stoffel_knips,18731,18735,mich,stoffel_knips
-gdc,v186.0,18967,19377,hanswurst,19193,19197,mein,hanswurst
-gdc,v186.0,18967,19377,hanswurst,19252,19257,Meine,hanswurst
-gdc,v186.0,18967,19377,hanswurst,19268,19271,ich,hanswurst
-gdc,v186.0,18967,19377,hanswurst,19298,19301,Ich,hanswurst
-gdc,v186.0,18967,19377,hanswurst,19343,19347,mich,hanswurst
-gdc,v186.0,19384,19593,frau_knips,19452,19456,mich,frau_knips
-gdc,v186.0,19384,19593,frau_knips,19488,19491,ich,frau_knips
-gdc,v186.0,19384,19593,frau_knips,19502,19506,mein,frau_knips
-gdc,v186.0,19384,19593,frau_knips,19526,19532,meinen,frau_knips
-gdc,v186.0,19599,19710,hanswurst,19615,19619,mich,hanswurst
-gdc,v186.0,19599,19710,hanswurst,19682,19685,ich,hanswurst
-gdc,v186.0,19599,19710,hanswurst,19686,19690,mich,hanswurst
-gdc,v186.0,19715,19929,frau_knips,19805,19808,ich,frau_knips
-gdc,v186.0,19715,19929,frau_knips,19820,19824,Mein,frau_knips
-gdc,v186.0,19715,19929,frau_knips,19861,19864,ich,frau_knips
-gdc,v186.0,19935,20515,hanswurst,20009,20012,mir,hanswurst
-gdc,v186.0,20613,21413,der_erste_türke,21166,21169,mir,der_erste_türke
-gdc,v186.0,21419,22209,der_zweite_türke,21443,21446,mir,der_zweite_türke
-gdc,v186.0,21419,22209,der_zweite_türke,22109,22115,meinem,der_zweite_türke
-gdc,v186.0,22849,23587,erster_matrose,22959,22963,mich,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,22994,22997,ich,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23062,23065,ich,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23088,23093,Meine,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23134,23137,ich,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23280,23283,mir,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23301,23305,mich,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23337,23340,ich,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23439,23442,mir,erster_matrose
-gdc,v186.0,22849,23587,erster_matrose,23540,23543,ich,erster_matrose
-gdc,v186.0,23593,23955,zweiter_matrose,23827,23833,meiner,zweiter_matrose
-gdc,v186.0,23593,23955,zweiter_matrose,23866,23871,meine,zweiter_matrose
-gdc,v186.0,23961,24298,erster_matrose,23996,23999,ich,erster_matrose
-gdc,v186.0,23961,24298,erster_matrose,24076,24079,ich,erster_matrose
-gdc,v186.0,23961,24298,erster_matrose,24121,24125,mein,erster_matrose
-gdc,v186.0,23961,24298,erster_matrose,24190,24193,mir,erster_matrose
-gdc,v186.0,23961,24298,erster_matrose,24205,24209,mein,erster_matrose
-gdc,v186.0,23961,24298,erster_matrose,24286,24290,mein,erster_matrose
-gdc,v186.0,24304,24489,zweiter_matrose,24422,24425,ich,zweiter_matrose
-gdc,v186.0,24610,24733,zweiter_matrose,24638,24641,mir,zweiter_matrose
-gdc,v186.0,24876,24963,hanswurst,24946,24951,meine,hanswurst
-gdc,v186.0,24968,25162,frau_knips,24990,24994,mich,frau_knips
-gdc,v186.0,24968,25162,frau_knips,25005,25009,mich,frau_knips
-gdc,v186.0,24968,25162,frau_knips,25020,25023,mir,frau_knips
-gdc,v186.0,24968,25162,frau_knips,25058,25061,ich,frau_knips
-gdc,v186.0,24968,25162,frau_knips,25098,25101,ich,frau_knips
-gdc,v186.0,24968,25162,frau_knips,25121,25124,Ich,frau_knips
-gdc,v186.0,25168,25610,hanswurst,25255,25258,ich,hanswurst
-gdc,v186.0,25168,25610,hanswurst,25367,25370,ich,hanswurst
-gdc,v186.0,25616,25733,frau_knips,25642,25645,ich,frau_knips
-gdc,v186.0,25738,26512,hanswurst,25917,25920,ich,hanswurst
-gdc,v186.0,25738,26512,hanswurst,25921,25925,mein,hanswurst
-gdc,v186.0,26519,26646,frau_knips,26574,26577,mir,frau_knips
-gdc,v186.0,26519,26646,frau_knips,26605,26608,Mir,frau_knips
-gdc,v186.0,26652,26803,hanswurst,26688,26691,ich,hanswurst
-gdc,v186.0,26652,26803,hanswurst,26738,26744,meinen,hanswurst
-gdc,v186.0,26809,26890,das_mädel,26885,26888,ich,das_mädel
-gdc,v186.0,26960,27053,der_knabe,27010,27013,Ich,der_knabe
-gdc,v186.0,26960,27053,der_knabe,27020,27024,mich,der_knabe
-gdc,v186.0,27215,27288,hanswurst,27268,27271,mir,hanswurst
-gdc,v186.0,27294,27386,das_mädel,27329,27332,ich,das_mädel
-gdc,v186.0,27392,27565,hanswurst,27413,27416,ich,hanswurst
-gdc,v186.0,27392,27565,hanswurst,27473,27479,meiner,hanswurst
-gdc,v186.0,27649,28403,der_matrose,27690,27696,meiner,der_matrose
-gdc,v186.0,27649,28403,der_matrose,27919,27922,ich,der_matrose
-gdc,v186.0,28409,28500,das_mädel,28440,28444,mich,das_mädel
-gdc,v186.0,28507,28666,hanswurst,28525,28528,mir,hanswurst
-gdc,v186.0,28672,28805,das_mädel,28704,28708,mich,das_mädel
-gdc,v186.0,28672,28805,das_mädel,28739,28742,ich,das_mädel
-gdc,v186.0,28672,28805,das_mädel,28743,28746,mir,das_mädel
-gdc,v186.0,28672,28805,das_mädel,28794,28800,meinem,das_mädel
-gdc,v186.0,29061,29083,_stage,29061,29072,Ein Vorsaal,Ein-Vorsaal
-gdc,v186.0,29061,29083,_stage,29073,29082,im Serail,mein-Serail
-gdc,v186.0,29097,29190,_stage,29146,29154,ein Arzt,der_arzt
-gdc,v186.0,29097,29190,_stage,29161,29164,ihn,hanswurst
-gdc,v186.0,29097,29190,_stage,29166,29169,der,der_arzt
-gdc,v186.0,29097,29190,_stage,29170,29173,ihn,hanswurst
-gdc,v186.0,29086,29273,hanswurst,29217,29220,ich,hanswurst
-gdc,v186.0,29086,29273,hanswurst,29231,29234,Ich,hanswurst
-gdc,v186.0,29086,29273,hanswurst,29242,29246,mich,hanswurst
-gdc,v186.0,29086,29273,hanswurst,29254,29264,dem Teufel,dem-Teufel
-gdc,v186.0,29279,29415,der_arzt,29306,29311,Ihnen,hanswurst
-gdc,v186.0,29279,29415,der_arzt,29313,29330,mein werther Herr,hanswurst
-gdc,v186.0,29279,29415,der_arzt,29313,29317,mein,der_arzt
-gdc,v186.0,29279,29415,der_arzt,29333,29336,Sie,hanswurst
-gdc,v186.0,29279,29415,der_arzt,29382,29385,man,man
-gdc,v186.0,29279,29415,der_arzt,29386,29391,Ihnen,hanswurst
-gdc,v186.0,29421,30108,hanswurst,29433,29436,Ich,hanswurst
-gdc,v186.0,29421,30108,hanswurst,29458,29461,ich,hanswurst
-gdc,v186.0,29421,30108,hanswurst,29473,29483,Der Teufel,dem-Teufel
-gdc,v186.0,29421,30108,hanswurst,29510,29521,Ihr Bestien,Ihr-Bestien
-gdc,v186.0,29421,30108,hanswurst,29528,29531,Ihr,Ihr-Bestien
-gdc,v186.0,29421,30108,hanswurst,29532,29536,mich,hanswurst
-gdc,v186.0,29421,30108,hanswurst,29578,29592,die Menschheit,die-halbe-Menschheit
-gdc,v186.0,29421,30108,hanswurst,29652,29655,Ihr,Ihr-Bestien
-gdc,v186.0,29421,30108,hanswurst,29695,29708,Menschennatur,die-Menschheit
-gdc,v186.0,29421,30108,hanswurst,29741,29744,sie,die-Menschheit
-gdc,v186.0,29421,30108,hanswurst,29813,29822,Ihr Hunde,Ihr-Bestien
-gdc,v186.0,29421,30108,hanswurst,29835,29851,die Kunstrichter,die-Kunstrichter
-gdc,v186.0,29421,30108,hanswurst,29852,29856,sich,die-Kunstrichter
-gdc,v186.0,29421,30108,hanswurst,29898,29901,sie,die-Kunstrichter
-gdc,v186.0,29421,30108,hanswurst,29907,29916,die Natur,die-Natur
-gdc,v186.0,29421,30108,hanswurst,29962,29965,ich,hanswurst
-gdc,v186.0,29421,30108,hanswurst,29990,29999,die Kerle,die-Kerle
-gdc,v186.0,29421,30108,hanswurst,30000,30004,sich,die-Kerle
-gdc,v186.0,29421,30108,hanswurst,30038,30041,Ihr,Ihr-Bestien
-gdc,v186.0,29421,30108,hanswurst,30042,30051,der Natur,die-Natur
-gdc,v186.0,29421,30108,hanswurst,30052,30055,ihr,die-Natur
-gdc,v186.0,30114,30334,der_arzt,30125,30142,Mein werther Herr,hanswurst
-gdc,v186.0,30114,30334,der_arzt,30125,30129,Mein,der_arzt
-gdc,v186.0,30114,30334,der_arzt,30152,30155,mir,der_arzt
-gdc,v186.0,30114,30334,der_arzt,30171,30174,wir,
-gdc,v186.0,30114,30334,der_arzt,30181,30186,unsre,
-gdc,v186.0,30114,30334,der_arzt,30209,30212,Ihr,hanswurst
-gdc,v186.0,30114,30334,der_arzt,30264,30267,Sie,hanswurst
-gdc,v186.0,30340,30840,hanswurst,30413,30420,im Land,im-Land
-gdc,v186.0,30340,30840,hanswurst,30426,30429,man,man
-gdc,v186.0,30340,30840,hanswurst,30434,30439,ihrem,die-Natur
-gdc,v186.0,30340,30840,hanswurst,30454,30469,Die liebe Natur,die-Natur
-gdc,v186.0,30340,30840,hanswurst,30486,30489,Sie,die-Natur
-gdc,v186.0,30340,30840,hanswurst,30545,30550,einen,man
-gdc,v186.0,30340,30840,hanswurst,30589,30592,man,man
-gdc,v186.0,30340,30840,hanswurst,30622,30625,Ich,hanswurst
-gdc,v186.0,30340,30840,hanswurst,30655,30661,meiner,hanswurst
-gdc,v186.0,30340,30840,hanswurst,30685,30694,die Kerls,die-Kerle
-gdc,v186.0,30340,30840,hanswurst,30815,30835,die halbe Menschheit,die-halbe-Menschheit
-gdc,v186.0,30846,31093,der_arzt,30857,30873,Liebwerther Herr,hanswurst
-gdc,v186.0,30846,31093,der_arzt,30875,30878,Ihr,hanswurst
-gdc,v186.0,30846,31093,der_arzt,30930,30952,der hohen Gesellschaft,der-hohen-Gesellschaft
-gdc,v186.0,30846,31093,der_arzt,30954,30969,Unserer Genieen,Unserer-Genieen
-gdc,v186.0,30846,31093,der_arzt,30954,30961,Unserer,
-gdc,v186.0,30846,31093,der_arzt,31047,31050,Ihr,hanswurst
-gdc,v186.0,30846,31093,der_arzt,31074,31092,keine Schnellkraft,keine-Schnellkraft
-gdc,v186.0,31099,31230,hanswurst,31118,31128,der Teufel,dem-Teufel
-gdc,v186.0,31099,31230,hanswurst,31129,31146,Eure Gesellschaft,der-hohen-Gesellschaft
-gdc,v186.0,31099,31230,hanswurst,31129,31133,Eure,der_arzt
-gdc,v186.0,31099,31230,hanswurst,31149,31152,Ich,hanswurst
-gdc,v186.0,31099,31230,hanswurst,31168,31185,Eure Schnellkraft,keine-Schnellkraft
-gdc,v186.0,31099,31230,hanswurst,31168,31172,Eure,der_arzt
-gdc,v186.0,31099,31230,hanswurst,31193,31207,die Menschheit,die-halbe-Menschheit
-gdc,v186.0,31236,31486,der_arzt,31247,31250,Ihr,hanswurst
-gdc,v186.0,31236,31486,der_arzt,31260,31271,lieber Herr,hanswurst
-gdc,v186.0,31236,31486,der_arzt,31277,31280,Ihr,hanswurst
-gdc,v186.0,31236,31486,der_arzt,31294,31297,Ihr,hanswurst
-gdc,v186.0,31236,31486,der_arzt,31348,31352,Euer,hanswurst
-gdc,v186.0,31236,31486,der_arzt,31455,31477,unsern heurigen Genies,Unserer-Genieen
-gdc,v186.0,31236,31486,der_arzt,31455,31461,unsern,
-gdc,v186.0,31492,31661,hanswurst,31513,31516,Ihr,der_arzt
-gdc,v186.0,31492,31661,hanswurst,31522,31525,ich,hanswurst
-gdc,v186.0,31492,31661,hanswurst,31560,31574,die Menschheit,die-halbe-Menschheit
-gdc,v186.0,31492,31661,hanswurst,31575,31579,mein,hanswurst
-gdc,v186.0,31492,31661,hanswurst,31629,31632,ich,hanswurst
-gdc,v186.0,31492,31661,hanswurst,31633,31636,mir,hanswurst
-gdc,v186.0,31668,31915,der_arzt,31697,31700,Ihr,hanswurst
-gdc,v186.0,31668,31915,der_arzt,31706,31709,Ihr,hanswurst
-gdc,v186.0,31668,31915,der_arzt,31728,31738,der Sultan,der_sultan
-gdc,v186.0,31668,31915,der_arzt,31753,31755,Er,der_sultan
-gdc,v186.0,31668,31915,der_arzt,31779,31783,Euch,hanswurst
-gdc,v186.0,31668,31915,der_arzt,31800,31804,Euch,hanswurst
-gdc,v186.0,31668,31915,der_arzt,31805,31817,Euer neu Amt,Euer-neu-Amt
-gdc,v186.0,31668,31915,der_arzt,31805,31809,Euer,hanswurst
-gdc,v186.0,31668,31915,der_arzt,31831,31834,Ich,der_arzt
-gdc,v186.0,31668,31915,der_arzt,31841,31845,mich,der_arzt
-gdc,v186.0,31668,31915,der_arzt,31892,31903,Eurem Herrn,der_sultan
-gdc,v186.0,31668,31915,der_arzt,31892,31897,Eurem,hanswurst
-gdc,v186.0,31967,32342,hanswurst,31988,31991,Ich,hanswurst
-gdc,v186.0,31967,32342,hanswurst,32010,32023,meine Tochter,das_mädel
-gdc,v186.0,31967,32342,hanswurst,32010,32015,meine,hanswurst
-gdc,v186.0,31967,32342,hanswurst,32045,32048,ich,hanswurst
-gdc,v186.0,31967,32342,hanswurst,32144,32153,der Natur,die-Natur
-gdc,v186.0,31967,32342,hanswurst,32315,32325,der Teufel,dem-Teufel
-gdc,v186.0,32394,32419,_stage,32394,32404,Der Sultan,der_sultan
-gdc,v186.0,32394,32419,_stage,32409,32418,Hanswurst,hanswurst
-gdc,v186.0,32422,32832,der_sultan,32453,32459,meinem,der_sultan
-gdc,v186.0,32422,32832,der_sultan,32490,32509,Du lumpigter Gesell,hanswurst
-gdc,v186.0,32422,32832,der_sultan,32511,32515,Dich,hanswurst
-gdc,v186.0,32422,32832,der_sultan,32528,32543,wieder's Landes,im-Land
-gdc,v186.0,32422,32832,der_sultan,32568,32571,man,man
-gdc,v186.0,32422,32832,der_sultan,32572,32576,Dich,hanswurst
-gdc,v186.0,32422,32832,der_sultan,32683,32690,Du Hund,hanswurst
-gdc,v186.0,32422,32832,der_sultan,32696,32699,ich,der_sultan
-gdc,v186.0,32422,32832,der_sultan,32707,32711,Dich,hanswurst
-gdc,v186.0,32838,34971,hanswurst,32856,32859,ich,hanswurst
-gdc,v186.0,32838,34971,hanswurst,32908,32929,werthster Herr Sultan,der_sultan
-gdc,v186.0,32838,34971,hanswurst,32967,32976,der Natur,die-Natur
-gdc,v186.0,32838,34971,hanswurst,33196,33223,'ne abscheuliche Karrikatur,'ne-abscheuliche-Karrikatur
-gdc,v186.0,32838,34971,hanswurst,33230,33235,jedem,jedem
-gdc,v186.0,32838,34971,hanswurst,33253,33255,er,jedem
-gdc,v186.0,32838,34971,hanswurst,33256,33259,sie,'ne-abscheuliche-Karrikatur
-gdc,v186.0,32838,34971,hanswurst,33440,33443,Ihr,der_sultan
-gdc,v186.0,32838,34971,hanswurst,33586,33590,Euer,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33597,33613,Ihr großen Köpfe,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33619,33629,Euer Genie,Euer-Genie
-gdc,v186.0,32838,34971,hanswurst,33619,33623,Euer,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33653,33669,Ihr Mutter Natur,die-Natur
-gdc,v186.0,32838,34971,hanswurst,33653,33656,Ihr,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33670,33673,ihr,die-Natur
-gdc,v186.0,32838,34971,hanswurst,33715,33718,Ihr,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33753,33756,Ihr,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33776,33780,Euch,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33815,33819,Euch,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33867,33871,Euch,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33883,33894,Eurem Genie,Euer-Genie
-gdc,v186.0,32838,34971,hanswurst,33883,33888,Eurem,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,33948,33951,Ihr,Ihr-großen-Köpfe
-gdc,v186.0,32838,34971,hanswurst,34210,34232,alle vernünftgen Leute,alle-vernünftgen-Leute
-gdc,v186.0,32838,34971,hanswurst,34243,34246,Die,alle-vernünftgen-Leute
-gdc,v186.0,32838,34971,hanswurst,34287,34291,ihre,alle-vernünftgen-Leute
-gdc,v186.0,32838,34971,hanswurst,34310,34313,Die,die-Kerle
-gdc,v186.0,32838,34971,hanswurst,34589,34607,die neuern Genieen,die-neuern-Genieen
-gdc,v186.0,32838,34971,hanswurst,34614,34617,man,man
-gdc,v186.0,32838,34971,hanswurst,34664,34692,"die neuen Geschöpfe, die sie",die-neuern-Genieen
-gdc,v186.0,32838,34971,hanswurst,34689,34692,sie,die-Kerle
-gdc,v186.0,32838,34971,hanswurst,34698,34703,ihrer,die-Kerle
-gdc,v186.0,32838,34971,hanswurst,34802,34807,ihrem,die-neuern-Genieen
-gdc,v186.0,32838,34971,hanswurst,34841,34852,Herr Sultan,der_sultan
-gdc,v186.0,32838,34971,hanswurst,34864,34868,Euch,der_sultan
-gdc,v186.0,32838,34971,hanswurst,34869,34878,die Natur,die-Natur
-gdc,v186.0,32838,34971,hanswurst,34890,34894,Euch,der_sultan
-gdc,v186.0,34977,35213,der_sultan,35007,35011,Kerl,hanswurst
-gdc,v186.0,34977,35213,der_sultan,35017,35020,Dir,hanswurst
-gdc,v186.0,34977,35213,der_sultan,35049,35064,Du saubrer Gast,hanswurst
-gdc,v186.0,34977,35213,der_sultan,35071,35073,Du,hanswurst
-gdc,v186.0,34977,35213,der_sultan,35074,35085,'ne Tochter,das_mädel
-gdc,v186.0,34977,35213,der_sultan,35090,35093,Dir,hanswurst
-gdc,v186.0,34977,35213,der_sultan,35101,35110,Das Mädel,das_mädel
-gdc,v186.0,34977,35213,der_sultan,35119,35122,mir,der_sultan
-gdc,v186.0,34977,35213,der_sultan,35145,35149,mich,der_sultan
-gdc,v186.0,34977,35213,der_sultan,35177,35180,Sie,das_mädel
-gdc,v186.0,34977,35213,der_sultan,35197,35212,das Jüngferlein,das_mädel
-gdc,v186.0,35219,35374,hanswurst,35255,35259,mich,hanswurst
-gdc,v186.0,35219,35374,hanswurst,35295,35300,Erden,Erden
-gdc,v186.0,35380,35539,der_sultan,35412,35426,Er Schwäzer Er,hanswurst
-gdc,v186.0,35380,35539,der_sultan,35434,35436,Er,hanswurst
-gdc,v186.0,35380,35539,der_sultan,35440,35448,Sein Amt,Euer-neu-Amt
-gdc,v186.0,35380,35539,der_sultan,35440,35444,Sein,hanswurst
-gdc,v186.0,35380,35539,der_sultan,35467,35470,Mir,der_sultan
-gdc,v186.0,35380,35539,der_sultan,35471,35482,mein Serail,mein-Serail
-gdc,v186.0,35380,35539,der_sultan,35471,35475,mein,der_sultan
-gdc,v186.0,35380,35539,der_sultan,35484,35494,Dein Mädel,das_mädel
-gdc,v186.0,35380,35539,der_sultan,35511,35514,ich,der_sultan
-gdc,v186.0,35380,35539,der_sultan,35515,35518,Ihr,das_mädel
-gdc,v186.0,35380,35539,der_sultan,35519,35525,meinen,der_sultan
-gdc,v186.0,35546,35809,hanswurst,35633,35638,Erden,Erden
-gdc,v186.0,35546,35809,hanswurst,35739,35742,sie,die-Genies-in-Deutschland
-gdc,v186.0,35546,35809,hanswurst,35743,35766,der schwarze Höllenbubu,dem-Teufel
-gdc,v186.0,35546,35809,hanswurst,35769,35801,"Die großen Genies, die Hunde die",die-Genies-in-Deutschland
-gdc,v186.0,35860,36752,der_sultan,35873,35881,Der Kerl,hanswurst
-gdc,v186.0,35860,36752,der_sultan,35960,35964,sich,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36112,36114,er,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36148,36156,der Kerl,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36196,36198,er,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36243,36245,er,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36257,36260,Ich,der_sultan
-gdc,v186.0,35860,36752,der_sultan,36301,36309,der Kerl,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36330,36332,Er,hanswurst
-gdc,v186.0,35860,36752,der_sultan,36424,36427,Ich,der_sultan
-gdc,v186.0,35860,36752,der_sultan,36623,36626,ich,der_sultan
-gdc,v186.0,35860,36752,der_sultan,36637,36660,mein liebliches Mädchen,das_mädel
-gdc,v186.0,35860,36752,der_sultan,36637,36641,mein,der_sultan
-gdc,v186.0,35860,36752,der_sultan,36677,36694,mein schönes Kind,das_mädel
-gdc,v186.0,35860,36752,der_sultan,36677,36681,mein,der_sultan
-gdc,v186.0,35860,36752,der_sultan,36712,36715,Sie,das_mädel
-gdc,v186.0,35860,36752,der_sultan,36723,36735,schönes Kind,das_mädel
-gdc,v186.0,35860,36752,der_sultan,36742,36745,Sie,das_mädel
-gdc,v186.0,36804,36826,_stage,36804,36814,Der Sultan,der_sultan
-gdc,v186.0,36804,36826,_stage,36816,36825,das Mädel,das_mädel
-gdc,v186.0,36829,39085,der_sultan,36850,36853,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,36866,36885,geliebtes  Schäzgen,das_mädel
-gdc,v186.0,36829,39085,der_sultan,36887,36891,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,36894,36898,Dich,das_mädel
-gdc,v186.0,36829,39085,der_sultan,36914,36917,mir,der_sultan
-gdc,v186.0,36829,39085,der_sultan,36919,36935,in's weiche Bett,in's-weiche-Bett
-gdc,v186.0,36829,39085,der_sultan,36953,36999,"mein Liebchen schön, mein Trautchen zukkersüße",das_mädel
-gdc,v186.0,36829,39085,der_sultan,36953,36957,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,36974,36978,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37042,37047,meine,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37070,37081,mein Serail,mein-Serail
-gdc,v186.0,36829,39085,der_sultan,37070,37074,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37086,37092,Mädeln,Mädeln
-gdc,v186.0,36829,39085,der_sultan,37111,37116,allen,Mädeln
-gdc,v186.0,36829,39085,der_sultan,37138,37141,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37142,37146,mich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37156,37159,Ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37186,37193,Weibern,Weiber
-gdc,v186.0,36829,39085,der_sultan,37194,37198,mich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37308,37316,dem Bett,in's-weiche-Bett
-gdc,v186.0,36829,39085,der_sultan,37325,37328,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37379,37382,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37487,37504,vieler Weiber Kus,so-ein-Kuß
-gdc,v186.0,36829,39085,der_sultan,37487,37500,vieler Weiber,Weiber
-gdc,v186.0,36829,39085,der_sultan,37543,37546,man,man
-gdc,v186.0,36829,39085,der_sultan,37593,37596,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37668,37679,meinen Leib,im-Leibe
-gdc,v186.0,36829,39085,der_sultan,37668,37674,meinen,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37690,37702,"Du, Liebchen",das_mädel
-gdc,v186.0,36829,39085,der_sultan,37720,37726,meiner,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37742,37756,Dein Brüstlein,Dein-Brüstlein
-gdc,v186.0,36829,39085,der_sultan,37742,37746,Dein,das_mädel
-gdc,v186.0,36829,39085,der_sultan,37769,37773,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37804,37812,Liebchen,das_mädel
-gdc,v186.0,36829,39085,der_sultan,37850,37853,Dir,das_mädel
-gdc,v186.0,36829,39085,der_sultan,37885,37889,Dich,das_mädel
-gdc,v186.0,36829,39085,der_sultan,37938,37944,meiner,der_sultan
-gdc,v186.0,36829,39085,der_sultan,37945,37949,Dich,das_mädel
-gdc,v186.0,36829,39085,der_sultan,37986,37998,Du Weibsstük,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38023,38025,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38026,38031,Zayre,Zayre
-gdc,v186.0,36829,39085,der_sultan,38049,38052,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38053,38057,Dich,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38058,38066,zur Frau,zur-Frau
-gdc,v186.0,36829,39085,der_sultan,38079,38081,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38088,38091,sie,Zayre
-gdc,v186.0,36829,39085,der_sultan,38130,38133,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38134,38138,Dich,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38153,38164,meinem Weib,zur-Frau
-gdc,v186.0,36829,39085,der_sultan,38153,38159,meinem,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38188,38190,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38210,38213,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38214,38217,Dir,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38236,38241,meine,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38282,38285,Ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38317,38321,Dich,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38340,38388,"Die andern insgesamt, die im Serail jezt stekken",Mädeln
-gdc,v186.0,36829,39085,der_sultan,38366,38375,im Serail,mein-Serail
-gdc,v186.0,36829,39085,der_sultan,38391,38394,Die,Mädeln
-gdc,v186.0,36829,39085,der_sultan,38416,38420,mich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38421,38424,all,Mädeln
-gdc,v186.0,36829,39085,der_sultan,38444,38446,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38459,38463,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38471,38475,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38494,38497,Dir,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38505,38507,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38533,38535,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38551,38554,mir,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38566,38570,Dein,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38589,38593,mich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38598,38601,Dir,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38615,38619,mich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38628,38631,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38652,38655,Dir,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38676,38679,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38691,38711,"Du auserwählte Perl,",das_mädel
-gdc,v186.0,36829,39085,der_sultan,38716,38722,meiner,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38740,38744,sich,ein-andrer-Kerl
-gdc,v186.0,36829,39085,der_sultan,38745,38760,ein andrer Kerl,ein-andrer-Kerl
-gdc,v186.0,36829,39085,der_sultan,38769,38775,meiner,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38791,38794,Dir,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38820,38824,mein,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38842,38848,meiner,der_sultan
-gdc,v186.0,36829,39085,der_sultan,38879,38886,Du Hur',das_mädel
-gdc,v186.0,36829,39085,der_sultan,38913,38915,Du,das_mädel
-gdc,v186.0,36829,39085,der_sultan,38977,38987,der Teufel,dem-Teufel
-gdc,v186.0,36829,39085,der_sultan,39025,39028,ich,der_sultan
-gdc,v186.0,36829,39085,der_sultan,39029,39033,Dich,das_mädel
-gdc,v186.0,39104,39121,_stage,39110,39120,die Fistel,die-Fistel
-gdc,v186.0,39093,39694,das_mädel,39129,39151,werthester Herr Sultan,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39154,39157,Sie,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39164,39168,Ihre,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39197,39200,Ich,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39207,39211,mein,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39254,39267,eines Sultans,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39315,39318,ich,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39336,39347,Herr Sultan,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39365,39370,meine,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39463,39466,ich,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39475,39479,Euch,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39506,39509,Ich,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39585,39594,mein Herr,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39585,39589,mein,das_mädel
-gdc,v186.0,39093,39694,das_mädel,39619,39623,Eure,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39645,39650,Ihrer,der_sultan
-gdc,v186.0,39093,39694,das_mädel,39671,39674,ich,das_mädel
-gdc,v186.0,39713,39847,_stage,39720,39724,sich,der_sultan
-gdc,v186.0,39701,40017,der_sultan,39850,39868,Verdammte Käsemade,das_mädel
-gdc,v186.0,39701,40017,der_sultan,39871,39920,"Du Regenwurm von Weib, die klein als wie 'ne Laus",das_mädel
-gdc,v186.0,39701,40017,der_sultan,39923,39946,Verdammtes Trampelthier,das_mädel
-gdc,v186.0,39701,40017,der_sultan,39959,39961,Du,das_mädel
-gdc,v186.0,39701,40017,der_sultan,39962,39965,Dir,das_mädel
-gdc,v186.0,39701,40017,der_sultan,39975,40016,"Du Rabenas Du Sau, Du Nikkel Du, Du Luder",das_mädel
-gdc,v186.0,40023,40107,das_mädel,40064,40067,Sie,der_sultan
-gdc,v186.0,40023,40107,das_mädel,40068,40072,sich,der_sultan
-gdc,v186.0,40023,40107,das_mädel,40080,40106,liebwerthester Herr Bruder,der_sultan
-gdc,v186.0,40112,40404,der_sultan,40146,40184,"Du Maulaffengezücht, Du wilde Bestia12",das_mädel
-gdc,v186.0,40112,40404,der_sultan,40204,40206,Du,das_mädel
-gdc,v186.0,40112,40404,der_sultan,40207,40211,Dich,das_mädel
-gdc,v186.0,40112,40404,der_sultan,40230,40234,Dich,das_mädel
-gdc,v186.0,40112,40404,der_sultan,40270,40274,Dich,das_mädel
-gdc,v186.0,40112,40404,der_sultan,40281,40284,mir,der_sultan
-gdc,v186.0,40112,40404,der_sultan,40323,40326,ich,der_sultan
-gdc,v186.0,40112,40404,der_sultan,40327,40331,Dich,das_mädel
-gdc,v186.0,40112,40404,der_sultan,40333,40343,Du Trampel,das_mädel
-gdc,v186.0,40421,40438,_stage,40427,40437,die Fistel,die-Fistel
-gdc,v186.0,40410,41273,das_mädel,40478,40481,ich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40496,40499,Ich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40525,40528,mir,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40554,40557,ich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40584,40589,Ohren,Ohren
-gdc,v186.0,40410,41273,das_mädel,40592,40595,Ich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40606,40609,ich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40620,40624,mich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40629,40638,ein Genie,hanswurst
-gdc,v186.0,40410,41273,das_mädel,40663,40666,ihn,hanswurst
-gdc,v186.0,40410,41273,das_mädel,40683,40689,seinen,hanswurst
-gdc,v186.0,40410,41273,das_mädel,40710,40729,Eure Herrlichkeiten,der_sultan
-gdc,v186.0,40410,41273,das_mädel,40736,40745,ein Genie,ein-Genie
-gdc,v186.0,40410,41273,das_mädel,40746,40750,sich,ein-Genie
-gdc,v186.0,40410,41273,das_mädel,40822,40833,meine Brust,Dein-Brüstlein
-gdc,v186.0,40410,41273,das_mädel,40822,40827,meine,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40865,40877,eines Mannes,eines-Mannes
-gdc,v186.0,40410,41273,das_mädel,40885,40888,Sie,der_sultan
-gdc,v186.0,40410,41273,das_mädel,40896,40908,gnädger Herr,der_sultan
-gdc,v186.0,40410,41273,das_mädel,40914,40919,einen,eines-Mannes
-gdc,v186.0,40410,41273,das_mädel,40946,40949,mir,das_mädel
-gdc,v186.0,40410,41273,das_mädel,40955,40963,jederman,jedem
-gdc,v186.0,40410,41273,das_mädel,40964,40968,sein,jedem
-gdc,v186.0,40410,41273,das_mädel,41007,41010,ihm,jedem
-gdc,v186.0,40410,41273,das_mädel,41029,41035,meinen,das_mädel
-gdc,v186.0,40410,41273,das_mädel,41045,41050,meine,das_mädel
-gdc,v186.0,40410,41273,das_mädel,41085,41088,ihm,jedem
-gdc,v186.0,40410,41273,das_mädel,41120,41131,Euer Gnaden,der_sultan
-gdc,v186.0,40410,41273,das_mädel,41156,41160,sich,der_sultan
-gdc,v186.0,40410,41273,das_mädel,41161,41166,Ihres,der_sultan
-gdc,v186.0,40410,41273,das_mädel,41196,41199,ich,das_mädel
-gdc,v186.0,40410,41273,das_mädel,41208,41211,mir,das_mädel
-gdc,v186.0,40410,41273,das_mädel,41254,41268,Ihr Nebenbuler,eines-Mannes
-gdc,v186.0,40410,41273,das_mädel,41254,41257,Ihr,der_sultan
-gdc,v186.0,41279,41500,der_sultan,41292,41294,Du,das_mädel
-gdc,v186.0,41279,41500,der_sultan,41331,41334,ich,der_sultan
-gdc,v186.0,41279,41500,der_sultan,41356,41360,mein,der_sultan
-gdc,v186.0,41279,41500,der_sultan,41379,41388,Dich Hure,das_mädel
-gdc,v186.0,41279,41500,der_sultan,41407,41411,sich,kein-Mensch
-gdc,v186.0,41279,41500,der_sultan,41412,41423,kein Mensch,kein-Mensch
-gdc,v186.0,41279,41500,der_sultan,41445,41448,Dir,das_mädel
-gdc,v186.0,41279,41500,der_sultan,41455,41459,mein,der_sultan
-gdc,v186.0,41279,41500,der_sultan,41477,41499,Du unverschämtes Thier,das_mädel
-gdc,v186.0,41553,41579,_stage,41553,41562,Ein Sklav,der_sklav
-gdc,v186.0,41553,41579,_stage,41567,41578,die Vorigen,
-gdc,v186.0,41582,41976,der_sklav,41594,41617,Gebietender Herr Sultan,der_sultan
-gdc,v186.0,41582,41976,der_sklav,41634,41642,ein Weib,frau_knips
-gdc,v186.0,41582,41976,der_sklav,41646,41659,Ihr'm Pallast,mein-Serail
-gdc,v186.0,41582,41976,der_sklav,41646,41651,Ihr'm,der_sultan
-gdc,v186.0,41582,41976,der_sklav,41665,41668,Sie,frau_knips
-gdc,v186.0,41582,41976,der_sklav,41739,41743,mich,der_sklav
-gdc,v186.0,41582,41976,der_sklav,41751,41760,mein Herr,der_sultan
-gdc,v186.0,41582,41976,der_sklav,41751,41755,mein,der_sklav
-gdc,v186.0,41582,41976,der_sklav,41793,41796,Sie,frau_knips
-gdc,v186.0,41582,41976,der_sklav,41898,41901,Sie,frau_knips
-gdc,v186.0,41582,41976,der_sklav,41927,41939,Eurer Gnaden,der_sultan
-gdc,v186.0,41582,41976,der_sklav,41952,41955,ihr,frau_knips
-gdc,v186.0,41982,42012,das_mädel,42007,42011,Mama,frau_knips
-gdc,v186.0,42017,42082,der_sultan,42034,42046,Deine Mutter,frau_knips
-gdc,v186.0,42017,42082,der_sultan,42034,42039,Deine,das_mädel
-gdc,v186.0,42017,42082,der_sultan,42059,42062,sie,frau_knips
-gdc,v186.0,42087,42219,das_mädel,42111,42124,Herr Puterhan,der_sultan
-gdc,v186.0,42087,42219,das_mädel,42131,42134,die,frau_knips
-gdc,v186.0,42087,42219,das_mädel,42142,42144,Er,der_sultan
-gdc,v186.0,42087,42219,das_mädel,42175,42177,Er,der_sultan
-gdc,v186.0,42087,42219,das_mädel,42178,42182,sich,der_sultan
-gdc,v186.0,42087,42219,das_mädel,42186,42192,meiner,das_mädel
-gdc,v186.0,42087,42219,das_mädel,42210,42213,ich,das_mädel
-gdc,v186.0,42225,42462,der_sultan,42261,42263,Du,das_mädel
-gdc,v186.0,42225,42462,der_sultan,42272,42275,Ich,der_sultan
-gdc,v186.0,42469,42653,das_mädel,42515,42528,dem Mannsvolk,dem-Mannsvolk
-gdc,v186.0,42469,42653,das_mädel,42564,42567,Sie,dem-Mannsvolk
-gdc,v186.0,42469,42653,das_mädel,42608,42618,aller Welt,aller-Welt
-gdc,v186.0,42469,42653,das_mädel,42633,42643,aller Welt,aller-Welt
-gdc,v186.0,42707,42734,_stage,42707,42717,Frau Knips,frau_knips
-gdc,v186.0,42707,42734,_stage,42722,42733,die Vorigen,
-gdc,v186.0,42749,42770,_stage,42749,42759,dem Sultan,der_sultan
-gdc,v186.0,42749,42770,_stage,42763,42769,Füssen,Füssen
-gdc,v186.0,42737,42816,frau_knips,42775,42788,Deinen Füssen,Füssen
-gdc,v186.0,42737,42816,frau_knips,42775,42781,Deinen,der_sultan
-gdc,v186.0,42737,42816,frau_knips,42790,42794,Herr,der_sultan
-gdc,v186.0,42737,42816,frau_knips,42802,42805,ich,frau_knips
-gdc,v186.0,42821,43026,der_sultan,42840,42858,Ein schönes Mensch,frau_knips
-gdc,v186.0,42821,43026,der_sultan,42863,42869,meiner,der_sultan
-gdc,v186.0,42821,43026,der_sultan,42905,42923,ein hübsch Gesicht,ein-hübsch-Gesicht
-gdc,v186.0,42821,43026,der_sultan,42973,42984,schöne Frau,frau_knips
-gdc,v186.0,42821,43026,der_sultan,42996,42999,Sie,frau_knips
-gdc,v186.0,42821,43026,der_sultan,43017,43020,Sie,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43088,43094,meinen,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43102,43113,Meinen Sohn,Meinen-Sohn
-gdc,v186.0,43032,44285,frau_knips,43102,43108,Meinen,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43118,43125,Tochter,das_mädel
-gdc,v186.0,43032,44285,frau_knips,43141,43144,Ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43160,43163,Sie,der_sultan
-gdc,v186.0,43032,44285,frau_knips,43185,43188,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43210,43223,"meinem Buben,",Meinen-Sohn
-gdc,v186.0,43032,44285,frau_knips,43210,43216,meinem,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43236,43239,mir,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43271,43273,er,Meinen-Sohn
-gdc,v186.0,43032,44285,frau_knips,43290,43293,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43312,43342,ein großer mächtiger Wallfisch,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,43032,44285,frau_knips,43365,43369,mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43399,43401,er,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,43032,44285,frau_knips,43402,43406,mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43442,43445,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43484,43490,seinen,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,43032,44285,frau_knips,43579,43585,seinem,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,43032,44285,frau_knips,43615,43619,Mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43655,43658,Mir,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43665,43673,der Kopf,der-Kopf
-gdc,v186.0,43032,44285,frau_knips,43752,43764,das Monstrum,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,43032,44285,frau_knips,43765,43769,mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43836,43839,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43865,43869,Mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43873,43885,Eurer Gnaden,der_sultan
-gdc,v186.0,43032,44285,frau_knips,43894,43897,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43924,43945,mein liebwerther Mann,hanswurst
-gdc,v186.0,43032,44285,frau_knips,43924,43928,mein,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43994,43997,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,43998,44002,mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44032,44036,Mich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44047,44058,meinem Mann,hanswurst
-gdc,v186.0,43032,44285,frau_knips,44047,44053,meinem,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44099,44108,mein Herr,der_sultan
-gdc,v186.0,43032,44285,frau_knips,44099,44103,mein,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44130,44141,meinen Leib,ganzem-Leib
-gdc,v186.0,43032,44285,frau_knips,44130,44136,meinen,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44142,44151,kein Mann,eines-Mannes
-gdc,v186.0,43032,44285,frau_knips,44195,44206,meinem Mann,hanswurst
-gdc,v186.0,43032,44285,frau_knips,44195,44201,meinem,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44214,44217,ich,frau_knips
-gdc,v186.0,43032,44285,frau_knips,44251,44262,Euer Gnaden,der_sultan
-gdc,v186.0,44292,44467,der_sultan,44313,44317,Dich,frau_knips
-gdc,v186.0,44292,44467,der_sultan,44334,44350,Dein lieber Mann,hanswurst
-gdc,v186.0,44292,44467,der_sultan,44334,44338,Dein,frau_knips
-gdc,v186.0,44292,44467,der_sultan,44353,44369,Mein liebes Kind,frau_knips
-gdc,v186.0,44292,44467,der_sultan,44353,44357,Mein,der_sultan
-gdc,v186.0,44292,44467,der_sultan,44371,44374,der,hanswurst
-gdc,v186.0,44292,44467,der_sultan,44413,44416,Dir,frau_knips
-gdc,v186.0,44292,44467,der_sultan,44442,44445,ich,der_sultan
-gdc,v186.0,44292,44467,der_sultan,44446,44449,Dir,frau_knips
-gdc,v186.0,44292,44467,der_sultan,44450,44455,meine,der_sultan
-gdc,v186.0,44473,44658,frau_knips,44503,44522,gnädger Herr Sultan,der_sultan
-gdc,v186.0,44473,44658,frau_knips,44572,44575,ich,frau_knips
-gdc,v186.0,44473,44658,frau_knips,44576,44580,mich,frau_knips
-gdc,v186.0,44473,44658,frau_knips,44599,44602,ich,frau_knips
-gdc,v186.0,44664,44879,das_mädel,44683,44685,Du,der_sultan
-gdc,v186.0,44664,44879,das_mädel,44690,44696,Sultan,der_sultan
-gdc,v186.0,44664,44879,das_mädel,44713,44715,Du,der_sultan
-gdc,v186.0,44664,44879,das_mädel,44735,44737,Du,der_sultan
-gdc,v186.0,44664,44879,das_mädel,44749,44752,mir,das_mädel
-gdc,v186.0,44664,44879,das_mädel,44753,44757,Dich,der_sultan
-gdc,v186.0,44664,44879,das_mädel,44792,44803,'ner andern,frau_knips
-gdc,v186.0,44664,44879,das_mädel,44861,44864,ich,das_mädel
-gdc,v186.0,44664,44879,das_mädel,44865,44868,Dir,der_sultan
-gdc,v186.0,44885,44965,der_sultan,44926,44938,Du Weibsstük,das_mädel
-gdc,v186.0,44971,45106,frau_knips,44992,44995,ich,frau_knips
-gdc,v186.0,44971,45106,frau_knips,45001,45022,Du's mein liebes Blut,das_mädel
-gdc,v186.0,44971,45106,frau_knips,45006,45022,mein liebes Blut,mein-liebes-Blut
-gdc,v186.0,44971,45106,frau_knips,45006,45010,mein,frau_knips
-gdc,v186.0,44971,45106,frau_knips,45024,45040,Mein Töchterchen,das_mädel
-gdc,v186.0,44971,45106,frau_knips,45024,45028,Mein,frau_knips
-gdc,v186.0,44971,45106,frau_knips,45072,45075,ich,frau_knips
-gdc,v186.0,44971,45106,frau_knips,45087,45105,mein liebstes Kind,das_mädel
-gdc,v186.0,44971,45106,frau_knips,45087,45091,mein,frau_knips
-gdc,v186.0,45113,45250,das_mädel,45133,45136,Sie,frau_knips
-gdc,v186.0,45113,45250,das_mädel,45141,45145,Sich,frau_knips
-gdc,v186.0,45113,45250,das_mädel,45146,45156,zum Teufel,dem-Teufel
-gdc,v186.0,45113,45250,das_mädel,45171,45174,Sie,frau_knips
-gdc,v186.0,45113,45250,das_mädel,45199,45207,das Rind,der_sultan
-gdc,v186.0,45113,45250,das_mädel,45219,45222,mir,das_mädel
-gdc,v186.0,45113,45250,das_mädel,45239,45242,ich,das_mädel
-gdc,v186.0,45256,45688,frau_knips,45278,45281,ich,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45283,45286,ich,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45321,45324,ich,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45325,45329,Dich,das_mädel
-gdc,v186.0,45256,45688,frau_knips,45363,45365,Du,das_mädel
-gdc,v186.0,45256,45688,frau_knips,45391,45394,Ich,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45413,45416,ich,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45466,45471,Erden,Erden
-gdc,v186.0,45256,45688,frau_knips,45477,45483,Sultan,der_sultan
-gdc,v186.0,45256,45688,frau_knips,45489,45493,Dich,der_sultan
-gdc,v186.0,45256,45688,frau_knips,45494,45498,mein,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45526,45539,ihre Unschuld,ihre-Unschuld
-gdc,v186.0,45256,45688,frau_knips,45526,45530,ihre,das_mädel
-gdc,v186.0,45256,45688,frau_knips,45552,45557,Deine,der_sultan
-gdc,v186.0,45256,45688,frau_knips,45574,45592,ihrer Mutter Brust,ihrer-Mutter-Brust
-gdc,v186.0,45256,45688,frau_knips,45574,45579,ihrer,das_mädel
-gdc,v186.0,45256,45688,frau_knips,45595,45598,Ich,frau_knips
-gdc,v186.0,45256,45688,frau_knips,45604,45622,kein Jungferschaft,kein-Jungferschaft
-gdc,v186.0,45256,45688,frau_knips,45654,45665,Euer Gnaden,der_sultan
-gdc,v186.0,45256,45688,frau_knips,45666,45678,die Unschuld,ihre-Unschuld
-gdc,v186.0,45694,45850,der_sultan,45721,45726,Deine,frau_knips
-gdc,v186.0,45694,45850,der_sultan,45735,45739,mich,der_sultan
-gdc,v186.0,45751,45761,_stage,45751,45760,Zum Mädel,das_mädel
-gdc,v186.0,45694,45850,der_sultan,45764,45766,Du,das_mädel
-gdc,v186.0,45694,45850,der_sultan,45787,45791,Dich,das_mädel
-gdc,v186.0,45694,45850,der_sultan,45814,45818,mich,der_sultan
-gdc,v186.0,45694,45850,der_sultan,45829,45838,der Mamma,frau_knips
-gdc,v186.0,45856,45979,das_mädel,45884,45888,mich,das_mädel
-gdc,v186.0,45856,45979,das_mädel,45920,45923,Ich,das_mädel
-gdc,v186.0,45856,45979,das_mädel,45934,45953,meine Jungferschaft,kein-Jungferschaft
-gdc,v186.0,45856,45979,das_mädel,45934,45939,meine,das_mädel
-gdc,v186.0,45856,45979,das_mädel,45959,45973,meine Unschuld,ihre-Unschuld
-gdc,v186.0,45856,45979,das_mädel,45959,45964,meine,das_mädel
-gdc,v186.0,45985,46021,frau_knips,45997,46020,Du unverschämte Hure Du,das_mädel
-gdc,v186.0,46027,48341,das_mädel,46039,46058,Abscheuliche Mutter,frau_knips
-gdc,v186.0,46027,48341,das_mädel,46105,46107,Du,frau_knips
-gdc,v186.0,46027,48341,das_mädel,46110,46114,Dein,frau_knips
-gdc,v186.0,46027,48341,das_mädel,46251,46259,im Leibe,ganzem-Leib
-gdc,v186.0,46027,48341,das_mädel,46274,46278,Dich,frau_knips
-gdc,v186.0,46027,48341,das_mädel,46289,46293,mich,das_mädel
-gdc,v186.0,46027,48341,das_mädel,46329,46332,ich,das_mädel
-gdc,v186.0,46027,48341,das_mädel,46353,46378,die Genies in Deutschland,die-Genies-in-Deutschland
-gdc,v186.0,46027,48341,das_mädel,46367,46378,Deutschland,im-Land
-gdc,v186.0,46027,48341,das_mädel,46381,46384,Die,die-Genies-in-Deutschland
-gdc,v186.0,46027,48341,das_mädel,46392,46396,sich,die-Genies-in-Deutschland
-gdc,v186.0,46027,48341,das_mädel,46406,46418,den Wienland,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,46425,46427,er,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,46432,46452,komsche Erzähhlungen,komsche-Erzähhlungen
-gdc,v186.0,46027,48341,das_mädel,46470,46475,denen,komsche-Erzähhlungen
-gdc,v186.0,46027,48341,das_mädel,46539,46543,sich,die-Genies-in-Deutschland
-gdc,v186.0,46027,48341,das_mädel,46556,46561,seine,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,46648,46657,die Kerls,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,46753,46756,sie,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,46776,46779,wir,wir
-gdc,v186.0,46027,48341,das_mädel,46784,46791,Wieland,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,46796,46806,'nem Mädel,'nem-Mädel
-gdc,v186.0,46027,48341,das_mädel,46838,46842,ihre,'nem-Mädel
-gdc,v186.0,46027,48341,das_mädel,46861,46864,sie,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,46865,46868,uns,wir
-gdc,v186.0,46027,48341,das_mädel,46949,46952,ihm,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,46992,47007,den großen Mann,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,47039,47043,sich,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47072,47077,ihrer,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47092,47099,Wieland,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,47113,47119,seinen,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,47130,47147,der Menschennatur,die-Menschheit
-gdc,v186.0,46027,48341,das_mädel,47149,47153,Ihre,die-Menschheit
-gdc,v186.0,46027,48341,das_mädel,47166,47169,uns,wir
-gdc,v186.0,46027,48341,das_mädel,47283,47286,sie,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47366,47370,ihre,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47439,47442,sie,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47443,47455,des Wielands,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,47483,47486,der,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,47556,47562,Seiner,den-Wienland
-gdc,v186.0,46027,48341,das_mädel,47578,47591,die Hunde die,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47606,47610,sich,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47616,47619,sie,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,47655,47668,die Frau Mama,frau_knips
-gdc,v186.0,46027,48341,das_mädel,47677,47681,sich,frau_knips
-gdc,v186.0,46027,48341,das_mädel,47687,47691,ihre,frau_knips
-gdc,v186.0,46027,48341,das_mädel,47731,47741,einem Mann,der_sultan
-gdc,v186.0,46027,48341,das_mädel,47747,47750,sie,frau_knips
-gdc,v186.0,46027,48341,das_mädel,47860,47870,die Genies,die-Genies-in-Deutschland
-gdc,v186.0,46027,48341,das_mädel,47871,47879,im Lande,im-Land
-gdc,v186.0,46027,48341,das_mädel,47908,47918,dem Pindus,dem-Pindus
-gdc,v186.0,46027,48341,das_mädel,47981,47990,die Kerls,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,48035,48040,ihren,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,48057,48067,der Tugend,der-Tugend
-gdc,v186.0,46027,48341,das_mädel,48097,48100,ihr,der-Tugend
-gdc,v186.0,46027,48341,das_mädel,48161,48171,die Tugend,der-Tugend
-gdc,v186.0,46027,48341,das_mädel,48186,48189,uns,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,48190,48198,die Welt,die-Welt
-gdc,v186.0,46027,48341,das_mädel,48236,48246,die Tugend,der-Tugend
-gdc,v186.0,46027,48341,das_mädel,48274,48309,alle diesen bramarbasirenden Helden,die-Kerle
-gdc,v186.0,46027,48341,das_mädel,48315,48326,ihrem Leben,ihrem-Leben
-gdc,v186.0,46027,48341,das_mädel,48315,48320,ihrem,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48367,48380,das Weibsstük,das_mädel
-gdc,v186.0,48347,50030,der_sultan,48418,48422,mich,der_sultan
-gdc,v186.0,48347,50030,der_sultan,48423,48433,der Teufel,dem-Teufel
-gdc,v186.0,48347,50030,der_sultan,48439,48448,den Kerls,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48469,48472,sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48473,48483,die Tugend,der-Tugend
-gdc,v186.0,48347,50030,der_sultan,48516,48519,sie,der-Tugend
-gdc,v186.0,48347,50030,der_sultan,48562,48569,Wieland,den-Wienland
-gdc,v186.0,48347,50030,der_sultan,48615,48618,ihn,den-Wienland
-gdc,v186.0,48347,50030,der_sultan,48642,48644,er,den-Wienland
-gdc,v186.0,48347,50030,der_sultan,48645,48656,den Agathon,den-Agathon
-gdc,v186.0,48347,50030,der_sultan,48688,48694,meiner,der_sultan
-gdc,v186.0,48347,50030,der_sultan,48751,48756,ihnen,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48782,48790,Verstand,Verstand
-gdc,v186.0,48347,50030,der_sultan,48812,48815,sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48823,48832,Die Kerls,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48844,48862,ihrem ganzen Leben,ihrem-Leben
-gdc,v186.0,48347,50030,der_sultan,48844,48849,ihrem,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,48878,48886,Verstand,Verstand
-gdc,v186.0,48347,50030,der_sultan,48922,48932,Im Agathon,den-Agathon
-gdc,v186.0,48347,50030,der_sultan,48960,48981,die armseeligen Leute,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49004,49007,sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49035,49067,"sie 's all, die Kunstrichterchen",die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49070,49073,Sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49120,49124,ihre,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49157,49160,sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49161,49179,die grösten Männer,den-Wienland
-gdc,v186.0,48347,50030,der_sultan,49215,49220,ihren,den-Wienland
-gdc,v186.0,48347,50030,der_sultan,49280,49283,sie,den-Wienland
-gdc,v186.0,48347,50030,der_sultan,49308,49331,"Du schöne Gabe, o Genie","Du-schöne-Gabe,-o-Genie"
-gdc,v186.0,48347,50030,der_sultan,49344,49346,Du,"Du-schöne-Gabe,-o-Genie"
-gdc,v186.0,48347,50030,der_sultan,49363,49369,Apollo,Apollo
-gdc,v186.0,48347,50030,der_sultan,49388,49394,Deinen,Apollo
-gdc,v186.0,48347,50030,der_sultan,49402,49411,am Himmel,am-Himmel
-gdc,v186.0,48347,50030,der_sultan,49433,49442,die Kerls,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49469,49472,die,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49491,49501,den Pindus,dem-Pindus
-gdc,v186.0,48347,50030,der_sultan,49508,49511,Sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49519,49528,die Musen,die-Musen
-gdc,v186.0,48347,50030,der_sultan,49558,49565,Grazien,Grazien
-gdc,v186.0,48347,50030,der_sultan,49570,49575,ihnen,die-Musen
-gdc,v186.0,48347,50030,der_sultan,49597,49600,sie,Grazien
-gdc,v186.0,48347,50030,der_sultan,49631,49635,ihre,Grazien
-gdc,v186.0,48347,50030,der_sultan,49672,49675,sie,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49683,49692,die Hunde,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49706,49721,die ganze Zunft,die-Kerle
-gdc,v186.0,48347,50030,der_sultan,49762,49768,unsern,
-gdc,v186.0,49785,49800,_stage,49785,49799,Zur Frau Knips,frau_knips
-gdc,v186.0,48347,50030,der_sultan,49810,49813,ich,der_sultan
-gdc,v186.0,48347,50030,der_sultan,49814,49818,Euch,frau_knips
-gdc,v186.0,48347,50030,der_sultan,49830,49836,Madame,frau_knips
-gdc,v186.0,48347,50030,der_sultan,49839,49842,Ihr,frau_knips
-gdc,v186.0,48347,50030,der_sultan,49848,49852,mich,der_sultan
-gdc,v186.0,48347,50030,der_sultan,49874,49877,Ich,der_sultan
-gdc,v186.0,48347,50030,der_sultan,49896,49909,'nem Duodrame,'nem-Duodrame
-gdc,v186.0,48347,50030,der_sultan,49915,49933,"Dir, mein Liebchen",frau_knips
-gdc,v186.0,48347,50030,der_sultan,49920,49924,mein,der_sultan
-gdc,v186.0,48347,50030,der_sultan,49936,49943,Mamsell,das_mädel
-gdc,v186.0,48347,50030,der_sultan,49961,49965,mich,der_sultan
-gdc,v186.0,48347,50030,der_sultan,50011,50029,ihre Jungferschaft,kein-Jungferschaft
-gdc,v186.0,48347,50030,der_sultan,50011,50015,ihre,das_mädel
-gdc,v186.0,50036,50515,das_mädel,50085,50097,Du Hundekerl,der_sultan
-gdc,v186.0,50036,50515,das_mädel,50105,50107,Du,der_sultan
-gdc,v186.0,50036,50515,das_mädel,50139,50141,Du,der_sultan
-gdc,v186.0,50036,50515,das_mädel,50147,50150,ich,das_mädel
-gdc,v186.0,50036,50515,das_mädel,50157,50161,mich,das_mädel
-gdc,v186.0,50036,50515,das_mädel,50180,50183,Dir,der_sultan
-gdc,v186.0,50036,50515,das_mädel,50185,50194,Du Bestia,der_sultan
-gdc,v186.0,50036,50515,das_mädel,50209,50229,der werthe Frau Mama,frau_knips
-gdc,v186.0,50036,50515,das_mädel,50259,50265,meinen,das_mädel
-gdc,v186.0,50036,50515,das_mädel,50293,50296,mir,das_mädel
-gdc,v186.0,50036,50515,das_mädel,50312,50326,Ein altes Weib,frau_knips
-gdc,v186.0,50036,50515,das_mädel,50422,50425,Sie,der_sultan
-gdc,v186.0,50036,50515,das_mädel,50463,50467,Eure,der_sultan
-gdc,v186.0,50534,50549,_stage,50534,50548,zur Frau Knips,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50552,50557,Madam,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50590,50593,ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,50621,50632,der Tochter,das_mädel
-gdc,v186.0,50522,52952,der_sultan,50671,50674,Sie,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50682,50686,sich,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50696,50703,Mamsell,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50721,50724,Sie,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50734,50737,Sie,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50744,50748,Sich,frau_knips
-gdc,v186.0,50522,52952,der_sultan,50776,50779,Ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,50825,50828,ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,50851,50854,mir,der_sultan
-gdc,v186.0,50522,52952,der_sultan,50865,50876,zum Mädchen,das_mädel
-gdc,v186.0,50522,52952,der_sultan,50939,50948,die Mädel,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,50986,50989,Sie,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51008,51011,sie,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51086,51092,Kupido,Kupido
-gdc,v186.0,50522,52952,der_sultan,51123,51125,er,Kupido
-gdc,v186.0,50522,52952,der_sultan,51126,51135,'nen Kerl,'nen-Kerl
-gdc,v186.0,50522,52952,der_sultan,51207,51231,solchen unreifen Dingern,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51237,51241,Ihre,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51260,51265,einen,man
-gdc,v186.0,50522,52952,der_sultan,51277,51280,Sie,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51298,51301,sie,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51344,51347,ihr,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51453,51456,Sie,die-Mädel
-gdc,v186.0,50522,52952,der_sultan,51499,51509,einen Kerl,'nen-Kerl
-gdc,v186.0,50522,52952,der_sultan,51527,51539,ein Weibchen,ein-Weibchen
-gdc,v186.0,50522,52952,der_sultan,51587,51597,so ein Kuß,so-ein-Kuß
-gdc,v186.0,50522,52952,der_sultan,51615,51618,Der,so-ein-Kuß
-gdc,v186.0,50522,52952,der_sultan,51666,51669,man,man
-gdc,v186.0,50522,52952,der_sultan,51696,51713,Eines Weibskusses,so-ein-Kuß
-gdc,v186.0,50522,52952,der_sultan,51730,51739,Der Liebe,Der-Liebe
-gdc,v186.0,50522,52952,der_sultan,51786,51791,ihrer,ein-Weibchen
-gdc,v186.0,50522,52952,der_sultan,51799,51808,Ihr Busen,ihr-Busen
-gdc,v186.0,50522,52952,der_sultan,51799,51802,Ihr,ein-Weibchen
-gdc,v186.0,50522,52952,der_sultan,51943,51954,einem Weibe,ein-Weibchen
-gdc,v186.0,50522,52952,der_sultan,51967,51977,zum Himmel,am-Himmel
-gdc,v186.0,50522,52952,der_sultan,51980,51983,Man,man
-gdc,v186.0,50522,52952,der_sultan,51996,52004,den Leib,im-Leibe
-gdc,v186.0,50522,52952,der_sultan,52036,52040,sich,man
-gdc,v186.0,50522,52952,der_sultan,52114,52122,der Lieb,Der-Liebe
-gdc,v186.0,50522,52952,der_sultan,52329,52334,unser,
-gdc,v186.0,50522,52952,der_sultan,52360,52375,der ganzen Erde,Erden
-gdc,v186.0,50522,52952,der_sultan,52418,52429,so ein Weib,ein-Weibchen
-gdc,v186.0,50522,52952,der_sultan,52499,52502,uns,
-gdc,v186.0,50522,52952,der_sultan,52513,52522,ihr Busen,ihr-Busen
-gdc,v186.0,50522,52952,der_sultan,52513,52516,ihr,ein-Weibchen
-gdc,v186.0,50522,52952,der_sultan,52523,52527,sich,ihr-Busen
-gdc,v186.0,50522,52952,der_sultan,52538,52544,Weiber,Weiber
-gdc,v186.0,50522,52952,der_sultan,52553,52559,Weiber,Weiber
-gdc,v186.0,50522,52952,der_sultan,52578,52587,der Liebe,Der-Liebe
-gdc,v186.0,50522,52952,der_sultan,52612,52618,unsres,
-gdc,v186.0,50522,52952,der_sultan,52643,52649,Mamsel,das_mädel
-gdc,v186.0,50522,52952,der_sultan,52651,52654,Sie,das_mädel
-gdc,v186.0,50522,52952,der_sultan,52683,52686,ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,52687,52703,Ihre Frau Mutter,frau_knips
-gdc,v186.0,50522,52952,der_sultan,52687,52691,Ihre,das_mädel
-gdc,v186.0,50522,52952,der_sultan,52717,52720,ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,52721,52724,sie,das_mädel
-gdc,v186.0,50522,52952,der_sultan,52741,52750,Sie Madam,frau_knips
-gdc,v186.0,50522,52952,der_sultan,52760,52763,Sie,frau_knips
-gdc,v186.0,50522,52952,der_sultan,52764,52768,sich,frau_knips
-gdc,v186.0,50522,52952,der_sultan,52769,52780,zum Duodram,'nem-Duodrame
-gdc,v186.0,50522,52952,der_sultan,52783,52786,Ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,52802,52806,mich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,52842,52845,ich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,52849,52855,Deinem,frau_knips
-gdc,v186.0,50522,52952,der_sultan,52864,52876,Deiner Brust,ihrer-Mutter-Brust
-gdc,v186.0,50522,52952,der_sultan,52864,52870,Deiner,frau_knips
-gdc,v186.0,50522,52952,der_sultan,52893,52897,Mich,der_sultan
-gdc,v186.0,50522,52952,der_sultan,52903,52907,mein,der_sultan
-gdc,v186.0,52942,52952,_stage,52942,52948,Sultan,der_sultan
-gdc,v186.0,53002,53027,_stage,53002,53011,Das Mädel,das_mädel
-gdc,v186.0,53002,53027,_stage,53016,53026,Frau Knips,frau_knips
-gdc,v186.0,53030,53383,das_mädel,53055,53058,ich,das_mädel
-gdc,v186.0,53030,53383,das_mädel,53094,53097,Dir,frau_knips
-gdc,v186.0,53030,53383,das_mädel,53112,53121,dem Kopfe,der-Kopf
-gdc,v186.0,53030,53383,das_mädel,53131,53149,Verwünschte Mutter,frau_knips
-gdc,v186.0,53030,53383,das_mädel,53151,53178,der hundsfüt'sche Wallfisch,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,53030,53383,das_mädel,53187,53189,er,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,53030,53383,das_mädel,53190,53194,Dich,frau_knips
-gdc,v186.0,53030,53383,das_mädel,53209,53213,sich,ein-großer-mächtiger-Wallfisch
-gdc,v186.0,53030,53383,das_mädel,53233,53236,ich,das_mädel
-gdc,v186.0,53030,53383,das_mädel,53274,53299,Du verdammter Flederwisch,frau_knips
-gdc,v186.0,53030,53383,das_mädel,53327,53348,der verfluchte Sultan,der_sultan
-gdc,v186.0,53389,53515,frau_knips,53410,53416,Nikkel,das_mädel
-gdc,v186.0,53389,53515,frau_knips,53423,53426,ich,frau_knips
-gdc,v186.0,53389,53515,frau_knips,53427,53431,Dich,das_mädel
-gdc,v186.0,53389,53515,frau_knips,53451,53453,Du,das_mädel
-gdc,v186.0,53389,53515,frau_knips,53466,53475,die Ohren,Ohren
-gdc,v186.0,53389,53515,frau_knips,53484,53487,ich,frau_knips
-gdc,v186.0,53389,53515,frau_knips,53497,53506,Dich Hure,das_mädel
-gdc,v186.0,53521,53773,das_mädel,53537,53541,mich,das_mädel
-gdc,v186.0,53521,53773,das_mädel,53562,53564,Du,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53588,53590,Du,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53591,53595,Dich,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53599,53602,Hur,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53622,53625,ich,das_mädel
-gdc,v186.0,53521,53773,das_mädel,53626,53629,Dir,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53634,53643,dem Kopfe,der-Kopf
-gdc,v186.0,53521,53773,das_mädel,53661,53670,Du Bestie,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53698,53700,Du,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53723,53726,mir,das_mädel
-gdc,v186.0,53521,53773,das_mädel,53727,53737,den Sultan,der_sultan
-gdc,v186.0,53521,53773,das_mädel,53745,53755,Du Kanalje,frau_knips
-gdc,v186.0,53521,53773,das_mädel,53761,53772,keinen Mann,hanswurst
-gdc,v186.0,53779,54035,frau_knips,53792,53814,"Ein'n Mann, ein'n Mann",hanswurst
-gdc,v186.0,53779,54035,frau_knips,53825,53828,ich,frau_knips
-gdc,v186.0,53779,54035,frau_knips,53829,53832,ihn,hanswurst
-gdc,v186.0,53779,54035,frau_knips,53844,53848,sich,hanswurst
-gdc,v186.0,53779,54035,frau_knips,53849,53857,der Kerl,hanswurst
-gdc,v186.0,53779,54035,frau_knips,53892,53894,Du,das_mädel
-gdc,v186.0,53779,54035,frau_knips,53896,53899,ich,frau_knips
-gdc,v186.0,53779,54035,frau_knips,53907,53917,den Lumpen,hanswurst
-gdc,v186.0,53779,54035,frau_knips,53941,53943,Du,das_mädel
-gdc,v186.0,53779,54035,frau_knips,53944,53948,Dich,das_mädel
-gdc,v186.0,53779,54035,frau_knips,53950,53966,mein Töchterchen,das_mädel
-gdc,v186.0,53779,54035,frau_knips,53950,53954,mein,frau_knips
-gdc,v186.0,53779,54035,frau_knips,54015,54019,Dich,das_mädel
-gdc,v186.0,54041,54509,das_mädel,54058,54061,ich,das_mädel
-gdc,v186.0,54041,54509,das_mädel,54094,54119,Du Rabenas von einem Weib,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54133,54135,Du,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54163,54166,Ich,das_mädel
-gdc,v186.0,54041,54509,das_mädel,54173,54177,Dich,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54196,54204,der Saal,Ein-Vorsaal
-gdc,v186.0,54041,54509,das_mädel,54234,54236,Du,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54243,54247,Dich,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54288,54291,ich,das_mädel
-gdc,v186.0,54041,54509,das_mädel,54299,54317,abscheuliches Weib,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54347,54358,ganzem Leib,ganzem-Leib
-gdc,v186.0,54041,54509,das_mädel,54361,54378,Des Herrn Sultans,der_sultan
-gdc,v186.0,54041,54509,das_mädel,54398,54402,Dich,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54407,54413,meinen,das_mädel
-gdc,v186.0,54041,54509,das_mädel,54448,54450,Du,frau_knips
-gdc,v186.0,54041,54509,das_mädel,54451,54460,die Nacht,die-Nacht
-gdc,v186.0,54041,54509,das_mädel,54461,54471,zum Sultan,der_sultan
-gdc,v186.0,54041,54509,das_mädel,54478,54480,Er,der_sultan
-gdc,v186.0,54041,54509,das_mädel,54481,54485,Dich,frau_knips
-gdc,v186.0,54515,54774,frau_knips,54528,54551,Abscheuliches Weibsstük,das_mädel
-gdc,v186.0,54515,54774,frau_knips,54573,54579,Dein'n,das_mädel
-gdc,v186.0,54515,54774,frau_knips,54597,54600,ich,frau_knips
-gdc,v186.0,54515,54774,frau_knips,54620,54634,s vierte Gebot,s-vierte-Gebot
-gdc,v186.0,54515,54774,frau_knips,54636,54651,Du saubres Haar,das_mädel
-gdc,v186.0,54515,54774,frau_knips,54685,54689,Dich,das_mädel
-gdc,v186.0,54515,54774,frau_knips,54690,54691,s,s-vierte-Gebot
-gdc,v186.0,54515,54774,frau_knips,54706,54718,Deinen Vater,hanswurst
-gdc,v186.0,54515,54774,frau_knips,54706,54712,Deinen,
-gdc,v186.0,54515,54774,frau_knips,54747,54748,s,s-vierte-Gebot
-gdc,v186.0,54780,54992,das_mädel,54815,54820,Madam,frau_knips
-gdc,v186.0,54780,54992,das_mädel,54848,54851,ich,das_mädel
-gdc,v186.0,54780,54992,das_mädel,54884,54886,Du,frau_knips
-gdc,v186.0,54780,54992,das_mädel,54890,54899,s Sultans,der_sultan
-gdc,v186.0,54780,54992,das_mädel,54907,54911,Dich,frau_knips
-gdc,v186.0,54780,54992,das_mädel,54919,54923,mein,das_mädel
-gdc,v186.0,54780,54992,das_mädel,54926,54937,diese Nacht,die-Nacht
-gdc,v186.0,54998,55135,frau_knips,55034,55047,Du Satanskind,das_mädel
-gdc,v186.0,54998,55135,frau_knips,55056,55062,meinen,frau_knips
-gdc,v186.0,54998,55135,frau_knips,55092,55095,ich,frau_knips
-gdc,v186.0,54998,55135,frau_knips,55096,55100,Dich,das_mädel
-gdc,v186.0,55110,55135,_stage,55110,55113,Sie,frau_knips
-gdc,v186.0,55110,55135,_stage,55122,55125,sie,das_mädel
-gdc,v186.0,55186,55224,_stage,55186,55192,Vorige,
-gdc,v186.0,55186,55224,_stage,55214,55223,Hanswurst,hanswurst
-gdc,v186.0,55227,56408,hanswurst,55301,55309,die Leut,die-Leut
-gdc,v186.0,55227,56408,hanswurst,55345,55348,ihr,die-Leut
-gdc,v186.0,55227,56408,hanswurst,55382,55385,ich,hanswurst
-gdc,v186.0,55227,56408,hanswurst,55387,55393,Himmel,am-Himmel
-gdc,v186.0,55227,56408,hanswurst,55402,55406,mich,hanswurst
-gdc,v186.0,55227,56408,hanswurst,55430,55438,der Erde,Erden
-gdc,v186.0,55227,56408,hanswurst,55510,55514,Sich,
-gdc,v186.0,55227,56408,hanswurst,55559,55565,meinem,hanswurst
-gdc,v186.0,55227,56408,hanswurst,55593,55595,es,
-gdc,v186.0,55227,56408,hanswurst,55605,55626,Deutsche Kunstrichter,die-Kerle
-gdc,v186.0,55227,56408,hanswurst,55646,55649,sie,
-gdc,v186.0,55227,56408,hanswurst,55736,55747,Rezensionen,Rezensionen
-gdc,v186.0,55227,56408,hanswurst,55759,55762,Die,Rezensionen
-gdc,v186.0,55227,56408,hanswurst,55796,55799,sie,Rezensionen
-gdc,v186.0,55227,56408,hanswurst,55801,55814,Ein Weibsbild,ein-Weibchen
-gdc,v186.0,55227,56408,hanswurst,55828,55831,das,ein-Weibchen
-gdc,v186.0,55227,56408,hanswurst,55992,56003,Deutschland,im-Land
-gdc,v186.0,55227,56408,hanswurst,56013,56022,mein Treu,mein-Treu
-gdc,v186.0,55227,56408,hanswurst,56013,56017,mein,hanswurst
-gdc,v186.0,55227,56408,hanswurst,56062,56065,sie,mein-Treu
-gdc,v186.0,55227,56408,hanswurst,56133,56136,sie,mein-Treu
-gdc,v186.0,55227,56408,hanswurst,56154,56164,Zum Teufel,dem-Teufel
-gdc,v186.0,55227,56408,hanswurst,56166,56195,verfluchtes Kunstrichtergepäk,die-Kerle
-gdc,v186.0,55227,56408,hanswurst,56218,56223,Eurem,die-Kerle
-gdc,v186.0,55227,56408,hanswurst,56236,56239,Ihr,die-Kerle
-gdc,v186.0,55227,56408,hanswurst,56353,56357,Euch,die-Kerle
-gdc,v186.0,55227,56408,hanswurst,56383,56387,Euch,die-Kerle
-gdc,v186.0,56426,56479,_stage,56444,56449,ihren,frau_knips
-gdc,v186.0,56414,56795,frau_knips,56517,56538,Du verstümmelter Hund,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56545,56547,Du,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56579,56590,Deinetwegen,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56601,56621,verschnitt'ne Bestia,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56654,56657,mir,frau_knips
-gdc,v186.0,56414,56795,frau_knips,56668,56671,Ich,frau_knips
-gdc,v186.0,56414,56795,frau_knips,56678,56693,die infame Hure,das_mädel
-gdc,v186.0,56414,56795,frau_knips,56704,56712,zur Welt,die-Welt
-gdc,v186.0,56414,56795,frau_knips,56729,56742,Du Sapperment,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56753,56755,Du,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56761,56767,Lümmel,hanswurst
-gdc,v186.0,56414,56795,frau_knips,56778,56782,Dich,hanswurst
-gdc,v186.0,56801,56927,hanswurst,56828,56837,mein Weib,frau_knips
-gdc,v186.0,56801,56927,hanswurst,56828,56832,mein,hanswurst
-gdc,v186.0,56801,56927,hanswurst,56850,56854,Dich,frau_knips
-gdc,v186.0,56801,56927,hanswurst,56878,56880,Du,frau_knips
-gdc,v186.0,56801,56927,hanswurst,56884,56901,Deinem eigen Blut,mein-liebes-Blut
-gdc,v186.0,56801,56927,hanswurst,56884,56890,Deinem,frau_knips
-gdc,v186.0,56801,56927,hanswurst,56903,56926,Vermaledeite Höllenbrut,frau_knips
-gdc,v186.0,56933,57289,das_mädel,56950,56955,Vater,hanswurst
-gdc,v186.0,56933,57289,das_mädel,56957,56960,Ihr,hanswurst
-gdc,v186.0,56933,57289,das_mädel,56966,56988,ein abscheuliches Weib,frau_knips
-gdc,v186.0,56933,57289,das_mädel,57002,57005,sie,frau_knips
-gdc,v186.0,56933,57289,das_mädel,57011,57021,dem Sultan,der_sultan
-gdc,v186.0,56933,57289,das_mädel,57022,57032,ihren Leib,ganzem-Leib
-gdc,v186.0,56933,57289,das_mädel,57022,57027,ihren,frau_knips
-gdc,v186.0,56933,57289,das_mädel,57038,57049,diese Nacht,die-Nacht
-gdc,v186.0,56933,57289,das_mädel,57063,57066,Ihr,hanswurst
-gdc,v186.0,56933,57289,das_mädel,57073,57083,der Sultan,der_sultan
-gdc,v186.0,56933,57289,das_mädel,57091,57094,mir,das_mädel
-gdc,v186.0,56933,57289,das_mädel,57130,57138,das Weib,frau_knips
-gdc,v186.0,56933,57289,das_mädel,57166,57168,er,der_sultan
-gdc,v186.0,56933,57289,das_mädel,57212,57214,er,der_sultan
-gdc,v186.0,56933,57289,das_mädel,57219,57222,ihr,frau_knips
-gdc,v186.0,56933,57289,das_mädel,57234,57237,ich,das_mädel
-gdc,v186.0,56933,57289,das_mädel,57263,57266,sie,frau_knips
-gdc,v186.0,56933,57289,das_mädel,57267,57271,mich,das_mädel
-gdc,v186.0,56933,57289,das_mädel,57275,57280,meine,das_mädel
-gdc,v186.0,57295,57396,hanswurst,57319,57331,mein Tochter,das_mädel
-gdc,v186.0,57295,57396,hanswurst,57319,57323,mein,hanswurst
-gdc,v186.0,57295,57396,hanswurst,57333,57343,Du Hure Du,frau_knips
-gdc,v186.0,57295,57396,hanswurst,57351,57353,Du,frau_knips
-gdc,v186.0,57295,57396,hanswurst,57376,57379,ich,hanswurst
-gdc,v186.0,57295,57396,hanswurst,57386,57390,Dein,frau_knips
-gdc,v186.0,57402,57719,frau_knips,57455,57461,Bestie,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57469,57473,mich,frau_knips
-gdc,v186.0,57402,57719,frau_knips,57502,57504,Du,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57505,57509,Dich,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57542,57544,Du,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57546,57549,ich,frau_knips
-gdc,v186.0,57402,57719,frau_knips,57555,57558,Dir,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57576,57594,Verstümmelter Hund,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57605,57607,Du,hanswurst
-gdc,v186.0,57402,57719,frau_knips,57632,57635,ich,frau_knips
-gdc,v186.0,57402,57719,frau_knips,57662,57665,Dir,hanswurst
-gdc,v186.0,57700,57719,_stage,57711,57714,ihn,hanswurst
-gdc,v186.0,57724,58303,hanswurst,57764,57767,Sie,frau_knips
-gdc,v186.0,57724,58303,hanswurst,57775,57779,mich,hanswurst
-gdc,v186.0,57724,58303,hanswurst,57786,57791,Liebe,Der-Liebe
-gdc,v186.0,57724,58303,hanswurst,57793,57798,Liebe,Der-Liebe
-gdc,v186.0,57724,58303,hanswurst,57801,57831,Du einzge Quelle der Seligkeit,Der-Liebe
-gdc,v186.0,57724,58303,hanswurst,57855,57858,uns,
-gdc,v186.0,57724,58303,hanswurst,57872,57875,uns,
-gdc,v186.0,57724,58303,hanswurst,57883,57893,zum Himmel,am-Himmel
-gdc,v186.0,57724,58303,hanswurst,57916,57919,mir,hanswurst
-gdc,v186.0,57724,58303,hanswurst,57970,57974,Dich,frau_knips
-gdc,v186.0,57724,58303,hanswurst,58017,58021,Dich,frau_knips
-gdc,v186.0,57724,58303,hanswurst,58059,58063,Dich,frau_knips
-gdc,v186.0,57724,58303,hanswurst,58064,58069,meine,hanswurst
-gdc,v186.0,57724,58303,hanswurst,58090,58092,Du,frau_knips
-gdc,v186.0,57724,58303,hanswurst,58099,58103,mein,hanswurst
-gdc,v186.0,57724,58303,hanswurst,58137,58141,Dich,frau_knips
-gdc,v186.0,57724,58303,hanswurst,58148,58151,ich,hanswurst
-gdc,v186.0,57724,58303,hanswurst,58236,58262,liebe Quelle der Seligkeit,Der-Liebe
-gdc,v186.0,57724,58303,hanswurst,58276,58278,'u,Der-Liebe
-gdc,v186.0,57724,58303,hanswurst,58279,58282,mir,hanswurst
-gdc,v186.0,58356,58374,_stage,58356,58362,Sultan,der_sultan
-gdc,v186.0,58356,58374,_stage,58367,58373,Vorige,
-gdc,v186.0,58377,58633,der_sultan,58425,58430,meine,der_sultan
-gdc,v186.0,58377,58633,der_sultan,58456,58459,ich,der_sultan
-gdc,v186.0,58377,58633,der_sultan,58470,58473,mir,der_sultan
-gdc,v186.0,58377,58633,der_sultan,58475,58478,ich,der_sultan
-gdc,v186.0,58377,58633,der_sultan,58494,58503,Das Mädel,das_mädel
-gdc,v186.0,58377,58633,der_sultan,58517,58525,das Weib,frau_knips
-gdc,v186.0,58586,58600,_stage,58586,58599,Zum Hanswurst,hanswurst
-gdc,v186.0,58377,58633,der_sultan,58609,58614,Sklav,hanswurst
-gdc,v186.0,58638,58827,hanswurst,58650,58660,Die Weiber,
-gdc,v186.0,58638,58827,hanswurst,58668,58672,sich,
-gdc,v186.0,58638,58827,hanswurst,58685,58689,sich,
-gdc,v186.0,58638,58827,hanswurst,58690,58699,s Gesicht,ein-hübsch-Gesicht
-gdc,v186.0,58638,58827,hanswurst,58718,58722,jede,
-gdc,v186.0,58638,58827,hanswurst,58723,58728,Deine,der_sultan
-gdc,v186.0,58638,58827,hanswurst,58746,58749,Ich,hanswurst
-gdc,v186.0,58638,58827,hanswurst,58767,58770,sie,
-gdc,v186.0,58638,58827,hanswurst,58782,58786,mich,hanswurst
-gdc,v186.0,58638,58827,hanswurst,58801,58804,ich,hanswurst
-gdc,v186.0,58834,58953,frau_knips,58847,58849,Er,hanswurst
-gdc,v186.0,58834,58953,frau_knips,58855,58863,der Bube,hanswurst
-gdc,v186.0,58834,58953,frau_knips,58865,58877,Gnädger Herr,der_sultan
-gdc,v186.0,58834,58953,frau_knips,58897,58899,er,hanswurst
-gdc,v186.0,58834,58953,frau_knips,58919,58922,ich,frau_knips
-gdc,v186.0,58834,58953,frau_knips,58923,58932,die Nacht,die-Nacht
-gdc,v186.0,58834,58953,frau_knips,58942,58945,Dir,der_sultan
-gdc,v186.0,58959,59418,der_sultan,58983,58987,Dein,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59001,59005,Fraz,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59006,59008,Du,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59042,59053,meinem Land,im-Land
-gdc,v186.0,58959,59418,der_sultan,59042,59048,meinem,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59090,59093,ich,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59094,59097,Dir,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59110,59113,ich,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59120,59132,solche Hunde,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59137,59149,meinem Lande,im-Land
-gdc,v186.0,58959,59418,der_sultan,59137,59143,meinem,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59159,59168,Ihr Beide,
-gdc,v186.0,58959,59418,der_sultan,59194,59204,Euren Leib,ganzem-Leib
-gdc,v186.0,58959,59418,der_sultan,59194,59199,Euren,frau_knips
-gdc,v186.0,58959,59418,der_sultan,59209,59221,diesem Blute,mein-liebes-Blut
-gdc,v186.0,58959,59418,der_sultan,59228,59231,Das,mein-liebes-Blut
-gdc,v186.0,58959,59418,der_sultan,59232,59235,mir,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59257,59265,im Leibe,im-Leibe
-gdc,v186.0,58959,59418,der_sultan,59287,59289,Du,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59301,59305,Fraz,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59320,59323,ich,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59325,59328,sie,frau_knips
-gdc,v186.0,58959,59418,der_sultan,59338,59341,Mir,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59350,59353,Dir,hanswurst
-gdc,v186.0,58959,59418,der_sultan,59370,59373,sie,frau_knips
-gdc,v186.0,58959,59418,der_sultan,59383,59386,mir,der_sultan
-gdc,v186.0,58959,59418,der_sultan,59396,59406,Dein Mädel,das_mädel
-gdc,v186.0,58959,59418,der_sultan,59396,59400,Dein,hanswurst
-gdc,v186.0,59435,59475,_stage,59439,59443,sich,das_mädel
-gdc,v186.0,59435,59475,_stage,59448,59453,ihrer,das_mädel
-gdc,v186.0,59424,59583,das_mädel,59479,59482,Ich,das_mädel
-gdc,v186.0,59424,59583,das_mädel,59524,59527,mir,das_mädel
-gdc,v186.0,59424,59583,das_mädel,59569,59574,meine,das_mädel
-gdc,v186.0,59597,59613,_stage,59597,59602,beide,
-gdc,v186.0,59589,59722,der_sultan,59634,59636,Du,hanswurst
-gdc,v186.0,59589,59722,der_sultan,59643,59647,Dich,hanswurst
-gdc,v186.0,59589,59722,der_sultan,59669,59671,Du,hanswurst
-gdc,v186.0,59589,59722,der_sultan,59685,59691,Sklave,hanswurst
-gdc,v186.0,59589,59722,der_sultan,59700,59704,mich,der_sultan
-gdc,v186.0,59709,59722,_stage,59709,59718,Alle drei,
-gdc,v186.0,59775,60034,hanswurst,59818,59827,die Genie,
-gdc,v186.0,59775,60034,hanswurst,59859,59862,sie,
-gdc,v186.0,59775,60034,hanswurst,59875,59885,die Weiber,frau_knips
-gdc,v186.0,59775,60034,hanswurst,59897,59908,die Töchter,das_mädel
-gdc,v186.0,59775,60034,hanswurst,59984,59993,Die Hunde,
-gdc,v186.0,59775,60034,hanswurst,60010,60013,sie,
-gdc,v186.0,60139,65340,hanswurst,60410,60413,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60445,60449,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60493,60496,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60536,60540,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60672,60675,mir,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60694,60697,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60745,60749,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60765,60769,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60791,60794,mir,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60813,60816,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60846,60849,Ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60873,60877,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60948,60954,meiner,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60975,60979,mein,hanswurst
-gdc,v186.0,60139,65340,hanswurst,60998,61002,Mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,61098,61102,Mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,61324,61328,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,61364,61368,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,61689,61692,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,61709,61712,mir,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63087,63090,mir,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63120,63124,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63158,63161,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63163,63167,Mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63215,63219,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63244,63247,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63268,63271,Ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63311,63314,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63315,63319,mein,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63356,63359,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63398,63401,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63424,63427,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63470,63473,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63737,63743,meinem,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63919,63922,mir,hanswurst
-gdc,v186.0,60139,65340,hanswurst,63976,63980,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,64097,64101,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,64188,64192,mein,hanswurst
-gdc,v186.0,60139,65340,hanswurst,64267,64270,Ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,64768,64771,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,64804,64807,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,65106,65112,meiner,hanswurst
-gdc,v186.0,60139,65340,hanswurst,65120,65123,Ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,65130,65134,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,65283,65286,ich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,65291,65295,mich,hanswurst
-gdc,v186.0,60139,65340,hanswurst,65312,65315,mir,hanswurst
-gdc,v186.0,65346,65443,die_dame,65386,65390,mein,die_dame
-gdc,v186.0,65346,65443,die_dame,65397,65400,ich,die_dame
-gdc,v186.0,65449,65950,hanswurst,65508,65512,mein,hanswurst
-gdc,v186.0,65449,65950,hanswurst,65791,65794,ich,hanswurst
-gdc,v186.0,65449,65950,hanswurst,65842,65845,ich,hanswurst
-gdc,v186.0,65449,65950,hanswurst,65919,65922,ich,hanswurst
-gdc,v186.0,65449,65950,hanswurst,65932,65935,ich,hanswurst
-gdc,v186.0,65449,65950,hanswurst,65936,65940,mich,hanswurst
-gdc,v186.0,65956,66379,die_dame,66114,66118,mein,die_dame
-gdc,v186.0,65956,66379,die_dame,66125,66129,mein,die_dame
-gdc,v186.0,65956,66379,die_dame,66153,66159,meinen,die_dame
-gdc,v186.0,65956,66379,die_dame,66195,66198,ich,die_dame
-gdc,v186.0,65956,66379,die_dame,66248,66252,mein,die_dame
-gdc,v186.0,66385,66622,hanswurst,66448,66453,meine,hanswurst
-gdc,v186.0,66385,66622,hanswurst,66521,66524,ich,hanswurst
-gdc,v186.0,66385,66622,hanswurst,66611,66614,ich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,66972,66975,ich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67087,67092,meine,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67116,67120,mich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67170,67174,mich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67204,67207,mir,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67247,67253,meinen,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67282,67285,ich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67338,67341,Mir,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67389,67392,ich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67442,67446,mich,hanswurst
-gdc,v186.0,66927,67539,hanswurst,67471,67474,ich,hanswurst
-gdc,v186.0,67742,67842,die_dame,67766,67769,ich,die_dame
-gdc,v186.0,67742,67842,die_dame,67819,67822,ich,die_dame
-gdc,v186.0,67980,68073,die_dame,68006,68009,ich,die_dame
-gdc,v186.0,68079,68444,ein_alt_mütterchen,68340,68344,mich,ein_alt_mütterchen
-gdc,v186.0,68450,68633,die_dame,68494,68497,ich,die_dame
-gdc,v186.0,68450,68633,die_dame,68564,68567,ich,die_dame
-gdc,v186.0,69256,69309,ein_alt_mütterchen,69288,69291,ich,ein_alt_mütterchen
-gdc,v186.0,69314,69779,hanswurst,69354,69357,ich,hanswurst
-gdc,v186.0,69314,69779,hanswurst,69411,69414,ich,hanswurst
-gdc,v186.0,69314,69779,hanswurst,69415,69419,mein,hanswurst
-gdc,v186.0,69314,69779,hanswurst,69705,69708,Ich,hanswurst
-gdc,v186.0,69314,69779,hanswurst,69723,69726,ich,hanswurst
-gdc,v186.0,69314,69779,hanswurst,69741,69744,Mir,hanswurst
-gdc,v186.0,69314,69779,hanswurst,69760,69763,ich,hanswurst
-gdc,v186.0,69786,70742,die_dame,69884,69887,mir,die_dame
-gdc,v186.0,69786,70742,die_dame,69922,69925,mir,die_dame
-gdc,v186.0,70748,71481,hanswurst,70842,70845,ich,hanswurst
-gdc,v186.0,71487,71898,die_dame,71795,71800,meine,die_dame
-gdc,v186.0,71487,71898,die_dame,71853,71856,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,72003,72007,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72032,72036,mich,die_dame
-gdc,v186.0,71992,76682,die_dame,72091,72094,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,72169,72172,mir,die_dame
-gdc,v186.0,71992,76682,die_dame,72416,72420,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72462,72466,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72562,72566,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72608,72612,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72759,72762,Ich,die_dame
-gdc,v186.0,71992,76682,die_dame,72776,72780,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72856,72860,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,72880,72884,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,73022,73026,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,73194,73197,Ich,die_dame
-gdc,v186.0,71992,76682,die_dame,73217,73221,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,73331,73335,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,73346,73350,mich,die_dame
-gdc,v186.0,71992,76682,die_dame,73404,73408,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,73499,73503,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,73514,73517,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,73532,73535,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,73662,73665,mir,die_dame
-gdc,v186.0,71992,76682,die_dame,73732,73735,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,73773,73776,mir,die_dame
-gdc,v186.0,71992,76682,die_dame,73793,73796,mir,die_dame
-gdc,v186.0,71992,76682,die_dame,73844,73848,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,74197,74200,Mir,die_dame
-gdc,v186.0,71992,76682,die_dame,74237,74240,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,74293,74297,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,74383,74386,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,74416,74420,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,74511,74515,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,74565,74569,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,74859,74863,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,74949,74953,mich,die_dame
-gdc,v186.0,71992,76682,die_dame,75960,75964,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,76058,76061,ich,die_dame
-gdc,v186.0,71992,76682,die_dame,76092,76096,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,76112,76116,Mein,die_dame
-gdc,v186.0,71992,76682,die_dame,76156,76162,meiner,die_dame
-gdc,v186.0,71992,76682,die_dame,76279,76283,mein,die_dame
-gdc,v186.0,71992,76682,die_dame,76388,76393,meine,die_dame
-gdc,v186.0,71992,76682,die_dame,76482,76488,meinen,die_dame
-gdc,v186.0,76688,77860,hanswurst,76731,76734,ich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,76735,76739,mich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,76777,76781,mich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,76883,76886,mir,hanswurst
-gdc,v186.0,76688,77860,hanswurst,76889,76892,Ich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,76973,76976,mir,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77045,77051,meinem,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77094,77097,mir,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77099,77102,ich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77184,77187,Ich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77246,77249,ich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77260,77264,mich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77307,77310,Ich,hanswurst
-gdc,v186.0,76688,77860,hanswurst,77856,77859,ich,hanswurst
-gdc,v186.0,77866,78006,die_dame,77938,77944,meinen,die_dame
-gdc,v186.0,78011,78135,hanswurst,78031,78034,ich,hanswurst
-gdc,v186.0,78011,78135,hanswurst,78069,78073,mich,hanswurst
-gdc,v186.0,78188,78274,hanswurst,78225,78228,mir,hanswurst
-gdc,v186.0,78281,83929,die_dame,78301,78305,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,78449,78452,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,78499,78502,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,78534,78538,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,78661,78665,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,78677,78680,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,78712,78717,meine,die_dame
-gdc,v186.0,78281,83929,die_dame,78746,78749,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,79126,79129,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,79142,79146,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,79229,79233,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,79403,79407,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,79421,79425,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,79450,79453,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,79488,79491,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,79498,79502,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,79521,79525,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,79790,79793,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,79865,79868,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,79871,79874,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,79916,79919,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,79966,79969,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,80119,80123,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,80124,80130,meiner,die_dame
-gdc,v186.0,78281,83929,die_dame,80192,80196,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,80234,80238,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,80278,80282,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,80313,80316,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,80317,80323,meiner,die_dame
-gdc,v186.0,78281,83929,die_dame,80354,80358,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,80383,80386,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,80430,80433,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,80444,80450,meinen,die_dame
-gdc,v186.0,78281,83929,die_dame,80495,80498,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,80515,80519,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,80543,80547,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,80781,80784,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,80815,80820,meine,die_dame
-gdc,v186.0,78281,83929,die_dame,80910,80913,Mir,die_dame
-gdc,v186.0,78281,83929,die_dame,80931,80934,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,80975,80979,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,81070,81073,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,81109,81112,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,81146,81149,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,81165,81169,Mein,die_dame
-gdc,v186.0,78281,83929,die_dame,81201,81204,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,81225,81229,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81259,81262,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,81309,81312,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,81317,81321,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81417,81420,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,81451,81455,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81468,81472,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81487,81490,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,81496,81502,meiner,die_dame
-gdc,v186.0,78281,83929,die_dame,81599,81603,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81744,81748,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81805,81809,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,81832,81836,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81871,81875,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,81952,81955,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,81973,81979,meiner,die_dame
-gdc,v186.0,78281,83929,die_dame,82024,82028,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,82049,82053,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,82134,82137,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,82142,82146,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,82182,82185,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,82212,82215,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,82302,82305,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,82376,82379,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,82829,82832,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,82841,82844,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,82870,82873,Ich,die_dame
-gdc,v186.0,78281,83929,die_dame,82880,82883,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,82919,82922,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,83038,83041,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,83048,83052,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,83084,83088,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,83111,83114,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,83377,83380,mir,die_dame
-gdc,v186.0,78281,83929,die_dame,83406,83412,meinem,die_dame
-gdc,v186.0,78281,83929,die_dame,83490,83496,meinen,die_dame
-gdc,v186.0,78281,83929,die_dame,83569,83573,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,83609,83613,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,83689,83692,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,83737,83741,mein,die_dame
-gdc,v186.0,78281,83929,die_dame,83781,83784,ich,die_dame
-gdc,v186.0,78281,83929,die_dame,83889,83893,mich,die_dame
-gdc,v186.0,78281,83929,die_dame,83907,83911,mein,die_dame
-gdc,v186.0,83936,84292,hanswurst,83966,83969,Ich,hanswurst
-gdc,v186.0,83936,84292,hanswurst,84182,84185,mir,hanswurst
-gdc,v186.0,83936,84292,hanswurst,84200,84204,mein,hanswurst
-gdc,v186.0,84399,84534,ein_alt_mütterchen,84427,84430,ich,ein_alt_mütterchen
-gdc,v186.0,84540,84777,hanswurst,84617,84620,Ich,hanswurst
-gdc,v186.0,84540,84777,hanswurst,84629,84632,ich,hanswurst
-gdc,v186.0,84887,85064,ein_alt_mütterchen,85019,85022,Ich,ein_alt_mütterchen
-gdc,v186.0,85414,85733,hanswurst,85426,85429,Ich,hanswurst
-gdc,v186.0,85414,85733,hanswurst,85435,85439,mich,hanswurst
-gdc,v186.0,85414,85733,hanswurst,85476,85480,mich,hanswurst
-gdc,v186.0,85937,86129,der_schwarzrok,85954,85958,Mein,der_schwarzrok
-gdc,v186.0,85937,86129,der_schwarzrok,86016,86020,mein,der_schwarzrok
-gdc,v186.0,85937,86129,der_schwarzrok,86102,86105,ich,der_schwarzrok
-gdc,v186.0,86135,86285,hanswurst,86188,86192,mein,hanswurst
-gdc,v186.0,86291,87324,der_schwarzrok,86383,86386,ich,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86435,86439,mein,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86494,86497,mir,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86551,86555,mein,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86814,86817,Ich,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86860,86866,meiner,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86889,86895,meinen,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,86954,86957,Ich,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,87110,87113,ich,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,87225,87228,ich,der_schwarzrok
-gdc,v186.0,86291,87324,der_schwarzrok,87303,87306,ich,der_schwarzrok
-gdc,v186.0,87330,87683,hanswurst,87351,87354,ich,hanswurst
-gdc,v186.0,87330,87683,hanswurst,87371,87375,mein,hanswurst
-gdc,v186.0,87330,87683,hanswurst,87669,87673,mich,hanswurst
-gdc,v186.0,87689,88197,der_schwarzrok,87706,87709,Ich,der_schwarzrok
-gdc,v186.0,87689,88197,der_schwarzrok,87716,87720,mich,der_schwarzrok
-gdc,v186.0,87689,88197,der_schwarzrok,87758,87761,ich,der_schwarzrok
-gdc,v186.0,87689,88197,der_schwarzrok,88032,88035,mir,der_schwarzrok
-gdc,v186.0,88202,88438,der_schwarzrok,88226,88230,mein,der_schwarzrok
-gdc,v186.0,88202,88438,der_schwarzrok,88253,88256,Ich,der_schwarzrok
-gdc,v186.0,88202,88438,der_schwarzrok,88293,88296,mir,der_schwarzrok
-gdc,v186.0,88202,88438,der_schwarzrok,88319,88322,mir,der_schwarzrok
-gdc,v186.0,88202,88438,der_schwarzrok,88363,88366,ich,der_schwarzrok
-gdc,v186.0,88202,88438,der_schwarzrok,88424,88428,mich,der_schwarzrok
-gdc,v186.0,88444,88469,hanswurst,88459,88463,mich,hanswurst
-gdc,v186.0,88474,88525,die_dame,88491,88494,mir,die_dame
-gdc,v186.0,88531,88616,ein_alt_mütterchen,88555,88558,ich,ein_alt_mütterchen
-gdc,v186.0,88531,88616,ein_alt_mütterchen,88579,88582,Ich,ein_alt_mütterchen
-gdc,v186.0,88531,88616,ein_alt_mütterchen,88604,88610,meiner,ein_alt_mütterchen
-gdc,v186.0,88622,88680,der_schwarzrok,88648,88652,mein,der_schwarzrok
-gdc,v186.0,88685,88739,hanswurst,88703,88706,ich,hanswurst
-gdc,v186.0,88685,88739,hanswurst,88715,88718,ich,hanswurst
-gdc,v186.0,88744,88810,die_dame,88754,88758,Mein,die_dame
-gdc,v186.0,88885,89172,der_soufleur,89038,89041,Ich,der_soufleur
-gdc,v186.0,88885,89172,der_soufleur,89054,89060,meinen,der_soufleur
+gdc-coref,v186.0,2689,5677,hanswurst,2738,2741,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,2760,2764,mein,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3015,3018,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3032,3038,meiner,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3172,3175,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3212,3216,mich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3231,3234,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3288,3292,mich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3372,3375,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3410,3414,mich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3496,3502,meinem,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3520,3523,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3707,3712,meine,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,3956,3959,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4020,4025,meine,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4121,4125,Mein,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4395,4398,mir,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4475,4479,mich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4518,4522,mich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4533,4537,mein,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4648,4651,mir,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4684,4687,ich,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,4831,4835,mein,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,5198,5204,meiner,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,5373,5377,mein,hanswurst
+gdc-coref,v186.0,2689,5677,hanswurst,5508,5511,ich,hanswurst
+gdc-coref,v186.0,5760,6085,stoffel_knips,5807,5811,mich,stoffel_knips
+gdc-coref,v186.0,6091,6592,hanswurst,6246,6250,mein,hanswurst
+gdc-coref,v186.0,6091,6592,hanswurst,6298,6302,mich,hanswurst
+gdc-coref,v186.0,6091,6592,hanswurst,6413,6416,ich,hanswurst
+gdc-coref,v186.0,6598,7503,stoffel_knips,6688,6691,Ich,stoffel_knips
+gdc-coref,v186.0,7509,9153,hanswurst,9066,9070,mein,hanswurst
+gdc-coref,v186.0,9302,10835,hanswurst,9360,9363,ich,hanswurst
+gdc-coref,v186.0,9302,10835,hanswurst,9423,9428,Meine,hanswurst
+gdc-coref,v186.0,10841,11054,stoffel_knips,10930,10933,mir,stoffel_knips
+gdc-coref,v186.0,11060,11800,hanswurst,11111,11115,mich,hanswurst
+gdc-coref,v186.0,11060,11800,hanswurst,11142,11148,meinen,hanswurst
+gdc-coref,v186.0,11060,11800,hanswurst,11405,11409,mein,hanswurst
+gdc-coref,v186.0,11060,11800,hanswurst,11577,11580,ich,hanswurst
+gdc-coref,v186.0,11060,11800,hanswurst,11766,11769,mir,hanswurst
+gdc-coref,v186.0,11806,12004,stoffel_knips,11845,11849,mein,stoffel_knips
+gdc-coref,v186.0,11806,12004,stoffel_knips,11967,11970,ich,stoffel_knips
+gdc-coref,v186.0,12010,12110,hanswurst,12063,12067,mich,hanswurst
+gdc-coref,v186.0,12255,12917,frau_knips,12278,12281,ich,frau_knips
+gdc-coref,v186.0,12255,12917,frau_knips,12309,12313,Mein,frau_knips
+gdc-coref,v186.0,12255,12917,frau_knips,12364,12368,mein,frau_knips
+gdc-coref,v186.0,12255,12917,frau_knips,12517,12520,ich,frau_knips
+gdc-coref,v186.0,12255,12917,frau_knips,12538,12542,mich,frau_knips
+gdc-coref,v186.0,12255,12917,frau_knips,12672,12675,mir,frau_knips
+gdc-coref,v186.0,13002,13071,stoffel_knips,13028,13032,mein,stoffel_knips
+gdc-coref,v186.0,13002,13071,stoffel_knips,13061,13065,mein,stoffel_knips
+gdc-coref,v186.0,13139,13481,stoffel_knips,13239,13242,ich,stoffel_knips
+gdc-coref,v186.0,13487,13691,frau_knips,13509,13512,mir,frau_knips
+gdc-coref,v186.0,13487,13691,frau_knips,13674,13678,mich,frau_knips
+gdc-coref,v186.0,13697,13973,stoffel_knips,13847,13850,Ich,stoffel_knips
+gdc-coref,v186.0,13979,14186,frau_knips,14003,14006,ich,frau_knips
+gdc-coref,v186.0,13979,14186,frau_knips,14120,14123,ich,frau_knips
+gdc-coref,v186.0,14192,14417,stoffel_knips,14226,14230,mein,stoffel_knips
+gdc-coref,v186.0,14423,14589,frau_knips,14473,14476,ich,frau_knips
+gdc-coref,v186.0,14423,14589,frau_knips,14555,14558,mir,frau_knips
+gdc-coref,v186.0,14423,14589,frau_knips,14573,14576,ich,frau_knips
+gdc-coref,v186.0,14651,14968,frau_knips,14789,14793,mich,frau_knips
+gdc-coref,v186.0,14651,14968,frau_knips,14833,14837,mich,frau_knips
+gdc-coref,v186.0,14651,14968,frau_knips,14875,14879,mein,frau_knips
+gdc-coref,v186.0,14651,14968,frau_knips,14952,14956,mein,frau_knips
+gdc-coref,v186.0,15044,15448,hanswurst,15199,15202,ich,hanswurst
+gdc-coref,v186.0,15044,15448,hanswurst,15234,15237,ich,hanswurst
+gdc-coref,v186.0,15044,15448,hanswurst,15258,15261,ich,hanswurst
+gdc-coref,v186.0,15044,15448,hanswurst,15344,15347,mir,hanswurst
+gdc-coref,v186.0,15044,15448,hanswurst,15382,15388,meinen,hanswurst
+gdc-coref,v186.0,15454,15537,stoffel_knips,15495,15501,meinem,stoffel_knips
+gdc-coref,v186.0,15543,15889,hanswurst,15602,15605,ich,hanswurst
+gdc-coref,v186.0,15895,16053,frau_knips,15972,15976,mein,frau_knips
+gdc-coref,v186.0,16059,16351,stoffel_knips,16100,16103,ich,stoffel_knips
+gdc-coref,v186.0,16059,16351,stoffel_knips,16289,16293,mein,stoffel_knips
+gdc-coref,v186.0,16431,17035,hanswurst,16523,16526,mir,hanswurst
+gdc-coref,v186.0,16431,17035,hanswurst,16597,16600,Ich,hanswurst
+gdc-coref,v186.0,16431,17035,hanswurst,16619,16622,ich,hanswurst
+gdc-coref,v186.0,16431,17035,hanswurst,16646,16650,mich,hanswurst
+gdc-coref,v186.0,16431,17035,hanswurst,16971,16974,ich,hanswurst
+gdc-coref,v186.0,17156,17208,frau_knips,17191,17195,mein,frau_knips
+gdc-coref,v186.0,17213,17522,hanswurst,17242,17247,meine,hanswurst
+gdc-coref,v186.0,17528,17586,frau_knips,17581,17585,mein,frau_knips
+gdc-coref,v186.0,17591,17721,hanswurst,17695,17698,ich,hanswurst
+gdc-coref,v186.0,17591,17721,hanswurst,17699,17703,mich,hanswurst
+gdc-coref,v186.0,17915,18036,stoffel_knips,17956,17959,ich,stoffel_knips
+gdc-coref,v186.0,17915,18036,stoffel_knips,17977,17983,meiner,stoffel_knips
+gdc-coref,v186.0,18042,18294,hanswurst,18131,18134,ich,hanswurst
+gdc-coref,v186.0,18300,18577,stoffel_knips,18316,18319,Ich,stoffel_knips
+gdc-coref,v186.0,18300,18577,stoffel_knips,18381,18385,mein,stoffel_knips
+gdc-coref,v186.0,18300,18577,stoffel_knips,18536,18539,mir,stoffel_knips
+gdc-coref,v186.0,18627,18859,stoffel_knips,18691,18694,ich,stoffel_knips
+gdc-coref,v186.0,18627,18859,stoffel_knips,18715,18718,ich,stoffel_knips
+gdc-coref,v186.0,18627,18859,stoffel_knips,18731,18735,mich,stoffel_knips
+gdc-coref,v186.0,18967,19377,hanswurst,19193,19197,mein,hanswurst
+gdc-coref,v186.0,18967,19377,hanswurst,19252,19257,Meine,hanswurst
+gdc-coref,v186.0,18967,19377,hanswurst,19268,19271,ich,hanswurst
+gdc-coref,v186.0,18967,19377,hanswurst,19298,19301,Ich,hanswurst
+gdc-coref,v186.0,18967,19377,hanswurst,19343,19347,mich,hanswurst
+gdc-coref,v186.0,19384,19593,frau_knips,19452,19456,mich,frau_knips
+gdc-coref,v186.0,19384,19593,frau_knips,19488,19491,ich,frau_knips
+gdc-coref,v186.0,19384,19593,frau_knips,19502,19506,mein,frau_knips
+gdc-coref,v186.0,19384,19593,frau_knips,19526,19532,meinen,frau_knips
+gdc-coref,v186.0,19599,19710,hanswurst,19615,19619,mich,hanswurst
+gdc-coref,v186.0,19599,19710,hanswurst,19682,19685,ich,hanswurst
+gdc-coref,v186.0,19599,19710,hanswurst,19686,19690,mich,hanswurst
+gdc-coref,v186.0,19715,19929,frau_knips,19805,19808,ich,frau_knips
+gdc-coref,v186.0,19715,19929,frau_knips,19820,19824,Mein,frau_knips
+gdc-coref,v186.0,19715,19929,frau_knips,19861,19864,ich,frau_knips
+gdc-coref,v186.0,19935,20515,hanswurst,20009,20012,mir,hanswurst
+gdc-coref,v186.0,20613,21413,der_erste_türke,21166,21169,mir,der_erste_türke
+gdc-coref,v186.0,21419,22209,der_zweite_türke,21443,21446,mir,der_zweite_türke
+gdc-coref,v186.0,21419,22209,der_zweite_türke,22109,22115,meinem,der_zweite_türke
+gdc-coref,v186.0,22849,23587,erster_matrose,22959,22963,mich,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,22994,22997,ich,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23062,23065,ich,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23088,23093,Meine,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23134,23137,ich,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23280,23283,mir,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23301,23305,mich,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23337,23340,ich,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23439,23442,mir,erster_matrose
+gdc-coref,v186.0,22849,23587,erster_matrose,23540,23543,ich,erster_matrose
+gdc-coref,v186.0,23593,23955,zweiter_matrose,23827,23833,meiner,zweiter_matrose
+gdc-coref,v186.0,23593,23955,zweiter_matrose,23866,23871,meine,zweiter_matrose
+gdc-coref,v186.0,23961,24298,erster_matrose,23996,23999,ich,erster_matrose
+gdc-coref,v186.0,23961,24298,erster_matrose,24076,24079,ich,erster_matrose
+gdc-coref,v186.0,23961,24298,erster_matrose,24121,24125,mein,erster_matrose
+gdc-coref,v186.0,23961,24298,erster_matrose,24190,24193,mir,erster_matrose
+gdc-coref,v186.0,23961,24298,erster_matrose,24205,24209,mein,erster_matrose
+gdc-coref,v186.0,23961,24298,erster_matrose,24286,24290,mein,erster_matrose
+gdc-coref,v186.0,24304,24489,zweiter_matrose,24422,24425,ich,zweiter_matrose
+gdc-coref,v186.0,24610,24733,zweiter_matrose,24638,24641,mir,zweiter_matrose
+gdc-coref,v186.0,24876,24963,hanswurst,24946,24951,meine,hanswurst
+gdc-coref,v186.0,24968,25162,frau_knips,24990,24994,mich,frau_knips
+gdc-coref,v186.0,24968,25162,frau_knips,25005,25009,mich,frau_knips
+gdc-coref,v186.0,24968,25162,frau_knips,25020,25023,mir,frau_knips
+gdc-coref,v186.0,24968,25162,frau_knips,25058,25061,ich,frau_knips
+gdc-coref,v186.0,24968,25162,frau_knips,25098,25101,ich,frau_knips
+gdc-coref,v186.0,24968,25162,frau_knips,25121,25124,Ich,frau_knips
+gdc-coref,v186.0,25168,25610,hanswurst,25255,25258,ich,hanswurst
+gdc-coref,v186.0,25168,25610,hanswurst,25367,25370,ich,hanswurst
+gdc-coref,v186.0,25616,25733,frau_knips,25642,25645,ich,frau_knips
+gdc-coref,v186.0,25738,26512,hanswurst,25917,25920,ich,hanswurst
+gdc-coref,v186.0,25738,26512,hanswurst,25921,25925,mein,hanswurst
+gdc-coref,v186.0,26519,26646,frau_knips,26574,26577,mir,frau_knips
+gdc-coref,v186.0,26519,26646,frau_knips,26605,26608,Mir,frau_knips
+gdc-coref,v186.0,26652,26803,hanswurst,26688,26691,ich,hanswurst
+gdc-coref,v186.0,26652,26803,hanswurst,26738,26744,meinen,hanswurst
+gdc-coref,v186.0,26809,26890,das_mädel,26885,26888,ich,das_mädel
+gdc-coref,v186.0,26960,27053,der_knabe,27010,27013,Ich,der_knabe
+gdc-coref,v186.0,26960,27053,der_knabe,27020,27024,mich,der_knabe
+gdc-coref,v186.0,27215,27288,hanswurst,27268,27271,mir,hanswurst
+gdc-coref,v186.0,27294,27386,das_mädel,27329,27332,ich,das_mädel
+gdc-coref,v186.0,27392,27565,hanswurst,27413,27416,ich,hanswurst
+gdc-coref,v186.0,27392,27565,hanswurst,27473,27479,meiner,hanswurst
+gdc-coref,v186.0,27649,28403,der_matrose,27690,27696,meiner,der_matrose
+gdc-coref,v186.0,27649,28403,der_matrose,27919,27922,ich,der_matrose
+gdc-coref,v186.0,28409,28500,das_mädel,28440,28444,mich,das_mädel
+gdc-coref,v186.0,28507,28666,hanswurst,28525,28528,mir,hanswurst
+gdc-coref,v186.0,28672,28805,das_mädel,28704,28708,mich,das_mädel
+gdc-coref,v186.0,28672,28805,das_mädel,28739,28742,ich,das_mädel
+gdc-coref,v186.0,28672,28805,das_mädel,28743,28746,mir,das_mädel
+gdc-coref,v186.0,28672,28805,das_mädel,28794,28800,meinem,das_mädel
+gdc-coref,v186.0,29061,29083,_stage,29061,29072,Ein Vorsaal,Ein-Vorsaal
+gdc-coref,v186.0,29061,29083,_stage,29073,29082,im Serail,mein-Serail
+gdc-coref,v186.0,29097,29190,_stage,29146,29154,ein Arzt,der_arzt
+gdc-coref,v186.0,29097,29190,_stage,29161,29164,ihn,hanswurst
+gdc-coref,v186.0,29097,29190,_stage,29166,29169,der,der_arzt
+gdc-coref,v186.0,29097,29190,_stage,29170,29173,ihn,hanswurst
+gdc-coref,v186.0,29086,29273,hanswurst,29217,29220,ich,hanswurst
+gdc-coref,v186.0,29086,29273,hanswurst,29231,29234,Ich,hanswurst
+gdc-coref,v186.0,29086,29273,hanswurst,29242,29246,mich,hanswurst
+gdc-coref,v186.0,29086,29273,hanswurst,29254,29264,dem Teufel,dem-Teufel
+gdc-coref,v186.0,29279,29415,der_arzt,29306,29311,Ihnen,hanswurst
+gdc-coref,v186.0,29279,29415,der_arzt,29313,29330,mein werther Herr,hanswurst
+gdc-coref,v186.0,29279,29415,der_arzt,29313,29317,mein,der_arzt
+gdc-coref,v186.0,29279,29415,der_arzt,29333,29336,Sie,hanswurst
+gdc-coref,v186.0,29279,29415,der_arzt,29382,29385,man,man
+gdc-coref,v186.0,29279,29415,der_arzt,29386,29391,Ihnen,hanswurst
+gdc-coref,v186.0,29421,30108,hanswurst,29433,29436,Ich,hanswurst
+gdc-coref,v186.0,29421,30108,hanswurst,29458,29461,ich,hanswurst
+gdc-coref,v186.0,29421,30108,hanswurst,29473,29483,Der Teufel,dem-Teufel
+gdc-coref,v186.0,29421,30108,hanswurst,29510,29521,Ihr Bestien,Ihr-Bestien
+gdc-coref,v186.0,29421,30108,hanswurst,29528,29531,Ihr,Ihr-Bestien
+gdc-coref,v186.0,29421,30108,hanswurst,29532,29536,mich,hanswurst
+gdc-coref,v186.0,29421,30108,hanswurst,29578,29592,die Menschheit,die-halbe-Menschheit
+gdc-coref,v186.0,29421,30108,hanswurst,29652,29655,Ihr,Ihr-Bestien
+gdc-coref,v186.0,29421,30108,hanswurst,29695,29708,Menschennatur,die-Menschheit
+gdc-coref,v186.0,29421,30108,hanswurst,29741,29744,sie,die-Menschheit
+gdc-coref,v186.0,29421,30108,hanswurst,29813,29822,Ihr Hunde,Ihr-Bestien
+gdc-coref,v186.0,29421,30108,hanswurst,29835,29851,die Kunstrichter,die-Kunstrichter
+gdc-coref,v186.0,29421,30108,hanswurst,29852,29856,sich,die-Kunstrichter
+gdc-coref,v186.0,29421,30108,hanswurst,29898,29901,sie,die-Kunstrichter
+gdc-coref,v186.0,29421,30108,hanswurst,29907,29916,die Natur,die-Natur
+gdc-coref,v186.0,29421,30108,hanswurst,29962,29965,ich,hanswurst
+gdc-coref,v186.0,29421,30108,hanswurst,29990,29999,die Kerle,die-Kerle
+gdc-coref,v186.0,29421,30108,hanswurst,30000,30004,sich,die-Kerle
+gdc-coref,v186.0,29421,30108,hanswurst,30038,30041,Ihr,Ihr-Bestien
+gdc-coref,v186.0,29421,30108,hanswurst,30042,30051,der Natur,die-Natur
+gdc-coref,v186.0,29421,30108,hanswurst,30052,30055,ihr,die-Natur
+gdc-coref,v186.0,30114,30334,der_arzt,30125,30142,Mein werther Herr,hanswurst
+gdc-coref,v186.0,30114,30334,der_arzt,30125,30129,Mein,der_arzt
+gdc-coref,v186.0,30114,30334,der_arzt,30152,30155,mir,der_arzt
+gdc-coref,v186.0,30114,30334,der_arzt,30171,30174,wir,
+gdc-coref,v186.0,30114,30334,der_arzt,30181,30186,unsre,
+gdc-coref,v186.0,30114,30334,der_arzt,30209,30212,Ihr,hanswurst
+gdc-coref,v186.0,30114,30334,der_arzt,30264,30267,Sie,hanswurst
+gdc-coref,v186.0,30340,30840,hanswurst,30413,30420,im Land,im-Land
+gdc-coref,v186.0,30340,30840,hanswurst,30426,30429,man,man
+gdc-coref,v186.0,30340,30840,hanswurst,30434,30439,ihrem,die-Natur
+gdc-coref,v186.0,30340,30840,hanswurst,30454,30469,Die liebe Natur,die-Natur
+gdc-coref,v186.0,30340,30840,hanswurst,30486,30489,Sie,die-Natur
+gdc-coref,v186.0,30340,30840,hanswurst,30545,30550,einen,man
+gdc-coref,v186.0,30340,30840,hanswurst,30589,30592,man,man
+gdc-coref,v186.0,30340,30840,hanswurst,30622,30625,Ich,hanswurst
+gdc-coref,v186.0,30340,30840,hanswurst,30655,30661,meiner,hanswurst
+gdc-coref,v186.0,30340,30840,hanswurst,30685,30694,die Kerls,die-Kerle
+gdc-coref,v186.0,30340,30840,hanswurst,30815,30835,die halbe Menschheit,die-halbe-Menschheit
+gdc-coref,v186.0,30846,31093,der_arzt,30857,30873,Liebwerther Herr,hanswurst
+gdc-coref,v186.0,30846,31093,der_arzt,30875,30878,Ihr,hanswurst
+gdc-coref,v186.0,30846,31093,der_arzt,30930,30952,der hohen Gesellschaft,der-hohen-Gesellschaft
+gdc-coref,v186.0,30846,31093,der_arzt,30954,30969,Unserer Genieen,Unserer-Genieen
+gdc-coref,v186.0,30846,31093,der_arzt,30954,30961,Unserer,
+gdc-coref,v186.0,30846,31093,der_arzt,31047,31050,Ihr,hanswurst
+gdc-coref,v186.0,30846,31093,der_arzt,31074,31092,keine Schnellkraft,keine-Schnellkraft
+gdc-coref,v186.0,31099,31230,hanswurst,31118,31128,der Teufel,dem-Teufel
+gdc-coref,v186.0,31099,31230,hanswurst,31129,31146,Eure Gesellschaft,der-hohen-Gesellschaft
+gdc-coref,v186.0,31099,31230,hanswurst,31129,31133,Eure,der_arzt
+gdc-coref,v186.0,31099,31230,hanswurst,31149,31152,Ich,hanswurst
+gdc-coref,v186.0,31099,31230,hanswurst,31168,31185,Eure Schnellkraft,keine-Schnellkraft
+gdc-coref,v186.0,31099,31230,hanswurst,31168,31172,Eure,der_arzt
+gdc-coref,v186.0,31099,31230,hanswurst,31193,31207,die Menschheit,die-halbe-Menschheit
+gdc-coref,v186.0,31236,31486,der_arzt,31247,31250,Ihr,hanswurst
+gdc-coref,v186.0,31236,31486,der_arzt,31260,31271,lieber Herr,hanswurst
+gdc-coref,v186.0,31236,31486,der_arzt,31277,31280,Ihr,hanswurst
+gdc-coref,v186.0,31236,31486,der_arzt,31294,31297,Ihr,hanswurst
+gdc-coref,v186.0,31236,31486,der_arzt,31348,31352,Euer,hanswurst
+gdc-coref,v186.0,31236,31486,der_arzt,31455,31477,unsern heurigen Genies,Unserer-Genieen
+gdc-coref,v186.0,31236,31486,der_arzt,31455,31461,unsern,
+gdc-coref,v186.0,31492,31661,hanswurst,31513,31516,Ihr,der_arzt
+gdc-coref,v186.0,31492,31661,hanswurst,31522,31525,ich,hanswurst
+gdc-coref,v186.0,31492,31661,hanswurst,31560,31574,die Menschheit,die-halbe-Menschheit
+gdc-coref,v186.0,31492,31661,hanswurst,31575,31579,mein,hanswurst
+gdc-coref,v186.0,31492,31661,hanswurst,31629,31632,ich,hanswurst
+gdc-coref,v186.0,31492,31661,hanswurst,31633,31636,mir,hanswurst
+gdc-coref,v186.0,31668,31915,der_arzt,31697,31700,Ihr,hanswurst
+gdc-coref,v186.0,31668,31915,der_arzt,31706,31709,Ihr,hanswurst
+gdc-coref,v186.0,31668,31915,der_arzt,31728,31738,der Sultan,der_sultan
+gdc-coref,v186.0,31668,31915,der_arzt,31753,31755,Er,der_sultan
+gdc-coref,v186.0,31668,31915,der_arzt,31779,31783,Euch,hanswurst
+gdc-coref,v186.0,31668,31915,der_arzt,31800,31804,Euch,hanswurst
+gdc-coref,v186.0,31668,31915,der_arzt,31805,31817,Euer neu Amt,Euer-neu-Amt
+gdc-coref,v186.0,31668,31915,der_arzt,31805,31809,Euer,hanswurst
+gdc-coref,v186.0,31668,31915,der_arzt,31831,31834,Ich,der_arzt
+gdc-coref,v186.0,31668,31915,der_arzt,31841,31845,mich,der_arzt
+gdc-coref,v186.0,31668,31915,der_arzt,31892,31903,Eurem Herrn,der_sultan
+gdc-coref,v186.0,31668,31915,der_arzt,31892,31897,Eurem,hanswurst
+gdc-coref,v186.0,31967,32342,hanswurst,31988,31991,Ich,hanswurst
+gdc-coref,v186.0,31967,32342,hanswurst,32010,32023,meine Tochter,das_mädel
+gdc-coref,v186.0,31967,32342,hanswurst,32010,32015,meine,hanswurst
+gdc-coref,v186.0,31967,32342,hanswurst,32045,32048,ich,hanswurst
+gdc-coref,v186.0,31967,32342,hanswurst,32144,32153,der Natur,die-Natur
+gdc-coref,v186.0,31967,32342,hanswurst,32315,32325,der Teufel,dem-Teufel
+gdc-coref,v186.0,32394,32419,_stage,32394,32404,Der Sultan,der_sultan
+gdc-coref,v186.0,32394,32419,_stage,32409,32418,Hanswurst,hanswurst
+gdc-coref,v186.0,32422,32832,der_sultan,32453,32459,meinem,der_sultan
+gdc-coref,v186.0,32422,32832,der_sultan,32490,32509,Du lumpigter Gesell,hanswurst
+gdc-coref,v186.0,32422,32832,der_sultan,32511,32515,Dich,hanswurst
+gdc-coref,v186.0,32422,32832,der_sultan,32528,32543,wieder's Landes,im-Land
+gdc-coref,v186.0,32422,32832,der_sultan,32568,32571,man,man
+gdc-coref,v186.0,32422,32832,der_sultan,32572,32576,Dich,hanswurst
+gdc-coref,v186.0,32422,32832,der_sultan,32683,32690,Du Hund,hanswurst
+gdc-coref,v186.0,32422,32832,der_sultan,32696,32699,ich,der_sultan
+gdc-coref,v186.0,32422,32832,der_sultan,32707,32711,Dich,hanswurst
+gdc-coref,v186.0,32838,34971,hanswurst,32856,32859,ich,hanswurst
+gdc-coref,v186.0,32838,34971,hanswurst,32908,32929,werthster Herr Sultan,der_sultan
+gdc-coref,v186.0,32838,34971,hanswurst,32967,32976,der Natur,die-Natur
+gdc-coref,v186.0,32838,34971,hanswurst,33196,33223,'ne abscheuliche Karrikatur,'ne-abscheuliche-Karrikatur
+gdc-coref,v186.0,32838,34971,hanswurst,33230,33235,jedem,jedem
+gdc-coref,v186.0,32838,34971,hanswurst,33253,33255,er,jedem
+gdc-coref,v186.0,32838,34971,hanswurst,33256,33259,sie,'ne-abscheuliche-Karrikatur
+gdc-coref,v186.0,32838,34971,hanswurst,33440,33443,Ihr,der_sultan
+gdc-coref,v186.0,32838,34971,hanswurst,33586,33590,Euer,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33597,33613,Ihr großen Köpfe,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33619,33629,Euer Genie,Euer-Genie
+gdc-coref,v186.0,32838,34971,hanswurst,33619,33623,Euer,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33653,33669,Ihr Mutter Natur,die-Natur
+gdc-coref,v186.0,32838,34971,hanswurst,33653,33656,Ihr,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33670,33673,ihr,die-Natur
+gdc-coref,v186.0,32838,34971,hanswurst,33715,33718,Ihr,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33753,33756,Ihr,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33776,33780,Euch,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33815,33819,Euch,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33867,33871,Euch,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33883,33894,Eurem Genie,Euer-Genie
+gdc-coref,v186.0,32838,34971,hanswurst,33883,33888,Eurem,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,33948,33951,Ihr,Ihr-großen-Köpfe
+gdc-coref,v186.0,32838,34971,hanswurst,34210,34232,alle vernünftgen Leute,alle-vernünftgen-Leute
+gdc-coref,v186.0,32838,34971,hanswurst,34243,34246,Die,alle-vernünftgen-Leute
+gdc-coref,v186.0,32838,34971,hanswurst,34287,34291,ihre,alle-vernünftgen-Leute
+gdc-coref,v186.0,32838,34971,hanswurst,34310,34313,Die,die-Kerle
+gdc-coref,v186.0,32838,34971,hanswurst,34589,34607,die neuern Genieen,die-neuern-Genieen
+gdc-coref,v186.0,32838,34971,hanswurst,34614,34617,man,man
+gdc-coref,v186.0,32838,34971,hanswurst,34664,34692,"die neuen Geschöpfe, die sie",die-neuern-Genieen
+gdc-coref,v186.0,32838,34971,hanswurst,34689,34692,sie,die-Kerle
+gdc-coref,v186.0,32838,34971,hanswurst,34698,34703,ihrer,die-Kerle
+gdc-coref,v186.0,32838,34971,hanswurst,34802,34807,ihrem,die-neuern-Genieen
+gdc-coref,v186.0,32838,34971,hanswurst,34841,34852,Herr Sultan,der_sultan
+gdc-coref,v186.0,32838,34971,hanswurst,34864,34868,Euch,der_sultan
+gdc-coref,v186.0,32838,34971,hanswurst,34869,34878,die Natur,die-Natur
+gdc-coref,v186.0,32838,34971,hanswurst,34890,34894,Euch,der_sultan
+gdc-coref,v186.0,34977,35213,der_sultan,35007,35011,Kerl,hanswurst
+gdc-coref,v186.0,34977,35213,der_sultan,35017,35020,Dir,hanswurst
+gdc-coref,v186.0,34977,35213,der_sultan,35049,35064,Du saubrer Gast,hanswurst
+gdc-coref,v186.0,34977,35213,der_sultan,35071,35073,Du,hanswurst
+gdc-coref,v186.0,34977,35213,der_sultan,35074,35085,'ne Tochter,das_mädel
+gdc-coref,v186.0,34977,35213,der_sultan,35090,35093,Dir,hanswurst
+gdc-coref,v186.0,34977,35213,der_sultan,35101,35110,Das Mädel,das_mädel
+gdc-coref,v186.0,34977,35213,der_sultan,35119,35122,mir,der_sultan
+gdc-coref,v186.0,34977,35213,der_sultan,35145,35149,mich,der_sultan
+gdc-coref,v186.0,34977,35213,der_sultan,35177,35180,Sie,das_mädel
+gdc-coref,v186.0,34977,35213,der_sultan,35197,35212,das Jüngferlein,das_mädel
+gdc-coref,v186.0,35219,35374,hanswurst,35255,35259,mich,hanswurst
+gdc-coref,v186.0,35219,35374,hanswurst,35295,35300,Erden,Erden
+gdc-coref,v186.0,35380,35539,der_sultan,35412,35426,Er Schwäzer Er,hanswurst
+gdc-coref,v186.0,35380,35539,der_sultan,35434,35436,Er,hanswurst
+gdc-coref,v186.0,35380,35539,der_sultan,35440,35448,Sein Amt,Euer-neu-Amt
+gdc-coref,v186.0,35380,35539,der_sultan,35440,35444,Sein,hanswurst
+gdc-coref,v186.0,35380,35539,der_sultan,35467,35470,Mir,der_sultan
+gdc-coref,v186.0,35380,35539,der_sultan,35471,35482,mein Serail,mein-Serail
+gdc-coref,v186.0,35380,35539,der_sultan,35471,35475,mein,der_sultan
+gdc-coref,v186.0,35380,35539,der_sultan,35484,35494,Dein Mädel,das_mädel
+gdc-coref,v186.0,35380,35539,der_sultan,35511,35514,ich,der_sultan
+gdc-coref,v186.0,35380,35539,der_sultan,35515,35518,Ihr,das_mädel
+gdc-coref,v186.0,35380,35539,der_sultan,35519,35525,meinen,der_sultan
+gdc-coref,v186.0,35546,35809,hanswurst,35633,35638,Erden,Erden
+gdc-coref,v186.0,35546,35809,hanswurst,35739,35742,sie,die-Genies-in-Deutschland
+gdc-coref,v186.0,35546,35809,hanswurst,35743,35766,der schwarze Höllenbubu,dem-Teufel
+gdc-coref,v186.0,35546,35809,hanswurst,35769,35801,"Die großen Genies, die Hunde die",die-Genies-in-Deutschland
+gdc-coref,v186.0,35860,36752,der_sultan,35873,35881,Der Kerl,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,35960,35964,sich,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36112,36114,er,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36148,36156,der Kerl,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36196,36198,er,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36243,36245,er,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36257,36260,Ich,der_sultan
+gdc-coref,v186.0,35860,36752,der_sultan,36301,36309,der Kerl,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36330,36332,Er,hanswurst
+gdc-coref,v186.0,35860,36752,der_sultan,36424,36427,Ich,der_sultan
+gdc-coref,v186.0,35860,36752,der_sultan,36623,36626,ich,der_sultan
+gdc-coref,v186.0,35860,36752,der_sultan,36637,36660,mein liebliches Mädchen,das_mädel
+gdc-coref,v186.0,35860,36752,der_sultan,36637,36641,mein,der_sultan
+gdc-coref,v186.0,35860,36752,der_sultan,36677,36694,mein schönes Kind,das_mädel
+gdc-coref,v186.0,35860,36752,der_sultan,36677,36681,mein,der_sultan
+gdc-coref,v186.0,35860,36752,der_sultan,36712,36715,Sie,das_mädel
+gdc-coref,v186.0,35860,36752,der_sultan,36723,36735,schönes Kind,das_mädel
+gdc-coref,v186.0,35860,36752,der_sultan,36742,36745,Sie,das_mädel
+gdc-coref,v186.0,36804,36826,_stage,36804,36814,Der Sultan,der_sultan
+gdc-coref,v186.0,36804,36826,_stage,36816,36825,das Mädel,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,36850,36853,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,36866,36885,geliebtes  Schäzgen,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,36887,36891,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,36894,36898,Dich,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,36914,36917,mir,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,36919,36935,in's weiche Bett,in's-weiche-Bett
+gdc-coref,v186.0,36829,39085,der_sultan,36953,36999,"mein Liebchen schön, mein Trautchen zukkersüße",das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,36953,36957,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,36974,36978,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37042,37047,meine,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37070,37081,mein Serail,mein-Serail
+gdc-coref,v186.0,36829,39085,der_sultan,37070,37074,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37086,37092,Mädeln,Mädeln
+gdc-coref,v186.0,36829,39085,der_sultan,37111,37116,allen,Mädeln
+gdc-coref,v186.0,36829,39085,der_sultan,37138,37141,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37142,37146,mich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37156,37159,Ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37186,37193,Weibern,Weiber
+gdc-coref,v186.0,36829,39085,der_sultan,37194,37198,mich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37308,37316,dem Bett,in's-weiche-Bett
+gdc-coref,v186.0,36829,39085,der_sultan,37325,37328,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37379,37382,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37487,37504,vieler Weiber Kus,so-ein-Kuß
+gdc-coref,v186.0,36829,39085,der_sultan,37487,37500,vieler Weiber,Weiber
+gdc-coref,v186.0,36829,39085,der_sultan,37543,37546,man,man
+gdc-coref,v186.0,36829,39085,der_sultan,37593,37596,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37668,37679,meinen Leib,im-Leibe
+gdc-coref,v186.0,36829,39085,der_sultan,37668,37674,meinen,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37690,37702,"Du, Liebchen",das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,37720,37726,meiner,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37742,37756,Dein Brüstlein,Dein-Brüstlein
+gdc-coref,v186.0,36829,39085,der_sultan,37742,37746,Dein,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,37769,37773,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37804,37812,Liebchen,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,37850,37853,Dir,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,37885,37889,Dich,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,37938,37944,meiner,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,37945,37949,Dich,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,37986,37998,Du Weibsstük,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38023,38025,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38026,38031,Zayre,Zayre
+gdc-coref,v186.0,36829,39085,der_sultan,38049,38052,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38053,38057,Dich,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38058,38066,zur Frau,zur-Frau
+gdc-coref,v186.0,36829,39085,der_sultan,38079,38081,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38088,38091,sie,Zayre
+gdc-coref,v186.0,36829,39085,der_sultan,38130,38133,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38134,38138,Dich,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38153,38164,meinem Weib,zur-Frau
+gdc-coref,v186.0,36829,39085,der_sultan,38153,38159,meinem,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38188,38190,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38210,38213,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38214,38217,Dir,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38236,38241,meine,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38282,38285,Ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38317,38321,Dich,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38340,38388,"Die andern insgesamt, die im Serail jezt stekken",Mädeln
+gdc-coref,v186.0,36829,39085,der_sultan,38366,38375,im Serail,mein-Serail
+gdc-coref,v186.0,36829,39085,der_sultan,38391,38394,Die,Mädeln
+gdc-coref,v186.0,36829,39085,der_sultan,38416,38420,mich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38421,38424,all,Mädeln
+gdc-coref,v186.0,36829,39085,der_sultan,38444,38446,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38459,38463,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38471,38475,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38494,38497,Dir,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38505,38507,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38533,38535,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38551,38554,mir,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38566,38570,Dein,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38589,38593,mich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38598,38601,Dir,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38615,38619,mich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38628,38631,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38652,38655,Dir,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38676,38679,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38691,38711,"Du auserwählte Perl,",das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38716,38722,meiner,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38740,38744,sich,ein-andrer-Kerl
+gdc-coref,v186.0,36829,39085,der_sultan,38745,38760,ein andrer Kerl,ein-andrer-Kerl
+gdc-coref,v186.0,36829,39085,der_sultan,38769,38775,meiner,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38791,38794,Dir,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38820,38824,mein,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38842,38848,meiner,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,38879,38886,Du Hur',das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38913,38915,Du,das_mädel
+gdc-coref,v186.0,36829,39085,der_sultan,38977,38987,der Teufel,dem-Teufel
+gdc-coref,v186.0,36829,39085,der_sultan,39025,39028,ich,der_sultan
+gdc-coref,v186.0,36829,39085,der_sultan,39029,39033,Dich,das_mädel
+gdc-coref,v186.0,39104,39121,_stage,39110,39120,die Fistel,die-Fistel
+gdc-coref,v186.0,39093,39694,das_mädel,39129,39151,werthester Herr Sultan,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39154,39157,Sie,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39164,39168,Ihre,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39197,39200,Ich,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39207,39211,mein,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39254,39267,eines Sultans,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39315,39318,ich,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39336,39347,Herr Sultan,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39365,39370,meine,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39463,39466,ich,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39475,39479,Euch,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39506,39509,Ich,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39585,39594,mein Herr,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39585,39589,mein,das_mädel
+gdc-coref,v186.0,39093,39694,das_mädel,39619,39623,Eure,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39645,39650,Ihrer,der_sultan
+gdc-coref,v186.0,39093,39694,das_mädel,39671,39674,ich,das_mädel
+gdc-coref,v186.0,39713,39847,_stage,39720,39724,sich,der_sultan
+gdc-coref,v186.0,39701,40017,der_sultan,39850,39868,Verdammte Käsemade,das_mädel
+gdc-coref,v186.0,39701,40017,der_sultan,39871,39920,"Du Regenwurm von Weib, die klein als wie 'ne Laus",das_mädel
+gdc-coref,v186.0,39701,40017,der_sultan,39923,39946,Verdammtes Trampelthier,das_mädel
+gdc-coref,v186.0,39701,40017,der_sultan,39959,39961,Du,das_mädel
+gdc-coref,v186.0,39701,40017,der_sultan,39962,39965,Dir,das_mädel
+gdc-coref,v186.0,39701,40017,der_sultan,39975,40016,"Du Rabenas Du Sau, Du Nikkel Du, Du Luder",das_mädel
+gdc-coref,v186.0,40023,40107,das_mädel,40064,40067,Sie,der_sultan
+gdc-coref,v186.0,40023,40107,das_mädel,40068,40072,sich,der_sultan
+gdc-coref,v186.0,40023,40107,das_mädel,40080,40106,liebwerthester Herr Bruder,der_sultan
+gdc-coref,v186.0,40112,40404,der_sultan,40146,40184,"Du Maulaffengezücht, Du wilde Bestia12",das_mädel
+gdc-coref,v186.0,40112,40404,der_sultan,40204,40206,Du,das_mädel
+gdc-coref,v186.0,40112,40404,der_sultan,40207,40211,Dich,das_mädel
+gdc-coref,v186.0,40112,40404,der_sultan,40230,40234,Dich,das_mädel
+gdc-coref,v186.0,40112,40404,der_sultan,40270,40274,Dich,das_mädel
+gdc-coref,v186.0,40112,40404,der_sultan,40281,40284,mir,der_sultan
+gdc-coref,v186.0,40112,40404,der_sultan,40323,40326,ich,der_sultan
+gdc-coref,v186.0,40112,40404,der_sultan,40327,40331,Dich,das_mädel
+gdc-coref,v186.0,40112,40404,der_sultan,40333,40343,Du Trampel,das_mädel
+gdc-coref,v186.0,40421,40438,_stage,40427,40437,die Fistel,die-Fistel
+gdc-coref,v186.0,40410,41273,das_mädel,40478,40481,ich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40496,40499,Ich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40525,40528,mir,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40554,40557,ich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40584,40589,Ohren,Ohren
+gdc-coref,v186.0,40410,41273,das_mädel,40592,40595,Ich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40606,40609,ich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40620,40624,mich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40629,40638,ein Genie,hanswurst
+gdc-coref,v186.0,40410,41273,das_mädel,40663,40666,ihn,hanswurst
+gdc-coref,v186.0,40410,41273,das_mädel,40683,40689,seinen,hanswurst
+gdc-coref,v186.0,40410,41273,das_mädel,40710,40729,Eure Herrlichkeiten,der_sultan
+gdc-coref,v186.0,40410,41273,das_mädel,40736,40745,ein Genie,ein-Genie
+gdc-coref,v186.0,40410,41273,das_mädel,40746,40750,sich,ein-Genie
+gdc-coref,v186.0,40410,41273,das_mädel,40822,40833,meine Brust,Dein-Brüstlein
+gdc-coref,v186.0,40410,41273,das_mädel,40822,40827,meine,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40865,40877,eines Mannes,eines-Mannes
+gdc-coref,v186.0,40410,41273,das_mädel,40885,40888,Sie,der_sultan
+gdc-coref,v186.0,40410,41273,das_mädel,40896,40908,gnädger Herr,der_sultan
+gdc-coref,v186.0,40410,41273,das_mädel,40914,40919,einen,eines-Mannes
+gdc-coref,v186.0,40410,41273,das_mädel,40946,40949,mir,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,40955,40963,jederman,jedem
+gdc-coref,v186.0,40410,41273,das_mädel,40964,40968,sein,jedem
+gdc-coref,v186.0,40410,41273,das_mädel,41007,41010,ihm,jedem
+gdc-coref,v186.0,40410,41273,das_mädel,41029,41035,meinen,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,41045,41050,meine,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,41085,41088,ihm,jedem
+gdc-coref,v186.0,40410,41273,das_mädel,41120,41131,Euer Gnaden,der_sultan
+gdc-coref,v186.0,40410,41273,das_mädel,41156,41160,sich,der_sultan
+gdc-coref,v186.0,40410,41273,das_mädel,41161,41166,Ihres,der_sultan
+gdc-coref,v186.0,40410,41273,das_mädel,41196,41199,ich,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,41208,41211,mir,das_mädel
+gdc-coref,v186.0,40410,41273,das_mädel,41254,41268,Ihr Nebenbuler,eines-Mannes
+gdc-coref,v186.0,40410,41273,das_mädel,41254,41257,Ihr,der_sultan
+gdc-coref,v186.0,41279,41500,der_sultan,41292,41294,Du,das_mädel
+gdc-coref,v186.0,41279,41500,der_sultan,41331,41334,ich,der_sultan
+gdc-coref,v186.0,41279,41500,der_sultan,41356,41360,mein,der_sultan
+gdc-coref,v186.0,41279,41500,der_sultan,41379,41388,Dich Hure,das_mädel
+gdc-coref,v186.0,41279,41500,der_sultan,41407,41411,sich,kein-Mensch
+gdc-coref,v186.0,41279,41500,der_sultan,41412,41423,kein Mensch,kein-Mensch
+gdc-coref,v186.0,41279,41500,der_sultan,41445,41448,Dir,das_mädel
+gdc-coref,v186.0,41279,41500,der_sultan,41455,41459,mein,der_sultan
+gdc-coref,v186.0,41279,41500,der_sultan,41477,41499,Du unverschämtes Thier,das_mädel
+gdc-coref,v186.0,41553,41579,_stage,41553,41562,Ein Sklav,der_sklav
+gdc-coref,v186.0,41553,41579,_stage,41567,41578,die Vorigen,
+gdc-coref,v186.0,41582,41976,der_sklav,41594,41617,Gebietender Herr Sultan,der_sultan
+gdc-coref,v186.0,41582,41976,der_sklav,41634,41642,ein Weib,frau_knips
+gdc-coref,v186.0,41582,41976,der_sklav,41646,41659,Ihr'm Pallast,mein-Serail
+gdc-coref,v186.0,41582,41976,der_sklav,41646,41651,Ihr'm,der_sultan
+gdc-coref,v186.0,41582,41976,der_sklav,41665,41668,Sie,frau_knips
+gdc-coref,v186.0,41582,41976,der_sklav,41739,41743,mich,der_sklav
+gdc-coref,v186.0,41582,41976,der_sklav,41751,41760,mein Herr,der_sultan
+gdc-coref,v186.0,41582,41976,der_sklav,41751,41755,mein,der_sklav
+gdc-coref,v186.0,41582,41976,der_sklav,41793,41796,Sie,frau_knips
+gdc-coref,v186.0,41582,41976,der_sklav,41898,41901,Sie,frau_knips
+gdc-coref,v186.0,41582,41976,der_sklav,41927,41939,Eurer Gnaden,der_sultan
+gdc-coref,v186.0,41582,41976,der_sklav,41952,41955,ihr,frau_knips
+gdc-coref,v186.0,41982,42012,das_mädel,42007,42011,Mama,frau_knips
+gdc-coref,v186.0,42017,42082,der_sultan,42034,42046,Deine Mutter,frau_knips
+gdc-coref,v186.0,42017,42082,der_sultan,42034,42039,Deine,das_mädel
+gdc-coref,v186.0,42017,42082,der_sultan,42059,42062,sie,frau_knips
+gdc-coref,v186.0,42087,42219,das_mädel,42111,42124,Herr Puterhan,der_sultan
+gdc-coref,v186.0,42087,42219,das_mädel,42131,42134,die,frau_knips
+gdc-coref,v186.0,42087,42219,das_mädel,42142,42144,Er,der_sultan
+gdc-coref,v186.0,42087,42219,das_mädel,42175,42177,Er,der_sultan
+gdc-coref,v186.0,42087,42219,das_mädel,42178,42182,sich,der_sultan
+gdc-coref,v186.0,42087,42219,das_mädel,42186,42192,meiner,das_mädel
+gdc-coref,v186.0,42087,42219,das_mädel,42210,42213,ich,das_mädel
+gdc-coref,v186.0,42225,42462,der_sultan,42261,42263,Du,das_mädel
+gdc-coref,v186.0,42225,42462,der_sultan,42272,42275,Ich,der_sultan
+gdc-coref,v186.0,42469,42653,das_mädel,42515,42528,dem Mannsvolk,dem-Mannsvolk
+gdc-coref,v186.0,42469,42653,das_mädel,42564,42567,Sie,dem-Mannsvolk
+gdc-coref,v186.0,42469,42653,das_mädel,42608,42618,aller Welt,aller-Welt
+gdc-coref,v186.0,42469,42653,das_mädel,42633,42643,aller Welt,aller-Welt
+gdc-coref,v186.0,42707,42734,_stage,42707,42717,Frau Knips,frau_knips
+gdc-coref,v186.0,42707,42734,_stage,42722,42733,die Vorigen,
+gdc-coref,v186.0,42749,42770,_stage,42749,42759,dem Sultan,der_sultan
+gdc-coref,v186.0,42749,42770,_stage,42763,42769,Füssen,Füssen
+gdc-coref,v186.0,42737,42816,frau_knips,42775,42788,Deinen Füssen,Füssen
+gdc-coref,v186.0,42737,42816,frau_knips,42775,42781,Deinen,der_sultan
+gdc-coref,v186.0,42737,42816,frau_knips,42790,42794,Herr,der_sultan
+gdc-coref,v186.0,42737,42816,frau_knips,42802,42805,ich,frau_knips
+gdc-coref,v186.0,42821,43026,der_sultan,42840,42858,Ein schönes Mensch,frau_knips
+gdc-coref,v186.0,42821,43026,der_sultan,42863,42869,meiner,der_sultan
+gdc-coref,v186.0,42821,43026,der_sultan,42905,42923,ein hübsch Gesicht,ein-hübsch-Gesicht
+gdc-coref,v186.0,42821,43026,der_sultan,42973,42984,schöne Frau,frau_knips
+gdc-coref,v186.0,42821,43026,der_sultan,42996,42999,Sie,frau_knips
+gdc-coref,v186.0,42821,43026,der_sultan,43017,43020,Sie,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43088,43094,meinen,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43102,43113,Meinen Sohn,Meinen-Sohn
+gdc-coref,v186.0,43032,44285,frau_knips,43102,43108,Meinen,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43118,43125,Tochter,das_mädel
+gdc-coref,v186.0,43032,44285,frau_knips,43141,43144,Ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43160,43163,Sie,der_sultan
+gdc-coref,v186.0,43032,44285,frau_knips,43185,43188,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43210,43223,"meinem Buben,",Meinen-Sohn
+gdc-coref,v186.0,43032,44285,frau_knips,43210,43216,meinem,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43236,43239,mir,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43271,43273,er,Meinen-Sohn
+gdc-coref,v186.0,43032,44285,frau_knips,43290,43293,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43312,43342,ein großer mächtiger Wallfisch,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,43032,44285,frau_knips,43365,43369,mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43399,43401,er,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,43032,44285,frau_knips,43402,43406,mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43442,43445,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43484,43490,seinen,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,43032,44285,frau_knips,43579,43585,seinem,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,43032,44285,frau_knips,43615,43619,Mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43655,43658,Mir,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43665,43673,der Kopf,der-Kopf
+gdc-coref,v186.0,43032,44285,frau_knips,43752,43764,das Monstrum,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,43032,44285,frau_knips,43765,43769,mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43836,43839,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43865,43869,Mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43873,43885,Eurer Gnaden,der_sultan
+gdc-coref,v186.0,43032,44285,frau_knips,43894,43897,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43924,43945,mein liebwerther Mann,hanswurst
+gdc-coref,v186.0,43032,44285,frau_knips,43924,43928,mein,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43994,43997,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,43998,44002,mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44032,44036,Mich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44047,44058,meinem Mann,hanswurst
+gdc-coref,v186.0,43032,44285,frau_knips,44047,44053,meinem,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44099,44108,mein Herr,der_sultan
+gdc-coref,v186.0,43032,44285,frau_knips,44099,44103,mein,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44130,44141,meinen Leib,ganzem-Leib
+gdc-coref,v186.0,43032,44285,frau_knips,44130,44136,meinen,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44142,44151,kein Mann,eines-Mannes
+gdc-coref,v186.0,43032,44285,frau_knips,44195,44206,meinem Mann,hanswurst
+gdc-coref,v186.0,43032,44285,frau_knips,44195,44201,meinem,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44214,44217,ich,frau_knips
+gdc-coref,v186.0,43032,44285,frau_knips,44251,44262,Euer Gnaden,der_sultan
+gdc-coref,v186.0,44292,44467,der_sultan,44313,44317,Dich,frau_knips
+gdc-coref,v186.0,44292,44467,der_sultan,44334,44350,Dein lieber Mann,hanswurst
+gdc-coref,v186.0,44292,44467,der_sultan,44334,44338,Dein,frau_knips
+gdc-coref,v186.0,44292,44467,der_sultan,44353,44369,Mein liebes Kind,frau_knips
+gdc-coref,v186.0,44292,44467,der_sultan,44353,44357,Mein,der_sultan
+gdc-coref,v186.0,44292,44467,der_sultan,44371,44374,der,hanswurst
+gdc-coref,v186.0,44292,44467,der_sultan,44413,44416,Dir,frau_knips
+gdc-coref,v186.0,44292,44467,der_sultan,44442,44445,ich,der_sultan
+gdc-coref,v186.0,44292,44467,der_sultan,44446,44449,Dir,frau_knips
+gdc-coref,v186.0,44292,44467,der_sultan,44450,44455,meine,der_sultan
+gdc-coref,v186.0,44473,44658,frau_knips,44503,44522,gnädger Herr Sultan,der_sultan
+gdc-coref,v186.0,44473,44658,frau_knips,44572,44575,ich,frau_knips
+gdc-coref,v186.0,44473,44658,frau_knips,44576,44580,mich,frau_knips
+gdc-coref,v186.0,44473,44658,frau_knips,44599,44602,ich,frau_knips
+gdc-coref,v186.0,44664,44879,das_mädel,44683,44685,Du,der_sultan
+gdc-coref,v186.0,44664,44879,das_mädel,44690,44696,Sultan,der_sultan
+gdc-coref,v186.0,44664,44879,das_mädel,44713,44715,Du,der_sultan
+gdc-coref,v186.0,44664,44879,das_mädel,44735,44737,Du,der_sultan
+gdc-coref,v186.0,44664,44879,das_mädel,44749,44752,mir,das_mädel
+gdc-coref,v186.0,44664,44879,das_mädel,44753,44757,Dich,der_sultan
+gdc-coref,v186.0,44664,44879,das_mädel,44792,44803,'ner andern,frau_knips
+gdc-coref,v186.0,44664,44879,das_mädel,44861,44864,ich,das_mädel
+gdc-coref,v186.0,44664,44879,das_mädel,44865,44868,Dir,der_sultan
+gdc-coref,v186.0,44885,44965,der_sultan,44926,44938,Du Weibsstük,das_mädel
+gdc-coref,v186.0,44971,45106,frau_knips,44992,44995,ich,frau_knips
+gdc-coref,v186.0,44971,45106,frau_knips,45001,45022,Du's mein liebes Blut,das_mädel
+gdc-coref,v186.0,44971,45106,frau_knips,45006,45022,mein liebes Blut,mein-liebes-Blut
+gdc-coref,v186.0,44971,45106,frau_knips,45006,45010,mein,frau_knips
+gdc-coref,v186.0,44971,45106,frau_knips,45024,45040,Mein Töchterchen,das_mädel
+gdc-coref,v186.0,44971,45106,frau_knips,45024,45028,Mein,frau_knips
+gdc-coref,v186.0,44971,45106,frau_knips,45072,45075,ich,frau_knips
+gdc-coref,v186.0,44971,45106,frau_knips,45087,45105,mein liebstes Kind,das_mädel
+gdc-coref,v186.0,44971,45106,frau_knips,45087,45091,mein,frau_knips
+gdc-coref,v186.0,45113,45250,das_mädel,45133,45136,Sie,frau_knips
+gdc-coref,v186.0,45113,45250,das_mädel,45141,45145,Sich,frau_knips
+gdc-coref,v186.0,45113,45250,das_mädel,45146,45156,zum Teufel,dem-Teufel
+gdc-coref,v186.0,45113,45250,das_mädel,45171,45174,Sie,frau_knips
+gdc-coref,v186.0,45113,45250,das_mädel,45199,45207,das Rind,der_sultan
+gdc-coref,v186.0,45113,45250,das_mädel,45219,45222,mir,das_mädel
+gdc-coref,v186.0,45113,45250,das_mädel,45239,45242,ich,das_mädel
+gdc-coref,v186.0,45256,45688,frau_knips,45278,45281,ich,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45283,45286,ich,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45321,45324,ich,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45325,45329,Dich,das_mädel
+gdc-coref,v186.0,45256,45688,frau_knips,45363,45365,Du,das_mädel
+gdc-coref,v186.0,45256,45688,frau_knips,45391,45394,Ich,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45413,45416,ich,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45466,45471,Erden,Erden
+gdc-coref,v186.0,45256,45688,frau_knips,45477,45483,Sultan,der_sultan
+gdc-coref,v186.0,45256,45688,frau_knips,45489,45493,Dich,der_sultan
+gdc-coref,v186.0,45256,45688,frau_knips,45494,45498,mein,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45526,45539,ihre Unschuld,ihre-Unschuld
+gdc-coref,v186.0,45256,45688,frau_knips,45526,45530,ihre,das_mädel
+gdc-coref,v186.0,45256,45688,frau_knips,45552,45557,Deine,der_sultan
+gdc-coref,v186.0,45256,45688,frau_knips,45574,45592,ihrer Mutter Brust,ihrer-Mutter-Brust
+gdc-coref,v186.0,45256,45688,frau_knips,45574,45579,ihrer,das_mädel
+gdc-coref,v186.0,45256,45688,frau_knips,45595,45598,Ich,frau_knips
+gdc-coref,v186.0,45256,45688,frau_knips,45604,45622,kein Jungferschaft,kein-Jungferschaft
+gdc-coref,v186.0,45256,45688,frau_knips,45654,45665,Euer Gnaden,der_sultan
+gdc-coref,v186.0,45256,45688,frau_knips,45666,45678,die Unschuld,ihre-Unschuld
+gdc-coref,v186.0,45694,45850,der_sultan,45721,45726,Deine,frau_knips
+gdc-coref,v186.0,45694,45850,der_sultan,45735,45739,mich,der_sultan
+gdc-coref,v186.0,45751,45761,_stage,45751,45760,Zum Mädel,das_mädel
+gdc-coref,v186.0,45694,45850,der_sultan,45764,45766,Du,das_mädel
+gdc-coref,v186.0,45694,45850,der_sultan,45787,45791,Dich,das_mädel
+gdc-coref,v186.0,45694,45850,der_sultan,45814,45818,mich,der_sultan
+gdc-coref,v186.0,45694,45850,der_sultan,45829,45838,der Mamma,frau_knips
+gdc-coref,v186.0,45856,45979,das_mädel,45884,45888,mich,das_mädel
+gdc-coref,v186.0,45856,45979,das_mädel,45920,45923,Ich,das_mädel
+gdc-coref,v186.0,45856,45979,das_mädel,45934,45953,meine Jungferschaft,kein-Jungferschaft
+gdc-coref,v186.0,45856,45979,das_mädel,45934,45939,meine,das_mädel
+gdc-coref,v186.0,45856,45979,das_mädel,45959,45973,meine Unschuld,ihre-Unschuld
+gdc-coref,v186.0,45856,45979,das_mädel,45959,45964,meine,das_mädel
+gdc-coref,v186.0,45985,46021,frau_knips,45997,46020,Du unverschämte Hure Du,das_mädel
+gdc-coref,v186.0,46027,48341,das_mädel,46039,46058,Abscheuliche Mutter,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,46105,46107,Du,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,46110,46114,Dein,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,46251,46259,im Leibe,ganzem-Leib
+gdc-coref,v186.0,46027,48341,das_mädel,46274,46278,Dich,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,46289,46293,mich,das_mädel
+gdc-coref,v186.0,46027,48341,das_mädel,46329,46332,ich,das_mädel
+gdc-coref,v186.0,46027,48341,das_mädel,46353,46378,die Genies in Deutschland,die-Genies-in-Deutschland
+gdc-coref,v186.0,46027,48341,das_mädel,46367,46378,Deutschland,im-Land
+gdc-coref,v186.0,46027,48341,das_mädel,46381,46384,Die,die-Genies-in-Deutschland
+gdc-coref,v186.0,46027,48341,das_mädel,46392,46396,sich,die-Genies-in-Deutschland
+gdc-coref,v186.0,46027,48341,das_mädel,46406,46418,den Wienland,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,46425,46427,er,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,46432,46452,komsche Erzähhlungen,komsche-Erzähhlungen
+gdc-coref,v186.0,46027,48341,das_mädel,46470,46475,denen,komsche-Erzähhlungen
+gdc-coref,v186.0,46027,48341,das_mädel,46539,46543,sich,die-Genies-in-Deutschland
+gdc-coref,v186.0,46027,48341,das_mädel,46556,46561,seine,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,46648,46657,die Kerls,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,46753,46756,sie,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,46776,46779,wir,wir
+gdc-coref,v186.0,46027,48341,das_mädel,46784,46791,Wieland,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,46796,46806,'nem Mädel,'nem-Mädel
+gdc-coref,v186.0,46027,48341,das_mädel,46838,46842,ihre,'nem-Mädel
+gdc-coref,v186.0,46027,48341,das_mädel,46861,46864,sie,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,46865,46868,uns,wir
+gdc-coref,v186.0,46027,48341,das_mädel,46949,46952,ihm,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,46992,47007,den großen Mann,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,47039,47043,sich,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47072,47077,ihrer,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47092,47099,Wieland,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,47113,47119,seinen,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,47130,47147,der Menschennatur,die-Menschheit
+gdc-coref,v186.0,46027,48341,das_mädel,47149,47153,Ihre,die-Menschheit
+gdc-coref,v186.0,46027,48341,das_mädel,47166,47169,uns,wir
+gdc-coref,v186.0,46027,48341,das_mädel,47283,47286,sie,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47366,47370,ihre,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47439,47442,sie,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47443,47455,des Wielands,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,47483,47486,der,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,47556,47562,Seiner,den-Wienland
+gdc-coref,v186.0,46027,48341,das_mädel,47578,47591,die Hunde die,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47606,47610,sich,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47616,47619,sie,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,47655,47668,die Frau Mama,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,47677,47681,sich,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,47687,47691,ihre,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,47731,47741,einem Mann,der_sultan
+gdc-coref,v186.0,46027,48341,das_mädel,47747,47750,sie,frau_knips
+gdc-coref,v186.0,46027,48341,das_mädel,47860,47870,die Genies,die-Genies-in-Deutschland
+gdc-coref,v186.0,46027,48341,das_mädel,47871,47879,im Lande,im-Land
+gdc-coref,v186.0,46027,48341,das_mädel,47908,47918,dem Pindus,dem-Pindus
+gdc-coref,v186.0,46027,48341,das_mädel,47981,47990,die Kerls,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,48035,48040,ihren,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,48057,48067,der Tugend,der-Tugend
+gdc-coref,v186.0,46027,48341,das_mädel,48097,48100,ihr,der-Tugend
+gdc-coref,v186.0,46027,48341,das_mädel,48161,48171,die Tugend,der-Tugend
+gdc-coref,v186.0,46027,48341,das_mädel,48186,48189,uns,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,48190,48198,die Welt,die-Welt
+gdc-coref,v186.0,46027,48341,das_mädel,48236,48246,die Tugend,der-Tugend
+gdc-coref,v186.0,46027,48341,das_mädel,48274,48309,alle diesen bramarbasirenden Helden,die-Kerle
+gdc-coref,v186.0,46027,48341,das_mädel,48315,48326,ihrem Leben,ihrem-Leben
+gdc-coref,v186.0,46027,48341,das_mädel,48315,48320,ihrem,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48367,48380,das Weibsstük,das_mädel
+gdc-coref,v186.0,48347,50030,der_sultan,48418,48422,mich,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,48423,48433,der Teufel,dem-Teufel
+gdc-coref,v186.0,48347,50030,der_sultan,48439,48448,den Kerls,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48469,48472,sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48473,48483,die Tugend,der-Tugend
+gdc-coref,v186.0,48347,50030,der_sultan,48516,48519,sie,der-Tugend
+gdc-coref,v186.0,48347,50030,der_sultan,48562,48569,Wieland,den-Wienland
+gdc-coref,v186.0,48347,50030,der_sultan,48615,48618,ihn,den-Wienland
+gdc-coref,v186.0,48347,50030,der_sultan,48642,48644,er,den-Wienland
+gdc-coref,v186.0,48347,50030,der_sultan,48645,48656,den Agathon,den-Agathon
+gdc-coref,v186.0,48347,50030,der_sultan,48688,48694,meiner,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,48751,48756,ihnen,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48782,48790,Verstand,Verstand
+gdc-coref,v186.0,48347,50030,der_sultan,48812,48815,sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48823,48832,Die Kerls,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48844,48862,ihrem ganzen Leben,ihrem-Leben
+gdc-coref,v186.0,48347,50030,der_sultan,48844,48849,ihrem,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,48878,48886,Verstand,Verstand
+gdc-coref,v186.0,48347,50030,der_sultan,48922,48932,Im Agathon,den-Agathon
+gdc-coref,v186.0,48347,50030,der_sultan,48960,48981,die armseeligen Leute,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49004,49007,sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49035,49067,"sie 's all, die Kunstrichterchen",die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49070,49073,Sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49120,49124,ihre,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49157,49160,sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49161,49179,die grösten Männer,den-Wienland
+gdc-coref,v186.0,48347,50030,der_sultan,49215,49220,ihren,den-Wienland
+gdc-coref,v186.0,48347,50030,der_sultan,49280,49283,sie,den-Wienland
+gdc-coref,v186.0,48347,50030,der_sultan,49308,49331,"Du schöne Gabe, o Genie","Du-schöne-Gabe,-o-Genie"
+gdc-coref,v186.0,48347,50030,der_sultan,49344,49346,Du,"Du-schöne-Gabe,-o-Genie"
+gdc-coref,v186.0,48347,50030,der_sultan,49363,49369,Apollo,Apollo
+gdc-coref,v186.0,48347,50030,der_sultan,49388,49394,Deinen,Apollo
+gdc-coref,v186.0,48347,50030,der_sultan,49402,49411,am Himmel,am-Himmel
+gdc-coref,v186.0,48347,50030,der_sultan,49433,49442,die Kerls,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49469,49472,die,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49491,49501,den Pindus,dem-Pindus
+gdc-coref,v186.0,48347,50030,der_sultan,49508,49511,Sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49519,49528,die Musen,die-Musen
+gdc-coref,v186.0,48347,50030,der_sultan,49558,49565,Grazien,Grazien
+gdc-coref,v186.0,48347,50030,der_sultan,49570,49575,ihnen,die-Musen
+gdc-coref,v186.0,48347,50030,der_sultan,49597,49600,sie,Grazien
+gdc-coref,v186.0,48347,50030,der_sultan,49631,49635,ihre,Grazien
+gdc-coref,v186.0,48347,50030,der_sultan,49672,49675,sie,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49683,49692,die Hunde,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49706,49721,die ganze Zunft,die-Kerle
+gdc-coref,v186.0,48347,50030,der_sultan,49762,49768,unsern,
+gdc-coref,v186.0,49785,49800,_stage,49785,49799,Zur Frau Knips,frau_knips
+gdc-coref,v186.0,48347,50030,der_sultan,49810,49813,ich,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,49814,49818,Euch,frau_knips
+gdc-coref,v186.0,48347,50030,der_sultan,49830,49836,Madame,frau_knips
+gdc-coref,v186.0,48347,50030,der_sultan,49839,49842,Ihr,frau_knips
+gdc-coref,v186.0,48347,50030,der_sultan,49848,49852,mich,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,49874,49877,Ich,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,49896,49909,'nem Duodrame,'nem-Duodrame
+gdc-coref,v186.0,48347,50030,der_sultan,49915,49933,"Dir, mein Liebchen",frau_knips
+gdc-coref,v186.0,48347,50030,der_sultan,49920,49924,mein,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,49936,49943,Mamsell,das_mädel
+gdc-coref,v186.0,48347,50030,der_sultan,49961,49965,mich,der_sultan
+gdc-coref,v186.0,48347,50030,der_sultan,50011,50029,ihre Jungferschaft,kein-Jungferschaft
+gdc-coref,v186.0,48347,50030,der_sultan,50011,50015,ihre,das_mädel
+gdc-coref,v186.0,50036,50515,das_mädel,50085,50097,Du Hundekerl,der_sultan
+gdc-coref,v186.0,50036,50515,das_mädel,50105,50107,Du,der_sultan
+gdc-coref,v186.0,50036,50515,das_mädel,50139,50141,Du,der_sultan
+gdc-coref,v186.0,50036,50515,das_mädel,50147,50150,ich,das_mädel
+gdc-coref,v186.0,50036,50515,das_mädel,50157,50161,mich,das_mädel
+gdc-coref,v186.0,50036,50515,das_mädel,50180,50183,Dir,der_sultan
+gdc-coref,v186.0,50036,50515,das_mädel,50185,50194,Du Bestia,der_sultan
+gdc-coref,v186.0,50036,50515,das_mädel,50209,50229,der werthe Frau Mama,frau_knips
+gdc-coref,v186.0,50036,50515,das_mädel,50259,50265,meinen,das_mädel
+gdc-coref,v186.0,50036,50515,das_mädel,50293,50296,mir,das_mädel
+gdc-coref,v186.0,50036,50515,das_mädel,50312,50326,Ein altes Weib,frau_knips
+gdc-coref,v186.0,50036,50515,das_mädel,50422,50425,Sie,der_sultan
+gdc-coref,v186.0,50036,50515,das_mädel,50463,50467,Eure,der_sultan
+gdc-coref,v186.0,50534,50549,_stage,50534,50548,zur Frau Knips,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50552,50557,Madam,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50590,50593,ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,50621,50632,der Tochter,das_mädel
+gdc-coref,v186.0,50522,52952,der_sultan,50671,50674,Sie,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50682,50686,sich,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50696,50703,Mamsell,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50721,50724,Sie,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50734,50737,Sie,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50744,50748,Sich,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,50776,50779,Ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,50825,50828,ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,50851,50854,mir,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,50865,50876,zum Mädchen,das_mädel
+gdc-coref,v186.0,50522,52952,der_sultan,50939,50948,die Mädel,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,50986,50989,Sie,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51008,51011,sie,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51086,51092,Kupido,Kupido
+gdc-coref,v186.0,50522,52952,der_sultan,51123,51125,er,Kupido
+gdc-coref,v186.0,50522,52952,der_sultan,51126,51135,'nen Kerl,'nen-Kerl
+gdc-coref,v186.0,50522,52952,der_sultan,51207,51231,solchen unreifen Dingern,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51237,51241,Ihre,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51260,51265,einen,man
+gdc-coref,v186.0,50522,52952,der_sultan,51277,51280,Sie,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51298,51301,sie,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51344,51347,ihr,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51453,51456,Sie,die-Mädel
+gdc-coref,v186.0,50522,52952,der_sultan,51499,51509,einen Kerl,'nen-Kerl
+gdc-coref,v186.0,50522,52952,der_sultan,51527,51539,ein Weibchen,ein-Weibchen
+gdc-coref,v186.0,50522,52952,der_sultan,51587,51597,so ein Kuß,so-ein-Kuß
+gdc-coref,v186.0,50522,52952,der_sultan,51615,51618,Der,so-ein-Kuß
+gdc-coref,v186.0,50522,52952,der_sultan,51666,51669,man,man
+gdc-coref,v186.0,50522,52952,der_sultan,51696,51713,Eines Weibskusses,so-ein-Kuß
+gdc-coref,v186.0,50522,52952,der_sultan,51730,51739,Der Liebe,Der-Liebe
+gdc-coref,v186.0,50522,52952,der_sultan,51786,51791,ihrer,ein-Weibchen
+gdc-coref,v186.0,50522,52952,der_sultan,51799,51808,Ihr Busen,ihr-Busen
+gdc-coref,v186.0,50522,52952,der_sultan,51799,51802,Ihr,ein-Weibchen
+gdc-coref,v186.0,50522,52952,der_sultan,51943,51954,einem Weibe,ein-Weibchen
+gdc-coref,v186.0,50522,52952,der_sultan,51967,51977,zum Himmel,am-Himmel
+gdc-coref,v186.0,50522,52952,der_sultan,51980,51983,Man,man
+gdc-coref,v186.0,50522,52952,der_sultan,51996,52004,den Leib,im-Leibe
+gdc-coref,v186.0,50522,52952,der_sultan,52036,52040,sich,man
+gdc-coref,v186.0,50522,52952,der_sultan,52114,52122,der Lieb,Der-Liebe
+gdc-coref,v186.0,50522,52952,der_sultan,52329,52334,unser,
+gdc-coref,v186.0,50522,52952,der_sultan,52360,52375,der ganzen Erde,Erden
+gdc-coref,v186.0,50522,52952,der_sultan,52418,52429,so ein Weib,ein-Weibchen
+gdc-coref,v186.0,50522,52952,der_sultan,52499,52502,uns,
+gdc-coref,v186.0,50522,52952,der_sultan,52513,52522,ihr Busen,ihr-Busen
+gdc-coref,v186.0,50522,52952,der_sultan,52513,52516,ihr,ein-Weibchen
+gdc-coref,v186.0,50522,52952,der_sultan,52523,52527,sich,ihr-Busen
+gdc-coref,v186.0,50522,52952,der_sultan,52538,52544,Weiber,Weiber
+gdc-coref,v186.0,50522,52952,der_sultan,52553,52559,Weiber,Weiber
+gdc-coref,v186.0,50522,52952,der_sultan,52578,52587,der Liebe,Der-Liebe
+gdc-coref,v186.0,50522,52952,der_sultan,52612,52618,unsres,
+gdc-coref,v186.0,50522,52952,der_sultan,52643,52649,Mamsel,das_mädel
+gdc-coref,v186.0,50522,52952,der_sultan,52651,52654,Sie,das_mädel
+gdc-coref,v186.0,50522,52952,der_sultan,52683,52686,ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,52687,52703,Ihre Frau Mutter,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,52687,52691,Ihre,das_mädel
+gdc-coref,v186.0,50522,52952,der_sultan,52717,52720,ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,52721,52724,sie,das_mädel
+gdc-coref,v186.0,50522,52952,der_sultan,52741,52750,Sie Madam,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,52760,52763,Sie,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,52764,52768,sich,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,52769,52780,zum Duodram,'nem-Duodrame
+gdc-coref,v186.0,50522,52952,der_sultan,52783,52786,Ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,52802,52806,mich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,52842,52845,ich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,52849,52855,Deinem,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,52864,52876,Deiner Brust,ihrer-Mutter-Brust
+gdc-coref,v186.0,50522,52952,der_sultan,52864,52870,Deiner,frau_knips
+gdc-coref,v186.0,50522,52952,der_sultan,52893,52897,Mich,der_sultan
+gdc-coref,v186.0,50522,52952,der_sultan,52903,52907,mein,der_sultan
+gdc-coref,v186.0,52942,52952,_stage,52942,52948,Sultan,der_sultan
+gdc-coref,v186.0,53002,53027,_stage,53002,53011,Das Mädel,das_mädel
+gdc-coref,v186.0,53002,53027,_stage,53016,53026,Frau Knips,frau_knips
+gdc-coref,v186.0,53030,53383,das_mädel,53055,53058,ich,das_mädel
+gdc-coref,v186.0,53030,53383,das_mädel,53094,53097,Dir,frau_knips
+gdc-coref,v186.0,53030,53383,das_mädel,53112,53121,dem Kopfe,der-Kopf
+gdc-coref,v186.0,53030,53383,das_mädel,53131,53149,Verwünschte Mutter,frau_knips
+gdc-coref,v186.0,53030,53383,das_mädel,53151,53178,der hundsfüt'sche Wallfisch,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,53030,53383,das_mädel,53187,53189,er,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,53030,53383,das_mädel,53190,53194,Dich,frau_knips
+gdc-coref,v186.0,53030,53383,das_mädel,53209,53213,sich,ein-großer-mächtiger-Wallfisch
+gdc-coref,v186.0,53030,53383,das_mädel,53233,53236,ich,das_mädel
+gdc-coref,v186.0,53030,53383,das_mädel,53274,53299,Du verdammter Flederwisch,frau_knips
+gdc-coref,v186.0,53030,53383,das_mädel,53327,53348,der verfluchte Sultan,der_sultan
+gdc-coref,v186.0,53389,53515,frau_knips,53410,53416,Nikkel,das_mädel
+gdc-coref,v186.0,53389,53515,frau_knips,53423,53426,ich,frau_knips
+gdc-coref,v186.0,53389,53515,frau_knips,53427,53431,Dich,das_mädel
+gdc-coref,v186.0,53389,53515,frau_knips,53451,53453,Du,das_mädel
+gdc-coref,v186.0,53389,53515,frau_knips,53466,53475,die Ohren,Ohren
+gdc-coref,v186.0,53389,53515,frau_knips,53484,53487,ich,frau_knips
+gdc-coref,v186.0,53389,53515,frau_knips,53497,53506,Dich Hure,das_mädel
+gdc-coref,v186.0,53521,53773,das_mädel,53537,53541,mich,das_mädel
+gdc-coref,v186.0,53521,53773,das_mädel,53562,53564,Du,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53588,53590,Du,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53591,53595,Dich,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53599,53602,Hur,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53622,53625,ich,das_mädel
+gdc-coref,v186.0,53521,53773,das_mädel,53626,53629,Dir,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53634,53643,dem Kopfe,der-Kopf
+gdc-coref,v186.0,53521,53773,das_mädel,53661,53670,Du Bestie,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53698,53700,Du,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53723,53726,mir,das_mädel
+gdc-coref,v186.0,53521,53773,das_mädel,53727,53737,den Sultan,der_sultan
+gdc-coref,v186.0,53521,53773,das_mädel,53745,53755,Du Kanalje,frau_knips
+gdc-coref,v186.0,53521,53773,das_mädel,53761,53772,keinen Mann,hanswurst
+gdc-coref,v186.0,53779,54035,frau_knips,53792,53814,"Ein'n Mann, ein'n Mann",hanswurst
+gdc-coref,v186.0,53779,54035,frau_knips,53825,53828,ich,frau_knips
+gdc-coref,v186.0,53779,54035,frau_knips,53829,53832,ihn,hanswurst
+gdc-coref,v186.0,53779,54035,frau_knips,53844,53848,sich,hanswurst
+gdc-coref,v186.0,53779,54035,frau_knips,53849,53857,der Kerl,hanswurst
+gdc-coref,v186.0,53779,54035,frau_knips,53892,53894,Du,das_mädel
+gdc-coref,v186.0,53779,54035,frau_knips,53896,53899,ich,frau_knips
+gdc-coref,v186.0,53779,54035,frau_knips,53907,53917,den Lumpen,hanswurst
+gdc-coref,v186.0,53779,54035,frau_knips,53941,53943,Du,das_mädel
+gdc-coref,v186.0,53779,54035,frau_knips,53944,53948,Dich,das_mädel
+gdc-coref,v186.0,53779,54035,frau_knips,53950,53966,mein Töchterchen,das_mädel
+gdc-coref,v186.0,53779,54035,frau_knips,53950,53954,mein,frau_knips
+gdc-coref,v186.0,53779,54035,frau_knips,54015,54019,Dich,das_mädel
+gdc-coref,v186.0,54041,54509,das_mädel,54058,54061,ich,das_mädel
+gdc-coref,v186.0,54041,54509,das_mädel,54094,54119,Du Rabenas von einem Weib,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54133,54135,Du,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54163,54166,Ich,das_mädel
+gdc-coref,v186.0,54041,54509,das_mädel,54173,54177,Dich,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54196,54204,der Saal,Ein-Vorsaal
+gdc-coref,v186.0,54041,54509,das_mädel,54234,54236,Du,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54243,54247,Dich,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54288,54291,ich,das_mädel
+gdc-coref,v186.0,54041,54509,das_mädel,54299,54317,abscheuliches Weib,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54347,54358,ganzem Leib,ganzem-Leib
+gdc-coref,v186.0,54041,54509,das_mädel,54361,54378,Des Herrn Sultans,der_sultan
+gdc-coref,v186.0,54041,54509,das_mädel,54398,54402,Dich,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54407,54413,meinen,das_mädel
+gdc-coref,v186.0,54041,54509,das_mädel,54448,54450,Du,frau_knips
+gdc-coref,v186.0,54041,54509,das_mädel,54451,54460,die Nacht,die-Nacht
+gdc-coref,v186.0,54041,54509,das_mädel,54461,54471,zum Sultan,der_sultan
+gdc-coref,v186.0,54041,54509,das_mädel,54478,54480,Er,der_sultan
+gdc-coref,v186.0,54041,54509,das_mädel,54481,54485,Dich,frau_knips
+gdc-coref,v186.0,54515,54774,frau_knips,54528,54551,Abscheuliches Weibsstük,das_mädel
+gdc-coref,v186.0,54515,54774,frau_knips,54573,54579,Dein'n,das_mädel
+gdc-coref,v186.0,54515,54774,frau_knips,54597,54600,ich,frau_knips
+gdc-coref,v186.0,54515,54774,frau_knips,54620,54634,s vierte Gebot,s-vierte-Gebot
+gdc-coref,v186.0,54515,54774,frau_knips,54636,54651,Du saubres Haar,das_mädel
+gdc-coref,v186.0,54515,54774,frau_knips,54685,54689,Dich,das_mädel
+gdc-coref,v186.0,54515,54774,frau_knips,54690,54691,s,s-vierte-Gebot
+gdc-coref,v186.0,54515,54774,frau_knips,54706,54718,Deinen Vater,hanswurst
+gdc-coref,v186.0,54515,54774,frau_knips,54706,54712,Deinen,
+gdc-coref,v186.0,54515,54774,frau_knips,54747,54748,s,s-vierte-Gebot
+gdc-coref,v186.0,54780,54992,das_mädel,54815,54820,Madam,frau_knips
+gdc-coref,v186.0,54780,54992,das_mädel,54848,54851,ich,das_mädel
+gdc-coref,v186.0,54780,54992,das_mädel,54884,54886,Du,frau_knips
+gdc-coref,v186.0,54780,54992,das_mädel,54890,54899,s Sultans,der_sultan
+gdc-coref,v186.0,54780,54992,das_mädel,54907,54911,Dich,frau_knips
+gdc-coref,v186.0,54780,54992,das_mädel,54919,54923,mein,das_mädel
+gdc-coref,v186.0,54780,54992,das_mädel,54926,54937,diese Nacht,die-Nacht
+gdc-coref,v186.0,54998,55135,frau_knips,55034,55047,Du Satanskind,das_mädel
+gdc-coref,v186.0,54998,55135,frau_knips,55056,55062,meinen,frau_knips
+gdc-coref,v186.0,54998,55135,frau_knips,55092,55095,ich,frau_knips
+gdc-coref,v186.0,54998,55135,frau_knips,55096,55100,Dich,das_mädel
+gdc-coref,v186.0,55110,55135,_stage,55110,55113,Sie,frau_knips
+gdc-coref,v186.0,55110,55135,_stage,55122,55125,sie,das_mädel
+gdc-coref,v186.0,55186,55224,_stage,55186,55192,Vorige,
+gdc-coref,v186.0,55186,55224,_stage,55214,55223,Hanswurst,hanswurst
+gdc-coref,v186.0,55227,56408,hanswurst,55301,55309,die Leut,die-Leut
+gdc-coref,v186.0,55227,56408,hanswurst,55345,55348,ihr,die-Leut
+gdc-coref,v186.0,55227,56408,hanswurst,55382,55385,ich,hanswurst
+gdc-coref,v186.0,55227,56408,hanswurst,55387,55393,Himmel,am-Himmel
+gdc-coref,v186.0,55227,56408,hanswurst,55402,55406,mich,hanswurst
+gdc-coref,v186.0,55227,56408,hanswurst,55430,55438,der Erde,Erden
+gdc-coref,v186.0,55227,56408,hanswurst,55510,55514,Sich,
+gdc-coref,v186.0,55227,56408,hanswurst,55559,55565,meinem,hanswurst
+gdc-coref,v186.0,55227,56408,hanswurst,55593,55595,es,
+gdc-coref,v186.0,55227,56408,hanswurst,55605,55626,Deutsche Kunstrichter,die-Kerle
+gdc-coref,v186.0,55227,56408,hanswurst,55646,55649,sie,
+gdc-coref,v186.0,55227,56408,hanswurst,55736,55747,Rezensionen,Rezensionen
+gdc-coref,v186.0,55227,56408,hanswurst,55759,55762,Die,Rezensionen
+gdc-coref,v186.0,55227,56408,hanswurst,55796,55799,sie,Rezensionen
+gdc-coref,v186.0,55227,56408,hanswurst,55801,55814,Ein Weibsbild,ein-Weibchen
+gdc-coref,v186.0,55227,56408,hanswurst,55828,55831,das,ein-Weibchen
+gdc-coref,v186.0,55227,56408,hanswurst,55992,56003,Deutschland,im-Land
+gdc-coref,v186.0,55227,56408,hanswurst,56013,56022,mein Treu,mein-Treu
+gdc-coref,v186.0,55227,56408,hanswurst,56013,56017,mein,hanswurst
+gdc-coref,v186.0,55227,56408,hanswurst,56062,56065,sie,mein-Treu
+gdc-coref,v186.0,55227,56408,hanswurst,56133,56136,sie,mein-Treu
+gdc-coref,v186.0,55227,56408,hanswurst,56154,56164,Zum Teufel,dem-Teufel
+gdc-coref,v186.0,55227,56408,hanswurst,56166,56195,verfluchtes Kunstrichtergepäk,die-Kerle
+gdc-coref,v186.0,55227,56408,hanswurst,56218,56223,Eurem,die-Kerle
+gdc-coref,v186.0,55227,56408,hanswurst,56236,56239,Ihr,die-Kerle
+gdc-coref,v186.0,55227,56408,hanswurst,56353,56357,Euch,die-Kerle
+gdc-coref,v186.0,55227,56408,hanswurst,56383,56387,Euch,die-Kerle
+gdc-coref,v186.0,56426,56479,_stage,56444,56449,ihren,frau_knips
+gdc-coref,v186.0,56414,56795,frau_knips,56517,56538,Du verstümmelter Hund,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56545,56547,Du,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56579,56590,Deinetwegen,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56601,56621,verschnitt'ne Bestia,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56654,56657,mir,frau_knips
+gdc-coref,v186.0,56414,56795,frau_knips,56668,56671,Ich,frau_knips
+gdc-coref,v186.0,56414,56795,frau_knips,56678,56693,die infame Hure,das_mädel
+gdc-coref,v186.0,56414,56795,frau_knips,56704,56712,zur Welt,die-Welt
+gdc-coref,v186.0,56414,56795,frau_knips,56729,56742,Du Sapperment,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56753,56755,Du,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56761,56767,Lümmel,hanswurst
+gdc-coref,v186.0,56414,56795,frau_knips,56778,56782,Dich,hanswurst
+gdc-coref,v186.0,56801,56927,hanswurst,56828,56837,mein Weib,frau_knips
+gdc-coref,v186.0,56801,56927,hanswurst,56828,56832,mein,hanswurst
+gdc-coref,v186.0,56801,56927,hanswurst,56850,56854,Dich,frau_knips
+gdc-coref,v186.0,56801,56927,hanswurst,56878,56880,Du,frau_knips
+gdc-coref,v186.0,56801,56927,hanswurst,56884,56901,Deinem eigen Blut,mein-liebes-Blut
+gdc-coref,v186.0,56801,56927,hanswurst,56884,56890,Deinem,frau_knips
+gdc-coref,v186.0,56801,56927,hanswurst,56903,56926,Vermaledeite Höllenbrut,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,56950,56955,Vater,hanswurst
+gdc-coref,v186.0,56933,57289,das_mädel,56957,56960,Ihr,hanswurst
+gdc-coref,v186.0,56933,57289,das_mädel,56966,56988,ein abscheuliches Weib,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,57002,57005,sie,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,57011,57021,dem Sultan,der_sultan
+gdc-coref,v186.0,56933,57289,das_mädel,57022,57032,ihren Leib,ganzem-Leib
+gdc-coref,v186.0,56933,57289,das_mädel,57022,57027,ihren,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,57038,57049,diese Nacht,die-Nacht
+gdc-coref,v186.0,56933,57289,das_mädel,57063,57066,Ihr,hanswurst
+gdc-coref,v186.0,56933,57289,das_mädel,57073,57083,der Sultan,der_sultan
+gdc-coref,v186.0,56933,57289,das_mädel,57091,57094,mir,das_mädel
+gdc-coref,v186.0,56933,57289,das_mädel,57130,57138,das Weib,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,57166,57168,er,der_sultan
+gdc-coref,v186.0,56933,57289,das_mädel,57212,57214,er,der_sultan
+gdc-coref,v186.0,56933,57289,das_mädel,57219,57222,ihr,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,57234,57237,ich,das_mädel
+gdc-coref,v186.0,56933,57289,das_mädel,57263,57266,sie,frau_knips
+gdc-coref,v186.0,56933,57289,das_mädel,57267,57271,mich,das_mädel
+gdc-coref,v186.0,56933,57289,das_mädel,57275,57280,meine,das_mädel
+gdc-coref,v186.0,57295,57396,hanswurst,57319,57331,mein Tochter,das_mädel
+gdc-coref,v186.0,57295,57396,hanswurst,57319,57323,mein,hanswurst
+gdc-coref,v186.0,57295,57396,hanswurst,57333,57343,Du Hure Du,frau_knips
+gdc-coref,v186.0,57295,57396,hanswurst,57351,57353,Du,frau_knips
+gdc-coref,v186.0,57295,57396,hanswurst,57376,57379,ich,hanswurst
+gdc-coref,v186.0,57295,57396,hanswurst,57386,57390,Dein,frau_knips
+gdc-coref,v186.0,57402,57719,frau_knips,57455,57461,Bestie,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57469,57473,mich,frau_knips
+gdc-coref,v186.0,57402,57719,frau_knips,57502,57504,Du,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57505,57509,Dich,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57542,57544,Du,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57546,57549,ich,frau_knips
+gdc-coref,v186.0,57402,57719,frau_knips,57555,57558,Dir,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57576,57594,Verstümmelter Hund,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57605,57607,Du,hanswurst
+gdc-coref,v186.0,57402,57719,frau_knips,57632,57635,ich,frau_knips
+gdc-coref,v186.0,57402,57719,frau_knips,57662,57665,Dir,hanswurst
+gdc-coref,v186.0,57700,57719,_stage,57711,57714,ihn,hanswurst
+gdc-coref,v186.0,57724,58303,hanswurst,57764,57767,Sie,frau_knips
+gdc-coref,v186.0,57724,58303,hanswurst,57775,57779,mich,hanswurst
+gdc-coref,v186.0,57724,58303,hanswurst,57786,57791,Liebe,Der-Liebe
+gdc-coref,v186.0,57724,58303,hanswurst,57793,57798,Liebe,Der-Liebe
+gdc-coref,v186.0,57724,58303,hanswurst,57801,57831,Du einzge Quelle der Seligkeit,Der-Liebe
+gdc-coref,v186.0,57724,58303,hanswurst,57855,57858,uns,
+gdc-coref,v186.0,57724,58303,hanswurst,57872,57875,uns,
+gdc-coref,v186.0,57724,58303,hanswurst,57883,57893,zum Himmel,am-Himmel
+gdc-coref,v186.0,57724,58303,hanswurst,57916,57919,mir,hanswurst
+gdc-coref,v186.0,57724,58303,hanswurst,57970,57974,Dich,frau_knips
+gdc-coref,v186.0,57724,58303,hanswurst,58017,58021,Dich,frau_knips
+gdc-coref,v186.0,57724,58303,hanswurst,58059,58063,Dich,frau_knips
+gdc-coref,v186.0,57724,58303,hanswurst,58064,58069,meine,hanswurst
+gdc-coref,v186.0,57724,58303,hanswurst,58090,58092,Du,frau_knips
+gdc-coref,v186.0,57724,58303,hanswurst,58099,58103,mein,hanswurst
+gdc-coref,v186.0,57724,58303,hanswurst,58137,58141,Dich,frau_knips
+gdc-coref,v186.0,57724,58303,hanswurst,58148,58151,ich,hanswurst
+gdc-coref,v186.0,57724,58303,hanswurst,58236,58262,liebe Quelle der Seligkeit,Der-Liebe
+gdc-coref,v186.0,57724,58303,hanswurst,58276,58278,'u,Der-Liebe
+gdc-coref,v186.0,57724,58303,hanswurst,58279,58282,mir,hanswurst
+gdc-coref,v186.0,58356,58374,_stage,58356,58362,Sultan,der_sultan
+gdc-coref,v186.0,58356,58374,_stage,58367,58373,Vorige,
+gdc-coref,v186.0,58377,58633,der_sultan,58425,58430,meine,der_sultan
+gdc-coref,v186.0,58377,58633,der_sultan,58456,58459,ich,der_sultan
+gdc-coref,v186.0,58377,58633,der_sultan,58470,58473,mir,der_sultan
+gdc-coref,v186.0,58377,58633,der_sultan,58475,58478,ich,der_sultan
+gdc-coref,v186.0,58377,58633,der_sultan,58494,58503,Das Mädel,das_mädel
+gdc-coref,v186.0,58377,58633,der_sultan,58517,58525,das Weib,frau_knips
+gdc-coref,v186.0,58586,58600,_stage,58586,58599,Zum Hanswurst,hanswurst
+gdc-coref,v186.0,58377,58633,der_sultan,58609,58614,Sklav,hanswurst
+gdc-coref,v186.0,58638,58827,hanswurst,58650,58660,Die Weiber,
+gdc-coref,v186.0,58638,58827,hanswurst,58668,58672,sich,
+gdc-coref,v186.0,58638,58827,hanswurst,58685,58689,sich,
+gdc-coref,v186.0,58638,58827,hanswurst,58690,58699,s Gesicht,ein-hübsch-Gesicht
+gdc-coref,v186.0,58638,58827,hanswurst,58718,58722,jede,
+gdc-coref,v186.0,58638,58827,hanswurst,58723,58728,Deine,der_sultan
+gdc-coref,v186.0,58638,58827,hanswurst,58746,58749,Ich,hanswurst
+gdc-coref,v186.0,58638,58827,hanswurst,58767,58770,sie,
+gdc-coref,v186.0,58638,58827,hanswurst,58782,58786,mich,hanswurst
+gdc-coref,v186.0,58638,58827,hanswurst,58801,58804,ich,hanswurst
+gdc-coref,v186.0,58834,58953,frau_knips,58847,58849,Er,hanswurst
+gdc-coref,v186.0,58834,58953,frau_knips,58855,58863,der Bube,hanswurst
+gdc-coref,v186.0,58834,58953,frau_knips,58865,58877,Gnädger Herr,der_sultan
+gdc-coref,v186.0,58834,58953,frau_knips,58897,58899,er,hanswurst
+gdc-coref,v186.0,58834,58953,frau_knips,58919,58922,ich,frau_knips
+gdc-coref,v186.0,58834,58953,frau_knips,58923,58932,die Nacht,die-Nacht
+gdc-coref,v186.0,58834,58953,frau_knips,58942,58945,Dir,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,58983,58987,Dein,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59001,59005,Fraz,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59006,59008,Du,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59042,59053,meinem Land,im-Land
+gdc-coref,v186.0,58959,59418,der_sultan,59042,59048,meinem,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59090,59093,ich,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59094,59097,Dir,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59110,59113,ich,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59120,59132,solche Hunde,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59137,59149,meinem Lande,im-Land
+gdc-coref,v186.0,58959,59418,der_sultan,59137,59143,meinem,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59159,59168,Ihr Beide,
+gdc-coref,v186.0,58959,59418,der_sultan,59194,59204,Euren Leib,ganzem-Leib
+gdc-coref,v186.0,58959,59418,der_sultan,59194,59199,Euren,frau_knips
+gdc-coref,v186.0,58959,59418,der_sultan,59209,59221,diesem Blute,mein-liebes-Blut
+gdc-coref,v186.0,58959,59418,der_sultan,59228,59231,Das,mein-liebes-Blut
+gdc-coref,v186.0,58959,59418,der_sultan,59232,59235,mir,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59257,59265,im Leibe,im-Leibe
+gdc-coref,v186.0,58959,59418,der_sultan,59287,59289,Du,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59301,59305,Fraz,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59320,59323,ich,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59325,59328,sie,frau_knips
+gdc-coref,v186.0,58959,59418,der_sultan,59338,59341,Mir,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59350,59353,Dir,hanswurst
+gdc-coref,v186.0,58959,59418,der_sultan,59370,59373,sie,frau_knips
+gdc-coref,v186.0,58959,59418,der_sultan,59383,59386,mir,der_sultan
+gdc-coref,v186.0,58959,59418,der_sultan,59396,59406,Dein Mädel,das_mädel
+gdc-coref,v186.0,58959,59418,der_sultan,59396,59400,Dein,hanswurst
+gdc-coref,v186.0,59435,59475,_stage,59439,59443,sich,das_mädel
+gdc-coref,v186.0,59435,59475,_stage,59448,59453,ihrer,das_mädel
+gdc-coref,v186.0,59424,59583,das_mädel,59479,59482,Ich,das_mädel
+gdc-coref,v186.0,59424,59583,das_mädel,59524,59527,mir,das_mädel
+gdc-coref,v186.0,59424,59583,das_mädel,59569,59574,meine,das_mädel
+gdc-coref,v186.0,59597,59613,_stage,59597,59602,beide,
+gdc-coref,v186.0,59589,59722,der_sultan,59634,59636,Du,hanswurst
+gdc-coref,v186.0,59589,59722,der_sultan,59643,59647,Dich,hanswurst
+gdc-coref,v186.0,59589,59722,der_sultan,59669,59671,Du,hanswurst
+gdc-coref,v186.0,59589,59722,der_sultan,59685,59691,Sklave,hanswurst
+gdc-coref,v186.0,59589,59722,der_sultan,59700,59704,mich,der_sultan
+gdc-coref,v186.0,59709,59722,_stage,59709,59718,Alle drei,
+gdc-coref,v186.0,59775,60034,hanswurst,59818,59827,die Genie,
+gdc-coref,v186.0,59775,60034,hanswurst,59859,59862,sie,
+gdc-coref,v186.0,59775,60034,hanswurst,59875,59885,die Weiber,frau_knips
+gdc-coref,v186.0,59775,60034,hanswurst,59897,59908,die Töchter,das_mädel
+gdc-coref,v186.0,59775,60034,hanswurst,59984,59993,Die Hunde,
+gdc-coref,v186.0,59775,60034,hanswurst,60010,60013,sie,
+gdc-coref,v186.0,60139,65340,hanswurst,60410,60413,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60445,60449,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60493,60496,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60536,60540,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60672,60675,mir,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60694,60697,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60745,60749,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60765,60769,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60791,60794,mir,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60813,60816,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60846,60849,Ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60873,60877,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60948,60954,meiner,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60975,60979,mein,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,60998,61002,Mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,61098,61102,Mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,61324,61328,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,61364,61368,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,61689,61692,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,61709,61712,mir,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63087,63090,mir,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63120,63124,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63158,63161,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63163,63167,Mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63215,63219,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63244,63247,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63268,63271,Ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63311,63314,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63315,63319,mein,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63356,63359,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63398,63401,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63424,63427,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63470,63473,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63737,63743,meinem,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63919,63922,mir,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,63976,63980,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,64097,64101,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,64188,64192,mein,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,64267,64270,Ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,64768,64771,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,64804,64807,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,65106,65112,meiner,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,65120,65123,Ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,65130,65134,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,65283,65286,ich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,65291,65295,mich,hanswurst
+gdc-coref,v186.0,60139,65340,hanswurst,65312,65315,mir,hanswurst
+gdc-coref,v186.0,65346,65443,die_dame,65386,65390,mein,die_dame
+gdc-coref,v186.0,65346,65443,die_dame,65397,65400,ich,die_dame
+gdc-coref,v186.0,65449,65950,hanswurst,65508,65512,mein,hanswurst
+gdc-coref,v186.0,65449,65950,hanswurst,65791,65794,ich,hanswurst
+gdc-coref,v186.0,65449,65950,hanswurst,65842,65845,ich,hanswurst
+gdc-coref,v186.0,65449,65950,hanswurst,65919,65922,ich,hanswurst
+gdc-coref,v186.0,65449,65950,hanswurst,65932,65935,ich,hanswurst
+gdc-coref,v186.0,65449,65950,hanswurst,65936,65940,mich,hanswurst
+gdc-coref,v186.0,65956,66379,die_dame,66114,66118,mein,die_dame
+gdc-coref,v186.0,65956,66379,die_dame,66125,66129,mein,die_dame
+gdc-coref,v186.0,65956,66379,die_dame,66153,66159,meinen,die_dame
+gdc-coref,v186.0,65956,66379,die_dame,66195,66198,ich,die_dame
+gdc-coref,v186.0,65956,66379,die_dame,66248,66252,mein,die_dame
+gdc-coref,v186.0,66385,66622,hanswurst,66448,66453,meine,hanswurst
+gdc-coref,v186.0,66385,66622,hanswurst,66521,66524,ich,hanswurst
+gdc-coref,v186.0,66385,66622,hanswurst,66611,66614,ich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,66972,66975,ich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67087,67092,meine,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67116,67120,mich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67170,67174,mich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67204,67207,mir,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67247,67253,meinen,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67282,67285,ich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67338,67341,Mir,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67389,67392,ich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67442,67446,mich,hanswurst
+gdc-coref,v186.0,66927,67539,hanswurst,67471,67474,ich,hanswurst
+gdc-coref,v186.0,67742,67842,die_dame,67766,67769,ich,die_dame
+gdc-coref,v186.0,67742,67842,die_dame,67819,67822,ich,die_dame
+gdc-coref,v186.0,67980,68073,die_dame,68006,68009,ich,die_dame
+gdc-coref,v186.0,68079,68444,ein_alt_mütterchen,68340,68344,mich,ein_alt_mütterchen
+gdc-coref,v186.0,68450,68633,die_dame,68494,68497,ich,die_dame
+gdc-coref,v186.0,68450,68633,die_dame,68564,68567,ich,die_dame
+gdc-coref,v186.0,69256,69309,ein_alt_mütterchen,69288,69291,ich,ein_alt_mütterchen
+gdc-coref,v186.0,69314,69779,hanswurst,69354,69357,ich,hanswurst
+gdc-coref,v186.0,69314,69779,hanswurst,69411,69414,ich,hanswurst
+gdc-coref,v186.0,69314,69779,hanswurst,69415,69419,mein,hanswurst
+gdc-coref,v186.0,69314,69779,hanswurst,69705,69708,Ich,hanswurst
+gdc-coref,v186.0,69314,69779,hanswurst,69723,69726,ich,hanswurst
+gdc-coref,v186.0,69314,69779,hanswurst,69741,69744,Mir,hanswurst
+gdc-coref,v186.0,69314,69779,hanswurst,69760,69763,ich,hanswurst
+gdc-coref,v186.0,69786,70742,die_dame,69884,69887,mir,die_dame
+gdc-coref,v186.0,69786,70742,die_dame,69922,69925,mir,die_dame
+gdc-coref,v186.0,70748,71481,hanswurst,70842,70845,ich,hanswurst
+gdc-coref,v186.0,71487,71898,die_dame,71795,71800,meine,die_dame
+gdc-coref,v186.0,71487,71898,die_dame,71853,71856,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72003,72007,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72032,72036,mich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72091,72094,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72169,72172,mir,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72416,72420,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72462,72466,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72562,72566,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72608,72612,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72759,72762,Ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72776,72780,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72856,72860,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,72880,72884,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73022,73026,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73194,73197,Ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73217,73221,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73331,73335,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73346,73350,mich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73404,73408,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73499,73503,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73514,73517,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73532,73535,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73662,73665,mir,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73732,73735,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73773,73776,mir,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73793,73796,mir,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,73844,73848,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74197,74200,Mir,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74237,74240,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74293,74297,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74383,74386,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74416,74420,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74511,74515,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74565,74569,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74859,74863,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,74949,74953,mich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,75960,75964,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76058,76061,ich,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76092,76096,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76112,76116,Mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76156,76162,meiner,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76279,76283,mein,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76388,76393,meine,die_dame
+gdc-coref,v186.0,71992,76682,die_dame,76482,76488,meinen,die_dame
+gdc-coref,v186.0,76688,77860,hanswurst,76731,76734,ich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,76735,76739,mich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,76777,76781,mich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,76883,76886,mir,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,76889,76892,Ich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,76973,76976,mir,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77045,77051,meinem,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77094,77097,mir,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77099,77102,ich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77184,77187,Ich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77246,77249,ich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77260,77264,mich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77307,77310,Ich,hanswurst
+gdc-coref,v186.0,76688,77860,hanswurst,77856,77859,ich,hanswurst
+gdc-coref,v186.0,77866,78006,die_dame,77938,77944,meinen,die_dame
+gdc-coref,v186.0,78011,78135,hanswurst,78031,78034,ich,hanswurst
+gdc-coref,v186.0,78011,78135,hanswurst,78069,78073,mich,hanswurst
+gdc-coref,v186.0,78188,78274,hanswurst,78225,78228,mir,hanswurst
+gdc-coref,v186.0,78281,83929,die_dame,78301,78305,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78449,78452,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78499,78502,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78534,78538,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78661,78665,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78677,78680,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78712,78717,meine,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,78746,78749,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79126,79129,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79142,79146,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79229,79233,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79403,79407,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79421,79425,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79450,79453,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79488,79491,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79498,79502,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79521,79525,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79790,79793,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79865,79868,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79871,79874,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79916,79919,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,79966,79969,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80119,80123,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80124,80130,meiner,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80192,80196,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80234,80238,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80278,80282,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80313,80316,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80317,80323,meiner,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80354,80358,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80383,80386,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80430,80433,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80444,80450,meinen,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80495,80498,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80515,80519,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80543,80547,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80781,80784,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80815,80820,meine,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80910,80913,Mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80931,80934,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,80975,80979,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81070,81073,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81109,81112,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81146,81149,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81165,81169,Mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81201,81204,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81225,81229,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81259,81262,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81309,81312,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81317,81321,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81417,81420,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81451,81455,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81468,81472,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81487,81490,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81496,81502,meiner,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81599,81603,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81744,81748,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81805,81809,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81832,81836,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81871,81875,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81952,81955,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,81973,81979,meiner,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82024,82028,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82049,82053,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82134,82137,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82142,82146,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82182,82185,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82212,82215,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82302,82305,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82376,82379,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82829,82832,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82841,82844,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82870,82873,Ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82880,82883,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,82919,82922,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83038,83041,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83048,83052,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83084,83088,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83111,83114,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83377,83380,mir,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83406,83412,meinem,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83490,83496,meinen,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83569,83573,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83609,83613,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83689,83692,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83737,83741,mein,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83781,83784,ich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83889,83893,mich,die_dame
+gdc-coref,v186.0,78281,83929,die_dame,83907,83911,mein,die_dame
+gdc-coref,v186.0,83936,84292,hanswurst,83966,83969,Ich,hanswurst
+gdc-coref,v186.0,83936,84292,hanswurst,84182,84185,mir,hanswurst
+gdc-coref,v186.0,83936,84292,hanswurst,84200,84204,mein,hanswurst
+gdc-coref,v186.0,84399,84534,ein_alt_mütterchen,84427,84430,ich,ein_alt_mütterchen
+gdc-coref,v186.0,84540,84777,hanswurst,84617,84620,Ich,hanswurst
+gdc-coref,v186.0,84540,84777,hanswurst,84629,84632,ich,hanswurst
+gdc-coref,v186.0,84887,85064,ein_alt_mütterchen,85019,85022,Ich,ein_alt_mütterchen
+gdc-coref,v186.0,85414,85733,hanswurst,85426,85429,Ich,hanswurst
+gdc-coref,v186.0,85414,85733,hanswurst,85435,85439,mich,hanswurst
+gdc-coref,v186.0,85414,85733,hanswurst,85476,85480,mich,hanswurst
+gdc-coref,v186.0,85937,86129,der_schwarzrok,85954,85958,Mein,der_schwarzrok
+gdc-coref,v186.0,85937,86129,der_schwarzrok,86016,86020,mein,der_schwarzrok
+gdc-coref,v186.0,85937,86129,der_schwarzrok,86102,86105,ich,der_schwarzrok
+gdc-coref,v186.0,86135,86285,hanswurst,86188,86192,mein,hanswurst
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86383,86386,ich,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86435,86439,mein,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86494,86497,mir,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86551,86555,mein,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86814,86817,Ich,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86860,86866,meiner,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86889,86895,meinen,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,86954,86957,Ich,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,87110,87113,ich,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,87225,87228,ich,der_schwarzrok
+gdc-coref,v186.0,86291,87324,der_schwarzrok,87303,87306,ich,der_schwarzrok
+gdc-coref,v186.0,87330,87683,hanswurst,87351,87354,ich,hanswurst
+gdc-coref,v186.0,87330,87683,hanswurst,87371,87375,mein,hanswurst
+gdc-coref,v186.0,87330,87683,hanswurst,87669,87673,mich,hanswurst
+gdc-coref,v186.0,87689,88197,der_schwarzrok,87706,87709,Ich,der_schwarzrok
+gdc-coref,v186.0,87689,88197,der_schwarzrok,87716,87720,mich,der_schwarzrok
+gdc-coref,v186.0,87689,88197,der_schwarzrok,87758,87761,ich,der_schwarzrok
+gdc-coref,v186.0,87689,88197,der_schwarzrok,88032,88035,mir,der_schwarzrok
+gdc-coref,v186.0,88202,88438,der_schwarzrok,88226,88230,mein,der_schwarzrok
+gdc-coref,v186.0,88202,88438,der_schwarzrok,88253,88256,Ich,der_schwarzrok
+gdc-coref,v186.0,88202,88438,der_schwarzrok,88293,88296,mir,der_schwarzrok
+gdc-coref,v186.0,88202,88438,der_schwarzrok,88319,88322,mir,der_schwarzrok
+gdc-coref,v186.0,88202,88438,der_schwarzrok,88363,88366,ich,der_schwarzrok
+gdc-coref,v186.0,88202,88438,der_schwarzrok,88424,88428,mich,der_schwarzrok
+gdc-coref,v186.0,88444,88469,hanswurst,88459,88463,mich,hanswurst
+gdc-coref,v186.0,88474,88525,die_dame,88491,88494,mir,die_dame
+gdc-coref,v186.0,88531,88616,ein_alt_mütterchen,88555,88558,ich,ein_alt_mütterchen
+gdc-coref,v186.0,88531,88616,ein_alt_mütterchen,88579,88582,Ich,ein_alt_mütterchen
+gdc-coref,v186.0,88531,88616,ein_alt_mütterchen,88604,88610,meiner,ein_alt_mütterchen
+gdc-coref,v186.0,88622,88680,der_schwarzrok,88648,88652,mein,der_schwarzrok
+gdc-coref,v186.0,88685,88739,hanswurst,88703,88706,ich,hanswurst
+gdc-coref,v186.0,88685,88739,hanswurst,88715,88718,ich,hanswurst
+gdc-coref,v186.0,88744,88810,die_dame,88754,88758,Mein,die_dame
+gdc-coref,v186.0,88885,89172,der_soufleur,89038,89041,Ich,der_soufleur
+gdc-coref,v186.0,88885,89172,der_soufleur,89054,89060,meinen,der_soufleur
