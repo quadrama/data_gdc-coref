@@ -1,0 +1,2574 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,r2mn.0,1898,2077,sir_john,1991,1997,meinen,sir_john
+gdc,r2mn.0,1898,2077,sir_john,2025,2030,meine,sir_john
+gdc,r2mn.0,2108,2230,sir_john,2143,2146,ich,sir_john
+gdc,r2mn.0,2108,2230,sir_john,2204,2210,meines,sir_john
+gdc,r2mn.0,2283,2624,sir_john,2309,2312,Ich,sir_john
+gdc,r2mn.0,2283,2624,sir_john,2346,2349,mir,sir_john
+gdc,r2mn.0,2283,2624,sir_john,2411,2414,ich,sir_john
+gdc,r2mn.0,2283,2624,sir_john,2464,2467,ich,sir_john
+gdc,r2mn.0,2874,2993,sir_john,2907,2910,ich,sir_john
+gdc,r2mn.0,3037,3243,sir_john,3091,3094,ich,sir_john
+gdc,r2mn.0,3037,3243,sir_john,3201,3204,mir,sir_john
+gdc,r2mn.0,3248,3622,liddy,3350,3353,Ich,liddy
+gdc,r2mn.0,3627,3981,sir_john,3663,3666,mir,sir_john
+gdc,r2mn.0,3627,3981,sir_john,3769,3772,mir,sir_john
+gdc,r2mn.0,3627,3981,sir_john,3782,3785,ich,sir_john
+gdc,r2mn.0,3627,3981,sir_john,3886,3889,ich,sir_john
+gdc,r2mn.0,3627,3981,sir_john,3921,3927,meinem,sir_john
+gdc,r2mn.0,3986,4115,liddy,4068,4072,mein,liddy
+gdc,r2mn.0,4121,4319,sir_john,4194,4197,mir,sir_john
+gdc,r2mn.0,4121,4319,sir_john,4245,4251,meinen,sir_john
+gdc,r2mn.0,4324,4358,liddy,4336,4342,meinen,liddy
+gdc,r2mn.0,4390,4424,liddy,4402,4408,meinen,liddy
+gdc,r2mn.0,4429,4460,sir_john,4440,4443,Ich,sir_john
+gdc,r2mn.0,4566,4658,sir_john,4592,4595,ich,sir_john
+gdc,r2mn.0,4726,5332,sir_john,4783,4787,mich,sir_john
+gdc,r2mn.0,4726,5332,sir_john,4842,4845,mir,sir_john
+gdc,r2mn.0,4726,5332,sir_john,4846,4852,meinen,sir_john
+gdc,r2mn.0,4726,5332,sir_john,4922,4927,meine,sir_john
+gdc,r2mn.0,4726,5332,sir_john,5001,5005,mich,sir_john
+gdc,r2mn.0,4726,5332,sir_john,5128,5131,mir,sir_john
+gdc,r2mn.0,4726,5332,sir_john,5172,5175,ich,sir_john
+gdc,r2mn.0,4726,5332,sir_john,5293,5296,ich,sir_john
+gdc,r2mn.0,4726,5332,sir_john,5303,5309,meinen,sir_john
+gdc,r2mn.0,5402,5699,sir_john,5489,5492,ich,sir_john
+gdc,r2mn.0,5402,5699,sir_john,5546,5549,ich,sir_john
+gdc,r2mn.0,5402,5699,sir_john,5572,5576,mich,sir_john
+gdc,r2mn.0,5704,5731,liddy,5727,5730,mir,liddy
+gdc,r2mn.0,5834,5872,liddy,5853,5857,Mein,liddy
+gdc,r2mn.0,6080,6168,liddy,6153,6156,ich,liddy
+gdc,r2mn.0,6173,6244,sir_john,6215,6218,mir,sir_john
+gdc,r2mn.0,6455,6725,sir_john,6478,6481,ich,sir_john
+gdc,r2mn.0,6455,6725,sir_john,6523,6526,mir,sir_john
+gdc,r2mn.0,6772,6902,sir_john,6858,6861,mir,sir_john
+gdc,r2mn.0,6907,7512,liddy,7235,7239,mich,liddy
+gdc,r2mn.0,6907,7512,liddy,7348,7352,mich,liddy
+gdc,r2mn.0,6907,7512,liddy,7484,7487,ich,liddy
+gdc,r2mn.0,7676,7743,knabe,7693,7697,mich,knabe
+gdc,r2mn.0,7924,8006,liddy,7968,7971,Ich,liddy
+gdc,r2mn.0,8238,8269,knabe,8254,8257,ich,knabe
+gdc,r2mn.0,8274,8475,liddy,8289,8292,ich,liddy
+gdc,r2mn.0,8502,8678,liddy,8664,8667,ich,liddy
+gdc,r2mn.0,8683,8708,knabe,8695,8698,Ich,knabe
+gdc,r2mn.0,9119,9339,samuel,9160,9163,Ich,samuel
+gdc,r2mn.0,9345,9398,liddy,9376,9379,ich,liddy
+gdc,r2mn.0,9403,9462,samuel,9428,9431,ich,samuel
+gdc,r2mn.0,9467,9622,liddy,9485,9489,mein,liddy
+gdc,r2mn.0,9467,9622,liddy,9550,9553,mir,liddy
+gdc,r2mn.0,9627,9860,samuel,9739,9742,ich,samuel
+gdc,r2mn.0,9627,9860,samuel,9799,9802,ich,samuel
+gdc,r2mn.0,10005,10030,liddy,10024,10027,Ich,liddy
+gdc,r2mn.0,10035,10316,samuel,10063,10066,ich,samuel
+gdc,r2mn.0,10035,10316,samuel,10269,10275,meiner,samuel
+gdc,r2mn.0,10615,10663,liddy,10634,10637,ich,liddy
+gdc,r2mn.0,10668,11039,samuel,10827,10831,mich,samuel
+gdc,r2mn.0,10668,11039,samuel,11007,11010,ich,samuel
+gdc,r2mn.0,11044,11173,liddy,11056,11059,ich,liddy
+gdc,r2mn.0,11178,11300,samuel,11279,11282,ich,samuel
+gdc,r2mn.0,11382,11662,mistriss_smith,11521,11524,ich,mistriss_smith
+gdc,r2mn.0,11382,11662,mistriss_smith,11573,11577,mich,mistriss_smith
+gdc,r2mn.0,11382,11662,mistriss_smith,11582,11588,meinem,mistriss_smith
+gdc,r2mn.0,11749,11801,liddy,11757,11760,Ich,liddy
+gdc,r2mn.0,11806,11911,mistriss_smith,11833,11836,ich,mistriss_smith
+gdc,r2mn.0,11916,11955,liddy,11924,11927,Ich,liddy
+gdc,r2mn.0,11916,11955,liddy,11941,11947,meinem,liddy
+gdc,r2mn.0,11960,12020,samuel,11973,11976,ich,samuel
+gdc,r2mn.0,11960,12020,samuel,12003,12009,meiner,samuel
+gdc,r2mn.0,12474,12528,samuel,12483,12486,Ich,samuel
+gdc,r2mn.0,12474,12528,samuel,12488,12491,ich,samuel
+gdc,r2mn.0,12533,13322,mistriss_smith,12727,12730,ich,mistriss_smith
+gdc,r2mn.0,12533,13322,mistriss_smith,13204,13207,ich,mistriss_smith
+gdc,r2mn.0,12533,13322,mistriss_smith,13236,13242,meinen,mistriss_smith
+gdc,r2mn.0,13648,13906,mistriss_smith,13676,13679,ich,mistriss_smith
+gdc,r2mn.0,13648,13906,mistriss_smith,13707,13710,mir,mistriss_smith
+gdc,r2mn.0,13997,14018,sir_john,14008,14012,Mein,sir_john
+gdc,r2mn.0,14136,14227,sir_john,14159,14162,Ich,sir_john
+gdc,r2mn.0,14136,14227,sir_john,14186,14190,mich,sir_john
+gdc,r2mn.0,14136,14227,sir_john,14210,14214,mein,sir_john
+gdc,r2mn.0,14232,14393,mistriss_smith,14265,14268,Ich,mistriss_smith
+gdc,r2mn.0,14906,15296,mistriss_smith,14923,14927,Mein,mistriss_smith
+gdc,r2mn.0,14906,15296,mistriss_smith,15117,15120,ich,mistriss_smith
+gdc,r2mn.0,14906,15296,mistriss_smith,15170,15173,ich,mistriss_smith
+gdc,r2mn.0,15374,15545,mistriss_smith,15402,15405,ich,mistriss_smith
+gdc,r2mn.0,15374,15545,mistriss_smith,15435,15439,mich,mistriss_smith
+gdc,r2mn.0,15550,15582,sir_john,15578,15581,ich,sir_john
+gdc,r2mn.0,15763,16099,samuel,15838,15842,mich,samuel
+gdc,r2mn.0,15763,16099,samuel,15865,15868,mir,samuel
+gdc,r2mn.0,15763,16099,samuel,15913,15916,ich,samuel
+gdc,r2mn.0,16104,16196,sir_john,16130,16134,mein,sir_john
+gdc,r2mn.0,16104,16196,sir_john,16154,16157,ich,sir_john
+gdc,r2mn.0,16420,16783,mistriss_smith,16592,16595,mir,mistriss_smith
+gdc,r2mn.0,16963,17257,sir_john,16986,16989,ich,sir_john
+gdc,r2mn.0,17308,17822,mistriss_smith,17347,17350,mir,mistriss_smith
+gdc,r2mn.0,17308,17822,mistriss_smith,17568,17572,mein,mistriss_smith
+gdc,r2mn.0,17827,18114,sir_john,17866,17869,ich,sir_john
+gdc,r2mn.0,17827,18114,sir_john,17974,17977,ich,sir_john
+gdc,r2mn.0,17827,18114,sir_john,18077,18083,meinen,sir_john
+gdc,r2mn.0,18244,18307,mistriss_smith,18272,18276,mich,mistriss_smith
+gdc,r2mn.0,18244,18307,mistriss_smith,18278,18281,ich,mistriss_smith
+gdc,r2mn.0,18396,18822,mistriss_smith,18456,18462,meiner,mistriss_smith
+gdc,r2mn.0,18396,18822,mistriss_smith,18509,18513,mich,mistriss_smith
+gdc,r2mn.0,18827,18870,sir_john,18850,18854,mich,sir_john
+gdc,r2mn.0,18827,18870,sir_john,18858,18862,mein,sir_john
+gdc,r2mn.0,18875,18981,mistriss_smith,18904,18907,ich,mistriss_smith
+gdc,r2mn.0,18875,18981,mistriss_smith,18953,18956,ich,mistriss_smith
+gdc,r2mn.0,18986,19030,sir_john,19016,19020,mich,sir_john
+gdc,r2mn.0,19035,19125,mistriss_smith,19081,19084,mir,mistriss_smith
+gdc,r2mn.0,19035,19125,mistriss_smith,19089,19093,mein,mistriss_smith
+gdc,r2mn.0,19302,19330,samuel,19311,19314,Ich,samuel
+gdc,r2mn.0,19336,19465,mistriss_smith,19363,19367,mein,mistriss_smith
+gdc,r2mn.0,19965,20253,mistriss_smith,20008,20012,mein,mistriss_smith
+gdc,r2mn.0,20586,21071,samuel,20754,20757,ich,samuel
+gdc,r2mn.0,20586,21071,samuel,20840,20844,mich,samuel
+gdc,r2mn.0,20586,21071,samuel,21004,21007,ich,samuel
+gdc,r2mn.0,20586,21071,samuel,21008,21013,meine,samuel
+gdc,r2mn.0,21212,21483,samuel,21265,21269,mich,samuel
+gdc,r2mn.0,21212,21483,samuel,21271,21274,Ich,samuel
+gdc,r2mn.0,21212,21483,samuel,21313,21317,mich,samuel
+gdc,r2mn.0,21212,21483,samuel,21413,21416,ich,samuel
+gdc,r2mn.0,21538,21665,samuel,21624,21627,ich,samuel
+gdc,r2mn.0,21734,22283,gurli,22020,22023,ich,gurli
+gdc,r2mn.0,21734,22283,gurli,22099,22103,mich,gurli
+gdc,r2mn.0,22288,22462,samuel,22425,22428,ich,samuel
+gdc,r2mn.0,22515,22614,samuel,22566,22569,ich,samuel
+gdc,r2mn.0,22730,22798,samuel,22752,22756,mich,samuel
+gdc,r2mn.0,22730,22798,samuel,22767,22770,ich,samuel
+gdc,r2mn.0,22803,23043,gurli,22820,22823,ich,gurli
+gdc,r2mn.0,22803,23043,gurli,22838,22841,Ich,gurli
+gdc,r2mn.0,23048,23182,samuel,23057,23060,Ich,samuel
+gdc,r2mn.0,23187,23264,gurli,23195,23199,Mein,gurli
+gdc,r2mn.0,23377,23404,gurli,23394,23397,ich,gurli
+gdc,r2mn.0,23525,23687,samuel,23600,23603,ich,samuel
+gdc,r2mn.0,23692,23797,gurli,23700,23704,Mein,gurli
+gdc,r2mn.0,23692,23797,gurli,23715,23718,ich,gurli
+gdc,r2mn.0,23692,23797,gurli,23742,23746,mein,gurli
+gdc,r2mn.0,23802,23907,samuel,23844,23847,ich,samuel
+gdc,r2mn.0,23802,23907,samuel,23886,23889,ich,samuel
+gdc,r2mn.0,24105,24137,gurli,24123,24127,mich,gurli
+gdc,r2mn.0,24142,24254,samuel,24190,24193,Ich,samuel
+gdc,r2mn.0,24259,24429,gurli,24282,24285,mir,gurli
+gdc,r2mn.0,24491,24580,gurli,24512,24515,Ich,gurli
+gdc,r2mn.0,24717,24759,samuel,24726,24729,Ich,samuel
+gdc,r2mn.0,24765,24812,gurli,24783,24786,Ich,gurli
+gdc,r2mn.0,24873,24918,gurli,24903,24906,mir,gurli
+gdc,r2mn.0,25115,25224,gurli,25180,25184,mich,gurli
+gdc,r2mn.0,25229,25380,samuel,25250,25253,Ich,samuel
+gdc,r2mn.0,25229,25380,samuel,25291,25294,ich,samuel
+gdc,r2mn.0,25671,25924,samuel,25723,25726,Ich,samuel
+gdc,r2mn.0,25671,25924,samuel,25765,25769,mich,samuel
+gdc,r2mn.0,25671,25924,samuel,25792,25796,mich,samuel
+gdc,r2mn.0,25671,25924,samuel,25842,25845,ich,samuel
+gdc,r2mn.0,25929,26124,gurli,25958,25962,mein,gurli
+gdc,r2mn.0,25929,26124,gurli,25984,25988,mein,gurli
+gdc,r2mn.0,26129,26264,samuel,26161,26164,ich,samuel
+gdc,r2mn.0,26129,26264,samuel,26175,26178,Ich,samuel
+gdc,r2mn.0,26129,26264,samuel,26204,26207,ich,samuel
+gdc,r2mn.0,26312,26410,samuel,26370,26373,ich,samuel
+gdc,r2mn.0,26415,26474,gurli,26441,26445,mein,gurli
+gdc,r2mn.0,26522,26597,gurli,26568,26571,ich,gurli
+gdc,r2mn.0,26603,26768,samuel,26631,26634,ich,samuel
+gdc,r2mn.0,26603,26768,samuel,26658,26663,meine,samuel
+gdc,r2mn.0,26865,27184,samuel,26913,26916,ich,samuel
+gdc,r2mn.0,26865,27184,samuel,26917,26921,mich,samuel
+gdc,r2mn.0,26865,27184,samuel,26965,26968,Ich,samuel
+gdc,r2mn.0,26865,27184,samuel,27146,27150,mein,samuel
+gdc,r2mn.0,27276,27309,samuel,27285,27288,Ich,samuel
+gdc,r2mn.0,27314,27545,gurli,27357,27363,meinem,gurli
+gdc,r2mn.0,27551,27768,samuel,27606,27610,mich,samuel
+gdc,r2mn.0,27551,27768,samuel,27685,27688,ich,samuel
+gdc,r2mn.0,27846,27940,visitator,27872,27875,ich,visitator
+gdc,r2mn.0,27846,27940,visitator,27906,27909,ich,visitator
+gdc,r2mn.0,27945,28078,samuel,27958,27962,mein,samuel
+gdc,r2mn.0,27945,28078,samuel,27993,27999,meines,samuel
+gdc,r2mn.0,28083,28272,visitator,28134,28137,ich,visitator
+gdc,r2mn.0,28083,28272,visitator,28235,28238,ich,visitator
+gdc,r2mn.0,28334,28793,visitator,28358,28361,ich,visitator
+gdc,r2mn.0,28334,28793,visitator,28622,28625,ich,visitator
+gdc,r2mn.0,28850,29252,visitator,28870,28873,ich,visitator
+gdc,r2mn.0,28850,29252,visitator,29157,29160,ich,visitator
+gdc,r2mn.0,29421,30531,visitator,29476,29480,mein,visitator
+gdc,r2mn.0,29421,30531,visitator,29778,29781,ich,visitator
+gdc,r2mn.0,29421,30531,visitator,30234,30237,ich,visitator
+gdc,r2mn.0,30536,30967,samuel,30545,30549,Mein,samuel
+gdc,r2mn.0,30536,30967,samuel,30734,30738,mein,samuel
+gdc,r2mn.0,30536,30967,samuel,30766,30769,mir,samuel
+gdc,r2mn.0,30536,30967,samuel,30868,30871,mir,samuel
+gdc,r2mn.0,30972,31541,visitator,31091,31094,ich,visitator
+gdc,r2mn.0,31638,31977,samuel,31662,31665,ich,samuel
+gdc,r2mn.0,31638,31977,samuel,31670,31674,mich,samuel
+gdc,r2mn.0,31638,31977,samuel,31877,31880,Ich,samuel
+gdc,r2mn.0,31638,31977,samuel,31886,31890,mich,samuel
+gdc,r2mn.0,31638,31977,samuel,31932,31935,mir,samuel
+gdc,r2mn.0,32271,33113,samuel,32284,32287,ich,samuel
+gdc,r2mn.0,32271,33113,samuel,32394,32397,Ich,samuel
+gdc,r2mn.0,32271,33113,samuel,32500,32503,Ich,samuel
+gdc,r2mn.0,32271,33113,samuel,32744,32748,mein,samuel
+gdc,r2mn.0,32271,33113,samuel,32901,32905,Mein,samuel
+gdc,r2mn.0,32271,33113,samuel,32978,32981,ich,samuel
+gdc,r2mn.0,33163,34824,visitator,33216,33219,ich,visitator
+gdc,r2mn.0,33163,34824,visitator,33372,33376,mich,visitator
+gdc,r2mn.0,33163,34824,visitator,33734,33738,mein,visitator
+gdc,r2mn.0,33163,34824,visitator,33786,33789,ich,visitator
+gdc,r2mn.0,33163,34824,visitator,33922,33925,Ich,visitator
+gdc,r2mn.0,33163,34824,visitator,34340,34345,meine,visitator
+gdc,r2mn.0,33163,34824,visitator,34574,34577,Ich,visitator
+gdc,r2mn.0,34904,35003,muasffery,34999,35002,mir,muasffery
+gdc,r2mn.0,35050,35080,muasffery,35067,35073,meinem,muasffery
+gdc,r2mn.0,35085,35133,visitator,35108,35111,ich,visitator
+gdc,r2mn.0,35138,35180,muasffery,35167,35173,meines,muasffery
+gdc,r2mn.0,35185,35233,visitator,35202,35205,ich,visitator
+gdc,r2mn.0,35185,35233,visitator,35223,35226,ich,visitator
+gdc,r2mn.0,35238,35367,muasffery,35322,35326,mein,muasffery
+gdc,r2mn.0,35238,35367,muasffery,35345,35351,meines,muasffery
+gdc,r2mn.0,35238,35367,muasffery,35363,35366,ich,muasffery
+gdc,r2mn.0,35372,35516,visitator,35437,35442,Meine,visitator
+gdc,r2mn.0,35551,35634,visitator,35567,35571,mich,visitator
+gdc,r2mn.0,35790,36142,visitator,35813,35817,mich,visitator
+gdc,r2mn.0,36324,36434,visitator,36382,36385,Ich,visitator
+gdc,r2mn.0,36492,36593,visitator,36551,36554,ich,visitator
+gdc,r2mn.0,36648,36723,visitator,36668,36671,mir,visitator
+gdc,r2mn.0,36728,36786,muasffery,36740,36744,Mein,muasffery
+gdc,r2mn.0,36973,37173,visitator,37006,37010,mein,visitator
+gdc,r2mn.0,36973,37173,visitator,37035,37038,Ich,visitator
+gdc,r2mn.0,36973,37173,visitator,37100,37104,mich,visitator
+gdc,r2mn.0,37178,37276,muasffery,37259,37262,ich,muasffery
+gdc,r2mn.0,37178,37276,muasffery,37263,37267,mich,muasffery
+gdc,r2mn.0,37281,37391,kaberdar,37314,37318,mich,kaberdar
+gdc,r2mn.0,37281,37391,kaberdar,37325,37330,meine,kaberdar
+gdc,r2mn.0,37281,37391,kaberdar,37345,37351,meinen,kaberdar
+gdc,r2mn.0,37396,37675,visitator,37416,37420,mein,visitator
+gdc,r2mn.0,37680,37873,kaberdar,37695,37698,ich,kaberdar
+gdc,r2mn.0,37680,37873,kaberdar,37731,37734,ich,kaberdar
+gdc,r2mn.0,37680,37873,kaberdar,37827,37830,ich,kaberdar
+gdc,r2mn.0,37680,37873,kaberdar,37831,37836,meine,kaberdar
+gdc,r2mn.0,37878,37944,visitator,37898,37902,mein,visitator
+gdc,r2mn.0,37950,38006,kaberdar,37979,37982,ich,kaberdar
+gdc,r2mn.0,37950,38006,kaberdar,37987,37991,mein,kaberdar
+gdc,r2mn.0,38011,38445,visitator,38062,38065,ich,visitator
+gdc,r2mn.0,38011,38445,visitator,38145,38151,meinem,visitator
+gdc,r2mn.0,38011,38445,visitator,38351,38355,mich,visitator
+gdc,r2mn.0,38513,38877,visitator,38579,38583,Mich,visitator
+gdc,r2mn.0,38513,38877,visitator,38592,38596,Mich,visitator
+gdc,r2mn.0,38513,38877,visitator,38851,38855,mich,visitator
+gdc,r2mn.0,38513,38877,visitator,38867,38871,mein,visitator
+gdc,r2mn.0,38999,39339,visitator,39120,39125,meine,visitator
+gdc,r2mn.0,38999,39339,visitator,39149,39152,ich,visitator
+gdc,r2mn.0,38999,39339,visitator,39233,39237,mein,visitator
+gdc,r2mn.0,39655,39757,kaberdar,39666,39670,Mich,kaberdar
+gdc,r2mn.0,39655,39757,kaberdar,39743,39749,meiner,kaberdar
+gdc,r2mn.0,39862,39983,kaberdar,39907,39910,ich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40087,40091,mich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40142,40147,meine,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40162,40166,mein,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40188,40191,ich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40251,40254,ich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40316,40319,mir,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40355,40360,meine,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40431,40435,mich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40447,40450,ich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40477,40481,mich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40504,40508,mein,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40554,40559,meine,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40646,40652,meiner,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40666,40670,mich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40685,40688,ich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40740,40746,meinem,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40753,40757,mich,kaberdar
+gdc,r2mn.0,40035,40799,kaberdar,40778,40781,ich,kaberdar
+gdc,r2mn.0,40923,40962,kaberdar,40947,40950,ich,kaberdar
+gdc,r2mn.0,41067,41194,kaberdar,41126,41130,mich,kaberdar
+gdc,r2mn.0,41464,41865,kaberdar,41501,41507,meinen,kaberdar
+gdc,r2mn.0,41464,41865,kaberdar,41547,41550,mir,kaberdar
+gdc,r2mn.0,41464,41865,kaberdar,41613,41619,meines,kaberdar
+gdc,r2mn.0,41464,41865,kaberdar,41668,41673,meine,kaberdar
+gdc,r2mn.0,41464,41865,kaberdar,41824,41827,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42026,42029,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42057,42060,mir,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42249,42252,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42315,42318,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42354,42357,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42383,42386,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42426,42432,meiner,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42469,42472,ich,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42478,42481,mir,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42503,42509,meinen,kaberdar
+gdc,r2mn.0,41927,42717,kaberdar,42550,42553,mir,kaberdar
+gdc,r2mn.0,42820,43358,kaberdar,42850,42854,mein,kaberdar
+gdc,r2mn.0,42820,43358,kaberdar,42869,42873,mich,kaberdar
+gdc,r2mn.0,42820,43358,kaberdar,42886,42889,ich,kaberdar
+gdc,r2mn.0,42820,43358,kaberdar,42927,42932,Meine,kaberdar
+gdc,r2mn.0,42820,43358,kaberdar,42954,42958,mein,kaberdar
+gdc,r2mn.0,42820,43358,kaberdar,43018,43024,meiner,kaberdar
+gdc,r2mn.0,43540,43792,kaberdar,43623,43626,ich,kaberdar
+gdc,r2mn.0,43540,43792,kaberdar,43667,43670,ich,kaberdar
+gdc,r2mn.0,43540,43792,kaberdar,43718,43724,meines,kaberdar
+gdc,r2mn.0,43540,43792,kaberdar,43754,43758,mich,kaberdar
+gdc,r2mn.0,43797,44205,muasffery,43964,43967,ich,muasffery
+gdc,r2mn.0,43797,44205,muasffery,44003,44006,ich,muasffery
+gdc,r2mn.0,43797,44205,muasffery,44142,44147,meine,muasffery
+gdc,r2mn.0,43797,44205,muasffery,44171,44177,meinen,muasffery
+gdc,r2mn.0,44210,44679,kaberdar,44254,44257,mir,kaberdar
+gdc,r2mn.0,44210,44679,kaberdar,44389,44392,mir,kaberdar
+gdc,r2mn.0,44210,44679,kaberdar,44566,44569,Ich,kaberdar
+gdc,r2mn.0,44210,44679,kaberdar,44638,44644,meinem,kaberdar
+gdc,r2mn.0,44684,44806,muasffery,44735,44738,mir,muasffery
+gdc,r2mn.0,44684,44806,muasffery,44768,44771,ich,muasffery
+gdc,r2mn.0,44811,44858,kaberdar,44836,44839,ich,kaberdar
+gdc,r2mn.0,45017,45127,kaberdar,45032,45035,ich,kaberdar
+gdc,r2mn.0,45132,45383,gurli,45225,45228,ich,gurli
+gdc,r2mn.0,45132,45383,gurli,45244,45247,mir,gurli
+gdc,r2mn.0,45132,45383,gurli,45279,45282,mir,gurli
+gdc,r2mn.0,45132,45383,gurli,45302,45305,ich,gurli
+gdc,r2mn.0,45132,45383,gurli,45322,45325,ich,gurli
+gdc,r2mn.0,45132,45383,gurli,45355,45358,ich,gurli
+gdc,r2mn.0,45132,45383,gurli,45375,45378,ich,gurli
+gdc,r2mn.0,45667,45820,gurli,45679,45682,ich,gurli
+gdc,r2mn.0,45667,45820,gurli,45699,45704,meine,gurli
+gdc,r2mn.0,46111,46227,gurli,46173,46176,ich,gurli
+gdc,r2mn.0,46111,46227,gurli,46195,46198,mir,gurli
+gdc,r2mn.0,46266,46573,gurli,46317,46321,mich,gurli
+gdc,r2mn.0,46266,46573,gurli,46362,46365,ich,gurli
+gdc,r2mn.0,46266,46573,gurli,46435,46440,meine,gurli
+gdc,r2mn.0,46614,47088,gurli,46632,46635,ich,gurli
+gdc,r2mn.0,46614,47088,gurli,46806,46809,mir,gurli
+gdc,r2mn.0,46614,47088,gurli,46847,46850,mir,gurli
+gdc,r2mn.0,46614,47088,gurli,46881,46884,mir,gurli
+gdc,r2mn.0,46614,47088,gurli,46894,46897,ich,gurli
+gdc,r2mn.0,46614,47088,gurli,46902,46906,mich,gurli
+gdc,r2mn.0,46614,47088,gurli,46955,46958,ich,gurli
+gdc,r2mn.0,46614,47088,gurli,47023,47029,meinen,gurli
+gdc,r2mn.0,47282,47459,kaberdar,47439,47442,ich,kaberdar
+gdc,r2mn.0,47769,47973,gurli,47871,47874,mir,gurli
+gdc,r2mn.0,47769,47973,gurli,47933,47936,ich,gurli
+gdc,r2mn.0,48352,48395,gurli,48372,48375,ich,gurli
+gdc,r2mn.0,48400,48653,muasffery,48613,48617,Mich,muasffery
+gdc,r2mn.0,48784,48819,muasffery,48796,48799,Ich,muasffery
+gdc,r2mn.0,49204,49419,kaberdar,49253,49256,Ich,kaberdar
+gdc,r2mn.0,49204,49419,kaberdar,49307,49310,ich,kaberdar
+gdc,r2mn.0,49204,49419,kaberdar,49361,49365,mich,kaberdar
+gdc,r2mn.0,49204,49419,kaberdar,49384,49388,mein,kaberdar
+gdc,r2mn.0,49500,49717,kaberdar,49608,49611,ich,kaberdar
+gdc,r2mn.0,49915,50234,mistriss_smith,50053,50058,meine,mistriss_smith
+gdc,r2mn.0,50274,50369,mistriss_smith,50342,50345,mir,mistriss_smith
+gdc,r2mn.0,50539,50669,mistriss_smith,50585,50589,Mein,mistriss_smith
+gdc,r2mn.0,50674,50748,gurli,50723,50726,ich,gurli
+gdc,r2mn.0,50753,50881,mistriss_smith,50781,50785,mich,mistriss_smith
+gdc,r2mn.0,51074,51308,mistriss_smith,51110,51115,Meine,mistriss_smith
+gdc,r2mn.0,51074,51308,mistriss_smith,51223,51226,Ich,mistriss_smith
+gdc,r2mn.0,51313,51402,gurli,51321,51324,Ich,gurli
+gdc,r2mn.0,51313,51402,gurli,51326,51329,ich,gurli
+gdc,r2mn.0,51459,51515,gurli,51475,51478,ich,gurli
+gdc,r2mn.0,51520,51754,mistriss_smith,51578,51581,ich,mistriss_smith
+gdc,r2mn.0,51520,51754,mistriss_smith,51611,51614,ich,mistriss_smith
+gdc,r2mn.0,51520,51754,mistriss_smith,51735,51738,mir,mistriss_smith
+gdc,r2mn.0,51820,52150,mistriss_smith,51869,51873,mein,mistriss_smith
+gdc,r2mn.0,51820,52150,mistriss_smith,51957,51960,Ich,mistriss_smith
+gdc,r2mn.0,51820,52150,mistriss_smith,52022,52025,ich,mistriss_smith
+gdc,r2mn.0,52643,53641,kaberdar,52676,52681,meine,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,52687,52691,mich,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,52730,52733,ich,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,52761,52765,mein,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,52834,52838,mich,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,53389,53392,ich,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,53408,53411,ich,kaberdar
+gdc,r2mn.0,52643,53641,kaberdar,53613,53616,ich,kaberdar
+gdc,r2mn.0,53747,53983,knabe,53758,53761,ich,knabe
+gdc,r2mn.0,53747,53983,knabe,53767,53770,mir,knabe
+gdc,r2mn.0,53747,53983,knabe,53865,53868,ich,knabe
+gdc,r2mn.0,54049,54074,kaberdar,54060,54063,Ich,kaberdar
+gdc,r2mn.0,54123,54182,kaberdar,54138,54142,mich,kaberdar
+gdc,r2mn.0,54123,54182,kaberdar,54154,54157,ich,kaberdar
+gdc,r2mn.0,54525,54785,knabe,54685,54689,mich,knabe
+gdc,r2mn.0,55272,55579,kaberdar,55302,55305,ich,kaberdar
+gdc,r2mn.0,55584,55697,knabe,55645,55648,Ich,knabe
+gdc,r2mn.0,55584,55697,knabe,55673,55676,ich,knabe
+gdc,r2mn.0,55832,55955,knabe,55858,55861,ich,knabe
+gdc,r2mn.0,55832,55955,knabe,55865,55871,meinem,knabe
+gdc,r2mn.0,56043,56078,knabe,56060,56063,ich,knabe
+gdc,r2mn.0,56132,56279,knabe,56173,56176,mir,knabe
+gdc,r2mn.0,56328,56473,knabe,56349,56352,ich,knabe
+gdc,r2mn.0,57180,57456,liddy,57231,57234,ich,liddy
+gdc,r2mn.0,57180,57456,liddy,57269,57272,mir,liddy
+gdc,r2mn.0,57180,57456,liddy,57301,57304,ich,liddy
+gdc,r2mn.0,57180,57456,liddy,57330,57333,ich,liddy
+gdc,r2mn.0,57180,57456,liddy,57338,57342,mich,liddy
+gdc,r2mn.0,57462,57726,kaberdar,57601,57604,ich,kaberdar
+gdc,r2mn.0,58208,58280,kaberdar,58227,58233,meinen,kaberdar
+gdc,r2mn.0,58344,58454,kaberdar,58398,58401,Ich,kaberdar
+gdc,r2mn.0,58344,58454,kaberdar,58438,58442,mich,kaberdar
+gdc,r2mn.0,58459,58514,liddy,58502,58506,mein,liddy
+gdc,r2mn.0,58519,58791,kaberdar,58613,58616,Ich,kaberdar
+gdc,r2mn.0,58519,58791,kaberdar,58717,58720,mir,kaberdar
+gdc,r2mn.0,58519,58791,kaberdar,58736,58739,ich,kaberdar
+gdc,r2mn.0,58519,58791,kaberdar,58769,58772,ich,kaberdar
+gdc,r2mn.0,58796,58872,liddy,58846,58849,ich,liddy
+gdc,r2mn.0,58877,59439,kaberdar,58971,58974,ich,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59115,59119,mich,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59304,59308,mich,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59324,59328,mein,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59360,59363,ich,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59379,59382,ich,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59400,59403,ich,kaberdar
+gdc,r2mn.0,58877,59439,kaberdar,59423,59426,ich,kaberdar
+gdc,r2mn.0,59444,59571,liddy,59463,59466,ich,liddy
+gdc,r2mn.0,59750,59914,liddy,59769,59773,mich,liddy
+gdc,r2mn.0,59750,59914,liddy,59817,59820,mir,liddy
+gdc,r2mn.0,59750,59914,liddy,59822,59826,mich,liddy
+gdc,r2mn.0,59750,59914,liddy,59872,59875,ich,liddy
+gdc,r2mn.0,59919,60055,kaberdar,59949,59953,mich,kaberdar
+gdc,r2mn.0,59919,60055,kaberdar,59970,59974,mich,kaberdar
+gdc,r2mn.0,59919,60055,kaberdar,60017,60020,ich,kaberdar
+gdc,r2mn.0,60060,60122,liddy,60084,60087,ich,liddy
+gdc,r2mn.0,60127,61803,kaberdar,60140,60143,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60252,60257,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60314,60317,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60367,60373,meines,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60386,60392,meiner,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60404,60407,mir,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60418,60421,Ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60489,60495,meinem,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60581,60584,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60603,60606,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60639,60642,mir,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60714,60717,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60718,60722,mich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60770,60773,Ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60794,60798,mich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60821,60825,mich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60861,60865,mich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60877,60882,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60928,60934,meinem,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60948,60954,meinem,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,60965,60968,Ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61062,61065,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61079,61085,meinem,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61104,61109,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61124,61127,mir,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61190,61195,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61229,61233,mein,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61340,61346,meinen,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61374,61379,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61388,61393,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61446,61449,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61451,61456,meine,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61715,61718,mir,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61732,61735,ich,kaberdar
+gdc,r2mn.0,60127,61803,kaberdar,61769,61773,mein,kaberdar
+gdc,r2mn.0,62044,62259,kaberdar,62155,62158,ich,kaberdar
+gdc,r2mn.0,62044,62259,kaberdar,62159,62163,mich,kaberdar
+gdc,r2mn.0,62044,62259,kaberdar,62216,62219,ich,kaberdar
+gdc,r2mn.0,62526,62570,kaberdar,62552,62556,mich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62642,62646,mich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62689,62694,Meine,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62708,62713,meine,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62730,62733,ich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62757,62760,mir,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62801,62804,ich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62828,62831,ich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62838,62841,ich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62869,62874,meine,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62953,62957,mich,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62962,62966,mein,kaberdar
+gdc,r2mn.0,62607,63057,kaberdar,62996,62999,ich,kaberdar
+gdc,r2mn.0,63062,63150,liddy,63110,63113,ich,liddy
+gdc,r2mn.0,63175,63356,liddy,63321,63324,mir,liddy
+gdc,r2mn.0,63361,63508,kaberdar,63445,63448,ich,kaberdar
+gdc,r2mn.0,63361,63508,kaberdar,63483,63486,ich,kaberdar
+gdc,r2mn.0,63670,63727,liddy,63716,63720,mich,liddy
+gdc,r2mn.0,63732,63811,kaberdar,63743,63746,Ich,kaberdar
+gdc,r2mn.0,63732,63811,kaberdar,63797,63803,meinem,kaberdar
+gdc,r2mn.0,63816,63851,liddy,63831,63835,mein,liddy
+gdc,r2mn.0,63856,64307,kaberdar,63882,63888,meinen,kaberdar
+gdc,r2mn.0,63856,64307,kaberdar,64004,64007,mir,kaberdar
+gdc,r2mn.0,63856,64307,kaberdar,64042,64045,ich,kaberdar
+gdc,r2mn.0,63856,64307,kaberdar,64083,64089,meinen,kaberdar
+gdc,r2mn.0,63856,64307,kaberdar,64126,64131,meine,kaberdar
+gdc,r2mn.0,63856,64307,kaberdar,64218,64221,Ich,kaberdar
+gdc,r2mn.0,64313,64438,liddy,64342,64348,meiner,liddy
+gdc,r2mn.0,64443,64644,kaberdar,64605,64608,ich,kaberdar
+gdc,r2mn.0,64649,64826,liddy,64773,64777,mich,liddy
+gdc,r2mn.0,64831,65709,kaberdar,64862,64867,Meine,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,64926,64929,Ich,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,64936,64941,meine,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,64958,64961,ich,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,64998,65002,mich,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,65027,65030,ich,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,65064,65067,ich,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,65363,65369,meiner,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,65529,65532,ich,kaberdar
+gdc,r2mn.0,64831,65709,kaberdar,65536,65539,mir,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66284,66289,meine,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66304,66308,Mein,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66338,66341,Ich,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66346,66352,meinen,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66422,66425,mir,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66479,66482,mir,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66534,66537,ich,kaberdar
+gdc,r2mn.0,66190,66566,kaberdar,66541,66547,meinem,kaberdar
+gdc,r2mn.0,66618,67168,liddy,66643,66646,ich,liddy
+gdc,r2mn.0,66618,67168,liddy,66959,66962,ich,liddy
+gdc,r2mn.0,67255,67305,liddy,67286,67289,mir,liddy
+gdc,r2mn.0,67336,67367,liddy,67353,67356,Ich,liddy
+gdc,r2mn.0,67389,67515,liddy,67405,67408,ich,liddy
+gdc,r2mn.0,67389,67515,liddy,67418,67424,meinen,liddy
+gdc,r2mn.0,67521,67750,samuel,67711,67714,ich,samuel
+gdc,r2mn.0,68091,68222,samuel,68174,68177,ich,samuel
+gdc,r2mn.0,68457,68698,liddy,68485,68488,ich,liddy
+gdc,r2mn.0,68457,68698,liddy,68489,68492,mir,liddy
+gdc,r2mn.0,68457,68698,liddy,68502,68508,meines,liddy
+gdc,r2mn.0,68703,68773,samuel,68748,68751,ich,samuel
+gdc,r2mn.0,68778,68918,liddy,68786,68790,Mein,liddy
+gdc,r2mn.0,68923,69077,samuel,69028,69031,ich,samuel
+gdc,r2mn.0,69082,69290,liddy,69111,69114,ich,liddy
+gdc,r2mn.0,69082,69290,liddy,69174,69178,mich,liddy
+gdc,r2mn.0,69082,69290,liddy,69257,69260,mir,liddy
+gdc,r2mn.0,69556,69998,samuel,69585,69588,Ich,samuel
+gdc,r2mn.0,69556,69998,samuel,69697,69703,meiner,samuel
+gdc,r2mn.0,69556,69998,samuel,69715,69719,mich,samuel
+gdc,r2mn.0,69556,69998,samuel,69762,69766,mich,samuel
+gdc,r2mn.0,69556,69998,samuel,69782,69786,mich,samuel
+gdc,r2mn.0,69556,69998,samuel,69819,69824,meine,samuel
+gdc,r2mn.0,69556,69998,samuel,69953,69956,ich,samuel
+gdc,r2mn.0,70609,70722,samuel,70665,70668,ich,samuel
+gdc,r2mn.0,70727,70826,liddy,70808,70811,ich,liddy
+gdc,r2mn.0,70831,70876,samuel,70840,70843,Ich,samuel
+gdc,r2mn.0,70950,71055,gurli,70974,70979,meine,gurli
+gdc,r2mn.0,71143,71176,liddy,71162,71168,meinem,liddy
+gdc,r2mn.0,71181,71326,gurli,71249,71252,mir,gurli
+gdc,r2mn.0,71375,71434,gurli,71387,71391,mich,gurli
+gdc,r2mn.0,71591,71644,samuel,71600,71604,Mein,samuel
+gdc,r2mn.0,71649,71688,gurli,71670,71673,ich,gurli
+gdc,r2mn.0,71757,72208,gurli,71816,71819,mir,gurli
+gdc,r2mn.0,71757,72208,gurli,71919,71922,mir,gurli
+gdc,r2mn.0,72406,72674,gurli,72559,72563,mein,gurli
+gdc,r2mn.0,72406,72674,gurli,72592,72596,mein,gurli
+gdc,r2mn.0,73116,73207,samuel,73170,73174,mich,samuel
+gdc,r2mn.0,73116,73207,samuel,73176,73180,mich,samuel
+gdc,r2mn.0,73436,73476,liddy,73444,73447,Ich,liddy
+gdc,r2mn.0,73481,73590,gurli,73489,73492,Ich,gurli
+gdc,r2mn.0,73595,73831,samuel,73626,73629,Ich,samuel
+gdc,r2mn.0,73595,73831,samuel,73812,73816,mich,samuel
+gdc,r2mn.0,73879,73915,liddy,73903,73907,mein,liddy
+gdc,r2mn.0,73920,74040,gurli,73934,73937,ich,gurli
+gdc,r2mn.0,73920,74040,gurli,74023,74027,mein,gurli
+gdc,r2mn.0,74045,74391,samuel,74075,74078,ich,samuel
+gdc,r2mn.0,74045,74391,samuel,74122,74125,ich,samuel
+gdc,r2mn.0,74478,74507,liddy,74486,74489,Mir,liddy
+gdc,r2mn.0,74513,74564,gurli,74533,74536,ich,gurli
+gdc,r2mn.0,74569,74740,samuel,74618,74621,ich,samuel
+gdc,r2mn.0,74745,74890,liddy,74753,74756,Ich,liddy
+gdc,r2mn.0,74895,75052,samuel,74914,74917,mir,samuel
+gdc,r2mn.0,74895,75052,samuel,74950,74953,ich,samuel
+gdc,r2mn.0,75093,75594,samuel,75256,75259,Ich,samuel
+gdc,r2mn.0,75093,75594,samuel,75377,75380,Ich,samuel
+gdc,r2mn.0,75093,75594,samuel,75577,75580,ich,samuel
+gdc,r2mn.0,75646,75685,gurli,75670,75673,ich,gurli
+gdc,r2mn.0,75715,75880,gurli,75796,75799,ich,gurli
+gdc,r2mn.0,75715,75880,gurli,75855,75858,ich,gurli
+gdc,r2mn.0,75950,76039,liddy,76004,76009,meine,liddy
+gdc,r2mn.0,75950,76039,liddy,76025,76030,meine,liddy
+gdc,r2mn.0,76083,76147,liddy,76099,76105,meinen,liddy
+gdc,r2mn.0,76362,76534,liddy,76380,76383,ich,liddy
+gdc,r2mn.0,76362,76534,liddy,76414,76417,ich,liddy
+gdc,r2mn.0,76362,76534,liddy,76503,76506,mir,liddy
+gdc,r2mn.0,76590,76620,liddy,76611,76614,mir,liddy
+gdc,r2mn.0,76625,76713,gurli,76639,76645,meinem,gurli
+gdc,r2mn.0,76625,76713,gurli,76661,76667,meiner,gurli
+gdc,r2mn.0,76625,76713,gurli,76699,76705,meinem,gurli
+gdc,r2mn.0,76837,76914,gurli,76852,76855,mir,gurli
+gdc,r2mn.0,76998,77085,liddy,77042,77045,ich,liddy
+gdc,r2mn.0,76998,77085,liddy,77051,77057,meinen,liddy
+gdc,r2mn.0,77090,77172,gurli,77155,77158,mir,gurli
+gdc,r2mn.0,77563,77627,liddy,77603,77606,mir,liddy
+gdc,r2mn.0,77872,78309,gurli,77975,77979,Mein,gurli
+gdc,r2mn.0,77872,78309,gurli,78281,78285,mich,gurli
+gdc,r2mn.0,78358,80101,gurli,78376,78380,mein,gurli
+gdc,r2mn.0,78358,80101,gurli,78788,78791,ich,gurli
+gdc,r2mn.0,78358,80101,gurli,78808,78811,ich,gurli
+gdc,r2mn.0,78358,80101,gurli,78823,78829,meinen,gurli
+gdc,r2mn.0,78358,80101,gurli,78837,78841,mich,gurli
+gdc,r2mn.0,78358,80101,gurli,79186,79189,mir,gurli
+gdc,r2mn.0,78358,80101,gurli,79211,79214,ich,gurli
+gdc,r2mn.0,78358,80101,gurli,79236,79239,ich,gurli
+gdc,r2mn.0,78358,80101,gurli,79296,79301,meine,gurli
+gdc,r2mn.0,78358,80101,gurli,79328,79331,ich,gurli
+gdc,r2mn.0,78358,80101,gurli,79348,79353,meine,gurli
+gdc,r2mn.0,78358,80101,gurli,79371,79374,ich,gurli
+gdc,r2mn.0,78358,80101,gurli,79397,79401,mein,gurli
+gdc,r2mn.0,78358,80101,gurli,79686,79690,Mein,gurli
+gdc,r2mn.0,78358,80101,gurli,80078,80081,ich,gurli
+gdc,r2mn.0,80106,80284,liddy,80114,80117,Ich,liddy
+gdc,r2mn.0,80106,80284,liddy,80180,80183,mir,liddy
+gdc,r2mn.0,80106,80284,liddy,80190,80195,meine,liddy
+gdc,r2mn.0,80106,80284,liddy,80234,80239,meine,liddy
+gdc,r2mn.0,80106,80284,liddy,80256,80261,meine,liddy
+gdc,r2mn.0,80527,80615,liddy,80590,80593,ich,liddy
+gdc,r2mn.0,80667,80768,liddy,80675,80678,Ich,liddy
+gdc,r2mn.0,80667,80768,liddy,80709,80712,mir,liddy
+gdc,r2mn.0,80773,81068,gurli,80918,80921,mir,gurli
+gdc,r2mn.0,80773,81068,gurli,80936,80939,mir,gurli
+gdc,r2mn.0,80773,81068,gurli,80946,80949,ich,gurli
+gdc,r2mn.0,80773,81068,gurli,80956,80960,mich,gurli
+gdc,r2mn.0,80773,81068,gurli,80971,80974,ich,gurli
+gdc,r2mn.0,81074,81142,liddy,81109,81113,mich,liddy
+gdc,r2mn.0,81147,81210,gurli,81165,81169,mein,gurli
+gdc,r2mn.0,81258,81352,gurli,81274,81277,ich,gurli
+gdc,r2mn.0,81357,81431,liddy,81377,81383,meinen,liddy
+gdc,r2mn.0,81756,81901,liddy,81806,81809,mir,liddy
+gdc,r2mn.0,82128,82474,gurli,82309,82312,ich,gurli
+gdc,r2mn.0,82481,83034,jack,82488,82491,Ich,jack
+gdc,r2mn.0,82481,83034,jack,82650,82653,ich,jack
+gdc,r2mn.0,82481,83034,jack,82654,82657,mir,jack
+gdc,r2mn.0,82481,83034,jack,82703,82706,Ich,jack
+gdc,r2mn.0,83294,83397,jack,83364,83367,ich,jack
+gdc,r2mn.0,83402,83484,sir_john,83474,83478,mein,sir_john
+gdc,r2mn.0,83489,83617,jack,83513,83516,mir,jack
+gdc,r2mn.0,83489,83617,jack,83524,83527,Ich,jack
+gdc,r2mn.0,83622,83775,sir_john,83661,83664,mir,sir_john
+gdc,r2mn.0,84099,84190,jack,84106,84110,Mein,jack
+gdc,r2mn.0,84255,84446,jack,84271,84274,ich,jack
+gdc,r2mn.0,84255,84446,jack,84370,84373,ich,jack
+gdc,r2mn.0,84566,86304,jack,84670,84673,ich,jack
+gdc,r2mn.0,84566,86304,jack,85087,85093,meiner,jack
+gdc,r2mn.0,84566,86304,jack,85206,85209,ich,jack
+gdc,r2mn.0,84566,86304,jack,85271,85274,ich,jack
+gdc,r2mn.0,84566,86304,jack,85300,85304,mein,jack
+gdc,r2mn.0,84566,86304,jack,85376,85379,ich,jack
+gdc,r2mn.0,84566,86304,jack,86097,86101,mein,jack
+gdc,r2mn.0,84566,86304,jack,86153,86156,ich,jack
+gdc,r2mn.0,86309,86470,sir_john,86378,86381,ich,sir_john
+gdc,r2mn.0,86309,86470,sir_john,86382,86386,mich,sir_john
+gdc,r2mn.0,86309,86470,sir_john,86433,86439,meinen,sir_john
+gdc,r2mn.0,86599,86649,sir_john,86635,86641,meines,sir_john
+gdc,r2mn.0,86784,86838,robert,86821,86826,Meine,robert
+gdc,r2mn.0,86843,86992,sir_john,86950,86953,mir,sir_john
+gdc,r2mn.0,87058,87339,sir_john,87112,87115,ich,sir_john
+gdc,r2mn.0,87058,87339,sir_john,87230,87236,meiner,sir_john
+gdc,r2mn.0,87344,87373,robert,87362,87366,mein,robert
+gdc,r2mn.0,87517,87589,jack,87524,87528,Mein,jack
+gdc,r2mn.0,87517,87589,jack,87546,87549,mir,jack
+gdc,r2mn.0,87517,87589,jack,87579,87582,mir,jack
+gdc,r2mn.0,87874,87961,jack,87881,87884,Ich,jack
+gdc,r2mn.0,87874,87961,jack,87890,87894,mich,jack
+gdc,r2mn.0,88013,88701,liddy,88038,88041,mir,liddy
+gdc,r2mn.0,88013,88701,liddy,88055,88058,mir,liddy
+gdc,r2mn.0,88013,88701,liddy,88078,88081,Ich,liddy
+gdc,r2mn.0,88013,88701,liddy,88249,88253,mich,liddy
+gdc,r2mn.0,88013,88701,liddy,88269,88272,ich,liddy
+gdc,r2mn.0,88013,88701,liddy,88313,88317,mich,liddy
+gdc,r2mn.0,88013,88701,liddy,88376,88382,meines,liddy
+gdc,r2mn.0,88013,88701,liddy,88425,88428,Mir,liddy
+gdc,r2mn.0,88013,88701,liddy,88485,88488,ich,liddy
+gdc,r2mn.0,88013,88701,liddy,88560,88563,ich,liddy
+gdc,r2mn.0,88013,88701,liddy,88593,88596,ich,liddy
+gdc,r2mn.0,88013,88701,liddy,88686,88689,ich,liddy
+gdc,r2mn.0,89175,89536,fazir,89191,89195,mein,fazir
+gdc,r2mn.0,89175,89536,fazir,89339,89343,mich,fazir
+gdc,r2mn.0,89175,89536,fazir,89386,89390,mich,fazir
+gdc,r2mn.0,89175,89536,fazir,89449,89452,ich,fazir
+gdc,r2mn.0,89175,89536,fazir,89453,89457,mich,fazir
+gdc,r2mn.0,89175,89536,fazir,89515,89518,ich,fazir
+gdc,r2mn.0,89541,89602,liddy,89587,89590,ich,liddy
+gdc,r2mn.0,89541,89602,liddy,89597,89601,mich,liddy
+gdc,r2mn.0,89607,90140,fazir,89655,89658,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,89685,89688,mir,fazir
+gdc,r2mn.0,89607,90140,fazir,89714,89717,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,89853,89856,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,89857,89862,meine,fazir
+gdc,r2mn.0,89607,90140,fazir,89885,89888,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,89901,89905,mich,fazir
+gdc,r2mn.0,89607,90140,fazir,89920,89923,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,89994,89997,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,90022,90025,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,90046,90049,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,90075,90078,ich,fazir
+gdc,r2mn.0,89607,90140,fazir,90100,90103,ich,fazir
+gdc,r2mn.0,90145,90276,liddy,90213,90219,meines,liddy
+gdc,r2mn.0,90145,90276,liddy,90254,90258,mich,liddy
+gdc,r2mn.0,90281,90787,fazir,90476,90479,ich,fazir
+gdc,r2mn.0,90281,90787,fazir,90611,90614,ich,fazir
+gdc,r2mn.0,90281,90787,fazir,90628,90631,ich,fazir
+gdc,r2mn.0,90281,90787,fazir,90644,90647,ich,fazir
+gdc,r2mn.0,90281,90787,fazir,90659,90662,ich,fazir
+gdc,r2mn.0,90281,90787,fazir,90704,90707,ich,fazir
+gdc,r2mn.0,90792,90934,liddy,90817,90820,ich,liddy
+gdc,r2mn.0,90792,90934,liddy,90857,90861,mein,liddy
+gdc,r2mn.0,90792,90934,liddy,90920,90923,ich,liddy
+gdc,r2mn.0,91155,91396,fazir,91163,91166,Ich,fazir
+gdc,r2mn.0,91155,91396,fazir,91169,91172,ich,fazir
+gdc,r2mn.0,91155,91396,fazir,91289,91292,ich,fazir
+gdc,r2mn.0,91155,91396,fazir,91311,91314,ich,fazir
+gdc,r2mn.0,91155,91396,fazir,91339,91342,ich,fazir
+gdc,r2mn.0,91502,91803,fazir,91605,91608,ich,fazir
+gdc,r2mn.0,91502,91803,fazir,91675,91678,ich,fazir
+gdc,r2mn.0,91502,91803,fazir,91701,91704,ich,fazir
+gdc,r2mn.0,91502,91803,fazir,91729,91732,mir,fazir
+gdc,r2mn.0,91502,91803,fazir,91775,91778,mir,fazir
+gdc,r2mn.0,91808,91891,liddy,91879,91883,mein,liddy
+gdc,r2mn.0,91896,92209,fazir,92028,92031,mir,fazir
+gdc,r2mn.0,91896,92209,fazir,92059,92062,ich,fazir
+gdc,r2mn.0,91896,92209,fazir,92100,92103,Ich,fazir
+gdc,r2mn.0,91896,92209,fazir,92118,92122,mich,fazir
+gdc,r2mn.0,91896,92209,fazir,92173,92176,ich,fazir
+gdc,r2mn.0,92214,92278,liddy,92239,92245,meinen,liddy
+gdc,r2mn.0,92214,92278,liddy,92256,92261,meine,liddy
+gdc,r2mn.0,92283,92357,fazir,92320,92323,Ich,fazir
+gdc,r2mn.0,92807,92901,robert,92870,92873,ich,robert
+gdc,r2mn.0,92807,92901,robert,92877,92883,meinem,robert
+gdc,r2mn.0,92975,93008,robert,92990,92995,meine,robert
+gdc,r2mn.0,93463,93561,robert,93502,93505,ich,robert
+gdc,r2mn.0,93566,93784,mistriss_smith,93594,93597,ich,mistriss_smith
+gdc,r2mn.0,93789,93976,robert,93819,93823,Mein,robert
+gdc,r2mn.0,93789,93976,robert,93838,93841,mir,robert
+gdc,r2mn.0,93789,93976,robert,93858,93861,ich,robert
+gdc,r2mn.0,93789,93976,robert,93953,93959,meiner,robert
+gdc,r2mn.0,93981,94114,liddy,94088,94091,mir,liddy
+gdc,r2mn.0,94228,94289,liddy,94236,94239,Ich,liddy
+gdc,r2mn.0,94228,94289,liddy,94269,94274,meine,liddy
+gdc,r2mn.0,94461,94535,robert,94496,94499,Ich,robert
+gdc,r2mn.0,94540,94588,fazir,94573,94576,ich,fazir
+gdc,r2mn.0,94679,94768,mistriss_smith,94717,94720,ich,mistriss_smith
+gdc,r2mn.0,94679,94768,mistriss_smith,94751,94756,meine,mistriss_smith
+gdc,r2mn.0,94774,94878,liddy,94782,94785,Ich,liddy
+gdc,r2mn.0,94774,94878,liddy,94807,94810,ich,liddy
+gdc,r2mn.0,95077,95436,mistriss_smith,95246,95249,ich,mistriss_smith
+gdc,r2mn.0,95077,95436,mistriss_smith,95353,95356,ich,mistriss_smith
+gdc,r2mn.0,95077,95436,mistriss_smith,95418,95421,mir,mistriss_smith
+gdc,r2mn.0,95517,95613,robert,95535,95538,mir,robert
+gdc,r2mn.0,95517,95613,robert,95557,95562,meine,robert
+gdc,r2mn.0,95758,95920,robert,95772,95776,mein,robert
+gdc,r2mn.0,95758,95920,robert,95862,95865,ich,robert
+gdc,r2mn.0,95925,96278,jack,95932,95935,Ich,jack
+gdc,r2mn.0,96321,96367,fazir,96329,96332,Ich,fazir
+gdc,r2mn.0,96455,96524,jack,96462,96465,Ich,jack
+gdc,r2mn.0,96559,96594,fazir,96584,96587,ich,fazir
+gdc,r2mn.0,96710,96754,fazir,96720,96723,ich,fazir
+gdc,r2mn.0,96759,96811,robert,96777,96780,mir,robert
+gdc,r2mn.0,96816,96897,fazir,96824,96827,Ich,fazir
+gdc,r2mn.0,96816,96897,fazir,96870,96874,mich,fazir
+gdc,r2mn.0,96902,97299,robert,97090,97093,mir,robert
+gdc,r2mn.0,96902,97299,robert,97208,97211,ich,robert
+gdc,r2mn.0,96902,97299,robert,97281,97284,ich,robert
+gdc,r2mn.0,97304,97577,fazir,97337,97340,mir,fazir
+gdc,r2mn.0,97304,97577,fazir,97401,97405,mich,fazir
+gdc,r2mn.0,97304,97577,fazir,97484,97490,meiner,fazir
+gdc,r2mn.0,97304,97577,fazir,97501,97505,mich,fazir
+gdc,r2mn.0,97304,97577,fazir,97517,97520,Ich,fazir
+gdc,r2mn.0,97304,97577,fazir,97553,97556,ich,fazir
+gdc,r2mn.0,97582,97732,robert,97620,97624,mein,robert
+gdc,r2mn.0,97582,97732,robert,97706,97709,ich,robert
+gdc,r2mn.0,97737,97807,fazir,97745,97749,Mein,fazir
+gdc,r2mn.0,97737,97807,fazir,97785,97788,ich,fazir
+gdc,r2mn.0,97812,97856,robert,97840,97845,meine,robert
+gdc,r2mn.0,97887,98417,robert,97922,97925,ich,robert
+gdc,r2mn.0,97887,98417,robert,98090,98093,ich,robert
+gdc,r2mn.0,97887,98417,robert,98239,98243,mein,robert
+gdc,r2mn.0,97887,98417,robert,98271,98275,mein,robert
+gdc,r2mn.0,97887,98417,robert,98296,98299,ich,robert
+gdc,r2mn.0,97887,98417,robert,98365,98369,mich,robert
+gdc,r2mn.0,97887,98417,robert,98392,98397,meine,robert
+gdc,r2mn.0,98422,98495,jack,98434,98437,ich,jack
+gdc,r2mn.0,98422,98495,jack,98473,98477,mich,jack
+gdc,r2mn.0,98918,99021,_stage,98938,98970,Mäster Strussel und Mäster Staff,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,98918,99021,_stage,98938,98953,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,98918,99021,_stage,98958,98970,Mäster Staff,mäster_staff
+gdc,r2mn.0,98918,99021,_stage,99000,99008,der Türe,der-Tür
+gdc,r2mn.0,99109,99168,mäster_strussel,99127,99139,Mäster Staff,mäster_staff
+gdc,r2mn.0,99109,99168,mäster_strussel,99144,99150,meinem,mäster_strussel
+gdc,r2mn.0,99173,99219,mäster_staff,99188,99203,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,99364,99514,mäster_staff,99465,99505,"meinem würdigen Freunde, Mäster Strussel",mäster_strussel
+gdc,r2mn.0,99364,99514,mäster_staff,99465,99471,meinem,mäster_staff
+gdc,r2mn.0,99519,99650,mäster_strussel,99621,99623,Er,mäster_strussel
+gdc,r2mn.0,99519,99650,mäster_strussel,99630,99633,ihn,mäster_staff
+gdc,r2mn.0,99519,99650,mäster_strussel,99638,99642,sich,mäster_strussel
+gdc,r2mn.0,99656,99792,mäster_staff,99694,99697,Sie,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,99656,99792,mäster_staff,99708,99712,sich,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,99656,99792,mäster_staff,99781,99791,der Teufel,zum-Teufel
+gdc,r2mn.0,99860,100059,mäster_staff,99893,99896,ich,mäster_staff
+gdc,r2mn.0,99860,100059,mäster_staff,99914,99917,man,man
+gdc,r2mn.0,99860,100059,mäster_staff,99918,99922,mich,mäster_staff
+gdc,r2mn.0,99860,100059,mäster_staff,99927,99930,ich,mäster_staff
+gdc,r2mn.0,99860,100059,mäster_staff,99931,99975,meinen vortrefflichen Freund Mäster Strussel,mäster_strussel
+gdc,r2mn.0,99860,100059,mäster_staff,99931,99937,meinen,mäster_staff
+gdc,r2mn.0,99860,100059,mäster_staff,100014,100019,Ihnen,mäster_strussel
+gdc,r2mn.0,99860,100059,mäster_staff,100031,100040,Jacobchen,Jacobchen
+gdc,r2mn.0,99860,100059,mäster_staff,100041,100058,mein kleiner Pate,Jacobchen
+gdc,r2mn.0,99860,100059,mäster_staff,100041,100045,mein,mäster_staff
+gdc,r2mn.0,100064,100267,mäster_strussel,100082,100104,Ein spaßhafter Schäker,mäster_staff
+gdc,r2mn.0,100064,100267,mäster_strussel,100106,100109,ich,mäster_strussel
+gdc,r2mn.0,100064,100267,mäster_strussel,100118,100121,ihm,Jacobchen
+gdc,r2mn.0,100064,100267,mäster_strussel,100139,100141,er,Jacobchen
+gdc,r2mn.0,100064,100267,mäster_strussel,100142,100146,sich,Jacobchen
+gdc,r2mn.0,100064,100267,mäster_strussel,100152,100179,seinem vortrefflichen Paten,mäster_staff
+gdc,r2mn.0,100064,100267,mäster_strussel,100152,100158,seinem,Jacobchen
+gdc,r2mn.0,100064,100267,mäster_strussel,100180,100196,dem Mäster Staff,mäster_staff
+gdc,r2mn.0,100314,100360,mäster_strussel,100352,100354,er,mäster_staff
+gdc,r2mn.0,100365,100425,mäster_staff,100391,100405,Welcher Teufel,zum-Teufel
+gdc,r2mn.0,100365,100425,mäster_staff,100410,100413,ihn,mäster_strussel
+gdc,r2mn.0,100430,100505,mäster_strussel,100448,100474,Mein lieber Herr Mitbruder,mäster_staff
+gdc,r2mn.0,100430,100505,mäster_strussel,100448,100452,Mein,mäster_strussel
+gdc,r2mn.0,100430,100505,mäster_strussel,100490,100499,Geschäfte,Geschäfte
+gdc,r2mn.0,100510,100613,mäster_staff,100542,100570,meinem werten Herrn Kollegen,mäster_strussel
+gdc,r2mn.0,100510,100613,mäster_staff,100542,100548,meinem,mäster_staff
+gdc,r2mn.0,100618,100706,mäster_strussel,100694,100704,Geschäften,Geschäfte
+gdc,r2mn.0,100711,100760,mäster_staff,100744,100759,ein Ehekontrakt,ein-Ehekontrakt
+gdc,r2mn.0,100765,100897,mäster_strussel,100823,100838,ein Ehekontrakt,ein-Ehekontrakt
+gdc,r2mn.0,100765,100897,mäster_strussel,100858,100861,ich,mäster_strussel
+gdc,r2mn.0,100902,101022,mäster_staff,100963,100967,Mich,mäster_staff
+gdc,r2mn.0,100902,101022,mäster_staff,100972,101007,der Herr Zollinspektor Samuel Smith,samuel
+gdc,r2mn.0,101027,101089,mäster_strussel,101053,101065,der nämliche,samuel
+gdc,r2mn.0,101027,101089,mäster_strussel,101075,101079,mich,mäster_strussel
+gdc,r2mn.0,101149,101227,mäster_strussel,101198,101210,Mäster Staff,mäster_staff
+gdc,r2mn.0,101232,101284,mäster_staff,101247,101250,Sie,mäster_strussel
+gdc,r2mn.0,101232,101284,mäster_staff,101258,101262,sich,mäster_strussel
+gdc,r2mn.0,101232,101284,mäster_staff,101269,101283,Herr Konfrater,mäster_strussel
+gdc,r2mn.0,101289,101479,mäster_strussel,101307,101310,Ich,mäster_strussel
+gdc,r2mn.0,101289,101479,mäster_strussel,101316,101320,mich,mäster_strussel
+gdc,r2mn.0,101289,101479,mäster_strussel,101325,101339,Herr Konfrater,mäster_staff
+gdc,r2mn.0,101289,101479,mäster_strussel,101362,101376,Herr Konfrater,mäster_staff
+gdc,r2mn.0,101289,101479,mäster_strussel,101387,101409,ein gewissenloser Mann,mäster_staff
+gdc,r2mn.0,101289,101479,mäster_strussel,101411,101414,der,mäster_staff
+gdc,r2mn.0,101289,101479,mäster_strussel,101434,101440,seinem,mäster_staff
+gdc,r2mn.0,101484,101540,mäster_staff,101503,101517,Herr Konfrater,mäster_strussel
+gdc,r2mn.0,101484,101540,mäster_staff,101519,101522,Sie,mäster_strussel
+gdc,r2mn.0,101484,101540,mäster_staff,101535,101539,sich,mäster_strussel
+gdc,r2mn.0,101545,101602,mäster_strussel,101566,101580,Herr Konfrater,mäster_staff
+gdc,r2mn.0,101545,101602,mäster_strussel,101582,101585,ich,mäster_strussel
+gdc,r2mn.0,101545,101602,mäster_strussel,101597,101601,mich,mäster_strussel
+gdc,r2mn.0,101607,101666,mäster_staff,101651,101665,Herr Konfrater,mäster_strussel
+gdc,r2mn.0,101671,101725,mäster_strussel,101700,101703,wir,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,101671,101725,mäster_strussel,101710,101724,Herr Konfrater,mäster_staff
+gdc,r2mn.0,101730,101839,mäster_staff,101745,101748,Sie,mäster_strussel
+gdc,r2mn.0,101730,101839,mäster_staff,101771,101785,Herr Konfrater,mäster_strussel
+gdc,r2mn.0,101730,101839,mäster_staff,101792,101795,Sie,mäster_strussel
+gdc,r2mn.0,101730,101839,mäster_staff,101818,101821,Sie,mäster_strussel
+gdc,r2mn.0,101844,101918,mäster_strussel,101866,101869,Sie,mäster_staff
+gdc,r2mn.0,101844,101918,mäster_strussel,101897,101900,Sie,mäster_staff
+gdc,r2mn.0,101844,101918,mäster_strussel,101901,101911,zum Teufel,zum-Teufel
+gdc,r2mn.0,101923,101976,mäster_staff,101947,101950,ich,mäster_staff
+gdc,r2mn.0,101923,101976,mäster_staff,101951,101954,Sie,mäster_strussel
+gdc,r2mn.0,101981,102058,mäster_strussel,101999,102002,Ich,mäster_strussel
+gdc,r2mn.0,101981,102058,mäster_strussel,102009,102013,mich,mäster_strussel
+gdc,r2mn.0,101981,102058,mäster_strussel,102027,102032,Ihnen,mäster_staff
+gdc,r2mn.0,102063,102164,mäster_staff,102078,102087,Die Leute,Die-Leute
+gdc,r2mn.0,102063,102164,mäster_staff,102095,102099,sich,Die-Leute
+gdc,r2mn.0,102063,102164,mäster_staff,102109,102112,Sie,mäster_strussel
+gdc,r2mn.0,102169,102261,mäster_strussel,102216,102219,ich,mäster_strussel
+gdc,r2mn.0,102169,102261,mäster_strussel,102232,102235,ich,mäster_strussel
+gdc,r2mn.0,102266,102302,mäster_staff,102281,102285,Herr,mäster_strussel
+gdc,r2mn.0,102266,102302,mäster_staff,102286,102289,Sie,mäster_strussel
+gdc,r2mn.0,102266,102302,mäster_staff,102297,102301,grob,grob
+gdc,r2mn.0,102308,102345,mäster_staff,102327,102330,Sie,mäster_strussel
+gdc,r2mn.0,102308,102345,mäster_staff,102336,102338,es,grob
+gdc,r2mn.0,102350,102461,mäster_staff,102370,102373,Sie,mäster_strussel
+gdc,r2mn.0,102350,102461,mäster_staff,102423,102426,ich,mäster_staff
+gdc,r2mn.0,102350,102461,mäster_staff,102427,102432,Ihnen,mäster_strussel
+gdc,r2mn.0,102350,102461,mäster_staff,102433,102438,meine,mäster_staff
+gdc,r2mn.0,102466,102580,mäster_strussel,102501,102504,ich,mäster_strussel
+gdc,r2mn.0,102466,102580,mäster_strussel,102533,102537,mich,mäster_strussel
+gdc,r2mn.0,102466,102580,mäster_strussel,102555,102570,einem Windhunde,mäster_staff
+gdc,r2mn.0,102585,102802,mäster_staff,102626,102629,mir,mäster_staff
+gdc,r2mn.0,102585,102802,mäster_staff,102658,102681,ein solches Mastschwein,mäster_strussel
+gdc,r2mn.0,102585,102802,mäster_staff,102721,102725,ihre,mäster_strussel
+gdc,r2mn.0,102585,102802,mäster_staff,102766,102770,sich,mäster_strussel
+gdc,r2mn.0,102853,102881,_stage,102853,102866,Der Visitator,visitator
+gdc,r2mn.0,102853,102881,_stage,102869,102880,Die Vorigen,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,102895,102927,_stage,102913,102916,sie,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,102884,103041,visitator,102970,102982,meine Herren,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,102884,103041,visitator,102970,102975,meine,visitator
+gdc,r2mn.0,102884,103041,visitator,102984,102987,ich,visitator
+gdc,r2mn.0,102884,103041,visitator,102996,102999,Sie,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,102884,103041,visitator,103007,103011,sich,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103063,103088,_stage,103067,103079,Mäster Staff,mäster_staff
+gdc,r2mn.0,103046,103132,mäster_strussel,103091,103094,Sie,visitator
+gdc,r2mn.0,103046,103132,mäster_strussel,103116,103131,dieses Menschen,mäster_staff
+gdc,r2mn.0,103151,103179,_stage,103155,103170,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,103268,103327,mäster_strussel,103291,103294,wir,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103268,103327,mäster_strussel,103302,103305,uns,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103268,103327,mäster_strussel,103314,103326,Mäster Staff,mäster_staff
+gdc,r2mn.0,103332,103394,mäster_staff,103355,103358,wir,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103332,103394,mäster_staff,103366,103369,uns,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103332,103394,mäster_staff,103378,103393,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,103399,103543,visitator,103418,103421,Sie,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103399,103543,visitator,103443,103446,mir,visitator
+gdc,r2mn.0,103399,103543,visitator,103467,103470,Sie,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103399,103543,visitator,103487,103491,sich,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,103621,103815,,103632,103634,Er,DER-ANDERE.
+gdc,r2mn.0,103621,103815,,103645,103661,Sir Samuel Smith,samuel
+gdc,r2mn.0,103621,103815,,103667,103670,ihn,DER-ANDERE.
+gdc,r2mn.0,103621,103815,,103689,103707,eines Ehekontrakts,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,103621,103815,,103709,103712,den,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,103621,103815,,103713,103715,er,samuel
+gdc,r2mn.0,103621,103815,,103776,103782,seinen,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,103820,104013,,103833,103835,Er,DER-EINE.
+gdc,r2mn.0,103820,104013,,103870,103873,man,samuel
+gdc,r2mn.0,103820,104013,,103879,103885,seiner,DER-EINE.
+gdc,r2mn.0,103820,104013,,103902,103919,einen Ehekontrakt,Ehekontrat-von-dem-anderen-
+gdc,r2mn.0,103820,104013,,103932,103938,dessen,Ehekontrat-von-dem-anderen-
+gdc,r2mn.0,103820,104013,,103951,103967,Sir Samuel Smith,samuel
+gdc,r2mn.0,104018,104122,visitator,104068,104080,meine Herren,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,104018,104122,visitator,104068,104073,meine,visitator
+gdc,r2mn.0,104018,104122,visitator,104110,104113,mir,visitator
+gdc,r2mn.0,104173,104194,_stage,104173,104179,Samuel,samuel
+gdc,r2mn.0,104213,104235,_stage,104217,104223,Samuel,samuel
+gdc,r2mn.0,104197,104265,,104247,104259,der Kontrakt,Ehekontrakt-von-dem-einen--und-Ehekontrat-von-dem-anderen-
+gdc,r2mn.0,104197,104265,,104261,104264,Sir,samuel
+gdc,r2mn.0,104270,104356,samuel,104291,104303,meine Herren,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,104270,104356,samuel,104291,104296,meine,samuel
+gdc,r2mn.0,104270,104356,samuel,104317,104320,Sie,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,104270,104356,samuel,104328,104332,mich,samuel
+gdc,r2mn.0,104361,104424,mäster_strussel,104389,104392,ich,mäster_strussel
+gdc,r2mn.0,104361,104424,mäster_strussel,104411,104416,Ihren,samuel
+gdc,r2mn.0,104450,104498,mäster_staff,104471,104474,Sie,samuel
+gdc,r2mn.0,104450,104498,mäster_staff,104475,104479,mich,mäster_staff
+gdc,r2mn.0,104524,104615,mäster_strussel,104548,104551,Sie,samuel
+gdc,r2mn.0,104524,104615,mäster_strussel,104552,104555,mir,mäster_strussel
+gdc,r2mn.0,104524,104615,mäster_strussel,104575,104592,einen Ehekontrakt,ein-Ehekontrakt
+gdc,r2mn.0,104524,104615,mäster_strussel,104597,104600,Sie,samuel
+gdc,r2mn.0,104641,104709,mäster_staff,104662,104665,ich,mäster_staff
+gdc,r2mn.0,104641,104709,mäster_staff,104672,104689,einen Ehekontrakt,ein-Ehekontrakt
+gdc,r2mn.0,104641,104709,mäster_staff,104694,104697,Sie,samuel
+gdc,r2mn.0,104735,104770,mäster_strussel,104757,104769,Mäster Staff,mäster_staff
+gdc,r2mn.0,104775,104810,mäster_staff,104794,104809,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,104815,104988,mäster_strussel,104843,104846,man,man
+gdc,r2mn.0,104815,104988,mäster_strussel,104855,104858,Sir,samuel
+gdc,r2mn.0,104815,104988,mäster_strussel,104866,104869,Sie,samuel
+gdc,r2mn.0,104815,104988,mäster_strussel,104870,104908,zween der berühmtesten Rechtsgelehrten,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,104993,105132,samuel,105026,105031,einem,einem
+gdc,r2mn.0,104993,105132,samuel,105036,105041,Ihnen,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,104993,105132,samuel,105042,105052,ein Unfall,ein-Unfall
+gdc,r2mn.0,104993,105132,samuel,105070,105073,der,ein-Unfall
+gdc,r2mn.0,104993,105132,samuel,105074,105077,ihn,einem
+gdc,r2mn.0,105137,105311,mäster_staff,105167,105170,Sir,samuel
+gdc,r2mn.0,105137,105311,mäster_staff,105188,105191,Sie,samuel
+gdc,r2mn.0,105137,105311,mäster_staff,105246,105249,mir,mäster_staff
+gdc,r2mn.0,105137,105311,mäster_staff,105254,105300,"meinem würdigen Konfrater, dem Mäster Strussel",mäster_strussel
+gdc,r2mn.0,105137,105311,mäster_staff,105254,105260,meinem,mäster_staff
+gdc,r2mn.0,105316,105438,mäster_strussel,105352,105355,Sir,samuel
+gdc,r2mn.0,105316,105438,mäster_strussel,105357,105385,ein paar alte Herzensfreunde,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,105443,105500,mäster_staff,105463,105466,wir,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,105443,105500,mäster_staff,105467,105470,uns,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,105505,105620,mäster_strussel,105557,105561,sich,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,105625,105675,mäster_staff,105640,105646,Unsere,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,105836,105867,samuel,105853,105866,die Kontrakte,Ehekontrakt-von-dem-einen--und-Ehekontrat-von-dem-anderen-
+gdc,r2mn.0,105891,105947,samuel,105900,105903,Ich,samuel
+gdc,r2mn.0,105891,105947,samuel,105912,105915,Sie,Ehekontrakt-von-dem-einen--und-Ehekontrat-von-dem-anderen-
+gdc,r2mn.0,105952,105993,mäster_strussel,105980,105992,Mäster Staff,mäster_staff
+gdc,r2mn.0,105998,106049,mäster_staff,106013,106016,Ich,mäster_staff
+gdc,r2mn.0,105998,106049,mäster_staff,106023,106038,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,105998,106049,mäster_staff,106045,106048,Sie,mäster_strussel
+gdc,r2mn.0,106054,106116,mäster_strussel,106092,106095,ich,mäster_strussel
+gdc,r2mn.0,106054,106116,mäster_strussel,106102,106107,meine,mäster_strussel
+gdc,r2mn.0,106121,106156,mäster_staff,106140,106143,ich,mäster_staff
+gdc,r2mn.0,106161,106351,mäster_strussel,106227,106230,wir,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,106161,106351,mäster_strussel,106239,106256,einen Ehekontrakt,ein-Ehekontrakt
+gdc,r2mn.0,106161,106351,mäster_strussel,106334,106337,uns,MÄSTER-STRUSSEL-UND-MÄSTER-STAFF
+gdc,r2mn.0,106390,106548,mäster_strussel,106417,106420,Sie,mäster_staff
+gdc,r2mn.0,106390,106548,mäster_strussel,106440,106442,Er,mäster_strussel
+gdc,r2mn.0,106390,106548,mäster_strussel,106449,106454,seine,mäster_strussel
+gdc,r2mn.0,106390,106548,mäster_strussel,106511,106522,einem jeden,einem-jeden
+gdc,r2mn.0,106390,106548,mäster_strussel,106524,106527,dem,einem-jeden
+gdc,r2mn.0,106567,106612,_stage,106575,106579,sein,mäster_staff
+gdc,r2mn.0,106553,106723,mäster_staff,106630,106644,Herr Konfrater,mäster_strussel
+gdc,r2mn.0,106553,106723,mäster_staff,106692,106703,einem jeden,einem-jeden2
+gdc,r2mn.0,106553,106723,mäster_staff,106704,106707,dem,einem-jeden2
+gdc,r2mn.0,106728,106780,mäster_strussel,106765,106779,Herr Konfrater,mäster_staff
+gdc,r2mn.0,107148,107203,mäster_strussel,107166,107169,Sie,mäster_staff
+gdc,r2mn.0,107148,107203,mäster_strussel,107188,107202,Herr Konfrater,mäster_staff
+gdc,r2mn.0,107208,107367,mäster_staff,107233,107236,ich,mäster_staff
+gdc,r2mn.0,107208,107367,mäster_staff,107256,107259,ich,mäster_staff
+gdc,r2mn.0,107208,107367,mäster_staff,107260,107265,meine,mäster_staff
+gdc,r2mn.0,107208,107367,mäster_staff,107286,107309,neunundneunzig Menschen,neunundneunzig-Menschen
+gdc,r2mn.0,107208,107367,mäster_staff,107326,107329,sie,neunundneunzig-Menschen
+gdc,r2mn.0,107208,107367,mäster_staff,107338,107345,gelehrt,es
+gdc,r2mn.0,107208,107367,mäster_staff,107351,107366,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,107372,107425,mäster_strussel,107399,107402,Sie,mäster_staff
+gdc,r2mn.0,107372,107425,mäster_strussel,107403,107405,es,es
+gdc,r2mn.0,107430,107504,samuel,107453,107468,Mäster Strussel,mäster_strussel
+gdc,r2mn.0,107430,107504,samuel,107470,107473,ich,samuel
+gdc,r2mn.0,107430,107504,samuel,107481,107493,Mäster Staff,mäster_staff
+gdc,r2mn.0,107509,107545,mäster_strussel,107532,107534,Er,mäster_staff
+gdc,r2mn.0,107629,107684,mäster_strussel,107647,107650,Sie,samuel
+gdc,r2mn.0,107629,107684,mäster_strussel,107669,107674,Ihrer,samuel
+gdc,r2mn.0,107689,107891,,107761,107763,Er,mäster_strussel
+gdc,r2mn.0,107689,107891,,107778,107780,Er,mäster_strussel
+gdc,r2mn.0,107689,107891,,107781,107785,sich,mäster_strussel
+gdc,r2mn.0,107689,107891,,107847,107850,ihn,mäster_strussel
+gdc,r2mn.0,107689,107891,,107874,107877,ihn,mäster_strussel
+gdc,r2mn.0,107689,107891,,107883,107890,der Tür,der-Tür
+gdc,r2mn.0,107914,107943,_stage,107920,107922,er,mäster_strussel
+gdc,r2mn.0,107897,108042,mäster_strussel,107950,107953,ich,mäster_strussel
+gdc,r2mn.0,107897,108042,mäster_strussel,108007,108018,einem jeden,einem-jeden2
+gdc,r2mn.0,107897,108042,mäster_strussel,108019,108022,dem,einem-jeden2
+gdc,r2mn.0,108047,108166,samuel,108060,108072,Mäster Staff,mäster_staff
+gdc,r2mn.0,108047,108166,samuel,108123,108135,den Kontrakt,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,108047,108166,samuel,108162,108165,Sie,mäster_staff
+gdc,r2mn.0,108171,108282,mäster_staff,108250,108261,einem jeden,einem-jeden2
+gdc,r2mn.0,108171,108282,mäster_staff,108263,108266,dem,einem-jeden2
+gdc,r2mn.0,108304,108334,_stage,108326,108333,die Tür,der-Tür
+gdc,r2mn.0,108287,108373,mäster_strussel,108337,108348,Einem jeden,einem-jeden
+gdc,r2mn.0,108287,108373,mäster_strussel,108350,108353,dem,einem-jeden
+gdc,r2mn.0,108389,108403,_stage,108389,108392,ihn,mäster_strussel
+gdc,r2mn.0,108497,108538,_stage,108497,108505,Kaberdar,kaberdar
+gdc,r2mn.0,108497,108538,_stage,108510,108523,seinem Zimmer,seinem-Zimmer
+gdc,r2mn.0,108497,108538,_stage,108510,108516,seinem,kaberdar
+gdc,r2mn.0,108541,108667,kaberdar,108596,108599,ich,kaberdar
+gdc,r2mn.0,108541,108667,kaberdar,108607,108610,Sir,visitator
+gdc,r2mn.0,108541,108667,kaberdar,108615,108632,die bösen Geister,die-bösen-Geister
+gdc,r2mn.0,108541,108667,kaberdar,108633,108636,ihr,die-bösen-Geister
+gdc,r2mn.0,108541,108667,kaberdar,108647,108658,meiner Türe,die-Tür
+gdc,r2mn.0,108541,108667,kaberdar,108647,108653,meiner,kaberdar
+gdc,r2mn.0,108672,108751,visitator,108697,108700,wir,"MÄSTER-STAFF,-SAMUEL-UND-DER-VISITATOR"
+gdc,r2mn.0,108672,108751,visitator,108701,108704,ihn,mäster_strussel
+gdc,r2mn.0,108756,108788,kaberdar,108772,108787,den bösen Geist,mäster_strussel
+gdc,r2mn.0,108793,108866,mäster_staff,108815,108826,bösen Geist,mäster_strussel
+gdc,r2mn.0,108793,108866,mäster_staff,108828,108833,Dämon,mäster_strussel
+gdc,r2mn.0,108793,108866,mäster_staff,108835,108844,Kakodämon,mäster_strussel
+gdc,r2mn.0,108793,108866,mäster_staff,108846,108865,Spiritus infernalis,mäster_strussel
+gdc,r2mn.0,108871,108973,samuel,108905,108908,Sir,kaberdar
+gdc,r2mn.0,108871,108973,samuel,108930,108943,Ihrer Tochter,gurli
+gdc,r2mn.0,108871,108973,samuel,108930,108935,Ihrer,kaberdar
+gdc,r2mn.0,108978,109030,kaberdar,108998,109001,Sie,samuel
+gdc,r2mn.0,108978,109030,kaberdar,109012,109026,meiner Tochter,gurli
+gdc,r2mn.0,108978,109030,kaberdar,109012,109018,meiner,kaberdar
+gdc,r2mn.0,109035,109414,samuel,109064,109073,Miß Gurli,gurli
+gdc,r2mn.0,109035,109414,samuel,109086,109089,sie,gurli
+gdc,r2mn.0,109035,109414,samuel,109090,109133,"einem vorsichtigen, seine Worte abwiegenden","einem-vorsichtigen,-seine-Worte-abwiegenden"
+gdc,r2mn.0,109035,109414,samuel,109139,109175,seine Schritte abmessenden Gefährten,"einem-vorsichtigen,-seine-Worte-abwiegenden"
+gdc,r2mn.0,109035,109414,samuel,109231,109235,Ihre,gurli
+gdc,r2mn.0,109035,109414,samuel,109295,109299,mich,samuel
+gdc,r2mn.0,109035,109414,samuel,109349,109361,Gurlis Vater,kaberdar
+gdc,r2mn.0,109035,109414,samuel,109349,109355,Gurlis,gurli
+gdc,r2mn.0,109035,109414,samuel,109375,109381,unsere,samuel-und-gurli
+gdc,r2mn.0,109429,109528,_stage,109435,109438,ihn,samuel
+gdc,r2mn.0,109429,109528,_stage,109475,109479,sich,kaberdar
+gdc,r2mn.0,109429,109528,_stage,109496,109503,die Tür,die-Tür
+gdc,r2mn.0,109429,109528,_stage,109504,109518,seines Zimmers,seinem-Zimmer
+gdc,r2mn.0,109429,109528,_stage,109504,109510,seines,kaberdar
+gdc,r2mn.0,109419,109537,kaberdar,109531,109536,Gurli,gurli
+gdc,r2mn.0,109542,109567,gurli,109561,109566,Vater,kaberdar
+gdc,r2mn.0,109646,109666,_stage,109646,109651,Gurli,gurli
+gdc,r2mn.0,109669,109736,gurli,109688,109690,du,kaberdar
+gdc,r2mn.0,109669,109736,gurli,109691,109696,Vater,kaberdar
+gdc,r2mn.0,109669,109736,gurli,109698,109701,Sie,gurli
+gdc,r2mn.0,109669,109736,gurli,109711,109723,den Notarius,mäster_staff
+gdc,r2mn.0,109741,109768,kaberdar,109762,109767,Gurli,gurli
+gdc,r2mn.0,109780,109806,_stage,109791,109794,ihm,kaberdar
+gdc,r2mn.0,109773,109833,gurli,109822,109832,mein Vater,kaberdar
+gdc,r2mn.0,109773,109833,gurli,109822,109826,mein,gurli
+gdc,r2mn.0,109848,109867,_stage,109852,109858,Samuel,samuel
+gdc,r2mn.0,109838,109901,kaberdar,109877,109879,du,gurli
+gdc,r2mn.0,109838,109901,kaberdar,109880,109900,diesen Mann heiraten,diesen-Mann-heiraten
+gdc,r2mn.0,109838,109901,kaberdar,109880,109891,diesen Mann,samuel
+gdc,r2mn.0,109906,109944,gurli,109914,109917,Ich,gurli
+gdc,r2mn.0,109906,109944,gurli,109923,109925,es,diesen-Mann-heiraten
+gdc,r2mn.0,109906,109944,gurli,109926,109931,Liddy,liddy
+gdc,r2mn.0,109949,109974,kaberdar,109967,109969,du,gurli
+gdc,r2mn.0,109949,109974,kaberdar,109970,109973,ihn,samuel
+gdc,r2mn.0,109979,110003,gurli,109987,109990,Ich,gurli
+gdc,r2mn.0,109979,110003,gurli,109997,110002,Liddy,liddy
+gdc,r2mn.0,110008,110065,kaberdar,110024,110029,Liddy,liddy
+gdc,r2mn.0,110008,110065,kaberdar,110041,110045,dein,gurli
+gdc,r2mn.0,110008,110065,kaberdar,110062,110065,er.,samuel
+gdc,r2mn.0,110070,110104,gurli,110083,110085,er,samuel
+gdc,r2mn.0,110070,110104,gurli,110090,110096,Liddys,liddy
+gdc,r2mn.0,110109,110162,kaberdar,110139,110143,sein,samuel
+gdc,r2mn.0,110167,110311,gurli,110179,110181,er,samuel
+gdc,r2mn.0,110167,110311,gurli,110203,110205,du,kaberdar
+gdc,r2mn.0,110167,110311,gurli,110214,110219,Vater,kaberdar
+gdc,r2mn.0,110167,110311,gurli,110221,110226,Gurli,gurli
+gdc,r2mn.0,110167,110311,gurli,110232,110236,dich,kaberdar
+gdc,r2mn.0,110167,110311,gurli,110255,110260,Liddy,liddy
+gdc,r2mn.0,110167,110311,gurli,110293,110310,närrischer Samuel,samuel
+gdc,r2mn.0,110342,110397,kaberdar,110353,110355,Du,gurli
+gdc,r2mn.0,110342,110397,kaberdar,110383,110386,ihm,samuel
+gdc,r2mn.0,110402,110468,gurli,110414,110417,ihm,samuel
+gdc,r2mn.0,110402,110468,gurli,110441,110444,ihm,samuel
+gdc,r2mn.0,110402,110468,gurli,110450,110453,dir,kaberdar
+gdc,r2mn.0,110402,110468,gurli,110462,110467,Liddy,liddy
+gdc,r2mn.0,110473,110685,kaberdar,110499,110503,euch,samuel-und-gurli
+gdc,r2mn.0,110473,110685,kaberdar,110505,110508,ich,kaberdar
+gdc,r2mn.0,110473,110685,kaberdar,110542,110544,Er,kaberdar
+gdc,r2mn.0,110473,110685,kaberdar,110552,110565,seine Tochter,gurli
+gdc,r2mn.0,110473,110685,kaberdar,110552,110557,seine,kaberdar
+gdc,r2mn.0,110473,110685,kaberdar,110578,110584,Samuel,samuel
+gdc,r2mn.0,110473,110685,kaberdar,110586,110589,der,samuel
+gdc,r2mn.0,110473,110685,kaberdar,110590,110594,sich,samuel
+gdc,r2mn.0,110473,110685,kaberdar,110635,110638,Sir,samuel
+gdc,r2mn.0,110473,110685,kaberdar,110639,110642,Sie,samuel
+gdc,r2mn.0,110473,110685,kaberdar,110659,110663,mein,kaberdar
+gdc,r2mn.0,110473,110685,kaberdar,110673,110677,mein,kaberdar
+gdc,r2mn.0,110811,110894,samuel,110842,110847,Ihnen,kaberdar
+gdc,r2mn.0,110811,110894,samuel,110862,110874,den Kontrakt,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,110899,111003,kaberdar,110910,110913,Mir,kaberdar
+gdc,r2mn.0,110899,111003,kaberdar,110931,110935,mich,kaberdar
+gdc,r2mn.0,110899,111003,kaberdar,110941,110943,er,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,110899,111003,kaberdar,110951,110963,einem Punkte,einem-Punkte
+gdc,r2mn.0,110899,111003,kaberdar,110978,111002,dem Punkte der Aussteuer,einem-Punkte
+gdc,r2mn.0,110899,111003,kaberdar,110989,111002,der Aussteuer,der-Aussteuer
+gdc,r2mn.0,111008,111082,mäster_staff,111032,111035,wir,mäster_staff
+gdc,r2mn.0,111008,111082,mäster_staff,111036,111041,Platz,Platz
+gdc,r2mn.0,111008,111082,mäster_staff,111058,111060,er,mäster_staff
+gdc,r2mn.0,111008,111082,mäster_staff,111061,111064,ihm,kaberdar
+gdc,r2mn.0,111008,111082,mäster_staff,111065,111075,das Papier,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,111088,111280,kaberdar,111121,111124,man,man
+gdc,r2mn.0,111088,111280,kaberdar,111135,111159,eines großen Königreichs,eines-großen-Königreichs
+gdc,r2mn.0,111088,111280,kaberdar,111164,111179,allen Provinzen,allen-Provinzen
+gdc,r2mn.0,111088,111280,kaberdar,111181,111184,die,allen-Provinzen
+gdc,r2mn.0,111088,111280,kaberdar,111185,111187,es,eines-großen-Königreichs
+gdc,r2mn.0,111088,111280,kaberdar,111245,111248,Sie,samuel
+gdc,r2mn.0,111088,111280,kaberdar,111249,111253,mich,kaberdar
+gdc,r2mn.0,111088,111280,kaberdar,111276,111279,Sir,samuel
+gdc,r2mn.0,111333,111666,kaberdar,111363,111366,ich,kaberdar
+gdc,r2mn.0,111333,111666,kaberdar,111422,111425,ich,kaberdar
+gdc,r2mn.0,111333,111666,kaberdar,111500,111503,Sie,samuel
+gdc,r2mn.0,111333,111666,kaberdar,111511,111514,Sir,samuel
+gdc,r2mn.0,111333,111666,kaberdar,111516,111519,ich,kaberdar
+gdc,r2mn.0,111333,111666,kaberdar,111634,111658,meine väterliche Großmut,der-Aussteuer
+gdc,r2mn.0,111333,111666,kaberdar,111634,111639,meine,kaberdar
+gdc,r2mn.0,111755,111921,kaberdar,111781,111784,Sie,samuel
+gdc,r2mn.0,111755,111921,kaberdar,111812,111826,meiner Tochter,gurli
+gdc,r2mn.0,111755,111921,kaberdar,111812,111818,meiner,kaberdar
+gdc,r2mn.0,111926,112012,samuel,111965,111968,man,man
+gdc,r2mn.0,112017,112109,kaberdar,112066,112098,eine Summe von zehntausend Pfund,Die-zehntausend-Pfund
+gdc,r2mn.0,112114,112175,samuel,112140,112143,die,Die-zehntausend-Pfund
+gdc,r2mn.0,112114,112175,samuel,112151,112154,wir,samuel-und-gurli
+gdc,r2mn.0,112229,112302,mäster_staff,112270,112289,diesen leeren Platz,Platz
+gdc,r2mn.0,112307,112439,samuel,112336,112339,ich,samuel
+gdc,r2mn.0,112307,112439,samuel,112340,112343,mir,samuel
+gdc,r2mn.0,112307,112439,samuel,112408,112418,unsere Ehe,unsere-Ehe
+gdc,r2mn.0,112307,112439,samuel,112408,112414,unsere,samuel-und-gurli
+gdc,r2mn.0,112307,112439,samuel,112423,112430,Kindern,Kindern
+gdc,r2mn.0,112444,112504,gurli,112474,112503,bekommen wir denn auch Kinder,bekommen-wir-denn-auch-Kinder
+gdc,r2mn.0,112444,112504,gurli,112483,112486,wir,samuel-und-gurli
+gdc,r2mn.0,112444,112504,gurli,112497,112503,Kinder,Kindern
+gdc,r2mn.0,112509,112531,samuel,112518,112521,Ich,samuel
+gdc,r2mn.0,112509,112531,samuel,112528,112531,es.,bekommen-wir-denn-auch-Kinder
+gdc,r2mn.0,112536,112611,gurli,112552,112557,Gurli,gurli
+gdc,r2mn.0,112536,112611,gurli,112578,112583,Gurli,gurli
+gdc,r2mn.0,112536,112611,gurli,112597,112603,Kinder,Kindern
+gdc,r2mn.0,112616,112828,mäster_staff,112688,112693,Ihnen,samuel-und-gurli
+gdc,r2mn.0,112616,112828,mäster_staff,112726,112742,der Kontrahenten,samuel-und-gurli
+gdc,r2mn.0,112616,112828,mäster_staff,112743,112758,diesem Kontrakt,unsere-Ehe
+gdc,r2mn.0,112833,113174,samuel,112868,112889,mein lieber Visitator,visitator
+gdc,r2mn.0,112833,113174,samuel,112868,112872,mein,samuel
+gdc,r2mn.0,112833,113174,samuel,112900,112902,Er,visitator
+gdc,r2mn.0,112833,113174,samuel,112903,112908,meine,samuel
+gdc,r2mn.0,112833,113174,samuel,112955,112975,dieser Feierlichkeit,unsere-Ehe
+gdc,r2mn.0,112833,113174,samuel,112994,113003,Visitator,visitator
+gdc,r2mn.0,112833,113174,samuel,113031,113034,Sie,visitator
+gdc,r2mn.0,112833,113174,samuel,113053,113064,die Früchte,die-Früchte
+gdc,r2mn.0,112833,113174,samuel,113065,113071,welche,die-Früchte
+gdc,r2mn.0,112833,113174,samuel,113076,113096,dieser Eheverbindung,unsere-Ehe
+gdc,r2mn.0,112833,113174,samuel,113144,113147,sie,die-Früchte
+gdc,r2mn.0,113179,113291,kaberdar,113216,113219,Sie,samuel
+gdc,r2mn.0,113179,113291,kaberdar,113220,113223,sie,die-Früchte
+gdc,r2mn.0,113179,113291,kaberdar,113262,113265,Sie,samuel
+gdc,r2mn.0,113179,113291,kaberdar,113270,113275,ihnen,die-Früchte
+gdc,r2mn.0,113179,113291,kaberdar,113280,113283,Sie,samuel
+gdc,r2mn.0,113343,113403,_stage,113343,113351,Sir John,sir_john
+gdc,r2mn.0,113343,113403,_stage,113354,113368,Mistriss Smith,mistriss_smith
+gdc,r2mn.0,113343,113403,_stage,113371,113376,Liddy,liddy
+gdc,r2mn.0,113343,113403,_stage,113379,113388,Visitator,visitator
+gdc,r2mn.0,113462,113559,_stage,113470,113473,sie,mistriss_smith
+gdc,r2mn.0,113462,113559,_stage,113538,113548,ihren Sohn,samuel
+gdc,r2mn.0,113462,113559,_stage,113538,113543,ihren,mistriss_smith
+gdc,r2mn.0,113446,113685,mistriss_smith,113562,113570,Mon fils,samuel
+gdc,r2mn.0,113446,113685,mistriss_smith,113572,113574,du,samuel
+gdc,r2mn.0,113446,113685,mistriss_smith,113585,113597,deine Mutter,mistriss_smith
+gdc,r2mn.0,113446,113685,mistriss_smith,113585,113590,deine,samuel
+gdc,r2mn.0,113446,113685,mistriss_smith,113619,113621,du,samuel
+gdc,r2mn.0,113698,113725,_stage,113704,113706,er,samuel
+gdc,r2mn.0,113698,113725,_stage,113707,113710,sie,mistriss_smith
+gdc,r2mn.0,113698,113725,_stage,113714,113718,sich,mäster_staff
+gdc,r2mn.0,113795,113804,_stage,113798,113803,Liddy,liddy
+gdc,r2mn.0,113788,113854,gurli,113811,113824,Schwesterchen,liddy
+gdc,r2mn.0,113788,113854,gurli,113831,113833,du,liddy
+gdc,r2mn.0,113788,113854,gurli,113838,113843,Gurli,gurli
+gdc,r2mn.0,113859,113895,liddy,113867,113872,Gurli,gurli
+gdc,r2mn.0,113910,113922,_stage,113913,113921,Kaberdar,kaberdar
+gdc,r2mn.0,113900,114301,sir_john,113925,113928,Sir,kaberdar
+gdc,r2mn.0,113900,114301,sir_john,113930,113933,Sie,kaberdar
+gdc,r2mn.0,113900,114301,sir_john,113940,113956,einen alten Mann,sir_john
+gdc,r2mn.0,113900,114301,sir_john,113976,113982,seines,sir_john
+gdc,r2mn.0,113900,114301,sir_john,114015,114018,man,man
+gdc,r2mn.0,113900,114301,sir_john,114019,114022,mir,sir_john
+gdc,r2mn.0,113900,114301,sir_john,114097,114130,dort wirst du einen Schatz finden,dort-wirst-du-einen-Schatz-finden
+gdc,r2mn.0,113900,114301,sir_john,114108,114110,du,sir_john
+gdc,r2mn.0,113900,114301,sir_john,114142,114145,ich,sir_john
+gdc,r2mn.0,113900,114301,sir_john,114152,114154,es,dort-wirst-du-einen-Schatz-finden
+gdc,r2mn.0,113900,114301,sir_john,114174,114192,einen reichen Mann,kaberdar
+gdc,r2mn.0,113900,114301,sir_john,114206,114209,der,kaberdar
+gdc,r2mn.0,113900,114301,sir_john,114210,114214,sich,kaberdar
+gdc,r2mn.0,113900,114301,sir_john,114229,114285,"einer heruntergekommenen Familie, ohne Rang und Vermögen",Familie
+gdc,r2mn.0,114306,114453,kaberdar,114323,114326,Sir,sir_john
+gdc,r2mn.0,114306,114453,kaberdar,114347,114350,Ihr,sir_john
+gdc,r2mn.0,114306,114453,kaberdar,114372,114375,Sie,sir_john
+gdc,r2mn.0,114306,114453,kaberdar,114382,114385,Ihr,sir_john
+gdc,r2mn.0,114458,114639,sir_john,114469,114473,Ihre,kaberdar
+gdc,r2mn.0,114458,114639,sir_john,114479,114482,Sir,kaberdar
+gdc,r2mn.0,114458,114639,sir_john,114484,114487,Ich,sir_john
+gdc,r2mn.0,114458,114639,sir_john,114554,114557,Sie,kaberdar
+gdc,r2mn.0,114458,114639,sir_john,114563,114567,mein,sir_john
+gdc,r2mn.0,114458,114639,sir_john,114574,114577,Sie,kaberdar
+gdc,r2mn.0,114458,114639,sir_john,114625,114638,eines Greises,sir_john
+gdc,r2mn.0,114644,114866,kaberdar,114655,114658,Ich,kaberdar
+gdc,r2mn.0,114644,114866,kaberdar,114679,114684,meine,kaberdar
+gdc,r2mn.0,114644,114866,kaberdar,114716,114718,er,kaberdar
+gdc,r2mn.0,114644,114866,kaberdar,114733,114738,Liddy,liddy
+gdc,r2mn.0,114644,114866,kaberdar,114845,114847,Er,kaberdar
+gdc,r2mn.0,114644,114866,kaberdar,114860,114865,Liddy,liddy
+gdc,r2mn.0,114883,114899,_stage,114886,114898,Mäster Staff,mäster_staff
+gdc,r2mn.0,114991,115184,mäster_staff,115038,115054,die Formalitäten,die-Formalitäten
+gdc,r2mn.0,114991,115184,mäster_staff,115074,115101,"Liebe, Dank, Glückseligkeit",die-Formalitäten
+gdc,r2mn.0,114991,115184,mäster_staff,115154,115158,sich,die-Formalitäten
+gdc,r2mn.0,115189,115328,samuel,115203,115215,liebe Mutter,mistriss_smith
+gdc,r2mn.0,115189,115328,samuel,115222,115225,Sie,mistriss_smith
+gdc,r2mn.0,115189,115328,samuel,115235,115240,Ihrem,mistriss_smith
+gdc,r2mn.0,115189,115328,samuel,115286,115289,wir,Familie
+gdc,r2mn.0,115189,115328,samuel,115290,115293,uns,Familie
+gdc,r2mn.0,115334,115471,mistriss_smith,115354,115363,mein Sohn,samuel
+gdc,r2mn.0,115334,115471,mistriss_smith,115354,115358,mein,mistriss_smith
+gdc,r2mn.0,115334,115471,mistriss_smith,115365,115368,ich,mistriss_smith
+gdc,r2mn.0,115334,115471,mistriss_smith,115382,115386,dich,samuel
+gdc,r2mn.0,115334,115471,mistriss_smith,115393,115396,ich,mistriss_smith
+gdc,r2mn.0,115334,115471,mistriss_smith,115421,115441,die edle Muttermilch,die-edle-Muttermilch
+gdc,r2mn.0,115334,115471,mistriss_smith,115443,115446,die,die-edle-Muttermilch
+gdc,r2mn.0,115334,115471,mistriss_smith,115447,115450,ich,mistriss_smith
+gdc,r2mn.0,115334,115471,mistriss_smith,115451,115454,dir,samuel
+gdc,r2mn.0,115483,115551,_stage,115483,115489,welche,gurli
+gdc,r2mn.0,115483,115551,_stage,115490,115494,sich,gurli
+gdc,r2mn.0,115483,115551,_stage,115502,115505,sie,samuel-und-mistriss_smith
+gdc,r2mn.0,115476,115598,gurli,115567,115570,ihr,samuel-und-mistriss_smith
+gdc,r2mn.0,115603,115728,mistriss_smith,115652,115655,ich,mistriss_smith
+gdc,r2mn.0,115603,115728,mistriss_smith,115656,115658,es,es2
+gdc,r2mn.0,115603,115728,mistriss_smith,115673,115727,dieses Geschöpf in einen brillanten Zirkel einzuführen,es2
+gdc,r2mn.0,115603,115728,mistriss_smith,115673,115688,dieses Geschöpf,gurli
+gdc,r2mn.0,115733,115862,kaberdar,115768,115771,Ich,kaberdar
+gdc,r2mn.0,115733,115862,kaberdar,115778,115783,Madam,mistriss_smith
+gdc,r2mn.0,115733,115862,kaberdar,115785,115788,sie,mistriss_smith
+gdc,r2mn.0,115733,115862,kaberdar,115841,115846,ihrer,mistriss_smith
+gdc,r2mn.0,115951,116027,sir_john,115989,116003,unsere Königin,mistriss_smith
+gdc,r2mn.0,115951,116027,sir_john,115989,115995,unsere,Familie
+gdc,r2mn.0,116138,116194,mäster_staff,116153,116165,Der Kontrakt,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,116199,116339,samuel,116230,116235,Feder,Feder
+gdc,r2mn.0,116199,116339,samuel,116240,116245,Dinte,Dinte
+gdc,r2mn.0,116199,116339,samuel,116252,116254,er,samuel
+gdc,r2mn.0,116199,116339,samuel,116307,116316,Miß Gurli,gurli
+gdc,r2mn.0,116199,116339,samuel,116317,116328,ihren Namen,ihren-Namen
+gdc,r2mn.0,116199,116339,samuel,116317,116322,ihren,gurli
+gdc,r2mn.0,116344,116448,gurli,116360,116381,"du, närrischer Mensch",samuel
+gdc,r2mn.0,116344,116448,gurli,116383,116388,Gurli,gurli
+gdc,r2mn.0,116344,116448,gurli,116428,116431,Sie,gurli
+gdc,r2mn.0,116344,116448,gurli,116438,116447,die Feder,Feder
+gdc,r2mn.0,116454,116644,kaberdar,116488,116501,meine Tochter,gurli
+gdc,r2mn.0,116454,116644,kaberdar,116488,116493,meine,kaberdar
+gdc,r2mn.0,116454,116644,kaberdar,116511,116515,dich,gurli
+gdc,r2mn.0,116454,116644,kaberdar,116532,116538,deines,gurli
+gdc,r2mn.0,116454,116644,kaberdar,116612,116616,dein,gurli
+gdc,r2mn.0,116649,116851,gurli,116664,116669,Vater,kaberdar
+gdc,r2mn.0,116649,116851,gurli,116671,116676,Gurli,gurli
+gdc,r2mn.0,116649,116851,gurli,116717,116722,Liddy,liddy
+gdc,r2mn.0,116649,116851,gurli,116729,116733,mich,gurli
+gdc,r2mn.0,116649,116851,gurli,116754,116767,der alte Mann,sir_john
+gdc,r2mn.0,116649,116851,gurli,116800,116813,der alte Mann,sir_john
+gdc,r2mn.0,116649,116851,gurli,116822,116825,mir,gurli
+gdc,r2mn.0,116649,116851,gurli,116827,116829,er,sir_john
+gdc,r2mn.0,116856,117002,kaberdar,116870,116876,Gottes,Gott
+gdc,r2mn.0,116856,117002,kaberdar,116891,116895,dein,gurli
+gdc,r2mn.0,116856,117002,kaberdar,116910,116923,deines Vaters,kaberdar
+gdc,r2mn.0,116856,117002,kaberdar,116910,116916,deines,gurli
+gdc,r2mn.0,116856,117002,kaberdar,116940,116944,Gott,Gott
+gdc,r2mn.0,116856,117002,kaberdar,116976,116979,dir,gurli
+gdc,r2mn.0,116856,117002,kaberdar,116981,116986,Gurli,gurli
+gdc,r2mn.0,117008,117173,samuel,117023,117035,schöne Gurli,gurli
+gdc,r2mn.0,117008,117173,samuel,117065,117068,mir,samuel
+gdc,r2mn.0,117178,117244,mäster_staff,117209,117221,Mäster Staff,mäster_staff
+gdc,r2mn.0,117249,117312,sir_john,117260,117269,Mein Sohn,samuel
+gdc,r2mn.0,117249,117312,sir_john,117260,117264,Mein,sir_john
+gdc,r2mn.0,117249,117312,sir_john,117271,117275,dein,samuel
+gdc,r2mn.0,117318,117438,mistriss_smith,117354,117378,die Geister deiner Ahnen,die-Geister-deiner-Ahnen
+gdc,r2mn.0,117318,117438,mistriss_smith,117366,117372,deiner,samuel
+gdc,r2mn.0,117318,117438,mistriss_smith,117380,117386,welche,die-Geister-deiner-Ahnen
+gdc,r2mn.0,117318,117438,mistriss_smith,117387,117390,dir,samuel
+gdc,r2mn.0,117443,117607,samuel,117463,117476,ma chère Mère,mistriss_smith
+gdc,r2mn.0,117443,117607,samuel,117481,117489,Kaberdar,kaberdar
+gdc,r2mn.0,117443,117607,samuel,117491,117512,Die zehntausend Pfund,Die-zehntausend-Pfund
+gdc,r2mn.0,117443,117607,samuel,117513,117516,Sir,kaberdar
+gdc,r2mn.0,117443,117607,samuel,117518,117523,deren,Die-zehntausend-Pfund
+gdc,r2mn.0,117443,117607,samuel,117524,117527,Sie,kaberdar
+gdc,r2mn.0,117612,117655,kaberdar,117651,117654,Sir,samuel
+gdc,r2mn.0,117668,117677,_stage,117671,117676,Gurli,gurli
+gdc,r2mn.0,117660,117992,samuel,117697,117713,Sie schöne Gurli,gurli
+gdc,r2mn.0,117660,117992,samuel,117715,117720,Gurli,gurli
+gdc,r2mn.0,117660,117992,samuel,117776,117779,ich,samuel
+gdc,r2mn.0,117660,117992,samuel,117788,117792,mich,samuel
+gdc,r2mn.0,117660,117992,samuel,117829,117832,Man,man
+gdc,r2mn.0,117660,117992,samuel,117899,117902,Sir,kaberdar
+gdc,r2mn.0,117660,117992,samuel,117911,117932,die zehntausend Pfund,Die-zehntausend-Pfund
+gdc,r2mn.0,117660,117992,samuel,117952,117971,in klingender Münze,in-klingender-Münze
+gdc,r2mn.0,117997,118061,kaberdar,118023,118026,Sie,samuel
+gdc,r2mn.0,117997,118061,kaberdar,118034,118037,Sir,samuel
+gdc,r2mn.0,117997,118061,kaberdar,118043,118046,Sie,samuel
+gdc,r2mn.0,118066,118132,samuel,118075,118094,In klingender Münze,in-klingender-Münze
+gdc,r2mn.0,118066,118132,samuel,118109,118114,Ihnen,kaberdar
+gdc,r2mn.0,118165,118195,samuel,118191,118194,Sie,gurli
+gdc,r2mn.0,118207,118232,_stage,118213,118216,sie,gurli
+gdc,r2mn.0,118200,118279,gurli,118235,118252,Närrischer Mensch,samuel
+gdc,r2mn.0,118200,118279,gurli,118254,118256,du,samuel
+gdc,r2mn.0,118200,118279,gurli,118264,118267,mir,gurli
+gdc,r2mn.0,118332,118371,liddy,118340,118346,Bruder,samuel
+gdc,r2mn.0,118332,118371,liddy,118348,118350,du,samuel
+gdc,r2mn.0,118386,118395,_stage,118389,118394,Liddy,liddy
+gdc,r2mn.0,118376,118424,kaberdar,118398,118401,Sie,liddy
+gdc,r2mn.0,118376,118424,kaberdar,118407,118411,sein,samuel
+gdc,r2mn.0,118429,118618,samuel,118510,118540,der Vater meiner schönen Gurli,kaberdar
+gdc,r2mn.0,118429,118618,samuel,118520,118540,meiner schönen Gurli,gurli
+gdc,r2mn.0,118429,118618,samuel,118520,118526,meiner,samuel
+gdc,r2mn.0,118623,118677,kaberdar,118641,118646,Gurli,gurli
+gdc,r2mn.0,118623,118677,kaberdar,118653,118659,meines,kaberdar
+gdc,r2mn.0,118682,118839,samuel,118757,118773,Sir Samuel Smith,samuel
+gdc,r2mn.0,118682,118839,samuel,118829,118832,Sie,gurli
+gdc,r2mn.0,118682,118839,samuel,118833,118838,Gurli,gurli
+gdc,r2mn.0,118844,118975,gurli,118856,118859,ich,gurli
+gdc,r2mn.0,118844,118975,gurli,118881,118883,du,samuel
+gdc,r2mn.0,118844,118975,gurli,118918,118975,so werfe ich dir die Feder und das Dintenfaß an den Kopf.,das
+gdc,r2mn.0,118844,118975,gurli,118927,118930,ich,gurli
+gdc,r2mn.0,118844,118975,gurli,118931,118934,dir,samuel
+gdc,r2mn.0,118844,118975,gurli,118935,118944,die Feder,Feder
+gdc,r2mn.0,118844,118975,gurli,118949,118962,das Dintenfaß,Dinte
+gdc,r2mn.0,118980,119016,sir_john,118995,118998,das,das
+gdc,r2mn.0,119021,119127,samuel,119040,119043,Sie,gurli
+gdc,r2mn.0,119021,119127,samuel,119055,119058,Sie,gurli
+gdc,r2mn.0,119062,119127,_stage,119068,119073,Gurli,gurli
+gdc,r2mn.0,119062,119127,_stage,119074,119083,die Feder,Feder
+gdc,r2mn.0,119062,119127,_stage,119094,119105,ihren Namen,ihren-Namen
+gdc,r2mn.0,119062,119127,_stage,119094,119099,ihren,gurli
+gdc,r2mn.0,119180,119217,_stage,119180,119186,Robert,robert
+gdc,r2mn.0,119180,119217,_stage,119191,119195,Jack,jack
+gdc,r2mn.0,119227,119276,_stage,119269,119275,Robert,robert
+gdc,r2mn.0,119327,119380,jack,119376,119379,Sir,robert
+gdc,r2mn.0,119385,119425,robert,119400,119403,ich,robert
+gdc,r2mn.0,119430,119532,samuel,119439,119441,Du,robert
+gdc,r2mn.0,119430,119532,samuel,119460,119466,Bruder,robert
+gdc,r2mn.0,119430,119532,samuel,119471,119477,deinen,robert
+gdc,r2mn.0,119430,119532,samuel,119500,119518,meinen Ehekontrakt,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,119430,119532,samuel,119500,119506,meinen,samuel
+gdc,r2mn.0,119537,119587,robert,119577,119586,die Fahrt,unsere-Ehe
+gdc,r2mn.0,119592,119682,sir_john,119603,119609,Robert,robert
+gdc,r2mn.0,119592,119682,sir_john,119622,119636,ein Biedermann,kaberdar
+gdc,r2mn.0,119592,119682,sir_john,119638,119641,der,kaberdar
+gdc,r2mn.0,119592,119682,sir_john,119653,119668,unserer Familie,Familie
+gdc,r2mn.0,119687,119880,robert,119704,119707,mir,robert
+gdc,r2mn.0,119687,119880,robert,119714,119717,Sir,kaberdar
+gdc,r2mn.0,119687,119880,robert,119719,119722,Ich,robert
+gdc,r2mn.0,119687,119880,robert,119754,119763,Ihre Hand,Ihre-Hand
+gdc,r2mn.0,119687,119880,robert,119754,119758,Ihre,kaberdar
+gdc,r2mn.0,119687,119880,robert,119764,119767,Sir,kaberdar
+gdc,r2mn.0,119687,119880,robert,119769,119771,Er,robert
+gdc,r2mn.0,119687,119880,robert,119782,119785,sie,Ihre-Hand
+gdc,r2mn.0,119687,119880,robert,119787,119790,Ich,robert
+gdc,r2mn.0,119687,119880,robert,119795,119798,Ihr,kaberdar
+gdc,r2mn.0,119687,119880,robert,119816,119818,es,es3
+gdc,r2mn.0,119687,119880,robert,119829,119856,daß Sie ein Biedermann sind,es3
+gdc,r2mn.0,119687,119880,robert,119833,119836,Sie,kaberdar
+gdc,r2mn.0,119687,119880,robert,119865,119868,ich,robert
+gdc,r2mn.0,119687,119880,robert,119869,119872,Ihr,kaberdar
+gdc,r2mn.0,120066,120085,_stage,120079,120084,Liddy,liddy
+gdc,r2mn.0,120059,120107,gurli,120096,120106,der Mensch,robert
+gdc,r2mn.0,120112,120142,liddy,120128,120141,Bruder Robert,robert
+gdc,r2mn.0,120147,120200,gurli,120155,120168,Bruder Robert,robert
+gdc,r2mn.0,120147,120200,gurli,120174,120187,Bruder Robert,robert
+gdc,r2mn.0,120147,120200,gurli,120196,120199,mir,gurli
+gdc,r2mn.0,120205,120316,robert,120222,120231,die Braut,gurli
+gdc,r2mn.0,120205,120316,robert,120233,120236,Ich,robert
+gdc,r2mn.0,120205,120316,robert,120243,120247,mich,robert
+gdc,r2mn.0,120205,120316,robert,120248,120253,Ihrer,gurli
+gdc,r2mn.0,120205,120316,robert,120269,120271,Er,robert
+gdc,r2mn.0,120205,120316,robert,120281,120284,sie,gurli
+gdc,r2mn.0,120205,120316,robert,120298,120301,Sie,gurli
+gdc,r2mn.0,120205,120316,robert,120302,120305,mir,robert
+gdc,r2mn.0,120321,120363,gurli,120350,120353,Sie,gurli
+gdc,r2mn.0,120321,120363,gurli,120359,120362,ihn,robert
+gdc,r2mn.0,120369,120409,samuel,120382,120385,Miß,gurli
+gdc,r2mn.0,120369,120409,samuel,120386,120389,ich,samuel
+gdc,r2mn.0,120369,120409,samuel,120396,120408,zu schreiben,s
+gdc,r2mn.0,120414,120471,mäster_staff,120429,120445,Die Formalitäten,Die-Formalitäten
+gdc,r2mn.0,120414,120471,mäster_staff,120453,120457,sich,Die-Formalitäten
+gdc,r2mn.0,120484,120502,_stage,120487,120492,Gurli,gurli
+gdc,r2mn.0,120476,120526,samuel,120509,120510,s,s
+gdc,r2mn.0,120476,120526,samuel,120511,120516,Ihnen,gurli
+gdc,r2mn.0,120578,120598,_stage,120586,120590,sich,mistriss_smith
+gdc,r2mn.0,120562,120670,mistriss_smith,120610,120637,die langweiligste Verlobung,die-langweiligste-Verlobung
+gdc,r2mn.0,120562,120670,mistriss_smith,120639,120642,der,die-langweiligste-Verlobung
+gdc,r2mn.0,120562,120670,mistriss_smith,120643,120646,ich,mistriss_smith
+gdc,r2mn.0,120682,120691,_stage,120685,120690,Liddy,liddy
+gdc,r2mn.0,120675,120762,gurli,120704,120709,Liddy,liddy
+gdc,r2mn.0,120675,120762,gurli,120711,120724,Bruder Robert,robert
+gdc,r2mn.0,120675,120762,gurli,120733,120736,mir,gurli
+gdc,r2mn.0,120675,120762,gurli,120748,120761,Bruder Samuel,samuel
+gdc,r2mn.0,120767,120794,liddy,120775,120793,Närrisches Mädchen,gurli
+gdc,r2mn.0,120799,120834,kaberdar,120810,120815,Gurli,gurli
+gdc,r2mn.0,120799,120834,kaberdar,120816,120818,du,gurli
+gdc,r2mn.0,120839,120906,gurli,120862,120874,lieber Vater,kaberdar
+gdc,r2mn.0,120839,120906,gurli,120876,120881,Gurli,gurli
+gdc,r2mn.0,120839,120906,gurli,120886,120905,ihren freien Willen,ihren-freien-Willen
+gdc,r2mn.0,120839,120906,gurli,120886,120891,ihren,gurli
+gdc,r2mn.0,120911,120934,kaberdar,120922,120925,Den,ihren-freien-Willen
+gdc,r2mn.0,120911,120934,kaberdar,120930,120933,sie,gurli
+gdc,r2mn.0,120939,121048,gurli,120951,120956,Liddy,liddy
+gdc,r2mn.0,120939,121048,gurli,120963,120966,dir,liddy
+gdc,r2mn.0,120939,121048,gurli,120985,120990,Gurli,gurli
+gdc,r2mn.0,120939,121048,gurli,120991,121011,deinen Bruder Samuel,samuel
+gdc,r2mn.0,120939,121048,gurli,120991,120997,deinen,liddy
+gdc,r2mn.0,120939,121048,gurli,121018,121038,deinen Bruder Robert,robert
+gdc,r2mn.0,120939,121048,gurli,121018,121024,deinen,liddy
+gdc,r2mn.0,121053,121113,liddy,121071,121074,Mir,liddy
+gdc,r2mn.0,121053,121113,liddy,121081,121092,liebe Gurli,gurli
+gdc,r2mn.0,121053,121113,liddy,121105,121112,Samueln,samuel
+gdc,r2mn.0,121119,121267,gurli,121137,121157,der närrische Mensch,samuel
+gdc,r2mn.0,121119,121267,gurli,121168,121171,ihn,samuel
+gdc,r2mn.0,121119,121267,gurli,121180,121183,Sie,gurli
+gdc,r2mn.0,121119,121267,gurli,121192,121198,Robert,robert
+gdc,r2mn.0,121119,121267,gurli,121200,121220,Lieber Bruder Robert,robert
+gdc,r2mn.0,121119,121267,gurli,121228,121230,du,robert
+gdc,r2mn.0,121119,121267,gurli,121249,121254,Gurli,gurli
+gdc,r2mn.0,121429,121457,samuel,121438,121441,Ich,samuel
+gdc,r2mn.0,121472,121493,_stage,121484,121492,Kaberdar,kaberdar
+gdc,r2mn.0,121462,121558,sir_john,121502,121508,meiner,sir_john
+gdc,r2mn.0,121462,121558,sir_john,121535,121538,mir,sir_john
+gdc,r2mn.0,121563,121607,kaberdar,121586,121589,Mir,kaberdar
+gdc,r2mn.0,121612,121649,gurli,121625,121627,du,robert
+gdc,r2mn.0,121612,121649,gurli,121639,121642,mir,gurli
+gdc,r2mn.0,121654,121697,robert,121683,121686,ich,robert
+gdc,r2mn.0,121702,121731,gurli,121717,121720,ich,gurli
+gdc,r2mn.0,121702,121731,gurli,121721,121724,dir,robert
+gdc,r2mn.0,121755,121946,gurli,121767,121769,du,robert
+gdc,r2mn.0,121755,121946,gurli,121779,121782,mir,gurli
+gdc,r2mn.0,121755,121946,gurli,121789,121791,Du,robert
+gdc,r2mn.0,121755,121946,gurli,121822,121825,ich,gurli
+gdc,r2mn.0,121755,121946,gurli,121830,121833,dir,robert
+gdc,r2mn.0,121755,121946,gurli,121842,121851,die Augen,die-Augen
+gdc,r2mn.0,121755,121946,gurli,121853,121864,Deine Augen,die-Augen
+gdc,r2mn.0,121755,121946,gurli,121853,121858,Deine,robert
+gdc,r2mn.0,121755,121946,gurli,121882,121885,man,man
+gdc,r2mn.0,121755,121946,gurli,121915,121918,man,man
+gdc,r2mn.0,121951,122039,robert,121960,121963,Miß,gurli
+gdc,r2mn.0,121951,122039,robert,121964,121967,ich,robert
+gdc,r2mn.0,121951,122039,robert,121974,121977,Sie,gurli
+gdc,r2mn.0,121951,122039,robert,121989,121992,Ich,robert
+gdc,r2mn.0,121951,122039,robert,121998,122001,Sie,gurli
+gdc,r2mn.0,121951,122039,robert,122026,122032,meinem,robert
+gdc,r2mn.0,122044,122119,gurli,122065,122068,ich,gurli
+gdc,r2mn.0,122044,122119,gurli,122069,122073,dich,robert
+gdc,r2mn.0,122044,122119,gurli,122085,122090,Gurli,gurli
+gdc,r2mn.0,122044,122119,gurli,122096,122100,dich,robert
+gdc,r2mn.0,122124,122157,liddy,122132,122138,Bruder,robert
+gdc,r2mn.0,122124,122157,liddy,122144,122149,meine,liddy
+gdc,r2mn.0,122162,122420,robert,122183,122194,Das Mädchen,gurli
+gdc,r2mn.0,122162,122420,robert,122217,122220,ich,robert
+gdc,r2mn.0,122162,122420,robert,122226,122229,sie,gurli
+gdc,r2mn.0,122162,122420,robert,122251,122254,Miß,gurli
+gdc,r2mn.0,122162,122420,robert,122256,122259,ich,robert
+gdc,r2mn.0,122162,122420,robert,122282,122285,ich,robert
+gdc,r2mn.0,122162,122420,robert,122350,122353,ich,robert
+gdc,r2mn.0,122162,122420,robert,122364,122377,die weite See,die-weite-See
+gdc,r2mn.0,122425,122496,gurli,122433,122435,Du,robert
+gdc,r2mn.0,122425,122496,gurli,122452,122459,die See,die-weite-See
+gdc,r2mn.0,122425,122496,gurli,122468,122470,du,robert
+gdc,r2mn.0,122425,122496,gurli,122482,122487,Gurli,gurli
+gdc,r2mn.0,122501,122532,robert,122518,122523,Gurli,gurli
+gdc,r2mn.0,122537,122773,kaberdar,122548,122551,Sir,robert
+gdc,r2mn.0,122537,122773,kaberdar,122553,122569,diese Geschichte,diese-Geschichte
+gdc,r2mn.0,122537,122773,kaberdar,122584,122589,ihrer,diese-Geschichte
+gdc,r2mn.0,122537,122773,kaberdar,122603,122606,Sie,robert
+gdc,r2mn.0,122537,122773,kaberdar,122630,122633,Sie,gurli
+gdc,r2mn.0,122537,122773,kaberdar,122638,122643,meine,kaberdar
+gdc,r2mn.0,122537,122773,kaberdar,122653,122670,ein gutes Mädchen,gurli
+gdc,r2mn.0,122537,122773,kaberdar,122672,122690,ein Kind der Natur,gurli
+gdc,r2mn.0,122537,122773,kaberdar,122692,122734,ihr Brautschatz zehntausend Pfund Sterling,Die-zehntausend-Pfund
+gdc,r2mn.0,122537,122773,kaberdar,122692,122695,ihr,gurli
+gdc,r2mn.0,122537,122773,kaberdar,122747,122750,ich,kaberdar
+gdc,r2mn.0,122778,122949,robert,122787,122790,Sir,kaberdar
+gdc,r2mn.0,122778,122949,robert,122792,122795,ich,robert
+gdc,r2mn.0,122778,122949,robert,122802,122805,mir,robert
+gdc,r2mn.0,122778,122949,robert,122883,122886,ich,robert
+gdc,r2mn.0,122778,122949,robert,122894,122898,mich,robert
+gdc,r2mn.0,122778,122949,robert,122919,122925,meiner,robert
+gdc,r2mn.0,122954,123132,gurli,122968,122971,ich,gurli
+gdc,r2mn.0,122954,123132,gurli,122977,122981,dich,robert
+gdc,r2mn.0,122954,123132,gurli,123014,123026,Heirate mich,es4
+gdc,r2mn.0,122954,123132,gurli,123022,123026,mich,gurli
+gdc,r2mn.0,122954,123132,gurli,123034,123036,es,es4
+gdc,r2mn.0,122954,123132,gurli,123042,123046,dich,robert
+gdc,r2mn.0,122954,123132,gurli,123062,123065,Sie,gurli
+gdc,r2mn.0,122954,123132,gurli,123078,123081,ihm,robert
+gdc,r2mn.0,122954,123132,gurli,123094,123097,Ich,gurli
+gdc,r2mn.0,122954,123132,gurli,123103,123107,dich,robert
+gdc,r2mn.0,123137,123219,robert,123186,123192,Gottes,Gott
+gdc,r2mn.0,123137,123219,robert,123200,123203,ich,robert
+gdc,r2mn.0,123224,123267,gurli,123247,123249,du,robert
+gdc,r2mn.0,123224,123267,gurli,123255,123259,dich,robert
+gdc,r2mn.0,123272,123359,samuel,123281,123287,Robert,robert
+gdc,r2mn.0,123272,123359,samuel,123318,123321,mir,samuel
+gdc,r2mn.0,123272,123359,samuel,123322,123326,mein,samuel
+gdc,r2mn.0,123364,123432,robert,123373,123384,Beim Teufel,zum-Teufel
+gdc,r2mn.0,123364,123432,robert,123399,123402,Miß,gurli
+gdc,r2mn.0,123364,123432,robert,123404,123407,ich,robert
+gdc,r2mn.0,123364,123432,robert,123413,123416,Sie,gurli
+gdc,r2mn.0,123484,123534,robert,123493,123504,Mein Bruder,samuel
+gdc,r2mn.0,123484,123534,robert,123493,123497,Mein,robert
+gdc,r2mn.0,123484,123534,robert,123530,123533,Sie,gurli
+gdc,r2mn.0,123539,123572,gurli,123547,123558,Dein Bruder,robert
+gdc,r2mn.0,123539,123572,gurli,123547,123551,Dein,liddy
+gdc,r2mn.0,123577,123668,samuel,123593,123596,Miß,gurli
+gdc,r2mn.0,123577,123668,samuel,123604,123607,Sie,gurli
+gdc,r2mn.0,123577,123668,samuel,123608,123611,mir,samuel
+gdc,r2mn.0,123577,123668,samuel,123642,123658,mich zu heiraten,mich-zu-heiraten
+gdc,r2mn.0,123577,123668,samuel,123642,123646,mich,samuel
+gdc,r2mn.0,123673,123754,gurli,123681,123701,Ob gerade hundertmal,das2
+gdc,r2mn.0,123673,123754,gurli,123703,123706,das,das2
+gdc,r2mn.0,123673,123754,gurli,123712,123717,Gurli,gurli
+gdc,r2mn.0,123673,123754,gurli,123747,123750,ich,gurli
+gdc,r2mn.0,123673,123754,gurli,123751,123754,es.,mich-zu-heiraten
+gdc,r2mn.0,123759,123849,samuel,123779,123782,Sie,gurli
+gdc,r2mn.0,123759,123849,samuel,123805,123817,den Kontrakt,Ehekontrakt-von-dem-einen-
+gdc,r2mn.0,123854,123909,gurli,123875,123878,ich,gurli
+gdc,r2mn.0,123854,123909,gurli,123894,123897,ich,gurli
+gdc,r2mn.0,123914,123970,samuel,123923,123929,Bruder,robert
+gdc,r2mn.0,123914,123970,samuel,123931,123970,"du hast gehört, wie die Sachen standen.","du-hast-gehört,-wie-die-Sachen-standen."
+gdc,r2mn.0,123914,123970,samuel,123931,123933,du,robert
+gdc,r2mn.0,123975,124026,robert,123984,123987,Das,"du-hast-gehört,-wie-die-Sachen-standen."
+gdc,r2mn.0,123975,124026,robert,123992,123995,ich,robert
+gdc,r2mn.0,123975,124026,robert,124002,124005,Miß,gurli
+gdc,r2mn.0,124031,124188,gurli,124044,124047,ich,gurli
+gdc,r2mn.0,124031,124188,gurli,124053,124056,ihn,samuel
+gdc,r2mn.0,124031,124188,gurli,124064,124067,ich,gurli
+gdc,r2mn.0,124031,124188,gurli,124073,124076,ihn,samuel
+gdc,r2mn.0,124031,124188,gurli,124084,124087,ich,gurli
+gdc,r2mn.0,124031,124188,gurli,124093,124096,ihn,samuel
+gdc,r2mn.0,124031,124188,gurli,124104,124124,Du närrischer Samuel,samuel
+gdc,r2mn.0,124031,124188,gurli,124137,124139,du,samuel
+gdc,r2mn.0,124031,124188,gurli,124144,124149,Gurli,gurli
+gdc,r2mn.0,124031,124188,gurli,124160,124188,Gurli will dich nicht haben!,Gurli-will-dich-nicht-haben!
+gdc,r2mn.0,124031,124188,gurli,124160,124165,Gurli,gurli
+gdc,r2mn.0,124031,124188,gurli,124171,124175,dich,samuel
+gdc,r2mn.0,124193,124345,robert,124202,124205,Das,Gurli-will-dich-nicht-haben!
+gdc,r2mn.0,124193,124345,robert,124211,124214,mir,robert
+gdc,r2mn.0,124193,124345,robert,124226,124229,Miß,gurli
+gdc,r2mn.0,124193,124345,robert,124231,124234,Sie,gurli
+gdc,r2mn.0,124193,124345,robert,124250,124255,Ihnen,gurli
+gdc,r2mn.0,124193,124345,robert,124270,124273,ich,robert
+gdc,r2mn.0,124193,124345,robert,124278,124289,sein Bruder,robert
+gdc,r2mn.0,124193,124345,robert,124278,124282,sein,samuel
+gdc,r2mn.0,124193,124345,robert,124295,124298,ich,robert
+gdc,r2mn.0,124193,124345,robert,124304,124307,Sie,gurli
+gdc,r2mn.0,124193,124345,robert,124313,124317,mich,robert
+gdc,r2mn.0,124193,124345,robert,124318,124328,der Teufel,zum-Teufel
+gdc,r2mn.0,124350,124397,gurli,124362,124365,mir,gurli
+gdc,r2mn.0,124350,124397,gurli,124389,124392,ich,gurli
+gdc,r2mn.0,124350,124397,gurli,124393,124396,dir,robert
+gdc,r2mn.0,124402,124451,robert,124415,124421,meiner,robert
+gdc,r2mn.0,124402,124451,robert,124435,124437,du,gurli
+gdc,r2mn.0,124402,124451,robert,124447,124450,mir,robert
+gdc,r2mn.0,124456,124514,gurli,124469,124493,so mußt du mich heiraten,so-mußt-du-mich-heiraten
+gdc,r2mn.0,124456,124514,gurli,124477,124479,du,robert
+gdc,r2mn.0,124456,124514,gurli,124480,124484,mich,gurli
+gdc,r2mn.0,124456,124514,gurli,124495,124500,Liddy,liddy
+gdc,r2mn.0,124456,124514,gurli,124506,124509,ihm,robert
+gdc,r2mn.0,124456,124514,gurli,124510,124514,das.,so-mußt-du-mich-heiraten
+gdc,r2mn.0,124519,124584,liddy,124527,124540,Die Schwester,liddy
+gdc,r2mn.0,124589,124670,gurli,124606,124609,ihm,robert
+gdc,r2mn.0,124589,124670,gurli,124628,124636,Sir John,sir_john
+gdc,r2mn.0,124589,124670,gurli,124638,124640,Du,sir_john
+gdc,r2mn.0,124589,124670,gurli,124646,124650,sein,robert
+gdc,r2mn.0,124589,124670,gurli,124666,124669,ihm,robert
+gdc,r2mn.0,124675,124788,sir_john,124691,124696,Gurli,gurli
+gdc,r2mn.0,124675,124788,sir_john,124707,124725,ihrem eignen Vater,kaberdar
+gdc,r2mn.0,124675,124788,sir_john,124707,124712,ihrem,gurli
+gdc,r2mn.0,124675,124788,sir_john,124731,124734,man,man
+gdc,r2mn.0,124675,124788,sir_john,124753,124764,den Kindern,den-Kindern
+gdc,r2mn.0,124675,124788,sir_john,124770,124775,ihren,den-Kindern
+gdc,r2mn.0,124793,125038,gurli,124813,124816,ihn,robert
+gdc,r2mn.0,124793,125038,gurli,124823,124833,mein Vater,kaberdar
+gdc,r2mn.0,124793,125038,gurli,124823,124827,mein,gurli
+gdc,r2mn.0,124793,125038,gurli,124834,124838,mich,gurli
+gdc,r2mn.0,124793,125038,gurli,124853,124856,ich,gurli
+gdc,r2mn.0,124793,125038,gurli,124868,124870,er,kaberdar
+gdc,r2mn.0,124793,125038,gurli,124891,124900,Vaterchen,sir_john
+gdc,r2mn.0,124793,125038,gurli,124908,124911,ihn,robert
+gdc,r2mn.0,124793,125038,gurli,124919,124922,ihn,robert
+gdc,r2mn.0,124793,125038,gurli,124930,124933,sie,gurli
+gdc,r2mn.0,124793,125038,gurli,124937,124940,ihn,sir_john
+gdc,r2mn.0,124793,125038,gurli,124956,124959,ihm,sir_john
+gdc,r2mn.0,124793,125038,gurli,124989,124992,sie,gurli
+gdc,r2mn.0,124793,125038,gurli,124993,124996,ihm,sir_john
+gdc,r2mn.0,124793,125038,gurli,125014,125037,seinen podagrischen Fuß,seinen-podagrischen-Fuß
+gdc,r2mn.0,124793,125038,gurli,125014,125020,seinen,sir_john
+gdc,r2mn.0,125045,125150,sir_john,125090,125099,mein Bein,seinen-podagrischen-Fuß
+gdc,r2mn.0,125045,125150,sir_john,125090,125094,mein,sir_john
+gdc,r2mn.0,125045,125150,sir_john,125101,125110,mein Bein,seinen-podagrischen-Fuß
+gdc,r2mn.0,125045,125150,sir_john,125101,125105,mein,sir_john
+gdc,r2mn.0,125155,125235,gurli,125207,125212,Gurli,gurli
+gdc,r2mn.0,125240,125386,sir_john,125251,125256,Liddy,liddy
+gdc,r2mn.0,125240,125386,sir_john,125262,125265,mir,sir_john
+gdc,r2mn.0,125240,125386,sir_john,125277,125280,mir,sir_john
+gdc,r2mn.0,125240,125386,sir_john,125330,125334,mich,sir_john
+gdc,r2mn.0,125401,125410,_stage,125404,125409,Liddy,liddy
+gdc,r2mn.0,125391,125448,kaberdar,125422,125425,Sie,liddy
+gdc,r2mn.0,125391,125448,kaberdar,125431,125434,ich,kaberdar
+gdc,r2mn.0,125391,125448,kaberdar,125435,125438,Sie,liddy
+gdc,r2mn.0,125453,125507,liddy,125490,125499,den Alten,sir_john
+gdc,r2mn.0,125557,125636,_stage,125557,125571,Mistriss Smith,mistriss_smith
+gdc,r2mn.0,125557,125636,_stage,125574,125579,Gurli,gurli
+gdc,r2mn.0,125557,125636,_stage,125582,125588,Robert,robert
+gdc,r2mn.0,125557,125636,_stage,125591,125595,Jack,jack
+gdc,r2mn.0,125557,125636,_stage,125598,125604,Samuel,samuel
+gdc,r2mn.0,125557,125636,_stage,125607,125619,Mäster Staff,mäster_staff
+gdc,r2mn.0,125557,125636,_stage,125622,125635,Der Visitator,visitator
+gdc,r2mn.0,125639,125765,gurli,125662,125665,Ich,gurli
+gdc,r2mn.0,125639,125765,gurli,125671,125722,den armen alten Mann an seinen kranken Fuß gestoßen,es5
+gdc,r2mn.0,125639,125765,gurli,125671,125691,den armen alten Mann,sir_john
+gdc,r2mn.0,125639,125765,gurli,125695,125713,seinen kranken Fuß,seinen-podagrischen-Fuß
+gdc,r2mn.0,125639,125765,gurli,125695,125701,seinen,sir_john
+gdc,r2mn.0,125639,125765,gurli,125724,125729,Gurli,gurli
+gdc,r2mn.0,125639,125765,gurli,125734,125736,es,es5
+gdc,r2mn.0,125770,125852,mistriss_smith,125828,125832,mich,mistriss_smith
+gdc,r2mn.0,125857,125935,mäster_staff,125872,125893,Dergleichen Sponsalia,die-langweiligste-Verlobung
+gdc,r2mn.0,125857,125935,mäster_staff,125899,125902,mir,mäster_staff
+gdc,r2mn.0,126074,126084,_stage,126077,126083,Robert,robert
+gdc,r2mn.0,126068,126167,jack,126087,126090,Ihr,robert
+gdc,r2mn.0,126068,126167,jack,126096,126099,ihm,samuel
+gdc,r2mn.0,126068,126167,jack,126141,126144,ihm,samuel
+gdc,r2mn.0,126172,126285,samuel,126193,126199,meinen,samuel
+gdc,r2mn.0,126172,126285,samuel,126245,126248,ich,samuel
+gdc,r2mn.0,126172,126285,samuel,126249,126253,mich,samuel
+gdc,r2mn.0,126297,126307,_stage,126300,126306,Robert,robert
+gdc,r2mn.0,126290,126376,gurli,126330,126332,du,robert
+gdc,r2mn.0,126290,126376,gurli,126333,126337,dich,robert
+gdc,r2mn.0,126290,126376,gurli,126351,126353,du,robert
+gdc,r2mn.0,126290,126376,gurli,126354,126359,Gurli,gurli
+gdc,r2mn.0,126381,126474,robert,126390,126393,Sie,gurli
+gdc,r2mn.0,126381,126474,robert,126403,126406,mir,robert
+gdc,r2mn.0,126381,126474,robert,126407,126424,ein gutes Mädchen,gurli
+gdc,r2mn.0,126381,126474,robert,126438,126441,Sie,gurli
+gdc,r2mn.0,126381,126474,robert,126449,126454,Liddy,liddy
+gdc,r2mn.0,126381,126474,robert,126459,126463,Ihre,gurli
+gdc,r2mn.0,126479,126505,gurli,126499,126504,Gurli,gurli
+gdc,r2mn.0,126510,126689,robert,126550,126555,Liddy,liddy
+gdc,r2mn.0,126510,126689,robert,126568,126591,einen guten braven Mann,einen-guten-braven-Mann
+gdc,r2mn.0,126510,126689,robert,126606,126609,Sie,gurli
+gdc,r2mn.0,126510,126689,robert,126617,126620,ihr,liddy
+gdc,r2mn.0,126510,126689,robert,126621,126629,den Mann,einen-guten-braven-Mann
+gdc,r2mn.0,126510,126689,robert,126633,126636,mir,robert
+gdc,r2mn.0,126510,126689,robert,126681,126684,Sie,gurli
+gdc,r2mn.0,126694,126740,gurli,126719,126724,Gurli,gurli
+gdc,r2mn.0,126745,126843,robert,126773,126776,Sie,gurli
+gdc,r2mn.0,126745,126843,robert,126781,126784,mir,robert
+gdc,r2mn.0,126745,126843,robert,126790,126793,ich,robert
+gdc,r2mn.0,126745,126843,robert,126794,126807,meinem Bruder,samuel
+gdc,r2mn.0,126745,126843,robert,126794,126800,meinem,robert
+gdc,r2mn.0,126849,126937,gurli,126864,126866,du,robert
+gdc,r2mn.0,126849,126937,gurli,126872,126893,den närrischen Samuel,samuel
+gdc,r2mn.0,126849,126937,gurli,126912,126915,ich,gurli
+gdc,r2mn.0,126849,126937,gurli,126916,126930,die gute Liddy,liddy
+gdc,r2mn.0,126942,126998,robert,126968,126970,Er,samuel
+gdc,r2mn.0,126942,126998,robert,126975,126979,mein,robert
+gdc,r2mn.0,127003,127065,gurli,127038,127043,Gurli,gurli
+gdc,r2mn.0,127003,127065,gurli,127055,127058,Sie,gurli
+gdc,r2mn.0,127071,127136,jack,127118,127125,die See,die-weite-See
+gdc,r2mn.0,127141,127284,mäster_staff,127160,127177,dem Vorgefallenen,dem-Vorgefallenen
+gdc,r2mn.0,127141,127284,mäster_staff,127183,127187,sich,dem-Vorgefallenen
+gdc,r2mn.0,127141,127284,mäster_staff,127220,127224,mein,mäster_staff
+gdc,r2mn.0,127141,127284,mäster_staff,127268,127271,Ich,mäster_staff
+gdc,r2mn.0,127289,127335,samuel,127305,127308,Sie,mäster_staff
+gdc,r2mn.0,127289,127335,samuel,127317,127320,Sie,mäster_staff
+gdc,r2mn.0,127289,127335,samuel,127322,127334,Mäster Staff,mäster_staff
+gdc,r2mn.0,127340,127544,mäster_staff,127369,127375,meiner,mäster_staff
+gdc,r2mn.0,127340,127544,mäster_staff,127435,127438,ich,mäster_staff
+gdc,r2mn.0,127340,127544,mäster_staff,127439,127444,Ihnen,samuel
+gdc,r2mn.0,127340,127544,mäster_staff,127485,127489,mich,mäster_staff
+gdc,r2mn.0,127550,127679,mistriss_smith,127628,127631,man,man
+gdc,r2mn.0,127685,127821,samuel,127778,127781,ich,samuel
+gdc,r2mn.0,127685,127821,samuel,127794,127796,Er,samuel
+gdc,r2mn.0,127685,127821,samuel,127802,127815,seiner Mutter,mistriss_smith
+gdc,r2mn.0,127685,127821,samuel,127802,127808,seiner,samuel
+gdc,r2mn.0,127827,127957,jack,127853,127857,Herr,robert
+gdc,r2mn.0,127827,127957,jack,127863,127876,den Visitator,visitator
+gdc,r2mn.0,127827,127957,jack,127886,127893,welcher,visitator
+gdc,r2mn.0,128010,128024,_stage,128010,128023,zum Visitator,visitator
+gdc,r2mn.0,128004,128100,jack,128027,128039,Guter Freund,visitator
+gdc,r2mn.0,128105,128195,visitator,128117,128128,Mein Freund,robert
+gdc,r2mn.0,128105,128195,visitator,128117,128121,Mein,visitator
+gdc,r2mn.0,128105,128195,visitator,128137,128139,Er,jack
+gdc,r2mn.0,128105,128195,visitator,128164,128167,Ich,visitator
+gdc,r2mn.0,128105,128195,visitator,128180,128194,Amtsgeschäften,Amtsgeschäften
+gdc,r2mn.0,128200,128279,robert,128209,128222,Amtsgeschäfte,Amtsgeschäften
+gdc,r2mn.0,128200,128279,robert,128238,128251,meines Vaters,sir_john
+gdc,r2mn.0,128200,128279,robert,128238,128244,meines,robert
+gdc,r2mn.0,128200,128279,robert,128257,128269,zum Zollhaus,zum-Zollhaus
+gdc,r2mn.0,128284,128633,visitator,128306,128309,Sie,robert
+gdc,r2mn.0,128284,128633,visitator,128310,128314,mich,visitator
+gdc,r2mn.0,128284,128633,visitator,128322,128325,Sir,robert
+gdc,r2mn.0,128284,128633,visitator,128344,128365,meinen Amtsgeschäften,Amtsgeschäften
+gdc,r2mn.0,128284,128633,visitator,128344,128350,meinen,visitator
+gdc,r2mn.0,128284,128633,visitator,128392,128415,den Mäster Samuel Smith,samuel
+gdc,r2mn.0,128284,128633,visitator,128469,128472,ich,visitator
+gdc,r2mn.0,128284,128633,visitator,128473,128477,mich,visitator
+gdc,r2mn.0,128284,128633,visitator,128558,128570,vom Zollhaus,zum-Zollhaus
+gdc,r2mn.0,128284,128633,visitator,128600,128603,ich,visitator
+gdc,r2mn.0,128638,128728,robert,128665,128668,ich,robert
+gdc,r2mn.0,128638,128728,robert,128669,128672,Sie,visitator
+gdc,r2mn.0,128638,128728,robert,128674,128683,mein Herr,visitator
+gdc,r2mn.0,128638,128728,robert,128674,128678,mein,robert
+gdc,r2mn.0,128733,128786,visitator,128750,128753,ich,visitator
+gdc,r2mn.0,128791,128920,jack,128806,128809,mir,jack
+gdc,r2mn.0,128791,128920,jack,128864,128867,mir,jack
+gdc,r2mn.0,128791,128920,jack,128890,128900,eine Wunde,eine-Wunde
+gdc,r2mn.0,128791,128920,jack,128902,128905,die,eine-Wunde
+gdc,r2mn.0,128925,129041,visitator,128951,128954,Sie,robert
+gdc,r2mn.0,128925,129041,visitator,128993,128996,ich,visitator
+gdc,r2mn.0,128925,129041,visitator,128997,129001,mich,visitator
+gdc,r2mn.0,128925,129041,visitator,129002,129007,Ihnen,robert
+gdc,r2mn.0,129046,129114,robert,129101,129110,Visitator,visitator
+gdc,r2mn.0,129165,129187,_stage,129165,129170,Gurli,gurli
+gdc,r2mn.0,129165,129187,_stage,129173,129179,Robert,robert
+gdc,r2mn.0,129165,129187,_stage,129182,129186,Jack,jack
+gdc,r2mn.0,129190,129313,jack,129207,129210,Ihr,robert
+gdc,r2mn.0,129190,129313,jack,129212,129215,Sir,robert
+gdc,r2mn.0,129190,129313,jack,129233,129246,der alte Jack,jack
+gdc,r2mn.0,129190,129313,jack,129289,129292,Ihr,robert
+gdc,r2mn.0,129190,129313,jack,129293,129296,ihm,jack
+gdc,r2mn.0,129318,129426,robert,129333,129335,du,jack
+gdc,r2mn.0,129354,129426,_stage,129354,129359,Gurli,gurli
+gdc,r2mn.0,129431,129461,robert,129450,129455,Ihnen,gurli
+gdc,r2mn.0,129431,129461,robert,129457,129460,Miß,gurli
+gdc,r2mn.0,129488,129534,robert,129509,129512,Sie,gurli
+gdc,r2mn.0,129488,129534,robert,129513,129533,meinen Bruder Samuel,samuel
+gdc,r2mn.0,129539,129586,gurli,129547,129550,Den,samuel
+gdc,r2mn.0,129539,129586,gurli,129555,129558,ich,gurli
+gdc,r2mn.0,129539,129586,gurli,129566,129569,ich,gurli
+gdc,r2mn.0,129539,129586,gurli,129575,129579,dich,robert
+gdc,r2mn.0,129591,129623,robert,129618,129622,mich,robert
+gdc,r2mn.0,129628,130082,gurli,129645,129650,Gurli,gurli
+gdc,r2mn.0,129628,130082,gurli,129665,129667,Du,robert
+gdc,r2mn.0,129628,130082,gurli,129691,129693,du,robert
+gdc,r2mn.0,129628,130082,gurli,129706,129709,ich,gurli
+gdc,r2mn.0,129628,130082,gurli,129736,129739,ich,gurli
+gdc,r2mn.0,129628,130082,gurli,129740,129744,dich,robert
+gdc,r2mn.0,129628,130082,gurli,129756,129769,Bruder Robert,robert
+gdc,r2mn.0,129628,130082,gurli,129819,129822,mir,gurli
+gdc,r2mn.0,129628,130082,gurli,129850,129860,mein Vater,kaberdar
+gdc,r2mn.0,129628,130082,gurli,129850,129854,mein,gurli
+gdc,r2mn.0,129628,130082,gurli,129862,129867,Gurli,gurli
+gdc,r2mn.0,129628,130082,gurli,129874,129891,einen Mann nehmen,einen-Mann-nehmen
+gdc,r2mn.0,129628,130082,gurli,129904,129909,Gurli,gurli
+gdc,r2mn.0,129628,130082,gurli,129910,129913,das,einen-Mann-nehmen
+gdc,r2mn.0,129628,130082,gurli,129942,129952,mein Vater,kaberdar
+gdc,r2mn.0,129628,130082,gurli,129942,129946,mein,gurli
+gdc,r2mn.0,129628,130082,gurli,129954,129983,welchen Mann ich haben wollte,das3
+gdc,r2mn.0,129628,130082,gurli,129967,129970,ich,gurli
+gdc,r2mn.0,129628,130082,gurli,129985,129988,das,das3
+gdc,r2mn.0,129628,130082,gurli,129993,129998,Gurli,gurli
+gdc,r2mn.0,129628,130082,gurli,130028,130033,Gurli,gurli
+gdc,r2mn.0,129628,130082,gurli,130034,130038,dich,robert
+gdc,r2mn.0,129628,130082,gurli,130056,130057,s,das3
+gdc,r2mn.0,129628,130082,gurli,130058,130061,ihr,gurli
+gdc,r2mn.0,130087,130118,robert,130103,130106,mir,robert
+gdc,r2mn.0,130123,130289,gurli,130139,130143,mich,gurli
+gdc,r2mn.0,130123,130289,gurli,130151,130154,ich,gurli
+gdc,r2mn.0,130123,130289,gurli,130160,130164,dich,robert
+gdc,r2mn.0,130123,130289,gurli,130181,130195,meinen Papagei,meinen-Papagei
+gdc,r2mn.0,130123,130289,gurli,130181,130187,meinen,gurli
+gdc,r2mn.0,130123,130289,gurli,130200,130211,meine Katze,meine-Katze
+gdc,r2mn.0,130123,130289,gurli,130200,130205,meine,gurli
+gdc,r2mn.0,130123,130289,gurli,130213,130216,Ich,gurli
+gdc,r2mn.0,130123,130289,gurli,130222,130226,dich,robert
+gdc,r2mn.0,130123,130289,gurli,130243,130256,mein Kätzchen,meine-Katze
+gdc,r2mn.0,130123,130289,gurli,130243,130247,mein,gurli
+gdc,r2mn.0,130123,130289,gurli,130274,130288,meinen Papagei,meinen-Papagei
+gdc,r2mn.0,130123,130289,gurli,130274,130280,meinen,gurli
+gdc,r2mn.0,130294,130411,robert,130307,130310,dir,gurli
+gdc,r2mn.0,130294,130411,robert,130312,130323,liebe Gurli,gurli
+gdc,r2mn.0,130416,130532,gurli,130437,130479,"wir so vergnügt zusammen leben, du und ich","wir-so-vergnügt-zusammen-leben,-du-und-ich"
+gdc,r2mn.0,130416,130532,gurli,130437,130440,wir,robert-und-gurli
+gdc,r2mn.0,130416,130532,gurli,130469,130471,du,robert
+gdc,r2mn.0,130416,130532,gurli,130476,130479,ich,gurli
+gdc,r2mn.0,130416,130532,gurli,130481,130491,mein Vater,kaberdar
+gdc,r2mn.0,130416,130532,gurli,130481,130485,mein,gurli
+gdc,r2mn.0,130416,130532,gurli,130496,130508,mein Papagei,meinen-Papagei
+gdc,r2mn.0,130416,130532,gurli,130496,130500,mein,gurli
+gdc,r2mn.0,130416,130532,gurli,130510,130515,Liddy,liddy
+gdc,r2mn.0,130416,130532,gurli,130520,130531,meine Katze,meine-Katze
+gdc,r2mn.0,130416,130532,gurli,130520,130525,meine,gurli
+gdc,r2mn.0,130537,130731,robert,130584,130587,mir,robert
+gdc,r2mn.0,130537,130731,robert,130601,130604,das,"wir-so-vergnügt-zusammen-leben,-du-und-ich"
+gdc,r2mn.0,130537,130731,robert,130662,130666,mein,robert
+gdc,r2mn.0,130537,130731,robert,130703,130708,Gurli,gurli
+gdc,r2mn.0,130737,130764,gurli,130745,130750,Lügen,Lügen
+gdc,r2mn.0,130737,130764,gurli,130760,130763,das,Lügen
+gdc,r2mn.0,130769,130805,robert,130795,130797,du,gurli
+gdc,r2mn.0,130810,130922,gurli,130845,130850,Gurli,gurli
+gdc,r2mn.0,130810,130922,gurli,130868,130871,dir,robert
+gdc,r2mn.0,130810,130922,gurli,130913,130914,s,Lügen
+gdc,r2mn.0,130927,131079,robert,130961,130964,mir,robert
+gdc,r2mn.0,130927,131079,robert,130982,130995,Bruder Robert,robert
+gdc,r2mn.0,130927,131079,robert,130996,131000,dich,gurli
+gdc,r2mn.0,130927,131079,robert,131036,131038,du,gurli
+gdc,r2mn.0,130927,131079,robert,131054,131071,den Bruder Samuel,samuel
+gdc,r2mn.0,131084,131199,gurli,131120,131125,Gurli,gurli
+gdc,r2mn.0,131084,131199,gurli,131126,131147,den närrischen Samuel,samuel
+gdc,r2mn.0,131084,131199,gurli,131158,131163,Gurli,gurli
+gdc,r2mn.0,131084,131199,gurli,131169,131172,ihn,samuel
+gdc,r2mn.0,131204,131382,robert,131225,131236,beim Teufel,zum-Teufel
+gdc,r2mn.0,131204,131382,robert,131238,131251,seinem Bruder,samuel
+gdc,r2mn.0,131204,131382,robert,131295,131299,Jack,jack
+gdc,r2mn.0,131204,131382,robert,131312,131314,du,jack
+gdc,r2mn.0,131204,131382,robert,131321,131339,ein ehrlicher Kerl,robert
+gdc,r2mn.0,131387,131738,jack,131394,131397,Ihr,robert
+gdc,r2mn.0,131387,131738,jack,131430,131434,Eure,robert
+gdc,r2mn.0,131387,131738,jack,131469,131481,Euren Bruder,samuel
+gdc,r2mn.0,131387,131738,jack,131469,131474,Euren,robert
+gdc,r2mn.0,131387,131738,jack,131492,131495,Sir,robert
+gdc,r2mn.0,131387,131738,jack,131506,131509,ich,jack
+gdc,r2mn.0,131387,131738,jack,131510,131513,mir,jack
+gdc,r2mn.0,131387,131738,jack,131581,131584,Der,samuel
+gdc,r2mn.0,131387,131738,jack,131669,131672,ich,jack
+gdc,r2mn.0,131387,131738,jack,131679,131681,es,es6
+gdc,r2mn.0,131387,131738,jack,131709,131737,ihn an Bord kommen zu lassen,es6
+gdc,r2mn.0,131387,131738,jack,131709,131712,ihn,samuel
+gdc,r2mn.0,131743,131868,robert,131762,131765,ich,robert
+gdc,r2mn.0,131743,131868,robert,131771,131775,Jack,jack
+gdc,r2mn.0,131743,131868,robert,131777,131803,Das arme unschuldige Mädel,gurli
+gdc,r2mn.0,131743,131868,robert,131844,131849,Gurli,gurli
+gdc,r2mn.0,131743,131868,robert,131851,131854,ich,robert
+gdc,r2mn.0,131743,131868,robert,131863,131867,dich,gurli
+gdc,r2mn.0,131880,131896,_stage,131883,131889,seinem,robert
+gdc,r2mn.0,131873,131992,gurli,131908,131910,du,robert
+gdc,r2mn.0,131873,131992,gurli,131911,131936,mein lieber Bruder Robert,robert
+gdc,r2mn.0,131873,131992,gurli,131911,131915,mein,gurli
+gdc,r2mn.0,131873,131992,gurli,131947,131952,Gurli,gurli
+gdc,r2mn.0,131997,132201,robert,132022,132024,du,gurli
+gdc,r2mn.0,131997,132201,robert,132025,132030,meine,robert
+gdc,r2mn.0,131997,132201,robert,132049,132052,ich,robert
+gdc,r2mn.0,131997,132201,robert,132053,132056,dir,gurli
+gdc,r2mn.0,131997,132201,robert,132057,132067,einen Ring,einen-Ring
+gdc,r2mn.0,131997,132201,robert,132078,132080,Er,einen-Ring
+gdc,r2mn.0,131997,132201,robert,132131,132133,er,einen-Ring
+gdc,r2mn.0,132206,132273,gurli,132223,132226,ich,gurli
+gdc,r2mn.0,132206,132273,gurli,132246,132249,ich,gurli
+gdc,r2mn.0,132206,132273,gurli,132250,132253,ihn,einen-Ring
+gdc,r2mn.0,132278,132361,robert,132305,132308,ihn,einen-Ring
+gdc,r2mn.0,132278,132361,robert,132346,132349,ich,robert
+gdc,r2mn.0,132278,132361,robert,132350,132354,dich,gurli
+gdc,r2mn.0,132366,132522,gurli,132386,132405,Du drolliger Mensch,robert
+gdc,r2mn.0,132366,132522,gurli,132407,132410,ich,gurli
+gdc,r2mn.0,132366,132522,gurli,132416,132419,dir,robert
+gdc,r2mn.0,132366,132522,gurli,132425,132435,einen Ring,einen-Ring2
+gdc,r2mn.0,132366,132522,gurli,132446,132449,das,einen-Ring2
+gdc,r2mn.0,132366,132522,gurli,132464,132467,ich,gurli
+gdc,r2mn.0,132366,132522,gurli,132468,132472,dich,robert
+gdc,r2mn.0,132366,132522,gurli,132498,132501,Sie,gurli
+gdc,r2mn.0,132366,132522,gurli,132511,132514,ihr,gurli
+gdc,r2mn.0,132575,132589,_stage,132575,132581,Robert,robert
+gdc,r2mn.0,132575,132589,_stage,132584,132588,Jack,jack
+gdc,r2mn.0,132592,132691,robert,132601,132605,Jack,jack
+gdc,r2mn.0,132592,132691,robert,132618,132620,du,jack
+gdc,r2mn.0,132592,132691,robert,132628,132631,ich,robert
+gdc,r2mn.0,132592,132691,robert,132666,132669,ich,robert
+gdc,r2mn.0,132696,132761,jack,132711,132714,Ihr,robert
+gdc,r2mn.0,132766,132923,robert,132780,132799,ein schmuckes Mädel,gurli
+gdc,r2mn.0,132766,132923,robert,132817,132820,mir,robert
+gdc,r2mn.0,132766,132923,robert,132825,132829,Jack,jack
+gdc,r2mn.0,132766,132923,robert,132831,132922,"wie hat die kleine Wetterhexe es angefangen, mich so schnell unter ihren Spiegel zu bringen","wie-hat-die-kleine-Wetterhexe-es-angefangen,-mich-so-schnell-unter-ihren-Spiegel-zu-bringen"
+gdc,r2mn.0,132766,132923,robert,132839,132860,die kleine Wetterhexe,gurli
+gdc,r2mn.0,132766,132923,robert,132876,132880,mich,robert
+gdc,r2mn.0,132766,132923,robert,132898,132903,ihren,gurli
+gdc,r2mn.0,132928,133025,jack,132935,132938,Das,"wie-hat-die-kleine-Wetterhexe-es-angefangen,-mich-so-schnell-unter-ihren-Spiegel-zu-bringen"
+gdc,r2mn.0,132928,133025,jack,132944,132947,ich,jack
+gdc,r2mn.0,132928,133025,jack,132955,132958,Ich,jack
+gdc,r2mn.0,133030,133463,robert,133049,133066,ehrlicher Kamerad,jack
+gdc,r2mn.0,133030,133463,robert,133073,133076,ich,robert
+gdc,r2mn.0,133030,133463,robert,133082,133087,deine,jack
+gdc,r2mn.0,133030,133463,robert,133131,133134,Wir,jack-und-robert
+gdc,r2mn.0,133030,133463,robert,133192,133194,du,jack
+gdc,r2mn.0,133030,133463,robert,133202,133206,mich,robert
+gdc,r2mn.0,133030,133463,robert,133241,133246,deine,jack
+gdc,r2mn.0,133030,133463,robert,133259,133261,du,jack
+gdc,r2mn.0,133030,133463,robert,133267,133271,mich,robert
+gdc,r2mn.0,133030,133463,robert,133276,133282,deinen,jack
+gdc,r2mn.0,133030,133463,robert,133303,133306,ich,robert
+gdc,r2mn.0,133030,133463,robert,133347,133350,mir,robert
+gdc,r2mn.0,133030,133463,robert,133378,133380,du,jack
+gdc,r2mn.0,133030,133463,robert,133401,133410,Das Mädel,gurli
+gdc,r2mn.0,133030,133463,robert,133436,133462,zehntausend Pfund Sterling,Die-zehntausend-Pfund
+gdc,r2mn.0,133468,133611,jack,133483,133486,sie,gurli
+gdc,r2mn.0,133468,133611,jack,133526,133529,die,gurli
+gdc,r2mn.0,133468,133611,jack,133530,133535,ihren,gurli
+gdc,r2mn.0,133653,133895,jack,133660,133671,Lieber Gott,Gott
+gdc,r2mn.0,133653,133895,jack,133750,133753,ich,jack
+gdc,r2mn.0,133653,133895,jack,133757,133762,Eurer,robert
+gdc,r2mn.0,133653,133895,jack,133780,133783,ich,jack
+gdc,r2mn.0,133653,133895,jack,133794,133797,ich,jack
+gdc,r2mn.0,133653,133895,jack,133832,133835,ich,jack
+gdc,r2mn.0,133653,133895,jack,133861,133864,ich,jack
+gdc,r2mn.0,133900,133964,robert,133909,133912,Ich,robert
+gdc,r2mn.0,133900,133964,robert,133924,133928,Jack,jack
+gdc,r2mn.0,133900,133964,robert,133930,133933,ich,robert
+gdc,r2mn.0,133900,133964,robert,133939,133944,meine,robert
+gdc,r2mn.0,133997,134068,robert,134006,134009,Ich,robert
+gdc,r2mn.0,133997,134068,robert,134027,134030,ich,robert
+gdc,r2mn.0,134073,134136,jack,134110,134113,Ihr,robert
+gdc,r2mn.0,134141,134442,robert,134150,134153,Ich,robert
+gdc,r2mn.0,134141,134442,robert,134186,134189,ich,robert
+gdc,r2mn.0,134141,134442,robert,134250,134259,das Mädel,gurli
+gdc,r2mn.0,134141,134442,robert,134277,134281,ihre,gurli
+gdc,r2mn.0,134141,134442,robert,134294,134297,sie,gurli
+gdc,r2mn.0,134141,134442,robert,134298,134305,im Auge,im-Auge
+gdc,r2mn.0,134141,134442,robert,134313,134323,ihrem Auge,im-Auge
+gdc,r2mn.0,134141,134442,robert,134313,134318,ihrem,gurli
+gdc,r2mn.0,134141,134442,robert,134341,134344,ihr,gurli
+gdc,r2mn.0,134141,134442,robert,134362,134367,ihrer,gurli
+gdc,r2mn.0,134141,134442,robert,134378,134382,ihre,gurli
+gdc,r2mn.0,134448,134991,jack,134460,134471,einem Weibe,einem-Weibe
+gdc,r2mn.0,134448,134991,jack,134591,134594,Ihr,robert-und-gurli
+gdc,r2mn.0,134448,134991,jack,134622,134627,ihrer,gurli
+gdc,r2mn.0,134448,134991,jack,134743,134746,Sir,robert
+gdc,r2mn.0,134448,134991,jack,134762,134765,Ihr,robert
+gdc,r2mn.0,134448,134991,jack,134766,134777,Euer Schiff,Euer-Schiff
+gdc,r2mn.0,134448,134991,jack,134766,134770,Euer,robert
+gdc,r2mn.0,134448,134991,jack,134785,134789,Euch,robert
+gdc,r2mn.0,134448,134991,jack,134799,134802,Ihr,robert
+gdc,r2mn.0,134448,134991,jack,134803,134820,lichtet die Anker,lichtet-die-Anker
+gdc,r2mn.0,134448,134991,jack,134827,134829,es,lichtet-die-Anker
+gdc,r2mn.0,134448,134991,jack,134830,134834,Euch,robert
+gdc,r2mn.0,134448,134991,jack,134845,134848,Ihr,robert
+gdc,r2mn.0,134448,134991,jack,134864,134867,Ihr,robert
+gdc,r2mn.0,134448,134991,jack,134885,134888,Ihr,robert
+gdc,r2mn.0,134448,134991,jack,134895,134898,Ihr,robert
+gdc,r2mn.0,134448,134991,jack,134899,134907,ein Weib,einem-Weibe
+gdc,r2mn.0,134448,134991,jack,134923,134926,Ihr,robert
+gdc,r2mn.0,134996,135248,robert,135018,135032,ehrlicher Jack,jack
+gdc,r2mn.0,134996,135248,robert,135034,135037,ich,robert
+gdc,r2mn.0,134996,135248,robert,135057,135060,mir,robert
+gdc,r2mn.0,134996,135248,robert,135078,135081,ich,robert
+gdc,r2mn.0,134996,135248,robert,135082,135086,dich,jack
+gdc,r2mn.0,134996,135248,robert,135131,135133,du,jack
+gdc,r2mn.0,134996,135248,robert,135153,135156,ich,robert
+gdc,r2mn.0,134996,135248,robert,135171,135177,meinen,robert
+gdc,r2mn.0,134996,135248,robert,135212,135215,ich,robert
+gdc,r2mn.0,135331,135351,_stage,135331,135336,Fazir,fazir
+gdc,r2mn.0,135331,135351,_stage,135339,135350,Die Vorigen,jack-und-robert
+gdc,r2mn.0,135354,135513,robert,135372,135379,Kamerad,fazir
+gdc,r2mn.0,135354,135513,robert,135393,135397,dich,fazir
+gdc,r2mn.0,135354,135513,robert,135425,135431,Teufel,zum-Teufel
+gdc,r2mn.0,135354,135513,robert,135455,135458,wir,robert-und-fazir
+gdc,r2mn.0,135518,135670,fazir,135526,135529,Ich,fazir
+gdc,r2mn.0,135518,135670,fazir,135538,135551,unserm Schiff,Euer-Schiff
+gdc,r2mn.0,135518,135670,fazir,135538,135544,unserm,robert-und-fazir
+gdc,r2mn.0,135518,135670,fazir,135575,135578,ich,fazir
+gdc,r2mn.0,135518,135670,fazir,135610,135613,ich,fazir
+gdc,r2mn.0,135518,135670,fazir,135632,135635,ich,fazir
+gdc,r2mn.0,135675,135737,robert,135688,135699,dem Schiffe,Euer-Schiff
+gdc,r2mn.0,135675,135737,robert,135706,135708,du,fazir
+gdc,r2mn.0,135675,135737,robert,135714,135724,unser Volk,unser-Volk
+gdc,r2mn.0,135675,135737,robert,135714,135719,unser,robert-und-fazir
+gdc,r2mn.0,135742,135838,fazir,135765,135769,ihre,unser-Volk
+gdc,r2mn.0,135742,135838,fazir,135783,135787,mich,fazir
+gdc,r2mn.0,135742,135838,fazir,135806,135809,ich,fazir
+gdc,r2mn.0,135742,135838,fazir,135817,135821,mich,fazir
+gdc,r2mn.0,135874,136232,fazir,135886,135888,du,robert
+gdc,r2mn.0,135874,136232,fazir,135914,135920,Robert,robert
+gdc,r2mn.0,135874,136232,fazir,135951,135954,Ich,fazir
+gdc,r2mn.0,135874,136232,fazir,135963,135968,meine,fazir
+gdc,r2mn.0,135874,136232,fazir,135986,135990,mich,fazir
+gdc,r2mn.0,135874,136232,fazir,135994,136010,meine Hangematte,die-Hangematte
+gdc,r2mn.0,135874,136232,fazir,135994,135999,meine,fazir
+gdc,r2mn.0,135874,136232,fazir,136030,136039,die Decke,der-Decke
+gdc,r2mn.0,135874,136232,fazir,136045,136048,ich,fazir
+gdc,r2mn.0,135874,136232,fazir,136057,136064,unserer,robert-und-fazir
+gdc,r2mn.0,135874,136232,fazir,136125,136135,der Strick,der-Strick
+gdc,r2mn.0,135874,136232,fazir,136137,136148,mit welchem,der-Strick
+gdc,r2mn.0,135874,136232,fazir,136149,136163,die Hangematte,die-Hangematte
+gdc,r2mn.0,135874,136232,fazir,136172,136181,der Decke,der-Decke
+gdc,r2mn.0,135874,136232,fazir,136203,136205,du,robert
+gdc,r2mn.0,135874,136232,fazir,136211,136215,mich,fazir
+gdc,r2mn.0,136274,136367,fazir,136299,136310,des Stricks,der-Strick
+gdc,r2mn.0,136274,136367,fazir,136361,136366,ein L,dieses-L
+gdc,r2mn.0,136373,136449,robert,136390,136399,die Liebe,die-Liebe
+gdc,r2mn.0,136454,136703,fazir,136475,136478,ich,fazir
+gdc,r2mn.0,136454,136703,fazir,136517,136525,dieses L,dieses-L
+gdc,r2mn.0,136454,136703,fazir,136537,136540,ich,fazir
+gdc,r2mn.0,136454,136703,fazir,136541,136545,mich,fazir
+gdc,r2mn.0,136454,136703,fazir,136547,136552,meine,fazir
+gdc,r2mn.0,136454,136703,fazir,136585,136590,meine,fazir
+gdc,r2mn.0,136454,136703,fazir,136602,136607,das L,dieses-L
+gdc,r2mn.0,136454,136703,fazir,136614,136618,mich,fazir
+gdc,r2mn.0,136454,136703,fazir,136638,136646,im Bette,die-Hangematte
+gdc,r2mn.0,136454,136703,fazir,136663,136667,mich,fazir
+gdc,r2mn.0,136454,136703,fazir,136668,136673,das L,dieses-L
+gdc,r2mn.0,136708,136777,robert,136717,136728,Armer Junge,fazir
+gdc,r2mn.0,136708,136777,robert,136741,136743,du,jack
+gdc,r2mn.0,136708,136777,robert,136744,136748,Jack,jack
+gdc,r2mn.0,136708,136777,robert,136750,136753,dem,fazir
+gdc,r2mn.0,136708,136777,robert,136759,136763,sich,fazir
+gdc,r2mn.0,136782,136868,jack,136789,136792,Der,fazir
+gdc,r2mn.0,136782,136868,jack,136813,136815,Er,fazir
+gdc,r2mn.0,136782,136868,jack,136820,136829,die Liebe,die-Liebe
+gdc,r2mn.0,136782,136868,jack,136859,136861,er,fazir
+gdc,r2mn.0,136873,136926,fazir,136881,136894,Lieber Robert,robert
+gdc,r2mn.0,136873,136926,fazir,136902,136904,du,robert
+gdc,r2mn.0,136931,137031,robert,136946,136949,ich,robert
+gdc,r2mn.0,136931,137031,robert,136992,136995,ich,robert
+gdc,r2mn.0,136931,137031,robert,137008,137030,für neue Fracht sorgen,für-neue-Fracht-sorgen
+gdc,r2mn.0,137036,137076,fazir,137065,137068,das,für-neue-Fracht-sorgen
+gdc,r2mn.0,137122,137423,fazir,137148,137154,Robert,robert
+gdc,r2mn.0,137122,137423,fazir,137165,137179,der arme Fazir,fazir
+gdc,r2mn.0,137122,137423,fazir,137209,137212,ich,fazir
+gdc,r2mn.0,137122,137423,fazir,137222,137228,meinem,fazir
+gdc,r2mn.0,137122,137423,fazir,137248,137251,ich,fazir
+gdc,r2mn.0,137122,137423,fazir,137270,137276,meinen,fazir
+gdc,r2mn.0,137122,137423,fazir,137305,137308,ich,fazir
+gdc,r2mn.0,137122,137423,fazir,137376,137380,mich,fazir
+gdc,r2mn.0,137122,137423,fazir,137411,137415,mich,fazir
+gdc,r2mn.0,137428,137566,robert,137437,137442,Junge,fazir
+gdc,r2mn.0,137428,137566,robert,137444,137446,du,fazir
+gdc,r2mn.0,137428,137566,robert,137454,137457,mir,robert
+gdc,r2mn.0,137428,137566,robert,137458,137466,das Herz,Roberts-Herz
+gdc,r2mn.0,137428,137566,robert,137479,137483,dich,fazir
+gdc,r2mn.0,137428,137566,robert,137484,137487,das,das4
+gdc,r2mn.0,137428,137566,robert,137502,137564,"daß Liddy allem Anschein nach, einen sehr braven Mann heiratet",das4
+gdc,r2mn.0,137428,137566,robert,137506,137511,Liddy,liddy
+gdc,r2mn.0,137571,137682,fazir,137579,137582,Das,das4
+gdc,r2mn.0,137571,137682,fazir,137590,137594,mich,fazir
+gdc,r2mn.0,137571,137682,fazir,137624,137626,es,das4
+gdc,r2mn.0,137571,137682,fazir,137635,137639,mich,fazir
+gdc,r2mn.0,137571,137682,fazir,137652,137655,ich,fazir
+gdc,r2mn.0,137718,137812,fazir,137731,137737,Robert,robert
+gdc,r2mn.0,137718,137812,fazir,137744,137747,ich,fazir
+gdc,r2mn.0,137718,137812,fazir,137748,137752,dich,robert
+gdc,r2mn.0,137718,137812,fazir,137776,137787,Ehrlichkeit,Ehrlichkeit
+gdc,r2mn.0,137718,137812,fazir,137803,137811,Reichtum,Reichtum
+gdc,r2mn.0,137817,137923,robert,137843,137858,die Ehrlichkeit,Ehrlichkeit
+gdc,r2mn.0,137817,137923,robert,137871,137882,den Knochen,den-Knochen
+gdc,r2mn.0,137817,137923,robert,137884,137887,die,den-Knochen
+gdc,r2mn.0,137817,137923,robert,137888,137900,der Reichtum,Reichtum
+gdc,r2mn.0,137928,138975,fazir,137947,137950,mir,fazir
+gdc,r2mn.0,137928,138975,fazir,137975,137978,ich,fazir
+gdc,r2mn.0,137928,138975,fazir,137982,137988,Liddys,liddy
+gdc,r2mn.0,137928,138975,fazir,138026,138028,du,robert
+gdc,r2mn.0,137928,138975,fazir,138029,138033,dich,robert
+gdc,r2mn.0,137928,138975,fazir,138039,138061,des armen Negersklaven,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138067,138070,wir,robert-und-fazir
+gdc,r2mn.0,137928,138975,fazir,138116,138118,Er,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138154,138157,ihm,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138163,138174,der Schweiß,der-Schweiß
+gdc,r2mn.0,137928,138975,fazir,138220,138223,ihm,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138239,138241,er,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138300,138302,du,robert
+gdc,r2mn.0,137928,138975,fazir,138306,138309,ihm,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138356,138358,er,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138386,138390,sich,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138391,138402,den Schweiß,der-Schweiß
+gdc,r2mn.0,137928,138975,fazir,138454,138457,Wir,robert-und-fazir
+gdc,r2mn.0,137928,138975,fazir,138466,138469,ihn,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138475,138477,er,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138482,138488,seinem,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138551,138553,er,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138595,138606,einen Busch,einen-Busch
+gdc,r2mn.0,137928,138975,fazir,138614,138624,dem Busche,einen-Busch
+gdc,r2mn.0,137928,138975,fazir,138629,138647,ein schwarzes Weib,ein-schwarzes-Weib
+gdc,r2mn.0,137928,138975,fazir,138706,138711,ihrer,ein-schwarzes-Weib
+gdc,r2mn.0,137928,138975,fazir,138727,138742,der Negersklave,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138776,138778,er,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138885,138890,Liddy,liddy
+gdc,r2mn.0,137928,138975,fazir,138904,138909,Fazir,fazir
+gdc,r2mn.0,137928,138975,fazir,138938,138950,jener Sklave,des-armen-Negersklaven
+gdc,r2mn.0,137928,138975,fazir,138972,138974,er,des-armen-Negersklaven
+gdc,r2mn.0,138988,139024,_stage,139006,139014,ums Herz,Roberts-Herz
+gdc,r2mn.0,138980,139093,robert,139039,139042,wir,robert-und-fazir
+gdc,r2mn.0,139098,139185,fazir,139106,139109,Ich,fazir
+gdc,r2mn.0,139098,139185,fazir,139121,139124,Ich,fazir
+gdc,r2mn.0,139098,139185,fazir,139155,139158,Ich,fazir
+gdc,r2mn.0,139098,139185,fazir,139164,139168,mich,fazir
+gdc,r2mn.0,139237,139257,_stage,139237,139242,Gurli,gurli
+gdc,r2mn.0,139260,139414,gurli,139315,139318,ich,gurli
+gdc,r2mn.0,139260,139414,gurli,139320,139323,Sie,gurli
+gdc,r2mn.0,139260,139414,gurli,139333,139338,Fazir,fazir
+gdc,r2mn.0,139260,139414,gurli,139378,139381,ihm,fazir
+gdc,r2mn.0,139427,139547,_stage,139491,139494,sie,gurli
+gdc,r2mn.0,139610,139668,gurli,139627,139640,Bruder Robert,robert
+gdc,r2mn.0,139610,139668,gurli,139649,139651,du,robert
+gdc,r2mn.0,139610,139668,gurli,139655,139660,etwas,fazir
+gdc,r2mn.0,139699,139729,gurli,139714,139716,du,robert
+gdc,r2mn.0,139699,139729,gurli,139717,139719,es,fazir
+gdc,r2mn.0,139734,139779,robert,139756,139759,ich,robert
+gdc,r2mn.0,139784,139820,fazir,139792,139798,Robert,robert
+gdc,r2mn.0,139784,139820,fazir,139807,139809,du,robert
+gdc,r2mn.0,139784,139820,fazir,139810,139819,den Geist,gurli
+gdc,r2mn.0,139825,139872,robert,139834,139837,Ich,robert
+gdc,r2mn.0,139825,139872,robert,139842,139854,einen Narren,fazir
+gdc,r2mn.0,139825,139872,robert,139860,139863,der,fazir
+gdc,r2mn.0,139877,140013,fazir,139885,139898,Lieber Robert,robert
+gdc,r2mn.0,139877,140013,fazir,139900,139913,dieser Körper,dieser-Körper
+gdc,r2mn.0,139877,140013,fazir,139930,139952,meiner Schwester Gurli,gurli
+gdc,r2mn.0,139877,140013,fazir,139930,139936,meiner,fazir
+gdc,r2mn.0,139877,140013,fazir,139959,139962,ihn,dieser-Körper
+gdc,r2mn.0,139877,140013,fazir,139982,139987,ihrem,gurli
+gdc,r2mn.0,140018,140043,robert,140027,140042,Deine Schwester,gurli
+gdc,r2mn.0,140018,140043,robert,140027,140032,Deine,fazir
+gdc,r2mn.0,140048,140150,gurli,140064,140070,Robert,robert
+gdc,r2mn.0,140048,140150,gurli,140113,140124,mein Bruder,fazir
+gdc,r2mn.0,140048,140150,gurli,140113,140117,mein,gurli
+gdc,r2mn.0,140048,140150,gurli,140131,140149,mein lieber Bruder,fazir
+gdc,r2mn.0,140048,140150,gurli,140131,140135,mein,gurli
+gdc,r2mn.0,140155,140395,robert,140164,140167,Ich,robert
+gdc,r2mn.0,140155,140395,robert,140179,140185,Kinder,fazir-und-gurli
+gdc,r2mn.0,140155,140395,robert,140193,140197,eure,fazir-und-gurli
+gdc,r2mn.0,140155,140395,robert,140260,140271,eine Freude,eine-Freude
+gdc,r2mn.0,140155,140395,robert,140275,140278,Ihr,fazir-und-gurli
+gdc,r2mn.0,140155,140395,robert,140300,140306,Kinder,fazir-und-gurli
+gdc,r2mn.0,140155,140395,robert,140308,140311,ich,robert
+gdc,r2mn.0,140155,140395,robert,140317,140321,euch,fazir-und-gurli
+gdc,r2mn.0,140155,140395,robert,140356,140360,euch,fazir-und-gurli
+gdc,r2mn.0,140155,140395,robert,140362,140374,Bruder Fazir,fazir
+gdc,r2mn.0,140155,140395,robert,140379,140394,Schwester Gurli,gurli
+gdc,r2mn.0,140400,140494,fazir,140444,140447,Sie,fazir-und-gurli
+gdc,r2mn.0,140400,140494,fazir,140455,140459,sich,fazir-und-gurli
+gdc,r2mn.0,140400,140494,fazir,140469,140493,mit ausgebreiteten Armen,mit-ausgebreiteten-Armen
+gdc,r2mn.0,140501,140533,,140515,140517,du,gurli
+gdc,r2mn.0,140501,140533,,140527,140532,Gurli,gurli
+gdc,r2mn.0,140538,140598,gurli,140552,140554,du,fazir
+gdc,r2mn.0,140538,140598,gurli,140556,140566,mein Fazir,fazir
+gdc,r2mn.0,140538,140598,gurli,140556,140560,mein,gurli
+gdc,r2mn.0,140570,140598,_stage,140570,140573,Sie,fazir-und-gurli
+gdc,r2mn.0,140570,140598,_stage,140581,140585,sich,fazir-und-gurli
+gdc,r2mn.0,140570,140598,_stage,140589,140597,die Arme,mit-ausgebreiteten-Armen
+gdc,r2mn.0,140603,140645,robert,140637,140639,du,jack
+gdc,r2mn.0,140603,140645,robert,140640,140644,Jack,jack
+gdc,r2mn.0,140656,140694,_stage,140656,140660,sich,jack
+gdc,r2mn.0,140713,140835,robert,140728,140732,Jack,jack
+gdc,r2mn.0,140713,140835,robert,140743,140746,ich,robert
+gdc,r2mn.0,140713,140835,robert,140767,140770,ich,robert
+gdc,r2mn.0,140857,140901,_stage,140870,140889,ausgelassene Freude,eine-Freude
+gdc,r2mn.0,140840,141254,fazir,140904,140906,Er,fazir
+gdc,r2mn.0,140840,141254,fazir,140913,140916,Sie,gurli
+gdc,r2mn.0,140840,141254,fazir,140923,140938,Schwester Gurli,gurli
+gdc,r2mn.0,140840,141254,fazir,140940,140952,Bruder Fazir,fazir
+gdc,r2mn.0,140956,141254,_stage,141016,141084,"Sie hüpfen, tanzen, springen, singen, lachen und weinen wechselweise",dem-wonnevollen-Schauspiel
+gdc,r2mn.0,140956,141254,_stage,141016,141019,Sie,fazir-und-gurli
+gdc,r2mn.0,140956,141254,_stage,141086,141092,Freude,eine-Freude
+gdc,r2mn.0,140956,141254,_stage,141135,141173,die Freude unverdorbener Naturmenschen,eine-Freude
+gdc,r2mn.0,140956,141254,_stage,141175,141181,Robert,robert
+gdc,r2mn.0,140956,141254,_stage,141186,141190,Jack,jack
+gdc,r2mn.0,140956,141254,_stage,141219,141223,sich,jack-und-robert
+gdc,r2mn.0,140956,141254,_stage,141227,141253,dem wonnevollen Schauspiel,dem-wonnevollen-Schauspiel
+gdc,r2mn.0,141309,141333,_stage,141309,141318,Musaffery,muasffery
+gdc,r2mn.0,141336,141390,muasffery,141348,141351,Ich,muasffery
+gdc,r2mn.0,141336,141390,muasffery,141357,141362,deine,gurli
+gdc,r2mn.0,141336,141390,muasffery,141370,141375,Gurli,gurli
+gdc,r2mn.0,141395,141419,fazir,141408,141417,Musaffery,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141436,141441,Fazir,fazir
+gdc,r2mn.0,141424,141861,muasffery,141445,141447,du,fazir
+gdc,r2mn.0,141424,141861,muasffery,141457,141459,Er,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141467,141470,ihn,fazir
+gdc,r2mn.0,141424,141861,muasffery,141487,141492,seine,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141508,141511,mir,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141522,141525,ich,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141529,141533,mein,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141555,141557,er,fazir
+gdc,r2mn.0,141424,141861,muasffery,141576,141579,Wir,Indianer-Familie
+gdc,r2mn.0,141424,141861,muasffery,141606,141609,wir,Indianer-Familie
+gdc,r2mn.0,141424,141861,muasffery,141646,141648,er,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141672,141676,sich,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141706,141712,Brahma,Brahma
+gdc,r2mn.0,141424,141861,muasffery,141725,141731,Brahma,Brahma
+gdc,r2mn.0,141424,141861,muasffery,141751,141760,mein Herr,kaberdar
+gdc,r2mn.0,141424,141861,muasffery,141751,141755,mein,muasffery
+gdc,r2mn.0,141424,141861,muasffery,141771,141779,Kaberdar,kaberdar
+gdc,r2mn.0,141424,141861,muasffery,141783,141786,wir,Indianer-Familie
+gdc,r2mn.0,141424,141861,muasffery,141794,141803,einer Kuh,einer-Kuh
+gdc,r2mn.0,141424,141861,muasffery,141827,141830,wir,Indianer-Familie
+gdc,r2mn.0,141424,141861,muasffery,141838,141841,sie,einer-Kuh
+gdc,r2mn.0,141866,141937,fazir,141874,141882,Kaberdar,kaberdar
+gdc,r2mn.0,141866,141937,fazir,141898,141900,er,muasffery
+gdc,r2mn.0,141866,141937,fazir,141904,141909,Gurli,gurli
+gdc,r2mn.0,141866,141937,fazir,141921,141931,mein Vater,kaberdar
+gdc,r2mn.0,141866,141937,fazir,141921,141925,mein,fazir
+gdc,r2mn.0,141942,142001,gurli,141988,141993,Vater,kaberdar
+gdc,r2mn.0,141942,142001,gurli,141995,142000,Vater,kaberdar
+gdc,r2mn.0,142013,142024,_stage,142019,142023,sich,fazir
+gdc,r2mn.0,142006,142048,fazir,142035,142040,Vater,kaberdar
+gdc,r2mn.0,142006,142048,fazir,142042,142047,Vater,kaberdar
+gdc,r2mn.0,142104,142181,_stage,142104,142118,Mistriss Smith,mistriss_smith
+gdc,r2mn.0,142104,142181,_stage,142121,142129,Kaberdar,kaberdar
+gdc,r2mn.0,142104,142181,_stage,142132,142140,Sir John,sir_john
+gdc,r2mn.0,142104,142181,_stage,142145,142151,Samuel,samuel
+gdc,r2mn.0,142267,142290,_stage,142267,142278,seinen Sohn,fazir
+gdc,r2mn.0,142267,142290,_stage,142267,142273,seinen,kaberdar
+gdc,r2mn.0,142257,142311,kaberdar,142293,142297,Gott,Gott
+gdc,r2mn.0,142257,142311,kaberdar,142307,142310,das,fazir
+gdc,r2mn.0,142323,142344,_stage,142323,142328,seine,fazir
+gdc,r2mn.0,142316,142358,fazir,142347,142357,Mein Vater,kaberdar
+gdc,r2mn.0,142316,142358,fazir,142347,142351,Mein,fazir
+gdc,r2mn.0,142384,142403,_stage,142387,142390,ihn,fazir
+gdc,r2mn.0,142363,142423,gurli,142406,142408,Er,fazir
+gdc,r2mn.0,142363,142423,gurli,142415,142417,Er,fazir
+gdc,r2mn.0,142438,142466,_stage,142438,142449,seinen Sohn,fazir
+gdc,r2mn.0,142438,142466,_stage,142438,142444,seinen,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142469,142471,Du,fazir
+gdc,r2mn.0,142428,142689,kaberdar,142483,142489,Brahma,Brahma
+gdc,r2mn.0,142428,142689,kaberdar,142498,142500,du,Brahma
+gdc,r2mn.0,142428,142689,kaberdar,142501,142504,mir,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142509,142513,mein,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142544,142561,Mein Erstgeborner,fazir
+gdc,r2mn.0,142428,142689,kaberdar,142544,142548,Mein,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142568,142596,ich drücke ihn in meine Arme,ich-drücke-ihn-in-meine-Arme
+gdc,r2mn.0,142428,142689,kaberdar,142568,142571,ich,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142579,142582,ihn,fazir
+gdc,r2mn.0,142428,142689,kaberdar,142586,142591,meine,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142598,142601,ich,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142607,142618,meinen Sohn,fazir
+gdc,r2mn.0,142428,142689,kaberdar,142607,142613,meinen,kaberdar
+gdc,r2mn.0,142428,142689,kaberdar,142671,142688,diesen Augenblick,ich-drücke-ihn-in-meine-Arme
+gdc,r2mn.0,142705,142732,_stage,142705,142709,sich,muasffery
+gdc,r2mn.0,142694,142773,muasffery,142735,142738,Wir,Indianer-Familie
+gdc,r2mn.0,142694,142773,muasffery,142746,142749,dir,Brahma
+gdc,r2mn.0,142694,142773,muasffery,142750,142756,Brahma,Brahma
+gdc,r2mn.0,142694,142773,muasffery,142758,142761,wir,Indianer-Familie
+gdc,r2mn.0,142694,142773,muasffery,142769,142772,dir,Brahma
+gdc,r2mn.0,142778,142861,kaberdar,142829,142832,wir,Indianer-Familie
+gdc,r2mn.0,142778,142861,kaberdar,142840,142843,dir,Brahma
+gdc,r2mn.0,142985,143055,samuel,143007,143010,mir,samuel
+gdc,r2mn.0,142985,143055,samuel,143017,143020,Ich,samuel
+gdc,r2mn.0,143060,143112,robert,143073,143076,dir,samuel
+gdc,r2mn.0,143060,143112,robert,143088,143094,Bruder,samuel
+gdc,r2mn.0,143060,143112,robert,143096,143099,ich,robert
+gdc,r2mn.0,143117,143204,kaberdar,143135,143144,mein Sohn,fazir
+gdc,r2mn.0,143117,143204,kaberdar,143135,143139,mein,kaberdar
+gdc,r2mn.0,143117,143204,kaberdar,143176,143178,du,fazir
+gdc,r2mn.0,143117,143204,kaberdar,143179,143185,unsern,Indianer-Familie
+gdc,r2mn.0,143209,143481,fazir,143217,143220,Ich,fazir
+gdc,r2mn.0,143209,143481,fazir,143285,143291,meinen,fazir
+gdc,r2mn.0,143209,143481,fazir,143302,143305,Ich,fazir
+gdc,r2mn.0,143209,143481,fazir,143325,143328,ich,fazir
+gdc,r2mn.0,143209,143481,fazir,143348,143351,mir,fazir
+gdc,r2mn.0,143209,143481,fazir,143379,143382,ich,fazir
+gdc,r2mn.0,143209,143481,fazir,143432,143435,ich,fazir
+gdc,r2mn.0,143209,143481,fazir,143456,143462,Brahma,Brahma
+gdc,r2mn.0,143209,143481,fazir,143467,143471,mich,fazir
+gdc,r2mn.0,143497,143513,_stage,143503,143507,sich,muasffery
+gdc,r2mn.0,143486,143534,muasffery,143516,143522,Brahma,Brahma
+gdc,r2mn.0,143539,144601,fazir,143562,143568,meiner,fazir
+gdc,r2mn.0,143539,144601,fazir,143581,143587,Hunger,Hunger
+gdc,r2mn.0,143539,144601,fazir,143602,143606,mich,fazir
+gdc,r2mn.0,143539,144601,fazir,143635,143638,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,143688,143694,meinen,fazir
+gdc,r2mn.0,143539,144601,fazir,143725,143743,Ein fremdes Schiff,Ein-fremdes-Schiff
+gdc,r2mn.0,143539,144601,fazir,143819,143822,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,143828,143831,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,143866,143879,dieses Schiff,Ein-fremdes-Schiff
+gdc,r2mn.0,143539,144601,fazir,143886,143890,mich,fazir
+gdc,r2mn.0,143539,144601,fazir,143943,143946,Ich,fazir
+gdc,r2mn.0,143539,144601,fazir,143963,143976,meinen Turban,meinen-Turban
+gdc,r2mn.0,143539,144601,fazir,143963,143969,meinen,fazir
+gdc,r2mn.0,143539,144601,fazir,143990,143993,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,143999,144011,den Musselin,meinen-Turban
+gdc,r2mn.0,143539,144601,fazir,144065,144068,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,144091,144101,das Schiff,Ein-fremdes-Schiff
+gdc,r2mn.0,143539,144601,fazir,144141,144144,Ich,fazir
+gdc,r2mn.0,143539,144601,fazir,144173,144183,der Hunger,Hunger
+gdc,r2mn.0,143539,144601,fazir,144190,144194,mich,fazir
+gdc,r2mn.0,143539,144601,fazir,144199,144252,"dem ungebahnten Pfade, den ich bisher gewandelt hatte","dem-ungebahnten-Pfade,-den-ich-bisher-gewandelt-hatte"
+gdc,r2mn.0,143539,144601,fazir,144222,144225,den,"dem-ungebahnten-Pfade,-den-ich-bisher-gewandelt-hatte"
+gdc,r2mn.0,143539,144601,fazir,144226,144229,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,144266,144276,den Strand,den-Strand
+gdc,r2mn.0,143539,144601,fazir,144278,144280,Da,den-Strand
+gdc,r2mn.0,143539,144601,fazir,144287,144290,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,144322,144325,man,man
+gdc,r2mn.0,143539,144601,fazir,144326,144330,mich,fazir
+gdc,r2mn.0,143539,144601,fazir,144394,144397,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,144486,144503,dieser brave Mann,robert
+gdc,r2mn.0,143539,144601,fazir,144509,144515,Robert,robert
+gdc,r2mn.0,143539,144601,fazir,144525,144600,"dem dank' ich meine Rettung und mein Leben, und meinen bisherigen Unterhalt",eine-solche-Wohltat
+gdc,r2mn.0,143539,144601,fazir,144525,144528,dem,robert
+gdc,r2mn.0,143539,144601,fazir,144535,144538,ich,fazir
+gdc,r2mn.0,143539,144601,fazir,144539,144544,meine,fazir
+gdc,r2mn.0,143539,144601,fazir,144557,144567,mein Leben,Fazirs-Leben
+gdc,r2mn.0,143539,144601,fazir,144557,144561,mein,fazir
+gdc,r2mn.0,143539,144601,fazir,144573,144579,meinen,fazir
+gdc,r2mn.0,144617,144635,_stage,144617,144621,sich,muasffery
+gdc,r2mn.0,144606,144656,muasffery,144638,144644,Brahma,Brahma
+gdc,r2mn.0,144668,144708,_stage,144672,144678,Robert,robert
+gdc,r2mn.0,144668,144708,_stage,144694,144697,ihn,robert
+gdc,r2mn.0,144661,144729,gurli,144713,144728,du guter Mensch,robert
+gdc,r2mn.0,144765,144792,_stage,144765,144771,Robert,robert
+gdc,r2mn.0,144755,144923,kaberdar,144795,144798,Sir,robert
+gdc,r2mn.0,144755,144923,kaberdar,144810,144813,Sie,robert
+gdc,r2mn.0,144755,144923,kaberdar,144844,144847,Sie,robert
+gdc,r2mn.0,144755,144923,kaberdar,144864,144883,eine solche Wohltat,eine-solche-Wohltat
+gdc,r2mn.0,144755,144923,kaberdar,144885,144906,der Dank eines Vaters,der-Dank-eines-Vaters
+gdc,r2mn.0,144928,145133,robert,144941,144945,Gott,Gott
+gdc,r2mn.0,144928,145133,robert,144947,144950,Sir,kaberdar
+gdc,r2mn.0,144928,145133,robert,144951,144954,ich,robert
+gdc,r2mn.0,144928,145133,robert,144962,144966,mich,robert
+gdc,r2mn.0,144928,145133,robert,144972,144975,ich,robert
+gdc,r2mn.0,144928,145133,robert,144976,144995,den jungen Menschen,fazir
+gdc,r2mn.0,144928,145133,robert,145008,145049,dacht ich weder an Dank noch an Belohnung,dacht-ich-weder-an-Dank-noch-an-Belohnung
+gdc,r2mn.0,144928,145133,robert,145014,145017,ich,robert
+gdc,r2mn.0,144928,145133,robert,145027,145031,Dank,der-Dank-eines-Vaters
+gdc,r2mn.0,144928,145133,robert,145051,145054,Ich,robert
+gdc,r2mn.0,144928,145133,robert,145062,145075,meinem Herzen,Roberts-Herz
+gdc,r2mn.0,144928,145133,robert,145062,145068,meinem,robert
+gdc,r2mn.0,144928,145133,robert,145091,145094,ich,robert
+gdc,r2mn.0,144928,145133,robert,145100,145103,mir,robert
+gdc,r2mn.0,145138,145190,sir_john,145156,145160,mich,sir_john
+gdc,r2mn.0,145138,145190,sir_john,145161,145170,mein Sohn,robert
+gdc,r2mn.0,145138,145190,sir_john,145161,145165,mein,sir_john
+gdc,r2mn.0,145138,145190,sir_john,145174,145178,Gott,Gott
+gdc,r2mn.0,145138,145190,sir_john,145185,145189,dich,robert
+gdc,r2mn.0,145211,145241,_stage,145211,145214,ihm,robert
+gdc,r2mn.0,145195,145305,mistriss_smith,145244,145252,Mon fils,robert
+gdc,r2mn.0,145195,145305,mistriss_smith,145254,145277,deine noble Denkungsart,dacht-ich-weder-an-Dank-noch-an-Belohnung
+gdc,r2mn.0,145195,145305,mistriss_smith,145254,145259,deine,robert
+gdc,r2mn.0,145195,145305,mistriss_smith,145283,145287,mich,mistriss_smith
+gdc,r2mn.0,145310,145685,robert,145319,145331,Liebe Mutter,mistriss_smith
+gdc,r2mn.0,145310,145685,robert,145333,145350,meine Denkungsart,dacht-ich-weder-an-Dank-noch-an-Belohnung
+gdc,r2mn.0,145310,145685,robert,145333,145338,meine,robert
+gdc,r2mn.0,145310,145685,robert,145393,145396,ich,robert
+gdc,r2mn.0,145310,145685,robert,145484,145488,sich,gurli-und-kaberdar
+gdc,r2mn.0,145310,145685,robert,145494,145523,drei unglückliche Flüchtlinge,gurli-und-kaberdar
+gdc,r2mn.0,145310,145685,robert,145528,145538,das Schiff,Ein-fremdes-Schiff
+gdc,r2mn.0,145310,145685,robert,145563,145566,mir,robert
+gdc,r2mn.0,145310,145685,robert,145590,145596,meiner,robert
+gdc,r2mn.0,145310,145685,robert,145610,145613,ich,robert
+gdc,r2mn.0,145310,145685,robert,145622,145626,mich,robert
+gdc,r2mn.0,145310,145685,robert,145643,145646,sie,gurli-und-kaberdar
+gdc,r2mn.0,145310,145685,robert,145650,145670,meines Nachbars Bord,Ein-fremdes-Schiff
+gdc,r2mn.0,145310,145685,robert,145650,145665,meines Nachbars,meines-Nachbars
+gdc,r2mn.0,145310,145685,robert,145650,145656,meines,robert
+gdc,r2mn.0,145690,145841,kaberdar,145701,145723,Diese drei Flüchtlinge,gurli-und-kaberdar
+gdc,r2mn.0,145690,145841,kaberdar,145735,145751,Jener brave Mann,meines-Nachbars
+gdc,r2mn.0,145690,145841,kaberdar,145761,145786,"Vater, Tochter und Freund",gurli-und-kaberdar
+gdc,r2mn.0,145690,145841,kaberdar,145788,145805,dieser brave Mann,robert
+gdc,r2mn.0,145690,145841,kaberdar,145813,145816,mir,kaberdar
+gdc,r2mn.0,145690,145841,kaberdar,145822,145833,meinen Sohn,fazir
+gdc,r2mn.0,145690,145841,kaberdar,145822,145828,meinen,kaberdar
+gdc,r2mn.0,145846,145914,gurli,145865,145870,Vater,kaberdar
+gdc,r2mn.0,145846,145914,gurli,145872,145913,Gurli darf diesen guten Menschen heiraten,s2
+gdc,r2mn.0,145846,145914,gurli,145872,145877,Gurli,gurli
+gdc,r2mn.0,145846,145914,gurli,145883,145904,diesen guten Menschen,robert
+gdc,r2mn.0,145919,145967,kaberdar,145935,145937,er,robert
+gdc,r2mn.0,145919,145967,kaberdar,145938,145942,dich,gurli
+gdc,r2mn.0,145972,146037,gurli,145985,145987,er,robert
+gdc,r2mn.0,145972,146037,gurli,145988,145992,mich,gurli
+gdc,r2mn.0,145972,146037,gurli,146004,146006,er,robert
+gdc,r2mn.0,145972,146037,gurli,146024,146036,guter Robert,robert
+gdc,r2mn.0,146050,146060,_stage,146053,146059,Samuel,samuel
+gdc,r2mn.0,146042,146188,robert,146063,146069,Bruder,samuel
+gdc,r2mn.0,146042,146188,robert,146070,146072,du,samuel
+gdc,r2mn.0,146042,146188,robert,146079,146083,mirs,s2
+gdc,r2mn.0,146042,146188,robert,146102,146107,meine,robert
+gdc,r2mn.0,146042,146188,robert,146135,146138,dir,samuel
+gdc,r2mn.0,146042,146188,robert,146162,146166,dich,samuel
+gdc,r2mn.0,146042,146188,robert,146173,146176,sie,gurli
+gdc,r2mn.0,146193,146277,gurli,146222,146239,närrischer Samuel,samuel
+gdc,r2mn.0,146193,146277,gurli,146241,146245,dich,samuel
+gdc,r2mn.0,146193,146277,gurli,146251,146256,Gurli,gurli
+gdc,r2mn.0,146283,146438,samuel,146336,146352,Sir Samuel Smith,samuel
+gdc,r2mn.0,146283,146438,samuel,146372,146392,Antwort: sich hängen,Samuels-Schicksal
+gdc,r2mn.0,146283,146438,samuel,146381,146385,sich,samuel
+gdc,r2mn.0,146444,147121,kaberdar,146455,146460,Alles,Alles
+gdc,r2mn.0,146444,147121,kaberdar,146471,146475,sich,Alles
+gdc,r2mn.0,146444,147121,kaberdar,146477,146480,mir,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146498,146501,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146521,146531,der Zufall,der-Zufall
+gdc,r2mn.0,146444,147121,kaberdar,146532,146542,ein Diadem,ein-Diadem
+gdc,r2mn.0,146444,147121,kaberdar,146546,146551,meine,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146573,146576,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146596,146606,der Zufall,der-Zufall
+gdc,r2mn.0,146444,147121,kaberdar,146607,146609,es,ein-Diadem
+gdc,r2mn.0,146444,147121,kaberdar,146630,146641,Gute Kinder,fazir-und-gurli
+gdc,r2mn.0,146444,147121,kaberdar,146643,146659,geprüfte Freunde,muasffery
+gdc,r2mn.0,146444,147121,kaberdar,146672,146678,meinem,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146687,146702,ein braves Weib,ein-braves-Weib
+gdc,r2mn.0,146444,147121,kaberdar,146713,146716,das,ein-braves-Weib
+gdc,r2mn.0,146444,147121,kaberdar,146722,146725,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146736,146742,Madame,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146748,146752,Ihre,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146774,146777,mir,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146784,146787,Ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146794,146812,Ihre Tochter Liddy,liddy
+gdc,r2mn.0,146444,147121,kaberdar,146794,146798,Ihre,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146825,146828,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146829,146881,Ihre Grundsätze und Ihre Ehrfurcht für alte Familien,Ihre-Grundsätze-und-Ihre-Ehrfurcht-für-alte-Familien
+gdc,r2mn.0,146444,147121,kaberdar,146829,146833,Ihre,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146849,146853,Ihre,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146888,146891,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146904,146921,Ihren Forderungen,Ihre-Grundsätze-und-Ihre-Ehrfurcht-für-alte-Familien
+gdc,r2mn.0,146444,147121,kaberdar,146904,146909,Ihren,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146950,146953,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146954,146959,Ihnen,mistriss_smith
+gdc,r2mn.0,146444,147121,kaberdar,146976,146979,ich,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,146992,147008,Fürst von Mysore,kaberdar
+gdc,r2mn.0,146444,147121,kaberdar,147022,147027,meine,kaberdar
+gdc,r2mn.0,147126,147266,mistriss_smith,147143,147146,Ich,mistriss_smith
+gdc,r2mn.0,147126,147266,mistriss_smith,147180,147183,ich,mistriss_smith
+gdc,r2mn.0,147126,147266,mistriss_smith,147214,147217,Sie,kaberdar
+gdc,r2mn.0,147126,147266,mistriss_smith,147221,147235,unsere Familie,Familie
+gdc,r2mn.0,147126,147266,mistriss_smith,147221,147227,unsere,Familie
+gdc,r2mn.0,147271,147289,fazir,147283,147288,Vater,kaberdar
+gdc,r2mn.0,147314,147339,fazir,147326,147338,lieber Vater,kaberdar
+gdc,r2mn.0,147344,147381,kaberdar,147366,147368,du,fazir
+gdc,r2mn.0,147344,147381,kaberdar,147369,147380,lieber Sohn,fazir
+gdc,r2mn.0,147386,147455,fazir,147394,147396,Du,kaberdar
+gdc,r2mn.0,147386,147455,fazir,147402,147405,mir,fazir
+gdc,r2mn.0,147386,147455,fazir,147406,147415,das Leben,Fazirs-Leben
+gdc,r2mn.0,147386,147455,fazir,147439,147440,s,Fazirs-Leben
+gdc,r2mn.0,147460,147494,kaberdar,147471,147474,Ich,kaberdar
+gdc,r2mn.0,147460,147494,kaberdar,147483,147487,dich,fazir
+gdc,r2mn.0,147499,147531,fazir,147507,147510,Ich,fazir
+gdc,r2mn.0,147499,147531,fazir,147517,147522,Liddy,liddy
+gdc,r2mn.0,147536,147565,kaberdar,147553,147562,und Liddy,und-Liddy
+gdc,r2mn.0,147536,147565,kaberdar,147557,147562,Liddy,liddy
+gdc,r2mn.0,147570,147613,fazir,147578,147581,Ich,fazir
+gdc,r2mn.0,147618,148017,kaberdar,147635,147647,lieber Junge,fazir
+gdc,r2mn.0,147618,148017,kaberdar,147649,147652,das,und-Liddy
+gdc,r2mn.0,147618,148017,kaberdar,147664,147669,Liddy,liddy
+gdc,r2mn.0,147618,148017,kaberdar,147695,147697,du,fazir
+gdc,r2mn.0,147618,148017,kaberdar,147753,147759,deiner,fazir
+gdc,r2mn.0,147618,148017,kaberdar,147767,147770,Ich,kaberdar
+gdc,r2mn.0,147618,148017,kaberdar,147786,147791,meine,kaberdar
+gdc,r2mn.0,147618,148017,kaberdar,147841,147844,ich,kaberdar
+gdc,r2mn.0,147618,148017,kaberdar,147845,147850,Liddy,liddy
+gdc,r2mn.0,147618,148017,kaberdar,147878,147883,ihren,liddy
+gdc,r2mn.0,147618,148017,kaberdar,147916,147919,wir,kaberdar-und-fazir
+gdc,r2mn.0,147618,148017,kaberdar,147927,147930,sie,liddy
+gdc,r2mn.0,147618,148017,kaberdar,147946,147954,ihr Herz,liddys-Herz
+gdc,r2mn.0,147618,148017,kaberdar,147946,147949,ihr,liddy
+gdc,r2mn.0,147618,148017,kaberdar,147958,147964,deinem,fazir
+gdc,r2mn.0,147618,148017,kaberdar,147983,147986,ich,kaberdar
+gdc,r2mn.0,147618,148017,kaberdar,147987,147991,mich,kaberdar
+gdc,r2mn.0,147618,148017,kaberdar,148002,148006,mein,kaberdar
+gdc,r2mn.0,148022,148146,robert,148042,148046,Jack,jack
+gdc,r2mn.0,148022,148146,robert,148079,148085,Liddys,liddy
+gdc,r2mn.0,148022,148146,robert,148094,148097,Wir,jack-und-robert
+gdc,r2mn.0,148022,148146,robert,148105,148108,sie,liddy
+gdc,r2mn.0,148022,148146,robert,148116,148121,ihren,liddy
+gdc,r2mn.0,148179,148253,gurli,148187,148192,Vater,kaberdar
+gdc,r2mn.0,148179,148253,gurli,148193,148196,ich,gurli
+gdc,r2mn.0,148179,148253,gurli,148202,148205,dir,kaberdar
+gdc,r2mn.0,148179,148253,gurli,148221,148232,euch beiden,kaberdar-und-fazir
+gdc,r2mn.0,148179,148253,gurli,148233,148238,Liddy,liddy
+gdc,r2mn.0,148279,148307,gurli,148287,148306,Meinen Bruder Fazir,fazir
+gdc,r2mn.0,148279,148307,gurli,148287,148293,Meinen,gurli
+gdc,r2mn.0,148312,148342,kaberdar,148335,148337,du,gurli
+gdc,r2mn.0,148347,148378,gurli,148355,148377,Er ist hübscher als du,diesen-Punkt
+gdc,r2mn.0,148347,148378,gurli,148355,148357,Er,fazir
+gdc,r2mn.0,148347,148378,gurli,148375,148377,du,kaberdar
+gdc,r2mn.0,148383,148446,kaberdar,148398,148412,liebes Mädchen,gurli
+gdc,r2mn.0,148383,148446,kaberdar,148414,148419,Liddy,kaberdar
+gdc,r2mn.0,148383,148446,kaberdar,148443,148445,du,gurli
+gdc,r2mn.0,148451,148538,robert,148460,148463,Ich,robert
+gdc,r2mn.0,148451,148538,robert,148477,148489,diesen Punkt,diesen-Punkt
+gdc,r2mn.0,148543,148636,sir_john,148584,148587,ich,sir_john
+gdc,r2mn.0,148543,148636,sir_john,148602,148608,meinem,sir_john
+gdc,r2mn.0,148641,148830,mistriss_smith,148664,148672,mon cher,sir_john
+gdc,r2mn.0,148641,148830,mistriss_smith,148691,148695,mich,mistriss_smith
+gdc,r2mn.0,148641,148830,mistriss_smith,148738,148741,ich,mistriss_smith
+gdc,r2mn.0,148641,148830,mistriss_smith,148751,148757,meinen,mistriss_smith
+gdc,r2mn.0,148641,148830,mistriss_smith,148788,148805,Samuels Schicksal,Samuels-Schicksal
+gdc,r2mn.0,148641,148830,mistriss_smith,148788,148795,Samuels,samuel
+gdc,r2mn.0,148641,148830,mistriss_smith,148811,148814,mir,mistriss_smith
+gdc,r2mn.0,148835,148940,gurli,148843,148868,Der arme närrische Samuel,samuel
+gdc,r2mn.0,148835,148940,gurli,148870,148872,er,samuel
+gdc,r2mn.0,148835,148940,gurli,148880,148884,mich,gurli
+gdc,r2mn.0,148835,148940,gurli,148902,148904,du,robert
+gdc,r2mn.0,148835,148940,gurli,148905,148911,Robert,robert
+gdc,r2mn.0,148835,148940,gurli,148913,148916,ich,gurli
+gdc,r2mn.0,148835,148940,gurli,148922,148925,ihn,samuel
+gdc,r2mn.0,148945,149011,robert,148954,148977,Zween Männer auf einmal,Zween-Männer-auf-einmal
+gdc,r2mn.0,148945,149011,robert,148984,148989,Gurli,gurli
+gdc,r2mn.0,148945,149011,robert,148990,148993,das,Zween-Männer-auf-einmal
+gdc,r2mn.0,148945,149011,robert,149003,149006,ich,robert
+gdc,r2mn.0,148945,149011,robert,149007,149010,mir,robert
+gdc,r2mn.0,149016,149074,gurli,149032,149034,du,robert
+gdc,r2mn.0,149016,149074,gurli,149043,149048,Gurli,gurli
+gdc,r2mn.0,149016,149074,gurli,149055,149059,sich,gurli
+gdc,r2mn.0,149129,149151,_stage,149129,149134,Liddy,liddy
+gdc,r2mn.0,149129,149151,_stage,149137,149141,Jack,jack
+gdc,r2mn.0,149154,149220,robert,149169,149182,Schwesterchen,liddy
+gdc,r2mn.0,149154,149220,robert,149184,149187,ich,robert
+gdc,r2mn.0,149154,149220,robert,149195,149198,dir,liddy
+gdc,r2mn.0,149154,149220,robert,149206,149208,du,liddy
+gdc,r2mn.0,149154,149220,robert,149214,149219,Braut,Braut
+gdc,r2mn.0,149225,149269,liddy,149255,149258,ich,liddy
+gdc,r2mn.0,149225,149269,liddy,149263,149268,Braut,Braut
+gdc,r2mn.0,149274,149320,robert,149288,149296,mit wem?,mit-wem?
+gdc,r2mn.0,149274,149320,robert,149297,149300,Das,mit-wem?
+gdc,r2mn.0,149325,149386,liddy,149333,149341,Mit wem?,mit-wem?
+gdc,r2mn.0,149325,149386,liddy,149346,149358,diesem Manne,kaberdar
+gdc,r2mn.0,149325,149386,liddy,149369,149377,Kaberdar,kaberdar
+gdc,r2mn.0,149433,149523,kaberdar,149449,149452,ich,kaberdar
+gdc,r2mn.0,149433,149523,kaberdar,149462,149465,Sie,liddy
+gdc,r2mn.0,149433,149523,kaberdar,149466,149484,Ihres Versprechens,mein-Wort
+gdc,r2mn.0,149433,149523,kaberdar,149466,149471,Ihres,liddy
+gdc,r2mn.0,149433,149523,kaberdar,149486,149491,Vater,kaberdar
+gdc,r2mn.0,149433,149523,kaberdar,149496,149500,Sohn,fazir
+gdc,r2mn.0,149433,149523,kaberdar,149517,149522,Ihnen,liddy
+gdc,r2mn.0,149528,149562,liddy,149547,149552,Vater,kaberdar
+gdc,r2mn.0,149528,149562,liddy,149557,149561,Sohn,fazir
+gdc,r2mn.0,149567,149663,kaberdar,149582,149601,dieser Jüngling ist,fazir
+gdc,r2mn.0,149567,149663,kaberdar,149602,149606,mein,kaberdar
+gdc,r2mn.0,149567,149663,kaberdar,149613,149615,Er,fazir
+gdc,r2mn.0,149567,149663,kaberdar,149622,149625,Sie,liddy
+gdc,r2mn.0,149567,149663,kaberdar,149627,149630,Ich,kaberdar
+gdc,r2mn.0,149567,149663,kaberdar,149637,149640,Sie,liddy
+gdc,r2mn.0,149567,149663,kaberdar,149654,149657,Sie,liddy
+gdc,r2mn.0,149675,149684,_stage,149678,149683,Liddy,liddy
+gdc,r2mn.0,149668,149732,gurli,149692,149700,den Sohn,fazir
+gdc,r2mn.0,149668,149732,gurli,149702,149704,er,fazir
+gdc,r2mn.0,149668,149732,gurli,149722,149731,der Vater,kaberdar
+gdc,r2mn.0,149737,149779,kaberdar,149748,149756,Ihr Herz,liddys-Herz
+gdc,r2mn.0,149737,149779,kaberdar,149748,149751,Ihr,liddy
+gdc,r2mn.0,149784,149827,liddy,149808,149817,Mein Herz,liddys-Herz
+gdc,r2mn.0,149784,149827,liddy,149808,149812,Mein,liddy
+gdc,r2mn.0,149832,149883,fazir,149871,149880,Liebe Miß,fazir
+gdc,r2mn.0,149888,149926,robert,149901,149914,Schwesterchen,liddy
+gdc,r2mn.0,149932,149991,liddy,149949,149952,ich,liddy
+gdc,r2mn.0,149932,149991,liddy,149955,149958,ich,liddy
+gdc,r2mn.0,149932,149991,liddy,149973,149982,mein Wort,mein-Wort
+gdc,r2mn.0,149932,149991,liddy,149973,149977,mein,liddy
+gdc,r2mn.0,149996,150157,kaberdar,150012,150015,Sie,liddy
+gdc,r2mn.0,149996,150157,kaberdar,150021,150029,Ihr Wort,mein-Wort
+gdc,r2mn.0,149996,150157,kaberdar,150021,150024,Ihr,liddy
+gdc,r2mn.0,149996,150157,kaberdar,150063,150066,Sie,liddy
+gdc,r2mn.0,149996,150157,kaberdar,150070,150075,Liddy,liddy
+gdc,r2mn.0,149996,150157,kaberdar,150086,150089,Ich,kaberdar
+gdc,r2mn.0,149996,150157,kaberdar,150100,150102,Er,kaberdar
+gdc,r2mn.0,149996,150157,kaberdar,150108,150112,ihre,liddy
+gdc,r2mn.0,149996,150157,kaberdar,150121,150127,Fazirs,fazir
+gdc,r2mn.0,149996,150157,kaberdar,150134,150138,Gott,Gott
+gdc,r2mn.0,150169,150184,_stage,150169,150174,Liddy,liddy
+gdc,r2mn.0,150162,150201,fazir,150191,150200,liebe Miß,liddy
+gdc,r2mn.0,150217,150233,_stage,150223,150227,sich,muasffery
+gdc,r2mn.0,150206,150254,muasffery,150236,150242,Brahma,Brahma
+gdc,r2mn.0,150269,150306,_stage,150276,150280,sich,kaberdar
+gdc,r2mn.0,150386,150418,robert,150399,150403,Jack,jack
+gdc,r2mn.0,150386,150418,robert,150415,150417,du,jack
+gdc,r2mn.0,150423,150603,jack,150430,150433,Ich,jack
+gdc,r2mn.0,150423,150603,jack,150445,150448,ich,jack
+gdc,r2mn.0,150423,150603,jack,150449,150453,mein,jack
+gdc,r2mn.0,150423,150603,jack,150592,150595,mir,jack
+gdc,r2mn.0,150608,150795,robert,150617,150619,Du,jack
+gdc,r2mn.0,150608,150795,robert,150631,150634,mir,robert
+gdc,r2mn.0,150608,150795,robert,150656,150659,ich,robert
+gdc,r2mn.0,150608,150795,robert,150699,150702,dir,jack
+gdc,r2mn.0,150608,150795,robert,150717,150722,deine,jack
+gdc,r2mn.0,150800,150910,jack,150807,150810,Ich,jack
+gdc,r2mn.0,150800,150910,jack,150817,150821,Euch,robert
+gdc,r2mn.0,150800,150910,jack,150822,150825,Sir,robert
+gdc,r2mn.0,150800,150910,jack,150827,150830,ich,jack
+gdc,r2mn.0,150800,150910,jack,150836,150840,Euch,robert
+gdc,r2mn.0,150800,150910,jack,150846,150849,ich,jack

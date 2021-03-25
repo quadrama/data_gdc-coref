@@ -1,0 +1,1536 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,tz6r.0,1155,1386,isolani,1355,1358,mir,isolani
+gdc,tz6r.0,1475,1520,buttler,1511,1514,ich,buttler
+gdc,tz6r.0,1525,1741,isolani,1631,1634,ich,isolani
+gdc,tz6r.0,2108,2495,isolani,2165,2169,mich,isolani
+gdc,tz6r.0,2108,2495,isolani,2179,2182,Ich,isolani
+gdc,tz6r.0,2108,2495,isolani,2458,2461,ich,isolani
+gdc,tz6r.0,2740,2931,isolani,2774,2777,ich,isolani
+gdc,tz6r.0,3067,3131,buttler,3103,3107,mich,buttler
+gdc,tz6r.0,3218,3298,buttler,3258,3261,mir,buttler
+gdc,tz6r.0,3304,3343,illo,3328,3331,Ich,illo
+gdc,tz6r.0,3348,3614,isolani,3442,3445,ich,isolani
+gdc,tz6r.0,3620,3735,buttler,3630,3633,Ich,buttler
+gdc,tz6r.0,3620,3735,buttler,3652,3655,ich,buttler
+gdc,tz6r.0,4019,4324,isolani,4090,4095,meine,isolani
+gdc,tz6r.0,4019,4324,isolani,4134,4138,mein,isolani
+gdc,tz6r.0,4019,4324,isolani,4192,4196,mich,isolani
+gdc,tz6r.0,4019,4324,isolani,4254,4258,mich,isolani
+gdc,tz6r.0,4597,4738,buttler,4607,4610,Ich,buttler
+gdc,tz6r.0,4597,4738,buttler,4616,4619,mir,buttler
+gdc,tz6r.0,4597,4738,buttler,4685,4688,ich,buttler
+gdc,tz6r.0,4820,4875,buttler,4870,4874,mich,buttler
+gdc,tz6r.0,4927,5016,illo,4946,4949,Ich,illo
+gdc,tz6r.0,5022,5116,buttler,5063,5066,Ich,buttler
+gdc,tz6r.0,5390,5657,questenberg,5507,5510,ich,questenberg
+gdc,tz6r.0,5390,5657,questenberg,5529,5532,mir,questenberg
+gdc,tz6r.0,5390,5657,questenberg,5627,5630,mir,questenberg
+gdc,tz6r.0,6354,6411,questenberg,6384,6387,ich,questenberg
+gdc,tz6r.0,6354,6411,questenberg,6388,6392,mich,questenberg
+gdc,tz6r.0,6584,6688,questenberg,6643,6647,Mein,questenberg
+gdc,tz6r.0,6584,6688,questenberg,6661,6664,ich,questenberg
+gdc,tz6r.0,6584,6688,questenberg,6677,6681,mein,questenberg
+gdc,tz6r.0,6694,7097,illo,6739,6742,Ich,illo
+gdc,tz6r.0,7257,7450,questenberg,7281,7284,ich,questenberg
+gdc,tz6r.0,8473,8626,isolani,8512,8515,Ich,isolani
+gdc,tz6r.0,9395,9995,isolani,9405,9409,Mein,isolani
+gdc,tz6r.0,9395,9995,isolani,9422,9425,ich,isolani
+gdc,tz6r.0,9395,9995,isolani,9436,9439,ich,isolani
+gdc,tz6r.0,9395,9995,isolani,9567,9571,mich,isolani
+gdc,tz6r.0,9395,9995,isolani,9589,9593,mich,isolani
+gdc,tz6r.0,9395,9995,isolani,9652,9655,ich,isolani
+gdc,tz6r.0,9395,9995,isolani,9715,9718,mir,isolani
+gdc,tz6r.0,9395,9995,isolani,9737,9740,Ich,isolani
+gdc,tz6r.0,9395,9995,isolani,9758,9764,meiner,isolani
+gdc,tz6r.0,9395,9995,isolani,9860,9863,Ich,isolani
+gdc,tz6r.0,9395,9995,isolani,9933,9936,mir,isolani
+gdc,tz6r.0,9395,9995,isolani,9957,9960,ich,isolani
+gdc,tz6r.0,10002,10104,questenberg,10063,10066,Ich,questenberg
+gdc,tz6r.0,10943,11014,questenberg,11010,11013,ich,questenberg
+gdc,tz6r.0,11442,11495,illo,11458,11461,ich,illo
+gdc,tz6r.0,11564,12995,buttler,12389,12393,mich,buttler
+gdc,tz6r.0,14384,14492,octavio,14421,14425,mein,octavio
+gdc,tz6r.0,14780,14947,questenberg,14829,14832,ich,questenberg
+gdc,tz6r.0,15004,15223,questenberg,15113,15116,ich,questenberg
+gdc,tz6r.0,15229,15379,octavio,15312,15315,ich,octavio
+gdc,tz6r.0,15229,15379,octavio,15332,15335,ich,octavio
+gdc,tz6r.0,15385,15856,questenberg,15782,15785,ich,questenberg
+gdc,tz6r.0,15385,15856,questenberg,15834,15839,meine,questenberg
+gdc,tz6r.0,15862,16135,octavio,15943,15946,mir,octavio
+gdc,tz6r.0,15862,16135,octavio,15991,15994,ich,octavio
+gdc,tz6r.0,15862,16135,octavio,16064,16067,mir,octavio
+gdc,tz6r.0,16141,16563,questenberg,16421,16424,ich,questenberg
+gdc,tz6r.0,17376,17993,octavio,17419,17423,mein,octavio
+gdc,tz6r.0,17376,17993,octavio,17849,17852,ich,octavio
+gdc,tz6r.0,17376,17993,octavio,17863,17869,meinen,octavio
+gdc,tz6r.0,17376,17993,octavio,17929,17932,ich,octavio
+gdc,tz6r.0,17376,17993,octavio,17962,17965,mir,octavio
+gdc,tz6r.0,18090,18433,octavio,18128,18131,ich,octavio
+gdc,tz6r.0,18090,18433,octavio,18194,18198,mich,octavio
+gdc,tz6r.0,18090,18433,octavio,18258,18261,mir,octavio
+gdc,tz6r.0,18090,18433,octavio,18304,18307,ich,octavio
+gdc,tz6r.0,18090,18433,octavio,18349,18352,ich,octavio
+gdc,tz6r.0,18090,18433,octavio,18353,18357,mein,octavio
+gdc,tz6r.0,18090,18433,octavio,18406,18409,ich,octavio
+gdc,tz6r.0,18497,19284,octavio,18507,18510,Ich,octavio
+gdc,tz6r.0,18497,19284,octavio,18547,18551,mich,octavio
+gdc,tz6r.0,18497,19284,octavio,18557,18563,meinen,octavio
+gdc,tz6r.0,18497,19284,octavio,18710,18713,ich,octavio
+gdc,tz6r.0,18497,19284,octavio,18766,18769,mir,octavio
+gdc,tz6r.0,18497,19284,octavio,18848,18852,Mich,octavio
+gdc,tz6r.0,18497,19284,octavio,18984,18987,ich,octavio
+gdc,tz6r.0,18497,19284,octavio,19011,19014,ich,octavio
+gdc,tz6r.0,18497,19284,octavio,19030,19034,mein,octavio
+gdc,tz6r.0,18497,19284,octavio,19066,19070,mich,octavio
+gdc,tz6r.0,18497,19284,octavio,19105,19108,Mir,octavio
+gdc,tz6r.0,18497,19284,octavio,19221,19225,mich,octavio
+gdc,tz6r.0,18497,19284,octavio,19271,19276,meine,octavio
+gdc,tz6r.0,19471,19652,octavio,19481,19484,Ich,octavio
+gdc,tz6r.0,19658,19785,questenberg,19683,19687,Mein,questenberg
+gdc,tz6r.0,19658,19785,questenberg,19704,19707,Ich,questenberg
+gdc,tz6r.0,19791,19845,octavio,19800,19803,Ich,octavio
+gdc,tz6r.0,19922,20108,max,20077,20080,ich,max
+gdc,tz6r.0,19922,20108,max,20086,20089,Ich,max
+gdc,tz6r.0,20354,20751,questenberg,20441,20444,Ich,questenberg
+gdc,tz6r.0,20354,20751,questenberg,20509,20512,ich,questenberg
+gdc,tz6r.0,20757,20944,max,20839,20842,ich,max
+gdc,tz6r.0,20757,20944,max,20900,20903,Ich,max
+gdc,tz6r.0,23658,24372,octavio,23668,23672,Mein,octavio
+gdc,tz6r.0,23658,24372,octavio,24119,24123,Mein,octavio
+gdc,tz6r.0,24480,25308,octavio,24527,24531,mein,octavio
+gdc,tz6r.0,24480,25308,octavio,24645,24649,mein,octavio
+gdc,tz6r.0,25314,25496,max,25385,25388,ich,max
+gdc,tz6r.0,25560,26181,max,25566,25569,Ich,max
+gdc,tz6r.0,25560,26181,max,25600,25603,Ich,max
+gdc,tz6r.0,25560,26181,max,25646,25649,ich,max
+gdc,tz6r.0,25560,26181,max,25686,25690,mich,max
+gdc,tz6r.0,26253,26763,max,26281,26287,meines,max
+gdc,tz6r.0,26253,26763,max,26301,26304,mir,max
+gdc,tz6r.0,26253,26763,max,26362,26365,mir,max
+gdc,tz6r.0,26253,26763,max,26394,26397,mir,max
+gdc,tz6r.0,26769,26828,octavio,26818,26822,mein,octavio
+gdc,tz6r.0,28060,29074,max,28149,28152,Ich,max
+gdc,tz6r.0,28060,29074,max,28196,28199,ich,max
+gdc,tz6r.0,28060,29074,max,28244,28247,mir,max
+gdc,tz6r.0,28060,29074,max,28847,28850,ich,max
+gdc,tz6r.0,28060,29074,max,28871,28874,ich,max
+gdc,tz6r.0,28060,29074,max,28924,28927,ich,max
+gdc,tz6r.0,28060,29074,max,28962,28966,mein,max
+gdc,tz6r.0,28060,29074,max,28985,28991,meines,max
+gdc,tz6r.0,29334,29457,octavio,29388,29391,Mir,octavio
+gdc,tz6r.0,29334,29457,octavio,29437,29440,ich,octavio
+gdc,tz6r.0,29334,29457,octavio,29446,29450,mich,octavio
+gdc,tz6r.0,29574,29709,octavio,29596,29599,Ich,octavio
+gdc,tz6r.0,29574,29709,octavio,29653,29659,meinen,octavio
+gdc,tz6r.0,29800,29951,octavio,29851,29854,ich,octavio
+gdc,tz6r.0,29800,29951,octavio,29871,29874,Ich,octavio
+gdc,tz6r.0,29800,29951,octavio,29917,29920,mir,octavio
+gdc,tz6r.0,29957,29992,questenberg,29983,29986,mir,questenberg
+gdc,tz6r.0,29997,30163,octavio,30122,30125,Ich,octavio
+gdc,tz6r.0,30169,30267,questenberg,30257,30260,mir,questenberg
+gdc,tz6r.0,30514,30545,_stage,30514,30544,Saal beim Herzog von Friedland,Saal-beim-Herzog-von-Friedland
+gdc,tz6r.0,30514,30545,_stage,30524,30544,Herzog von Friedland,wallenstein
+gdc,tz6r.0,30564,30720,_stage,30630,30649,"Seni, der Astrolog,",seni
+gdc,tz6r.0,30721,30827,_stage,30721,30723,Er,seni
+gdc,tz6r.0,30721,30827,_stage,30743,30752,des Saals,Saal-beim-Herzog-von-Friedland
+gdc,tz6r.0,30721,30827,_stage,30793,30795,er,seni
+gdc,tz6r.0,30972,31073,zweiter_bedienter_2-1,31013,31028,"die Erkerstube,","die-Erkerstube,---------------Die-rote"
+gdc,tz6r.0,31079,31162,erster_bedienter_2-1,31107,31123,den Mathematikus,seni
+gdc,tz6r.0,31079,31162,erster_bedienter_2-1,31125,31128,Der,seni
+gdc,tz6r.0,31079,31162,erster_bedienter_2-1,31143,31161,ein Unglückszimmer,"die-Erkerstube,---------------Die-rote"
+gdc,tz6r.0,31168,31289,zweiter_bedienter_2-1,31258,31265,der Ort,"die-Erkerstube,---------------Die-rote"
+gdc,tz6r.0,31295,31444,seni,31315,31324,Mein Sohn,zweiter_bedienter_2-1
+gdc,tz6r.0,31295,31444,seni,31315,31319,Mein,seni
+gdc,tz6r.0,31450,31554,dritter_bedienter_2-1,31474,31478,dich,zweiter_bedienter_2-1
+gdc,tz6r.0,31450,31554,dritter_bedienter_2-1,31483,31486,dem,seni
+gdc,tz6r.0,31450,31554,dritter_bedienter_2-1,31498,31507,Nathanael,zweiter_bedienter_2-1
+gdc,tz6r.0,31450,31554,dritter_bedienter_2-1,31514,31517,ihm,seni
+gdc,tz6r.0,31450,31554,dritter_bedienter_2-1,31518,31526,der Herr,wallenstein
+gdc,tz6r.0,31724,31789,zweiter_bedienter_2-1,31752,31755,Ihr,seni
+gdc,tz6r.0,31724,31789,zweiter_bedienter_2-1,31777,31781,mich,zweiter_bedienter_2-1
+gdc,tz6r.0,31864,31936,zweiter_bedienter_2-1,31904,31907,Ihr,seni
+gdc,tz6r.0,32090,32117,erster_bedienter_2-1,32108,32117,Der Narr!,seni
+gdc,tz6r.0,32122,32230,dritter_bedienter_2-1,32150,32153,ihn,seni
+gdc,tz6r.0,32122,32230,dritter_bedienter_2-1,32160,32163,Ich,dritter_bedienter_2-1
+gdc,tz6r.0,32122,32230,dritter_bedienter_2-1,32168,32171,ihm,seni
+gdc,tz6r.0,32302,32337,_stage,32318,32322,Seni,seni
+gdc,tz6r.0,32361,32387,_stage,32374,32386,Die Herzogin,herzogin
+gdc,tz6r.0,32389,32483,wallenstein,32408,32416,Herzogin,herzogin
+gdc,tz6r.0,32389,32483,wallenstein,32418,32421,Sie,herzogin
+gdc,tz6r.0,32389,32483,wallenstein,32443,32447,Sich,herzogin
+gdc,tz6r.0,32389,32483,wallenstein,32460,32482,der Königin von Ungarn,der-Königin-von-Ungarn
+gdc,tz6r.0,32489,32581,herzogin,32523,32540,beiden Majestäten,Der-Kaiserin-/-der-Königin-von-Unga…
+gdc,tz6r.0,32489,32581,herzogin,32547,32550,wir,thekla-/-herzogin
+gdc,tz6r.0,32587,32689,wallenstein,32610,32614,mans,Der-Kaiserin-/-der-Königin-von-Unga…
+gdc,tz6r.0,32587,32689,wallenstein,32624,32627,ich,wallenstein
+gdc,tz6r.0,32587,32689,wallenstein,32628,32636,Gemahlin,herzogin
+gdc,tz6r.0,32587,32689,wallenstein,32638,32645,Tochter,thekla
+gdc,tz6r.0,32695,32868,herzogin,32706,32709,Ich,herzogin
+gdc,tz6r.0,32695,32868,herzogin,32719,32724,Ihrer,Der-Kaiserin-/-der-Königin-von-Unga…
+gdc,tz6r.0,32695,32868,herzogin,32749,32752,Sie,Der-Kaiserin-/-der-Königin-von-Unga…
+gdc,tz6r.0,32695,32868,herzogin,32765,32775,unser Kind,thekla
+gdc,tz6r.0,32695,32868,herzogin,32765,32770,unser,wallenstein-/-herzogin
+gdc,tz6r.0,32695,32868,herzogin,32848,32860,die Verlobte,thekla
+gdc,tz6r.0,32874,32928,wallenstein,32896,32899,man,Der-Kaiserin-/-der-Königin-von-Unga…
+gdc,tz6r.0,32874,32928,wallenstein,32900,32908,die Wahl,die-Wahl
+gdc,tz6r.0,32874,32928,wallenstein,32910,32927,die ich getroffen,die-Wahl
+gdc,tz6r.0,32874,32928,wallenstein,32914,32917,ich,wallenstein
+gdc,tz6r.0,32933,33031,herzogin,32944,32947,Man,Der-Kaiserin-/-der-Königin-von-Unga…
+gdc,tz6r.0,32933,33031,herzogin,32963,32966,sie,die-Wahl
+gdc,tz6r.0,33037,33078,wallenstein,33063,33066,Sie,herzogin
+gdc,tz6r.0,33037,33078,wallenstein,33068,33077,Elisabeth,herzogin
+gdc,tz6r.0,33083,33136,herzogin,33093,33102,Ihr Wille,Ihr-Wille
+gdc,tz6r.0,33083,33136,herzogin,33093,33096,Ihr,wallenstein
+gdc,tz6r.0,33083,33136,herzogin,33111,33114,Sie,wallenstein
+gdc,tz6r.0,33083,33136,herzogin,33126,33129,der,Ihr-Wille
+gdc,tz6r.0,33083,33136,herzogin,33130,33135,meine,herzogin
+gdc,tz6r.0,33217,33264,_stage,33217,33225,Herzogin,herzogin
+gdc,tz6r.0,33141,33307,wallenstein,33275,33278,Sie,herzogin
+gdc,tz6r.0,33141,33307,wallenstein,33279,33282,mir,wallenstein
+gdc,tz6r.0,33312,33407,herzogin,33323,33337,O! mein Gemahl,wallenstein
+gdc,tz6r.0,33312,33407,herzogin,33326,33330,mein,herzogin
+gdc,tz6r.0,33413,33469,wallenstein,33444,33461,der alten Achtung,der-alten-Achtung
+gdc,tz6r.0,33474,33859,herzogin,33494,33505,der Achtung,der-alten-Achtung
+gdc,tz6r.0,33474,33859,herzogin,33657,33675,die zarte Schonung,die-zarte-Schonung
+gdc,tz6r.0,33474,33859,herzogin,33677,33692,"die man zeigte,",die-zarte-Schonung
+gdc,tz6r.0,33865,33918,wallenstein,33895,33899,mein,wallenstein
+gdc,tz6r.0,33923,34392,herzogin,33956,33959,Ich,herzogin
+gdc,tz6r.0,33923,34392,herzogin,33988,33991,Sie,wallenstein
+gdc,tz6r.0,33923,34392,herzogin,34298,34302,mich,herzogin
+gdc,tz6r.0,33923,34392,herzogin,34303,34314,die Königin,der-Königin-von-Ungarn
+gdc,tz6r.0,33923,34392,herzogin,34333,34337,ihre,der-Königin-von-Ungarn
+gdc,tz6r.0,33923,34392,herzogin,34338,34349,liebe Muhme,herzogin
+gdc,tz6r.0,33923,34392,herzogin,34362,34366,mich,herzogin
+gdc,tz6r.0,34398,34432,wallenstein,34427,34431,sies,der-Königin-von-Ungarn
+gdc,tz6r.0,34447,34487,_stage,34447,34451,ihre,herzogin
+gdc,tz6r.0,34438,34716,herzogin,34489,34492,Sie,der-Königin-von-Ungarn
+gdc,tz6r.0,34438,34716,herzogin,34501,34505,mich,herzogin
+gdc,tz6r.0,34438,34716,herzogin,34523,34526,ich,herzogin
+gdc,tz6r.0,34438,34716,herzogin,34582,34585,sie,der-Königin-von-Ungarn
+gdc,tz6r.0,34438,34716,herzogin,34590,34594,mich,herzogin
+gdc,tz6r.0,34438,34716,herzogin,34621,34624,sie,der-Königin-von-Ungarn
+gdc,tz6r.0,34438,34716,herzogin,34649,34653,Mich,herzogin
+gdc,tz6r.0,34734,34753,_stage,34743,34747,ihre,herzogin
+gdc,tz6r.0,34722,34845,wallenstein,34762,34765,Sie,herzogin
+gdc,tz6r.0,34722,34845,wallenstein,34766,34770,sich,herzogin
+gdc,tz6r.0,34851,34896,herzogin,34892,34895,ich,herzogin
+gdc,tz6r.0,34901,35001,wallenstein,34919,34951,der hispanische Conte Ambassador,der-hispanische-Conte-Ambassador
+gdc,tz6r.0,34901,35001,wallenstein,34954,35000,Der sonst so warm für mich zu sprechen pflegte,der-hispanische-Conte-Ambassador
+gdc,tz6r.0,34901,35001,wallenstein,34976,34980,mich,wallenstein
+gdc,tz6r.0,35007,35051,herzogin,35017,35019,Er,der-hispanische-Conte-Ambassador
+gdc,tz6r.0,35007,35051,herzogin,35047,35050,Sie,wallenstein
+gdc,tz6r.0,35056,35151,wallenstein,35095,35098,uns,uns
+gdc,tz6r.0,35056,35151,wallenstein,35136,35139,uns,uns
+gdc,tz6r.0,35157,35312,herzogin,35180,35193,Teurer Herzog,wallenstein
+gdc,tz6r.0,35318,35363,wallenstein,35339,35348,Lamormain,Pater-Lamormain
+gdc,tz6r.0,35318,35363,wallenstein,35359,35362,der,Pater-Lamormain
+gdc,tz6r.0,35368,35750,herzogin,35389,35392,Sie,wallenstein
+gdc,tz6r.0,35368,35750,herzogin,35574,35577,Sie,wallenstein
+gdc,tz6r.0,35368,35750,herzogin,35581,35595,Ein Ungewitter,Ein-Ungewitter
+gdc,tz6r.0,35368,35750,herzogin,35601,35605,sich,Ein-Ungewitter
+gdc,tz6r.0,35368,35750,herzogin,35611,35616,Ihnen,wallenstein
+gdc,tz6r.0,35368,35750,herzogin,35664,35667,Sie,wallenstein
+gdc,tz6r.0,35368,35750,herzogin,35718,35720,er,Pater-Lamormain
+gdc,tz6r.0,35368,35750,herzogin,35728,35731,ich,herzogin
+gdc,tz6r.0,35818,35829,_stage,35818,35821,Sie,herzogin
+gdc,tz6r.0,35906,36050,wallenstein,35988,35992,mich,wallenstein
+gdc,tz6r.0,35906,36050,wallenstein,36023,36029,meinen,wallenstein
+gdc,tz6r.0,35906,36050,wallenstein,36038,36042,mich,wallenstein
+gdc,tz6r.0,36065,36096,_stage,36065,36069,sich,herzogin
+gdc,tz6r.0,36065,36096,_stage,36081,36084,ihn,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36122,36133,mein Gemahl,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36122,36126,mein,herzogin
+gdc,tz6r.0,36056,36698,herzogin,36214,36217,Sie,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36235,36239,Sies,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36271,36274,Ihr,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36275,36290,Herr und Kaiser,Herr-und-Kaiser
+gdc,tz6r.0,36056,36698,herzogin,36292,36307,dem Sie weichen,Herr-und-Kaiser
+gdc,tz6r.0,36056,36698,herzogin,36296,36299,Sie,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36320,36323,Sie,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36372,36376,Ihre,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36470,36473,Sie,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36522,36525,Wir,wallenstein-/-herzogin
+gdc,tz6r.0,36056,36698,herzogin,36561,36564,Sie,wallenstein
+gdc,tz6r.0,36056,36698,herzogin,36574,36579,Unser,wallenstein-/-herzogin
+gdc,tz6r.0,36056,36698,herzogin,36600,36603,uns,wallenstein-/-herzogin
+gdc,tz6r.0,36056,36698,herzogin,36650,36653,wir,wallenstein-/-herzogin
+gdc,tz6r.0,36056,36698,herzogin,36661,36677,kaiserliche Huld,kaiserliche-Huld
+gdc,tz6r.0,36056,36698,herzogin,36678,36682,sich,kaiserliche-Huld
+gdc,tz6r.0,36056,36698,herzogin,36687,36690,uns,wallenstein-/-herzogin
+gdc,tz6r.0,36724,36802,_stage,36724,36737,Gräfin Terzky,Gräfin-Terzky
+gdc,tz6r.0,36724,36802,_stage,36739,36802,"welche die Prinzessin Thekla an der Hand führt, zu den Vorigen.",Gräfin-Terzky
+gdc,tz6r.0,36804,37196,graefin,36818,36827,Schwester,herzogin
+gdc,tz6r.0,36804,37196,graefin,36870,36873,ich,graefin
+gdc,tz6r.0,36804,37196,graefin,36907,36909,er,wallenstein
+gdc,tz6r.0,36804,37196,graefin,36915,36928,seines Kindes,thekla
+gdc,tz6r.0,36804,37196,graefin,36915,36921,seines,wallenstein
+gdc,tz6r.0,36804,37196,graefin,36992,37007,Vater Friedland,wallenstein
+gdc,tz6r.0,36804,37196,graefin,37017,37031,deine Tochter!,thekla
+gdc,tz6r.0,36804,37196,graefin,37017,37022,deine,wallenstein
+gdc,tz6r.0,37034,37196,_stage,37034,37040,Thekla,thekla
+gdc,tz6r.0,37034,37196,_stage,37048,37052,sich,thekla
+gdc,tz6r.0,37034,37196,_stage,37053,37056,ihm,wallenstein
+gdc,tz6r.0,37034,37196,_stage,37077,37081,sich,thekla
+gdc,tz6r.0,37034,37196,_stage,37086,37091,seine,wallenstein
+gdc,tz6r.0,37034,37196,_stage,37105,37107,er,wallenstein
+gdc,tz6r.0,37034,37196,_stage,37117,37120,sie,thekla
+gdc,tz6r.0,37034,37196,_stage,37124,37130,seinen,wallenstein
+gdc,tz6r.0,37034,37196,_stage,37164,37169,ihrem,thekla
+gdc,tz6r.0,37200,37299,wallenstein,37228,37231,mir,wallenstein
+gdc,tz6r.0,37200,37299,wallenstein,37232,37244,die Hoffnung,die-Hoffnung
+gdc,tz6r.0,37200,37299,wallenstein,37259,37262,Ich,wallenstein
+gdc,tz6r.0,37200,37299,wallenstein,37269,37272,sie,die-Hoffnung
+gdc,tz6r.0,37306,37525,herzogin,37317,37332,Ein zartes Kind,thekla
+gdc,tz6r.0,37306,37525,herzogin,37342,37345,sie,thekla
+gdc,tz6r.0,37306,37525,herzogin,37351,37354,Sie,wallenstein
+gdc,tz6r.0,37306,37525,herzogin,37379,37389,dem Kaiser,Kaiser
+gdc,tz6r.0,37306,37525,herzogin,37418,37421,Sie,wallenstein
+gdc,tz6r.0,37306,37525,herzogin,37464,37475,die Tochter,thekla
+gdc,tz6r.0,37306,37525,herzogin,37497,37500,sie,thekla
+gdc,tz6r.0,37531,37845,wallenstein,37578,37581,sie,thekla
+gdc,tz6r.0,37531,37845,wallenstein,37620,37623,ihr,thekla
+gdc,tz6r.0,37531,37845,wallenstein,37643,37655,Mutter Natur,Mutter-Natur
+gdc,tz6r.0,37531,37845,wallenstein,37686,37692,Ihrige,Mutter-Natur
+gdc,tz6r.0,37531,37845,wallenstein,37700,37715,dem lieben Kind,thekla
+gdc,tz6r.0,37531,37845,wallenstein,37768,37771,sie,thekla
+gdc,tz6r.0,37531,37845,wallenstein,37772,37777,ihrem,thekla
+gdc,tz6r.0,37531,37845,wallenstein,37803,37809,meiner,wallenstein
+gdc,tz6r.0,37860,37875,_stage,37864,37874,Prinzessin,thekla
+gdc,tz6r.0,37851,38007,herzogin,37877,37879,Du,thekla
+gdc,tz6r.0,37851,38007,herzogin,37888,37900,deinen Vater,wallenstein
+gdc,tz6r.0,37851,38007,herzogin,37888,37894,deinen,thekla
+gdc,tz6r.0,37851,38007,herzogin,37929,37938,mein Kind,thekla
+gdc,tz6r.0,37851,38007,herzogin,37929,37933,mein,herzogin
+gdc,tz6r.0,37851,38007,herzogin,37954,37956,du,thekla
+gdc,tz6r.0,37851,38007,herzogin,37974,37976,du,thekla
+gdc,tz6r.0,37851,38007,herzogin,37977,37981,sein,wallenstein
+gdc,tz6r.0,38013,38165,thekla,38028,38034,Mutter,herzogin
+gdc,tz6r.0,38013,38165,thekla,38059,38069,Mein Vater,wallenstein
+gdc,tz6r.0,38013,38165,thekla,38059,38063,Mein,thekla
+gdc,tz6r.0,38013,38165,thekla,38096,38100,sein,wallenstein
+gdc,tz6r.0,38013,38165,thekla,38109,38112,mir,thekla
+gdc,tz6r.0,38013,38165,thekla,38131,38133,er,wallenstein
+gdc,tz6r.0,38013,38165,thekla,38152,38158,meinen,thekla
+gdc,tz6r.0,38183,38196,_stage,38187,38195,Herzogin,herzogin
+gdc,tz6r.0,38171,38779,wallenstein,38198,38212,Das holde Kind,thekla
+gdc,tz6r.0,38171,38779,wallenstein,38258,38261,ich,wallenstein
+gdc,tz6r.0,38171,38779,wallenstein,38320,38326,meines,wallenstein
+gdc,tz6r.0,38171,38779,wallenstein,38339,38345,meines,wallenstein
+gdc,tz6r.0,38171,38779,wallenstein,38409,38413,Mein,wallenstein
+gdc,tz6r.0,38171,38779,wallenstein,38457,38460,Ich,wallenstein
+gdc,tz6r.0,38171,38779,wallenstein,38497,38503,dieses,thekla
+gdc,tz6r.0,38171,38779,wallenstein,38538,38541,ich,wallenstein
+gdc,tz6r.0,38171,38779,wallenstein,38685,38704,diese schöne Stirne,thekla
+gdc,tz6r.0,38722,38779,_stage,38730,38733,sie,thekla
+gdc,tz6r.0,38722,38779,_stage,38755,38766,Piccolomini,max
+gdc,tz6r.0,38804,38863,_stage,38804,38819,Max Piccolomini,max
+gdc,tz6r.0,38804,38863,_stage,38836,38847,Graf Terzky,terzky
+gdc,tz6r.0,38865,38914,graefin,38882,38893,der Paladin,max
+gdc,tz6r.0,38865,38914,graefin,38899,38902,uns,thekla-/-herzogin
+gdc,tz6r.0,38919,39102,wallenstein,38937,38940,mir,wallenstein
+gdc,tz6r.0,38919,39102,wallenstein,38953,38956,Max,max
+gdc,tz6r.0,38919,39102,wallenstein,38970,38972,du,max
+gdc,tz6r.0,38919,39102,wallenstein,38973,38976,mir,wallenstein
+gdc,tz6r.0,38919,39102,wallenstein,38978,39016,Der Bringer irgendeiner schönen Freude,max
+gdc,tz6r.0,38919,39102,wallenstein,39072,39074,du,max
+gdc,tz6r.0,38919,39102,wallenstein,39091,39094,mir,wallenstein
+gdc,tz6r.0,39108,39127,max,39113,39125,Mein General,wallenstein
+gdc,tz6r.0,39108,39127,max,39113,39117,Mein,max
+gdc,tz6r.0,39132,39319,wallenstein,39163,39173,der Kaiser,Kaiser
+gdc,tz6r.0,39132,39319,wallenstein,39176,39209,Der dich durch meine Hand belohnt,Kaiser
+gdc,tz6r.0,39132,39319,wallenstein,39191,39196,meine,wallenstein
+gdc,tz6r.0,39132,39319,wallenstein,39221,39223,du,max
+gdc,tz6r.0,39132,39319,wallenstein,39235,39238,dir,max
+gdc,tz6r.0,39325,39953,max,39331,39341,Mein Fürst,wallenstein
+gdc,tz6r.0,39325,39953,max,39331,39335,Mein,max
+gdc,tz6r.0,39325,39953,max,39343,39345,Du,wallenstein
+gdc,tz6r.0,39325,39953,max,39377,39380,Ich,max
+gdc,tz6r.0,39325,39953,max,39435,39438,ich,max
+gdc,tz6r.0,39325,39953,max,39459,39465,Mutter,herzogin
+gdc,tz6r.0,39325,39953,max,39471,39478,Tochter,thekla
+gdc,tz6r.0,39325,39953,max,39479,39485,deinen,wallenstein
+gdc,tz6r.0,39325,39953,max,39518,39524,deinem,wallenstein
+gdc,tz6r.0,39325,39953,max,39575,39578,mir,max
+gdc,tz6r.0,39325,39953,max,39583,39586,dir,wallenstein
+gdc,tz6r.0,39325,39953,max,39618,39622,mich,max
+gdc,tz6r.0,39325,39953,max,39644,39648,mich,max
+gdc,tz6r.0,39325,39953,max,39744,39747,dir,wallenstein
+gdc,tz6r.0,39325,39953,max,39820,39824,mein,max
+gdc,tz6r.0,39325,39953,max,39834,39838,mein,max
+gdc,tz6r.0,39870,39953,_stage,39870,39876,Terzky,terzky
+gdc,tz6r.0,39870,39953,_stage,39903,39913,dem Herzog,wallenstein
+gdc,tz6r.0,39870,39953,_stage,39914,39920,Briefe,Briefe
+gdc,tz6r.0,39870,39953,_stage,39922,39953,welche dieser schnell erbricht.,Briefe
+gdc,tz6r.0,39964,39971,_stage,39967,39970,Max,max
+gdc,tz6r.0,39957,40133,graefin,39981,39983,er,wallenstein
+gdc,tz6r.0,39957,40133,graefin,39984,39988,Ihre,max
+gdc,tz6r.0,39957,40133,graefin,39995,40000,Seine,wallenstein
+gdc,tz6r.0,39957,40133,graefin,40017,40019,er,wallenstein
+gdc,tz6r.0,39957,40133,graefin,40020,40025,Ihnen,max
+gdc,tz6r.0,39957,40133,graefin,40027,40032,Ihnen,max
+gdc,tz6r.0,39957,40133,graefin,40039,40041,es,es
+gdc,tz6r.0,39957,40133,graefin,40047,40064,So zart zu denken,es
+gdc,tz6r.0,39957,40133,graefin,40066,40072,meinem,graefin
+gdc,tz6r.0,39957,40133,graefin,40073,40081,Schwager,wallenstein
+gdc,tz6r.0,39957,40133,graefin,40091,40095,Sich,wallenstein
+gdc,tz6r.0,40139,40278,thekla,40161,40164,ich,thekla
+gdc,tz6r.0,40139,40278,thekla,40168,40174,seiner,wallenstein
+gdc,tz6r.0,40139,40278,thekla,40197,40202,seine,wallenstein
+gdc,tz6r.0,40139,40278,thekla,40228,40232,mich,thekla
+gdc,tz6r.0,40139,40278,thekla,40252,40262,des Vaters,wallenstein
+gdc,tz6r.0,40139,40278,thekla,40263,40266,mir,thekla
+gdc,tz6r.0,40284,40687,max,40293,40295,er,wallenstein
+gdc,tz6r.0,40328,40380,_stage,40328,40330,Er,max
+gdc,tz6r.0,40328,40380,_stage,40340,40352,der Herzogin,herzogin
+gdc,tz6r.0,40284,40687,max,40392,40395,ich,max
+gdc,tz6r.0,40284,40687,max,40396,40399,ihm,wallenstein
+gdc,tz6r.0,40284,40687,max,40428,40431,ich,max
+gdc,tz6r.0,40284,40687,max,40452,40481,diesem teuren Namen Friedland,diesem-teuren-Namen-Friedland
+gdc,tz6r.0,40284,40687,max,40500,40503,ich,max
+gdc,tz6r.0,40284,40687,max,40528,40540,diesem Namen,diesem-teuren-Namen-Friedland
+gdc,tz6r.0,40284,40687,max,40562,40565,Mir,max
+gdc,tz6r.0,40284,40687,max,40658,40662,mich,max
+gdc,tz6r.0,40284,40687,max,40674,40686,diesem Namen,diesem-teuren-Namen-Friedland
+gdc,tz6r.0,40700,40806,_stage,40719,40729,den Herzog,wallenstein
+gdc,tz6r.0,40700,40806,_stage,40766,40768,er,wallenstein
+gdc,tz6r.0,40700,40806,_stage,40773,40784,den Briefen,Briefe
+gdc,tz6r.0,40693,40851,graefin,40807,40817,Der Bruder,wallenstein
+gdc,tz6r.0,40868,40934,_stage,40897,40901,sich,wallenstein
+gdc,tz6r.0,40868,40934,_stage,40921,40933,zur Herzogin,herzogin
+gdc,tz6r.0,40856,41204,wallenstein,40949,40956,Fürstin,herzogin
+gdc,tz6r.0,40856,41204,wallenstein,40963,40966,ich,wallenstein
+gdc,tz6r.0,40856,41204,wallenstein,40967,40970,Sie,herzogin
+gdc,tz6r.0,40856,41204,wallenstein,40992,40995,Sie,herzogin
+gdc,tz6r.0,40856,41204,wallenstein,41001,41011,die Wirtin,herzogin
+gdc,tz6r.0,40856,41204,wallenstein,41026,41028,Du,max
+gdc,tz6r.0,40856,41204,wallenstein,41030,41033,Max,max
+gdc,tz6r.0,40856,41204,wallenstein,41055,41059,dein,max
+gdc,tz6r.0,41128,41204,_stage,41128,41143,Max Piccolomini,max
+gdc,tz6r.0,41128,41204,_stage,41151,41163,der Herzogin,herzogin
+gdc,tz6r.0,41128,41204,_stage,41173,41179,Gräfin,Gräfin-Terzky
+gdc,tz6r.0,41128,41204,_stage,41186,41200,die Prinzessin,thekla
+gdc,tz6r.0,41215,41230,_stage,41215,41218,ihm,wallenstein
+gdc,tz6r.0,41300,41320,_stage,41300,41311,Wallenstein,wallenstein
+gdc,tz6r.0,41300,41320,_stage,41313,41319,Terzky,terzky
+gdc,tz6r.0,41334,41371,_stage,41359,41363,sich,wallenstein
+gdc,tz6r.0,41322,41935,wallenstein,41373,41376,Sie,herzogin
+gdc,tz6r.0,41322,41935,wallenstein,41509,41512,mir,wallenstein
+gdc,tz6r.0,41322,41935,wallenstein,41513,41527,den Nachfolger,Der-Ungarn-König
+gdc,tz6r.0,41322,41935,wallenstein,41544,41560,Der Ungarn König,Der-Ungarn-König
+gdc,tz6r.0,41322,41935,wallenstein,41583,41603,Des Kaisers Söhnlein,Der-Ungarn-König
+gdc,tz6r.0,41322,41935,wallenstein,41587,41594,Kaisers,Kaiser
+gdc,tz6r.0,41322,41935,wallenstein,41605,41631,"der ist jetzt ihr Heiland,",Der-Ungarn-König
+gdc,tz6r.0,41785,41856,_stage,41791,41793,er,wallenstein
+gdc,tz6r.0,41785,41856,_stage,41794,41798,sich,wallenstein
+gdc,tz6r.0,41785,41856,_stage,41817,41819,er,wallenstein
+gdc,tz6r.0,41785,41856,_stage,41820,41830,den Terzky,terzky
+gdc,tz6r.0,41785,41856,_stage,41840,41843,ihm,terzky
+gdc,tz6r.0,41322,41935,wallenstein,41858,41872,Graf Altringer,Graf-Altringer
+gdc,tz6r.0,41322,41935,wallenstein,41878,41882,sich,Graf-Altringer
+gdc,tz6r.0,41322,41935,wallenstein,41925,41928,mir,wallenstein
+gdc,tz6r.0,41941,42012,terzky,41959,41961,du,wallenstein
+gdc,tz6r.0,42018,42275,wallenstein,42032,42045,Der Altringer,Graf-Altringer
+gdc,tz6r.0,42018,42275,wallenstein,42070,42073,Ich,wallenstein
+gdc,tz6r.0,42018,42275,wallenstein,42078,42081,ihm,Graf-Altringer
+gdc,tz6r.0,42018,42275,wallenstein,42102,42104,er,Graf-Altringer
+gdc,tz6r.0,42018,42275,wallenstein,42105,42108,mir,wallenstein
+gdc,tz6r.0,42018,42275,wallenstein,42160,42169,der Sesin,der-Sesin
+gdc,tz6r.0,42018,42275,wallenstein,42171,42192,der alte Unterhändler,der-Sesin
+gdc,tz6r.0,42018,42275,wallenstein,42199,42203,sich,der-Sesin
+gdc,tz6r.0,42018,42275,wallenstein,42251,42253,er,der-Sesin
+gdc,tz6r.0,42018,42275,wallenstein,42262,42274,Grafen Thurn,Thurn
+gdc,tz6r.0,42281,42487,terzky,42290,42298,Der Graf,Thurn
+gdc,tz6r.0,42281,42487,terzky,42309,42312,dir,wallenstein
+gdc,tz6r.0,42281,42487,terzky,42315,42317,Er,Thurn
+gdc,tz6r.0,42281,42487,terzky,42322,42345,den schwedschen Kanzler,den-schwedschen-Kanzler
+gdc,tz6r.0,42281,42487,terzky,42401,42404,Der,den-schwedschen-Kanzler
+gdc,tz6r.0,42281,42487,terzky,42416,42418,er,den-schwedschen-Kanzler
+gdc,tz6r.0,42281,42487,terzky,42465,42468,dir,wallenstein
+gdc,tz6r.0,42518,42714,terzky,42534,42537,dir,wallenstein
+gdc,tz6r.0,42518,42714,terzky,42555,42561,deinen,wallenstein
+gdc,tz6r.0,42518,42714,terzky,42570,42572,Du,wallenstein
+gdc,tz6r.0,42518,42714,terzky,42580,42592,die Schweden,die-Schweden
+gdc,tz6r.0,42518,42714,terzky,42616,42620,Dich,wallenstein
+gdc,tz6r.0,42518,42714,terzky,42625,42636,den Sachsen,Die-Sachsen
+gdc,tz6r.0,42518,42714,terzky,42643,42646,sie,die-Schweden
+gdc,tz6r.0,42518,42714,terzky,42667,42670,sie,die-Schweden
+gdc,tz6r.0,42720,42952,wallenstein,42744,42746,er,den-schwedschen-Kanzler
+gdc,tz6r.0,42720,42952,wallenstein,42753,42756,ich,wallenstein
+gdc,tz6r.0,42720,42952,wallenstein,42762,42765,ihm,den-schwedschen-Kanzler
+gdc,tz6r.0,42720,42952,wallenstein,42767,42793,Ein schönes deutsches Land,Ein-schönes-deutsches-Land
+gdc,tz6r.0,42720,42952,wallenstein,42887,42890,Sie,den-schwedschen-Kanzler
+gdc,tz6r.0,42958,43099,terzky,42972,42977,ihnen,den-schwedschen-Kanzler
+gdc,tz6r.0,42958,43099,terzky,42983,43002,"das Fleckchen Land,",Ein-schönes-deutsches-Land
+gdc,tz6r.0,42958,43099,terzky,43027,43033,deinen,wallenstein
+gdc,tz6r.0,42958,43099,terzky,43050,43054,dich,wallenstein
+gdc,tz6r.0,42958,43099,terzky,43062,43064,du,wallenstein
+gdc,tz6r.0,42958,43099,terzky,43090,43092,es,Ein-schönes-deutsches-Land
+gdc,tz6r.0,43105,43729,wallenstein,43134,43139,ihnen,die-Schweden
+gdc,tz6r.0,43105,43729,wallenstein,43156,43158,du,terzky
+gdc,tz6r.0,43105,43729,wallenstein,43167,43169,Es,Es
+gdc,tz6r.0,43105,43729,wallenstein,43185,43188,mir,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43197,43216,daß ich Deutschland,Es
+gdc,tz6r.0,43105,43729,wallenstein,43201,43204,ich,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43265,43270,meine,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43279,43282,mir,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43301,43305,Mich,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43311,43320,das Reich,das-Reich
+gdc,tz6r.0,43105,43729,wallenstein,43325,43340,seinen Schirmer,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43325,43331,seinen,das-Reich
+gdc,tz6r.0,43105,43729,wallenstein,43365,43369,mich,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43386,43389,ich,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43399,43403,Mich,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43408,43427,des Reiches Fürsten,des-Reiches-Fürsten
+gdc,tz6r.0,43105,43729,wallenstein,43408,43419,des Reiches,das-Reich
+gdc,tz6r.0,43105,43729,wallenstein,43443,43445,Es,das-Reich
+gdc,tz6r.0,43105,43729,wallenstein,43481,43484,Mir,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43518,43527,Die Goten,Die-Goten
+gdc,tz6r.0,43105,43729,wallenstein,43584,43600,deutschen Landes,das-Reich
+gdc,tz6r.0,43105,43729,wallenstein,43660,43663,sie,Die-Goten
+gdc,tz6r.0,43105,43729,wallenstein,43664,43667,mir,wallenstein
+gdc,tz6r.0,43105,43729,wallenstein,43671,43677,meinen,wallenstein
+gdc,tz6r.0,43735,44110,terzky,43753,43764,den Sachsen,Die-Sachsen
+gdc,tz6r.0,43735,44110,terzky,43772,43774,du,wallenstein
+gdc,tz6r.0,43735,44110,terzky,43797,43800,Sie,Die-Sachsen
+gdc,tz6r.0,43735,44110,terzky,43829,43831,du,wallenstein
+gdc,tz6r.0,43735,44110,terzky,43932,43935,dir,wallenstein
+gdc,tz6r.0,43735,44110,terzky,43992,43998,deinem,wallenstein
+gdc,tz6r.0,43735,44110,terzky,44031,44034,ich,terzky
+gdc,tz6r.0,43735,44110,terzky,44065,44069,mich,terzky
+gdc,tz6r.0,43735,44110,terzky,44071,44074,Ich,terzky
+gdc,tz6r.0,43735,44110,terzky,44092,44097,deine,wallenstein
+gdc,tz6r.0,44116,44177,wallenstein,44129,44132,Ich,wallenstein
+gdc,tz6r.0,44116,44177,wallenstein,44162,44165,mir,wallenstein
+gdc,tz6r.0,44116,44177,wallenstein,44167,44169,du,terzky
+gdc,tz6r.0,44182,44432,terzky,44214,44220,deinen,wallenstein
+gdc,tz6r.0,44182,44432,terzky,44285,44287,du,wallenstein
+gdc,tz6r.0,44182,44432,terzky,44310,44319,dem Feind,dem-Feind
+gdc,tz6r.0,44182,44432,terzky,44376,44378,du,wallenstein
+gdc,tz6r.0,44182,44432,terzky,44410,44413,ihn,dem-Feind
+gdc,tz6r.0,44450,44496,_stage,44474,44476,er,wallenstein
+gdc,tz6r.0,44450,44496,_stage,44477,44480,ihn,terzky
+gdc,tz6r.0,44438,44942,wallenstein,44514,44516,du,terzky
+gdc,tz6r.0,44438,44942,wallenstein,44522,44525,ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44526,44529,ihn,dem-Feind
+gdc,tz6r.0,44438,44942,wallenstein,44567,44570,ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44612,44614,du,terzky
+gdc,tz6r.0,44438,44942,wallenstein,44615,44619,mich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44629,44632,Ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44650,44653,ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44654,44658,mein,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44670,44673,Dir,terzky
+gdc,tz6r.0,44438,44942,wallenstein,44685,44695,Der Kaiser,Kaiser
+gdc,tz6r.0,44438,44942,wallenstein,44720,44724,mich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44743,44746,ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44756,44759,Ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44766,44769,ihm,Kaiser
+gdc,tz6r.0,44438,44942,wallenstein,44808,44811,mir,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44820,44831,meine Macht,meine-Macht
+gdc,tz6r.0,44438,44942,wallenstein,44820,44825,meine,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44847,44850,ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44851,44854,sie,meine-Macht
+gdc,tz6r.0,44438,44942,wallenstein,44892,44895,ich,wallenstein
+gdc,tz6r.0,44438,44942,wallenstein,44904,44906,du,terzky
+gdc,tz6r.0,44948,45002,terzky,44964,44966,du,wallenstein
+gdc,tz6r.0,44948,45002,terzky,44973,44977,dein,wallenstein
+gdc,tz6r.0,45029,45049,_stage,45029,45033,Illo,illo
+gdc,tz6r.0,45051,45107,wallenstein,45091,45094,sie,sie
+gdc,tz6r.0,45112,45218,illo,45119,45121,Du,wallenstein
+gdc,tz6r.0,45112,45218,illo,45130,45133,sie,sie
+gdc,tz6r.0,45112,45218,illo,45155,45157,du,wallenstein
+gdc,tz6r.0,45112,45218,illo,45170,45173,Sie,sie
+gdc,tz6r.0,45112,45218,illo,45188,45195,Kaisers,Kaiser
+gdc,tz6r.0,45224,45261,wallenstein,45249,45253,sich,isolani
+gdc,tz6r.0,45224,45261,wallenstein,45254,45260,Isolan,isolani
+gdc,tz6r.0,45266,45356,illo,45273,45276,Der,isolani
+gdc,tz6r.0,45266,45356,illo,45300,45304,dein,wallenstein
+gdc,tz6r.0,45266,45356,illo,45314,45316,du,wallenstein
+gdc,tz6r.0,45266,45356,illo,45332,45335,ihm,isolani
+gdc,tz6r.0,45362,45455,wallenstein,45386,45390,sich,colalto
+gdc,tz6r.0,45362,45455,wallenstein,45391,45402,der Colalto,colalto
+gdc,tz6r.0,45362,45455,wallenstein,45409,45411,du,illo
+gdc,tz6r.0,45362,45455,wallenstein,45412,45416,dich,illo
+gdc,tz6r.0,45362,45455,wallenstein,45422,45428,Deodat,Deodat
+gdc,tz6r.0,45362,45455,wallenstein,45433,45443,Tiefenbach,tiefenbach
+gdc,tz6r.0,45461,45505,illo,45496,45499,sie,tiefenbach-/-Deodat
+gdc,tz6r.0,45510,45567,wallenstein,45534,45536,du,illo
+gdc,tz6r.0,45510,45567,wallenstein,45543,45546,ich,wallenstein
+gdc,tz6r.0,45510,45567,wallenstein,45555,45560,ihnen,tiefenbach-/-Deodat
+gdc,tz6r.0,45572,45615,illo,45585,45587,du,wallenstein
+gdc,tz6r.0,45572,45615,illo,45588,45603,der Piccolomini,max-/-octavio
+gdc,tz6r.0,45620,45675,wallenstein,45637,45643,meiner,wallenstein
+gdc,tz6r.0,45620,45675,wallenstein,45652,45655,Die,max-/-octavio
+gdc,tz6r.0,45620,45675,wallenstein,45671,45674,mir,wallenstein
+gdc,tz6r.0,45680,45760,terzky,45700,45703,ich,terzky
+gdc,tz6r.0,45680,45760,terzky,45709,45711,du,wallenstein
+gdc,tz6r.0,45680,45760,terzky,45712,45724,"dem Octavio,",octavio
+gdc,tz6r.0,45766,46062,wallenstein,45786,45788,du,terzky
+gdc,tz6r.0,45766,46062,wallenstein,45790,45794,Mich,wallenstein
+gdc,tz6r.0,45766,46062,wallenstein,45795,45800,meine,wallenstein
+gdc,tz6r.0,45766,46062,wallenstein,45832,45835,ich,wallenstein
+gdc,tz6r.0,45766,46062,wallenstein,45856,45865,dem Alten,octavio
+gdc,tz6r.0,45766,46062,wallenstein,45878,45881,ich,wallenstein
+gdc,tz6r.0,45766,46062,wallenstein,45886,45890,sein,octavio
+gdc,tz6r.0,45766,46062,wallenstein,46025,46027,du,terzky
+gdc,tz6r.0,45766,46062,wallenstein,46028,46031,mir,wallenstein
+gdc,tz6r.0,46068,46194,illo,46112,46114,Du,wallenstein
+gdc,tz6r.0,46068,46194,illo,46122,46134,das Regiment,das-Regiment
+gdc,tz6r.0,46068,46194,illo,46155,46158,Sie,das-Regiment
+gdc,tz6r.0,46068,46194,illo,46169,46173,dich,wallenstein
+gdc,tz6r.0,46068,46194,illo,46190,46193,ich,illo
+gdc,tz6r.0,46200,46290,wallenstein,46219,46222,ich,wallenstein
+gdc,tz6r.0,46200,46290,wallenstein,46223,46227,mich,wallenstein
+gdc,tz6r.0,46200,46290,wallenstein,46234,46237,sie,das-Regiment
+gdc,tz6r.0,46200,46290,wallenstein,46268,46272,sies,das-Regiment
+gdc,tz6r.0,46200,46290,wallenstein,46284,46288,mich,wallenstein
+gdc,tz6r.0,46295,46315,illo,46310,46314,sich,"Wenn-ich-mich-gegen-sie-verpflichten-soll,---------------So-müssen-sies-auch-gegen-mich"
+gdc,tz6r.0,46320,46426,wallenstein,46348,46351,sie,das-Regiment
+gdc,tz6r.0,46320,46426,wallenstein,46352,46355,mir,wallenstein
+gdc,tz6r.0,46320,46426,wallenstein,46386,46390,Sich,das-Regiment
+gdc,tz6r.0,46320,46426,wallenstein,46391,46397,meinem,wallenstein
+gdc,tz6r.0,46455,46561,terzky,46475,46486,Des Kaisers,Kaiser
+gdc,tz6r.0,46455,46561,terzky,46533,46536,sie,das-Regiment
+gdc,tz6r.0,46455,46561,terzky,46538,46542,Sich,das-Regiment
+gdc,tz6r.0,46567,46652,wallenstein,46616,46619,ich,wallenstein
+gdc,tz6r.0,46567,46652,wallenstein,46620,46623,sie,das-Regiment
+gdc,tz6r.0,46658,46741,illo,46665,46668,Ich,illo
+gdc,tz6r.0,46658,46741,illo,46706,46717,Graf Terzky,terzky
+gdc,tz6r.0,46747,46792,terzky,46765,46778,alle Generale,alle-Generale
+gdc,tz6r.0,46803,46819,_stage,46807,46818,Wallenstein,wallenstein
+gdc,tz6r.0,46798,46928,illo,46833,46835,du,wallenstein
+gdc,tz6r.0,46798,46928,illo,46854,46857,mir,illo
+gdc,tz6r.0,46798,46928,illo,46867,46870,Ich,illo
+gdc,tz6r.0,46798,46928,illo,46879,46882,dir,wallenstein
+gdc,tz6r.0,46798,46928,illo,46892,46904,der Generale,alle-Generale
+gdc,tz6r.0,46798,46928,illo,46914,46917,dus,wallenstein
+gdc,tz6r.0,46934,47022,wallenstein,46955,46958,mir,wallenstein
+gdc,tz6r.0,46934,47022,wallenstein,46959,46963,ihre,alle-Generale
+gdc,tz6r.0,46934,47022,wallenstein,46982,46984,du,illo
+gdc,tz6r.0,46934,47022,wallenstein,47010,47015,deine,illo
+gdc,tz6r.0,47028,47230,illo,47044,47047,ich,illo
+gdc,tz6r.0,47028,47230,illo,47048,47052,dirs,wallenstein
+gdc,tz6r.0,47028,47230,illo,47088,47098,alle Chefs,alle-Generale
+gdc,tz6r.0,47028,47230,illo,47100,47122,"die hier zugegen sind,",alle-Generale
+gdc,tz6r.0,47028,47230,illo,47124,47127,Dir,wallenstein
+gdc,tz6r.0,47028,47230,illo,47134,47138,sich,alle-Generale
+gdc,tz6r.0,47028,47230,illo,47160,47162,du,wallenstein
+gdc,tz6r.0,47236,47278,wallenstein,47256,47259,mir,wallenstein
+gdc,tz6r.0,47283,47810,illo,47303,47305,du,wallenstein
+gdc,tz6r.0,47283,47810,illo,47312,47314,Du,wallenstein
+gdc,tz6r.0,47283,47810,illo,47322,47333,des Kaisers,Kaiser
+gdc,tz6r.0,47283,47810,illo,47459,47461,du,wallenstein
+gdc,tz6r.0,47283,47810,illo,47534,47536,Du,wallenstein
+gdc,tz6r.0,47283,47810,illo,47544,47555,des Kaisers,Kaiser
+gdc,tz6r.0,47283,47810,illo,47653,47655,du,wallenstein
+gdc,tz6r.0,47283,47810,illo,47683,47690,dem Hof,Kaiser
+gdc,tz6r.0,47283,47810,illo,47704,47708,dich,wallenstein
+gdc,tz6r.0,47283,47810,illo,47717,47719,du,wallenstein
+gdc,tz6r.0,47283,47810,illo,47748,47751,ihm,Kaiser
+gdc,tz6r.0,47283,47810,illo,47767,47769,du,wallenstein
+gdc,tz6r.0,47886,49183,illo,47901,47911,der Stunde,der-Stunde
+gdc,tz6r.0,47886,49183,illo,47921,47924,sie,der-Stunde
+gdc,tz6r.0,47886,49183,illo,47955,47978,der Augenblick im Leben,der-Augenblick-im-Leben
+gdc,tz6r.0,47886,49183,illo,47982,48017,Der wahrhaftig wichtig ist und groß,der-Augenblick-im-Leben
+gdc,tz6r.0,47886,49183,illo,48064,48070,vieles,vieles
+gdc,tz6r.0,47886,49183,illo,48072,48076,Sich,vieles
+gdc,tz6r.0,47886,49183,illo,48153,48157,sich,vieles
+gdc,tz6r.0,47886,49183,illo,48159,48195,"Des Glückes Fäden, die Gelegenheiten","Des-Glückes-Fäden,-die-Gelegenheiten"
+gdc,tz6r.0,47886,49183,illo,48342,48346,dich,wallenstein
+gdc,tz6r.0,47886,49183,illo,48364,48375,Die Häupter,"Die-Häupter---------------Des-Heers,-die-besten,-trefflichsten,"
+gdc,tz6r.0,47886,49183,illo,48418,48422,dich,wallenstein
+gdc,tz6r.0,47886,49183,illo,48425,48447,Den königlichen Führer,wallenstein
+gdc,tz6r.0,47886,49183,illo,48470,48476,deinen,wallenstein
+gdc,tz6r.0,47886,49183,illo,48491,48494,sie,"Die-Häupter---------------Des-Heers,-die-besten,-trefflichsten,"
+gdc,tz6r.0,47886,49183,illo,48505,48508,Sie,"Die-Häupter---------------Des-Heers,-die-besten,-trefflichsten,"
+gdc,tz6r.0,47886,49183,illo,48560,48562,du,wallenstein
+gdc,tz6r.0,47886,49183,illo,48563,48566,sie,"Die-Häupter---------------Des-Heers,-die-besten,-trefflichsten,"
+gdc,tz6r.0,47886,49183,illo,48627,48640,Die hohe Flut,Die-hohe-Flut
+gdc,tz6r.0,47886,49183,illo,48647,48669,die das schwere Schiff,Die-hohe-Flut
+gdc,tz6r.0,47886,49183,illo,48767,48769,du,wallenstein
+gdc,tz6r.0,47886,49183,illo,48770,48773,sie,"Die-Häupter---------------Des-Heers,-die-besten,-trefflichsten,"
+gdc,tz6r.0,47886,49183,illo,48811,48814,Sie,"Die-Häupter---------------Des-Heers,-die-besten,-trefflichsten,"
+gdc,tz6r.0,47886,49183,illo,48903,48907,sich,der-gemeine-Geist
+gdc,tz6r.0,47886,49183,illo,48908,48925,der gemeine Geist,der-gemeine-Geist
+gdc,tz6r.0,47886,49183,illo,48927,48930,Wer,Wer
+gdc,tz6r.0,47886,49183,illo,48964,48968,sich,Wer
+gdc,tz6r.0,47886,49183,illo,49007,49009,er,Wer
+gdc,tz6r.0,47886,49183,illo,49028,49033,seine,Wer
+gdc,tz6r.0,49234,49291,terzky,49252,49254,du,wallenstein
+gdc,tz6r.0,49330,49594,illo,49340,49342,du,wallenstein
+gdc,tz6r.0,49330,49594,illo,49384,49387,dir,wallenstein
+gdc,tz6r.0,49330,49594,illo,49418,49421,mir,illo
+gdc,tz6r.0,49330,49594,illo,49427,49433,deiner,wallenstein
+gdc,tz6r.0,49330,49594,illo,49445,49451,deines,wallenstein
+gdc,tz6r.0,49330,49594,illo,49485,49488,dir,wallenstein
+gdc,tz6r.0,49330,49594,illo,49520,49525,deine,wallenstein
+gdc,tz6r.0,49330,49594,illo,49533,49546,Der Maleficus,Der-Maleficus
+gdc,tz6r.0,49330,49594,illo,49549,49594,"Der einzge, der dir schadet, ist der Zweifel.",Der-Maleficus
+gdc,tz6r.0,49330,49594,illo,49565,49568,dir,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,49614,49616,Du,illo
+gdc,tz6r.0,49600,51281,wallenstein,49628,49631,dus,illo
+gdc,tz6r.0,49600,51281,wallenstein,49673,49676,ich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,49677,49681,dirs,illo
+gdc,tz6r.0,49600,51281,wallenstein,49685,49688,Dir,illo
+gdc,tz6r.0,49600,51281,wallenstein,49747,49749,Du,illo
+gdc,tz6r.0,49600,51281,wallenstein,49814,49816,du,illo
+gdc,tz6r.0,49600,51281,wallenstein,49845,49862,der Unterirdische,der-Unterirdische
+gdc,tz6r.0,49600,51281,wallenstein,49864,49884,der mit dem bleichen,der-Unterirdische
+gdc,tz6r.0,49600,51281,wallenstein,49915,49918,dir,illo
+gdc,tz6r.0,49600,51281,wallenstein,49960,49962,du,illo
+gdc,tz6r.0,49600,51281,wallenstein,50031,50034,ich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,50035,50038,dir,illo
+gdc,tz6r.0,49600,51281,wallenstein,50050,50053,dir,illo
+gdc,tz6r.0,49600,51281,wallenstein,50135,50152,Die Geisterleiter,Die-Geisterleiter
+gdc,tz6r.0,49600,51281,wallenstein,50154,50185,die aus dieser Welt des Staubes,Die-Geisterleiter
+gdc,tz6r.0,50488,50566,_stage,50496,50498,er,wallenstein
+gdc,tz6r.0,50488,50566,_stage,50541,50543,er,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,50568,50592,Die himmlischen Gestirne,Die-himmlischen-Gestirne
+gdc,tz6r.0,49600,51281,wallenstein,50682,50685,sie,Die-himmlischen-Gestirne
+gdc,tz6r.0,49600,51281,wallenstein,51002,51038,der Feind des Wachsens und Gedeihens,der-Feind-des-Wachsens-und-Gedeihens
+gdc,tz6r.0,49600,51281,wallenstein,51044,51050,seinen,der-Feind-des-Wachsens-und-Gedeihens
+gdc,tz6r.0,49600,51281,wallenstein,51066,51070,sich,der-Feind-des-Wachsens-und-Gedeihens
+gdc,tz6r.0,49600,51281,wallenstein,51092,51095,mir,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,51106,51109,ihr,illo
+gdc,tz6r.0,49600,51281,wallenstein,51120,51124,Eure,illo
+gdc,tz6r.0,49600,51281,wallenstein,51127,51130,Ich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,51164,51167,ich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,51199,51202,ich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,51210,51213,Ich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,51242,51246,mich,wallenstein
+gdc,tz6r.0,49600,51281,wallenstein,51276,51280,euch,illo
+gdc,tz6r.0,51287,51326,kammerdiener_2-6,51307,51325,Die Herrn Generale,Die-Herrn-Generale
+gdc,tz6r.0,51331,51359,wallenstein,51348,51351,sie,Die-Herrn-Generale
+gdc,tz6r.0,51364,51412,terzky,51379,51381,du,wallenstein
+gdc,tz6r.0,51364,51412,terzky,51387,51397,alle Chefs,Die-Herrn-Generale
+gdc,tz6r.0,51417,51539,wallenstein,51451,51468,Beide Piccolomini,max-/-octavio
+gdc,tz6r.0,51417,51539,wallenstein,51471,51478,Maradas,Maradas
+gdc,tz6r.0,51417,51539,wallenstein,51480,51487,Buttler,buttler
+gdc,tz6r.0,51417,51539,wallenstein,51500,51506,Deodat,Deodat
+gdc,tz6r.0,51417,51539,wallenstein,51509,51516,Caraffa,Caraffa
+gdc,tz6r.0,51417,51539,wallenstein,51518,51525,Isolani,isolani
+gdc,tz6r.0,51601,51609,_stage,51604,51608,Illo,illo
+gdc,tz6r.0,51589,51685,wallenstein,51616,51618,du,illo
+gdc,tz6r.0,51589,51685,wallenstein,51619,51634,den Questenberg,questenberg
+gdc,tz6r.0,51589,51685,wallenstein,51660,51662,er,questenberg
+gdc,tz6r.0,51691,51762,illo,51698,51701,Ich,illo
+gdc,tz6r.0,51691,51762,illo,51706,51709,ihn,questenberg
+gdc,tz6r.0,51691,51762,illo,51726,51728,Er,questenberg
+gdc,tz6r.0,51691,51762,illo,51754,51761,Octavio,octavio
+gdc,tz6r.0,51790,52048,_stage,51798,51810,"Questenberg,",questenberg
+gdc,tz6r.0,51790,52048,_stage,51811,51829,"beide Piccolomini,",max-/-octavio
+gdc,tz6r.0,51790,52048,_stage,51830,51837,Buttler,buttler
+gdc,tz6r.0,51790,52048,_stage,51839,51846,Isolani,isolani
+gdc,tz6r.0,51790,52048,_stage,51848,51855,Maradas,Maradas
+gdc,tz6r.0,51790,52048,_stage,51914,51926,des Generals,wallenstein
+gdc,tz6r.0,51790,52048,_stage,51933,51944,Questenberg,questenberg
+gdc,tz6r.0,51790,52048,_stage,51945,51948,ihm,wallenstein
+gdc,tz6r.0,51790,52048,_stage,51972,51982,die andern,die-andern
+gdc,tz6r.0,51790,52048,_stage,51995,52000,ihrem,die-andern
+gdc,tz6r.0,52050,52368,wallenstein,52064,52067,Ich,wallenstein
+gdc,tz6r.0,52050,52368,wallenstein,52083,52088,Ihrer,questenberg
+gdc,tz6r.0,52050,52368,wallenstein,52114,52125,Questenberg,questenberg
+gdc,tz6r.0,52050,52368,wallenstein,52151,52164,meinen Schluß,meinen-Schluß
+gdc,tz6r.0,52050,52368,wallenstein,52151,52157,meinen,wallenstein
+gdc,tz6r.0,52050,52368,wallenstein,52173,52195,den nichts mehr ändert,meinen-Schluß
+gdc,tz6r.0,52050,52368,wallenstein,52204,52206,es,es2
+gdc,tz6r.0,52050,52368,wallenstein,52215,52219,sich,es2
+gdc,tz6r.0,52050,52368,wallenstein,52225,52240,die Kommandeurs,die-Kommandeurs
+gdc,tz6r.0,52050,52368,wallenstein,52246,52251,Ihrem,questenberg
+gdc,tz6r.0,52050,52368,wallenstein,52257,52268,des Kaisers,Kaiser
+gdc,tz6r.0,52050,52368,wallenstein,52295,52300,Ihnen,questenberg
+gdc,tz6r.0,52050,52368,wallenstein,52307,52311,sich,questenberg
+gdc,tz6r.0,52050,52368,wallenstein,52312,52317,Ihres,questenberg
+gdc,tz6r.0,52050,52368,wallenstein,52332,52353,diesen edeln Häuptern,die-Kommandeurs
+gdc,tz6r.0,52374,52520,questenberg,52388,52391,Ich,questenberg
+gdc,tz6r.0,52374,52520,questenberg,52414,52417,ich,questenberg
+gdc,tz6r.0,52374,52520,questenberg,52477,52483,meinem,questenberg
+gdc,tz6r.0,52563,53278,questenberg,52581,52595,Seine Majestät,Kaiser
+gdc,tz6r.0,52563,53278,questenberg,52608,52613,ihren,wallenstein
+gdc,tz6r.0,52563,53278,questenberg,52649,52670,kriegserfahrnes Haupt,wallenstein
+gdc,tz6r.0,52563,53278,questenberg,52685,52717,der Person des Herzogs Friedland,wallenstein
+gdc,tz6r.0,52563,53278,questenberg,52827,52832,ihren,wallenstein
+gdc,tz6r.0,52563,53278,questenberg,52864,52870,Böheim,Böheim
+gdc,tz6r.0,52563,53278,questenberg,52875,52886,den Sachsen,Die-Sachsen
+gdc,tz6r.0,52563,53278,questenberg,52889,52901,Der Schweden,die-Schweden
+gdc,tz6r.0,52563,53278,questenberg,52980,52996,Herzog Friedland,wallenstein
+gdc,tz6r.0,52563,53278,questenberg,53052,53064,Deutschlands,Deutschlands
+gdc,tz6r.0,52563,53278,questenberg,53143,53152,Oxenstirn,den-schwedschen-Kanzler
+gdc,tz6r.0,53327,54224,questenberg,53379,53398,den neuen Feldherrn,den-neuen-Feldherrn
+gdc,tz6r.0,53327,54224,questenberg,53589,53592,ihn,den-neuen-Feldherrn
+gdc,tz6r.0,53327,54224,questenberg,53607,53609,er,den-neuen-Feldherrn
+gdc,tz6r.0,53327,54224,questenberg,53728,53737,der König,der-König
+gdc,tz6r.0,53327,54224,questenberg,53771,53773,er,der-König
+gdc,tz6r.0,53327,54224,questenberg,53797,53800,ihm,der-König
+gdc,tz6r.0,53327,54224,questenberg,53960,53989,Der Niegehemmte stürmend Bahn,Der-Niegehemmte-stürmend-Bahn
+gdc,tz6r.0,53327,54224,questenberg,53990,53994,sich,Der-Niegehemmte-stürmend-Bahn
+gdc,tz6r.0,53327,54224,questenberg,54029,54043,ein Widerstand,ein-Widerstand
+gdc,tz6r.0,53327,54224,questenberg,54051,54054,ihn,ein-Widerstand
+gdc,tz6r.0,53327,54224,questenberg,54113,54117,sein,der-König
+gdc,tz6r.0,53327,54224,questenberg,54123,54132,der König,der-König
+gdc,tz6r.0,53327,54224,questenberg,54191,54193,es,es3
+gdc,tz6r.0,53327,54224,questenberg,54194,54197,ihm,der-König
+gdc,tz6r.0,53327,54224,questenberg,54199,54223,das grause Menschenopfer,es3
+gdc,tz6r.0,54230,54330,wallenstein,54253,54257,Sies,questenberg
+gdc,tz6r.0,54336,55263,questenberg,54363,54367,mein,questenberg
+gdc,tz6r.0,54336,55263,questenberg,54376,54381,meine,questenberg
+gdc,tz6r.0,54336,55263,questenberg,54399,54403,mein,questenberg
+gdc,tz6r.0,54336,55263,questenberg,54463,54484,der schwedische König,der-schwedische-König
+gdc,tz6r.0,54336,55263,questenberg,54557,54573,Herzog Friedland,wallenstein
+gdc,tz6r.0,54336,55263,questenberg,54622,54628,Böheim,Böheim
+gdc,tz6r.0,54336,55263,questenberg,54673,54699,der junge weimarische Held,der-junge-weimarische-Held
+gdc,tz6r.0,54336,55263,questenberg,54746,54755,die Donau,die-Donau
+gdc,tz6r.0,54336,55263,questenberg,54769,54773,sich,der-junge-weimarische-Held
+gdc,tz6r.0,54336,55263,questenberg,54810,54820,Regenspurg,Regenspurg
+gdc,tz6r.0,54336,55263,questenberg,54878,54909,der Bayern wohlverdienter Fürst,der-Bayern-wohlverdienter-Fürst
+gdc,tz6r.0,54336,55263,questenberg,54931,54937,seiner,der-Bayern-wohlverdienter-Fürst
+gdc,tz6r.0,54336,55263,questenberg,54966,54976,der Kaiser,Kaiser
+gdc,tz6r.0,54336,55263,questenberg,54997,55013,Herzog Friedland,wallenstein
+gdc,tz6r.0,54336,55263,questenberg,55050,55052,er,Kaiser
+gdc,tz6r.0,54336,55263,questenberg,55117,55127,Der Herzog,wallenstein
+gdc,tz6r.0,54336,55263,questenberg,55252,55262,Regenspurg,Regenspurg
+gdc,tz6r.0,55269,55358,wallenstein,55319,55322,Max,max
+gdc,tz6r.0,55269,55358,wallenstein,55325,55328,Ich,wallenstein
+gdc,tz6r.0,55364,55408,max,55370,55372,Er,questenberg
+gdc,tz6r.0,55364,55408,max,55385,55388,wir,max-/-wallenstein
+gdc,tz6r.0,55414,55478,wallenstein,55457,55460,wir,max-/-wallenstein
+gdc,tz6r.0,55484,55534,max,55489,55501,Die Schweden,die-Schweden
+gdc,tz6r.0,55484,55534,max,55522,55533,die Sachsen,Die-Sachsen
+gdc,tz6r.0,55539,55659,wallenstein,55592,55595,ich,wallenstein
+gdc,tz6r.0,55539,55659,wallenstein,55598,55614,Den ganzen Krieg,Den-ganzen-Krieg
+gdc,tz6r.0,55619,55634,_stage,55622,55633,Questenberg,questenberg
+gdc,tz6r.0,55664,56138,questenberg,55729,55738,der Donau,die-Donau
+gdc,tz6r.0,55664,56138,questenberg,55841,55860,Friedland in Person,wallenstein
+gdc,tz6r.0,55664,56138,questenberg,55876,55899,Der Nebenbuhler Gustavs,Thurn
+gdc,tz6r.0,55664,56138,questenberg,55908,55913,Thurn,Thurn
+gdc,tz6r.0,55664,56138,questenberg,55925,55932,Arnheim,Arnheim
+gdc,tz6r.0,55664,56138,questenberg,55937,55941,sich,wallenstein
+gdc,tz6r.0,55664,56138,questenberg,56030,56034,sich,wallenstein
+gdc,tz6r.0,55664,56138,questenberg,56049,56065,Ganz Deutschland,Deutschlands
+gdc,tz6r.0,56144,56588,wallenstein,56222,56240,der junge Feldherr,des-bewährten-Feldherrn
+gdc,tz6r.0,56144,56588,wallenstein,56263,56286,des bewährten Feldherrn,des-bewährten-Feldherrn
+gdc,tz6r.0,56144,56588,wallenstein,56298,56300,er,des-bewährten-Feldherrn
+gdc,tz6r.0,56144,56588,wallenstein,56354,56356,er,des-bewährten-Feldherrn
+gdc,tz6r.0,56144,56588,wallenstein,56377,56380,Mir,wallenstein
+gdc,tz6r.0,56144,56588,wallenstein,56404,56410,meines,wallenstein
+gdc,tz6r.0,56144,56588,wallenstein,56419,56423,Mich,wallenstein
+gdc,tz6r.0,56144,56588,wallenstein,56435,56442,Arnheim,Arnheim
+gdc,tz6r.0,56144,56588,wallenstein,56469,56480,Deutschland,Deutschlands
+gdc,tz6r.0,56144,56588,wallenstein,56481,56486,meine,wallenstein
+gdc,tz6r.0,56594,57135,questenberg,56708,56717,der Fürst,wallenstein
+gdc,tz6r.0,56594,57135,questenberg,56917,56954,Die fluchbeladne Fackel dieses Kriegs,Thurn
+gdc,tz6r.0,56594,57135,questenberg,56957,56971,Matthias Thurn,Thurn
+gdc,tz6r.0,56594,57135,questenberg,57027,57029,er,Thurn
+gdc,tz6r.0,56594,57135,questenberg,57059,57061,er,Thurn
+gdc,tz6r.0,56594,57135,questenberg,57107,57119,den Erzfeind,Thurn
+gdc,tz6r.0,56594,57135,questenberg,57127,57134,Kaisers,Kaiser
+gdc,tz6r.0,57141,57421,wallenstein,57161,57164,Ich,wallenstein
+gdc,tz6r.0,57141,57421,wallenstein,57171,57174,ich,wallenstein
+gdc,tz6r.0,57141,57421,wallenstein,57182,57185,Sie,die-Wiener
+gdc,tz6r.0,57141,57421,wallenstein,57252,57255,Ihn,Thurn
+gdc,tz6r.0,57141,57421,wallenstein,57310,57313,ich,wallenstein
+gdc,tz6r.0,57141,57421,wallenstein,57362,57365,mir,wallenstein
+gdc,tz6r.0,57141,57421,wallenstein,57366,57376,die Wiener,die-Wiener
+gdc,tz6r.0,57141,57421,wallenstein,57389,57392,ich,wallenstein
+gdc,tz6r.0,57141,57421,wallenstein,57410,57413,sie,die-Wiener
+gdc,tz6r.0,57427,57754,questenberg,57480,57490,Den Herzog,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57514,57520,Bayern,Bayern
+gdc,tz6r.0,57427,57754,questenberg,57523,57525,Er,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57546,57550,sich,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57586,57588,er,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57589,57595,Böheim,Böheim
+gdc,tz6r.0,57427,57754,questenberg,57628,57630,er,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57663,57665,Er,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57688,57692,sein,Den-Herzog
+gdc,tz6r.0,57427,57754,questenberg,57714,57725,Des Kaisers,Kaiser
+gdc,tz6r.0,57427,57754,questenberg,57737,57753,des Kaisers Heer,des-Kaisers-Heer
+gdc,tz6r.0,57427,57754,questenberg,57737,57748,des Kaisers,Kaiser
+gdc,tz6r.0,57760,58346,wallenstein,57774,57782,Das Heer,des-Kaisers-Heer
+gdc,tz6r.0,57760,58346,wallenstein,57874,57886,die Majestät,Kaiser
+gdc,tz6r.0,57760,58346,wallenstein,57891,57896,ihren,Kaiser
+gdc,tz6r.0,57760,58346,wallenstein,57897,57904,Truppen,des-Kaisers-Heer
+gdc,tz6r.0,57760,58346,wallenstein,58026,58038,des Soldaten,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58044,58046,Er,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58072,58075,ihm,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58081,58083,er,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58109,58112,ihn,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58114,58116,Er,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58121,58125,sich,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58150,58153,ihm,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58202,58204,er,des-Soldaten
+gdc,tz6r.0,57760,58346,wallenstein,58240,58245,meine,wallenstein
+gdc,tz6r.0,57760,58346,wallenstein,58246,58254,Generals,alle-Generale
+gdc,tz6r.0,57760,58346,wallenstein,58256,58263,Caraffa,Caraffa
+gdc,tz6r.0,57760,58346,wallenstein,58280,58287,Buttler,buttler
+gdc,tz6r.0,57760,58346,wallenstein,58297,58300,ihm,Caraffa
+gdc,tz6r.0,57760,58346,wallenstein,58312,58320,der Sold,der-Sold
+gdc,tz6r.0,57760,58346,wallenstein,58321,58332,den Truppen,des-Kaisers-Heer
+gdc,tz6r.0,58352,58394,buttler,58382,58393,die Löhnung,der-Sold
+gdc,tz6r.0,58399,58470,wallenstein,58417,58421,sein,des-Soldaten
+gdc,tz6r.0,58399,58470,wallenstein,58422,58426,Sold,der-Sold
+gdc,tz6r.0,58399,58470,wallenstein,58432,58444,dem Soldaten,des-Soldaten
+gdc,tz6r.0,58399,58470,wallenstein,58467,58469,er,des-Soldaten
+gdc,tz6r.0,58476,58585,questenberg,58518,58541,der Fürst von Friedland,wallenstein
+gdc,tz6r.0,58476,58585,questenberg,58565,58569,sich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,58609,58614,meine,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,58641,58644,ich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,58657,58660,mir,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,58661,58671,den Kaiser,Kaiser
+gdc,tz6r.0,58591,59493,wallenstein,58732,58735,ich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,58747,58750,ihm,Kaiser
+gdc,tz6r.0,58591,59493,wallenstein,58836,58839,Ihm,Kaiser
+gdc,tz6r.0,58591,59493,wallenstein,58940,58946,seines,Kaiser
+gdc,tz6r.0,58591,59493,wallenstein,58990,59009,ganzen Kaiserstaate,das-Reich
+gdc,tz6r.0,58591,59493,wallenstein,59045,59050,meine,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59112,59118,seiner,Kaiser
+gdc,tz6r.0,58591,59493,wallenstein,59136,59163,dem Regenspurger Fürstentag,dem-Regenspurger-Fürstentag
+gdc,tz6r.0,58591,59493,wallenstein,59174,59176,es,es4
+gdc,tz6r.0,58591,59493,wallenstein,59189,59191,es,es4
+gdc,tz6r.0,58591,59493,wallenstein,59209,59252,Aus welchem Beutel ich gewirtschaft't hatte,es4
+gdc,tz6r.0,58591,59493,wallenstein,59228,59231,ich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59271,59275,mein,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59292,59295,ich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59298,59322,Ein treuer Fürstenknecht,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59346,59350,mich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59362,59374,diesen Krieg,Den-ganzen-Krieg
+gdc,tz6r.0,58591,59493,wallenstein,59385,59388,Ihn,Kaiser
+gdc,tz6r.0,58591,59493,wallenstein,59403,59414,die Fürsten,des-Reiches-Fürsten
+gdc,tz6r.0,58591,59493,wallenstein,59453,59456,ich,wallenstein
+gdc,tz6r.0,58591,59493,wallenstein,59457,59462,ihren,des-Reiches-Fürsten
+gdc,tz6r.0,58591,59493,wallenstein,59489,59492,ich,wallenstein
+gdc,tz6r.0,59499,59604,questenberg,59513,59524,Eure Gnaden,Kaiser
+gdc,tz6r.0,59499,59604,questenberg,59545,59575,jenem unglücksvollen Reichstag,dem-Regenspurger-Fürstentag
+gdc,tz6r.0,59499,59604,questenberg,59590,59593,ihm,Kaiser
+gdc,tz6r.0,59610,60059,wallenstein,59641,59644,Ich,wallenstein
+gdc,tz6r.0,59610,60059,wallenstein,59656,59659,ihm,Kaiser
+gdc,tz6r.0,59610,60059,wallenstein,59695,59699,Herr,questenberg
+gdc,tz6r.0,59610,60059,wallenstein,59712,59715,mir,wallenstein
+gdc,tz6r.0,59610,60059,wallenstein,59736,59745,Dem Thron,Kaiser
+gdc,tz6r.0,59610,60059,wallenstein,59761,59772,des Reiches,das-Reich
+gdc,tz6r.0,59610,60059,wallenstein,59786,59789,ich,wallenstein
+gdc,tz6r.0,59610,60059,wallenstein,59794,59799,Reich,das-Reich
+gdc,tz6r.0,59610,60059,wallenstein,59832,59838,Kaiser,Kaiser
+gdc,tz6r.0,59610,60059,wallenstein,59852,59855,ich,wallenstein
+gdc,tz6r.0,59610,60059,wallenstein,59856,59867,diesen Stab,diesen-Stab
+gdc,tz6r.0,59610,60059,wallenstein,59880,59883,ich,wallenstein
+gdc,tz6r.0,59610,60059,wallenstein,59890,59893,ihn,diesen-Stab
+gdc,tz6r.0,59610,60059,wallenstein,59898,59909,des Reiches,das-Reich
+gdc,tz6r.0,59610,60059,wallenstein,59995,60004,des Einen,Kaiser
+gdc,tz6r.0,59610,60059,wallenstein,60047,60050,mir,wallenstein
+gdc,tz6r.0,60065,60154,questenberg,60097,60111,Seine Majestät,Kaiser
+gdc,tz6r.0,60065,60154,questenberg,60118,60127,die Armee,des-Kaisers-Heer
+gdc,tz6r.0,60065,60154,questenberg,60141,60147,Böhmen,Böheim
+gdc,tz6r.0,60160,60236,wallenstein,60221,60224,wir,des-Kaisers-Heer
+gdc,tz6r.0,60160,60236,wallenstein,60225,60228,uns,des-Kaisers-Heer
+gdc,tz6r.0,60242,60475,questenberg,60266,60275,der Feind,dem-Feind
+gdc,tz6r.0,60242,60475,questenberg,60287,60301,Seine Majestät,Kaiser
+gdc,tz6r.0,60242,60475,questenberg,60307,60317,Regenspurg,Regenspurg
+gdc,tz6r.0,60242,60475,questenberg,60339,60344,Feind,dem-Feind
+gdc,tz6r.0,60481,60529,wallenstein,60499,60502,das,"Denn-Seine-Majestät-will-Regenspurg---------------Vor-Ostern-noch-vom-Feind-gesäubert-sehn,---------------Daß-länger-nicht-im-Dome-lutherisch----------------Gepredigt-werde-–-ketzerischer-Greul---------------Des-Festes-reine-Feier-nicht-besudle."
+gdc,tz6r.0,60481,60529,wallenstein,60514,60519,meine,wallenstein
+gdc,tz6r.0,60481,60529,wallenstein,60520,60528,Generals,alle-Generale
+gdc,tz6r.0,60534,60561,illo,60540,60542,Es,"Denn-Seine-Majestät-will-Regenspurg---------------Vor-Ostern-noch-vom-Feind-gesäubert-sehn,---------------Daß-länger-nicht-im-Dome-lutherisch----------------Gepredigt-werde-–-ketzerischer-Greul---------------Des-Festes-reine-Feier-nicht-besudle."
+gdc,tz6r.0,60566,60598,buttler,60575,60577,Es,"Denn-Seine-Majestät-will-Regenspurg---------------Vor-Ostern-noch-vom-Feind-gesäubert-sehn,---------------Daß-länger-nicht-im-Dome-lutherisch----------------Gepredigt-werde-–-ketzerischer-Greul---------------Des-Festes-reine-Feier-nicht-besudle."
+gdc,tz6r.0,60603,60702,questenberg,60617,60627,Der Kaiser,Kaiser
+gdc,tz6r.0,60603,60702,questenberg,60643,60658,dem Oberst Suys,dem-Oberst-Suys
+gdc,tz6r.0,60603,60702,questenberg,60683,60689,Bayern,Bayern
+gdc,tz6r.0,60708,60738,wallenstein,60729,60737,der Suys,dem-Oberst-Suys
+gdc,tz6r.0,60743,60793,questenberg,60761,60763,er,dem-Oberst-Suys
+gdc,tz6r.0,60743,60793,questenberg,60779,60781,Er,dem-Oberst-Suys
+gdc,tz6r.0,60799,61133,wallenstein,60813,60815,Er,dem-Oberst-Suys
+gdc,tz6r.0,60799,61133,wallenstein,60832,60835,ich,wallenstein
+gdc,tz6r.0,60799,61133,wallenstein,60838,60847,Sein Chef,wallenstein
+gdc,tz6r.0,60799,61133,wallenstein,60838,60842,Sein,dem-Oberst-Suys
+gdc,tz6r.0,60799,61133,wallenstein,60853,60856,ihm,dem-Oberst-Suys
+gdc,tz6r.0,60799,61133,wallenstein,60930,60934,mein,wallenstein
+gdc,tz6r.0,60799,61133,wallenstein,60953,60965,der Gehorsam,der-Gehorsam
+gdc,tz6r.0,60799,61133,wallenstein,60968,60971,Den,der-Gehorsam
+gdc,tz6r.0,60799,61133,wallenstein,60976,60979,mir,wallenstein
+gdc,tz6r.0,60799,61133,wallenstein,60995,60998,den,der-Gehorsam
+gdc,tz6r.0,60799,61133,wallenstein,61032,61035,Sie,alle-Generale
+gdc,tz6r.0,60799,61133,wallenstein,61037,61042,meine,wallenstein
+gdc,tz6r.0,60799,61133,wallenstein,61043,61051,Generale,alle-Generale
+gdc,tz6r.0,60799,61133,wallenstein,61060,61067,Richter,alle-Generale
+gdc,tz6r.0,60799,61133,wallenstein,61082,61094,der Offizier,der-Offizier
+gdc,tz6r.0,60799,61133,wallenstein,61097,61100,Der,der-Offizier
+gdc,tz6r.0,60799,61133,wallenstein,61114,61119,seine,der-Offizier
+gdc,tz6r.0,61139,61153,illo,61145,61152,Den Tod,Den-Tod
+gdc,tz6r.0,61158,61268,wallenstein,61229,61245,Graf Piccolomini,max
+gdc,tz6r.0,61158,61268,wallenstein,61255,61257,er,der-Offizier
+gdc,tz6r.0,61274,61336,max,61328,61335,den Tod,Den-Tod
+gdc,tz6r.0,61341,61358,isolani,61350,61357,Den Tod,Den-Tod
+gdc,tz6r.0,61363,61462,buttler,61372,61396,Den Tod nach Kriegsrecht,Den-Tod
+gdc,tz6r.0,61399,61462,_stage,61399,61410,Questenberg,questenberg
+gdc,tz6r.0,61399,61462,_stage,61422,61433,Wallenstein,wallenstein
+gdc,tz6r.0,61399,61462,_stage,61452,61456,sich,alle
+gdc,tz6r.0,61399,61462,_stage,61457,61461,alle,alle
+gdc,tz6r.0,61466,61604,wallenstein,61494,61497,ihn,dem-Oberst-Suys
+gdc,tz6r.0,61466,61604,wallenstein,61516,61519,ich,wallenstein
+gdc,tz6r.0,61466,61604,wallenstein,61531,61534,ich,wallenstein
+gdc,tz6r.0,61466,61604,wallenstein,61535,61538,ihn,dem-Oberst-Suys
+gdc,tz6r.0,61466,61604,wallenstein,61590,61596,meinen,wallenstein
+gdc,tz6r.0,61466,61604,wallenstein,61597,61603,Kaiser,Kaiser
+gdc,tz6r.0,61610,61673,questenberg,61643,61646,ich,questenberg
+gdc,tz6r.0,61678,62207,wallenstein,61715,61718,ich,wallenstein
+gdc,tz6r.0,61678,62207,wallenstein,61765,61768,mir,wallenstein
+gdc,tz6r.0,61678,62207,wallenstein,61814,61824,der Kaiser,Kaiser
+gdc,tz6r.0,61678,62207,wallenstein,61837,61846,der Armee,des-Kaisers-Heer
+gdc,tz6r.0,61678,62207,wallenstein,61892,61895,ich,wallenstein
+gdc,tz6r.0,61678,62207,wallenstein,61900,61906,meiner,wallenstein
+gdc,tz6r.0,61678,62207,wallenstein,61918,61924,meinem,wallenstein
+gdc,tz6r.0,61678,62207,wallenstein,61947,61950,ich,wallenstein
+gdc,tz6r.0,61678,62207,wallenstein,61982,61995,diesen Gustav,der-schwedische-König
+gdc,tz6r.0,61678,62207,wallenstein,62036,62040,Dies,Dies
+gdc,tz6r.0,61678,62207,wallenstein,62042,62074,daß er König war in seinem Heer!,Dies
+gdc,tz6r.0,61678,62207,wallenstein,62046,62048,er,der-schwedische-König
+gdc,tz6r.0,61678,62207,wallenstein,62049,62054,König,der-schwedische-König
+gdc,tz6r.0,61678,62207,wallenstein,62062,62068,seinem,der-schwedische-König
+gdc,tz6r.0,61678,62207,wallenstein,62076,62085,Ein König,Ein-König
+gdc,tz6r.0,61678,62207,wallenstein,62099,62102,der,Ein-König
+gdc,tz6r.0,62213,62481,questenberg,62227,62246,Der Kardinal-Infant,Ferdinand-von-Spanien
+gdc,tz6r.0,62213,62481,questenberg,62319,62330,Deutschland,Deutschlands
+gdc,tz6r.0,62213,62481,questenberg,62368,62370,er,Ferdinand-von-Spanien
+gdc,tz6r.0,62213,62481,questenberg,62378,62384,seinen,Ferdinand-von-Spanien
+gdc,tz6r.0,62213,62481,questenberg,62405,62416,der Monarch,Kaiser
+gdc,tz6r.0,62213,62481,questenberg,62442,62457,Acht Regimenter,Acht-Regimenter
+gdc,tz6r.0,62213,62481,questenberg,62458,62461,ihn,Ferdinand-von-Spanien
+gdc,tz6r.0,62487,62740,wallenstein,62501,62504,Ich,wallenstein
+gdc,tz6r.0,62487,62740,wallenstein,62511,62514,ich,wallenstein
+gdc,tz6r.0,62487,62740,wallenstein,62522,62537,Acht Regimenter,Acht-Regimenter
+gdc,tz6r.0,62487,62740,wallenstein,62565,62580,Pater Lamormain,Pater-Lamormain
+gdc,tz6r.0,62487,62740,wallenstein,62647,62650,ihn,Pater-Lamormain
+gdc,tz6r.0,62487,62740,wallenstein,62722,62725,Ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,62853,62857,mein,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,62858,62874,Herr Abgesandter,questenberg
+gdc,tz6r.0,62834,64347,wallenstein,62876,62879,Ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,62960,62966,meiner,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63027,63042,spanschen Namen,Ferdinand-von-Spanien
+gdc,tz6r.0,62834,64347,wallenstein,63052,63056,mein,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63079,63084,Reich,das-Reich
+gdc,tz6r.0,62834,64347,wallenstein,63095,63110,eine neue Macht,eine-neue-Macht
+gdc,tz6r.0,62834,64347,wallenstein,63113,63141,Die mir nicht untergeben sei,eine-neue-Macht
+gdc,tz6r.0,62834,64347,wallenstein,63117,63120,mir,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63143,63147,Mich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63184,63187,ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63211,63215,Mein,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63258,63261,mir,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63321,63338,spanschen Truppen,spanschen-Truppen
+gdc,tz6r.0,62834,64347,wallenstein,63412,63423,im Vertrage,im-Vertrage
+gdc,tz6r.0,62834,64347,wallenstein,63476,63479,ihm,im-Vertrage
+gdc,tz6r.0,62834,64347,wallenstein,63495,63499,mich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63568,63571,mir,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63606,63619,Herr Minister,questenberg
+gdc,tz6r.0,62834,64347,wallenstein,63636,63646,Den Kaiser,Kaiser
+gdc,tz6r.0,62834,64347,wallenstein,63670,63673,mir,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63675,63677,Er,Kaiser
+gdc,tz6r.0,62834,64347,wallenstein,63696,63699,ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63708,63711,Ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63717,63720,ihm,Kaiser
+gdc,tz6r.0,62834,64347,wallenstein,63766,63770,Herr,questenberg
+gdc,tz6r.0,62834,64347,wallenstein,63780,63783,Sie,questenberg
+gdc,tz6r.0,63793,63861,_stage,63805,63818,eine Bewegung,eine-Bewegung
+gdc,tz6r.0,63793,63861,_stage,63825,63838,den Generalen,alle-Generale
+gdc,tz6r.0,63793,63861,_stage,63840,63846,welche,eine-Bewegung
+gdc,tz6r.0,62834,64347,wallenstein,63870,63873,mir,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63882,63887,meine,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63888,63896,Obersten,Obersten
+gdc,tz6r.0,62834,64347,wallenstein,63908,63911,ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,63923,63926,sie,Obersten
+gdc,tz6r.0,62834,64347,wallenstein,63930,63935,ihren,Obersten
+gdc,tz6r.0,62834,64347,wallenstein,63936,63957,vorgeschoßnen Geldern,vorgeschoßnen-Geldern
+gdc,tz6r.0,62834,64347,wallenstein,63964,63984,wohlverdienten Lohne,vorgeschoßnen-Geldern
+gdc,tz6r.0,62834,64347,wallenstein,64129,64137,der Mann,der-Mann
+gdc,tz6r.0,62834,64347,wallenstein,64169,64172,Ich,wallenstein
+gdc,tz6r.0,62834,64347,wallenstein,64197,64203,seinem,der-Mann
+gdc,tz6r.0,62834,64347,wallenstein,64221,64227,seinem,der-Mann
+gdc,tz6r.0,62834,64347,wallenstein,64304,64308,mich,wallenstein
+gdc,tz6r.0,64333,64347,_stage,64333,64335,Er,wallenstein
+gdc,tz6r.0,64351,64509,max,64407,64416,Die ganze,des-Kaisers-Heer
+gdc,tz6r.0,64351,64509,max,64446,64450,sich,des-Kaisers-Heer
+gdc,tz6r.0,64351,64509,max,64462,64472,Der Kaiser,Kaiser
+gdc,tz6r.0,64578,64817,wallenstein,64612,64618,Isolan,isolani
+gdc,tz6r.0,64578,64817,wallenstein,64654,64657,wir,des-Kaisers-Heer
+gdc,tz6r.0,64578,64817,wallenstein,64762,64772,dem Kaiser,Kaiser
+gdc,tz6r.0,64827,64907,_stage,64890,64893,sie,alle-Generale
+gdc,tz6r.0,64823,65127,max,64913,64917,mich,max
+gdc,tz6r.0,64823,65127,max,64919,64923,mein,max
+gdc,tz6r.0,64823,65127,max,64924,64932,Feldherr,wallenstein
+gdc,tz6r.0,64823,65127,max,64939,64943,mich,max
+gdc,tz6r.0,64823,65127,max,64945,64953,Obersten,alle-Generale
+gdc,tz6r.0,64823,65127,max,64960,64964,dich,wallenstein
+gdc,tz6r.0,64823,65127,max,64977,64982,Fürst,wallenstein
+gdc,tz6r.0,64823,65127,max,65008,65011,wir,alle-Generale
+gdc,tz6r.0,64823,65127,max,65035,65038,dir,wallenstein
+gdc,tz6r.0,64823,65127,max,65070,65075,meine,max
+gdc,tz6r.0,64823,65127,max,65076,65083,Freunde,alle-Generale
+gdc,tz6r.0,64823,65127,max,65086,65089,Ich,max
+gdc,tz6r.0,65133,65197,terzky,65174,65177,wir,alle-Generale
+gdc,tz6r.0,65209,65224,_stage,65212,65223,Questenberg,questenberg
+gdc,tz6r.0,65201,65432,buttler,65251,65256,Ihnen,alle-Generale
+gdc,tz6r.0,65201,65432,buttler,65276,65280,Sies,questenberg
+gdc,tz6r.0,65201,65432,buttler,65308,65312,Sich,questenberg
+gdc,tz6r.0,65201,65432,buttler,65353,65356,Sie,questenberg
+gdc,tz6r.0,65436,65852,wallenstein,65468,65475,Octavio,octavio
+gdc,tz6r.0,65436,65852,wallenstein,65477,65479,du,octavio
+gdc,tz6r.0,65436,65852,wallenstein,65516,65519,mir,wallenstein
+gdc,tz6r.0,65436,65852,wallenstein,65537,65540,Sie,questenberg
+gdc,tz6r.0,65436,65852,wallenstein,65541,65545,sich,questenberg
+gdc,tz6r.0,65436,65852,wallenstein,65552,65567,von Questenberg,questenberg
+gdc,tz6r.0,65571,65593,_stage,65575,65581,dieser,questenberg
+gdc,tz6r.0,65436,65852,wallenstein,65641,65644,Sie,questenberg
+gdc,tz6r.0,65436,65852,wallenstein,65651,65655,Ihre,questenberg
+gdc,tz6r.0,65436,65852,wallenstein,65670,65673,Ich,wallenstein
+gdc,tz6r.0,65436,65852,wallenstein,65680,65688,Den Mann,Den-Mann
+gdc,tz6r.0,65436,65852,wallenstein,65693,65699,seinem,Den-Mann
+gdc,tz6r.0,65724,65852,_stage,65730,65741,Questenberg,questenberg
+gdc,tz6r.0,65724,65852,_stage,65746,65757,dem Octavio,octavio
+gdc,tz6r.0,65724,65852,_stage,65786,65796,Tiefenbach,tiefenbach
+gdc,tz6r.0,65724,65852,_stage,65798,65805,Colalto,colalto
+gdc,tz6r.0,65856,65897,goetz,65869,65871,er,questenberg
+gdc,tz6r.0,65856,65897,goetz,65873,65876,der,questenberg
+gdc,tz6r.0,65856,65897,goetz,65877,65880,uns,tiefenbach-/-goetz-+-2
+gdc,tz6r.0,65856,65897,goetz,65881,65887,unsern,tiefenbach-/-goetz-+-2
+gdc,tz6r.0,65856,65897,goetz,65888,65895,General,wallenstein
+gdc,tz6r.0,65902,65963,tiefenbach,65934,65937,wir,tiefenbach-/-goetz-+-2
+gdc,tz6r.0,65902,65963,tiefenbach,65948,65950,du,wallenstein
+gdc,tz6r.0,65902,65963,tiefenbach,65958,65961,uns,tiefenbach-/-goetz-+-2
+gdc,tz6r.0,65968,66028,colalto,65986,65989,Wir,tiefenbach-/-goetz-+-2
+gdc,tz6r.0,65968,66028,colalto,66001,66004,dir,wallenstein
+gdc,tz6r.0,65968,66028,colalto,66016,66019,dir,wallenstein
+gdc,tz6r.0,66045,66082,_stage,66064,66066,er,wallenstein
+gdc,tz6r.0,66045,66082,_stage,66071,66075,Illo,illo
+gdc,tz6r.0,66033,66138,wallenstein,66088,66105,der Feldmarschall,illo
+gdc,tz6r.0,66033,66138,wallenstein,66114,66120,meinen,wallenstein
+gdc,tz6r.0,66210,66305,terzky,66228,66231,mir,terzky
+gdc,tz6r.0,67373,67468,terzky,67387,67390,mir,terzky
+gdc,tz6r.0,67751,68133,terzky,67760,67763,Ich,terzky
+gdc,tz6r.0,67751,68133,terzky,67769,67773,mich,terzky
+gdc,tz6r.0,67751,68133,terzky,67843,67847,mich,terzky
+gdc,tz6r.0,67751,68133,terzky,67993,67997,mein,terzky
+gdc,tz6r.0,67751,68133,terzky,67998,68001,ich,terzky
+gdc,tz6r.0,67751,68133,terzky,68007,68010,ich,terzky
+gdc,tz6r.0,68139,68296,illo,68180,68183,Ich,illo
+gdc,tz6r.0,68302,68555,terzky,68497,68500,ich,terzky
+gdc,tz6r.0,68561,69364,illo,68969,68972,Ich,illo
+gdc,tz6r.0,69745,69916,terzky,69775,69778,Ich,terzky
+gdc,tz6r.0,70164,70216,terzky,70183,70186,Ich,terzky
+gdc,tz6r.0,70274,70487,terzky,70293,70296,ich,terzky
+gdc,tz6r.0,70274,70487,terzky,70428,70432,mich,terzky
+gdc,tz6r.0,70493,71014,graefin,70501,70504,Ich,graefin
+gdc,tz6r.0,70493,71014,graefin,70515,70519,mich,graefin
+gdc,tz6r.0,70493,71014,graefin,70616,70619,ich,graefin
+gdc,tz6r.0,70493,71014,graefin,70809,70812,Ich,graefin
+gdc,tz6r.0,70493,71014,graefin,70909,70915,Meiner,graefin
+gdc,tz6r.0,71703,71850,max,71751,71754,ich,max
+gdc,tz6r.0,71950,72116,max,72068,72071,mir,max
+gdc,tz6r.0,71950,72116,max,72101,72105,mich,max
+gdc,tz6r.0,72122,72153,graefin,72143,72148,meine,graefin
+gdc,tz6r.0,72158,72298,max,72185,72188,mir,max
+gdc,tz6r.0,72158,72298,max,72235,72239,mich,max
+gdc,tz6r.0,72158,72298,max,72280,72283,ich,max
+gdc,tz6r.0,72304,72497,graefin,72413,72416,ich,graefin
+gdc,tz6r.0,72304,72497,graefin,72465,72468,ich,graefin
+gdc,tz6r.0,72304,72497,graefin,72469,72473,mich,graefin
+gdc,tz6r.0,72552,72706,graefin,72581,72586,meine,graefin
+gdc,tz6r.0,72712,73460,max,72820,72823,mir,max
+gdc,tz6r.0,72712,73460,max,72902,72905,Ich,max
+gdc,tz6r.0,72712,73460,max,72911,72915,mich,max
+gdc,tz6r.0,72712,73460,max,72961,72967,meinen,max
+gdc,tz6r.0,72712,73460,max,73025,73028,Ich,max
+gdc,tz6r.0,72712,73460,max,73145,73148,mir,max
+gdc,tz6r.0,72712,73460,max,73182,73185,ich,max
+gdc,tz6r.0,72712,73460,max,73241,73244,mir,max
+gdc,tz6r.0,73466,73594,graefin,73484,73487,ich,graefin
+gdc,tz6r.0,73600,74465,max,73632,73636,mich,max
+gdc,tz6r.0,73600,74465,max,73638,73641,ich,max
+gdc,tz6r.0,73600,74465,max,73728,73731,mir,max
+gdc,tz6r.0,73600,74465,max,73754,73757,ich,max
+gdc,tz6r.0,73600,74465,max,73794,73798,Mich,max
+gdc,tz6r.0,73600,74465,max,73914,73917,mir,max
+gdc,tz6r.0,73600,74465,max,73926,73929,ich,max
+gdc,tz6r.0,73600,74465,max,74014,74018,mein,max
+gdc,tz6r.0,73600,74465,max,74067,74070,ich,max
+gdc,tz6r.0,73600,74465,max,74126,74129,ich,max
+gdc,tz6r.0,73600,74465,max,74143,74146,ich,max
+gdc,tz6r.0,73600,74465,max,74147,74151,mich,max
+gdc,tz6r.0,73600,74465,max,74254,74257,ich,max
+gdc,tz6r.0,73600,74465,max,74301,74304,ich,max
+gdc,tz6r.0,73600,74465,max,74379,74383,mich,max
+gdc,tz6r.0,73600,74465,max,74426,74429,mir,max
+gdc,tz6r.0,75129,75168,max,75149,75152,ich,max
+gdc,tz6r.0,75226,76336,max,75525,75528,mir,max
+gdc,tz6r.0,75226,76336,max,75582,75585,ich,max
+gdc,tz6r.0,75226,76336,max,75617,75621,mich,max
+gdc,tz6r.0,75226,76336,max,75637,75640,ich,max
+gdc,tz6r.0,75226,76336,max,75651,75657,meinem,max
+gdc,tz6r.0,75226,76336,max,75768,75771,Ich,max
+gdc,tz6r.0,75226,76336,max,75852,75858,meiner,max
+gdc,tz6r.0,75226,76336,max,75891,75894,Mir,max
+gdc,tz6r.0,75226,76336,max,75921,75924,ich,max
+gdc,tz6r.0,75226,76336,max,76021,76025,mich,max
+gdc,tz6r.0,75226,76336,max,76037,76040,ich,max
+gdc,tz6r.0,75226,76336,max,76052,76056,mich,max
+gdc,tz6r.0,75226,76336,max,76213,76217,Mein,max
+gdc,tz6r.0,76342,76516,graefin,76474,76478,mich,graefin
+gdc,tz6r.0,76342,76516,graefin,76494,76498,mein,graefin
+gdc,tz6r.0,76546,76701,graefin,76567,76570,ich,graefin
+gdc,tz6r.0,76546,76701,graefin,76616,76619,ich,graefin
+gdc,tz6r.0,76861,76938,max,76880,76884,Mein,max
+gdc,tz6r.0,76861,76938,max,76913,76917,mich,max
+gdc,tz6r.0,77076,77183,thekla,77114,77117,Ich,thekla
+gdc,tz6r.0,77076,77183,thekla,77165,77168,ich,thekla
+gdc,tz6r.0,77189,77352,max,77231,77234,ich,max
+gdc,tz6r.0,77189,77352,max,77335,77338,mir,max
+gdc,tz6r.0,77358,77407,thekla,77373,77377,mich,thekla
+gdc,tz6r.0,77412,78039,max,77440,77443,ich,max
+gdc,tz6r.0,77412,78039,max,77495,77499,Mich,max
+gdc,tz6r.0,77412,78039,max,77732,77736,mich,max
+gdc,tz6r.0,78045,78369,thekla,78213,78216,mir,thekla
+gdc,tz6r.0,78045,78369,thekla,78313,78316,Ich,thekla
+gdc,tz6r.0,78513,78751,thekla,78539,78543,mich,thekla
+gdc,tz6r.0,78513,78751,thekla,78550,78553,ich,thekla
+gdc,tz6r.0,78513,78751,thekla,78576,78580,Mich,thekla
+gdc,tz6r.0,78513,78751,thekla,78632,78635,mir,thekla
+gdc,tz6r.0,78513,78751,thekla,78663,78666,Mir,thekla
+gdc,tz6r.0,78513,78751,thekla,78710,78713,mir,thekla
+gdc,tz6r.0,78757,79017,max,78763,78766,Mir,max
+gdc,tz6r.0,78757,79017,max,78778,78782,mein,max
+gdc,tz6r.0,78757,79017,max,78850,78853,ich,max
+gdc,tz6r.0,78757,79017,max,78974,78978,mich,max
+gdc,tz6r.0,78757,79017,max,78994,78998,mich,max
+gdc,tz6r.0,78757,79017,max,79003,79009,meinem,max
+gdc,tz6r.0,79023,79411,thekla,79138,79141,ich,thekla
+gdc,tz6r.0,79023,79411,thekla,79148,79151,ich,thekla
+gdc,tz6r.0,79023,79411,thekla,79170,79176,meinem,thekla
+gdc,tz6r.0,79023,79411,thekla,79257,79260,ich,thekla
+gdc,tz6r.0,79417,79516,graefin,79452,79455,Ich,graefin
+gdc,tz6r.0,79790,79934,thekla,79885,79888,Mir,thekla
+gdc,tz6r.0,79790,79934,thekla,79914,79917,mir,thekla
+gdc,tz6r.0,79990,80117,thekla,80009,80013,mich,thekla
+gdc,tz6r.0,79990,80117,thekla,80039,80042,ich,thekla
+gdc,tz6r.0,80177,80301,thekla,80191,80196,meine,thekla
+gdc,tz6r.0,80307,80397,graefin,80356,80359,Ich,graefin
+gdc,tz6r.0,80307,80397,graefin,80364,80368,mich,graefin
+gdc,tz6r.0,80403,81469,thekla,80420,80423,mir,thekla
+gdc,tz6r.0,80403,81469,thekla,80445,80448,ich,thekla
+gdc,tz6r.0,80403,81469,thekla,80524,80528,mich,thekla
+gdc,tz6r.0,80403,81469,thekla,80615,80619,mich,thekla
+gdc,tz6r.0,80403,81469,thekla,80826,80829,mir,thekla
+gdc,tz6r.0,80403,81469,thekla,80831,80835,Mein,thekla
+gdc,tz6r.0,81475,82524,max,81495,81498,ich,max
+gdc,tz6r.0,81475,82524,max,81761,81767,meiner,max
+gdc,tz6r.0,81475,82524,max,81928,81931,mir,max
+gdc,tz6r.0,81475,82524,max,81943,81946,Mir,max
+gdc,tz6r.0,82530,82789,thekla,82575,82578,ich,thekla
+gdc,tz6r.0,82530,82789,thekla,82611,82615,mich,thekla
+gdc,tz6r.0,84008,84185,graefin,84017,84020,Ich,graefin
+gdc,tz6r.0,84236,84361,graefin,84277,84280,Mir,graefin
+gdc,tz6r.0,84236,84361,graefin,84296,84299,ich,graefin
+gdc,tz6r.0,84561,84639,thekla,84592,84595,mir,thekla
+gdc,tz6r.0,84561,84639,thekla,84597,84600,Ich,thekla
+gdc,tz6r.0,84717,84818,thekla,84735,84738,ich,thekla
+gdc,tz6r.0,84717,84818,thekla,84757,84760,mir,thekla
+gdc,tz6r.0,85156,85384,max,85211,85214,ich,max
+gdc,tz6r.0,85156,85384,max,85226,85229,Ich,max
+gdc,tz6r.0,85156,85384,max,85236,85240,mich,max
+gdc,tz6r.0,85156,85384,max,85274,85278,mein,max
+gdc,tz6r.0,85415,85849,max,85451,85454,Ich,max
+gdc,tz6r.0,85415,85849,max,85714,85718,mein,max
+gdc,tz6r.0,85415,85849,max,85799,85803,Mich,max
+gdc,tz6r.0,85855,86240,thekla,85864,85867,Ich,thekla
+gdc,tz6r.0,85855,86240,thekla,85902,85905,ich,thekla
+gdc,tz6r.0,85855,86240,thekla,86023,86026,mir,thekla
+gdc,tz6r.0,86299,86913,thekla,86344,86348,mein,thekla
+gdc,tz6r.0,86299,86913,thekla,86354,86357,ich,thekla
+gdc,tz6r.0,86299,86913,thekla,86376,86382,meiner,thekla
+gdc,tz6r.0,86299,86913,thekla,86429,86432,mir,thekla
+gdc,tz6r.0,86299,86913,thekla,86436,86439,Ich,thekla
+gdc,tz6r.0,86299,86913,thekla,86466,86470,mein,thekla
+gdc,tz6r.0,86299,86913,thekla,86580,86586,meinem,thekla
+gdc,tz6r.0,86299,86913,thekla,86674,86677,mir,thekla
+gdc,tz6r.0,86971,87126,graefin,86990,86994,Mein,graefin
+gdc,tz6r.0,87684,87793,thekla,87730,87735,meine,thekla
+gdc,tz6r.0,87886,87990,max,87891,87894,Ich,max
+gdc,tz6r.0,88045,88237,max,88072,88075,mir,max
+gdc,tz6r.0,88241,88630,graefin,88274,88277,Ich,graefin
+gdc,tz6r.0,89134,89286,graefin,89239,89242,ich,graefin
+gdc,tz6r.0,89345,89467,graefin,89463,89466,ich,graefin
+gdc,tz6r.0,90112,90236,thekla,90129,90132,Ich,thekla
+gdc,tz6r.0,90112,90236,thekla,90204,90208,mein,thekla
+gdc,tz6r.0,90112,90236,thekla,90209,90212,ich,thekla
+gdc,tz6r.0,90503,90529,thekla,90511,90514,Ich,thekla
+gdc,tz6r.0,91076,91294,thekla,91092,91095,mir,thekla
+gdc,tz6r.0,91076,91294,thekla,91141,91144,mir,thekla
+gdc,tz6r.0,91076,91294,thekla,91183,91187,mein,thekla
+gdc,tz6r.0,91076,91294,thekla,91275,91278,mir,thekla
+gdc,tz6r.0,92138,92395,thekla,92184,92187,Ich,thekla
+gdc,tz6r.0,92138,92395,thekla,92216,92220,mich,thekla
+gdc,tz6r.0,92138,92395,thekla,92299,92302,mir,thekla
+gdc,tz6r.0,92138,92395,thekla,92315,92318,mir,thekla
+gdc,tz6r.0,92138,92395,thekla,92350,92353,Ich,thekla
+gdc,tz6r.0,92138,92395,thekla,92368,92372,mich,thekla
+gdc,tz6r.0,92401,92499,graefin,92457,92460,Ich,graefin
+gdc,tz6r.0,92505,92604,thekla,92532,92535,mir,thekla
+gdc,tz6r.0,92505,92604,thekla,92553,92556,ich,thekla
+gdc,tz6r.0,92505,92604,thekla,92558,92562,Mich,thekla
+gdc,tz6r.0,92505,92604,thekla,92576,92579,ich,thekla
+gdc,tz6r.0,92610,92671,graefin,92629,92633,mein,graefin
+gdc,tz6r.0,92676,93292,thekla,92733,92736,Ich,thekla
+gdc,tz6r.0,92676,93292,thekla,92801,92804,ich,thekla
+gdc,tz6r.0,92676,93292,thekla,92855,92858,ich,thekla
+gdc,tz6r.0,92676,93292,thekla,92883,92887,mich,thekla
+gdc,tz6r.0,92676,93292,thekla,92899,92902,Ich,thekla
+gdc,tz6r.0,92676,93292,thekla,92917,92920,mir,thekla
+gdc,tz6r.0,92676,93292,thekla,93028,93031,Ich,thekla
+gdc,tz6r.0,92676,93292,thekla,93053,93059,meinem,thekla
+gdc,tz6r.0,92676,93292,thekla,93067,93070,mir,thekla
+gdc,tz6r.0,92676,93292,thekla,93133,93136,ich,thekla
+gdc,tz6r.0,92676,93292,thekla,93137,93140,mir,thekla
+gdc,tz6r.0,92676,93292,thekla,93161,93164,ich,thekla
+gdc,tz6r.0,92676,93292,thekla,93193,93196,ich,thekla
+gdc,tz6r.0,92676,93292,thekla,93236,93242,meiner,thekla
+gdc,tz6r.0,92676,93292,thekla,93275,93278,ich,thekla
+gdc,tz6r.0,93465,93533,thekla,93504,93507,mir,thekla
+gdc,tz6r.0,93707,94831,graefin,94367,94370,Ich,graefin
+gdc,tz6r.0,93707,94831,graefin,94456,94459,ich,graefin
+gdc,tz6r.0,93707,94831,graefin,94473,94476,ich,graefin
+gdc,tz6r.0,99293,99424,neumann,99303,99306,Ich,neumann
+gdc,tz6r.0,99293,99424,neumann,99411,99414,mir,neumann
+gdc,tz6r.0,99712,99762,terzky,99720,99723,Ich,terzky
+gdc,tz6r.0,99767,99863,illo,99797,99800,ich,illo
+gdc,tz6r.0,99869,99948,terzky,99909,99912,Ich,terzky
+gdc,tz6r.0,99954,100327,illo,99985,99988,Ich,illo
+gdc,tz6r.0,99954,100327,illo,100247,100250,mir,illo
+gdc,tz6r.0,100419,100622,buttler,100484,100487,Ich,buttler
+gdc,tz6r.0,100419,100622,buttler,100560,100564,mich,buttler
+gdc,tz6r.0,100419,100622,buttler,100609,100613,mich,buttler
+gdc,tz6r.0,100658,100964,buttler,100696,100699,mir,buttler
+gdc,tz6r.0,100658,100964,buttler,100722,100726,mich,buttler
+gdc,tz6r.0,100658,100964,buttler,100743,100748,meine,buttler
+gdc,tz6r.0,100658,100964,buttler,100793,100796,Ich,buttler
+gdc,tz6r.0,101078,101389,buttler,101094,101097,Ich,buttler
+gdc,tz6r.0,101078,101389,buttler,101104,101109,meine,buttler
+gdc,tz6r.0,101078,101389,buttler,101177,101180,mir,buttler
+gdc,tz6r.0,101078,101389,buttler,101227,101230,ich,buttler
+gdc,tz6r.0,101078,101389,buttler,101248,101252,mich,buttler
+gdc,tz6r.0,101078,101389,buttler,101267,101271,mich,buttler
+gdc,tz6r.0,101078,101389,buttler,101277,101283,meinem,buttler
+gdc,tz6r.0,101078,101389,buttler,101299,101302,ich,buttler
+gdc,tz6r.0,101078,101389,buttler,101371,101374,ich,buttler
+gdc,tz6r.0,101078,101389,buttler,101380,101383,ich,buttler
+gdc,tz6r.0,101496,102074,buttler,101545,101549,mich,buttler
+gdc,tz6r.0,101496,102074,buttler,101602,101605,mir,buttler
+gdc,tz6r.0,101496,102074,buttler,101688,101693,meine,buttler
+gdc,tz6r.0,101496,102074,buttler,101755,101759,mich,buttler
+gdc,tz6r.0,101496,102074,buttler,101784,101787,ich,buttler
+gdc,tz6r.0,101496,102074,buttler,101828,101832,mein,buttler
+gdc,tz6r.0,101496,102074,buttler,101987,101990,Ich,buttler
+gdc,tz6r.0,101496,102074,buttler,102034,102037,ich,buttler
+gdc,tz6r.0,101496,102074,buttler,102062,102065,ich,buttler
+gdc,tz6r.0,102136,102587,buttler,102170,102175,meine,buttler
+gdc,tz6r.0,102136,102587,buttler,102205,102208,ich,buttler
+gdc,tz6r.0,102136,102587,buttler,102218,102221,ich,buttler
+gdc,tz6r.0,102136,102587,buttler,102281,102284,Ich,buttler
+gdc,tz6r.0,102136,102587,buttler,102306,102309,mir,buttler
+gdc,tz6r.0,102136,102587,buttler,102325,102328,Ich,buttler
+gdc,tz6r.0,102136,102587,buttler,102358,102362,mich,buttler
+gdc,tz6r.0,102136,102587,buttler,102404,102408,mein,buttler
+gdc,tz6r.0,102136,102587,buttler,102416,102419,Ich,buttler
+gdc,tz6r.0,102136,102587,buttler,102543,102547,Mein,buttler
+gdc,tz6r.0,102136,102587,buttler,102564,102567,mir,buttler
+gdc,tz6r.0,102136,102587,buttler,102569,102573,mein,buttler
+gdc,tz6r.0,102694,103015,buttler,102704,102707,Ich,buttler
+gdc,tz6r.0,102694,103015,buttler,102786,102789,ich,buttler
+gdc,tz6r.0,102694,103015,buttler,102834,102837,ich,buttler
+gdc,tz6r.0,102694,103015,buttler,102975,102978,Ich,buttler
+gdc,tz6r.0,102694,103015,buttler,103000,103006,meinem,buttler
+gdc,tz6r.0,103815,103944,buttler,103892,103895,ich,buttler
+gdc,tz6r.0,103815,103944,buttler,103900,103904,mich,buttler
+gdc,tz6r.0,104196,104495,kellermeister,104232,104237,meine,kellermeister
+gdc,tz6r.0,104836,105218,kellermeister,105018,105022,Mein,kellermeister
+gdc,tz6r.0,105743,106141,neumann,106109,106112,mir,neumann
+gdc,tz6r.0,107574,107749,kellermeister,107601,107606,meine,kellermeister
+gdc,tz6r.0,107755,108019,neumann,107775,107779,mich,neumann
+gdc,tz6r.0,108023,108486,kellermeister,108048,108051,mir,kellermeister
+gdc,tz6r.0,109088,109249,vierter_bedienter_4-5,109108,109111,Ich,vierter_bedienter_4-5
+gdc,tz6r.0,109088,109249,vierter_bedienter_4-5,109117,109120,mir,vierter_bedienter_4-5
+gdc,tz6r.0,109088,109249,vierter_bedienter_4-5,109177,109180,ich,vierter_bedienter_4-5
+gdc,tz6r.0,109473,109570,kellermeister,109527,109530,ich,kellermeister
+gdc,tz6r.0,110412,110560,isolani,110529,110532,Ich,isolani
+gdc,tz6r.0,110951,111025,isolani,111006,111010,mich,isolani
+gdc,tz6r.0,111031,111334,terzky,111040,111043,Ich,terzky
+gdc,tz6r.0,111338,111400,goetz,111373,111376,mir,goetz
+gdc,tz6r.0,111338,111400,goetz,111382,111385,ich,goetz
+gdc,tz6r.0,111338,111400,goetz,111386,111390,mich,goetz
+gdc,tz6r.0,111543,111564,goetz,111559,111563,mich,goetz
+gdc,tz6r.0,111569,111638,tiefenbach,111628,111631,mir,tiefenbach
+gdc,tz6r.0,112021,112163,tiefenbach,112126,112129,ich,tiefenbach
+gdc,tz6r.0,112021,112163,tiefenbach,112135,112139,mein,tiefenbach
+gdc,tz6r.0,112317,112525,octavio,112408,112411,Ich,octavio
+gdc,tz6r.0,112317,112525,octavio,112453,112456,mir,octavio
+gdc,tz6r.0,112531,112585,buttler,112540,112543,Ich,buttler
+gdc,tz6r.0,112531,112585,buttler,112574,112580,meiner,buttler
+gdc,tz6r.0,112590,112935,octavio,112639,112645,meiner,octavio
+gdc,tz6r.0,112590,112935,octavio,112652,112655,ich,octavio
+gdc,tz6r.0,112590,112935,octavio,112678,112682,mich,octavio
+gdc,tz6r.0,112941,113162,buttler,112976,112979,ich,buttler
+gdc,tz6r.0,113325,113402,max,113363,113366,Ich,max
+gdc,tz6r.0,113325,113402,max,113397,113401,mich,max
+gdc,tz6r.0,113407,113460,octavio,113426,113429,ich,octavio
+gdc,tz6r.0,113465,113519,max,113496,113500,mich,max
+gdc,tz6r.0,113524,113639,octavio,113554,113557,Ich,octavio
+gdc,tz6r.0,114146,114176,tiefenbach,114172,114175,ich,tiefenbach
+gdc,tz6r.0,114814,114845,illo,114840,114844,mich,illo
+gdc,tz6r.0,114897,115324,illo,114972,114975,ich,illo
+gdc,tz6r.0,114897,115324,illo,115049,115053,mich,illo
+gdc,tz6r.0,114897,115324,illo,115079,115083,mich,illo
+gdc,tz6r.0,114897,115324,illo,115090,115093,ich,illo
+gdc,tz6r.0,114897,115324,illo,115144,115147,Ich,illo
+gdc,tz6r.0,114897,115324,illo,115210,115213,Ich,illo
+gdc,tz6r.0,114897,115324,illo,115263,115266,mir,illo
+gdc,tz6r.0,114897,115324,illo,115313,115316,mir,illo
+gdc,tz6r.0,115405,115572,illo,115567,115571,mich,illo
+gdc,tz6r.0,115577,115698,terzky,115636,115639,Ich,terzky
+gdc,tz6r.0,115832,115880,max,115876,115879,ich,max
+gdc,tz6r.0,116436,116465,octavio,116445,116449,Mein,octavio
+gdc,tz6r.0,116600,116646,max,116642,116645,ich,max
+gdc,tz6r.0,116912,117012,max,116922,116925,ich,max
+gdc,tz6r.0,117112,117246,terzky,117232,117235,ich,terzky
+gdc,tz6r.0,117318,117452,illo,117343,117346,mir,illo
+gdc,tz6r.0,117318,117452,illo,117362,117366,mich,illo
+gdc,tz6r.0,117649,117785,max,117754,117757,mir,max
+gdc,tz6r.0,117860,117929,tiefenbach,117883,117886,Ich,tiefenbach
+gdc,tz6r.0,117934,117963,goetz,117947,117950,mir,goetz
+gdc,tz6r.0,117968,118041,isolani,117992,117996,mich,isolani
+gdc,tz6r.0,117968,118041,isolani,118028,118034,meiner,isolani
+gdc,tz6r.0,118578,118679,illo,118675,118678,ich,illo
+gdc,tz6r.0,119418,119497,octavio,119435,119439,mein,octavio
+gdc,tz6r.0,119418,119497,octavio,119472,119475,mir,octavio
+gdc,tz6r.0,119805,120092,max,119819,119822,mir,max
+gdc,tz6r.0,119805,120092,max,119849,119852,Ich,max
+gdc,tz6r.0,119805,120092,max,119898,119901,Ich,max
+gdc,tz6r.0,119805,120092,max,119971,119974,mir,max
+gdc,tz6r.0,119805,120092,max,120019,120022,ich,max
+gdc,tz6r.0,120098,120247,octavio,120162,120166,Mein,octavio
+gdc,tz6r.0,120286,120517,octavio,120296,120299,Ich,octavio
+gdc,tz6r.0,120286,120517,octavio,120445,120448,mir,octavio
+gdc,tz6r.0,120523,120611,max,120559,120562,ich,max
+gdc,tz6r.0,120523,120611,max,120578,120581,ich,max
+gdc,tz6r.0,120715,120819,max,120749,120752,ich,max
+gdc,tz6r.0,120715,120819,max,120796,120799,mir,max
+gdc,tz6r.0,121020,121055,max,121025,121028,Ich,max
+gdc,tz6r.0,121060,121215,octavio,121070,121073,Ich,octavio
+gdc,tz6r.0,121249,121566,octavio,121296,121299,mir,octavio
+gdc,tz6r.0,121249,121566,octavio,121493,121496,Ich,octavio
+gdc,tz6r.0,121572,121763,max,121658,121661,ich,max
+gdc,tz6r.0,121572,121763,max,121711,121714,Ich,max
+gdc,tz6r.0,121769,122127,octavio,121847,121850,ich,octavio
+gdc,tz6r.0,121769,122127,octavio,121856,121859,ich,octavio
+gdc,tz6r.0,121769,122127,octavio,121872,121875,Ich,octavio
+gdc,tz6r.0,121769,122127,octavio,121985,121988,ich,octavio
+gdc,tz6r.0,121769,122127,octavio,122092,122095,mir,octavio
+gdc,tz6r.0,121769,122127,octavio,122116,122119,mir,octavio
+gdc,tz6r.0,121769,122127,octavio,122120,122126,meines,octavio
+gdc,tz6r.0,122504,122590,max,122534,122537,ich,max
+gdc,tz6r.0,123431,124274,octavio,123528,123532,Mein,octavio
+gdc,tz6r.0,124280,124423,max,124323,124327,mich,max
+gdc,tz6r.0,124280,124423,max,124330,124333,Ich,max
+gdc,tz6r.0,124965,125166,octavio,125064,125067,mir,octavio
+gdc,tz6r.0,124965,125166,octavio,125119,125122,ich,octavio
+gdc,tz6r.0,125172,125209,max,125201,125204,ich,max
+gdc,tz6r.0,126111,126476,max,126163,126166,mir,max
+gdc,tz6r.0,126111,126476,max,126447,126450,mir,max
+gdc,tz6r.0,126482,126846,octavio,126504,126508,mich,octavio
+gdc,tz6r.0,126482,126846,octavio,126679,126682,Ich,octavio
+gdc,tz6r.0,126482,126846,octavio,126727,126730,ich,octavio
+gdc,tz6r.0,126482,126846,octavio,126794,126797,ich,octavio
+gdc,tz6r.0,126894,127098,octavio,126924,126927,mir,octavio
+gdc,tz6r.0,126894,127098,octavio,126934,126937,ich,octavio
+gdc,tz6r.0,127256,127476,octavio,127298,127301,mir,octavio
+gdc,tz6r.0,127256,127476,octavio,127332,127336,mein,octavio
+gdc,tz6r.0,127256,127476,octavio,127390,127393,Mir,octavio
+gdc,tz6r.0,127482,127710,max,127696,127699,mir,max
+gdc,tz6r.0,127717,127885,octavio,127736,127739,ich,octavio
+gdc,tz6r.0,127717,127885,octavio,127740,127744,mein,octavio
+gdc,tz6r.0,127717,127885,octavio,127820,127826,meinen,octavio
+gdc,tz6r.0,127717,127885,octavio,127836,127841,meine,octavio
+gdc,tz6r.0,127717,127885,octavio,127866,127869,ich,octavio
+gdc,tz6r.0,127891,128087,max,127936,127942,meinem,max
+gdc,tz6r.0,127891,128087,max,127964,127967,Ich,max
+gdc,tz6r.0,127891,128087,max,128012,128015,mir,max
+gdc,tz6r.0,128093,128150,octavio,128102,128105,Ich,octavio
+gdc,tz6r.0,128093,128150,octavio,128114,128118,mich,octavio
+gdc,tz6r.0,128204,128254,octavio,128233,128239,meiner,octavio
+gdc,tz6r.0,128306,128907,octavio,128316,128320,Mein,octavio
+gdc,tz6r.0,128306,128907,octavio,128612,128615,Ich,octavio
+gdc,tz6r.0,128306,128907,octavio,128630,128633,ich,octavio
+gdc,tz6r.0,128306,128907,octavio,128638,128643,meine,octavio
+gdc,tz6r.0,128306,128907,octavio,128674,128677,mir,octavio
+gdc,tz6r.0,128306,128907,octavio,128678,128682,mein,octavio
+gdc,tz6r.0,128306,128907,octavio,128828,128832,mein,octavio
+gdc,tz6r.0,128913,129197,max,128919,128922,Ich,max
+gdc,tz6r.0,128913,129197,max,129111,129114,ich,max
+gdc,tz6r.0,128913,129197,max,129150,129153,Mir,max
+gdc,tz6r.0,128913,129197,max,129166,129170,mich,max
+gdc,tz6r.0,129203,129614,octavio,129274,129278,mein,octavio
+gdc,tz6r.0,129203,129614,octavio,129285,129288,Ich,octavio
+gdc,tz6r.0,129713,130081,octavio,129961,129964,mir,octavio
+gdc,tz6r.0,129713,130081,octavio,130072,130076,mich,octavio
+gdc,tz6r.0,130114,130488,octavio,130158,130161,ich,octavio
+gdc,tz6r.0,130114,130488,octavio,130375,130379,mich,octavio
+gdc,tz6r.0,130511,130707,octavio,130540,130543,ich,octavio
+gdc,tz6r.0,130511,130707,octavio,130556,130559,ich,octavio
+gdc,tz6r.0,130511,130707,octavio,130658,130661,ich,octavio
+gdc,tz6r.0,130713,130825,max,130742,130745,mir,max
+gdc,tz6r.0,131203,131330,octavio,131317,131320,mir,octavio
+gdc,tz6r.0,131651,132054,octavio,131665,131668,ich,octavio
+gdc,tz6r.0,131651,132054,octavio,131695,131698,ich,octavio
+gdc,tz6r.0,131651,132054,octavio,131701,131704,Ich,octavio
+gdc,tz6r.0,131651,132054,octavio,132035,132038,ich,octavio
+gdc,tz6r.0,132666,132934,octavio,132816,132819,ich,octavio
+gdc,tz6r.0,133009,133141,max,133054,133057,Ich,max
+gdc,tz6r.0,133009,133141,max,133112,133116,mich,max
+gdc,tz6r.0,133009,133141,max,133119,133123,mich,max
+gdc,tz6r.0,133247,133631,max,133295,133299,mein,max
+gdc,tz6r.0,133247,133631,max,133508,133511,mir,max
+gdc,tz6r.0,133637,133665,octavio,133646,133649,Ich,octavio
+gdc,tz6r.0,133878,133921,kammerdiener_5,133905,133908,mir,kammerdiener_5
+gdc,tz6r.0,134093,134169,kornett,134121,134125,mein,kornett
+gdc,tz6r.0,134198,134256,kornett,134233,134236,ich,kornett
+gdc,tz6r.0,134261,134290,octavio,134270,134274,Mein,octavio
+gdc,tz6r.0,134939,134969,kornett,134959,134962,ich,kornett
+gdc,tz6r.0,135172,135247,octavio,135213,135216,Ich,octavio
+gdc,tz6r.0,135539,135572,kornett,135548,135551,Ich,kornett
+gdc,tz6r.0,135678,135775,kornett,135722,135726,mich,kornett
+gdc,tz6r.0,135781,136062,octavio,135839,135842,Ich,octavio
+gdc,tz6r.0,136106,136216,octavio,136125,136129,mein,octavio
+gdc,tz6r.0,136106,136216,octavio,136189,136192,ich,octavio
+gdc,tz6r.0,136222,136383,max,136325,136328,Ich,max
+gdc,tz6r.0,136222,136383,max,136350,136353,mir,max
+gdc,tz6r.0,136470,137049,max,136508,136511,ich,max
+gdc,tz6r.0,136470,137049,max,136573,136576,mir,max
+gdc,tz6r.0,136470,137049,max,136589,136593,Mein,max
+gdc,tz6r.0,136470,137049,max,136615,136618,Ich,max
+gdc,tz6r.0,136470,137049,max,136699,136702,mir,max
+gdc,tz6r.0,136470,137049,max,136740,136744,mein,max
+gdc,tz6r.0,136470,137049,max,136812,136816,mein,max
+gdc,tz6r.0,136470,137049,max,136848,136852,mich,max
+gdc,tz6r.0,136470,137049,max,136874,136877,ich,max
+gdc,tz6r.0,136470,137049,max,136887,136890,Ich,max
+gdc,tz6r.0,136470,137049,max,136922,136925,ich,max
+gdc,tz6r.0,137085,137118,max,137099,137102,ich,max
+gdc,tz6r.0,137123,137828,octavio,137133,137136,Ich,octavio
+gdc,tz6r.0,137123,137828,octavio,137142,137146,mich,octavio
+gdc,tz6r.0,137123,137828,octavio,137171,137174,Ich,octavio
+gdc,tz6r.0,137123,137828,octavio,137315,137318,ich,octavio
+gdc,tz6r.0,137123,137828,octavio,137533,137537,mich,octavio
+gdc,tz6r.0,137123,137828,octavio,137634,137638,mein,octavio
+gdc,tz6r.0,137123,137828,octavio,137731,137735,mein,octavio
+gdc,tz6r.0,137834,138786,max,137876,137879,ich,max
+gdc,tz6r.0,137834,138786,max,138105,138108,ich,max
+gdc,tz6r.0,137834,138786,max,138552,138555,mir,max
+gdc,tz6r.0,137834,138786,max,138571,138574,ich,max
+gdc,tz6r.0,137834,138786,max,138579,138584,meine,max
+gdc,tz6r.0,137834,138786,max,138591,138595,mich,max
+gdc,tz6r.0,137834,138786,max,138635,138638,mir,max
+gdc,tz6r.0,137834,138786,max,138700,138703,ich,max
+gdc,tz6r.0,137834,138786,max,138719,138722,ich,max

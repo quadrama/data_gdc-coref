@@ -1,0 +1,1380 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,kq6k.0,885,1184,kern,999,1003,mich,kern
+gdc,kq6k.0,885,1184,kern,1034,1037,Ich,kern
+gdc,kq6k.0,885,1184,kern,1071,1074,ich,kern
+gdc,kq6k.0,885,1184,kern,1079,1083,mich,kern
+gdc,kq6k.0,885,1184,kern,1120,1123,ich,kern
+gdc,kq6k.0,1190,1534,weinhold,1243,1247,mich,weinhold
+gdc,kq6k.0,1190,1534,weinhold,1288,1291,ich,weinhold
+gdc,kq6k.0,1190,1534,weinhold,1371,1375,mich,weinhold
+gdc,kq6k.0,1190,1534,weinhold,1465,1468,mir,weinhold
+gdc,kq6k.0,1190,1534,weinhold,1490,1493,ich,weinhold
+gdc,kq6k.0,1539,1966,zunder,1694,1697,ich,zunder
+gdc,kq6k.0,1539,1966,zunder,1722,1725,Ich,zunder
+gdc,kq6k.0,1539,1966,zunder,1732,1736,mich,zunder
+gdc,kq6k.0,1539,1966,zunder,1843,1846,mir,zunder
+gdc,kq6k.0,1539,1966,zunder,1878,1881,Mir,zunder
+gdc,kq6k.0,1972,2028,annchen,2008,2011,ich,annchen
+gdc,kq6k.0,1972,2028,annchen,2012,2016,mein,annchen
+gdc,kq6k.0,2347,2403,zunder,2355,2358,Ich,zunder
+gdc,kq6k.0,3658,3785,wagner,3711,3714,Ich,wagner
+gdc,kq6k.0,3790,3827,wagner,3823,3826,mir,wagner
+gdc,kq6k.0,3832,4535,weinhold,3867,3870,Ich,weinhold
+gdc,kq6k.0,3832,4535,weinhold,4084,4087,ich,weinhold
+gdc,kq6k.0,3832,4535,weinhold,4107,4110,mir,weinhold
+gdc,kq6k.0,3832,4535,weinhold,4137,4143,meiner,weinhold
+gdc,kq6k.0,3832,4535,weinhold,4166,4169,mir,weinhold
+gdc,kq6k.0,3832,4535,weinhold,4257,4260,Ich,weinhold
+gdc,kq6k.0,3832,4535,weinhold,4275,4278,ich,weinhold
+gdc,kq6k.0,4541,4724,wagner,4598,4604,meinen,wagner
+gdc,kq6k.0,4730,4943,weinhold,4856,4860,mich,weinhold
+gdc,kq6k.0,4730,4943,weinhold,4866,4869,ich,weinhold
+gdc,kq6k.0,4730,4943,weinhold,4886,4889,Ich,weinhold
+gdc,kq6k.0,5608,5847,weinhold,5685,5689,Mich,weinhold
+gdc,kq6k.0,6348,7289,kern,6508,6511,Ich,kern
+gdc,kq6k.0,6348,7289,kern,6704,6708,mich,kern
+gdc,kq6k.0,7295,7647,wagner,7353,7357,mich,wagner
+gdc,kq6k.0,7295,7647,wagner,7538,7542,Mein,wagner
+gdc,kq6k.0,7654,7833,nase,7754,7757,Ich,nase
+gdc,kq6k.0,9229,9323,wirth,9272,9278,meinem,wirth
+gdc,kq6k.0,9475,9594,wirth,9567,9570,ich,wirth
+gdc,kq6k.0,9475,9594,wirth,9580,9584,mein,wirth
+gdc,kq6k.0,10144,10190,wagner,10152,10155,Ich,wagner
+gdc,kq6k.0,10144,10190,wagner,10163,10167,mich,wagner
+gdc,kq6k.0,10144,10190,wagner,10177,10181,mich,wagner
+gdc,kq6k.0,10973,11206,wirth,11173,11176,mir,wirth
+gdc,kq6k.0,11212,11358,wagner,11221,11224,Ich,wagner
+gdc,kq6k.0,11399,11521,geschrei_der_studenten,11511,11515,mein,geschrei_der_studenten
+gdc,kq6k.0,11528,11707,wagner,11561,11564,ich,wagner
+gdc,kq6k.0,11528,11707,wagner,11579,11582,ich,wagner
+gdc,kq6k.0,11528,11707,wagner,11698,11701,ich,wagner
+gdc,kq6k.0,11812,12024,wagner,11857,11861,Mein,wagner
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12183,12186,ich,geschrei_der_studenten
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12270,12273,ich,geschrei_der_studenten
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12294,12298,Mein,geschrei_der_studenten
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12308,12312,mich,geschrei_der_studenten
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12444,12448,mein,geschrei_der_studenten
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12480,12483,ich,geschrei_der_studenten
+gdc,kq6k.0,12064,12692,geschrei_der_studenten,12500,12506,meinem,geschrei_der_studenten
+gdc,kq6k.0,12697,13200,kern,12848,12852,mich,kern
+gdc,kq6k.0,12697,13200,kern,12858,12862,mein,kern
+gdc,kq6k.0,12697,13200,kern,12894,12900,meinem,kern
+gdc,kq6k.0,12697,13200,kern,12925,12928,mir,kern
+gdc,kq6k.0,12697,13200,kern,13094,13098,mein,kern
+gdc,kq6k.0,12697,13200,kern,13112,13115,Ich,kern
+gdc,kq6k.0,12697,13200,kern,13164,13168,mich,kern
+gdc,kq6k.0,13206,13859,kern,13501,13504,mir,kern
+gdc,kq6k.0,13206,13859,kern,13715,13721,meinen,kern
+gdc,kq6k.0,13206,13859,kern,13820,13824,mich,kern
+gdc,kq6k.0,14030,14519,kern,14512,14518,meiner,kern
+gdc,kq6k.0,14525,14687,wagner,14545,14548,Ich,wagner
+gdc,kq6k.0,15068,15244,faust,15202,15205,Ich,faust
+gdc,kq6k.0,15068,15244,faust,15231,15234,mir,faust
+gdc,kq6k.0,15250,15395,schatten,15261,15264,Ich,schatten
+gdc,kq6k.0,15250,15395,schatten,15284,15288,mich,schatten
+gdc,kq6k.0,15250,15395,schatten,15321,15325,mich,schatten
+gdc,kq6k.0,15250,15395,schatten,15337,15341,Mich,schatten
+gdc,kq6k.0,15250,15395,schatten,15351,15357,meiner,schatten
+gdc,kq6k.0,15427,15547,schatten,15438,15441,Ich,schatten
+gdc,kq6k.0,15427,15547,schatten,15487,15491,mich,schatten
+gdc,kq6k.0,15427,15547,schatten,15522,15526,mich,schatten
+gdc,kq6k.0,15427,15547,schatten,15542,15546,mich,schatten
+gdc,kq6k.0,15624,15779,schatten,15641,15644,ich,schatten
+gdc,kq6k.0,15624,15779,schatten,15645,15649,mich,schatten
+gdc,kq6k.0,15624,15779,schatten,15709,15713,mich,schatten
+gdc,kq6k.0,15624,15779,schatten,15727,15730,mir,schatten
+gdc,kq6k.0,15785,15954,faust,15836,15839,ich,faust
+gdc,kq6k.0,15785,15954,faust,15854,15857,ich,faust
+gdc,kq6k.0,16040,16061,schatten,16056,16060,mich,schatten
+gdc,kq6k.0,16124,16279,faust,16175,16179,mich,faust
+gdc,kq6k.0,16124,16279,faust,16186,16189,ich,faust
+gdc,kq6k.0,16124,16279,faust,16199,16203,mich,faust
+gdc,kq6k.0,16124,16279,faust,16218,16221,ich,faust
+gdc,kq6k.0,16124,16279,faust,16233,16237,mich,faust
+gdc,kq6k.0,16309,16602,faust,16401,16404,ich,faust
+gdc,kq6k.0,16309,16602,faust,16474,16477,mir,faust
+gdc,kq6k.0,16309,16602,faust,16519,16522,ich,faust
+gdc,kq6k.0,16631,17642,faust,16699,16702,ich,faust
+gdc,kq6k.0,16631,17642,faust,16746,16749,mir,faust
+gdc,kq6k.0,16631,17642,faust,16779,16782,ich,faust
+gdc,kq6k.0,16631,17642,faust,16783,16787,mich,faust
+gdc,kq6k.0,16631,17642,faust,16904,16907,ich,faust
+gdc,kq6k.0,16631,17642,faust,16994,16997,ich,faust
+gdc,kq6k.0,16631,17642,faust,17052,17056,Mein,faust
+gdc,kq6k.0,16631,17642,faust,17064,17067,Ich,faust
+gdc,kq6k.0,16631,17642,faust,17082,17086,Mein,faust
+gdc,kq6k.0,16631,17642,faust,17138,17141,mir,faust
+gdc,kq6k.0,16631,17642,faust,17187,17192,meine,faust
+gdc,kq6k.0,16631,17642,faust,17318,17321,mir,faust
+gdc,kq6k.0,16631,17642,faust,17343,17346,mir,faust
+gdc,kq6k.0,16631,17642,faust,17375,17378,mir,faust
+gdc,kq6k.0,16631,17642,faust,17408,17412,mich,faust
+gdc,kq6k.0,16631,17642,faust,17500,17503,ich,faust
+gdc,kq6k.0,17906,18363,faust,17942,17945,Ich,faust
+gdc,kq6k.0,17906,18363,faust,17963,17966,ich,faust
+gdc,kq6k.0,17906,18363,faust,17984,17987,ich,faust
+gdc,kq6k.0,17906,18363,faust,18060,18063,ich,faust
+gdc,kq6k.0,17906,18363,faust,18146,18149,mir,faust
+gdc,kq6k.0,17906,18363,faust,18179,18182,ich,faust
+gdc,kq6k.0,17906,18363,faust,18221,18224,ich,faust
+gdc,kq6k.0,17906,18363,faust,18238,18241,ich,faust
+gdc,kq6k.0,17906,18363,faust,18254,18257,ich,faust
+gdc,kq6k.0,17906,18363,faust,18279,18282,ich,faust
+gdc,kq6k.0,17906,18363,faust,18302,18305,mir,faust
+gdc,kq6k.0,17906,18363,faust,18330,18336,meines,faust
+gdc,kq6k.0,18369,18527,schatten,18391,18394,mir,schatten
+gdc,kq6k.0,18605,18647,faust,18632,18638,meinem,faust
+gdc,kq6k.0,18673,18816,faust,18703,18706,ich,faust
+gdc,kq6k.0,18673,18816,faust,18735,18739,mich,faust
+gdc,kq6k.0,18822,19128,schatten,19082,19085,ich,schatten
+gdc,kq6k.0,18822,19128,schatten,19124,19127,mir,schatten
+gdc,kq6k.0,19134,19174,faust,19157,19160,ich,faust
+gdc,kq6k.0,19315,19629,schatten,19339,19343,mich,schatten
+gdc,kq6k.0,19315,19629,schatten,19510,19513,mir,schatten
+gdc,kq6k.0,19635,19676,faust,19671,19675,mich,faust
+gdc,kq6k.0,19681,19711,mephistopheles,19697,19700,Ich,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,19804,19807,Ich,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,19904,19907,ich,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,19948,19951,mir,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,20003,20007,mich,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,20042,20048,meinen,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,20141,20144,Ich,mephistopheles
+gdc,kq6k.0,19747,20317,mephistopheles,20249,20252,Ich,mephistopheles
+gdc,kq6k.0,20323,20430,faust,20365,20368,Ich,faust
+gdc,kq6k.0,20436,20622,mephistopheles,20543,20547,mich,mephistopheles
+gdc,kq6k.0,20436,20622,mephistopheles,20567,20570,ich,mephistopheles
+gdc,kq6k.0,20628,20769,faust,20644,20647,ich,faust
+gdc,kq6k.0,20774,23005,faust,20816,20820,Mich,faust
+gdc,kq6k.0,20774,23005,faust,20872,20875,mir,faust
+gdc,kq6k.0,20774,23005,faust,21019,21025,meiner,faust
+gdc,kq6k.0,20774,23005,faust,21104,21107,ich,faust
+gdc,kq6k.0,20774,23005,faust,21117,21121,mich,faust
+gdc,kq6k.0,20774,23005,faust,21410,21413,Ich,faust
+gdc,kq6k.0,20774,23005,faust,21510,21514,Mein,faust
+gdc,kq6k.0,20774,23005,faust,21561,21564,ich,faust
+gdc,kq6k.0,20774,23005,faust,21605,21608,mir,faust
+gdc,kq6k.0,20774,23005,faust,21617,21620,Ich,faust
+gdc,kq6k.0,20774,23005,faust,21627,21631,mich,faust
+gdc,kq6k.0,20774,23005,faust,21646,21649,ich,faust
+gdc,kq6k.0,20774,23005,faust,21665,21668,ich,faust
+gdc,kq6k.0,20774,23005,faust,21681,21685,mich,faust
+gdc,kq6k.0,20774,23005,faust,21713,21717,mich,faust
+gdc,kq6k.0,20774,23005,faust,22025,22028,Ich,faust
+gdc,kq6k.0,20774,23005,faust,22106,22109,ich,faust
+gdc,kq6k.0,20774,23005,faust,22116,22119,ich,faust
+gdc,kq6k.0,20774,23005,faust,22304,22307,ich,faust
+gdc,kq6k.0,20774,23005,faust,22317,22320,Ich,faust
+gdc,kq6k.0,20774,23005,faust,22396,22399,mir,faust
+gdc,kq6k.0,20774,23005,faust,22416,22419,ich,faust
+gdc,kq6k.0,20774,23005,faust,22478,22482,mich,faust
+gdc,kq6k.0,20774,23005,faust,22507,22511,mich,faust
+gdc,kq6k.0,20774,23005,faust,22809,22812,mir,faust
+gdc,kq6k.0,20774,23005,faust,22940,22943,ich,faust
+gdc,kq6k.0,23011,23141,mephistopheles,23058,23061,mir,mephistopheles
+gdc,kq6k.0,24004,24075,murrner,24035,24038,ich,murrner
+gdc,kq6k.0,24497,25436,kern,24617,24621,mein,kern
+gdc,kq6k.0,24497,25436,kern,25201,25204,ich,kern
+gdc,kq6k.0,25780,26038,faust,25837,25840,ich,faust
+gdc,kq6k.0,25780,26038,faust,25911,25914,Ich,faust
+gdc,kq6k.0,25780,26038,faust,25978,25981,mir,faust
+gdc,kq6k.0,25780,26038,faust,26011,26014,ich,faust
+gdc,kq6k.0,25780,26038,faust,26015,26019,mich,faust
+gdc,kq6k.0,26045,26463,mephistopheles,26268,26271,ich,mephistopheles
+gdc,kq6k.0,26045,26463,mephistopheles,26319,26323,mich,mephistopheles
+gdc,kq6k.0,26045,26463,mephistopheles,26439,26443,mich,mephistopheles
+gdc,kq6k.0,26469,26689,faust,26493,26496,ich,faust
+gdc,kq6k.0,26469,26689,faust,26563,26568,meine,faust
+gdc,kq6k.0,26695,26755,mephistopheles,26720,26723,Ich,mephistopheles
+gdc,kq6k.0,27019,27162,mephistopheles,27122,27125,Ich,mephistopheles
+gdc,kq6k.0,27168,27336,faust,27247,27250,mir,faust
+gdc,kq6k.0,27168,27336,faust,27297,27300,ich,faust
+gdc,kq6k.0,27168,27336,faust,27331,27335,mich,faust
+gdc,kq6k.0,27539,30144,faust,27608,27611,ich,faust
+gdc,kq6k.0,27539,30144,faust,27703,27706,mir,faust
+gdc,kq6k.0,27539,30144,faust,28178,28182,mein,faust
+gdc,kq6k.0,27539,30144,faust,28388,28394,meinem,faust
+gdc,kq6k.0,27539,30144,faust,28439,28442,Ich,faust
+gdc,kq6k.0,27539,30144,faust,28449,28453,mich,faust
+gdc,kq6k.0,27539,30144,faust,28477,28480,mir,faust
+gdc,kq6k.0,27539,30144,faust,28528,28531,ich,faust
+gdc,kq6k.0,27539,30144,faust,28543,28547,mich,faust
+gdc,kq6k.0,27539,30144,faust,28867,28870,ich,faust
+gdc,kq6k.0,27539,30144,faust,28871,28875,mich,faust
+gdc,kq6k.0,27539,30144,faust,29019,29022,mir,faust
+gdc,kq6k.0,27539,30144,faust,29155,29158,ich,faust
+gdc,kq6k.0,27539,30144,faust,29542,29545,mir,faust
+gdc,kq6k.0,27539,30144,faust,29837,29841,mich,faust
+gdc,kq6k.0,27539,30144,faust,29948,29954,meiner,faust
+gdc,kq6k.0,27539,30144,faust,30021,30024,mir,faust
+gdc,kq6k.0,27539,30144,faust,30045,30049,mich,faust
+gdc,kq6k.0,27539,30144,faust,30097,30100,mir,faust
+gdc,kq6k.0,27539,30144,faust,30107,30110,ich,faust
+gdc,kq6k.0,30151,30212,mephistopheles,30180,30183,ich,mephistopheles
+gdc,kq6k.0,30151,30212,mephistopheles,30200,30204,mich,mephistopheles
+gdc,kq6k.0,30218,30265,faust,30243,30247,mich,faust
+gdc,kq6k.0,30880,30967,faust,30915,30919,mein,faust
+gdc,kq6k.0,30973,31123,cosmo,31058,31061,Ich,cosmo
+gdc,kq6k.0,31227,31300,faust,31235,31238,Ich,faust
+gdc,kq6k.0,31540,31617,faust,31607,31611,mein,faust
+gdc,kq6k.0,31624,31715,mephistopheles,31683,31686,ich,mephistopheles
+gdc,kq6k.0,31721,31896,cosmo,31763,31766,Ich,cosmo
+gdc,kq6k.0,31949,32101,cosmo,31971,31974,mir,cosmo
+gdc,kq6k.0,32107,32279,faust,32230,32233,ich,faust
+gdc,kq6k.0,32284,32574,cosmo,32302,32306,mich,cosmo
+gdc,kq6k.0,32284,32574,cosmo,32368,32372,mein,cosmo
+gdc,kq6k.0,32580,32668,mephistopheles,32597,32600,Mir,mephistopheles
+gdc,kq6k.0,32674,32821,faust,32687,32691,mich,faust
+gdc,kq6k.0,32674,32821,faust,32784,32787,mir,faust
+gdc,kq6k.0,32827,33182,cosmo,32903,32907,Mein,cosmo
+gdc,kq6k.0,32827,33182,cosmo,32989,32992,mir,cosmo
+gdc,kq6k.0,33379,33610,cosmo,33407,33410,Mir,cosmo
+gdc,kq6k.0,33379,33610,cosmo,33417,33421,mein,cosmo
+gdc,kq6k.0,33616,33707,mephistopheles,33688,33692,mich,mephistopheles
+gdc,kq6k.0,33789,33862,cosmo,33820,33823,ich,cosmo
+gdc,kq6k.0,33789,33862,cosmo,33848,33854,meiner,cosmo
+gdc,kq6k.0,34241,34457,faust,34429,34433,mein,faust
+gdc,kq6k.0,34463,34506,cosmo,34470,34473,Ich,cosmo
+gdc,kq6k.0,34463,34506,cosmo,34485,34488,Ich,cosmo
+gdc,kq6k.0,35509,35556,cosmo,35521,35524,ich,cosmo
+gdc,kq6k.0,35561,35767,mephistopheles,35583,35586,mir,mephistopheles
+gdc,kq6k.0,35561,35767,mephistopheles,35676,35679,ich,mephistopheles
+gdc,kq6k.0,35773,35852,cosmo,35839,35843,mein,cosmo
+gdc,kq6k.0,35886,36528,cosmo,35968,35971,ich,cosmo
+gdc,kq6k.0,35886,36528,cosmo,36179,36182,ich,cosmo
+gdc,kq6k.0,35886,36528,cosmo,36233,36236,ich,cosmo
+gdc,kq6k.0,35886,36528,cosmo,36275,36278,ich,cosmo
+gdc,kq6k.0,36534,36738,mephistopheles,36556,36559,ich,mephistopheles
+gdc,kq6k.0,36744,37507,cosmo,36776,36779,mir,cosmo
+gdc,kq6k.0,36744,37507,cosmo,36789,36792,ich,cosmo
+gdc,kq6k.0,36744,37507,cosmo,36847,36850,ich,cosmo
+gdc,kq6k.0,36744,37507,cosmo,36882,36885,mir,cosmo
+gdc,kq6k.0,36744,37507,cosmo,36950,36953,ich,cosmo
+gdc,kq6k.0,37823,37902,faust,37884,37888,mich,faust
+gdc,kq6k.0,37956,38025,mephistopheles,37997,38000,mir,mephistopheles
+gdc,kq6k.0,38486,38615,robert,38575,38579,mein,robert
+gdc,kq6k.0,38622,38758,bianca,38636,38640,mein,bianca
+gdc,kq6k.0,38622,38758,bianca,38675,38680,meine,bianca
+gdc,kq6k.0,38622,38758,bianca,38746,38750,mich,bianca
+gdc,kq6k.0,38764,38912,robert,38797,38803,Meines,robert
+gdc,kq6k.0,39308,39349,faust,39332,39335,mir,faust
+gdc,kq6k.0,39470,39667,faust,39533,39536,ich,faust
+gdc,kq6k.0,39470,39667,faust,39654,39660,meiner,faust
+gdc,kq6k.0,39673,39763,bianca,39736,39740,mein,bianca
+gdc,kq6k.0,39769,39835,faust,39827,39830,ich,faust
+gdc,kq6k.0,41016,41292,robert,41048,41052,mein,robert
+gdc,kq6k.0,41016,41292,robert,41108,41112,mein,robert
+gdc,kq6k.0,41016,41292,robert,41204,41207,Ich,robert
+gdc,kq6k.0,41016,41292,robert,41253,41258,meine,robert
+gdc,kq6k.0,41298,41532,bianca,41448,41451,ich,bianca
+gdc,kq6k.0,41298,41532,bianca,41464,41467,ich,bianca
+gdc,kq6k.0,41298,41532,bianca,41487,41490,ich,bianca
+gdc,kq6k.0,41895,42236,mephistopheles,41981,41984,mir,mephistopheles
+gdc,kq6k.0,41895,42236,mephistopheles,42070,42074,mich,mephistopheles
+gdc,kq6k.0,41895,42236,mephistopheles,42123,42126,Ich,mephistopheles
+gdc,kq6k.0,41895,42236,mephistopheles,42142,42147,meine,mephistopheles
+gdc,kq6k.0,41895,42236,mephistopheles,42202,42205,ich,mephistopheles
+gdc,kq6k.0,42242,42401,faust,42285,42288,ich,faust
+gdc,kq6k.0,42242,42401,faust,42299,42302,ich,faust
+gdc,kq6k.0,42242,42401,faust,42311,42315,Mich,faust
+gdc,kq6k.0,42242,42401,faust,42376,42380,mein,faust
+gdc,kq6k.0,42242,42401,faust,42388,42391,Ich,faust
+gdc,kq6k.0,42407,42552,mephistopheles,42424,42427,Ich,mephistopheles
+gdc,kq6k.0,42407,42552,mephistopheles,42470,42473,ich,mephistopheles
+gdc,kq6k.0,42557,42852,robert,42811,42814,Ich,robert
+gdc,kq6k.0,42557,42852,robert,42821,42825,mich,robert
+gdc,kq6k.0,42858,43439,cosmo,42945,42948,Ich,cosmo
+gdc,kq6k.0,42858,43439,cosmo,42959,42962,ich,cosmo
+gdc,kq6k.0,42858,43439,cosmo,42986,42990,Mein,cosmo
+gdc,kq6k.0,42858,43439,cosmo,43068,43071,ich,cosmo
+gdc,kq6k.0,42858,43439,cosmo,43185,43188,mir,cosmo
+gdc,kq6k.0,43642,43829,robert,43711,43714,ich,robert
+gdc,kq6k.0,43642,43829,robert,43745,43748,Ich,robert
+gdc,kq6k.0,43642,43829,robert,43785,43788,Ich,robert
+gdc,kq6k.0,43642,43829,robert,43818,43821,ich,robert
+gdc,kq6k.0,44031,44113,faust,44087,44090,ich,faust
+gdc,kq6k.0,44316,44463,faust,44371,44374,ich,faust
+gdc,kq6k.0,44316,44463,faust,44391,44394,ich,faust
+gdc,kq6k.0,44316,44463,faust,44415,44419,mein,faust
+gdc,kq6k.0,44316,44463,faust,44459,44462,mir,faust
+gdc,kq6k.0,44470,44548,bianca,44497,44501,mich,bianca
+gdc,kq6k.0,44661,44749,bianca,44728,44734,meines,bianca
+gdc,kq6k.0,44842,45660,robert,44882,44886,mich,robert
+gdc,kq6k.0,44842,45660,robert,44888,44891,Ich,robert
+gdc,kq6k.0,45731,46070,robert,45782,45785,ich,robert
+gdc,kq6k.0,45731,46070,robert,46049,46052,ich,robert
+gdc,kq6k.0,46135,46565,robert,46167,46171,mich,robert
+gdc,kq6k.0,47336,47697,mephistopheles,47457,47461,mich,mephistopheles
+gdc,kq6k.0,47336,47697,mephistopheles,47492,47495,ich,mephistopheles
+gdc,kq6k.0,47336,47697,mephistopheles,47512,47516,mein,mephistopheles
+gdc,kq6k.0,47336,47697,mephistopheles,47655,47658,Ich,mephistopheles
+gdc,kq6k.0,47770,48671,robert,47899,47902,Ich,robert
+gdc,kq6k.0,47770,48671,robert,47975,47978,Ich,robert
+gdc,kq6k.0,47770,48671,robert,47998,48001,ich,robert
+gdc,kq6k.0,47770,48671,robert,48021,48024,ich,robert
+gdc,kq6k.0,47770,48671,robert,48054,48057,ich,robert
+gdc,kq6k.0,47770,48671,robert,48192,48196,mein,robert
+gdc,kq6k.0,47770,48671,robert,48265,48268,ich,robert
+gdc,kq6k.0,47770,48671,robert,48291,48294,Ich,robert
+gdc,kq6k.0,49020,49154,faust,49048,49052,mich,faust
+gdc,kq6k.0,49160,49323,bianca,49220,49223,ich,bianca
+gdc,kq6k.0,49160,49323,bianca,49240,49243,ich,bianca
+gdc,kq6k.0,49160,49323,bianca,49278,49281,ich,bianca
+gdc,kq6k.0,49160,49323,bianca,49295,49298,ich,bianca
+gdc,kq6k.0,49160,49323,bianca,49311,49314,ich,bianca
+gdc,kq6k.0,49399,49426,faust,49421,49425,mein,faust
+gdc,kq6k.0,49673,50221,faust,49750,49754,mich,faust
+gdc,kq6k.0,49673,50221,faust,49781,49785,mein,faust
+gdc,kq6k.0,49673,50221,faust,50095,50099,mich,faust
+gdc,kq6k.0,50336,50446,faust,50361,50364,ich,faust
+gdc,kq6k.0,50336,50446,faust,50378,50381,Ich,faust
+gdc,kq6k.0,50452,50857,bianca,50557,50560,mir,bianca
+gdc,kq6k.0,50452,50857,bianca,50655,50658,ich,bianca
+gdc,kq6k.0,50452,50857,bianca,50686,50689,Ich,bianca
+gdc,kq6k.0,50452,50857,bianca,50721,50727,meinem,bianca
+gdc,kq6k.0,50863,51026,faust,50879,50883,mein,faust
+gdc,kq6k.0,50863,51026,faust,50909,50912,ich,faust
+gdc,kq6k.0,50863,51026,faust,50920,50924,mich,faust
+gdc,kq6k.0,50863,51026,faust,50997,51000,ich,faust
+gdc,kq6k.0,50863,51026,faust,51022,51025,mir,faust
+gdc,kq6k.0,51094,51113,bianca,51102,51106,Mein,bianca
+gdc,kq6k.0,51118,52155,faust,51264,51267,Ich,faust
+gdc,kq6k.0,51118,52155,faust,51594,51597,ich,faust
+gdc,kq6k.0,51118,52155,faust,52057,52060,ich,faust
+gdc,kq6k.0,51118,52155,faust,52086,52089,mir,faust
+gdc,kq6k.0,51118,52155,faust,52123,52126,Mir,faust
+gdc,kq6k.0,52161,52253,bianca,52196,52199,mir,bianca
+gdc,kq6k.0,52161,52253,bianca,52205,52209,Mein,bianca
+gdc,kq6k.0,52161,52253,bianca,52233,52236,ich,bianca
+gdc,kq6k.0,52259,52822,faust,52267,52270,Ich,faust
+gdc,kq6k.0,52259,52822,faust,52369,52372,Ich,faust
+gdc,kq6k.0,52259,52822,faust,52429,52432,Ich,faust
+gdc,kq6k.0,52259,52822,faust,52486,52491,meine,faust
+gdc,kq6k.0,52864,52975,faust,52872,52875,Ich,faust
+gdc,kq6k.0,52864,52975,faust,52883,52886,Ich,faust
+gdc,kq6k.0,53002,53082,faust,53016,53019,ich,faust
+gdc,kq6k.0,53130,53232,bianca,53181,53184,ich,bianca
+gdc,kq6k.0,53130,53232,bianca,53209,53213,mich,bianca
+gdc,kq6k.0,53238,53296,faust,53259,53263,mein,faust
+gdc,kq6k.0,53238,53296,faust,53270,53273,ich,faust
+gdc,kq6k.0,53437,56723,mephistopheles,53503,53507,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53513,53516,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53542,53546,Mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53566,53569,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53659,53663,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53681,53685,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53755,53758,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53777,53780,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53781,53785,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53842,53845,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53884,53887,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53913,53916,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,53955,53958,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54048,54052,mein,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54062,54065,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54135,54139,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54184,54188,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54224,54227,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54242,54247,meine,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54336,54339,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54361,54364,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54396,54399,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54422,54426,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54531,54534,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54614,54617,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54650,54653,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54715,54718,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54782,54785,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54816,54819,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54822,54825,Ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,54843,54846,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55108,55112,mich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55144,55147,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55192,55195,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55318,55321,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55322,55327,meine,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55361,55364,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55842,55845,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,55901,55904,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,56043,56046,mir,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,56138,56141,ich,mephistopheles
+gdc,kq6k.0,53437,56723,mephistopheles,56182,56185,mir,mephistopheles
+gdc,kq6k.0,56940,57131,mephistopheles,57062,57065,mir,mephistopheles
+gdc,kq6k.0,56940,57131,mephistopheles,57098,57101,Ich,mephistopheles
+gdc,kq6k.0,57314,57501,mephistopheles,57405,57408,ich,mephistopheles
+gdc,kq6k.0,57314,57501,mephistopheles,57441,57444,ich,mephistopheles
+gdc,kq6k.0,57314,57501,mephistopheles,57448,57452,mich,mephistopheles
+gdc,kq6k.0,57790,57842,crabe,57812,57818,meiner,crabe
+gdc,kq6k.0,57928,58075,mephistopheles,57980,57983,Mir,mephistopheles
+gdc,kq6k.0,57928,58075,mephistopheles,58001,58004,mir,mephistopheles
+gdc,kq6k.0,58194,58261,mephistopheles,58233,58236,ich,mephistopheles
+gdc,kq6k.0,58374,58887,mephistopheles,58408,58411,Ich,mephistopheles
+gdc,kq6k.0,58374,58887,mephistopheles,58431,58434,ich,mephistopheles
+gdc,kq6k.0,58374,58887,mephistopheles,58448,58451,ich,mephistopheles
+gdc,kq6k.0,58374,58887,mephistopheles,58488,58492,mein,mephistopheles
+gdc,kq6k.0,59160,59285,crabe,59182,59185,mir,crabe
+gdc,kq6k.0,59160,59285,crabe,59257,59260,ich,crabe
+gdc,kq6k.0,59160,59285,crabe,59278,59281,ich,crabe
+gdc,kq6k.0,59445,59542,crabe,59516,59521,meine,crabe
+gdc,kq6k.0,59548,59732,mephistopheles,59619,59622,Ich,mephistopheles
+gdc,kq6k.0,59738,59842,crabe,59825,59828,mir,crabe
+gdc,kq6k.0,59848,59993,mephistopheles,59916,59920,Mein,mephistopheles
+gdc,kq6k.0,59999,60856,crabe,60014,60018,mein,crabe
+gdc,kq6k.0,59999,60856,crabe,60027,60030,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60049,60052,Ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60059,60063,mich,crabe
+gdc,kq6k.0,59999,60856,crabe,60124,60128,mich,crabe
+gdc,kq6k.0,59999,60856,crabe,60235,60238,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60256,60262,meinem,crabe
+gdc,kq6k.0,59999,60856,crabe,60288,60291,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60375,60378,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60396,60399,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60421,60424,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60467,60470,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60471,60474,mir,crabe
+gdc,kq6k.0,59999,60856,crabe,60515,60518,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60561,60564,ich,crabe
+gdc,kq6k.0,59999,60856,crabe,60639,60642,mir,crabe
+gdc,kq6k.0,59999,60856,crabe,60676,60679,mir,crabe
+gdc,kq6k.0,59999,60856,crabe,60727,60731,mein,crabe
+gdc,kq6k.0,59999,60856,crabe,60801,60804,mir,crabe
+gdc,kq6k.0,61038,61083,crabe,61045,61048,Ich,crabe
+gdc,kq6k.0,61088,61340,mephistopheles,61163,61166,Ich,mephistopheles
+gdc,kq6k.0,61088,61340,mephistopheles,61231,61234,ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,61672,61675,mir,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,61687,61690,Mir,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,61774,61777,Ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,61833,61836,mir,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62015,62018,mir,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62047,62053,meiner,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62085,62089,mich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62111,62114,Ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62211,62214,ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62246,62249,Ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62330,62333,ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62355,62358,mir,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62548,62552,mich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62554,62557,ich,mephistopheles
+gdc,kq6k.0,61494,62699,mephistopheles,62626,62629,ich,mephistopheles
+gdc,kq6k.0,62705,62873,crabe,62780,62783,Ich,crabe
+gdc,kq6k.0,63112,63261,crabe,63137,63140,ich,crabe
+gdc,kq6k.0,63112,63261,crabe,63163,63166,mir,crabe
+gdc,kq6k.0,63267,63576,mephistopheles,63322,63326,mich,mephistopheles
+gdc,kq6k.0,63267,63576,mephistopheles,63387,63390,ich,mephistopheles
+gdc,kq6k.0,63267,63576,mephistopheles,63417,63420,Ich,mephistopheles
+gdc,kq6k.0,63267,63576,mephistopheles,63523,63529,meiner,mephistopheles
+gdc,kq6k.0,63692,64583,dujour,63935,63938,ich,dujour
+gdc,kq6k.0,63692,64583,dujour,63939,63943,mich,dujour
+gdc,kq6k.0,63692,64583,dujour,64053,64056,Ich,dujour
+gdc,kq6k.0,63692,64583,dujour,64108,64114,meinen,dujour
+gdc,kq6k.0,63692,64583,dujour,64167,64171,mich,dujour
+gdc,kq6k.0,63692,64583,dujour,64194,64197,ich,dujour
+gdc,kq6k.0,63692,64583,dujour,64241,64244,ich,dujour
+gdc,kq6k.0,63692,64583,dujour,64245,64249,mich,dujour
+gdc,kq6k.0,63692,64583,dujour,64286,64290,mein,dujour
+gdc,kq6k.0,63692,64583,dujour,64345,64349,mich,dujour
+gdc,kq6k.0,63692,64583,dujour,64365,64368,Ich,dujour
+gdc,kq6k.0,63692,64583,dujour,64534,64537,Ich,dujour
+gdc,kq6k.0,63692,64583,dujour,64569,64573,Mein,dujour
+gdc,kq6k.0,64589,64875,le_doigt,64696,64699,mir,le_doigt
+gdc,kq6k.0,64589,64875,le_doigt,64765,64768,Ich,le_doigt
+gdc,kq6k.0,64589,64875,le_doigt,64822,64825,ich,le_doigt
+gdc,kq6k.0,65098,65422,dujour,65107,65110,Ich,dujour
+gdc,kq6k.0,65098,65422,dujour,65220,65226,meiner,dujour
+gdc,kq6k.0,65465,65534,dujour,65499,65503,mein,dujour
+gdc,kq6k.0,65784,66022,dujour,65797,65801,mein,dujour
+gdc,kq6k.0,65784,66022,dujour,65945,65948,ich,dujour
+gdc,kq6k.0,66361,69068,robert,66679,66684,meine,robert
+gdc,kq6k.0,66361,69068,robert,66703,66707,mich,robert
+gdc,kq6k.0,66361,69068,robert,66783,66786,ich,robert
+gdc,kq6k.0,66361,69068,robert,66787,66791,mich,robert
+gdc,kq6k.0,66361,69068,robert,66889,66892,ich,robert
+gdc,kq6k.0,66361,69068,robert,66901,66905,mich,robert
+gdc,kq6k.0,66361,69068,robert,66933,66937,mich,robert
+gdc,kq6k.0,66361,69068,robert,66975,66978,ich,robert
+gdc,kq6k.0,66361,69068,robert,66979,66982,mir,robert
+gdc,kq6k.0,66361,69068,robert,67117,67122,meine,robert
+gdc,kq6k.0,66361,69068,robert,67147,67150,mir,robert
+gdc,kq6k.0,66361,69068,robert,67220,67223,mir,robert
+gdc,kq6k.0,66361,69068,robert,67271,67277,meinem,robert
+gdc,kq6k.0,66361,69068,robert,67310,67314,Mich,robert
+gdc,kq6k.0,66361,69068,robert,67382,67387,meine,robert
+gdc,kq6k.0,66361,69068,robert,67952,67956,mein,robert
+gdc,kq6k.0,66361,69068,robert,68032,68038,meinem,robert
+gdc,kq6k.0,66361,69068,robert,68092,68095,mir,robert
+gdc,kq6k.0,66361,69068,robert,68130,68133,ich,robert
+gdc,kq6k.0,66361,69068,robert,68139,68142,mir,robert
+gdc,kq6k.0,66361,69068,robert,68195,68201,meiner,robert
+gdc,kq6k.0,66361,69068,robert,68620,68623,ich,robert
+gdc,kq6k.0,66361,69068,robert,68624,68628,mich,robert
+gdc,kq6k.0,66361,69068,robert,68674,68677,ich,robert
+gdc,kq6k.0,66361,69068,robert,68721,68724,ich,robert
+gdc,kq6k.0,66361,69068,robert,68739,68743,mich,robert
+gdc,kq6k.0,66361,69068,robert,68879,68882,mir,robert
+gdc,kq6k.0,66361,69068,robert,68964,68970,meinem,robert
+gdc,kq6k.0,69114,70064,mephistopheles,69221,69224,Ich,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69267,69270,mir,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69349,69354,meine,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69445,69448,ich,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69488,69493,meine,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69715,69719,mein,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69867,69870,Ich,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69877,69881,mich,mephistopheles
+gdc,kq6k.0,69114,70064,mephistopheles,69906,69909,Mir,mephistopheles
+gdc,kq6k.0,70070,71495,faust,70117,70120,Mir,faust
+gdc,kq6k.0,70070,71495,faust,70175,70178,ich,faust
+gdc,kq6k.0,70070,71495,faust,70200,70203,Mir,faust
+gdc,kq6k.0,70070,71495,faust,70249,70252,mir,faust
+gdc,kq6k.0,70070,71495,faust,70265,70268,Ich,faust
+gdc,kq6k.0,70070,71495,faust,70319,70322,ich,faust
+gdc,kq6k.0,70070,71495,faust,70336,70339,ich,faust
+gdc,kq6k.0,70070,71495,faust,70350,70353,ich,faust
+gdc,kq6k.0,70070,71495,faust,70403,70408,meine,faust
+gdc,kq6k.0,70070,71495,faust,70433,70437,mein,faust
+gdc,kq6k.0,70070,71495,faust,70600,70603,ich,faust
+gdc,kq6k.0,70070,71495,faust,70648,70652,mich,faust
+gdc,kq6k.0,70070,71495,faust,70658,70661,ich,faust
+gdc,kq6k.0,70070,71495,faust,70734,70737,ich,faust
+gdc,kq6k.0,70070,71495,faust,70763,70766,ich,faust
+gdc,kq6k.0,70070,71495,faust,70798,70801,ich,faust
+gdc,kq6k.0,70070,71495,faust,70810,70814,mich,faust
+gdc,kq6k.0,70070,71495,faust,70816,70820,Mein,faust
+gdc,kq6k.0,70070,71495,faust,71062,71065,mir,faust
+gdc,kq6k.0,70070,71495,faust,71253,71257,mein,faust
+gdc,kq6k.0,70070,71495,faust,71448,71451,ich,faust
+gdc,kq6k.0,70070,71495,faust,71466,71469,mir,faust
+gdc,kq6k.0,71615,71678,mephistopheles,71658,71662,Mein,mephistopheles
+gdc,kq6k.0,71683,71738,faust,71700,71703,mir,faust
+gdc,kq6k.0,71743,71922,mephistopheles,71776,71779,Ich,mephistopheles
+gdc,kq6k.0,71743,71922,mephistopheles,71910,71913,mir,mephistopheles
+gdc,kq6k.0,71928,71960,faust,71940,71945,meine,faust
+gdc,kq6k.0,71965,72004,mephistopheles,71998,72002,mich,mephistopheles
+gdc,kq6k.0,72009,72076,faust,72039,72042,ich,faust
+gdc,kq6k.0,72009,72076,faust,72050,72054,mich,faust
+gdc,kq6k.0,72519,72655,dujour,72639,72642,mir,dujour
+gdc,kq6k.0,72662,72917,le_doigt,72679,72682,ich,le_doigt
+gdc,kq6k.0,72662,72917,le_doigt,72804,72807,ich,le_doigt
+gdc,kq6k.0,73411,73482,le_doigt,73440,73443,mir,le_doigt
+gdc,kq6k.0,73634,73722,dujour,73710,73716,meinem,dujour
+gdc,kq6k.0,73727,74056,faust,74021,74024,ich,faust
+gdc,kq6k.0,73727,74056,faust,74025,74028,mir,faust
+gdc,kq6k.0,74158,74257,dujour,74183,74186,Ich,dujour
+gdc,kq6k.0,74263,74528,mephistopheles,74318,74323,meine,mephistopheles
+gdc,kq6k.0,74263,74528,mephistopheles,74422,74425,ich,mephistopheles
+gdc,kq6k.0,75055,75307,faust,75110,75114,mein,faust
+gdc,kq6k.0,75055,75307,faust,75133,75137,mein,faust
+gdc,kq6k.0,75055,75307,faust,75268,75271,ich,faust
+gdc,kq6k.0,75055,75307,faust,75274,75277,ich,faust
+gdc,kq6k.0,75388,75463,faust,75413,75416,Ich,faust
+gdc,kq6k.0,75469,75556,dujour,75546,75550,mein,dujour
+gdc,kq6k.0,75900,76366,faust,75919,75922,ich,faust
+gdc,kq6k.0,75900,76366,faust,75964,75967,ich,faust
+gdc,kq6k.0,75900,76366,faust,76052,76055,ich,faust
+gdc,kq6k.0,75900,76366,faust,76073,76076,ich,faust
+gdc,kq6k.0,75900,76366,faust,76178,76181,mir,faust
+gdc,kq6k.0,75900,76366,faust,76218,76222,mich,faust
+gdc,kq6k.0,76481,76541,mephistopheles,76524,76527,Ich,mephistopheles
+gdc,kq6k.0,76734,76808,appeau,76798,76801,ich,appeau
+gdc,kq6k.0,76859,76919,le_doigt,76879,76883,mich,le_doigt
+gdc,kq6k.0,78127,78349,faust,78171,78175,mein,faust
+gdc,kq6k.0,78127,78349,faust,78212,78217,meine,faust
+gdc,kq6k.0,78127,78349,faust,78249,78252,Mir,faust
+gdc,kq6k.0,78127,78349,faust,78302,78305,mir,faust
+gdc,kq6k.0,78749,78831,faust,78756,78760,Mein,faust
+gdc,kq6k.0,78749,78831,faust,78771,78775,mein,faust
+gdc,kq6k.0,78992,79279,faust,79187,79190,mir,faust
+gdc,kq6k.0,79430,79691,faust,79597,79600,mir,faust
+gdc,kq6k.0,79430,79691,faust,79637,79643,meinen,faust
+gdc,kq6k.0,79430,79691,faust,79657,79662,meine,faust
+gdc,kq6k.0,79975,80048,faust,80033,80038,meine,faust
+gdc,kq6k.0,80170,80243,faust,80200,80204,mein,faust
+gdc,kq6k.0,80249,80587,robert,80261,80265,mich,robert
+gdc,kq6k.0,80593,80665,faust,80641,80644,ich,faust
+gdc,kq6k.0,80843,81062,robert,80902,80905,mir,robert
+gdc,kq6k.0,80843,81062,robert,80932,80935,ich,robert
+gdc,kq6k.0,80843,81062,robert,81031,81035,mich,robert
+gdc,kq6k.0,81067,81200,faust,81126,81132,meiner,faust
+gdc,kq6k.0,81258,81322,robert,81276,81279,ich,robert
+gdc,kq6k.0,81479,81566,robert,81505,81508,Ich,robert
+gdc,kq6k.0,81988,82034,_stage,81988,82004,Kloster St. Just,Kloster-St.-Just
+gdc,kq6k.0,82037,82177,_stage,82037,82057,Kleiner Blumengarten,Kleiner-Blumengarten
+gdc,kq6k.0,82037,82177,_stage,82098,82112,den Fluß Xerte,den-Fluß-Xerte
+gdc,kq6k.0,82037,82177,_stage,82152,82169,der Klosterpforte,der-Klosterpforte
+gdc,kq6k.0,82180,82204,_stage,82180,82185,Faust,faust
+gdc,kq6k.0,82180,82204,_stage,82190,82203,Pater Anselmo,anselmo
+gdc,kq6k.0,82208,82272,anselmo,82229,82232,ihr,faust
+gdc,kq6k.0,82208,82272,anselmo,82236,82241,eurer,faust
+gdc,kq6k.0,82208,82272,anselmo,82256,82271,Mein edler Herr,faust
+gdc,kq6k.0,82208,82272,anselmo,82256,82260,Mein,anselmo
+gdc,kq6k.0,82278,82531,faust,82290,82293,ich,faust
+gdc,kq6k.0,82278,82531,faust,82321,82330,mein Herz,Faust-Herz
+gdc,kq6k.0,82278,82531,faust,82321,82325,mein,faust
+gdc,kq6k.0,82278,82531,faust,82351,82355,mein,faust
+gdc,kq6k.0,82278,82531,faust,82363,82367,Mein,faust
+gdc,kq6k.0,82278,82531,faust,82500,82503,ich,faust
+gdc,kq6k.0,82278,82531,faust,82514,82530,ehrwürd'ger Herr,anselmo
+gdc,kq6k.0,82537,82698,anselmo,82547,82550,Ihr,faust
+gdc,kq6k.0,82537,82698,anselmo,82560,82563,Ihr,faust
+gdc,kq6k.0,82537,82698,anselmo,82570,82581,im Gärtlein,Kleiner-Blumengarten
+gdc,kq6k.0,82537,82698,anselmo,82582,82596,Kaiser Carol's,kaiser
+gdc,kq6k.0,82537,82698,anselmo,82598,82602,Herr,faust
+gdc,kq6k.0,82537,82698,anselmo,82605,82607,Er,kaiser
+gdc,kq6k.0,82537,82698,anselmo,82615,82616,s,Kleiner-Blumengarten
+gdc,kq6k.0,82537,82698,anselmo,82654,82656,er,kaiser
+gdc,kq6k.0,82537,82698,anselmo,82665,82667,es,Kleiner-Blumengarten
+gdc,kq6k.0,82704,82957,faust,82791,82815,Der Weltbeherrscher Carl,kaiser
+gdc,kq6k.0,82704,82957,faust,82821,82827,dessen,kaiser
+gdc,kq6k.0,82704,82957,faust,82860,82866,seiner,kaiser
+gdc,kq6k.0,82704,82957,faust,82940,82943,ich,faust
+gdc,kq6k.0,82963,83151,anselmo,82981,82989,ein Mann,kaiser
+gdc,kq6k.0,82963,83151,anselmo,83046,83052,seines,kaiser
+gdc,kq6k.0,82963,83151,anselmo,83068,83071,Ihr,faust
+gdc,kq6k.0,83157,83206,faust,83164,83183,Dies Blumengärtlein,Kleiner-Blumengarten
+gdc,kq6k.0,83157,83206,faust,83195,83205,den Kaiser,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83238,83240,Er,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83268,83308,"Der Sprossen, die er setzt dem Boden ein","Der-Sprossen,-die-er-setzt-dem-Boden-ein"
+gdc,kq6k.0,83211,83652,anselmo,83282,83285,die,"Der-Sprossen,-die-er-setzt-dem-Boden-ein"
+gdc,kq6k.0,83211,83652,anselmo,83286,83288,er,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83369,83373,sein,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83413,83418,Sorg',Sorg'
+gdc,kq6k.0,83211,83652,anselmo,83422,83427,seine,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83477,83479,er,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83480,83500,der ird'schen Sorgen,Sorg'
+gdc,kq6k.0,83211,83652,anselmo,83516,83518,Er,kaiser
+gdc,kq6k.0,83211,83652,anselmo,83553,83563,dem Himmel,dem-Himmel
+gdc,kq6k.0,83211,83652,anselmo,83613,83616,ich,anselmo
+gdc,kq6k.0,83211,83652,anselmo,83624,83628,euch,faust
+gdc,kq6k.0,83211,83652,anselmo,83633,83636,ihr,faust
+gdc,kq6k.0,83658,83820,faust,83701,83710,Mein Herz,Faust-Herz
+gdc,kq6k.0,83658,83820,faust,83701,83705,Mein,faust
+gdc,kq6k.0,83658,83820,faust,83743,83750,Schmerz,Schmerz
+gdc,kq6k.0,83658,83820,faust,83762,83765,der,Schmerz
+gdc,kq6k.0,83658,83820,faust,83766,83768,es,Faust-Herz
+gdc,kq6k.0,83658,83820,faust,83789,83792,ich,faust
+gdc,kq6k.0,83658,83820,faust,83799,83802,ich,faust
+gdc,kq6k.0,83658,83820,faust,83803,83813,den Kaiser,kaiser
+gdc,kq6k.0,83826,83967,anselmo,83856,83859,ihr,faust
+gdc,kq6k.0,83826,83967,anselmo,83871,83881,edler Herr,faust
+gdc,kq6k.0,83826,83967,anselmo,83934,83937,ihr,faust
+gdc,kq6k.0,83973,84015,faust,83986,83992,meinen,faust
+gdc,kq6k.0,84020,84237,anselmo,84030,84033,Ihr,faust
+gdc,kq6k.0,84020,84237,anselmo,84054,84058,eure,faust
+gdc,kq6k.0,84020,84237,anselmo,84087,84090,uns,anselmo
+gdc,kq6k.0,84020,84237,anselmo,84154,84157,Wir,anselmo
+gdc,kq6k.0,84020,84237,anselmo,84188,84192,euch,faust
+gdc,kq6k.0,84020,84237,anselmo,84210,84213,ich,anselmo
+gdc,kq6k.0,84020,84237,anselmo,84214,84218,euch,faust
+gdc,kq6k.0,84020,84237,anselmo,84219,84229,dem Kaiser,kaiser
+gdc,kq6k.0,84243,84294,faust,84250,84253,Ich,faust
+gdc,kq6k.0,84243,84294,faust,84288,84293,Walle,faust
+gdc,kq6k.0,84300,84514,anselmo,84326,84336,der Kaiser,kaiser
+gdc,kq6k.0,84300,84514,anselmo,84345,84348,wir,faust-und-anselmo
+gdc,kq6k.0,84300,84514,anselmo,84416,84420,euch,faust
+gdc,kq6k.0,84300,84514,anselmo,84421,84425,sein,kaiser
+gdc,kq6k.0,84300,84514,anselmo,84462,84464,er,kaiser
+gdc,kq6k.0,84300,84514,anselmo,84496,84498,er,kaiser
+gdc,kq6k.0,84559,84767,_stage,84559,84569,Der Kaiser,kaiser
+gdc,kq6k.0,84559,84767,_stage,84598,84608,der Pforte,der-Klosterpforte
+gdc,kq6k.0,84559,84767,_stage,84694,84707,sein Gärtchen,Kleiner-Blumengarten
+gdc,kq6k.0,84559,84767,_stage,84694,84698,sein,kaiser
+gdc,kq6k.0,84559,84767,_stage,84720,84724,sich,kaiser
+gdc,kq6k.0,84770,85340,faust,84788,84791,ich,faust
+gdc,kq6k.0,84770,85340,faust,84792,84795,ihn,kaiser
+gdc,kq6k.0,84770,85340,faust,84831,84837,seiner,kaiser
+gdc,kq6k.0,84770,85340,faust,84851,84857,seinem,kaiser
+gdc,kq6k.0,84770,85340,faust,84920,84922,er,kaiser
+gdc,kq6k.0,84770,85340,faust,84937,84945,der Welt,der-Welt
+gdc,kq6k.0,84770,85340,faust,84956,84958,er,kaiser
+gdc,kq6k.0,84770,85340,faust,84969,84973,Gott,Gott
+gdc,kq6k.0,84770,85340,faust,85222,85225,Ich,faust
+gdc,kq6k.0,84770,85340,faust,85238,85242,Gott,Gott
+gdc,kq6k.0,84770,85340,faust,85248,85251,mir,faust
+gdc,kq6k.0,84770,85340,faust,85266,85275,Ehrwürden,anselmo
+gdc,kq6k.0,84770,85340,faust,85295,85298,ich,faust
+gdc,kq6k.0,84770,85340,faust,85305,85321,Mein ganzes Herz,Faust-Herz
+gdc,kq6k.0,84770,85340,faust,85305,85309,Mein,faust
+gdc,kq6k.0,84770,85340,faust,85328,85332,mich,faust
+gdc,kq6k.0,84770,85340,faust,85336,85339,ihn,kaiser
+gdc,kq6k.0,85355,85401,_stage,85371,85377,Kaiser,kaiser
+gdc,kq6k.0,85355,85401,_stage,85383,85386,dem,kaiser
+gdc,kq6k.0,85355,85401,_stage,85387,85389,er,anselmo
+gdc,kq6k.0,85346,85468,anselmo,85404,85406,Er,kaiser
+gdc,kq6k.0,85346,85468,anselmo,85444,85448,euch,faust
+gdc,kq6k.0,85481,85690,_stage,85528,85538,den Kaiser,kaiser
+gdc,kq6k.0,85481,85690,_stage,85543,85546,der,kaiser
+gdc,kq6k.0,85481,85690,_stage,85547,85550,ihn,faust
+gdc,kq6k.0,85481,85690,_stage,85594,85598,sich,faust
+gdc,kq6k.0,85481,85690,_stage,85640,85646,Kaiser,kaiser
+gdc,kq6k.0,85481,85690,_stage,85667,85674,Anselmo,anselmo
+gdc,kq6k.0,85481,85690,_stage,85679,85682,ihm,kaiser
+gdc,kq6k.0,85695,85714,kaiser,85703,85706,Ihr,faust
+gdc,kq6k.0,85743,85782,kaiser,85757,85760,ihr,faust
+gdc,kq6k.0,85743,85782,kaiser,85767,85771,euer,faust
+gdc,kq6k.0,85787,85834,faust,85825,85833,die Welt,der-Welt
+gdc,kq6k.0,85839,85887,kaiser,85867,85870,ihr,faust
+gdc,kq6k.0,85839,85887,kaiser,85876,85886,meine Zeit,meine-Zeit
+gdc,kq6k.0,85839,85887,kaiser,85876,85881,meine,kaiser
+gdc,kq6k.0,85893,85941,faust,85900,85903,Ich,faust
+gdc,kq6k.0,85893,85941,faust,85912,85915,ihr,meine-Zeit
+gdc,kq6k.0,85893,85941,faust,85917,85920,sie,meine-Zeit
+gdc,kq6k.0,85946,86001,kaiser,85979,85982,Ihr,faust
+gdc,kq6k.0,85946,86001,kaiser,85994,86000,Blumen,Blumen
+gdc,kq6k.0,86006,86104,faust,86024,86034,Die Blumen,Blumen
+gdc,kq6k.0,86110,86142,kaiser,86118,86128,Sanct Just,Kloster-St.-Just
+gdc,kq6k.0,86110,86142,kaiser,86137,86141,euch,faust
+gdc,kq6k.0,86147,86205,faust,86183,86187,mich,faust
+gdc,kq6k.0,86147,86205,faust,86191,86197,seinen,Kloster-St.-Just
+gdc,kq6k.0,86211,86277,kaiser,86253,86272,meinem Leichenfeste,meinem-Leichenfeste
+gdc,kq6k.0,86211,86277,kaiser,86253,86259,meinem,kaiser
+gdc,kq6k.0,86350,86419,kaiser,86363,86367,Gott,Gott
+gdc,kq6k.0,86447,86540,kaiser,86462,86465,ich,kaiser
+gdc,kq6k.0,86447,86540,kaiser,86466,86489,mein eignes Leichenfest,meinem-Leichenfeste
+gdc,kq6k.0,86447,86540,kaiser,86466,86470,mein,kaiser
+gdc,kq6k.0,86493,86540,_stage,86493,86495,Er,kaiser
+gdc,kq6k.0,86493,86540,_stage,86503,86508,Faust,faust
+gdc,kq6k.0,86493,86540,_stage,86513,86520,Anselmo,anselmo
+gdc,kq6k.0,86493,86540,_stage,86528,86532,sich,faust-und-anselmo
+gdc,kq6k.0,86584,86622,_stage,86591,86603,des Klosters,Kloster-St.-Just
+gdc,kq6k.0,86632,86674,_stage,86646,86660,einer Cypresse,einer-Cypresse
+gdc,kq6k.0,86632,86674,_stage,86661,86665,sich,faust
+gdc,kq6k.0,86625,87902,faust,86686,86690,mich,faust
+gdc,kq6k.0,86625,87902,faust,86706,86718,diesem Thale,diesem-Thale
+gdc,kq6k.0,86625,87902,faust,86726,86729,ich,faust
+gdc,kq6k.0,86625,87902,faust,86786,86791,Faust,faust
+gdc,kq6k.0,86625,87902,faust,86812,86828,Verwirkter Geist,faust
+gdc,kq6k.0,86625,87902,faust,86852,86854,du,faust
+gdc,kq6k.0,86625,87902,faust,86867,86870,ihn,mephistopheles
+gdc,kq6k.0,86625,87902,faust,86876,86879,dem,mephistopheles
+gdc,kq6k.0,86625,87902,faust,86880,86882,du,faust
+gdc,kq6k.0,86625,87902,faust,86911,86937,dem beschwornen Lügengeist,mephistopheles
+gdc,kq6k.0,86625,87902,faust,86948,86950,du,faust
+gdc,kq6k.0,86625,87902,faust,86967,86970,ihn,mephistopheles
+gdc,kq6k.0,86625,87902,faust,86987,86991,dich,faust
+gdc,kq6k.0,86625,87902,faust,86992,87000,der Hund,mephistopheles
+gdc,kq6k.0,86625,87902,faust,87049,87052,ich,faust
+gdc,kq6k.0,86625,87902,faust,87062,87065,ich,faust
+gdc,kq6k.0,86625,87902,faust,87084,87087,ich,faust
+gdc,kq6k.0,86625,87902,faust,87131,87137,meiner,faust
+gdc,kq6k.0,86625,87902,faust,87166,87169,ich,faust
+gdc,kq6k.0,86625,87902,faust,87255,87261,Bianca,bianca
+gdc,kq6k.0,86625,87902,faust,87270,87276,Bianca,bianca
+gdc,kq6k.0,86625,87902,faust,87290,87293,ich,faust
+gdc,kq6k.0,86625,87902,faust,87298,87301,mir,faust
+gdc,kq6k.0,86625,87902,faust,87335,87373,"der Erinn'rung Nacht, die mich umhüllt","der-Erinn'rung-Nacht,-die-mich-umhüllt"
+gdc,kq6k.0,86625,87902,faust,87357,87360,die,"der-Erinn'rung-Nacht,-die-mich-umhüllt"
+gdc,kq6k.0,86625,87902,faust,87361,87365,mich,faust
+gdc,kq6k.0,86625,87902,faust,87386,87389,ich,faust
+gdc,kq6k.0,86625,87902,faust,87400,87404,mich,faust
+gdc,kq6k.0,86625,87902,faust,87423,87429,Bianca,bianca
+gdc,kq6k.0,86625,87902,faust,87439,87442,dir,bianca
+gdc,kq6k.0,86625,87902,faust,87443,87457,erblühte Glück,erblühte-Glück
+gdc,kq6k.0,86625,87902,faust,87479,87481,es,erblühte-Glück
+gdc,kq6k.0,86625,87902,faust,87538,87541,ich,faust
+gdc,kq6k.0,86625,87902,faust,87566,87568,du,bianca
+gdc,kq6k.0,86625,87902,faust,87606,87612,deines,bianca
+gdc,kq6k.0,86625,87902,faust,87622,87639,unvergeßlich Weib,bianca
+gdc,kq6k.0,86625,87902,faust,87642,87644,Du,bianca
+gdc,kq6k.0,86625,87902,faust,87671,87674,dir,bianca
+gdc,kq6k.0,86625,87902,faust,87680,87685,meine,faust
+gdc,kq6k.0,86625,87902,faust,87715,87719,sich,mein-Leid
+gdc,kq6k.0,86625,87902,faust,87726,87735,mein Leid,mein-Leid
+gdc,kq6k.0,86625,87902,faust,87726,87730,mein,faust
+gdc,kq6k.0,86625,87902,faust,87747,87750,ich,faust
+gdc,kq6k.0,86625,87902,faust,87751,87772,dieses Flusses Wellen,dieses-Flusses-Wellen
+gdc,kq6k.0,86625,87902,faust,87751,87765,dieses Flusses,den-Fluß-Xerte
+gdc,kq6k.0,86625,87902,faust,87796,87798,du,bianca
+gdc,kq6k.0,86625,87902,faust,87807,87813,Bianca,bianca
+gdc,kq6k.0,86625,87902,faust,87815,87817,du,bianca
+gdc,kq6k.0,86625,87902,faust,87820,87830,Die Wellen,dieses-Flusses-Wellen
+gdc,kq6k.0,86625,87902,faust,87838,87842,mich,faust
+gdc,kq6k.0,86625,87902,faust,87862,87868,Bianca,bianca
+gdc,kq6k.0,86625,87902,faust,87870,87873,dir,bianca
+gdc,kq6k.0,86625,87902,faust,87888,87898,dem Himmel,dem-Himmel
+gdc,kq6k.0,87908,88883,mephistopheles,87938,87941,Mir,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,87948,87951,Mir,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,87957,87960,ich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,87976,87979,dir,faust
+gdc,kq6k.0,87908,88883,mephistopheles,87992,87997,Faust,faust
+gdc,kq6k.0,87908,88883,mephistopheles,87999,88003,dich,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88040,88051,des Flusses,den-Fluß-Xerte
+gdc,kq6k.0,87908,88883,mephistopheles,88121,88130,"den Bann,","den-Bann,-------------------Durch-den-du-mich-von-dir-geschieden"
+gdc,kq6k.0,87908,88883,mephistopheles,88138,88141,den,"den-Bann,-------------------Durch-den-du-mich-von-dir-geschieden"
+gdc,kq6k.0,87908,88883,mephistopheles,88145,88149,mich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88154,88157,dir,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88184,88187,ich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88188,88191,dir,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88262,88264,du,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88270,88273,mir,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88274,88278,dich,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88317,88319,du,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88320,88323,mir,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88397,88400,Ich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88411,88414,dir,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88429,88433,Mich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88470,88472,du,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88506,88510,dich,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88516,88521,deine,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88540,88542,du,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88632,88635,ihm,Gott
+gdc,kq6k.0,87908,88883,mephistopheles,88640,88643,dem,Gott
+gdc,kq6k.0,87908,88883,mephistopheles,88663,88667,Dich,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88691,88694,mir,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88731,88735,mich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88740,88743,dir,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88763,88766,ich,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88799,88803,dich,faust
+gdc,kq6k.0,87908,88883,mephistopheles,88806,88816,Der Teufel,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88861,88863,er,mephistopheles
+gdc,kq6k.0,87908,88883,mephistopheles,88876,88880,sich,mephistopheles
+gdc,kq6k.0,88889,89300,faust,88908,88910,du,mephistopheles
+gdc,kq6k.0,88889,89300,faust,88912,88919,Gaukler,mephistopheles
+gdc,kq6k.0,88889,89300,faust,88921,88925,mich,faust
+gdc,kq6k.0,88889,89300,faust,88951,88954,ich,faust
+gdc,kq6k.0,88889,89300,faust,88961,88965,dein,
+gdc,kq6k.0,88889,89300,faust,88985,88989,dich,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89019,89021,du,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89022,89025,mir,faust
+gdc,kq6k.0,88889,89300,faust,89047,89050,Ich,faust
+gdc,kq6k.0,88889,89300,faust,89108,89112,mein,faust
+gdc,kq6k.0,88889,89300,faust,89135,89137,Du,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89145,89149,mich,faust
+gdc,kq6k.0,88889,89300,faust,89162,89165,ich,faust
+gdc,kq6k.0,88889,89300,faust,89166,89170,dich,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89182,89184,Du,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89185,89204,kupplerischer Wicht,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89218,89221,ich,faust
+gdc,kq6k.0,88889,89300,faust,89222,89226,dich,mephistopheles
+gdc,kq6k.0,88889,89300,faust,89227,89230,mir,faust
+gdc,kq6k.0,88889,89300,faust,89269,89272,ich,faust
+gdc,kq6k.0,88889,89300,faust,89285,89289,dich,mephistopheles
+gdc,kq6k.0,89306,89337,mephistopheles,89322,89327,Faust,faust
+gdc,kq6k.0,89342,89426,faust,89354,89357,dir,mephistopheles
+gdc,kq6k.0,89342,89426,faust,89394,89399,deine,mephistopheles
+gdc,kq6k.0,89342,89426,faust,89418,89424,Knecht,mephistopheles
+gdc,kq6k.0,89508,89693,faust,89525,89528,ich,faust
+gdc,kq6k.0,89508,89693,faust,89551,89554,Dir,mephistopheles
+gdc,kq6k.0,89508,89693,faust,89560,89563,ich,faust
+gdc,kq6k.0,89508,89693,faust,89568,89572,mich,faust
+gdc,kq6k.0,89508,89693,faust,89602,89610,Heuchler,mephistopheles
+gdc,kq6k.0,89508,89693,faust,89623,89628,meine,faust
+gdc,kq6k.0,89508,89693,faust,89657,89660,ich,faust
+gdc,kq6k.0,89508,89693,faust,89661,89665,dich,mephistopheles
+gdc,kq6k.0,89508,89693,faust,89669,89675,deinen,mephistopheles
+gdc,kq6k.0,89743,89779,_stage,89749,89753,sich,faust
+gdc,kq6k.0,89743,89779,_stage,89766,89778,die Cypresse,einer-Cypresse
+gdc,kq6k.0,89823,89852,_stage,89823,89847,"Rosa, ein Fischermädchen",rosa
+gdc,kq6k.0,89855,89873,_stage,89855,89872,dem Kinde Juanito,juanito
+gdc,kq6k.0,89876,89917,_stage,89876,89879,Sie,rosa
+gdc,kq6k.0,90201,90224,_stage,90201,90204,Sie,rosa-und-juanito
+gdc,kq6k.0,90227,90273,faust,90241,90258,ihr lieben Kinder,rosa-und-juanito
+gdc,kq6k.0,90227,90273,faust,90269,90272,mir,faust
+gdc,kq6k.0,90278,90380,rosa,90298,90302,euch,faust
+gdc,kq6k.0,90278,90380,rosa,90304,90307,wir,rosa-und-juanito
+gdc,kq6k.0,90278,90380,rosa,90321,90328,Juanito,juanito
+gdc,kq6k.0,90278,90380,rosa,90335,90344,den Herrn,faust
+gdc,kq6k.0,90278,90380,rosa,90358,90361,ihm,faust
+gdc,kq6k.0,90278,90380,rosa,90362,90374,das Händchen,Dein-Händchen
+gdc,kq6k.0,90386,90551,faust,90418,90432,Lieb' Mägdlein,rosa
+gdc,kq6k.0,90455,90491,_stage,90455,90457,Er,faust
+gdc,kq6k.0,90455,90491,_stage,90463,90473,den Knaben,juanito
+gdc,kq6k.0,90455,90491,_stage,90487,90490,ihn,juanito
+gdc,kq6k.0,90386,90551,faust,90494,90501,Juanito,juanito
+gdc,kq6k.0,90386,90551,faust,90503,90514,Süßer Knabe,juanito
+gdc,kq6k.0,90386,90551,faust,90522,90525,dir,juanito
+gdc,kq6k.0,90386,90551,faust,90548,90550,du,juanito
+gdc,kq6k.0,90582,90781,faust,90607,90610,Mir,faust
+gdc,kq6k.0,90582,90781,faust,90625,90635,des Knaben,juanito
+gdc,kq6k.0,90582,90781,faust,90636,90640,mich,faust
+gdc,kq6k.0,90582,90781,faust,90651,90654,Ich,faust
+gdc,kq6k.0,90582,90781,faust,90665,90671,meiner,faust
+gdc,kq6k.0,90582,90781,faust,90681,90685,mich,faust
+gdc,kq6k.0,90582,90781,faust,90697,90700,Ich,faust
+gdc,kq6k.0,90582,90781,faust,90715,90719,mich,faust
+gdc,kq6k.0,90582,90781,faust,90724,90727,mir,faust
+gdc,kq6k.0,90582,90781,faust,90750,90757,Mädchen,rosa
+gdc,kq6k.0,90582,90781,faust,90763,90764,s,juanito
+gdc,kq6k.0,90582,90781,faust,90765,90780,dein Brüderlein,juanito
+gdc,kq6k.0,90582,90781,faust,90765,90769,dein,rosa
+gdc,kq6k.0,90787,90842,rosa,90807,90809,Es,juanito
+gdc,kq6k.0,90787,90842,rosa,90818,90829,Frau Benita,bianca
+gdc,kq6k.0,90848,91105,faust,90868,90879,Frau Benita,bianca
+gdc,kq6k.0,90848,91105,faust,90910,90932,der liebe blonde Knabe,juanito
+gdc,kq6k.0,90848,91105,faust,90944,90947,ich,faust
+gdc,kq6k.0,90848,91105,faust,90971,90974,ihn,juanito
+gdc,kq6k.0,90848,91105,faust,90999,91003,mein,faust
+gdc,kq6k.0,90848,91105,faust,91021,91024,ich,faust
+gdc,kq6k.0,90848,91105,faust,91035,91038,ihn,juanito
+gdc,kq6k.0,90848,91105,faust,91071,91073,du,rosa
+gdc,kq6k.0,90848,91105,faust,91075,91080,Holde,rosa
+gdc,kq6k.0,90848,91105,faust,91096,91099,man,man
+gdc,kq6k.0,90848,91105,faust,91100,91104,dich,rosa
+gdc,kq6k.0,91111,91357,rosa,91136,91155,eine arme Fischerin,rosa
+gdc,kq6k.0,91111,91357,rosa,91161,91165,Rosa,rosa
+gdc,kq6k.0,91111,91357,rosa,91172,91175,ich,rosa
+gdc,kq6k.0,91111,91357,rosa,91178,91181,Mir,rosa
+gdc,kq6k.0,91111,91357,rosa,91190,91195,meine,rosa
+gdc,kq6k.0,91111,91357,rosa,91214,91218,Gott,Gott
+gdc,kq6k.0,91111,91357,rosa,91229,91233,mich,rosa
+gdc,kq6k.0,91111,91357,rosa,91236,91238,Er,Gott
+gdc,kq6k.0,91111,91357,rosa,91245,91249,sich,Gott
+gdc,kq6k.0,91111,91357,rosa,91277,91279,er,Gott
+gdc,kq6k.0,91111,91357,rosa,91290,91294,mein,rosa
+gdc,kq6k.0,91111,91357,rosa,91297,91300,Mir,rosa
+gdc,kq6k.0,91111,91357,rosa,91305,91307,er,Gott
+gdc,kq6k.0,91363,91445,faust,91433,91435,du,rosa
+gdc,kq6k.0,91363,91445,faust,91436,91440,dich,rosa
+gdc,kq6k.0,91452,91766,rosa,91463,91467,Herr,faust
+gdc,kq6k.0,91452,91766,rosa,91477,91480,ich,rosa
+gdc,kq6k.0,91452,91766,rosa,91490,91493,ich,rosa
+gdc,kq6k.0,91452,91766,rosa,91509,91512,ich,rosa
+gdc,kq6k.0,91452,91766,rosa,91521,91525,Gott,Gott
+gdc,kq6k.0,91452,91766,rosa,91530,91551,"meinem frischen Sinn,","meinem-frischen-Sinn,-------------------Der-Frau-Benita,-der-im-weiten-Thal-------------------So-mancher-Arme-täglich-dankt-sein-Mahl"
+gdc,kq6k.0,91452,91766,rosa,91530,91536,meinem,rosa
+gdc,kq6k.0,91452,91766,rosa,91553,91556,Der,"meinem-frischen-Sinn,-------------------Der-Frau-Benita,-der-im-weiten-Thal-------------------So-mancher-Arme-täglich-dankt-sein-Mahl"
+gdc,kq6k.0,91452,91766,rosa,91557,91568,Frau Benita,bianca
+gdc,kq6k.0,91452,91766,rosa,91570,91573,der,"meinem-frischen-Sinn,-------------------Der-Frau-Benita,-der-im-weiten-Thal-------------------So-mancher-Arme-täglich-dankt-sein-Mahl"
+gdc,kq6k.0,91452,91766,rosa,91577,91588,weiten Thal,diesem-Thale
+gdc,kq6k.0,91452,91766,rosa,91593,91605,mancher Arme,mancher-Arme
+gdc,kq6k.0,91452,91766,rosa,91620,91624,sein,mancher-Arme
+gdc,kq6k.0,91452,91766,rosa,91645,91660,diesem Körbchen,diesem-Körbchen
+gdc,kq6k.0,91452,91766,rosa,91672,91688,frommen Eremiten,robert
+gdc,kq6k.0,91452,91766,rosa,91689,91692,ich,rosa
+gdc,kq6k.0,91779,91799,_stage,91779,91787,das Kind,juanito
+gdc,kq6k.0,91772,91831,faust,91805,91816,Frau Benita,bianca
+gdc,kq6k.0,91836,91931,rosa,91856,91870,die ganze Welt,der-Welt
+gdc,kq6k.0,91836,91931,rosa,91886,91889,ich,rosa
+gdc,kq6k.0,91836,91931,rosa,91905,91908,Sie,bianca
+gdc,kq6k.0,91836,91931,rosa,91915,91919,sich,bianca
+gdc,kq6k.0,91937,91962,faust,91952,91961,ihr Gatte,ihr-Gatte
+gdc,kq6k.0,91937,91962,faust,91952,91955,ihr,bianca
+gdc,kq6k.0,91967,92689,rosa,91979,91982,der,ihr-Gatte
+gdc,kq6k.0,91967,92689,rosa,91997,92010,Die edle Frau,bianca
+gdc,kq6k.0,91967,92689,rosa,92059,92062,sie,bianca
+gdc,kq6k.0,91967,92689,rosa,92156,92164,die Gute,bianca
+gdc,kq6k.0,91967,92689,rosa,92174,92177,Sie,bianca
+gdc,kq6k.0,91967,92689,rosa,92195,92198,ihr,faust
+gdc,kq6k.0,91967,92689,rosa,92199,92211,das Häuschen,das-Häuschen
+gdc,kq6k.0,91967,92689,rosa,92250,92253,Das,das-Häuschen
+gdc,kq6k.0,91967,92689,rosa,92258,92261,ihr,bianca
+gdc,kq6k.0,91967,92689,rosa,92286,92289,ich,rosa
+gdc,kq6k.0,91967,92689,rosa,92297,92315,Der fromme Siedler,robert
+gdc,kq6k.0,91967,92689,rosa,92321,92325,mein,rosa
+gdc,kq6k.0,91967,92689,rosa,92367,92371,Herr,faust
+gdc,kq6k.0,91967,92689,rosa,92374,92377,Ihr,faust
+gdc,kq6k.0,91967,92689,rosa,92403,92406,Man,man
+gdc,kq6k.0,91967,92689,rosa,92444,92458,ein jedes Herz,ein-jedes-Herz
+gdc,kq6k.0,91967,92689,rosa,92459,92463,sich,ein-jedes-Herz
+gdc,kq6k.0,91967,92689,rosa,92484,92487,ihr,faust
+gdc,kq6k.0,91967,92689,rosa,92497,92501,Herr,faust
+gdc,kq6k.0,91967,92689,rosa,92524,92527,sie,bianca
+gdc,kq6k.0,91967,92689,rosa,92533,92540,Juanito,juanito
+gdc,kq6k.0,91967,92689,rosa,92553,92556,ich,rosa
+gdc,kq6k.0,91967,92689,rosa,92557,92568,den Kleinen,juanito
+gdc,kq6k.0,91967,92689,rosa,92583,92585,Er,juanito
+gdc,kq6k.0,91967,92689,rosa,92602,92606,sich,juanito
+gdc,kq6k.0,91967,92689,rosa,92610,92614,mich,rosa
+gdc,kq6k.0,91967,92689,rosa,92626,92638,den Eremiten,robert
+gdc,kq6k.0,91967,92689,rosa,92645,92647,er,juanito
+gdc,kq6k.0,91967,92689,rosa,92648,92652,sich,juanito
+gdc,kq6k.0,91967,92689,rosa,92667,92670,wir,rosa-und-juanito
+gdc,kq6k.0,92695,92838,faust,92709,92719,liebe Rosa,rosa
+gdc,kq6k.0,92695,92838,faust,92736,92746,den Knaben,juanito
+gdc,kq6k.0,92695,92838,faust,92771,92775,sich,des-Kindes-Spur
+gdc,kq6k.0,92695,92838,faust,92776,92791,des Kindes Spur,des-Kindes-Spur
+gdc,kq6k.0,92695,92838,faust,92776,92786,des Kindes,juanito
+gdc,kq6k.0,92695,92838,faust,92796,92800,Wald,Wald
+gdc,kq6k.0,92695,92838,faust,92805,92808,Ich,faust
+gdc,kq6k.0,92695,92838,faust,92814,92818,euch,rosa-und-juanito
+gdc,kq6k.0,92695,92838,faust,92827,92833,Kinder,rosa-und-juanito
+gdc,kq6k.0,92844,92895,rosa,92877,92880,ihr,faust
+gdc,kq6k.0,92900,92926,juanito,92918,92920,du,faust
+gdc,kq6k.0,92900,92926,juanito,92921,92925,Mann,faust
+gdc,kq6k.0,92931,92953,faust,92938,92951,Dein Händchen,Dein-Händchen
+gdc,kq6k.0,92931,92953,faust,92938,92942,Dein,juanito
+gdc,kq6k.0,92997,93006,_stage,93001,93005,sich,faust
+gdc,kq6k.0,92990,93118,faust,93030,93033,ich,faust
+gdc,kq6k.0,92990,93118,faust,93055,93066,diesen Wald,Wald
+gdc,kq6k.0,93099,93118,_stage,93103,93114,den Kindern,rosa-und-juanito
+gdc,kq6k.0,93184,93433,_stage,93204,93227,eine ärmliche Eremitage,eine-ärmliche-Eremitage
+gdc,kq6k.0,93184,93433,_stage,93233,93240,welcher,eine-ärmliche-Eremitage
+gdc,kq6k.0,93184,93433,_stage,93259,93286,ein Kreuz von Birkenzweigen,ein-Kreuz-von-Birkenzweigen
+gdc,kq6k.0,93184,93433,_stage,93317,93330,dessen Gipfel,dem-Gipfel
+gdc,kq6k.0,93184,93433,_stage,93331,93361,ein mit Steinen belegter Steig,den-Felssteig
+gdc,kq6k.0,93184,93433,_stage,93393,93402,der Hütte,eine-ärmliche-Eremitage
+gdc,kq6k.0,93449,93551,_stage,93449,93451,er,robert
+gdc,kq6k.0,93449,93551,_stage,93459,93476,eine dunkle Kutte,eine-dunkle-Kutte
+gdc,kq6k.0,93449,93551,_stage,93486,93489,die,eine-dunkle-Kutte
+gdc,kq6k.0,93436,94103,robert,93595,93597,er,robert
+gdc,kq6k.0,93436,94103,robert,93625,93629,sein,robert
+gdc,kq6k.0,93436,94103,robert,93752,93756,Thal,diesem-Thale
+gdc,kq6k.0,93436,94103,robert,93796,93810,jener Wahnsinn,jener-Wahnsinn
+gdc,kq6k.0,93436,94103,robert,93819,93822,Der,jener-Wahnsinn
+gdc,kq6k.0,93436,94103,robert,93862,93866,sich,jener-Wahnsinn
+gdc,kq6k.0,93436,94103,robert,93888,93896,ein Wurm,ein-Wurm
+gdc,kq6k.0,93436,94103,robert,93903,93906,der,ein-Wurm
+gdc,kq6k.0,93436,94103,robert,93940,93944,sich,ein-Wurm
+gdc,kq6k.0,93436,94103,robert,94036,94039,Die,"Tiefeste-Gesunkenheit,-----------------Die-da-lieber-lebt"
+gdc,kq6k.0,93436,94103,robert,94075,94079,sich,"Tiefeste-Gesunkenheit,-----------------Die-da-lieber-lebt"
+gdc,kq6k.0,94156,94289,robert,94202,94208,meinem,robert
+gdc,kq6k.0,94156,94289,robert,94235,94236,s,aus_der_höhe
+gdc,kq6k.0,94295,94425,eine_stimme_aus_der_tiefe,94341,94343,Du,robert
+gdc,kq6k.0,94295,94425,eine_stimme_aus_der_tiefe,94354,94357,dir,robert
+gdc,kq6k.0,94295,94425,eine_stimme_aus_der_tiefe,94376,94384,die Ruhe,die-Ruhe
+gdc,kq6k.0,94295,94425,eine_stimme_aus_der_tiefe,94385,94389,dich,robert
+gdc,kq6k.0,94295,94425,eine_stimme_aus_der_tiefe,94403,94406,Die,die-Ruhe
+gdc,kq6k.0,94295,94425,eine_stimme_aus_der_tiefe,94407,94409,du,robert
+gdc,kq6k.0,94431,94473,aus_der_höhe,94445,94449,Ruhe,die-Ruhe
+gdc,kq6k.0,94478,94519,eine_stimme_aus_der_tiefe,94500,94503,sie,die-Ruhe
+gdc,kq6k.0,94582,94604,_stage,94590,94594,sich,robert
+gdc,kq6k.0,94574,95854,robert,94641,94644,ich,robert
+gdc,kq6k.0,94574,95854,robert,94656,94659,ich,robert
+gdc,kq6k.0,94574,95854,robert,94756,94778,Meines kranken Geistes,Meines-kranken-Geistes
+gdc,kq6k.0,94574,95854,robert,94801,94817,ein schönes Wort,ein-schönes-Wort
+gdc,kq6k.0,94574,95854,robert,94824,94826,es,ein-schönes-Wort
+gdc,kq6k.0,94574,95854,robert,94848,94852,sich,ein-schönes-Wort
+gdc,kq6k.0,94574,95854,robert,94863,94867,mich,robert
+gdc,kq6k.0,94574,95854,robert,95118,95124,Bianca,bianca
+gdc,kq6k.0,94574,95854,robert,95131,95133,du,bianca
+gdc,kq6k.0,94574,95854,robert,95146,95149,mir,robert
+gdc,kq6k.0,94574,95854,robert,95215,95218,ihm,faust
+gdc,kq6k.0,94574,95854,robert,95274,95286,meinen Geist,Meines-kranken-Geistes
+gdc,kq6k.0,94574,95854,robert,95274,95280,meinen,robert
+gdc,kq6k.0,94574,95854,robert,95288,95299,den kranken,Meines-kranken-Geistes
+gdc,kq6k.0,94574,95854,robert,95308,95311,ich,robert
+gdc,kq6k.0,95333,95361,_stage,95339,95343,sich,robert
+gdc,kq6k.0,95333,95361,_stage,95347,95353,Kreuze,ein-Kreuz-von-Birkenzweigen
+gdc,kq6k.0,94574,95854,robert,95370,95373,ihn,faust
+gdc,kq6k.0,94574,95854,robert,95379,95382,ihn,faust
+gdc,kq6k.0,94574,95854,robert,95392,95396,Gott,Gott
+gdc,kq6k.0,94574,95854,robert,95408,95423,mein armes Haus,eine-ärmliche-Eremitage
+gdc,kq6k.0,94574,95854,robert,95408,95412,mein,robert
+gdc,kq6k.0,94574,95854,robert,95445,95454,dies Thal,diesem-Thale
+gdc,kq6k.0,94574,95854,robert,95465,95468,ihn,faust
+gdc,kq6k.0,94574,95854,robert,95469,95475,meiner,robert
+gdc,kq6k.0,94574,95854,robert,95484,95487,Ihn,faust
+gdc,kq6k.0,94574,95854,robert,95489,95513,den Schöpfer meiner Qual,faust
+gdc,kq6k.0,94574,95854,robert,95502,95508,meiner,robert
+gdc,kq6k.0,94574,95854,robert,95516,95541,"Ihn, der mir Bianca stahl",faust
+gdc,kq6k.0,94574,95854,robert,95521,95524,der,faust
+gdc,kq6k.0,94574,95854,robert,95525,95528,mir,robert
+gdc,kq6k.0,94574,95854,robert,95529,95535,Bianca,bianca
+gdc,kq6k.0,94574,95854,robert,95550,95553,ihn,faust
+gdc,kq6k.0,94574,95854,robert,95561,95573,meinem Dache,eine-ärmliche-Eremitage
+gdc,kq6k.0,94574,95854,robert,95561,95567,meinem,robert
+gdc,kq6k.0,94574,95854,robert,95576,95604,"Meinem Dolche, der mir blieb","Meinem-Dolche,-der-mir-blieb"
+gdc,kq6k.0,94574,95854,robert,95576,95582,Meinem,robert
+gdc,kq6k.0,94574,95854,robert,95591,95594,der,"Meinem-Dolche,-der-mir-blieb"
+gdc,kq6k.0,94574,95854,robert,95595,95598,mir,robert
+gdc,kq6k.0,94574,95854,robert,95627,95630,mir,robert
+gdc,kq6k.0,94574,95854,robert,95638,95650,Meinem Dolch,"Meinem-Dolche,-der-mir-blieb"
+gdc,kq6k.0,94574,95854,robert,95638,95644,Meinem,robert
+gdc,kq6k.0,94574,95854,robert,95652,95655,ihn,faust
+gdc,kq6k.0,94574,95854,robert,95666,95670,Herr,Gott
+gdc,kq6k.0,94574,95854,robert,95676,95692,eine Dornenkrone,eine-Dornenkrone
+gdc,kq6k.0,94574,95854,robert,95699,95702,man,man
+gdc,kq6k.0,94574,95854,robert,95710,95713,sie,eine-Dornenkrone
+gdc,kq6k.0,94574,95854,robert,95714,95720,deinem,Gott
+gdc,kq6k.0,94574,95854,robert,95745,95748,ich,robert
+gdc,kq6k.0,94574,95854,robert,95749,95752,mir,robert
+gdc,kq6k.0,94574,95854,robert,95783,95787,dich,Gott
+gdc,kq6k.0,95801,95854,_stage,95808,95810,er,robert
+gdc,kq6k.0,95801,95854,_stage,95821,95825,sich,robert
+gdc,kq6k.0,95801,95854,_stage,95839,95845,Kreuze,ein-Kreuz-von-Birkenzweigen
+gdc,kq6k.0,95899,95983,_stage,95899,95904,Faust,faust
+gdc,kq6k.0,95899,95983,_stage,95909,95916,Juanito,juanito
+gdc,kq6k.0,95899,95983,_stage,95933,95937,Rosa,rosa
+gdc,kq6k.0,95986,96300,rosa,96015,96033,der fromme Siedler,robert
+gdc,kq6k.0,95986,96300,rosa,96035,96045,edler Herr,faust
+gdc,kq6k.0,95986,96300,rosa,96077,96094,Den tollen Robert,robert
+gdc,kq6k.0,95986,96300,rosa,96101,96104,ihn,robert
+gdc,kq6k.0,95986,96300,rosa,96129,96131,er,robert
+gdc,kq6k.0,95986,96300,rosa,96174,96176,er,robert
+gdc,kq6k.0,95986,96300,rosa,96184,96186,Er,robert
+gdc,kq6k.0,95986,96300,rosa,96219,96223,Sein,robert
+gdc,kq6k.0,96306,96397,faust,96314,96316,Du,rosa
+gdc,kq6k.0,96306,96397,faust,96326,96332,Robert,robert
+gdc,kq6k.0,96306,96397,faust,96339,96341,er,robert
+gdc,kq6k.0,96306,96397,faust,96342,96346,sich,robert
+gdc,kq6k.0,96306,96397,faust,96365,96376,Frau Benita,bianca
+gdc,kq6k.0,96306,96397,faust,96382,96385,sie,bianca
+gdc,kq6k.0,96306,96397,faust,96393,96396,ihn,robert
+gdc,kq6k.0,96403,96726,rosa,96415,96419,Herr,faust
+gdc,kq6k.0,96403,96726,rosa,96435,96438,sie,bianca
+gdc,kq6k.0,96403,96726,rosa,96443,96455,dem Körbchen,diesem-Körbchen
+gdc,kq6k.0,96403,96726,rosa,96456,96460,mich,rosa
+gdc,kq6k.0,96403,96726,rosa,96473,96475,er,robert
+gdc,kq6k.0,96403,96726,rosa,96480,96484,sich,robert
+gdc,kq6k.0,96403,96726,rosa,96491,96499,Menschen,Menschen
+gdc,kq6k.0,96403,96726,rosa,96510,96515,ihrem,Menschen
+gdc,kq6k.0,96403,96726,rosa,96544,96555,diesem Wald,Wald
+gdc,kq6k.0,96403,96726,rosa,96565,96568,Ich,rosa
+gdc,kq6k.0,96403,96726,rosa,96577,96579,er,robert
+gdc,kq6k.0,96403,96726,rosa,96614,96618,sich,bianca
+gdc,kq6k.0,96403,96726,rosa,96625,96636,Frau Benita,bianca
+gdc,kq6k.0,96403,96726,rosa,96637,96641,sein,robert
+gdc,kq6k.0,96403,96726,rosa,96644,96647,Ich,rosa
+gdc,kq6k.0,96403,96726,rosa,96656,96660,euch,faust
+gdc,kq6k.0,96403,96726,rosa,96662,96670,der Mann,robert
+gdc,kq6k.0,96403,96726,rosa,96699,96703,sein,robert
+gdc,kq6k.0,96739,96748,_stage,96743,96747,sich,faust
+gdc,kq6k.0,96732,96858,faust,96777,96781,mein,faust
+gdc,kq6k.0,96732,96858,faust,96790,96801,der Gestalt,robert
+gdc,kq6k.0,96732,96858,faust,96824,96828,mich,faust
+gdc,kq6k.0,96732,96858,faust,96837,96857,dem unbekannten Mann,robert
+gdc,kq6k.0,96873,96899,_stage,96873,96877,sich,juanito
+gdc,kq6k.0,96873,96899,_stage,96882,96887,Faust,faust
+gdc,kq6k.0,96864,96922,juanito,96905,96908,mir,juanito
+gdc,kq6k.0,96864,96922,juanito,96909,96921,das Körbchen,diesem-Körbchen
+gdc,kq6k.0,96928,97001,rosa,96948,96950,es,diesem-Körbchen
+gdc,kq6k.0,96928,97001,rosa,96962,96965,ihm,robert
+gdc,kq6k.0,96928,97001,rosa,96966,96975,das Kleid,eine-dunkle-Kutte
+gdc,kq6k.0,96928,97001,rosa,96997,97000,ihn,robert
+gdc,kq6k.0,97016,97061,_stage,97025,97037,dem Körbchen,diesem-Körbchen
+gdc,kq6k.0,97016,97061,_stage,97041,97047,Robert,robert
+gdc,kq6k.0,97016,97061,_stage,97057,97060,ihn,robert
+gdc,kq6k.0,97007,97106,juanito,97063,97066,Das,diesem-Körbchen
+gdc,kq6k.0,97007,97106,juanito,97075,97078,dir,robert
+gdc,kq6k.0,97007,97106,juanito,97079,97091,meine Mutter,bianca
+gdc,kq6k.0,97007,97106,juanito,97079,97084,meine,juanito
+gdc,kq6k.0,97007,97106,juanito,97093,97105,frommer Mann,robert
+gdc,kq6k.0,97119,97306,_stage,97126,97130,sich,robert
+gdc,kq6k.0,97119,97306,_stage,97160,97207,"des Knaben, der erschrocken zu Rosa zurückläuft",juanito
+gdc,kq6k.0,97119,97306,_stage,97172,97175,der,juanito
+gdc,kq6k.0,97119,97306,_stage,97191,97195,Rosa,rosa
+gdc,kq6k.0,97119,97306,_stage,97240,97245,Faust,faust
+gdc,kq6k.0,97119,97306,_stage,97251,97254,der,faust
+gdc,kq6k.0,97119,97306,_stage,97292,97298,Robert,robert
+gdc,kq6k.0,97318,97346,_stage,97318,97322,sich,faust
+gdc,kq6k.0,97311,97390,faust,97348,97359,Graf Robert,robert
+gdc,kq6k.0,97311,97390,faust,97361,97364,ihr,robert
+gdc,kq6k.0,97403,97479,_stage,97411,97415,sich,robert
+gdc,kq6k.0,97403,97479,_stage,97441,97465,hochgeschwungenem Dolche,"Meinem-Dolche,-der-mir-blieb"
+gdc,kq6k.0,97403,97479,_stage,97470,97475,Faust,faust
+gdc,kq6k.0,97395,97526,robert,97481,97484,Ich,robert
+gdc,kq6k.0,97538,97554,_stage,97542,97545,ihm,robert
+gdc,kq6k.0,97531,97635,faust,97557,97569,Ohnmächtiger,robert
+gdc,kq6k.0,97531,97635,faust,97571,97584,Unglücklicher,robert
+gdc,kq6k.0,97531,97635,faust,97597,97603,BIANCA,bianca
+gdc,kq6k.0,97531,97635,faust,97615,97622,Juanito,juanito
+gdc,kq6k.0,97531,97635,faust,97624,97628,Rosa,rosa
+gdc,kq6k.0,97531,97635,faust,97630,97634,Rosa,rosa
+gdc,kq6k.0,97641,97726,robert,97716,97725,die Nacht,Die-Nacht
+gdc,kq6k.0,97772,97808,_stage,97772,97779,Juanito,juanito
+gdc,kq6k.0,97772,97808,_stage,97783,97787,sich,rosa
+gdc,kq6k.0,97766,97869,rosa,97811,97822,Frau Benita,bianca
+gdc,kq6k.0,97766,97869,rosa,97849,97856,Juanito,juanito
+gdc,kq6k.0,97766,97869,rosa,97865,97868,mir,rosa
+gdc,kq6k.0,97916,97960,_stage,97916,97922,Bianca,bianca
+gdc,kq6k.0,97970,98012,_stage,97977,97981,sich,faust
+gdc,kq6k.0,97970,98012,_stage,97999,98002,ihr,bianca
+gdc,kq6k.0,97963,98022,faust,98014,98020,Bianca,bianca
+gdc,kq6k.0,98027,98092,bianca,98049,98054,Faust,faust
+gdc,kq6k.0,98059,98092,_stage,98059,98069,Die Kinder,rosa-und-juanito
+gdc,kq6k.0,98059,98092,_stage,98080,98084,sich,rosa-und-juanito
+gdc,kq6k.0,98059,98092,_stage,98088,98091,sie,bianca
+gdc,kq6k.0,98097,98274,robert,98120,98130,Der Himmel,dem-Himmel
+gdc,kq6k.0,98189,98274,_stage,98189,98191,Er,robert
+gdc,kq6k.0,98189,98274,_stage,98224,98231,Juanito,juanito
+gdc,kq6k.0,98189,98274,_stage,98254,98267,den Felssteig,den-Felssteig
+gdc,kq6k.0,98287,98320,_stage,98295,98300,Faust,faust
+gdc,kq6k.0,98279,98378,bianca,98339,98344,Faust,faust
+gdc,kq6k.0,98279,98378,bianca,98346,98355,mein Kind,juanito
+gdc,kq6k.0,98279,98378,bianca,98346,98350,mein,bianca
+gdc,kq6k.0,98279,98378,bianca,98358,98365,Juanito,juanito
+gdc,kq6k.0,98279,98378,bianca,98367,98377,unser Kind,juanito
+gdc,kq6k.0,98279,98378,bianca,98367,98372,unser,faust-und-bianca
+gdc,kq6k.0,98393,98438,_stage,98397,98407,dem Gipfel,dem-Gipfel
+gdc,kq6k.0,98393,98438,_stage,98409,98419,den Knaben,juanito
+gdc,kq6k.0,98385,98547,robert,98493,98497,euch,faust-und-bianca
+gdc,kq6k.0,98385,98547,robert,98501,98506,euerm,faust-und-bianca
+gdc,kq6k.0,98385,98547,robert,98524,98527,ich,robert
+gdc,kq6k.0,98385,98547,robert,98528,98536,den Wurm,juanito
+gdc,kq6k.0,98560,98575,_stage,98560,98563,ihm,robert
+gdc,kq6k.0,98626,98647,_stage,98638,98646,das Kind,juanito
+gdc,kq6k.0,98712,98747,_stage,98712,98714,Er,robert
+gdc,kq6k.0,98712,98747,_stage,98722,98726,sich,robert
+gdc,kq6k.0,98712,98747,_stage,98731,98740,dem Kinde,juanito
+gdc,kq6k.0,98783,98797,_stage,98792,98796,sich,faust
+gdc,kq6k.0,98844,98875,_stage,98850,98853,ihr,bianca
+gdc,kq6k.0,99135,99227,faust,99151,99155,mich,faust
+gdc,kq6k.0,99135,99227,faust,99179,99182,ich,faust
+gdc,kq6k.0,99233,99601,anselmo,99243,99246,Ich,anselmo
+gdc,kq6k.0,99606,100451,faust,99868,99871,mir,faust
+gdc,kq6k.0,100887,100940,faust,100928,100932,mein,faust
+gdc,kq6k.0,101128,101424,mephistopheles,101173,101176,ich,mephistopheles
+gdc,kq6k.0,101128,101424,mephistopheles,101215,101218,ich,mephistopheles
+gdc,kq6k.0,101614,102444,faust,101719,101723,mein,faust
+gdc,kq6k.0,101614,102444,faust,101783,101786,mir,faust
+gdc,kq6k.0,101614,102444,faust,101822,101825,mir,faust
+gdc,kq6k.0,101614,102444,faust,101826,101830,mein,faust
+gdc,kq6k.0,101614,102444,faust,101850,101853,mir,faust
+gdc,kq6k.0,101614,102444,faust,101899,101903,mich,faust
+gdc,kq6k.0,101614,102444,faust,101931,101935,Mich,faust
+gdc,kq6k.0,101614,102444,faust,101957,101962,meine,faust
+gdc,kq6k.0,101614,102444,faust,102032,102038,meiner,faust
+gdc,kq6k.0,101614,102444,faust,102082,102086,mich,faust
+gdc,kq6k.0,101614,102444,faust,102108,102111,mir,faust
+gdc,kq6k.0,101614,102444,faust,102281,102284,mir,faust
+gdc,kq6k.0,101614,102444,faust,102325,102328,Ich,faust
+gdc,kq6k.0,101614,102444,faust,102407,102410,ich,faust
+gdc,kq6k.0,101614,102444,faust,102426,102429,mir,faust
+gdc,kq6k.0,102450,102871,mephistopheles,102523,102526,ich,mephistopheles
+gdc,kq6k.0,102450,102871,mephistopheles,102619,102625,meinem,mephistopheles
+gdc,kq6k.0,102450,102871,mephistopheles,102676,102679,Ich,mephistopheles
+gdc,kq6k.0,102877,103051,faust,103016,103020,mein,faust
+gdc,kq6k.0,102877,103051,faust,103027,103030,ich,faust
+gdc,kq6k.0,103057,103284,mephistopheles,103196,103199,Ich,mephistopheles
+gdc,kq6k.0,103290,103950,faust,103398,103401,mir,faust
+gdc,kq6k.0,103290,103950,faust,103454,103457,ich,faust
+gdc,kq6k.0,103290,103950,faust,103498,103501,mir,faust
+gdc,kq6k.0,103290,103950,faust,103531,103535,mein,faust
+gdc,kq6k.0,103290,103950,faust,103547,103551,mein,faust
+gdc,kq6k.0,103290,103950,faust,103572,103575,mir,faust
+gdc,kq6k.0,103290,103950,faust,103674,103678,mein,faust
+gdc,kq6k.0,103290,103950,faust,103776,103780,mich,faust
+gdc,kq6k.0,104173,104253,mephistopheles,104214,104217,Ich,mephistopheles
+gdc,kq6k.0,104173,104253,mephistopheles,104248,104252,mein,mephistopheles
+gdc,kq6k.0,104259,104378,faust,104312,104315,ich,faust
+gdc,kq6k.0,104259,104378,faust,104373,104376,mir,faust
+gdc,kq6k.0,104384,104443,mephistopheles,104420,104423,Ich,mephistopheles
+gdc,kq6k.0,104449,104651,faust,104471,104474,mir,faust
+gdc,kq6k.0,105058,105650,faust,105172,105176,mich,faust
+gdc,kq6k.0,105058,105650,faust,105204,105207,ich,faust
+gdc,kq6k.0,105058,105650,faust,105300,105303,ich,faust
+gdc,kq6k.0,105058,105650,faust,105406,105410,mich,faust
+gdc,kq6k.0,105058,105650,faust,105556,105559,ich,faust
+gdc,kq6k.0,105058,105650,faust,105576,105580,mich,faust
+gdc,kq6k.0,105058,105650,faust,105596,105600,mein,faust
+gdc,kq6k.0,105773,106459,anselmo,105945,105948,ich,anselmo
+gdc,kq6k.0,105773,106459,anselmo,105984,105987,ich,anselmo
+gdc,kq6k.0,106465,106628,faust,106524,106528,mich,faust
+gdc,kq6k.0,106465,106628,faust,106591,106594,ich,faust
+gdc,kq6k.0,106465,106628,faust,106600,106606,meiner,faust
+gdc,kq6k.0,106712,106834,faust,106744,106747,ich,faust
+gdc,kq6k.0,107033,107283,faust,107096,107099,mir,faust
+gdc,kq6k.0,107033,107283,faust,107154,107158,Mich,faust
+gdc,kq6k.0,107033,107283,faust,107204,107210,meiner,faust
+gdc,kq6k.0,107930,108342,anselmo,107940,107943,Ich,anselmo
+gdc,kq6k.0,107930,108342,anselmo,108140,108144,mich,anselmo
+gdc,kq6k.0,109362,109977,kaiser,109441,109444,Ich,kaiser
+gdc,kq6k.0,109362,109977,kaiser,109619,109625,meiner,kaiser
+gdc,kq6k.0,109362,109977,kaiser,109641,109644,mir,kaiser
+gdc,kq6k.0,109362,109977,kaiser,109728,109734,meines,kaiser
+gdc,kq6k.0,109362,109977,kaiser,109794,109798,mich,kaiser
+gdc,kq6k.0,109362,109977,kaiser,109923,109926,Ich,kaiser
+gdc,kq6k.0,110017,110279,kaiser,110224,110227,Ich,kaiser
+gdc,kq6k.0,110894,112538,mephistopheles,110959,110962,ich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,110963,110967,mich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111082,111085,mir,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111118,111121,ich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111154,111157,ich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111293,111296,mir,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111299,111302,Ich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111384,111387,ich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,111773,111777,mich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,112356,112362,meinen,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,112400,112403,ich,mephistopheles
+gdc,kq6k.0,110894,112538,mephistopheles,112517,112520,mir,mephistopheles
+gdc,kq6k.0,112944,113033,murrner,112976,112980,mich,murrner
+gdc,kq6k.0,113039,113117,zwitsch,113049,113052,Ich,zwitsch
+gdc,kq6k.0,113386,113511,kern,113435,113438,Ich,kern
+gdc,kq6k.0,113852,113953,kern,113893,113897,mich,kern
+gdc,kq6k.0,113960,114065,faust,114006,114009,mir,faust
+gdc,kq6k.0,113960,114065,faust,114027,114033,meines,faust
+gdc,kq6k.0,114302,114353,faust,114332,114336,mich,faust
+gdc,kq6k.0,115619,116939,faust,115828,115832,mein,faust
+gdc,kq6k.0,115619,116939,faust,116062,116065,Ich,faust
+gdc,kq6k.0,115619,116939,faust,116078,116082,mich,faust
+gdc,kq6k.0,115619,116939,faust,116135,116140,meine,faust
+gdc,kq6k.0,115619,116939,faust,116206,116209,ich,faust
+gdc,kq6k.0,115619,116939,faust,116224,116227,ich,faust
+gdc,kq6k.0,115619,116939,faust,116243,116246,ich,faust
+gdc,kq6k.0,115619,116939,faust,116255,116259,mich,faust
+gdc,kq6k.0,115619,116939,faust,116296,116299,ich,faust
+gdc,kq6k.0,115619,116939,faust,116801,116805,mich,faust
+gdc,kq6k.0,116946,117783,wagner,116988,116991,mir,wagner
+gdc,kq6k.0,116946,117783,wagner,117079,117082,mir,wagner
+gdc,kq6k.0,116946,117783,wagner,117121,117124,Ich,wagner
+gdc,kq6k.0,116946,117783,wagner,117130,117134,mich,wagner
+gdc,kq6k.0,116946,117783,wagner,117259,117262,ich,wagner
+gdc,kq6k.0,116946,117783,wagner,117267,117271,mich,wagner
+gdc,kq6k.0,116946,117783,wagner,117289,117293,mein,wagner
+gdc,kq6k.0,116946,117783,wagner,117321,117324,Ich,wagner
+gdc,kq6k.0,116946,117783,wagner,117453,117456,Ich,wagner
+gdc,kq6k.0,116946,117783,wagner,117517,117523,meines,wagner
+gdc,kq6k.0,116946,117783,wagner,117649,117652,mir,wagner
+gdc,kq6k.0,116946,117783,wagner,117672,117675,mir,wagner
+gdc,kq6k.0,116946,117783,wagner,117707,117711,Mein,wagner
+gdc,kq6k.0,116946,117783,wagner,117731,117734,mir,wagner
+gdc,kq6k.0,117789,117836,faust,117814,117817,ich,faust
+gdc,kq6k.0,117789,117836,faust,117818,117822,mich,faust
+gdc,kq6k.0,117841,118459,wagner,117859,117862,ich,wagner
+gdc,kq6k.0,117841,118459,wagner,118061,118065,mich,wagner
+gdc,kq6k.0,117841,118459,wagner,118322,118325,ich,wagner
+gdc,kq6k.0,118511,118827,wagner,118539,118543,Mein,wagner
+gdc,kq6k.0,118511,118827,wagner,118615,118619,mein,wagner
+gdc,kq6k.0,118511,118827,wagner,118637,118641,mich,wagner
+gdc,kq6k.0,118511,118827,wagner,118668,118671,Ich,wagner
+gdc,kq6k.0,118511,118827,wagner,118706,118710,mein,wagner
+gdc,kq6k.0,118511,118827,wagner,118750,118753,ich,wagner
+gdc,kq6k.0,118511,118827,wagner,118805,118808,ich,wagner
+gdc,kq6k.0,118833,118901,faust,118868,118872,mich,faust
+gdc,kq6k.0,118908,119030,wagner,118929,118932,mir,wagner
+gdc,kq6k.0,119036,120810,faust,119119,119123,mich,faust
+gdc,kq6k.0,119036,120810,faust,119126,119129,Ich,faust
+gdc,kq6k.0,119036,120810,faust,119174,119177,mir,faust
+gdc,kq6k.0,119036,120810,faust,119199,119202,ich,faust
+gdc,kq6k.0,119036,120810,faust,119225,119228,mir,faust
+gdc,kq6k.0,119036,120810,faust,119358,119361,ich,faust
+gdc,kq6k.0,119036,120810,faust,119399,119403,mich,faust
+gdc,kq6k.0,119036,120810,faust,119435,119439,mich,faust
+gdc,kq6k.0,119036,120810,faust,119514,119517,ich,faust
+gdc,kq6k.0,119036,120810,faust,119550,119553,ich,faust
+gdc,kq6k.0,119036,120810,faust,119557,119561,mein,faust
+gdc,kq6k.0,119036,120810,faust,119634,119638,mein,faust
+gdc,kq6k.0,119036,120810,faust,119662,119665,mir,faust
+gdc,kq6k.0,119036,120810,faust,119701,119705,mein,faust
+gdc,kq6k.0,119036,120810,faust,119713,119717,Mein,faust
+gdc,kq6k.0,119036,120810,faust,119765,119768,ich,faust
+gdc,kq6k.0,119036,120810,faust,119872,119876,mein,faust
+gdc,kq6k.0,119036,120810,faust,119893,119897,Mein,faust
+gdc,kq6k.0,119036,120810,faust,119953,119959,meinem,faust
+gdc,kq6k.0,119036,120810,faust,119973,119976,ich,faust
+gdc,kq6k.0,119036,120810,faust,120046,120050,mein,faust
+gdc,kq6k.0,119036,120810,faust,120107,120113,meines,faust
+gdc,kq6k.0,119036,120810,faust,120235,120241,meiner,faust
+gdc,kq6k.0,119036,120810,faust,120251,120255,Mein,faust
+gdc,kq6k.0,119036,120810,faust,120263,120267,mein,faust
+gdc,kq6k.0,119036,120810,faust,120277,120282,meine,faust
+gdc,kq6k.0,119036,120810,faust,120324,120327,ich,faust
+gdc,kq6k.0,119036,120810,faust,120465,120468,mir,faust
+gdc,kq6k.0,119036,120810,faust,120569,120573,mein,faust
+gdc,kq6k.0,119036,120810,faust,120631,120634,mir,faust
+gdc,kq6k.0,119036,120810,faust,120665,120668,ich,faust
+gdc,kq6k.0,119036,120810,faust,120675,120678,Ich,faust
+gdc,kq6k.0,119036,120810,faust,120726,120729,mir,faust
+gdc,kq6k.0,119036,120810,faust,120741,120745,mein,faust
+gdc,kq6k.0,119036,120810,faust,120766,120769,ich,faust
+gdc,kq6k.0,119036,120810,faust,120799,120802,ich,faust
+gdc,kq6k.0,120817,121151,wagner,120915,120918,mir,wagner
+gdc,kq6k.0,120817,121151,wagner,120923,120926,ich,wagner
+gdc,kq6k.0,121157,121969,faust,121191,121194,ich,faust
+gdc,kq6k.0,121157,121969,faust,121210,121214,mich,faust
+gdc,kq6k.0,121157,121969,faust,121263,121266,Ich,faust
+gdc,kq6k.0,121157,121969,faust,121298,121302,Mich,faust
+gdc,kq6k.0,121157,121969,faust,121484,121487,Ich,faust
+gdc,kq6k.0,121157,121969,faust,121605,121608,Ich,faust
+gdc,kq6k.0,121157,121969,faust,121813,121817,mein,faust
+gdc,kq6k.0,121157,121969,faust,121846,121849,ich,faust
+gdc,kq6k.0,121157,121969,faust,121943,121946,mir,faust
+gdc,kq6k.0,121975,122041,wagner,122007,122010,ich,wagner
+gdc,kq6k.0,122047,122317,faust,122144,122147,ich,faust
+gdc,kq6k.0,122047,122317,faust,122193,122197,mich,faust
+gdc,kq6k.0,122047,122317,faust,122212,122216,Mein,faust
+gdc,kq6k.0,122047,122317,faust,122268,122274,meinem,faust
+gdc,kq6k.0,122323,122477,wagner,122366,122371,meine,wagner
+gdc,kq6k.0,122323,122477,wagner,122387,122390,Mir,wagner
+gdc,kq6k.0,122483,122647,faust,122507,122510,ich,faust
+gdc,kq6k.0,122483,122647,faust,122555,122558,mir,faust
+gdc,kq6k.0,122483,122647,faust,122637,122640,ich,faust
+gdc,kq6k.0,122654,122734,wagner,122690,122693,ich,wagner
+gdc,kq6k.0,122936,122983,wagner,122965,122969,mein,wagner

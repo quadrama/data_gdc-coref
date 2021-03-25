@@ -1,0 +1,2775 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,r2r7.0,721,1252,caroline,750,753,ich,caroline
+gdc,r2r7.0,721,1252,caroline,823,827,mein,caroline
+gdc,r2r7.0,721,1252,caroline,939,942,ich,caroline
+gdc,r2r7.0,721,1252,caroline,1205,1208,ich,caroline
+gdc,r2r7.0,1258,1402,herrmann,1355,1358,ich,herrmann
+gdc,r2r7.0,1703,1799,herrmann,1721,1724,mir,herrmann
+gdc,r2r7.0,1703,1799,herrmann,1754,1757,ich,herrmann
+gdc,r2r7.0,1804,2085,caroline,1981,1984,ich,caroline
+gdc,r2r7.0,2090,2206,herrmann,2124,2127,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,2998,3001,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3007,3010,Ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3034,3037,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3096,3099,mir,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3148,3151,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3203,3207,mich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3219,3222,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3270,3273,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3856,3859,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3886,3889,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3896,3900,mein,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3960,3963,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,3995,3998,ich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,4033,4037,mich,herrmann
+gdc,r2r7.0,2959,4095,herrmann,4059,4062,ich,herrmann
+gdc,r2r7.0,4100,5319,caroline,4396,4399,mir,caroline
+gdc,r2r7.0,4100,5319,caroline,4448,4451,ich,caroline
+gdc,r2r7.0,4100,5319,caroline,4477,4480,ich,caroline
+gdc,r2r7.0,4100,5319,caroline,4481,4487,meiner,caroline
+gdc,r2r7.0,4100,5319,caroline,4556,4559,mir,caroline
+gdc,r2r7.0,4100,5319,caroline,4585,4589,mein,caroline
+gdc,r2r7.0,4100,5319,caroline,4607,4610,mir,caroline
+gdc,r2r7.0,4100,5319,caroline,4652,4655,mir,caroline
+gdc,r2r7.0,4100,5319,caroline,4715,4718,ich,caroline
+gdc,r2r7.0,4100,5319,caroline,4863,4866,Ich,caroline
+gdc,r2r7.0,4100,5319,caroline,4899,4903,mich,caroline
+gdc,r2r7.0,4100,5319,caroline,4910,4914,mich,caroline
+gdc,r2r7.0,4100,5319,caroline,4935,4941,meiner,caroline
+gdc,r2r7.0,4100,5319,caroline,4992,4998,meiner,caroline
+gdc,r2r7.0,5324,6156,herrmann,5342,5345,ich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5431,5434,ich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5442,5446,mich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5448,5451,ich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5458,5462,mich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5468,5472,mich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5485,5488,ich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5551,5554,Ich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5710,5715,Meine,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5736,5740,mein,herrmann
+gdc,r2r7.0,5324,6156,herrmann,5771,5776,meine,herrmann
+gdc,r2r7.0,5324,6156,herrmann,6007,6012,Meine,herrmann
+gdc,r2r7.0,5324,6156,herrmann,6034,6038,mich,herrmann
+gdc,r2r7.0,5324,6156,herrmann,6074,6077,ich,herrmann
+gdc,r2r7.0,6161,7746,caroline,6812,6815,mir,caroline
+gdc,r2r7.0,7751,8261,herrmann,7762,7765,Ich,herrmann
+gdc,r2r7.0,7751,8261,herrmann,7862,7868,meiner,herrmann
+gdc,r2r7.0,7751,8261,herrmann,7960,7963,ich,herrmann
+gdc,r2r7.0,7751,8261,herrmann,7996,7999,ich,herrmann
+gdc,r2r7.0,7751,8261,herrmann,8066,8069,ich,herrmann
+gdc,r2r7.0,7751,8261,herrmann,8120,8124,Mein,herrmann
+gdc,r2r7.0,7751,8261,herrmann,8210,8214,mich,herrmann
+gdc,r2r7.0,8267,9081,caroline,8634,8637,ich,caroline
+gdc,r2r7.0,8267,9081,caroline,8779,8783,mich,caroline
+gdc,r2r7.0,8267,9081,caroline,8901,8904,Ich,caroline
+gdc,r2r7.0,8267,9081,caroline,8910,8914,mich,caroline
+gdc,r2r7.0,8267,9081,caroline,8931,8934,ich,caroline
+gdc,r2r7.0,8267,9081,caroline,8996,9000,mich,caroline
+gdc,r2r7.0,8267,9081,caroline,9072,9075,ich,caroline
+gdc,r2r7.0,9086,9768,herrmann,9108,9112,mich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9227,9231,mich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9253,9256,ich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9280,9284,mein,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9294,9299,meine,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9336,9340,mich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9418,9424,meinen,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9574,9577,ich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9610,9613,ich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9661,9664,ich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9670,9673,mir,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9708,9711,ich,herrmann
+gdc,r2r7.0,9086,9768,herrmann,9741,9747,meines,herrmann
+gdc,r2r7.0,9774,10479,caroline,9836,9840,mein,caroline
+gdc,r2r7.0,9774,10479,caroline,9882,9886,mein,caroline
+gdc,r2r7.0,9774,10479,caroline,9962,9966,mich,caroline
+gdc,r2r7.0,9774,10479,caroline,10097,10103,meinem,caroline
+gdc,r2r7.0,9774,10479,caroline,10215,10218,Ich,caroline
+gdc,r2r7.0,9774,10479,caroline,10436,10442,meiner,caroline
+gdc,r2r7.0,10484,11380,herrmann,10527,10531,mich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10556,10562,meinem,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10621,10624,mir,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10652,10655,ich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10717,10721,mich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10760,10763,ich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10785,10788,Ich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10793,10797,mich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10846,10850,mich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,10972,10975,mir,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11071,11074,Ich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11083,11089,meiner,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11118,11122,mich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11149,11152,mir,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11185,11188,ich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11208,11211,ich,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11225,11228,mir,herrmann
+gdc,r2r7.0,10484,11380,herrmann,11328,11334,meines,herrmann
+gdc,r2r7.0,11431,12778,caroline,11853,11857,mein,caroline
+gdc,r2r7.0,11431,12778,caroline,11911,11914,ich,caroline
+gdc,r2r7.0,11431,12778,caroline,11919,11922,mir,caroline
+gdc,r2r7.0,11431,12778,caroline,12021,12024,ich,caroline
+gdc,r2r7.0,11431,12778,caroline,12049,12055,meines,caroline
+gdc,r2r7.0,11431,12778,caroline,12071,12074,ich,caroline
+gdc,r2r7.0,11431,12778,caroline,12090,12096,meiner,caroline
+gdc,r2r7.0,11431,12778,caroline,12134,12137,mir,caroline
+gdc,r2r7.0,11431,12778,caroline,12170,12173,ich,caroline
+gdc,r2r7.0,11431,12778,caroline,12202,12207,meine,caroline
+gdc,r2r7.0,11431,12778,caroline,12235,12238,ich,caroline
+gdc,r2r7.0,11431,12778,caroline,12318,12324,meines,caroline
+gdc,r2r7.0,11431,12778,caroline,12440,12446,meiner,caroline
+gdc,r2r7.0,11431,12778,caroline,12493,12499,meiner,caroline
+gdc,r2r7.0,11431,12778,caroline,12546,12549,ich,caroline
+gdc,r2r7.0,11431,12778,caroline,12601,12606,meine,caroline
+gdc,r2r7.0,11431,12778,caroline,12702,12707,meine,caroline
+gdc,r2r7.0,11431,12778,caroline,12746,12749,ich,caroline
+gdc,r2r7.0,12849,12999,arnold,12884,12887,mir,arnold
+gdc,r2r7.0,12849,12999,arnold,12907,12910,ich,arnold
+gdc,r2r7.0,12849,12999,arnold,12951,12956,meine,arnold
+gdc,r2r7.0,13004,13113,caroline,13031,13035,mich,caroline
+gdc,r2r7.0,13004,13113,caroline,13074,13079,meine,caroline
+gdc,r2r7.0,13119,13284,arnold,13137,13141,mich,arnold
+gdc,r2r7.0,13119,13284,arnold,13178,13181,ich,arnold
+gdc,r2r7.0,13289,13400,caroline,13349,13355,meiner,caroline
+gdc,r2r7.0,13405,13726,arnold,13435,13439,mich,arnold
+gdc,r2r7.0,13405,13726,arnold,13440,13444,mein,arnold
+gdc,r2r7.0,13731,13960,caroline,13747,13752,meine,caroline
+gdc,r2r7.0,13731,13960,caroline,13791,13794,ich,caroline
+gdc,r2r7.0,13965,14104,arnold,14005,14008,ich,arnold
+gdc,r2r7.0,13965,14104,arnold,14020,14025,meine,arnold
+gdc,r2r7.0,13965,14104,arnold,14045,14048,ich,arnold
+gdc,r2r7.0,13965,14104,arnold,14082,14085,ich,arnold
+gdc,r2r7.0,14189,14484,arnold,14220,14223,ich,arnold
+gdc,r2r7.0,14189,14484,arnold,14368,14372,mein,arnold
+gdc,r2r7.0,14189,14484,arnold,14393,14397,mein,arnold
+gdc,r2r7.0,14489,14624,caroline,14546,14549,ich,caroline
+gdc,r2r7.0,14489,14624,caroline,14550,14554,mich,caroline
+gdc,r2r7.0,14629,15082,arnold,14742,14745,ich,arnold
+gdc,r2r7.0,14629,15082,arnold,14850,14853,mir,arnold
+gdc,r2r7.0,14629,15082,arnold,14871,14877,meinem,arnold
+gdc,r2r7.0,15087,15181,caroline,15140,15143,mir,caroline
+gdc,r2r7.0,15087,15181,caroline,15147,15153,meinen,caroline
+gdc,r2r7.0,15186,15536,arnold,15272,15275,ich,arnold
+gdc,r2r7.0,15186,15536,arnold,15291,15295,mein,arnold
+gdc,r2r7.0,15186,15536,arnold,15331,15337,meinen,arnold
+gdc,r2r7.0,15186,15536,arnold,15372,15376,mich,arnold
+gdc,r2r7.0,15186,15536,arnold,15398,15401,ich,arnold
+gdc,r2r7.0,15186,15536,arnold,15441,15444,ich,arnold
+gdc,r2r7.0,15186,15536,arnold,15467,15470,ich,arnold
+gdc,r2r7.0,15186,15536,arnold,15505,15508,mir,arnold
+gdc,r2r7.0,15541,15655,caroline,15552,15555,Ich,caroline
+gdc,r2r7.0,15541,15655,caroline,15589,15593,mich,caroline
+gdc,r2r7.0,15541,15655,caroline,15619,15623,mich,caroline
+gdc,r2r7.0,15541,15655,caroline,15640,15644,mich,caroline
+gdc,r2r7.0,15660,16097,arnold,15746,15749,ich,arnold
+gdc,r2r7.0,15660,16097,arnold,15813,15816,ich,arnold
+gdc,r2r7.0,15660,16097,arnold,15856,15862,meiner,arnold
+gdc,r2r7.0,15660,16097,arnold,15934,15938,mich,arnold
+gdc,r2r7.0,15660,16097,arnold,15973,15977,mich,arnold
+gdc,r2r7.0,15660,16097,arnold,16082,16086,mich,arnold
+gdc,r2r7.0,16102,16222,caroline,16119,16122,ich,caroline
+gdc,r2r7.0,16102,16222,caroline,16128,16132,mich,caroline
+gdc,r2r7.0,16102,16222,caroline,16170,16173,ich,caroline
+gdc,r2r7.0,16227,16991,arnold,16236,16239,Ich,arnold
+gdc,r2r7.0,16227,16991,arnold,16346,16349,ich,arnold
+gdc,r2r7.0,16227,16991,arnold,16448,16451,ich,arnold
+gdc,r2r7.0,16227,16991,arnold,16560,16563,Ich,arnold
+gdc,r2r7.0,16227,16991,arnold,16777,16781,mein,arnold
+gdc,r2r7.0,16227,16991,arnold,16930,16933,ich,arnold
+gdc,r2r7.0,16227,16991,arnold,16944,16950,meinen,arnold
+gdc,r2r7.0,16996,17277,caroline,17044,17049,meine,caroline
+gdc,r2r7.0,16996,17277,caroline,17172,17175,ich,caroline
+gdc,r2r7.0,16996,17277,caroline,17237,17241,mein,caroline
+gdc,r2r7.0,17358,17925,herrmann,17379,17383,mich,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17474,17477,mir,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17478,17484,meinen,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17532,17535,ich,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17671,17677,meinem,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17709,17713,mich,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17738,17741,mir,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17833,17836,mir,herrmann
+gdc,r2r7.0,17358,17925,herrmann,17855,17861,meiner,herrmann
+gdc,r2r7.0,17930,18934,caroline,17960,17965,meine,caroline
+gdc,r2r7.0,17930,18934,caroline,18060,18066,meinem,caroline
+gdc,r2r7.0,17930,18934,caroline,18209,18213,mich,caroline
+gdc,r2r7.0,17930,18934,caroline,18225,18229,mein,caroline
+gdc,r2r7.0,17930,18934,caroline,18291,18297,meiner,caroline
+gdc,r2r7.0,17930,18934,caroline,18425,18431,meiner,caroline
+gdc,r2r7.0,17930,18934,caroline,18486,18489,ich,caroline
+gdc,r2r7.0,17930,18934,caroline,18633,18636,ich,caroline
+gdc,r2r7.0,17930,18934,caroline,18674,18677,ich,caroline
+gdc,r2r7.0,17930,18934,caroline,18707,18711,mich,caroline
+gdc,r2r7.0,17930,18934,caroline,18819,18823,mich,caroline
+gdc,r2r7.0,17930,18934,caroline,18857,18861,mich,caroline
+gdc,r2r7.0,19006,19446,herrmann,19017,19022,Meine,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19035,19039,mein,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19070,19073,ich,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19074,19078,mich,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19129,19133,mich,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19170,19175,meine,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19192,19195,Ich,herrmann
+gdc,r2r7.0,19006,19446,herrmann,19376,19379,ich,herrmann
+gdc,r2r7.0,19451,19745,arnold,19649,19655,meines,arnold
+gdc,r2r7.0,19750,20523,herrmann,19843,19846,ich,herrmann
+gdc,r2r7.0,19750,20523,herrmann,19889,19893,mich,herrmann
+gdc,r2r7.0,19750,20523,herrmann,19994,19997,ich,herrmann
+gdc,r2r7.0,19750,20523,herrmann,20051,20054,mir,herrmann
+gdc,r2r7.0,19750,20523,herrmann,20087,20090,ich,herrmann
+gdc,r2r7.0,19750,20523,herrmann,20106,20109,ich,herrmann
+gdc,r2r7.0,20528,21241,arnold,20655,20658,Ich,arnold
+gdc,r2r7.0,20528,21241,arnold,20738,20742,mein,arnold
+gdc,r2r7.0,20528,21241,arnold,20783,20788,meine,arnold
+gdc,r2r7.0,20528,21241,arnold,20813,20816,Ich,arnold
+gdc,r2r7.0,20528,21241,arnold,20834,20837,ich,arnold
+gdc,r2r7.0,20528,21241,arnold,20945,20948,ich,arnold
+gdc,r2r7.0,20528,21241,arnold,20949,20952,mir,arnold
+gdc,r2r7.0,20528,21241,arnold,21069,21072,ich,arnold
+gdc,r2r7.0,20528,21241,arnold,21094,21097,ich,arnold
+gdc,r2r7.0,20528,21241,arnold,21161,21164,ich,arnold
+gdc,r2r7.0,20528,21241,arnold,21165,21168,mir,arnold
+gdc,r2r7.0,20528,21241,arnold,21208,21211,ich,arnold
+gdc,r2r7.0,21246,22730,herrmann,21352,21355,Ich,herrmann
+gdc,r2r7.0,21246,22730,herrmann,21524,21527,mir,herrmann
+gdc,r2r7.0,21246,22730,herrmann,21941,21947,meinen,herrmann
+gdc,r2r7.0,21246,22730,herrmann,22570,22573,ich,herrmann
+gdc,r2r7.0,22782,24849,arnold,23279,23285,meines,arnold
+gdc,r2r7.0,22782,24849,arnold,23394,23398,Mein,arnold
+gdc,r2r7.0,22782,24849,arnold,23417,23420,mir,arnold
+gdc,r2r7.0,22782,24849,arnold,23421,23426,meine,arnold
+gdc,r2r7.0,22782,24849,arnold,23661,23664,Ich,arnold
+gdc,r2r7.0,22782,24849,arnold,23672,23675,mir,arnold
+gdc,r2r7.0,22782,24849,arnold,23730,23733,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,23769,23774,meine,arnold
+gdc,r2r7.0,22782,24849,arnold,23795,23798,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,23799,23805,meinen,arnold
+gdc,r2r7.0,22782,24849,arnold,23818,23824,meiner,arnold
+gdc,r2r7.0,22782,24849,arnold,23857,23860,mir,arnold
+gdc,r2r7.0,22782,24849,arnold,23925,23929,mich,arnold
+gdc,r2r7.0,22782,24849,arnold,23944,23950,meiner,arnold
+gdc,r2r7.0,22782,24849,arnold,23982,23988,meinem,arnold
+gdc,r2r7.0,22782,24849,arnold,24031,24034,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,24070,24073,mir,arnold
+gdc,r2r7.0,22782,24849,arnold,24111,24114,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,24151,24156,meine,arnold
+gdc,r2r7.0,22782,24849,arnold,24178,24181,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,24272,24278,meinen,arnold
+gdc,r2r7.0,22782,24849,arnold,24300,24305,meine,arnold
+gdc,r2r7.0,22782,24849,arnold,24437,24443,meinen,arnold
+gdc,r2r7.0,22782,24849,arnold,24507,24510,Ich,arnold
+gdc,r2r7.0,22782,24849,arnold,24612,24615,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,24616,24620,mich,arnold
+gdc,r2r7.0,22782,24849,arnold,24648,24651,ich,arnold
+gdc,r2r7.0,22782,24849,arnold,24820,24823,mir,arnold
+gdc,r2r7.0,24932,25126,der_graf,24966,24969,Ich,der_graf
+gdc,r2r7.0,24932,25126,der_graf,25004,25010,meinen,der_graf
+gdc,r2r7.0,24932,25126,der_graf,25024,25028,mein,der_graf
+gdc,r2r7.0,24932,25126,der_graf,25054,25057,ich,der_graf
+gdc,r2r7.0,25131,25274,valentin,25158,25161,ich,valentin
+gdc,r2r7.0,25131,25274,valentin,25213,25216,mir,valentin
+gdc,r2r7.0,25131,25274,valentin,25222,25225,ich,valentin
+gdc,r2r7.0,25279,25576,der_graf,25303,25307,mein,der_graf
+gdc,r2r7.0,25279,25576,der_graf,25395,25400,meine,der_graf
+gdc,r2r7.0,25279,25576,der_graf,25438,25441,ich,der_graf
+gdc,r2r7.0,25279,25576,der_graf,25540,25545,meine,der_graf
+gdc,r2r7.0,25581,25735,arnold,25662,25665,ich,arnold
+gdc,r2r7.0,25819,25901,arnold,25828,25831,Ich,arnold
+gdc,r2r7.0,26087,26301,der_graf,26112,26117,meine,der_graf
+gdc,r2r7.0,26087,26301,der_graf,26149,26152,ich,der_graf
+gdc,r2r7.0,26087,26301,der_graf,26185,26188,ich,der_graf
+gdc,r2r7.0,26087,26301,der_graf,26215,26219,mein,der_graf
+gdc,r2r7.0,26851,27049,der_graf,26869,26872,mir,der_graf
+gdc,r2r7.0,26851,27049,der_graf,26883,26886,ich,der_graf
+gdc,r2r7.0,26851,27049,der_graf,26940,26943,ich,der_graf
+gdc,r2r7.0,27054,27538,arnold,27425,27428,mir,arnold
+gdc,r2r7.0,27054,27538,arnold,27503,27506,ich,arnold
+gdc,r2r7.0,27543,27894,der_graf,27576,27579,ich,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27606,27610,mich,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27634,27637,ich,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27678,27681,ich,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27688,27692,mich,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27776,27779,ich,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27819,27822,mir,der_graf
+gdc,r2r7.0,27543,27894,der_graf,27830,27836,meinem,der_graf
+gdc,r2r7.0,27899,28930,arnold,27943,27949,meinen,arnold
+gdc,r2r7.0,27899,28930,arnold,27967,27970,Ich,arnold
+gdc,r2r7.0,27899,28930,arnold,27993,27996,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28047,28051,mich,arnold
+gdc,r2r7.0,27899,28930,arnold,28118,28121,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28262,28265,Ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28328,28331,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28338,28341,mir,arnold
+gdc,r2r7.0,27899,28930,arnold,28421,28424,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28454,28458,mich,arnold
+gdc,r2r7.0,27899,28930,arnold,28538,28541,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28560,28563,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28592,28595,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28674,28677,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28747,28750,ich,arnold
+gdc,r2r7.0,27899,28930,arnold,28757,28760,mir,arnold
+gdc,r2r7.0,27899,28930,arnold,28868,28872,mich,arnold
+gdc,r2r7.0,28935,29166,der_graf,29039,29043,mich,der_graf
+gdc,r2r7.0,28935,29166,der_graf,29050,29053,ich,der_graf
+gdc,r2r7.0,29171,29242,arnold,29180,29183,Ich,arnold
+gdc,r2r7.0,29171,29242,arnold,29219,29225,meinem,arnold
+gdc,r2r7.0,29247,29798,der_graf,29273,29276,ich,der_graf
+gdc,r2r7.0,29247,29798,der_graf,29291,29297,meiner,der_graf
+gdc,r2r7.0,29247,29798,der_graf,29329,29332,ich,der_graf
+gdc,r2r7.0,29247,29798,der_graf,29371,29374,ich,der_graf
+gdc,r2r7.0,29247,29798,der_graf,29431,29434,Ich,der_graf
+gdc,r2r7.0,29247,29798,der_graf,29471,29476,meine,der_graf
+gdc,r2r7.0,29803,30167,arnold,29935,29938,ich,arnold
+gdc,r2r7.0,29803,30167,arnold,30004,30008,mich,arnold
+gdc,r2r7.0,29803,30167,arnold,30097,30100,Ich,arnold
+gdc,r2r7.0,29803,30167,arnold,30146,30152,meinem,arnold
+gdc,r2r7.0,30172,30316,der_graf,30227,30233,meiner,der_graf
+gdc,r2r7.0,30407,30652,die_gräfinn,30441,30444,mir,die_gräfinn
+gdc,r2r7.0,30407,30652,die_gräfinn,30458,30462,mein,die_gräfinn
+gdc,r2r7.0,30407,30652,die_gräfinn,30578,30582,mich,die_gräfinn
+gdc,r2r7.0,30407,30652,die_gräfinn,30606,30609,mir,die_gräfinn
+gdc,r2r7.0,30657,31002,caroline,30693,30696,mir,caroline
+gdc,r2r7.0,30657,31002,caroline,30698,30701,ich,caroline
+gdc,r2r7.0,30657,31002,caroline,30727,30730,ich,caroline
+gdc,r2r7.0,30657,31002,caroline,30768,30771,ich,caroline
+gdc,r2r7.0,30657,31002,caroline,30878,30881,ich,caroline
+gdc,r2r7.0,30657,31002,caroline,30887,30891,mich,caroline
+gdc,r2r7.0,30657,31002,caroline,30928,30933,meine,caroline
+gdc,r2r7.0,30657,31002,caroline,30967,30970,ich,caroline
+gdc,r2r7.0,31007,31753,die_gräfinn,31059,31063,mich,die_gräfinn
+gdc,r2r7.0,31007,31753,die_gräfinn,31097,31100,ich,die_gräfinn
+gdc,r2r7.0,31007,31753,die_gräfinn,31101,31104,mir,die_gräfinn
+gdc,r2r7.0,31007,31753,die_gräfinn,31360,31363,ich,die_gräfinn
+gdc,r2r7.0,31007,31753,die_gräfinn,31525,31528,mir,die_gräfinn
+gdc,r2r7.0,31913,32004,die_gräfinn,31953,31956,ich,die_gräfinn
+gdc,r2r7.0,32325,32447,die_gräfinn,32339,32342,Ich,die_gräfinn
+gdc,r2r7.0,32325,32447,die_gräfinn,32363,32368,meine,die_gräfinn
+gdc,r2r7.0,32325,32447,die_gräfinn,32413,32417,mich,die_gräfinn
+gdc,r2r7.0,32452,32663,caroline,32556,32559,ich,caroline
+gdc,r2r7.0,32668,34212,die_gräfinn,32693,32696,ich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,32697,32701,mich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,32881,32884,mir,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33153,33156,ich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33162,33166,mich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33319,33322,ich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33359,33365,meinen,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33526,33530,mich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33629,33632,mir,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33711,33714,mir,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33746,33749,ich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33759,33765,meinen,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33794,33797,Ich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33854,33857,Ich,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,33959,33963,mein,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,34031,34034,mir,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,34070,34073,mir,die_gräfinn
+gdc,r2r7.0,32668,34212,die_gräfinn,34191,34197,meinen,die_gräfinn
+gdc,r2r7.0,34449,34717,die_gräfinn,34463,34466,Ich,die_gräfinn
+gdc,r2r7.0,34449,34717,die_gräfinn,34589,34592,ich,die_gräfinn
+gdc,r2r7.0,34449,34717,die_gräfinn,34624,34629,meine,die_gräfinn
+gdc,r2r7.0,34804,34975,die_gräfinn,34844,34847,mir,die_gräfinn
+gdc,r2r7.0,34804,34975,die_gräfinn,34946,34952,meinen,die_gräfinn
+gdc,r2r7.0,34980,35794,valentin,35181,35184,ich,valentin
+gdc,r2r7.0,34980,35794,valentin,35392,35396,mich,valentin
+gdc,r2r7.0,34980,35794,valentin,35605,35608,mir,valentin
+gdc,r2r7.0,34980,35794,valentin,35685,35688,ich,valentin
+gdc,r2r7.0,35799,35881,die_gräfinn,35838,35842,mein,die_gräfinn
+gdc,r2r7.0,35799,35881,die_gräfinn,35852,35855,ich,die_gräfinn
+gdc,r2r7.0,35958,36152,caroline,35976,35979,ich,caroline
+gdc,r2r7.0,36157,36467,die_gräfinn,36183,36187,mein,die_gräfinn
+gdc,r2r7.0,36157,36467,die_gräfinn,36210,36213,ich,die_gräfinn
+gdc,r2r7.0,36157,36467,die_gräfinn,36282,36288,meiner,die_gräfinn
+gdc,r2r7.0,36157,36467,die_gräfinn,36400,36403,Ich,die_gräfinn
+gdc,r2r7.0,36157,36467,die_gräfinn,36408,36414,meines,die_gräfinn
+gdc,r2r7.0,36157,36467,die_gräfinn,36443,36446,ich,die_gräfinn
+gdc,r2r7.0,36540,36995,caroline,36880,36884,mich,caroline
+gdc,r2r7.0,36540,36995,caroline,36886,36889,Ich,caroline
+gdc,r2r7.0,37047,37874,herrmann,37138,37142,mich,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37174,37177,ich,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37204,37207,ich,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37225,37229,mein,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37295,37298,ich,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37682,37686,mein,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37740,37743,mir,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37796,37799,mir,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37801,37804,Ich,herrmann
+gdc,r2r7.0,37047,37874,herrmann,37829,37833,mich,herrmann
+gdc,r2r7.0,37950,38005,chrysander,37986,37990,mein,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38122,38125,mir,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38154,38157,Ich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38250,38253,ich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38331,38334,ich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38344,38350,meinen,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38445,38450,meine,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38597,38601,mich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38624,38627,ich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38720,38723,ich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38795,38798,ich,chrysander
+gdc,r2r7.0,38056,38858,chrysander,38832,38835,mir,chrysander
+gdc,r2r7.0,38863,39003,herrmann,38878,38881,ich,herrmann
+gdc,r2r7.0,38863,39003,herrmann,38917,38923,meinem,herrmann
+gdc,r2r7.0,39008,39223,chrysander,39034,39037,ich,chrysander
+gdc,r2r7.0,39008,39223,chrysander,39098,39101,mir,chrysander
+gdc,r2r7.0,39228,39297,herrmann,39245,39248,ich,herrmann
+gdc,r2r7.0,39228,39297,herrmann,39288,39291,ich,herrmann
+gdc,r2r7.0,39302,39638,chrysander,39328,39332,mich,chrysander
+gdc,r2r7.0,39302,39638,chrysander,39339,39342,ich,chrysander
+gdc,r2r7.0,39302,39638,chrysander,39383,39388,meine,chrysander
+gdc,r2r7.0,39302,39638,chrysander,39513,39516,ich,chrysander
+gdc,r2r7.0,39302,39638,chrysander,39533,39536,ich,chrysander
+gdc,r2r7.0,39302,39638,chrysander,39576,39579,ich,chrysander
+gdc,r2r7.0,39302,39638,chrysander,39614,39617,mir,chrysander
+gdc,r2r7.0,39643,39783,herrmann,39709,39714,meine,herrmann
+gdc,r2r7.0,39788,40193,chrysander,39850,39853,ich,chrysander
+gdc,r2r7.0,39788,40193,chrysander,39893,39896,mir,chrysander
+gdc,r2r7.0,39788,40193,chrysander,39950,39953,mir,chrysander
+gdc,r2r7.0,39788,40193,chrysander,39979,39982,ich,chrysander
+gdc,r2r7.0,39788,40193,chrysander,40028,40031,mir,chrysander
+gdc,r2r7.0,39788,40193,chrysander,40046,40049,ich,chrysander
+gdc,r2r7.0,39788,40193,chrysander,40077,40080,ich,chrysander
+gdc,r2r7.0,39788,40193,chrysander,40081,40085,mich,chrysander
+gdc,r2r7.0,39788,40193,chrysander,40150,40153,ich,chrysander
+gdc,r2r7.0,39788,40193,chrysander,40154,40157,mir,chrysander
+gdc,r2r7.0,40198,40498,herrmann,40223,40226,ich,herrmann
+gdc,r2r7.0,40503,40923,chrysander,40555,40558,ich,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40590,40593,ich,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40637,40640,ich,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40647,40650,mir,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40750,40756,meinem,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40768,40771,ich,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40860,40863,ich,chrysander
+gdc,r2r7.0,40503,40923,chrysander,40905,40908,ich,chrysander
+gdc,r2r7.0,41066,41461,chrysander,41111,41114,ich,chrysander
+gdc,r2r7.0,41066,41461,chrysander,41115,41119,mich,chrysander
+gdc,r2r7.0,41066,41461,chrysander,41225,41228,ich,chrysander
+gdc,r2r7.0,41066,41461,chrysander,41372,41375,ich,chrysander
+gdc,r2r7.0,41066,41461,chrysander,41410,41413,ich,chrysander
+gdc,r2r7.0,41466,41550,herrmann,41482,41486,mein,herrmann
+gdc,r2r7.0,41555,41653,chrysander,41618,41621,mir,chrysander
+gdc,r2r7.0,41739,42035,chrysander,41777,41780,ich,chrysander
+gdc,r2r7.0,41739,42035,chrysander,41820,41824,mich,chrysander
+gdc,r2r7.0,41739,42035,chrysander,41848,41851,ich,chrysander
+gdc,r2r7.0,41739,42035,chrysander,41884,41887,ich,chrysander
+gdc,r2r7.0,41739,42035,chrysander,41888,41892,mich,chrysander
+gdc,r2r7.0,41739,42035,chrysander,41917,41920,ich,chrysander
+gdc,r2r7.0,42040,42324,herrmann,42087,42091,mein,herrmann
+gdc,r2r7.0,42329,42455,chrysander,42360,42363,mir,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42582,42585,Ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42628,42631,ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42657,42660,ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42799,42804,meine,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42828,42831,ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42832,42838,meiner,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42854,42860,meiner,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42900,42904,mich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42920,42923,ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42964,42968,mich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,42987,42990,ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,43023,43027,mich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,43044,43048,mich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,43179,43182,ich,chrysander
+gdc,r2r7.0,42569,43256,chrysander,43183,43187,mich,chrysander
+gdc,r2r7.0,43261,43437,herrmann,43276,43280,mein,herrmann
+gdc,r2r7.0,43442,43793,chrysander,43455,43460,Meine,chrysander
+gdc,r2r7.0,43442,43793,chrysander,43595,43599,mich,chrysander
+gdc,r2r7.0,43442,43793,chrysander,43619,43625,meinen,chrysander
+gdc,r2r7.0,43442,43793,chrysander,43715,43718,ich,chrysander
+gdc,r2r7.0,43442,43793,chrysander,43731,43734,ich,chrysander
+gdc,r2r7.0,44282,44595,chrysander,44299,44302,ich,chrysander
+gdc,r2r7.0,44282,44595,chrysander,44325,44328,mir,chrysander
+gdc,r2r7.0,44282,44595,chrysander,44338,44344,meinen,chrysander
+gdc,r2r7.0,44282,44595,chrysander,44516,44519,ich,chrysander
+gdc,r2r7.0,44600,44736,herrmann,44625,44628,ich,herrmann
+gdc,r2r7.0,44741,44900,chrysander,44807,44810,mir,chrysander
+gdc,r2r7.0,44741,44900,chrysander,44866,44869,ich,chrysander
+gdc,r2r7.0,44741,44900,chrysander,44870,44873,mir,chrysander
+gdc,r2r7.0,44905,45585,herrmann,44916,44920,Mein,herrmann
+gdc,r2r7.0,44905,45585,herrmann,44950,44953,ich,herrmann
+gdc,r2r7.0,44905,45585,herrmann,45125,45128,ich,herrmann
+gdc,r2r7.0,45590,46317,chrysander,45603,45606,Ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,45622,45625,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,45702,45705,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,45756,45759,mir,chrysander
+gdc,r2r7.0,45590,46317,chrysander,45824,45827,mir,chrysander
+gdc,r2r7.0,45590,46317,chrysander,45836,45842,meiner,chrysander
+gdc,r2r7.0,45590,46317,chrysander,45935,45938,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46009,46013,mich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46048,46052,mich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46109,46112,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46124,46127,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46149,46152,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46199,46202,ich,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46236,46241,meine,chrysander
+gdc,r2r7.0,45590,46317,chrysander,46262,46265,ich,chrysander
+gdc,r2r7.0,46322,47367,herrmann,46333,46336,Ich,herrmann
+gdc,r2r7.0,46322,47367,herrmann,46561,46564,Ich,herrmann
+gdc,r2r7.0,47372,48971,chrysander,47401,47405,mein,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47437,47440,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47467,47472,Meine,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47553,47556,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47787,47791,mein,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47823,47826,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47884,47888,mich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,47890,47893,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48032,48035,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48062,48065,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48154,48157,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48158,48161,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48365,48368,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48404,48407,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48419,48425,meinen,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48527,48533,meinem,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48548,48551,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48589,48592,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48675,48678,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48749,48753,mein,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48776,48779,ich,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48786,48789,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48917,48920,mir,chrysander
+gdc,r2r7.0,47372,48971,chrysander,48921,48926,meine,chrysander
+gdc,r2r7.0,48976,49288,herrmann,48987,48991,Mein,herrmann
+gdc,r2r7.0,49293,49516,chrysander,49383,49386,ich,chrysander
+gdc,r2r7.0,49521,49702,herrmann,49547,49551,mein,herrmann
+gdc,r2r7.0,49707,50496,chrysander,49732,49735,ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,49744,49748,mich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,49750,49753,ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,49815,49818,mir,chrysander
+gdc,r2r7.0,49707,50496,chrysander,49869,49874,meine,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50094,50097,Ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50147,50150,ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50170,50173,ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50258,50261,ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50380,50383,ich,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50458,50461,mir,chrysander
+gdc,r2r7.0,49707,50496,chrysander,50478,50481,ich,chrysander
+gdc,r2r7.0,50616,51249,chrysander,50690,50693,ich,chrysander
+gdc,r2r7.0,50616,51249,chrysander,50770,50773,ich,chrysander
+gdc,r2r7.0,50616,51249,chrysander,50847,50850,mir,chrysander
+gdc,r2r7.0,50616,51249,chrysander,51211,51214,ich,chrysander
+gdc,r2r7.0,51254,51759,herrmann,51291,51294,mir,herrmann
+gdc,r2r7.0,51254,51759,herrmann,51317,51321,mich,herrmann
+gdc,r2r7.0,51254,51759,herrmann,51400,51403,mir,herrmann
+gdc,r2r7.0,51254,51759,herrmann,51455,51459,mich,herrmann
+gdc,r2r7.0,51254,51759,herrmann,51616,51619,Ich,herrmann
+gdc,r2r7.0,52057,52138,herrmann,52083,52086,ich,herrmann
+gdc,r2r7.0,52143,52385,chrysander,52189,52192,ich,chrysander
+gdc,r2r7.0,52143,52385,chrysander,52232,52236,mich,chrysander
+gdc,r2r7.0,52143,52385,chrysander,52242,52245,ich,chrysander
+gdc,r2r7.0,52390,52633,herrmann,52436,52439,ich,herrmann
+gdc,r2r7.0,52638,52761,chrysander,52655,52659,mein,chrysander
+gdc,r2r7.0,52638,52761,chrysander,52675,52678,ich,chrysander
+gdc,r2r7.0,52638,52761,chrysander,52720,52723,ich,chrysander
+gdc,r2r7.0,52766,53077,herrmann,52883,52886,ich,herrmann
+gdc,r2r7.0,52766,53077,herrmann,52921,52924,ich,herrmann
+gdc,r2r7.0,53218,53440,der_graf,53370,53373,mir,der_graf
+gdc,r2r7.0,53639,53672,der_graf,53658,53661,ich,der_graf
+gdc,r2r7.0,53756,53966,chrysander,53886,53889,ich,chrysander
+gdc,r2r7.0,53756,53966,chrysander,53890,53893,mir,chrysander
+gdc,r2r7.0,53971,54233,der_graf,54031,54034,ich,der_graf
+gdc,r2r7.0,53971,54233,der_graf,54051,54055,mein,der_graf
+gdc,r2r7.0,53971,54233,der_graf,54096,54099,Ich,der_graf
+gdc,r2r7.0,53971,54233,der_graf,54107,54113,meinem,der_graf
+gdc,r2r7.0,53971,54233,der_graf,54172,54175,mir,der_graf
+gdc,r2r7.0,54238,54491,chrysander,54351,54356,meine,chrysander
+gdc,r2r7.0,54238,54491,chrysander,54394,54397,Ich,chrysander
+gdc,r2r7.0,54585,54628,chrysander,54598,54601,Ich,chrysander
+gdc,r2r7.0,54692,54735,chrysander,54705,54708,Ich,chrysander
+gdc,r2r7.0,54787,54830,chrysander,54800,54803,Ich,chrysander
+gdc,r2r7.0,54835,54937,der_graf,54846,54849,Ich,der_graf
+gdc,r2r7.0,54835,54937,der_graf,54866,54870,mein,der_graf
+gdc,r2r7.0,54835,54937,der_graf,54895,54898,ich,der_graf
+gdc,r2r7.0,55004,55126,der_graf,55118,55121,ich,der_graf
+gdc,r2r7.0,55131,55285,chrysander,55144,55147,Ich,chrysander
+gdc,r2r7.0,55131,55285,chrysander,55179,55182,ich,chrysander
+gdc,r2r7.0,55131,55285,chrysander,55222,55225,ich,chrysander
+gdc,r2r7.0,55290,55515,der_graf,55325,55328,mir,der_graf
+gdc,r2r7.0,55290,55515,der_graf,55381,55386,meine,der_graf
+gdc,r2r7.0,55290,55515,der_graf,55438,55441,ich,der_graf
+gdc,r2r7.0,55290,55515,der_graf,55442,55447,meine,der_graf
+gdc,r2r7.0,55290,55515,der_graf,55501,55506,meine,der_graf
+gdc,r2r7.0,55563,55701,der_graf,55593,55596,ich,der_graf
+gdc,r2r7.0,55706,55955,chrysander,55752,55755,ich,chrysander
+gdc,r2r7.0,55706,55955,chrysander,55761,55766,meine,chrysander
+gdc,r2r7.0,55706,55955,chrysander,55872,55875,ich,chrysander
+gdc,r2r7.0,55706,55955,chrysander,55931,55934,ich,chrysander
+gdc,r2r7.0,55960,56271,der_graf,56061,56065,Mein,der_graf
+gdc,r2r7.0,55960,56271,der_graf,56166,56169,ich,der_graf
+gdc,r2r7.0,55960,56271,der_graf,56193,56196,ich,der_graf
+gdc,r2r7.0,55960,56271,der_graf,56201,56207,meiner,der_graf
+gdc,r2r7.0,56277,57093,chrysander,56301,56304,Ich,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56351,56357,meiner,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56372,56375,ich,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56421,56424,mir,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56554,56557,mir,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56645,56648,ich,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56751,56754,Ich,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56916,56919,ich,chrysander
+gdc,r2r7.0,56277,57093,chrysander,56997,57000,mir,chrysander
+gdc,r2r7.0,57098,57528,der_graf,57203,57206,ich,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57230,57233,ich,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57263,57268,meine,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57302,57305,Ich,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57349,57352,ich,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57424,57427,mir,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57453,57456,ich,der_graf
+gdc,r2r7.0,57098,57528,der_graf,57484,57487,ich,der_graf
+gdc,r2r7.0,57534,57725,chrysander,57569,57572,ich,chrysander
+gdc,r2r7.0,57534,57725,chrysander,57613,57617,mein,chrysander
+gdc,r2r7.0,57534,57725,chrysander,57650,57653,ich,chrysander
+gdc,r2r7.0,57730,57902,der_graf,57815,57818,mir,der_graf
+gdc,r2r7.0,57730,57902,der_graf,57877,57880,ich,der_graf
+gdc,r2r7.0,57907,58309,chrysander,57920,57923,Ich,chrysander
+gdc,r2r7.0,57907,58309,chrysander,57992,57998,meinen,chrysander
+gdc,r2r7.0,57907,58309,chrysander,58024,58028,mich,chrysander
+gdc,r2r7.0,57907,58309,chrysander,58086,58090,mich,chrysander
+gdc,r2r7.0,57907,58309,chrysander,58127,58130,Ich,chrysander
+gdc,r2r7.0,57907,58309,chrysander,58136,58140,mein,chrysander
+gdc,r2r7.0,57907,58309,chrysander,58216,58219,ich,chrysander
+gdc,r2r7.0,57907,58309,chrysander,58254,58257,ich,chrysander
+gdc,r2r7.0,58314,58836,der_graf,58325,58328,Ich,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58348,58351,ich,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58408,58411,Ich,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58476,58479,ich,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58593,58596,mir,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58637,58640,mir,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58651,58654,ich,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58691,58694,mir,der_graf
+gdc,r2r7.0,58314,58836,der_graf,58703,58706,Ich,der_graf
+gdc,r2r7.0,58841,59027,chrysander,58868,58871,ich,chrysander
+gdc,r2r7.0,59032,59323,der_graf,59106,59109,ich,der_graf
+gdc,r2r7.0,59032,59323,der_graf,59150,59153,mir,der_graf
+gdc,r2r7.0,59032,59323,der_graf,59188,59191,Ich,der_graf
+gdc,r2r7.0,59032,59323,der_graf,59251,59257,meinen,der_graf
+gdc,r2r7.0,59032,59323,der_graf,59302,59305,ich,der_graf
+gdc,r2r7.0,59328,59422,chrysander,59341,59344,Ich,chrysander
+gdc,r2r7.0,59328,59422,chrysander,59351,59355,mich,chrysander
+gdc,r2r7.0,59474,59977,der_graf,59499,59502,ich,der_graf
+gdc,r2r7.0,59474,59977,der_graf,59558,59561,mir,der_graf
+gdc,r2r7.0,59474,59977,der_graf,59634,59637,mir,der_graf
+gdc,r2r7.0,59474,59977,der_graf,59698,59703,meine,der_graf
+gdc,r2r7.0,60051,60351,herrmann,60110,60113,ich,herrmann
+gdc,r2r7.0,60051,60351,herrmann,60114,60118,mich,herrmann
+gdc,r2r7.0,60051,60351,herrmann,60181,60184,ich,herrmann
+gdc,r2r7.0,60051,60351,herrmann,60222,60225,mir,herrmann
+gdc,r2r7.0,60051,60351,herrmann,60250,60253,Ich,herrmann
+gdc,r2r7.0,60376,60668,herrmann,60387,60390,Ich,herrmann
+gdc,r2r7.0,60376,60668,herrmann,60409,60414,meine,herrmann
+gdc,r2r7.0,60673,60902,der_graf,60684,60688,Mein,der_graf
+gdc,r2r7.0,60673,60902,der_graf,60717,60720,mir,der_graf
+gdc,r2r7.0,60673,60902,der_graf,60756,60759,ich,der_graf
+gdc,r2r7.0,60673,60902,der_graf,60802,60805,mir,der_graf
+gdc,r2r7.0,60953,61344,herrmann,60976,60979,ich,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61026,61029,ich,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61030,61034,mich,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61113,61118,meine,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61126,61131,meine,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61175,61179,mich,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61246,61252,meiner,herrmann
+gdc,r2r7.0,60953,61344,herrmann,61307,61311,mich,herrmann
+gdc,r2r7.0,61419,61864,herrmann,61464,61467,ich,herrmann
+gdc,r2r7.0,61419,61864,herrmann,61479,61485,meinem,herrmann
+gdc,r2r7.0,61419,61864,herrmann,61508,61511,Ich,herrmann
+gdc,r2r7.0,61419,61864,herrmann,61524,61528,mich,herrmann
+gdc,r2r7.0,61419,61864,herrmann,61630,61633,ich,herrmann
+gdc,r2r7.0,61869,62929,caroline,62019,62022,mir,caroline
+gdc,r2r7.0,61869,62929,caroline,62101,62104,ich,caroline
+gdc,r2r7.0,61869,62929,caroline,62153,62157,mich,caroline
+gdc,r2r7.0,61869,62929,caroline,62466,62470,mich,caroline
+gdc,r2r7.0,61869,62929,caroline,62549,62552,ich,caroline
+gdc,r2r7.0,61869,62929,caroline,62627,62630,ich,caroline
+gdc,r2r7.0,61869,62929,caroline,62691,62694,Ich,caroline
+gdc,r2r7.0,61869,62929,caroline,62882,62885,Ich,caroline
+gdc,r2r7.0,61869,62929,caroline,62891,62894,mir,caroline
+gdc,r2r7.0,63012,63985,caroline,63103,63106,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63229,63232,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63261,63264,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63270,63274,mich,caroline
+gdc,r2r7.0,63012,63985,caroline,63322,63328,meinem,caroline
+gdc,r2r7.0,63012,63985,caroline,63377,63381,mich,caroline
+gdc,r2r7.0,63012,63985,caroline,63453,63459,meiner,caroline
+gdc,r2r7.0,63012,63985,caroline,63494,63497,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63771,63774,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63814,63817,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63866,63869,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63909,63912,ich,caroline
+gdc,r2r7.0,63012,63985,caroline,63913,63917,mich,caroline
+gdc,r2r7.0,63012,63985,caroline,63953,63956,mir,caroline
+gdc,r2r7.0,63990,64303,herrmann,64011,64016,meine,herrmann
+gdc,r2r7.0,63990,64303,herrmann,64121,64124,ich,herrmann
+gdc,r2r7.0,63990,64303,herrmann,64125,64128,mir,herrmann
+gdc,r2r7.0,63990,64303,herrmann,64197,64200,ich,herrmann
+gdc,r2r7.0,63990,64303,herrmann,64207,64211,mein,herrmann
+gdc,r2r7.0,63990,64303,herrmann,64254,64260,meiner,herrmann
+gdc,r2r7.0,64308,64578,caroline,64424,64427,ich,caroline
+gdc,r2r7.0,64752,64818,johann,64804,64807,mir,johann
+gdc,r2r7.0,65115,65181,johann,65151,65154,mir,johann
+gdc,r2r7.0,65186,65390,valer,65260,65263,ich,valer
+gdc,r2r7.0,65186,65390,valer,65364,65367,ich,valer
+gdc,r2r7.0,65395,65672,johann,65471,65474,ich,johann
+gdc,r2r7.0,65395,65672,johann,65522,65525,ich,johann
+gdc,r2r7.0,65395,65672,johann,65556,65559,ich,johann
+gdc,r2r7.0,65395,65672,johann,65601,65604,mir,johann
+gdc,r2r7.0,65395,65672,johann,65640,65643,ich,johann
+gdc,r2r7.0,65395,65672,johann,65644,65648,mich,johann
+gdc,r2r7.0,65677,65744,valer,65710,65713,ich,valer
+gdc,r2r7.0,65749,66324,johann,65785,65788,ich,johann
+gdc,r2r7.0,65749,66324,johann,65796,65799,Ich,johann
+gdc,r2r7.0,65749,66324,johann,65833,65836,mir,johann
+gdc,r2r7.0,65749,66324,johann,66042,66045,ich,johann
+gdc,r2r7.0,65749,66324,johann,66046,66049,mir,johann
+gdc,r2r7.0,65749,66324,johann,66110,66113,ich,johann
+gdc,r2r7.0,65749,66324,johann,66183,66186,ich,johann
+gdc,r2r7.0,65749,66324,johann,66282,66285,ich,johann
+gdc,r2r7.0,66329,66473,valer,66374,66377,ich,valer
+gdc,r2r7.0,66329,66473,valer,66432,66435,ich,valer
+gdc,r2r7.0,66478,66785,johann,66503,66506,ich,johann
+gdc,r2r7.0,66478,66785,johann,66529,66532,ich,johann
+gdc,r2r7.0,66478,66785,johann,66583,66586,ich,johann
+gdc,r2r7.0,66478,66785,johann,66642,66645,mir,johann
+gdc,r2r7.0,66790,66897,valer,66828,66831,ich,valer
+gdc,r2r7.0,66902,67328,johann,67073,67076,mir,johann
+gdc,r2r7.0,66902,67328,johann,67101,67104,mir,johann
+gdc,r2r7.0,66902,67328,johann,67148,67151,ich,johann
+gdc,r2r7.0,66902,67328,johann,67175,67178,ich,johann
+gdc,r2r7.0,66902,67328,johann,67188,67194,meinem,johann
+gdc,r2r7.0,66902,67328,johann,67240,67243,ich,johann
+gdc,r2r7.0,66902,67328,johann,67285,67288,ich,johann
+gdc,r2r7.0,67333,67516,valer,67370,67373,mir,valer
+gdc,r2r7.0,67333,67516,valer,67435,67438,ich,valer
+gdc,r2r7.0,67333,67516,valer,67469,67472,ich,valer
+gdc,r2r7.0,67826,67993,valer,67874,67877,ich,valer
+gdc,r2r7.0,67998,68237,johann,68058,68061,ich,johann
+gdc,r2r7.0,67998,68237,johann,68082,68088,meinem,johann
+gdc,r2r7.0,67998,68237,johann,68125,68128,Ich,johann
+gdc,r2r7.0,67998,68237,johann,68144,68147,ich,johann
+gdc,r2r7.0,68242,68942,valer,68356,68359,ich,valer
+gdc,r2r7.0,68947,69659,johann,68991,68997,meinen,johann
+gdc,r2r7.0,68947,69659,johann,69013,69016,ich,johann
+gdc,r2r7.0,68947,69659,johann,69074,69077,ich,johann
+gdc,r2r7.0,68947,69659,johann,69101,69104,ich,johann
+gdc,r2r7.0,68947,69659,johann,69180,69186,meinem,johann
+gdc,r2r7.0,68947,69659,johann,69225,69229,mich,johann
+gdc,r2r7.0,68947,69659,johann,69285,69288,ich,johann
+gdc,r2r7.0,68947,69659,johann,69338,69341,ich,johann
+gdc,r2r7.0,68947,69659,johann,69384,69387,ich,johann
+gdc,r2r7.0,68947,69659,johann,69512,69515,ich,johann
+gdc,r2r7.0,68947,69659,johann,69528,69531,ich,johann
+gdc,r2r7.0,68947,69659,johann,69542,69545,mir,johann
+gdc,r2r7.0,68947,69659,johann,69608,69611,mir,johann
+gdc,r2r7.0,68947,69659,johann,69632,69635,ich,johann
+gdc,r2r7.0,69664,70000,valer,69937,69941,mich,valer
+gdc,r2r7.0,70250,71552,valer,70273,70276,mir,valer
+gdc,r2r7.0,70250,71552,valer,70943,70946,ich,valer
+gdc,r2r7.0,70250,71552,valer,71125,71129,mich,valer
+gdc,r2r7.0,70250,71552,valer,71227,71230,ich,valer
+gdc,r2r7.0,70250,71552,valer,71231,71234,mir,valer
+gdc,r2r7.0,70250,71552,valer,71249,71254,meine,valer
+gdc,r2r7.0,70250,71552,valer,71327,71333,meines,valer
+gdc,r2r7.0,71557,71867,johann,71696,71699,ich,johann
+gdc,r2r7.0,71557,71867,johann,71709,71714,meine,johann
+gdc,r2r7.0,71872,72565,valer,71898,71902,mich,valer
+gdc,r2r7.0,71872,72565,valer,71959,71962,ich,valer
+gdc,r2r7.0,71872,72565,valer,71996,71999,ich,valer
+gdc,r2r7.0,71872,72565,valer,72118,72121,ich,valer
+gdc,r2r7.0,71872,72565,valer,72178,72181,ich,valer
+gdc,r2r7.0,71872,72565,valer,72220,72223,mir,valer
+gdc,r2r7.0,71872,72565,valer,72262,72265,ich,valer
+gdc,r2r7.0,71872,72565,valer,72266,72270,mich,valer
+gdc,r2r7.0,71872,72565,valer,72457,72460,mir,valer
+gdc,r2r7.0,71872,72565,valer,72478,72481,Ich,valer
+gdc,r2r7.0,71872,72565,valer,72542,72546,mein,valer
+gdc,r2r7.0,72616,73000,johann,72657,72661,mich,johann
+gdc,r2r7.0,72616,73000,johann,72667,72670,ich,johann
+gdc,r2r7.0,72616,73000,johann,72684,72688,mein,johann
+gdc,r2r7.0,72616,73000,johann,72808,72811,ich,johann
+gdc,r2r7.0,72616,73000,johann,72941,72944,ich,johann
+gdc,r2r7.0,73208,73521,johann,73249,73255,meinen,johann
+gdc,r2r7.0,73208,73521,johann,73298,73302,mich,johann
+gdc,r2r7.0,73208,73521,johann,73328,73331,ich,johann
+gdc,r2r7.0,73208,73521,johann,73378,73381,ich,johann
+gdc,r2r7.0,73208,73521,johann,73389,73392,ich,johann
+gdc,r2r7.0,73208,73521,johann,73455,73458,ich,johann
+gdc,r2r7.0,73208,73521,johann,73459,73463,mich,johann
+gdc,r2r7.0,73527,73965,der_graf,73556,73559,Ich,der_graf
+gdc,r2r7.0,73527,73965,der_graf,73606,73611,meine,der_graf
+gdc,r2r7.0,73527,73965,der_graf,73682,73685,ich,der_graf
+gdc,r2r7.0,73527,73965,der_graf,73728,73731,mir,der_graf
+gdc,r2r7.0,73527,73965,der_graf,73800,73804,mich,der_graf
+gdc,r2r7.0,73527,73965,der_graf,73838,73842,mich,der_graf
+gdc,r2r7.0,73527,73965,der_graf,73915,73920,meine,der_graf
+gdc,r2r7.0,73970,74038,caroline,73981,73984,Ich,caroline
+gdc,r2r7.0,74043,74148,der_graf,74100,74106,meiner,der_graf
+gdc,r2r7.0,74043,74148,der_graf,74128,74134,meinem,der_graf
+gdc,r2r7.0,74153,74224,caroline,74173,74176,mir,caroline
+gdc,r2r7.0,74229,74529,der_graf,74281,74284,ich,der_graf
+gdc,r2r7.0,74229,74529,der_graf,74401,74407,meinen,der_graf
+gdc,r2r7.0,74534,74878,caroline,74603,74608,meine,caroline
+gdc,r2r7.0,74883,75239,der_graf,74903,74906,ich,der_graf
+gdc,r2r7.0,74883,75239,der_graf,74975,74978,ich,der_graf
+gdc,r2r7.0,74883,75239,der_graf,75017,75020,mir,der_graf
+gdc,r2r7.0,74883,75239,der_graf,75045,75048,ich,der_graf
+gdc,r2r7.0,74883,75239,der_graf,75146,75152,meiner,der_graf
+gdc,r2r7.0,74883,75239,der_graf,75182,75185,ich,der_graf
+gdc,r2r7.0,74883,75239,der_graf,75208,75211,ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75404,75407,ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75447,75450,ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75483,75486,Ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75549,75552,ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75584,75588,mein,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75668,75671,Ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,75851,75854,ich,der_graf
+gdc,r2r7.0,75388,76238,der_graf,76052,76058,meiner,der_graf
+gdc,r2r7.0,76243,76756,caroline,76279,76285,meiner,caroline
+gdc,r2r7.0,76243,76756,caroline,76318,76321,ich,caroline
+gdc,r2r7.0,76243,76756,caroline,76371,76374,ich,caroline
+gdc,r2r7.0,76761,76896,der_graf,76879,76882,mir,der_graf
+gdc,r2r7.0,76901,77028,caroline,76980,76983,mir,caroline
+gdc,r2r7.0,76901,77028,caroline,76996,76999,ich,caroline
+gdc,r2r7.0,77033,77757,der_graf,77044,77047,Ich,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77084,77087,ich,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77150,77153,Ich,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77182,77185,ich,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77246,77250,mich,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77283,77288,meine,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77490,77496,meinen,der_graf
+gdc,r2r7.0,77033,77757,der_graf,77529,77533,mich,der_graf
+gdc,r2r7.0,77797,77831,johann,77814,77817,ich,johann
+gdc,r2r7.0,77904,77989,caroline,77956,77959,ich,caroline
+gdc,r2r7.0,78046,78615,johann,78077,78080,mir,johann
+gdc,r2r7.0,78046,78615,johann,78113,78116,ich,johann
+gdc,r2r7.0,78046,78615,johann,78146,78150,mein,johann
+gdc,r2r7.0,78046,78615,johann,78164,78167,mir,johann
+gdc,r2r7.0,78046,78615,johann,78210,78213,ich,johann
+gdc,r2r7.0,78046,78615,johann,78214,78218,mich,johann
+gdc,r2r7.0,78046,78615,johann,78290,78293,ich,johann
+gdc,r2r7.0,78046,78615,johann,78338,78342,mich,johann
+gdc,r2r7.0,78046,78615,johann,78423,78426,mir,johann
+gdc,r2r7.0,78046,78615,johann,78443,78446,mir,johann
+gdc,r2r7.0,78046,78615,johann,78472,78475,ich,johann
+gdc,r2r7.0,78046,78615,johann,78524,78527,Ich,johann
+gdc,r2r7.0,78620,78782,der_graf,78631,78634,Ich,der_graf
+gdc,r2r7.0,78620,78782,der_graf,78673,78676,mir,der_graf
+gdc,r2r7.0,78620,78782,der_graf,78730,78734,mich,der_graf
+gdc,r2r7.0,78854,78950,johann,78883,78886,ich,johann
+gdc,r2r7.0,78955,79305,caroline,78966,78969,Ich,caroline
+gdc,r2r7.0,78955,79305,caroline,79043,79046,Ich,caroline
+gdc,r2r7.0,78955,79305,caroline,79101,79104,ich,caroline
+gdc,r2r7.0,78955,79305,caroline,79192,79195,ich,caroline
+gdc,r2r7.0,79310,79366,johann,79347,79353,meinen,johann
+gdc,r2r7.0,79371,79603,caroline,79426,79432,meiner,caroline
+gdc,r2r7.0,79608,79696,johann,79650,79654,mein,johann
+gdc,r2r7.0,79745,80039,johann,79774,79777,ich,johann
+gdc,r2r7.0,79745,80039,johann,79840,79844,mich,johann
+gdc,r2r7.0,79745,80039,johann,79911,79914,ich,johann
+gdc,r2r7.0,79745,80039,johann,79915,79918,mir,johann
+gdc,r2r7.0,79745,80039,johann,80008,80012,mein,johann
+gdc,r2r7.0,80044,80198,caroline,80118,80121,ich,caroline
+gdc,r2r7.0,80044,80198,caroline,80149,80152,mir,caroline
+gdc,r2r7.0,80203,80310,johann,80232,80235,ich,johann
+gdc,r2r7.0,80203,80310,johann,80264,80268,mein,johann
+gdc,r2r7.0,80315,80513,caroline,80374,80378,mein,caroline
+gdc,r2r7.0,80315,80513,caroline,80416,80420,mein,caroline
+gdc,r2r7.0,80315,80513,caroline,80440,80443,mir,caroline
+gdc,r2r7.0,80535,80798,caroline,80657,80660,Ich,caroline
+gdc,r2r7.0,80535,80798,caroline,80668,80672,mich,caroline
+gdc,r2r7.0,80535,80798,caroline,80676,80682,meiner,caroline
+gdc,r2r7.0,80535,80798,caroline,80702,80705,ich,caroline
+gdc,r2r7.0,80535,80798,caroline,80758,80762,mich,caroline
+gdc,r2r7.0,80849,81391,johann,80893,80897,mein,johann
+gdc,r2r7.0,80849,81391,johann,80929,80932,ich,johann
+gdc,r2r7.0,80849,81391,johann,80981,80984,ich,johann
+gdc,r2r7.0,80849,81391,johann,81033,81036,ich,johann
+gdc,r2r7.0,80849,81391,johann,81239,81242,ich,johann
+gdc,r2r7.0,80849,81391,johann,81281,81284,ich,johann
+gdc,r2r7.0,80849,81391,johann,81353,81356,ich,johann
+gdc,r2r7.0,81471,81634,arnold,81590,81594,mich,arnold
+gdc,r2r7.0,81639,81781,der_graf,81734,81737,mir,der_graf
+gdc,r2r7.0,81639,81781,der_graf,81768,81774,meinem,der_graf
+gdc,r2r7.0,81786,82223,johann,81795,81798,Ich,johann
+gdc,r2r7.0,81786,82223,johann,81848,81851,ich,johann
+gdc,r2r7.0,81786,82223,johann,81925,81929,mich,johann
+gdc,r2r7.0,81786,82223,johann,81972,81975,ich,johann
+gdc,r2r7.0,81786,82223,johann,82014,82018,mich,johann
+gdc,r2r7.0,81786,82223,johann,82043,82049,meines,johann
+gdc,r2r7.0,81786,82223,johann,82060,82063,Ich,johann
+gdc,r2r7.0,81786,82223,johann,82116,82119,ich,johann
+gdc,r2r7.0,82297,82524,der_graf,82308,82311,Ich,der_graf
+gdc,r2r7.0,82297,82524,der_graf,82351,82355,mich,der_graf
+gdc,r2r7.0,82297,82524,der_graf,82419,82425,meiner,der_graf
+gdc,r2r7.0,82628,82726,der_graf,82663,82666,Mir,der_graf
+gdc,r2r7.0,82731,83089,arnold,82920,82923,ich,arnold
+gdc,r2r7.0,82731,83089,arnold,83007,83010,ich,arnold
+gdc,r2r7.0,83094,83216,der_graf,83118,83121,mir,der_graf
+gdc,r2r7.0,83094,83216,der_graf,83146,83150,mich,der_graf
+gdc,r2r7.0,83221,83746,arnold,83230,83233,Ich,arnold
+gdc,r2r7.0,83221,83746,arnold,83267,83270,Ich,arnold
+gdc,r2r7.0,83751,83981,der_graf,83770,83773,ich,der_graf
+gdc,r2r7.0,83751,83981,der_graf,83802,83806,Mein,der_graf
+gdc,r2r7.0,83751,83981,der_graf,83823,83826,mir,der_graf
+gdc,r2r7.0,83751,83981,der_graf,83857,83860,ich,der_graf
+gdc,r2r7.0,83751,83981,der_graf,83877,83880,mir,der_graf
+gdc,r2r7.0,83751,83981,der_graf,83932,83935,ich,der_graf
+gdc,r2r7.0,83751,83981,der_graf,83946,83952,meinem,der_graf
+gdc,r2r7.0,83986,84126,arnold,84087,84090,ich,arnold
+gdc,r2r7.0,83986,84126,arnold,84106,84111,meine,arnold
+gdc,r2r7.0,84176,85282,der_graf,84214,84217,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84223,84226,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84255,84261,meinen,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84357,84360,Ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84427,84432,meine,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84495,84498,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84558,84561,mir,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84579,84585,meinen,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84616,84619,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84734,84737,mir,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84746,84749,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84755,84758,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84833,84837,mich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84864,84867,mir,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84935,84938,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,84966,84969,mir,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85035,85038,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85099,85102,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85109,85112,mir,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85145,85150,meine,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85184,85187,ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85235,85238,Ich,der_graf
+gdc,r2r7.0,84176,85282,der_graf,85266,85269,mir,der_graf
+gdc,r2r7.0,85358,85609,die_gräfinn,85383,85386,Ich,die_gräfinn
+gdc,r2r7.0,85358,85609,die_gräfinn,85391,85395,mich,die_gräfinn
+gdc,r2r7.0,85358,85609,die_gräfinn,85426,85432,meinen,die_gräfinn
+gdc,r2r7.0,85358,85609,die_gräfinn,85479,85482,mir,die_gräfinn
+gdc,r2r7.0,85358,85609,die_gräfinn,85531,85534,ich,die_gräfinn
+gdc,r2r7.0,85614,86036,der_graf,85702,85705,ich,der_graf
+gdc,r2r7.0,85614,86036,der_graf,85875,85878,ich,der_graf
+gdc,r2r7.0,85614,86036,der_graf,85947,85950,ich,der_graf
+gdc,r2r7.0,85614,86036,der_graf,86006,86009,mir,der_graf
+gdc,r2r7.0,86041,86640,die_gräfinn,86108,86114,meines,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86159,86162,mir,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86182,86185,ich,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86251,86254,ich,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86284,86287,ich,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86343,86347,mich,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86382,86388,meiner,die_gräfinn
+gdc,r2r7.0,86041,86640,die_gräfinn,86454,86459,meine,die_gräfinn
+gdc,r2r7.0,86645,87056,der_graf,86757,86760,mir,der_graf
+gdc,r2r7.0,86645,87056,der_graf,86814,86818,mich,der_graf
+gdc,r2r7.0,86645,87056,der_graf,86902,86908,meiner,der_graf
+gdc,r2r7.0,86645,87056,der_graf,87002,87006,mich,der_graf
+gdc,r2r7.0,87062,87396,die_gräfinn,87120,87123,mir,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87138,87142,mich,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87193,87196,mir,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87242,87245,ich,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87281,87285,mich,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87299,87302,ich,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87327,87330,ich,die_gräfinn
+gdc,r2r7.0,87062,87396,die_gräfinn,87336,87340,mich,die_gräfinn
+gdc,r2r7.0,87402,87713,der_graf,87491,87494,ich,der_graf
+gdc,r2r7.0,87402,87713,der_graf,87564,87567,mir,der_graf
+gdc,r2r7.0,87402,87713,der_graf,87577,87580,ich,der_graf
+gdc,r2r7.0,87402,87713,der_graf,87669,87673,Mich,der_graf
+gdc,r2r7.0,87402,87713,der_graf,87685,87688,ich,der_graf
+gdc,r2r7.0,87718,87981,die_gräfinn,87826,87829,mir,die_gräfinn
+gdc,r2r7.0,87718,87981,die_gräfinn,87902,87907,meine,die_gräfinn
+gdc,r2r7.0,87718,87981,die_gräfinn,87954,87957,mir,die_gräfinn
+gdc,r2r7.0,88065,88173,die_gräfinn,88092,88095,Ich,die_gräfinn
+gdc,r2r7.0,88065,88173,die_gräfinn,88100,88103,mir,die_gräfinn
+gdc,r2r7.0,88065,88173,die_gräfinn,88131,88134,mir,die_gräfinn
+gdc,r2r7.0,88178,88326,der_graf,88206,88209,ich,der_graf
+gdc,r2r7.0,88697,89018,der_graf,88722,88725,Ich,der_graf
+gdc,r2r7.0,88697,89018,der_graf,88762,88767,meine,der_graf
+gdc,r2r7.0,88697,89018,der_graf,88784,88789,meine,der_graf
+gdc,r2r7.0,88697,89018,der_graf,88893,88896,ich,der_graf
+gdc,r2r7.0,88697,89018,der_graf,88913,88917,mein,der_graf
+gdc,r2r7.0,88697,89018,der_graf,88972,88977,meine,der_graf
+gdc,r2r7.0,88697,89018,der_graf,89002,89006,mein,der_graf
+gdc,r2r7.0,89024,89243,die_gräfinn,89085,89088,ich,die_gräfinn
+gdc,r2r7.0,89296,89597,der_graf,89345,89349,mich,der_graf
+gdc,r2r7.0,89296,89597,der_graf,89419,89423,mich,der_graf
+gdc,r2r7.0,89296,89597,der_graf,89491,89494,ich,der_graf
+gdc,r2r7.0,89296,89597,der_graf,89521,89525,mich,der_graf
+gdc,r2r7.0,89296,89597,der_graf,89548,89551,ich,der_graf
+gdc,r2r7.0,89296,89597,der_graf,89552,89556,mich,der_graf
+gdc,r2r7.0,89670,89762,herrmann,89708,89711,mir,herrmann
+gdc,r2r7.0,89670,89762,herrmann,89724,89728,mich,herrmann
+gdc,r2r7.0,89767,90105,der_graf,89782,89785,Ich,der_graf
+gdc,r2r7.0,89767,90105,der_graf,89840,89844,mich,der_graf
+gdc,r2r7.0,89767,90105,der_graf,89853,89857,mein,der_graf
+gdc,r2r7.0,89767,90105,der_graf,89888,89891,ich,der_graf
+gdc,r2r7.0,89767,90105,der_graf,89897,89901,mich,der_graf
+gdc,r2r7.0,89767,90105,der_graf,89919,89922,ich,der_graf
+gdc,r2r7.0,89767,90105,der_graf,89940,89944,mein,der_graf
+gdc,r2r7.0,89767,90105,der_graf,90035,90038,mir,der_graf
+gdc,r2r7.0,89767,90105,der_graf,90040,90043,ich,der_graf
+gdc,r2r7.0,90110,90296,herrmann,90159,90164,meine,herrmann
+gdc,r2r7.0,90110,90296,herrmann,90216,90219,ich,herrmann
+gdc,r2r7.0,90301,90633,der_graf,90346,90351,meine,der_graf
+gdc,r2r7.0,90301,90633,der_graf,90404,90409,meine,der_graf
+gdc,r2r7.0,90638,90798,herrmann,90725,90728,ich,herrmann
+gdc,r2r7.0,90638,90798,herrmann,90766,90769,mir,herrmann
+gdc,r2r7.0,90803,91126,der_graf,90857,90860,Ich,der_graf
+gdc,r2r7.0,90803,91126,der_graf,91029,91032,mir,der_graf
+gdc,r2r7.0,90803,91126,der_graf,91047,91050,ich,der_graf
+gdc,r2r7.0,91180,92794,herrmann,91250,91254,mich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91316,91321,meine,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91349,91354,meine,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91414,91417,mir,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91474,91477,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91532,91535,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91556,91559,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91610,91614,mein,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91805,91810,meine,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91856,91859,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91877,91880,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,91974,91978,mein,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92055,92058,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92059,92062,mir,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92085,92088,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92156,92160,mein,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92268,92271,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92287,92290,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92301,92305,mich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92318,92321,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92388,92394,meiner,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92420,92423,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92451,92454,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92469,92472,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92545,92548,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92564,92567,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92690,92693,ich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92756,92760,mich,herrmann
+gdc,r2r7.0,91180,92794,herrmann,92761,92767,meines,herrmann
+gdc,r2r7.0,92872,93225,caroline,92977,92981,mein,caroline
+gdc,r2r7.0,92872,93225,caroline,93004,93008,Mein,caroline
+gdc,r2r7.0,92872,93225,caroline,93020,93023,mir,caroline
+gdc,r2r7.0,92872,93225,caroline,93184,93187,ich,caroline
+gdc,r2r7.0,93230,93540,herrmann,93323,93327,mein,herrmann
+gdc,r2r7.0,93230,93540,herrmann,93354,93358,mein,herrmann
+gdc,r2r7.0,93230,93540,herrmann,93453,93459,meiner,herrmann
+gdc,r2r7.0,93546,94126,caroline,93577,93580,ich,caroline
+gdc,r2r7.0,93546,94126,caroline,93643,93646,ich,caroline
+gdc,r2r7.0,93546,94126,caroline,93713,93719,meiner,caroline
+gdc,r2r7.0,93546,94126,caroline,93741,93744,mir,caroline
+gdc,r2r7.0,93546,94126,caroline,93857,93860,ich,caroline
+gdc,r2r7.0,93546,94126,caroline,93865,93869,mich,caroline
+gdc,r2r7.0,93546,94126,caroline,93943,93946,ich,caroline
+gdc,r2r7.0,93546,94126,caroline,93978,93982,mich,caroline
+gdc,r2r7.0,93546,94126,caroline,94017,94021,mich,caroline
+gdc,r2r7.0,94132,94584,herrmann,94164,94168,mich,herrmann
+gdc,r2r7.0,94132,94584,herrmann,94237,94240,ich,herrmann
+gdc,r2r7.0,94132,94584,herrmann,94279,94282,ich,herrmann
+gdc,r2r7.0,94132,94584,herrmann,94391,94394,ich,herrmann
+gdc,r2r7.0,94132,94584,herrmann,94429,94432,ich,herrmann
+gdc,r2r7.0,94132,94584,herrmann,94518,94524,meines,herrmann
+gdc,r2r7.0,94589,95085,caroline,94648,94651,ich,caroline
+gdc,r2r7.0,94589,95085,caroline,94678,94683,meine,caroline
+gdc,r2r7.0,94589,95085,caroline,94716,94719,ich,caroline
+gdc,r2r7.0,94589,95085,caroline,94725,94728,mir,caroline
+gdc,r2r7.0,94589,95085,caroline,94745,94749,mich,caroline
+gdc,r2r7.0,94589,95085,caroline,94795,94798,mir,caroline
+gdc,r2r7.0,94589,95085,caroline,94853,94856,ich,caroline
+gdc,r2r7.0,94589,95085,caroline,94857,94860,mir,caroline
+gdc,r2r7.0,94589,95085,caroline,94895,94898,ich,caroline
+gdc,r2r7.0,94589,95085,caroline,94940,94943,ich,caroline
+gdc,r2r7.0,95091,95359,herrmann,95121,95124,ich,herrmann
+gdc,r2r7.0,95091,95359,herrmann,95195,95198,mir,herrmann
+gdc,r2r7.0,95091,95359,herrmann,95314,95319,meine,herrmann
+gdc,r2r7.0,95364,96267,caroline,95408,95411,ich,caroline
+gdc,r2r7.0,95364,96267,caroline,95472,95475,ich,caroline
+gdc,r2r7.0,95364,96267,caroline,95515,95519,mich,caroline
+gdc,r2r7.0,95364,96267,caroline,95815,95818,mir,caroline
+gdc,r2r7.0,95364,96267,caroline,95872,95876,mich,caroline
+gdc,r2r7.0,95364,96267,caroline,95896,95900,mich,caroline
+gdc,r2r7.0,95364,96267,caroline,95919,95922,Ich,caroline
+gdc,r2r7.0,95364,96267,caroline,95967,95971,mich,caroline
+gdc,r2r7.0,95364,96267,caroline,96133,96136,ich,caroline
+gdc,r2r7.0,95364,96267,caroline,96211,96215,mich,caroline
+gdc,r2r7.0,96272,96845,herrmann,96319,96322,ich,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96386,96389,ich,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96423,96428,meine,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96594,96597,ich,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96605,96609,mich,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96686,96692,meiner,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96743,96746,mir,herrmann
+gdc,r2r7.0,96272,96845,herrmann,96813,96816,ich,herrmann
+gdc,r2r7.0,96850,97026,caroline,96870,96873,ich,caroline
+gdc,r2r7.0,97031,97080,herrmann,97062,97065,ich,herrmann
+gdc,r2r7.0,97031,97080,herrmann,97066,97070,mich,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97355,97359,mich,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97406,97412,meinen,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97457,97461,Mein,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97471,97475,mein,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97491,97494,ich,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97548,97551,ich,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97725,97729,Mein,herrmann
+gdc,r2r7.0,97302,97858,herrmann,97740,97743,ich,herrmann
+gdc,r2r7.0,97898,97994,herrmann,97909,97912,Ich,herrmann
+gdc,r2r7.0,98189,98579,caroline,98200,98203,Ich,caroline
+gdc,r2r7.0,98189,98579,caroline,98209,98212,mir,caroline
+gdc,r2r7.0,98189,98579,caroline,98270,98274,mein,caroline
+gdc,r2r7.0,98189,98579,caroline,98321,98324,ich,caroline
+gdc,r2r7.0,98189,98579,caroline,98470,98474,mich,caroline
+gdc,r2r7.0,98189,98579,caroline,98528,98531,ich,caroline
+gdc,r2r7.0,98189,98579,caroline,98547,98553,meinen,caroline
+gdc,r2r7.0,98584,99270,herrmann,98658,98662,mich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98706,98710,mich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98721,98724,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98754,98757,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98796,98800,mein,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98839,98842,mir,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98901,98904,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,98993,98999,meiner,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99007,99010,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99029,99032,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99060,99063,mir,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99072,99075,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99151,99154,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99197,99201,mein,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99235,99238,mir,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99243,99246,ich,herrmann
+gdc,r2r7.0,98584,99270,herrmann,99247,99253,meinen,herrmann
+gdc,r2r7.0,100126,100460,herrmann,100168,100172,mein,herrmann
+gdc,r2r7.0,100126,100460,herrmann,100250,100253,ich,herrmann
+gdc,r2r7.0,100126,100460,herrmann,100308,100312,mein,herrmann
+gdc,r2r7.0,100126,100460,herrmann,100372,100375,ich,herrmann
+gdc,r2r7.0,100546,100767,johann,100604,100607,ich,johann
+gdc,r2r7.0,100546,100767,johann,100613,100619,meinen,johann
+gdc,r2r7.0,100546,100767,johann,100659,100662,mir,johann
+gdc,r2r7.0,100546,100767,johann,100672,100675,Ich,johann
+gdc,r2r7.0,100546,100767,johann,100746,100750,mich,johann
+gdc,r2r7.0,100772,100949,valentin,100796,100800,Mein,valentin
+gdc,r2r7.0,100772,100949,valentin,100861,100864,ich,valentin
+gdc,r2r7.0,100772,100949,valentin,100874,100880,meinem,valentin
+gdc,r2r7.0,100772,100949,valentin,100911,100914,ich,valentin
+gdc,r2r7.0,100772,100949,valentin,100929,100932,mir,valentin
+gdc,r2r7.0,100954,101023,johann,100963,100967,Mein,johann
+gdc,r2r7.0,101057,101140,johann,101070,101073,ich,johann
+gdc,r2r7.0,101057,101140,johann,101078,101084,meines,johann
+gdc,r2r7.0,101057,101140,johann,101116,101119,ich,johann
+gdc,r2r7.0,101057,101140,johann,101124,101130,meines,johann
+gdc,r2r7.0,101146,101230,valentin,101185,101188,ich,valentin
+gdc,r2r7.0,101235,101332,johann,101305,101308,ich,johann
+gdc,r2r7.0,101411,101599,johann,101420,101423,Ich,johann
+gdc,r2r7.0,101411,101599,johann,101457,101460,ich,johann
+gdc,r2r7.0,101411,101599,johann,101509,101512,ich,johann
+gdc,r2r7.0,101411,101599,johann,101585,101588,ich,johann
+gdc,r2r7.0,101604,101879,valentin,101660,101666,meines,valentin
+gdc,r2r7.0,101604,101879,valentin,101708,101712,mich,valentin
+gdc,r2r7.0,101604,101879,valentin,101791,101794,ich,valentin
+gdc,r2r7.0,101604,101879,valentin,101795,101799,mich,valentin
+gdc,r2r7.0,101885,102165,johann,101944,101947,ich,johann
+gdc,r2r7.0,102238,102437,chrysander,102302,102305,ich,chrysander
+gdc,r2r7.0,102238,102437,chrysander,102355,102358,mir,chrysander
+gdc,r2r7.0,102238,102437,chrysander,102359,102365,meinen,chrysander
+gdc,r2r7.0,102238,102437,chrysander,102396,102400,Mein,chrysander
+gdc,r2r7.0,102442,102500,johann,102473,102476,ich,johann
+gdc,r2r7.0,102505,102594,chrysander,102530,102534,mich,chrysander
+gdc,r2r7.0,102505,102594,chrysander,102542,102545,ich,chrysander
+gdc,r2r7.0,102505,102594,chrysander,102546,102551,meine,chrysander
+gdc,r2r7.0,102599,102726,johann,102625,102628,ich,johann
+gdc,r2r7.0,102599,102726,johann,102661,102664,ich,johann
+gdc,r2r7.0,102599,102726,johann,102704,102707,ich,johann
+gdc,r2r7.0,102817,102921,johann,102865,102868,mir,johann
+gdc,r2r7.0,102817,102921,johann,102875,102878,ich,johann
+gdc,r2r7.0,102926,103142,chrysander,102939,102943,Mein,chrysander
+gdc,r2r7.0,102926,103142,chrysander,102999,103002,ich,chrysander
+gdc,r2r7.0,102926,103142,chrysander,103065,103068,ich,chrysander
+gdc,r2r7.0,102926,103142,chrysander,103103,103107,mich,chrysander
+gdc,r2r7.0,103147,103331,johann,103206,103209,ich,johann
+gdc,r2r7.0,103147,103331,johann,103308,103311,mir,johann
+gdc,r2r7.0,103336,103420,chrysander,103387,103390,mir,chrysander
+gdc,r2r7.0,103425,103561,johann,103476,103479,ich,johann
+gdc,r2r7.0,103566,103762,chrysander,103602,103605,ich,chrysander
+gdc,r2r7.0,103768,103938,johann,103852,103855,mir,johann
+gdc,r2r7.0,103768,103938,johann,103856,103861,meine,johann
+gdc,r2r7.0,103768,103938,johann,103876,103879,ich,johann
+gdc,r2r7.0,103768,103938,johann,103914,103918,mich,johann
+gdc,r2r7.0,103943,104342,chrysander,103974,103977,mir,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104042,104045,ich,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104046,104051,meine,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104120,104123,ich,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104192,104195,mir,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104240,104243,Ich,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104280,104284,mich,chrysander
+gdc,r2r7.0,103943,104342,chrysander,104330,104335,meine,chrysander
+gdc,r2r7.0,104347,104445,johann,104373,104376,ich,johann
+gdc,r2r7.0,104654,104688,chrysander,104671,104677,meiner,chrysander
+gdc,r2r7.0,104693,104797,johann,104711,104714,ich,johann
+gdc,r2r7.0,104802,104868,chrysander,104815,104818,Ich,chrysander
+gdc,r2r7.0,104802,104868,chrysander,104824,104828,mich,chrysander
+gdc,r2r7.0,105364,105530,chrysander,105385,105388,ich,chrysander
+gdc,r2r7.0,105364,105530,chrysander,105402,105405,ich,chrysander
+gdc,r2r7.0,105364,105530,chrysander,105419,105422,Ich,chrysander
+gdc,r2r7.0,105364,105530,chrysander,105461,105464,ich,chrysander
+gdc,r2r7.0,105364,105530,chrysander,105508,105511,ich,chrysander
+gdc,r2r7.0,105884,106051,chrysander,105897,105900,Ich,chrysander
+gdc,r2r7.0,105884,106051,chrysander,105976,105979,mir,chrysander
+gdc,r2r7.0,105884,106051,chrysander,106023,106026,ich,chrysander
+gdc,r2r7.0,105884,106051,chrysander,106027,106032,meine,chrysander
+gdc,r2r7.0,106382,106610,chrysander,106395,106398,Ich,chrysander
+gdc,r2r7.0,106382,106610,chrysander,106552,106555,ich,chrysander
+gdc,r2r7.0,106678,107028,johann,106734,106737,ich,johann
+gdc,r2r7.0,106678,107028,johann,106810,106813,ich,johann
+gdc,r2r7.0,106678,107028,johann,106877,106880,ich,johann
+gdc,r2r7.0,106678,107028,johann,106932,106935,ich,johann
+gdc,r2r7.0,106678,107028,johann,106959,106962,ich,johann
+gdc,r2r7.0,106678,107028,johann,107008,107011,mir,johann
+gdc,r2r7.0,107084,107210,johann,107135,107138,mir,johann
+gdc,r2r7.0,107403,107495,valer,107417,107421,mich,valer
+gdc,r2r7.0,107403,107495,valer,107473,107476,Ich,valer
+gdc,r2r7.0,107500,107679,johann,107573,107576,mir,johann
+gdc,r2r7.0,107500,107679,johann,107597,107600,ich,johann
+gdc,r2r7.0,107684,107733,valer,107714,107718,mein,valer
+gdc,r2r7.0,107738,107915,johann,107751,107755,mein,johann
+gdc,r2r7.0,107920,107999,valer,107946,107949,ich,valer
+gdc,r2r7.0,108004,108673,johann,108086,108090,mich,johann
+gdc,r2r7.0,108004,108673,johann,108128,108131,ich,johann
+gdc,r2r7.0,108004,108673,johann,108368,108371,ich,johann
+gdc,r2r7.0,108004,108673,johann,108413,108416,ich,johann
+gdc,r2r7.0,108678,109137,valer,108690,108693,ich,valer
+gdc,r2r7.0,108678,109137,valer,108707,108710,ich,valer
+gdc,r2r7.0,108678,109137,valer,108711,108715,mich,valer
+gdc,r2r7.0,108678,109137,valer,108747,108751,mich,valer
+gdc,r2r7.0,108678,109137,valer,108752,108757,meine,valer
+gdc,r2r7.0,108678,109137,valer,108800,108803,ich,valer
+gdc,r2r7.0,108678,109137,valer,108816,108821,meine,valer
+gdc,r2r7.0,108678,109137,valer,108938,108941,ich,valer
+gdc,r2r7.0,109142,109262,johann,109186,109189,ich,johann
+gdc,r2r7.0,109336,110146,die_gräfinn,109366,109369,ich,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109382,109388,meinem,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109405,109408,Ich,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109433,109437,mein,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109578,109581,ich,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109590,109596,meinen,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109772,109778,meines,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109837,109843,meiner,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,109879,109883,Mein,die_gräfinn
+gdc,r2r7.0,109336,110146,die_gräfinn,110036,110041,meine,die_gräfinn
+gdc,r2r7.0,110151,110418,valer,110175,110178,ich,valer
+gdc,r2r7.0,110151,110418,valer,110260,110263,ich,valer
+gdc,r2r7.0,110151,110418,valer,110289,110292,mir,valer
+gdc,r2r7.0,110915,111851,valer,111015,111019,mich,valer
+gdc,r2r7.0,110915,111851,valer,111042,111045,Ich,valer
+gdc,r2r7.0,110915,111851,valer,111054,111058,mich,valer
+gdc,r2r7.0,110915,111851,valer,111482,111485,Ich,valer
+gdc,r2r7.0,110915,111851,valer,111546,111549,ich,valer
+gdc,r2r7.0,110915,111851,valer,111586,111590,mich,valer
+gdc,r2r7.0,110915,111851,valer,111644,111647,Ich,valer
+gdc,r2r7.0,110915,111851,valer,111699,111703,mich,valer
+gdc,r2r7.0,110915,111851,valer,111736,111739,mir,valer
+gdc,r2r7.0,110915,111851,valer,111779,111782,ich,valer
+gdc,r2r7.0,111856,112035,die_gräfinn,111911,111916,meine,die_gräfinn
+gdc,r2r7.0,112673,112952,die_gräfinn,112727,112733,meinen,die_gräfinn
+gdc,r2r7.0,112673,112952,die_gräfinn,112789,112792,mir,die_gräfinn
+gdc,r2r7.0,112673,112952,die_gräfinn,112793,112797,mein,die_gräfinn
+gdc,r2r7.0,112673,112952,die_gräfinn,112823,112829,meinem,die_gräfinn
+gdc,r2r7.0,112957,113313,valer,113008,113011,Ich,valer
+gdc,r2r7.0,113318,113754,die_gräfinn,113332,113335,Ich,die_gräfinn
+gdc,r2r7.0,113318,113754,die_gräfinn,113522,113525,Ich,die_gräfinn
+gdc,r2r7.0,113318,113754,die_gräfinn,113565,113568,ich,die_gräfinn
+gdc,r2r7.0,113318,113754,die_gräfinn,113630,113636,meinen,die_gräfinn
+gdc,r2r7.0,113318,113754,die_gräfinn,113685,113688,ich,die_gräfinn
+gdc,r2r7.0,113318,113754,die_gräfinn,113737,113740,mir,die_gräfinn
+gdc,r2r7.0,113759,114741,valer,114355,114358,ich,valer
+gdc,r2r7.0,113759,114741,valer,114409,114412,ich,valer
+gdc,r2r7.0,113759,114741,valer,114425,114431,meinem,valer
+gdc,r2r7.0,113759,114741,valer,114468,114472,mich,valer
+gdc,r2r7.0,113759,114741,valer,114495,114498,ich,valer
+gdc,r2r7.0,113759,114741,valer,114598,114602,mich,valer
+gdc,r2r7.0,113759,114741,valer,114660,114665,meine,valer
+gdc,r2r7.0,113759,114741,valer,114708,114712,mich,valer
+gdc,r2r7.0,114746,115522,die_gräfinn,114834,114837,ich,die_gräfinn
+gdc,r2r7.0,114746,115522,die_gräfinn,114876,114879,ich,die_gräfinn
+gdc,r2r7.0,114746,115522,die_gräfinn,114904,114907,ich,die_gräfinn
+gdc,r2r7.0,114746,115522,die_gräfinn,115127,115133,meinen,die_gräfinn
+gdc,r2r7.0,115527,116102,valer,115916,115919,Ich,valer
+gdc,r2r7.0,116107,116616,die_gräfinn,116176,116179,ich,die_gräfinn
+gdc,r2r7.0,116107,116616,die_gräfinn,116600,116604,mich,die_gräfinn
+gdc,r2r7.0,116621,116704,valer,116687,116690,ich,valer
+gdc,r2r7.0,116787,117050,der_graf,116869,116872,mir,der_graf
+gdc,r2r7.0,116787,117050,der_graf,116955,116958,ich,der_graf
+gdc,r2r7.0,116787,117050,der_graf,116959,116962,mir,der_graf
+gdc,r2r7.0,117056,117216,valer,117089,117094,Meine,valer
+gdc,r2r7.0,117056,117216,valer,117152,117155,ich,valer
+gdc,r2r7.0,117222,117343,die_gräfinn,117324,117328,mein,die_gräfinn
+gdc,r2r7.0,117348,117430,der_graf,117366,117369,ich,der_graf
+gdc,r2r7.0,117526,117659,der_graf,117537,117541,Mein,der_graf
+gdc,r2r7.0,117526,117659,der_graf,117569,117574,meine,der_graf
+gdc,r2r7.0,117526,117659,der_graf,117623,117627,mein,der_graf
+gdc,r2r7.0,117526,117659,der_graf,117634,117637,ich,der_graf
+gdc,r2r7.0,117733,118445,die_gräfinn,117792,117795,ich,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,117842,117845,mir,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,117896,117899,ich,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,117949,117952,mir,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,117972,117975,mir,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,117991,117997,meinem,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,118028,118031,ich,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,118123,118126,mir,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,118308,118311,ich,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,118312,118315,mir,die_gräfinn
+gdc,r2r7.0,117733,118445,die_gräfinn,118411,118417,meinen,die_gräfinn
+gdc,r2r7.0,118450,118670,valer,118471,118474,ich,valer
+gdc,r2r7.0,118450,118670,valer,118523,118526,mir,valer
+gdc,r2r7.0,118450,118670,valer,118539,118542,mir,valer
+gdc,r2r7.0,118450,118670,valer,118606,118609,ich,valer
+gdc,r2r7.0,118675,118812,die_gräfinn,118701,118704,ich,die_gräfinn
+gdc,r2r7.0,118675,118812,die_gräfinn,118791,118794,mir,die_gräfinn
+gdc,r2r7.0,118817,119278,valer,118843,118846,mir,valer
+gdc,r2r7.0,118817,119278,valer,119030,119034,mich,valer
+gdc,r2r7.0,118817,119278,valer,119047,119050,ich,valer
+gdc,r2r7.0,118817,119278,valer,119106,119109,ich,valer
+gdc,r2r7.0,118817,119278,valer,119114,119120,meinen,valer
+gdc,r2r7.0,118817,119278,valer,119172,119175,ich,valer
+gdc,r2r7.0,118817,119278,valer,119181,119184,mir,valer
+gdc,r2r7.0,118817,119278,valer,119198,119203,meine,valer
+gdc,r2r7.0,119283,119547,die_gräfinn,119316,119320,mich,die_gräfinn
+gdc,r2r7.0,119283,119547,die_gräfinn,119421,119424,Ich,die_gräfinn
+gdc,r2r7.0,119283,119547,die_gräfinn,119493,119497,mich,die_gräfinn
+gdc,r2r7.0,119552,119956,valer,119560,119563,Ich,valer
+gdc,r2r7.0,119552,119956,valer,119595,119598,ich,valer
+gdc,r2r7.0,119552,119956,valer,119599,119602,mir,valer
+gdc,r2r7.0,119552,119956,valer,119652,119655,ich,valer
+gdc,r2r7.0,119552,119956,valer,119666,119669,mir,valer
+gdc,r2r7.0,119552,119956,valer,119811,119814,ich,valer
+gdc,r2r7.0,119552,119956,valer,119838,119842,mich,valer
+gdc,r2r7.0,119552,119956,valer,119847,119853,meinen,valer
+gdc,r2r7.0,120087,120192,valer,120134,120137,ich,valer
+gdc,r2r7.0,120087,120192,valer,120138,120142,mich,valer
+gdc,r2r7.0,120246,120573,die_gräfinn,120353,120356,ich,die_gräfinn
+gdc,r2r7.0,120246,120573,die_gräfinn,120424,120427,mir,die_gräfinn
+gdc,r2r7.0,120246,120573,die_gräfinn,120442,120445,ich,die_gräfinn
+gdc,r2r7.0,120246,120573,die_gräfinn,120484,120487,ich,die_gräfinn
+gdc,r2r7.0,120648,120805,herrmann,120741,120744,ich,herrmann
+gdc,r2r7.0,120648,120805,herrmann,120758,120761,Ich,herrmann
+gdc,r2r7.0,120648,120805,herrmann,120797,120800,mir,herrmann
+gdc,r2r7.0,120810,120920,die_gräfinn,120902,120905,mir,die_gräfinn
+gdc,r2r7.0,120926,121291,herrmann,120947,120950,mir,herrmann
+gdc,r2r7.0,120926,121291,herrmann,120972,120975,ich,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121004,121010,meinen,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121029,121035,meinen,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121092,121095,mir,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121138,121141,ich,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121148,121152,mich,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121168,121171,ich,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121196,121199,mir,herrmann
+gdc,r2r7.0,120926,121291,herrmann,121260,121263,ich,herrmann
+gdc,r2r7.0,121296,121403,die_gräfinn,121310,121313,Ich,die_gräfinn
+gdc,r2r7.0,121296,121403,die_gräfinn,121370,121373,ich,die_gräfinn
+gdc,r2r7.0,121408,121640,herrmann,121447,121452,meine,herrmann
+gdc,r2r7.0,121645,121866,die_gräfinn,121711,121715,mich,die_gräfinn
+gdc,r2r7.0,121645,121866,die_gräfinn,121743,121746,Ich,die_gräfinn
+gdc,r2r7.0,121645,121866,die_gräfinn,121818,121821,mir,die_gräfinn
+gdc,r2r7.0,121871,122074,herrmann,121924,121927,ich,herrmann
+gdc,r2r7.0,121871,122074,herrmann,121932,121938,meiner,herrmann
+gdc,r2r7.0,122079,122126,die_gräfinn,122105,122108,mir,die_gräfinn
+gdc,r2r7.0,122331,122367,herrmann,122342,122345,Ich,herrmann
+gdc,r2r7.0,122372,122532,die_gräfinn,122386,122389,Ich,die_gräfinn
+gdc,r2r7.0,122372,122532,die_gräfinn,122396,122399,ich,die_gräfinn
+gdc,r2r7.0,122372,122532,die_gräfinn,122433,122436,ich,die_gräfinn
+gdc,r2r7.0,122537,122767,herrmann,122561,122564,ich,herrmann
+gdc,r2r7.0,122537,122767,herrmann,122657,122660,ich,herrmann
+gdc,r2r7.0,122772,123153,die_gräfinn,122812,122815,ich,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,122882,122886,mich,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,122929,122932,mir,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,122942,122945,mir,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,123002,123005,ich,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,123023,123026,ich,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,123084,123087,mir,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,123091,123097,meinem,die_gräfinn
+gdc,r2r7.0,122772,123153,die_gräfinn,123140,123146,meinem,die_gräfinn
+gdc,r2r7.0,123158,123228,herrmann,123174,123177,ich,herrmann
+gdc,r2r7.0,123158,123228,herrmann,123214,123217,ich,herrmann
+gdc,r2r7.0,123233,123600,die_gräfinn,123259,123262,ich,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123281,123284,Ich,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123343,123346,Ich,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123424,123430,meinem,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123468,123472,mich,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123494,123497,ich,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123557,123560,mir,die_gräfinn
+gdc,r2r7.0,123233,123600,die_gräfinn,123587,123593,meiner,die_gräfinn
+gdc,r2r7.0,123652,124023,herrmann,123689,123692,ich,herrmann
+gdc,r2r7.0,123652,124023,herrmann,123708,123711,ich,herrmann
+gdc,r2r7.0,123652,124023,herrmann,123785,123788,ich,herrmann
+gdc,r2r7.0,123652,124023,herrmann,123867,123870,ich,herrmann
+gdc,r2r7.0,123652,124023,herrmann,123925,123928,ich,herrmann
+gdc,r2r7.0,124089,124215,_stage,124089,124094,Valer,valer
+gdc,r2r7.0,124089,124215,_stage,124110,124118,den Saal,den-Saal
+gdc,r2r7.0,124089,124215,_stage,124124,124130,Johann,johann
+gdc,r2r7.0,124089,124215,_stage,124137,124140,ihm,valer
+gdc,r2r7.0,124089,124215,_stage,124179,124181,er,johann
+gdc,r2r7.0,124218,124272,valer,124242,124244,du,johann
+gdc,r2r7.0,124218,124272,valer,124251,124254,ich,valer
+gdc,r2r7.0,124218,124272,valer,124255,124258,dir,johann
+gdc,r2r7.0,124277,124360,johann,124326,124334,dem Wege,dem-Wege
+gdc,r2r7.0,124277,124360,johann,124340,124348,dem Wege,dem-Wege
+gdc,r2r7.0,124277,124360,johann,124349,124359,Herr Valer,valer
+gdc,r2r7.0,124365,124447,valer,124378,124381,mir,valer
+gdc,r2r7.0,124365,124447,valer,124420,124423,ich,valer
+gdc,r2r7.0,124365,124447,valer,124424,124427,dir,johann
+gdc,r2r7.0,124365,124447,valer,124432,124440,dem Wege,dem-Wege
+gdc,r2r7.0,124452,124521,johann,124468,124478,mein Bauch,mein-Bauch
+gdc,r2r7.0,124452,124521,johann,124468,124472,mein,johann
+gdc,r2r7.0,124452,124521,johann,124480,124484,mein,johann
+gdc,r2r7.0,124452,124521,johann,124500,124503,sie,valer
+gdc,r2r7.0,124452,124521,johann,124504,124508,mich,johann
+gdc,r2r7.0,124526,124606,valer,124534,124536,Du,johann
+gdc,r2r7.0,124526,124606,valer,124554,124560,deinen,johann
+gdc,r2r7.0,124526,124606,valer,124583,124585,du,johann
+gdc,r2r7.0,124611,124747,johann,124625,124628,sie,valer
+gdc,r2r7.0,124611,124747,johann,124645,124654,mein Leib,mein-Bauch
+gdc,r2r7.0,124611,124747,johann,124645,124649,mein,johann
+gdc,r2r7.0,124611,124747,johann,124673,124676,ich,johann
+gdc,r2r7.0,124611,124747,johann,124684,124688,mich,johann
+gdc,r2r7.0,124611,124747,johann,124694,124698,mich,johann
+gdc,r2r7.0,124611,124747,johann,124711,124714,ich,johann
+gdc,r2r7.0,124611,124747,johann,124718,124730,diesem Saale,den-Saal
+gdc,r2r7.0,124752,124795,valer,124764,124774,die Bestie,johann
+gdc,r2r7.0,124800,125004,johann,124815,124818,ich,johann
+gdc,r2r7.0,124800,125004,johann,124840,124843,ich,johann
+gdc,r2r7.0,124800,125004,johann,124873,124876,sie,valer
+gdc,r2r7.0,124800,125004,johann,124877,124880,mir,johann
+gdc,r2r7.0,124800,125004,johann,124926,124929,ich,johann
+gdc,r2r7.0,124800,125004,johann,124943,124945,Er,johann
+gdc,r2r7.0,124800,125004,johann,124969,124972,sie,valer
+gdc,r2r7.0,124800,125004,johann,124990,124993,ich,johann
+gdc,r2r7.0,125016,125040,_stage,125022,125025,ihm,johann
+gdc,r2r7.0,125009,125071,valer,125047,125050,ich,valer
+gdc,r2r7.0,125076,126108,johann,125085,125088,Sie,valer
+gdc,r2r7.0,125076,126108,johann,125122,125125,ich,johann
+gdc,r2r7.0,125076,126108,johann,125133,125145,Meine Backen,Meine-Backen
+gdc,r2r7.0,125076,126108,johann,125133,125138,Meine,johann
+gdc,r2r7.0,125076,126108,johann,125170,125173,sie,Meine-Backen
+gdc,r2r7.0,125076,126108,johann,125295,125298,Ich,johann
+gdc,r2r7.0,125076,126108,johann,125303,125307,mich,johann
+gdc,r2r7.0,125076,126108,johann,125335,125345,der Henker,der-Henker
+gdc,r2r7.0,125076,126108,johann,125359,125362,ich,johann
+gdc,r2r7.0,125076,126108,johann,125393,125404,die Gräfinn,die_gräfinn
+gdc,r2r7.0,125076,126108,johann,125405,125429,dem Secretair des Grafen,herrmann
+gdc,r2r7.0,125076,126108,johann,125419,125429,des Grafen,der_graf
+gdc,r2r7.0,125076,126108,johann,125441,125453,seinen Herrn,der_graf
+gdc,r2r7.0,125076,126108,johann,125441,125447,seinen,herrmann
+gdc,r2r7.0,125076,126108,johann,125466,125471,ihnen,valer
+gdc,r2r7.0,125076,126108,johann,125481,125496,dem Herrn Valer,valer
+gdc,r2r7.0,125076,126108,johann,125498,125526,den Fähndrich von Wirbelbach,
+gdc,r2r7.0,125076,126108,johann,125543,125563,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,125076,126108,johann,125590,125618,der Fähndrich von Wirbelbach,
+gdc,r2r7.0,125076,126108,johann,125620,125635,den Herrn Valer,valer
+gdc,r2r7.0,125076,126108,johann,125655,125672,der Kammerjungfer,caroline
+gdc,r2r7.0,125076,126108,johann,125678,125686,ins Haus,ins-Haus
+gdc,r2r7.0,125076,126108,johann,125707,125731,der obgenannte Secretair,herrmann
+gdc,r2r7.0,125076,126108,johann,125738,125758,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,125076,126108,johann,125793,125817,der obgenannte Secretair,herrmann
+gdc,r2r7.0,125076,126108,johann,125818,125847,der obgenannten Kammerjungfer,caroline
+gdc,r2r7.0,125076,126108,johann,125848,125851,ihr,caroline
+gdc,r2r7.0,125076,126108,johann,125867,125895,die obgenannte Kammerjungfer,caroline
+gdc,r2r7.0,125076,126108,johann,125910,125936,des obgenannten Secretairs,herrmann
+gdc,r2r7.0,125076,126108,johann,126007,126017,zum Henker,der-Henker
+gdc,r2r7.0,125076,126108,johann,126019,126022,ich,johann
+gdc,r2r7.0,125076,126108,johann,126028,126032,mich,johann
+gdc,r2r7.0,125076,126108,johann,126036,126047,der Ordnung,der-Ordnung
+gdc,r2r7.0,125076,126108,johann,126057,126060,ich,johann
+gdc,r2r7.0,126114,126177,valer,126122,126126,Hund,johann
+gdc,r2r7.0,126114,126177,valer,126133,126136,mir,valer
+gdc,r2r7.0,126114,126177,valer,126145,126148,ich,valer
+gdc,r2r7.0,126114,126177,valer,126149,126153,dich,johann
+gdc,r2r7.0,126182,126289,johann,126204,126207,ich,johann
+gdc,r2r7.0,126182,126289,johann,126208,126212,mich,johann
+gdc,r2r7.0,126182,126289,johann,126245,126248,ich,johann
+gdc,r2r7.0,126182,126289,johann,126254,126257,ich,johann
+gdc,r2r7.0,126294,126373,valer,126341,126343,du,johann
+gdc,r2r7.0,126294,126373,valer,126348,126365,der Kammerjungfer,caroline
+gdc,r2r7.0,126411,126442,johann,126427,126430,sie,valer
+gdc,r2r7.0,126447,126494,valer,126476,126479,Ich,valer
+gdc,r2r7.0,126447,126494,valer,126485,126488,dir,johann
+gdc,r2r7.0,126499,126823,johann,126508,126518,Der Henker,der-Henker
+gdc,r2r7.0,126499,126823,johann,126535,126538,ich,johann
+gdc,r2r7.0,126499,126823,johann,126542,126547,ihnen,valer
+gdc,r2r7.0,126499,126823,johann,126567,126570,Ich,johann
+gdc,r2r7.0,126499,126823,johann,126587,126614,der philosophischen Ordnung,der-Ordnung
+gdc,r2r7.0,126499,126823,johann,126675,126678,sie,valer
+gdc,r2r7.0,126499,126823,johann,126679,126683,sich,valer
+gdc,r2r7.0,126499,126823,johann,126695,126698,ich,johann
+gdc,r2r7.0,126499,126823,johann,126755,126757,es,es
+gdc,r2r7.0,126499,126823,johann,126758,126762,sich,es
+gdc,r2r7.0,126499,126823,johann,126768,126788,Johann Samuel Lorenz,johann
+gdc,r2r7.0,126499,126823,johann,126793,126805,diesem Saale,den-Saal
+gdc,r2r7.0,126499,126823,johann,126806,126811,seine,johann
+gdc,r2r7.0,126828,127186,valer,126856,126859,ich,valer
+gdc,r2r7.0,126828,127186,valer,126867,126871,mich,valer
+gdc,r2r7.0,126828,127186,valer,126877,126892,den Bärenhäuter,johann
+gdc,r2r7.0,126828,127186,valer,126905,126908,ich,valer
+gdc,r2r7.0,126828,127186,valer,126943,126946,mir,valer
+gdc,r2r7.0,126828,127186,valer,126974,126977,ich,valer
+gdc,r2r7.0,126828,127186,valer,126978,126981,dir,johann
+gdc,r2r7.0,126828,127186,valer,126983,126985,du,johann
+gdc,r2r7.0,126828,127186,valer,126998,127001,ich,valer
+gdc,r2r7.0,126828,127186,valer,127033,127035,du,johann
+gdc,r2r7.0,126828,127186,valer,127036,127039,mir,valer
+gdc,r2r7.0,126828,127186,valer,127064,127066,du,johann
+gdc,r2r7.0,126828,127186,valer,127067,127071,dich,johann
+gdc,r2r7.0,126828,127186,valer,127076,127093,der Kammerjungfer,caroline
+gdc,r2r7.0,126828,127186,valer,127109,127112,sie,caroline
+gdc,r2r7.0,126828,127186,valer,127119,127144,der unglücklichen Familie,der-unglücklichen-Familie
+gdc,r2r7.0,126828,127186,valer,127161,127164,sie,caroline
+gdc,r2r7.0,126828,127186,valer,127165,127168,dir,johann
+gdc,r2r7.0,127191,127902,johann,127209,127212,ich,johann
+gdc,r2r7.0,127191,127902,johann,127243,127246,ich,johann
+gdc,r2r7.0,127191,127902,johann,127267,127271,mein,johann
+gdc,r2r7.0,127191,127902,johann,127299,127316,der Kammerjungfer,caroline
+gdc,r2r7.0,127191,127902,johann,127338,127341,ich,johann
+gdc,r2r7.0,127191,127902,johann,127342,127345,sie,caroline
+gdc,r2r7.0,127191,127902,johann,127369,127393,dem Secretair des Grafen,herrmann
+gdc,r2r7.0,127191,127902,johann,127383,127393,des Grafen,der_graf
+gdc,r2r7.0,127191,127902,johann,127401,127408,welchem,herrmann
+gdc,r2r7.0,127191,127902,johann,127409,127412,sie,caroline
+gdc,r2r7.0,127191,127902,johann,127424,127452,ein Fähndrich von Wirbelbach,
+gdc,r2r7.0,127191,127902,johann,127486,127493,solcher,
+gdc,r2r7.0,127191,127902,johann,127505,127508,ihr,caroline
+gdc,r2r7.0,127191,127902,johann,127559,127562,sie,caroline
+gdc,r2r7.0,127191,127902,johann,127567,127582,den Herrn Valer,valer
+gdc,r2r7.0,127191,127902,johann,127588,127590,er,valer
+gdc,r2r7.0,127191,127902,johann,127591,127604,dem Secretair,herrmann
+gdc,r2r7.0,127191,127902,johann,127605,127612,das Amt,die-Rathsherrnstelle
+gdc,r2r7.0,127191,127902,johann,127665,127668,sie,
+gdc,r2r7.0,127191,127902,johann,127674,127678,ihre,
+gdc,r2r7.0,127191,127902,johann,127691,127719,den Fähndrich von Wirbelbach,
+gdc,r2r7.0,127191,127902,johann,127726,127743,die Kammerjungfer,caroline
+gdc,r2r7.0,127191,127902,johann,127757,127759,er,
+gdc,r2r7.0,127191,127902,johann,127760,127763,ihr,caroline
+gdc,r2r7.0,127191,127902,johann,127792,127795,sie,caroline
+gdc,r2r7.0,127191,127902,johann,127836,127839,sie,caroline
+gdc,r2r7.0,127191,127902,johann,127840,127855,ihren Bräutigam,herrmann
+gdc,r2r7.0,127191,127902,johann,127840,127845,ihren,caroline
+gdc,r2r7.0,127191,127902,johann,127865,127878,den Secretair,herrmann
+gdc,r2r7.0,127907,128150,valer,127915,127918,Ich,valer
+gdc,r2r7.0,127907,128150,valer,127937,127940,ich,valer
+gdc,r2r7.0,127907,128150,valer,127957,127962,meine,valer
+gdc,r2r7.0,127907,128150,valer,128000,128003,ich,valer
+gdc,r2r7.0,127907,128150,valer,128004,128019,den Licentiaten,chrysander
+gdc,r2r7.0,127907,128150,valer,128028,128031,der,chrysander
+gdc,r2r7.0,127907,128150,valer,128037,128045,zum Graf,der_graf
+gdc,r2r7.0,127907,128150,valer,128059,128062,ihn,chrysander
+gdc,r2r7.0,127907,128150,valer,128067,128073,deinen,johann
+gdc,r2r7.0,127907,128150,valer,128109,128112,ich,valer
+gdc,r2r7.0,127907,128150,valer,128117,128120,ihm,chrysander
+gdc,r2r7.0,127907,128150,valer,128125,128136,der Gräfinn,die_gräfinn
+gdc,r2r7.0,128201,128220,_stage,128201,128211,Chrysander,chrysander
+gdc,r2r7.0,128201,128220,_stage,128213,128219,Johann,johann
+gdc,r2r7.0,128223,128639,chrysander,128248,128251,mir,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128262,128265,ich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128266,128269,ihn,johann
+gdc,r2r7.0,128223,128639,chrysander,128290,128292,er,johann
+gdc,r2r7.0,128223,128639,chrysander,128297,128300,mir,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128306,128318,einen Dienst,einen-Dienst
+gdc,r2r7.0,128223,128639,chrysander,128328,128331,ich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128337,128340,ihm,johann
+gdc,r2r7.0,128223,128639,chrysander,128341,128348,solchen,einen-Dienst
+gdc,r2r7.0,128223,128639,chrysander,128363,128374,Meine Braut,fräulein_christinchen
+gdc,r2r7.0,128223,128639,chrysander,128363,128368,Meine,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128406,128409,ich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128415,128419,mich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128456,128458,er,johann
+gdc,r2r7.0,128223,128639,chrysander,128459,128463,mich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128470,128483,an einem Orte,dieser-spanischen-Wand
+gdc,r2r7.0,128223,128639,chrysander,128498,128501,ich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128515,128524,des Grafs,der_graf
+gdc,r2r7.0,128223,128639,chrysander,128529,128541,meiner Braut,fräulein_christinchen
+gdc,r2r7.0,128223,128639,chrysander,128529,128535,meiner,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128566,128569,sie,
+gdc,r2r7.0,128223,128639,chrysander,128602,128605,ich,chrysander
+gdc,r2r7.0,128223,128639,chrysander,128617,128623,Gefahr,Gefahr
+gdc,r2r7.0,128644,128756,johann,128663,128666,sie,chrysander
+gdc,r2r7.0,128644,128756,johann,128673,128688,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,128644,128756,johann,128673,128677,Ihro,chrysander
+gdc,r2r7.0,128644,128756,johann,128701,128708,welchen,Ihro-wohlweisen
+gdc,r2r7.0,128644,128756,johann,128709,128712,ich,johann
+gdc,r2r7.0,128644,128756,johann,128723,128729,meinem,johann
+gdc,r2r7.0,128761,128825,chrysander,128778,128780,er,johann
+gdc,r2r7.0,128761,128825,chrysander,128781,128785,mich,chrysander
+gdc,r2r7.0,128831,129188,johann,128840,128843,Ich,johann
+gdc,r2r7.0,128831,129188,johann,128852,128856,mich,johann
+gdc,r2r7.0,128831,129188,johann,128871,128874,Ich,johann
+gdc,r2r7.0,128831,129188,johann,128883,128892,Herr Graf,der_graf
+gdc,r2r7.0,128831,129188,johann,128948,128951,wir,
+gdc,r2r7.0,128831,129188,johann,129001,129004,sie,chrysander
+gdc,r2r7.0,128831,129188,johann,129040,129059,ihrer Jungfer Braut,fräulein_christinchen
+gdc,r2r7.0,128831,129188,johann,129040,129045,ihrer,chrysander
+gdc,r2r7.0,128831,129188,johann,129071,129074,sie,chrysander
+gdc,r2r7.0,128831,129188,johann,129075,129083,dieselbe,fräulein_christinchen
+gdc,r2r7.0,128831,129188,johann,129088,129114,keiner andern Mannspersonn,einer-Mannsperson
+gdc,r2r7.0,128831,129188,johann,129142,129152,ihre Augen,Die-Augen
+gdc,r2r7.0,128831,129188,johann,129142,129146,ihre,chrysander
+gdc,r2r7.0,129193,129653,chrysander,129212,129215,uns,
+gdc,r2r7.0,129193,129653,chrysander,129224,129227,ich,chrysander
+gdc,r2r7.0,129193,129653,chrysander,129239,129253,einige Exempel,einige-Exempel
+gdc,r2r7.0,129193,129653,chrysander,129262,129268,welche,einige-Exempel
+gdc,r2r7.0,129193,129653,chrysander,129269,129273,mich,chrysander
+gdc,r2r7.0,129193,129653,chrysander,129310,129313,ich,chrysander
+gdc,r2r7.0,129193,129653,chrysander,129314,129317,sie,fräulein_christinchen
+gdc,r2r7.0,129193,129653,chrysander,129342,129356,einem Officier,einem-Officier
+gdc,r2r7.0,129193,129653,chrysander,129361,129366,ihrer,fräulein_christinchen
+gdc,r2r7.0,129193,129653,chrysander,129375,129382,welcher,einem-Officier
+gdc,r2r7.0,129193,129653,chrysander,129398,129401,ihr,fräulein_christinchen
+gdc,r2r7.0,129193,129653,chrysander,129434,129437,ich,
+gdc,r2r7.0,129193,129653,chrysander,129438,129444,meinen,
+gdc,r2r7.0,129193,129653,chrysander,129465,129468,ich,
+gdc,r2r7.0,129193,129653,chrysander,129469,129474,ihnen,fräulein_christinchen
+gdc,r2r7.0,129193,129653,chrysander,129482,129487,meine,
+gdc,r2r7.0,129193,129653,chrysander,129511,129516,ihnen,fräulein_christinchen
+gdc,r2r7.0,129193,129653,chrysander,129549,129552,sie,fräulein_christinchen
+gdc,r2r7.0,129193,129653,chrysander,129553,129556,mir,
+gdc,r2r7.0,129193,129653,chrysander,129593,129596,ich,chrysander
+gdc,r2r7.0,129193,129653,chrysander,129616,129619,das,das
+gdc,r2r7.0,129193,129653,chrysander,129624,129627,mir,chrysander
+gdc,r2r7.0,129658,130403,johann,129671,129673,es,das
+gdc,r2r7.0,129658,130403,johann,129700,129703,sie,chrysander
+gdc,r2r7.0,129658,130403,johann,129727,129730,ich,johann
+gdc,r2r7.0,129658,130403,johann,129768,129771,ich,johann
+gdc,r2r7.0,129658,130403,johann,129772,129775,sie,chrysander
+gdc,r2r7.0,129658,130403,johann,129817,129820,sie,chrysander
+gdc,r2r7.0,129658,130403,johann,129827,129836,den Tisch,den-Tisch
+gdc,r2r7.0,129658,130403,johann,129849,129859,der Henker,der-Henker
+gdc,r2r7.0,129658,130403,johann,129888,129903,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,129658,130403,johann,129888,129892,Ihro,chrysander
+gdc,r2r7.0,129658,130403,johann,129911,129919,der Graf,der_graf
+gdc,r2r7.0,129658,130403,johann,129931,129942,ihrer Braut,fräulein_christinchen
+gdc,r2r7.0,129658,130403,johann,129931,129936,ihrer,chrysander
+gdc,r2r7.0,129658,130403,johann,129984,129993,der Tisch,den-Tisch
+gdc,r2r7.0,129658,130403,johann,130021,130024,ich,johann
+gdc,r2r7.0,129658,130403,johann,130082,130085,sie,chrysander
+gdc,r2r7.0,129658,130403,johann,130092,130094,Er,johann
+gdc,r2r7.0,129658,130403,johann,130101,130105,sich,johann
+gdc,r2r7.0,129658,130403,johann,130147,130169,dieser spanischen Wand,dieser-spanischen-Wand
+gdc,r2r7.0,129658,130403,johann,130177,130180,sie,chrysander
+gdc,r2r7.0,129658,130403,johann,130217,130227,der Teufel,der-Teufel
+gdc,r2r7.0,129658,130403,johann,130229,130237,der Graf,der_graf
+gdc,r2r7.0,129658,130403,johann,130268,130271,sie,chrysander
+gdc,r2r7.0,129658,130403,johann,130272,130276,sich,chrysander
+gdc,r2r7.0,129658,130403,johann,130278,130281,ich,johann
+gdc,r2r7.0,129658,130403,johann,130287,130292,ihnen,chrysander
+gdc,r2r7.0,130349,130403,_stage,130349,130355,Johann,johann
+gdc,r2r7.0,130349,130403,_stage,130360,130370,Chrysander,chrysander
+gdc,r2r7.0,130349,130403,_stage,130384,130402,die spanische Wand,dieser-spanischen-Wand
+gdc,r2r7.0,130455,130504,_stage,130455,130463,Der Graf,der_graf
+gdc,r2r7.0,130455,130504,_stage,130465,130473,Herrmann,herrmann
+gdc,r2r7.0,130455,130504,_stage,130475,130485,Chrysander,chrysander
+gdc,r2r7.0,130455,130504,_stage,130487,130493,Johann,johann
+gdc,r2r7.0,130507,130711,der_graf,130518,130521,Ich,der_graf
+gdc,r2r7.0,130507,130711,der_graf,130554,130558,mich,der_graf
+gdc,r2r7.0,130507,130711,der_graf,130570,130576,meinem,der_graf
+gdc,r2r7.0,130507,130711,der_graf,130603,130606,Ich,der_graf
+gdc,r2r7.0,130507,130711,der_graf,130645,130658,Der Licentiat,chrysander
+gdc,r2r7.0,130507,130711,der_graf,130664,130684,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,130507,130711,der_graf,130699,130710,kein andrer,kein-andrer
+gdc,r2r7.0,130724,130739,_stage,130724,130738,zum Chrysander,chrysander
+gdc,r2r7.0,130716,130783,johann,130748,130751,sie,chrysander
+gdc,r2r7.0,130716,130783,johann,130753,130756,ich,johann
+gdc,r2r7.0,130716,130783,johann,130767,130782,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,130716,130783,johann,130767,130771,Ihro,chrysander
+gdc,r2r7.0,130788,130944,herrmann,130799,130813,Ihro Excellenz,der_graf
+gdc,r2r7.0,130788,130944,herrmann,130863,130876,Der Licentiat,chrysander
+gdc,r2r7.0,130788,130944,herrmann,130912,130915,ich,herrmann
+gdc,r2r7.0,130788,130944,herrmann,130919,130925,meinem,herrmann
+gdc,r2r7.0,130957,130972,_stage,130957,130971,zum Chrysander,chrysander
+gdc,r2r7.0,130949,131005,johann,130975,130978,Ich,johann
+gdc,r2r7.0,130949,131005,johann,130989,131004,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,130949,131005,johann,130989,130993,Ihro,chrysander
+gdc,r2r7.0,131010,131556,der_graf,131078,131083,einen,kein-andrer
+gdc,r2r7.0,131010,131556,der_graf,131195,131198,ich,der_graf
+gdc,r2r7.0,131010,131556,der_graf,131202,131208,meinem,der_graf
+gdc,r2r7.0,131010,131556,der_graf,131265,131278,Der Licentiat,chrysander
+gdc,r2r7.0,131010,131556,der_graf,131289,131291,er,chrysander
+gdc,r2r7.0,131010,131556,der_graf,131296,131313,eine schöne Braut,fräulein_christinchen
+gdc,r2r7.0,131010,131556,der_graf,131319,131322,wer,kein-andrer
+gdc,r2r7.0,131010,131556,der_graf,131383,131386,der,kein-andrer
+gdc,r2r7.0,131010,131556,der_graf,131392,131396,sich,kein-andrer
+gdc,r2r7.0,131010,131556,der_graf,131406,131414,der Welt,der-Welt
+gdc,r2r7.0,131010,131556,der_graf,131421,131424,ich,der_graf
+gdc,r2r7.0,131010,131556,der_graf,131443,131445,er,herrmann
+gdc,r2r7.0,131010,131556,der_graf,131446,131461,den Licentiaten,chrysander
+gdc,r2r7.0,131010,131556,der_graf,131466,131469,mir,der_graf
+gdc,r2r7.0,131010,131556,der_graf,131488,131490,er,herrmann
+gdc,r2r7.0,131010,131556,der_graf,131497,131500,ihn,chrysander
+gdc,r2r7.0,131010,131556,der_graf,131505,131508,mir,der_graf
+gdc,r2r7.0,131010,131556,der_graf,131524,131528,sich,herrmann
+gdc,r2r7.0,131010,131556,der_graf,131532,131537,seine,chrysander
+gdc,r2r7.0,131561,132027,herrmann,131572,131586,Ihro Excellenz,der_graf
+gdc,r2r7.0,131561,132027,herrmann,131588,131591,ich,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131610,131613,ich,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131628,131633,meine,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131651,131679,andrer Leute Verkleinerungen,andrer-Leute-Verkleinerungen
+gdc,r2r7.0,131561,132027,herrmann,131651,131663,andrer Leute,chrysander
+gdc,r2r7.0,131561,132027,herrmann,131689,131692,Sie,der_graf
+gdc,r2r7.0,131561,132027,herrmann,131701,131710,dieselben,andrer-Leute-Verkleinerungen
+gdc,r2r7.0,131561,132027,herrmann,131733,131736,ich,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131737,131740,sie,andrer-Leute-Verkleinerungen
+gdc,r2r7.0,131561,132027,herrmann,131741,131746,ihnen,der_graf
+gdc,r2r7.0,131561,132027,herrmann,131768,131771,sie,der_graf
+gdc,r2r7.0,131561,132027,herrmann,131792,131796,mich,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131810,131813,Ich,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131837,131840,ich,herrmann
+gdc,r2r7.0,131561,132027,herrmann,131851,131856,ihrer,der_graf
+gdc,r2r7.0,131561,132027,herrmann,131887,132026,"Valer, ein sehr geschickter Candidat, welcher die Rathsherrnstelle zum wenigsten weit mehr zu ihrem Ruhm bekleiden würde, als der Licentiat",valer
+gdc,r2r7.0,131561,132027,herrmann,131933,131953,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,131561,132027,herrmann,131981,131986,ihrem,der_graf
+gdc,r2r7.0,131561,132027,herrmann,132013,132026,der Licentiat,chrysander
+gdc,r2r7.0,132032,132113,der_graf,132055,132057,er,herrmann
+gdc,r2r7.0,132032,132113,der_graf,132058,132067,den Valer,valer
+gdc,r2r7.0,132032,132113,der_graf,132077,132080,ihm,herrmann
+gdc,r2r7.0,132032,132113,der_graf,132081,132104,dessen Geschicklichkeit,dessen-Geschicklichkeit
+gdc,r2r7.0,132032,132113,der_graf,132081,132087,dessen,valer
+gdc,r2r7.0,132118,132216,herrmann,132129,132132,Ich,herrmann
+gdc,r2r7.0,132118,132216,herrmann,132139,132142,ihn,valer
+gdc,r2r7.0,132118,132216,herrmann,132157,132160,ich,herrmann
+gdc,r2r7.0,132118,132216,herrmann,132169,132173,mich,herrmann
+gdc,r2r7.0,132118,132216,herrmann,132184,132187,ich,herrmann
+gdc,r2r7.0,132118,132216,herrmann,132188,132191,ihn,valer
+gdc,r2r7.0,132221,132298,der_graf,132236,132238,er,herrmann
+gdc,r2r7.0,132221,132298,der_graf,132274,132297,seiner Geschicklichkeit,dessen-Geschicklichkeit
+gdc,r2r7.0,132221,132298,der_graf,132274,132280,seiner,valer
+gdc,r2r7.0,132303,132481,herrmann,132314,132327,Dero Gemalinn,die_gräfinn
+gdc,r2r7.0,132303,132481,herrmann,132314,132318,Dero,der_graf
+gdc,r2r7.0,132303,132481,herrmann,132332,132336,mich,herrmann
+gdc,r2r7.0,132303,132481,herrmann,132346,132362,seine Verdienste,seine-Verdienste
+gdc,r2r7.0,132303,132481,herrmann,132346,132351,seine,valer
+gdc,r2r7.0,132303,132481,herrmann,132382,132385,sie,die_gräfinn
+gdc,r2r7.0,132303,132481,herrmann,132391,132400,dieselben,seine-Verdienste
+gdc,r2r7.0,132303,132481,herrmann,132420,132423,sie,die_gräfinn
+gdc,r2r7.0,132303,132481,herrmann,132451,132474,seiner Geschicklichkeit,dessen-Geschicklichkeit
+gdc,r2r7.0,132303,132481,herrmann,132451,132457,seiner,valer
+gdc,r2r7.0,132486,132649,der_graf,132501,132504,ich,der_graf
+gdc,r2r7.0,132486,132649,der_graf,132520,132534,meine Gemalinn,die_gräfinn
+gdc,r2r7.0,132486,132649,der_graf,132520,132525,meine,der_graf
+gdc,r2r7.0,132486,132649,der_graf,132550,132566,einen Candidaten,valer
+gdc,r2r7.0,132486,132649,der_graf,132616,132634,wer von uns beyden,
+gdc,r2r7.0,132654,132730,herrmann,132665,132668,Ich,herrmann
+gdc,r2r7.0,132654,132730,herrmann,132695,132709,welche Parthey,die_gräfinn
+gdc,r2r7.0,132735,132762,der_graf,132750,132756,welche,die_gräfinn
+gdc,r2r7.0,132767,132817,herrmann,132789,132816,"die stärkste, Ihre Gemalinn",die_gräfinn
+gdc,r2r7.0,132822,132892,der_graf,132842,132844,er,herrmann
+gdc,r2r7.0,132822,132892,der_graf,132850,132864,meine Gemalinn,die_gräfinn
+gdc,r2r7.0,132822,132892,der_graf,132850,132855,meine,der_graf
+gdc,r2r7.0,132822,132892,der_graf,132888,132891,ich,der_graf
+gdc,r2r7.0,132897,133793,herrmann,132915,132925,der Himmel,der-Himmel
+gdc,r2r7.0,132897,133793,herrmann,132930,132944,Ihro Excellenz,der_graf
+gdc,r2r7.0,132897,133793,herrmann,132982,132996,die ganze Welt,der-Welt
+gdc,r2r7.0,132897,133793,herrmann,133002,133006,sich,der-Welt
+gdc,r2r7.0,132897,133793,herrmann,133012,133016,ihre,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133034,133052,ihre Frau Gemalinn,die_gräfinn
+gdc,r2r7.0,132897,133793,herrmann,133034,133038,ihre,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133058,133061,man,kein-andrer
+gdc,r2r7.0,132897,133793,herrmann,133136,133139,man,kein-andrer
+gdc,r2r7.0,132897,133793,herrmann,133140,133156,einen Taugenicht,einen-Taugenicht
+gdc,r2r7.0,132897,133793,herrmann,133175,133178,der,einen-Taugenicht
+gdc,r2r7.0,132897,133793,herrmann,133219,133222,man,kein-andrer
+gdc,r2r7.0,132897,133793,herrmann,133224,133226,er,einen-Taugenicht
+gdc,r2r7.0,132897,133793,herrmann,133235,133248,dero Gemalinn,die_gräfinn
+gdc,r2r7.0,132897,133793,herrmann,133235,133239,dero,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133268,133277,Dieselben,Dieselben
+gdc,r2r7.0,132897,133793,herrmann,133322,133337,der ganzen Welt,der-Welt
+gdc,r2r7.0,132897,133793,herrmann,133367,133370,sie,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133371,133421,die mir schon so oft versprochene Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,132897,133793,herrmann,133375,133378,mir,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133453,133458,meine,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133479,133482,Ich,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133543,133548,ihrer,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133558,133569,die Spötter,Dieselben
+gdc,r2r7.0,132897,133793,herrmann,133591,133595,mich,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133635,133638,ich,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133639,133644,ihnen,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133645,133665,einen meiner Freunde,einen-meiner-Freunde
+gdc,r2r7.0,132897,133793,herrmann,133651,133657,meiner,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133669,133675,meiner,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133692,133695,der,einen-meiner-Freunde
+gdc,r2r7.0,132897,133793,herrmann,133696,133700,ihre,der_graf
+gdc,r2r7.0,132897,133793,herrmann,133749,133752,ich,herrmann
+gdc,r2r7.0,132897,133793,herrmann,133765,133770,meine,herrmann
+gdc,r2r7.0,133798,133958,der_graf,133817,133820,ich,der_graf
+gdc,r2r7.0,133798,133958,der_graf,133860,133862,er,herrmann
+gdc,r2r7.0,133798,133958,der_graf,133863,133867,mich,der_graf
+gdc,r2r7.0,133798,133958,der_graf,133885,133888,ich,der_graf
+gdc,r2r7.0,133798,133958,der_graf,133897,133908,eine Person,
+gdc,r2r7.0,133798,133958,der_graf,133917,133920,die,
+gdc,r2r7.0,133798,133958,der_graf,133921,133925,mich,der_graf
+gdc,r2r7.0,134009,134071,_stage,134009,134030,Fräulein Christinchen,fräulein_christinchen
+gdc,r2r7.0,134009,134071,_stage,134032,134040,Der Graf,der_graf
+gdc,r2r7.0,134009,134071,_stage,134042,134052,Chrysander,chrysander
+gdc,r2r7.0,134009,134071,_stage,134054,134060,Johann,johann
+gdc,r2r7.0,134082,134097,_stage,134082,134096,zum Chrysander,chrysander
+gdc,r2r7.0,134074,134163,johann,134112,134115,sie,chrysander
+gdc,r2r7.0,134074,134163,johann,134147,134157,ihre Braut,fräulein_christinchen
+gdc,r2r7.0,134074,134163,johann,134147,134151,ihre,chrysander
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134192,134214,Unterthänige Dienerinn,fräulein_christinchen
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134215,134229,Ihro Excellenz,der_graf
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134231,134234,Sie,der_graf
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134259,134263,mich,fräulein_christinchen
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134270,134285,den Licentiaten,chrysander
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134289,134293,sich,der_graf
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134315,134318,ich,fräulein_christinchen
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134332,134339,Ehrgeiz,Ehrgeiz
+gdc,r2r7.0,134168,134372,fräulein_christinchen,134340,134354,Ihro Excellenz,der_graf
+gdc,r2r7.0,134386,134401,_stage,134386,134400,zum Chrysander,chrysander
+gdc,r2r7.0,134378,134438,johann,134425,134437,keine Gefahr,Gefahr
+gdc,r2r7.0,134443,135342,der_graf,134466,134477,ihr Ehrgeiz,Ehrgeiz
+gdc,r2r7.0,134443,135342,der_graf,134466,134469,ihr,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134496,134499,ich,der_graf
+gdc,r2r7.0,134443,135342,der_graf,134500,134505,Ihnen,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134530,134539,denselben,Ehrgeiz
+gdc,r2r7.0,134443,135342,der_graf,134563,134566,sie,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134567,134571,sich,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134572,134589,gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134591,134594,ich,der_graf
+gdc,r2r7.0,134443,135342,der_graf,134614,134619,Ihnen,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134701,134714,Der Licentiat,chrysander
+gdc,r2r7.0,134443,135342,der_graf,134736,134739,ihr,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134748,134752,ihre,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134783,134787,ihre,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134802,134807,ihrem,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134829,134832,Sie,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134843,134846,ich,der_graf
+gdc,r2r7.0,134443,135342,der_graf,134860,134893,des Licentiaten versprochne Braut,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134860,134875,des Licentiaten,chrysander
+gdc,r2r7.0,134443,135342,der_graf,134904,134907,sie,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134908,134911,mir,der_graf
+gdc,r2r7.0,134443,135342,der_graf,134927,134932,ihren,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,134952,134955,Ich,der_graf
+gdc,r2r7.0,134443,135342,der_graf,134965,134979,die Verliebten,
+gdc,r2r7.0,134443,135342,der_graf,135012,135015,mir,der_graf
+gdc,r2r7.0,134443,135342,der_graf,135022,135026,ihre,
+gdc,r2r7.0,134443,135342,der_graf,135039,135059,das süsse Angedenken,das-süsse-Angedenken
+gdc,r2r7.0,134443,135342,der_graf,135064,135082,den wenigen Wochen,den-wenigen-Wochen
+gdc,r2r7.0,134443,135342,der_graf,135096,135103,welchen,den-wenigen-Wochen
+gdc,r2r7.0,134443,135342,der_graf,135104,135107,ich,der_graf
+gdc,r2r7.0,134443,135342,der_graf,135114,135128,meine Gemalinn,die_gräfinn
+gdc,r2r7.0,134443,135342,der_graf,135114,135119,meine,der_graf
+gdc,r2r7.0,134443,135342,der_graf,135158,135165,solches,das-süsse-Angedenken
+gdc,r2r7.0,134443,135342,der_graf,135206,135209,sie,die_gräfinn
+gdc,r2r7.0,134443,135342,der_graf,135210,135213,mir,der_graf
+gdc,r2r7.0,134443,135342,der_graf,135238,135241,sie,die_gräfinn
+gdc,r2r7.0,134443,135342,der_graf,135257,135260,mir,der_graf
+gdc,r2r7.0,134443,135342,der_graf,135276,135279,Wer,
+gdc,r2r7.0,134443,135342,der_graf,135290,135295,ihnen,
+gdc,r2r7.0,134443,135342,der_graf,135296,135316,die verliebte Person,die-verliebte-Person
+gdc,r2r7.0,134443,135342,der_graf,135318,135321,Sie,fräulein_christinchen
+gdc,r2r7.0,134443,135342,der_graf,135328,135341,der Licentiat,chrysander
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135426,135441,mein Geschlecht,mein-Geschlecht
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135426,135430,mein,fräulein_christinchen
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135448,135451,ich,fräulein_christinchen
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135452,135454,es,die-verliebte-Person
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135461,135464,ich,fräulein_christinchen
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135471,135485,Ihro Excellenz,der_graf
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135535,135538,sie,der_graf
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135600,135613,Die Eitelkeit,Die-Eitelkeit
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135618,135623,unser,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135647,135664,der Mannspersonen,der-Mannspersonen
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135675,135683,dieselbe,Die-Eitelkeit
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135695,135709,Ihr Geschlecht,der-Mannspersonen
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135695,135698,Ihr,der_graf
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135750,135761,das unsrige,mein-Geschlecht
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135754,135761,unsrige,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135803,135807,ihre,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135839,135842,wir,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135843,135846,uns,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135917,135930,unsre Anbeter,unsre-Anbeter
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135917,135922,unsre,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135934,135939,ihrer,unsre-Anbeter
+gdc,r2r7.0,135347,136025,fräulein_christinchen,135966,135971,unsre,
+gdc,r2r7.0,135347,136025,fräulein_christinchen,136007,136010,ihr,unsre-Anbeter
+gdc,r2r7.0,136030,136744,der_graf,136053,136056,Die,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136062,136065,mir,der_graf
+gdc,r2r7.0,136030,136744,der_graf,136085,136088,die,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136105,136117,Zur Fräulein,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136119,136122,Ich,der_graf
+gdc,r2r7.0,136030,136744,der_graf,136132,136153,sie gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136155,136158,sie,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136177,136181,sich,mein-Geschlecht
+gdc,r2r7.0,136030,136744,der_graf,136182,136198,die Frauenzimmer,mein-Geschlecht
+gdc,r2r7.0,136030,136744,der_graf,136226,136232,Rollen,Rollen
+gdc,r2r7.0,136030,136744,der_graf,136249,136255,welche,Rollen
+gdc,r2r7.0,136030,136744,der_graf,136267,136281,allem Gewinsel,allem-Gewinsel
+gdc,r2r7.0,136030,136744,der_graf,136293,136296,das,allem-Gewinsel
+gdc,r2r7.0,136030,136744,der_graf,136297,136301,ihre,
+gdc,r2r7.0,136030,136744,der_graf,136328,136333,ihren,
+gdc,r2r7.0,136030,136744,der_graf,136408,136421,die Absichten,die-Absichten
+gdc,r2r7.0,136030,136744,der_graf,136433,136439,welche,die-Absichten
+gdc,r2r7.0,136030,136744,der_graf,136516,136519,sie,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136526,136648,"den rechten Witz, den wir Mannspersonen an einem Frauenzimmer um so viel heftiger verehren, je gefährlicher er für uns ist","den-rechten-Witz,-den-wir-Mannspersonen-an-einem-Frauenzimmer-um-so-viel-heftiger-verehren,-je-gefährlicher-er-für-uns-ist"
+gdc,r2r7.0,136030,136744,der_graf,136548,136565,wir Mannspersonen,der-Mannspersonen
+gdc,r2r7.0,136030,136744,der_graf,136548,136551,wir,
+gdc,r2r7.0,136030,136744,der_graf,136634,136636,er,"den-rechten-Witz,-den-wir-Mannspersonen-an-einem-Frauenzimmer-um-so-viel-heftiger-verehren,-je-gefährlicher-er-für-uns-ist"
+gdc,r2r7.0,136030,136744,der_graf,136641,136644,uns,
+gdc,r2r7.0,136030,136744,der_graf,136668,136671,ich,der_graf
+gdc,r2r7.0,136030,136744,der_graf,136685,136688,sie,fräulein_christinchen
+gdc,r2r7.0,136030,136744,der_graf,136689,136704,den Licentiaten,chrysander
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136776,136778,er,chrysander
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136787,136802,ein ganzer Narr,ein-ganzer-Narr
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136816,136818,er,chrysander
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136875,136887,diesen Namen,ein-ganzer-Narr
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136913,136917,sich,der_graf
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136918,136932,Ihro Excellenz,der_graf
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136956,136958,er,chrysander
+gdc,r2r7.0,136749,137081,fräulein_christinchen,136986,136988,Er,chrysander
+gdc,r2r7.0,136749,137081,fräulein_christinchen,137016,137019,ich,fräulein_christinchen
+gdc,r2r7.0,136749,137081,fräulein_christinchen,137020,137023,mir,fräulein_christinchen
+gdc,r2r7.0,136749,137081,fräulein_christinchen,137028,137034,meinem,fräulein_christinchen
+gdc,r2r7.0,136749,137081,fräulein_christinchen,137046,137049,ihn,chrysander
+gdc,r2r7.0,137086,137112,chrysander,137099,137102,Ich,chrysander
+gdc,r2r7.0,137117,137201,johann,137160,137163,sie,chrysander
+gdc,r2r7.0,137206,137292,der_graf,137232,137235,sie,fräulein_christinchen
+gdc,r2r7.0,137206,137292,der_graf,137236,137240,sich,fräulein_christinchen
+gdc,r2r7.0,137206,137292,der_graf,137262,137278,solchen Menschen,chrysander
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137333,137347,Ihro Excellenz,der_graf
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137356,137360,mich,fräulein_christinchen
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137413,137423,die Narren,zum-halben-Narren-/-chrysander
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137434,137440,meinem,fräulein_christinchen
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137478,137515,ein Ehmann der allzuviel Verstand hat,ein-Ehmann-der-allzuviel-Verstand-hat
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137534,137545,sein eigner,ein-Ehmann-der-allzuviel-Verstand-hat
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137568,137574,seiner,ein-Ehmann-der-allzuviel-Verstand-hat
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137588,137592,mich,fräulein_christinchen
+gdc,r2r7.0,137297,137632,fräulein_christinchen,137593,137603,der Himmel,der-Himmel
+gdc,r2r7.0,137637,138152,der_graf,137660,137663,Die,fräulein_christinchen
+gdc,r2r7.0,137637,138152,der_graf,137684,137690,meinem,der_graf
+gdc,r2r7.0,137637,138152,der_graf,137709,137712,Sie,fräulein_christinchen
+gdc,r2r7.0,137637,138152,der_graf,137726,137743,gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,137637,138152,der_graf,137755,137769,meine Gemalinn,die_gräfinn
+gdc,r2r7.0,137637,138152,der_graf,137755,137760,meine,der_graf
+gdc,r2r7.0,137637,138152,der_graf,137770,137774,ihre,fräulein_christinchen
+gdc,r2r7.0,137637,138152,der_graf,137806,137809,sie,die_gräfinn
+gdc,r2r7.0,137637,138152,der_graf,137828,137838,einen Mann,der_graf
+gdc,r2r7.0,137637,138152,der_graf,137852,137855,der,der_graf
+gdc,r2r7.0,137637,138152,der_graf,137856,137861,ihrer,die_gräfinn
+gdc,r2r7.0,137637,138152,der_graf,137905,137908,Ich,der_graf
+gdc,r2r7.0,137637,138152,der_graf,137956,137973,unsre Gesinnungen,unsre-Gesinnungen
+gdc,r2r7.0,137637,138152,der_graf,137956,137961,unsre,
+gdc,r2r7.0,137637,138152,der_graf,137974,137978,sich,unsre-Gesinnungen
+gdc,r2r7.0,137637,138152,der_graf,138033,138036,wir,
+gdc,r2r7.0,137637,138152,der_graf,138059,138065,unserm,
+gdc,r2r7.0,137637,138152,der_graf,138087,138090,sie,fräulein_christinchen
+gdc,r2r7.0,137637,138152,der_graf,138125,138138,der Licentiat,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138202,138212,der Narren,zum-halben-Narren-/-chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138217,138219,er,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138220,138233,diesen Fehler,diesen-Fehler
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138237,138241,sich,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138247,138250,der,diesen-Fehler
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138257,138262,seine,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138329,138331,er,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138353,138357,sich,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138358,138375,seiner Eyfersucht,diesen-Fehler
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138358,138364,seiner,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138396,138398,er,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138477,138494,seiner Eyfersucht,diesen-Fehler
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138477,138483,seiner,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138500,138503,ich,fräulein_christinchen
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138535,138538,wir,
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138602,138604,er,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138605,138614,den einen,einem-Officier
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138626,138629,mir,fräulein_christinchen
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138660,138663,ich,fräulein_christinchen
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138715,138718,ihm,chrysander
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138776,138804,ein sehr unschuldiges Mädgen,ein-sehr-unschuldiges-Mädgen
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138811,138814,die,ein-sehr-unschuldiges-Mädgen
+gdc,r2r7.0,138157,138841,fräulein_christinchen,138815,138818,ihn,chrysander
+gdc,r2r7.0,138846,138930,chrysander,138859,138865,Bestie,fräulein_christinchen
+gdc,r2r7.0,138846,138930,chrysander,138867,138869,du,fräulein_christinchen
+gdc,r2r7.0,138846,138930,chrysander,138876,138880,mich,chrysander
+gdc,r2r7.0,138846,138930,chrysander,138908,138911,ich,chrysander
+gdc,r2r7.0,138846,138930,chrysander,138916,138919,dir,fräulein_christinchen
+gdc,r2r7.0,138936,138977,johann,138953,138968,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,138936,138977,johann,138953,138957,Ihro,chrysander
+gdc,r2r7.0,138982,139387,der_graf,139005,139022,gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,138982,139387,der_graf,139024,139037,der Licentiat,chrysander
+gdc,r2r7.0,138982,139387,der_graf,139122,139198,"Mein Herz, welches ihn daher mehr, als einen Menschen aus der Welt, beneidet","Mein-Herz,-welches-ihn-daher-mehr,-als-einen-Menschen-aus-der-Welt,-beneidet"
+gdc,r2r7.0,138982,139387,der_graf,139122,139126,Mein,der_graf
+gdc,r2r7.0,138982,139387,der_graf,139141,139144,ihn,chrysander
+gdc,r2r7.0,138982,139387,der_graf,139180,139188,der Welt,der-Welt
+gdc,r2r7.0,138982,139387,der_graf,139206,139211,seine,"Mein-Herz,-welches-ihn-daher-mehr,-als-einen-Menschen-aus-der-Welt,-beneidet"
+gdc,r2r7.0,138982,139387,der_graf,139250,139253,sie,fräulein_christinchen
+gdc,r2r7.0,138982,139387,der_graf,139254,139256,es,"Mein-Herz,-welches-ihn-daher-mehr,-als-einen-Menschen-aus-der-Welt,-beneidet"
+gdc,r2r7.0,138982,139387,der_graf,139293,139307,einen Menschen,chrysander
+gdc,r2r7.0,138982,139387,der_graf,139336,139354,so kostbarer Güter,so-kostbarer-Güter
+gdc,r2r7.0,138982,139387,der_graf,139365,139368,die,so-kostbarer-Güter
+gdc,r2r7.0,138982,139387,der_graf,139369,139371,er,chrysander
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139416,139430,Ihro Excellenz,der_graf
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139443,139448,ihrem,der_graf
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139463,139472,ein Feuer,ein-Feuer
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139487,139494,welches,ein-Feuer
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139515,139521,meinem,fräulein_christinchen
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139571,139586,des Licentiaten,chrysander
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139588,139618,Ein vor Liebe unbändiger Greiß,der_graf
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139626,139632,meinen,fräulein_christinchen
+gdc,r2r7.0,139392,139703,fräulein_christinchen,139662,139702,ein vor Ehrbarkeit kaltsinniger Jüngling,chrysander
+gdc,r2r7.0,139708,139826,johann,139717,139726,Die Augen,Die-Augen
+gdc,r2r7.0,139708,139826,johann,139732,139747,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,139708,139826,johann,139732,139736,Ihro,chrysander
+gdc,r2r7.0,139708,139826,johann,139748,139751,sie,
+gdc,r2r7.0,139708,139826,johann,139765,139770,etwas,etwas
+gdc,r2r7.0,139708,139826,johann,139790,139793,das,etwas
+gdc,r2r7.0,139708,139826,johann,139794,139799,ihnen,chrysander
+gdc,r2r7.0,139831,140038,der_graf,139879,139896,gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,139831,140038,der_graf,139903,139908,ihnen,fräulein_christinchen
+gdc,r2r7.0,139831,140038,der_graf,139914,139924,mein Feuer,ein-Feuer
+gdc,r2r7.0,139831,140038,der_graf,139914,139918,mein,der_graf
+gdc,r2r7.0,139831,140038,der_graf,139944,139947,sie,fräulein_christinchen
+gdc,r2r7.0,139831,140038,der_graf,139965,139974,desselben,ein-Feuer
+gdc,r2r7.0,139831,140038,der_graf,139994,139997,ich,der_graf
+gdc,r2r7.0,139831,140038,der_graf,140002,140012,einen Mund,einen-Mund
+gdc,r2r7.0,139831,140038,der_graf,140025,140032,welchen,einen-Mund
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140075,140089,Ihro Excellenz,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140091,140094,sie,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140128,140131,ich,fräulein_christinchen
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140148,140152,mein,fräulein_christinchen
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140181,140193,ihre Flammen,ihre-Flammen
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140181,140185,ihre,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140212,140216,mein,fräulein_christinchen
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140227,140232,Ihnen,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140251,140254,sie,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140255,140259,sich,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140327,140332,ihren,der_graf
+gdc,r2r7.0,140043,140355,fräulein_christinchen,140342,140345,mir,fräulein_christinchen
+gdc,r2r7.0,140361,140555,der_graf,140375,140380,ihnen,fräulein_christinchen
+gdc,r2r7.0,140361,140555,der_graf,140401,140404,ich,der_graf
+gdc,r2r7.0,140361,140555,der_graf,140405,140408,sie,fräulein_christinchen
+gdc,r2r7.0,140361,140555,der_graf,140429,140432,ich,der_graf
+gdc,r2r7.0,140361,140555,der_graf,140433,140438,Ihnen,fräulein_christinchen
+gdc,r2r7.0,140361,140555,der_graf,140443,140449,meiner,der_graf
+gdc,r2r7.0,140361,140555,der_graf,140463,140468,ihren,fräulein_christinchen
+gdc,r2r7.0,140361,140555,der_graf,140484,140495,kein andrer,kein-andrer
+gdc,r2r7.0,140361,140555,der_graf,140500,140513,der Licentiat,chrysander
+gdc,r2r7.0,140361,140555,der_graf,140515,140535,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140584,140598,Ihro Excellenz,der_graf
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140619,140622,sie,der_graf
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140623,140626,mir,fräulein_christinchen
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140647,140650,mir,fräulein_christinchen
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140676,140689,der Licentiat,chrysander
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140690,140703,die Bedienung,die-Rathsherrnstelle
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140724,140727,Ich,fräulein_christinchen
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140733,140737,mich,fräulein_christinchen
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140767,140770,ihm,chrysander
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140825,140828,ich,fräulein_christinchen
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140844,140847,man,kein-andrer
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140854,140874,einen solchen Schöps,chrysander
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140912,140915,ich,fräulein_christinchen
+gdc,r2r7.0,140560,140965,fräulein_christinchen,140935,140939,mein,fräulein_christinchen
+gdc,r2r7.0,140970,141009,johann,140979,140982,Ich,johann
+gdc,r2r7.0,140970,141009,johann,140993,141008,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,140970,141009,johann,140993,140997,Ihro,chrysander
+gdc,r2r7.0,141014,141081,der_graf,141041,141044,ihr,fräulein_christinchen
+gdc,r2r7.0,141014,141081,der_graf,141052,141067,den Licentiaten,chrysander
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141124,141127,Ich,fräulein_christinchen
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141133,141137,mich,fräulein_christinchen
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141146,141149,ihm,chrysander
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141169,141172,ich,fräulein_christinchen
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141173,141176,ihn,chrysander
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141221,141227,seinen,chrysander
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141243,141246,ich,fräulein_christinchen
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141247,141251,mich,fräulein_christinchen
+gdc,r2r7.0,141086,141287,fräulein_christinchen,141276,141279,ihm,chrysander
+gdc,r2r7.0,141292,141341,chrysander,141305,141308,Das,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141395,141398,Ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141403,141408,ihnen,der_graf
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141423,141426,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141435,141456,einen solchen Abscheu,einen-solchen-Abscheu
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141461,141472,der Heyrath,der-Heyrath
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141490,141493,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141494,141498,mich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141520,141524,mich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141565,141582,einer Mannsperson,einer-Mannsperson
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141626,141629,mir,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141676,141679,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141706,141709,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141720,141734,Ihro Excellenz,der_graf
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141776,141779,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141800,141818,meinem Geschlechts,mein-Geschlecht
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141800,141806,meinem,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141851,141854,sie,der_graf
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141868,141871,Mir,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141879,141885,meinem,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141936,141939,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141952,141966,Ihro Excellenz,der_graf
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141988,141991,ich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,141998,142002,mich,fräulein_christinchen
+gdc,r2r7.0,141346,142049,fräulein_christinchen,142025,142030,ihnen,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142077,142087,Der Teufel,der-Teufel
+gdc,r2r7.0,142054,142758,der_graf,142108,142111,ich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142141,142144,ich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142178,142188,meine Frau,die_gräfinn
+gdc,r2r7.0,142054,142758,der_graf,142178,142183,meine,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142202,142214,Zum Fräulein,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142216,142219,ihr,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142238,142241,Sie,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142249,142253,mich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142300,142317,gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142332,142335,sie,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142336,142340,mein,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142359,142362,sie,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142363,142367,mich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142375,142393,die rechten Mittel,die-rechten-Mittel
+gdc,r2r7.0,142054,142758,der_graf,142401,142404,die,die-rechten-Mittel
+gdc,r2r7.0,142054,142758,der_graf,142405,142408,ich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142409,142413,mich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142414,142419,Ihnen,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142440,142444,mich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142495,142498,ich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142516,142529,der Licentiat,chrysander
+gdc,r2r7.0,142054,142758,der_graf,142534,142537,mir,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142542,142552,einer Böse,einer-Böse
+gdc,r2r7.0,142054,142758,der_graf,142573,142576,sie,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142577,142585,dieselbe,einer-Böse
+gdc,r2r7.0,142054,142758,der_graf,142600,142605,ihrer,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142642,142645,mir,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142654,142657,ich,der_graf
+gdc,r2r7.0,142054,142758,der_graf,142669,142681,ihre Fesseln,ihre-Fesseln
+gdc,r2r7.0,142054,142758,der_graf,142669,142673,ihre,fräulein_christinchen
+gdc,r2r7.0,142054,142758,der_graf,142699,142708,denselben,ihre-Fesseln
+gdc,r2r7.0,142054,142758,der_graf,142724,142728,mein,der_graf
+gdc,r2r7.0,142786,142813,_stage,142803,142812,die Börse,einer-Böse
+gdc,r2r7.0,142763,142876,fräulein_christinchen,142838,142850,ihre Seufzer,ihre-Seufzer
+gdc,r2r7.0,142763,142876,fräulein_christinchen,142838,142842,ihre,der_graf
+gdc,r2r7.0,142763,142876,fräulein_christinchen,142852,142855,sie,ihre-Seufzer
+gdc,r2r7.0,142763,142876,fräulein_christinchen,142866,142875,mein Herz,mein-Herz
+gdc,r2r7.0,142763,142876,fräulein_christinchen,142866,142870,mein,fräulein_christinchen
+gdc,r2r7.0,142891,142916,_stage,142898,142901,sie,fräulein_christinchen
+gdc,r2r7.0,142881,142990,der_graf,142923,142926,ich,der_graf
+gdc,r2r7.0,142881,142990,der_graf,142942,142945,sie,fräulein_christinchen
+gdc,r2r7.0,142881,142990,der_graf,142946,142949,mir,der_graf
+gdc,r2r7.0,142881,142990,der_graf,142950,142963,meine Flammen,ihre-Flammen
+gdc,r2r7.0,142881,142990,der_graf,142950,142955,meine,der_graf
+gdc,r2r7.0,143003,143018,_stage,143003,143017,zum Chrysander,chrysander
+gdc,r2r7.0,142995,143110,johann,143029,143033,ihre,chrysander
+gdc,r2r7.0,142995,143110,johann,143043,143049,Gefahr,Gefahr
+gdc,r2r7.0,142995,143110,johann,143080,143083,sie,chrysander
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143157,143171,Ihro Excellenz,der_graf
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143173,143176,wir,
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143201,143204,Sie,der_graf
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143211,143224,eine Gemalinn,die_gräfinn
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143226,143229,man,kein-andrer
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143237,143240,uns,
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143254,143257,Ich,fräulein_christinchen
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143264,143267,mir,fräulein_christinchen
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143277,143282,ihres,der_graf
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143294,143300,meiner,fräulein_christinchen
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143320,143329,Dieselben,Dieselben2
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143337,143340,mir,fräulein_christinchen
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143372,143375,Ich,fräulein_christinchen
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143387,143391,mich,fräulein_christinchen
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143402,143416,Ihro Excellenz,der_graf
+gdc,r2r7.0,143115,143443,fräulein_christinchen,143428,143431,Sie,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143460,143471,Ums Himmels,der-Himmel
+gdc,r2r7.0,143449,143721,der_graf,143479,143496,gnädiges Fräulein,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143504,143507,sie,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143523,143526,mir,der_graf
+gdc,r2r7.0,143449,143721,der_graf,143540,143543,sie,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143544,143548,mich,der_graf
+gdc,r2r7.0,143449,143721,der_graf,143583,143588,ihren,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143614,143622,grausame,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143628,143631,sie,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143632,143635,mir,der_graf
+gdc,r2r7.0,143449,143721,der_graf,143665,143670,ihnen,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143702,143705,sie,fräulein_christinchen
+gdc,r2r7.0,143449,143721,der_graf,143706,143710,mich,der_graf
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143750,143753,Ich,fräulein_christinchen
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143759,143764,Ihnen,der_graf
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143802,143806,ihre,der_graf
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143819,143828,mein Herz,mein-Herz
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143819,143823,mein,fräulein_christinchen
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143851,143857,jemand,kein-andrer
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143867,143871,mich,fräulein_christinchen
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143876,143899,dem alten Todtengerippe,der_graf
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143917,143920,ich,fräulein_christinchen
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143931,143934,ich,fräulein_christinchen
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143952,143955,mir,fräulein_christinchen
+gdc,r2r7.0,143726,143991,fräulein_christinchen,143975,143978,ihm,der_graf
+gdc,r2r7.0,143996,144195,der_graf,144017,144020,sie,fräulein_christinchen
+gdc,r2r7.0,143996,144195,der_graf,144021,144024,mir,der_graf
+gdc,r2r7.0,143996,144195,der_graf,144030,144034,mein,der_graf
+gdc,r2r7.0,143996,144195,der_graf,144050,144053,sie,fräulein_christinchen
+gdc,r2r7.0,143996,144195,der_graf,144076,144091,dem Licentiaten,chrysander
+gdc,r2r7.0,143996,144195,der_graf,144122,144124,er,chrysander
+gdc,r2r7.0,143996,144195,der_graf,144125,144129,sich,chrysander
+gdc,r2r7.0,143996,144195,der_graf,144161,144169,ihr Herz,mein-Herz
+gdc,r2r7.0,143996,144195,der_graf,144161,144164,ihr,fräulein_christinchen
+gdc,r2r7.0,143996,144195,der_graf,144174,144178,ihre,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144224,144227,Ich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144256,144270,Ihro Excellenz,der_graf
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144289,144292,ich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144297,144310,einen Abscheu,einen-solchen-Abscheu
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144315,144326,die Heyrath,der-Heyrath
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144363,144367,mich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144373,144376,ich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144381,144394,meinen Eltern,meinen-Eltern
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144381,144387,meinen,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144405,144408,sie,meinen-Eltern
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144425,144429,mich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144434,144458,einem reichen Landjunker,einem-reichen-Landjunker
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144475,144478,der,einem-reichen-Landjunker
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144479,144551,"meinen Abscheu, den er durch seine Absichten mich zu heyrathen verdiente",einen-solchen-Abscheu
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144479,144485,meinen,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144499,144501,er,einem-reichen-Landjunker
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144508,144513,seine,einem-reichen-Landjunker
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144524,144528,mich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144581,144583,er,einem-reichen-Landjunker
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144588,144594,seinem,einem-reichen-Landjunker
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144652,144655,Ich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144702,144706,mich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144735,144738,mir,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144758,144770,den meinigen,meinen-Eltern
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144861,144865,mich,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144918,144931,der Licentiat,chrysander
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144932,144937,meine,fräulein_christinchen
+gdc,r2r7.0,144200,144987,fräulein_christinchen,144978,144981,ich,fräulein_christinchen
+gdc,r2r7.0,144992,145409,der_graf,145003,145013,Der Henker,der-Henker
+gdc,r2r7.0,144992,145409,der_graf,145024,145038,meine Gemalinn,die_gräfinn
+gdc,r2r7.0,144992,145409,der_graf,145024,145029,meine,der_graf
+gdc,r2r7.0,144992,145409,der_graf,145040,145043,sie,die_gräfinn
+gdc,r2r7.0,144992,145409,der_graf,145048,145051,uns,
+gdc,r2r7.0,144992,145409,der_graf,145094,145097,ich,der_graf
+gdc,r2r7.0,144992,145409,der_graf,145112,145115,ihr,die_gräfinn
+gdc,r2r7.0,144992,145409,der_graf,145122,145138,gewisse Vorwürfe,gewisse-Vorwürfe
+gdc,r2r7.0,144992,145409,der_graf,145150,145156,welche,gewisse-Vorwürfe
+gdc,r2r7.0,144992,145409,der_graf,145157,145160,sie,die_gräfinn
+gdc,r2r7.0,144992,145409,der_graf,145173,145177,mich,der_graf
+gdc,r2r7.0,144992,145409,der_graf,145207,145210,sie,fräulein_christinchen
+gdc,r2r7.0,144992,145409,der_graf,145212,145215,ich,der_graf
+gdc,r2r7.0,144992,145409,der_graf,145221,145224,sie,fräulein_christinchen
+gdc,r2r7.0,144992,145409,der_graf,145243,145263,diese spanische Wand,dieser-spanischen-Wand
+gdc,r2r7.0,145278,145409,_stage,145278,145281,Sie,
+gdc,r2r7.0,145278,145409,_stage,145288,145292,sich,
+gdc,r2r7.0,145278,145409,_stage,145293,145312,der spanischen Wand,dieser-spanischen-Wand
+gdc,r2r7.0,145278,145409,_stage,145358,145361,sie,
+gdc,r2r7.0,145278,145409,_stage,145362,145377,den Licentiaten,chrysander
+gdc,r2r7.0,145278,145409,_stage,145385,145394,derselben,dieser-spanischen-Wand
+gdc,r2r7.0,145517,145559,_stage,145517,145528,Die Gräfinn,die_gräfinn
+gdc,r2r7.0,145517,145559,_stage,145530,145535,Valer,valer
+gdc,r2r7.0,145517,145559,_stage,145537,145545,Caroline,caroline
+gdc,r2r7.0,145517,145559,_stage,145547,145558,Die Vorigen,
+gdc,r2r7.0,145562,145811,die_gräfinn,145580,145586,Teufel,der-Teufel
+gdc,r2r7.0,145562,145811,die_gräfinn,145588,145602,Ihro Excellenz,der_graf
+gdc,r2r7.0,145562,145811,die_gräfinn,145611,145614,sie,der_graf
+gdc,r2r7.0,145562,145811,die_gräfinn,145615,145619,sich,der_graf
+gdc,r2r7.0,145562,145811,die_gräfinn,145624,145642,einem Frauenzimmer,fräulein_christinchen
+gdc,r2r7.0,145562,145811,die_gräfinn,145650,145668,die spanische Wand,dieser-spanischen-Wand
+gdc,r2r7.0,145684,145811,_stage,145684,145694,Chrysander,chrysander
+gdc,r2r7.0,145684,145811,_stage,145708,145727,der spanischen Wand,dieser-spanischen-Wand
+gdc,r2r7.0,145684,145811,_stage,145774,145780,Johann,johann
+gdc,r2r7.0,145684,145811,_stage,145791,145795,sich,johann
+gdc,r2r7.0,145684,145811,_stage,145803,145806,ihm,chrysander
+gdc,r2r7.0,145839,145854,_stage,145839,145853,zum Chrysander,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145861,145871,zum Henker,der-Henker
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145901,145904,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145917,145921,sich,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145922,145926,mich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145946,145949,ich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145954,145971,Leuten von Stande,der_graf
+gdc,r2r7.0,145816,146874,fräulein_christinchen,145975,145980,ihrem,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146009,146012,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146013,146017,mich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146022,146025,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146033,146037,sich,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146068,146074,meiner,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146101,146104,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146115,146118,mir,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146132,146135,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146136,146140,mich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146183,146186,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146192,146195,ich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146218,146221,sie,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146250,146261,Zur Gräfinn,die_gräfinn
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146270,146273,sie,die_gräfinn
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146274,146277,mir,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146292,146306,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146312,146315,ich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146316,146319,mir,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146352,146369,ihrem Herrn Gemal,der_graf
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146352,146357,ihrem,die_gräfinn
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146402,146425,Mein Thor von Bräutigam,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146402,146406,Mein,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146434,146438,sich,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146442,146462,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146506,146522,dero Herrn Gemal,der_graf
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146506,146510,dero,die_gräfinn
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146550,146553,ich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146569,146573,mich,fräulein_christinchen
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146588,146594,seinem,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146628,146630,er,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146650,146655,seine,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146700,146704,sich,chrysander
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146712,146722,diese Wand,dieser-spanischen-Wand
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146737,146740,uns,
+gdc,r2r7.0,145816,146874,fräulein_christinchen,146748,146757,dieselben,
+gdc,r2r7.0,146879,146980,chrysander,146892,146895,Ich,chrysander
+gdc,r2r7.0,146879,146980,chrysander,146920,146923,ich,chrysander
+gdc,r2r7.0,146986,147124,johann,146995,147010,Ihro wohlweisen,Ihro-wohlweisen
+gdc,r2r7.0,146986,147124,johann,146995,146999,Ihro,chrysander
+gdc,r2r7.0,146986,147124,johann,147017,147021,sich,chrysander
+gdc,r2r7.0,146986,147124,johann,147062,147065,sie,chrysander
+gdc,r2r7.0,146986,147124,johann,147104,147123,des heimlichen Orts,dieser-spanischen-Wand
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147153,147156,Ich,fräulein_christinchen
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147161,147164,ihm,chrysander
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147181,147184,ich,fräulein_christinchen
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147190,147206,den albern Tropf,chrysander
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147234,147237,Ich,fräulein_christinchen
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147247,147251,mich,fräulein_christinchen
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147252,147266,Ihro Excellenz,
+gdc,r2r7.0,147129,147281,fräulein_christinchen,147268,147271,Sie,fräulein_christinchen
+gdc,r2r7.0,147334,147380,_stage,147334,147342,Der Graf,der_graf
+gdc,r2r7.0,147334,147380,_stage,147344,147354,Die Gräfin,die_gräfinn
+gdc,r2r7.0,147334,147380,_stage,147356,147361,Valer,valer
+gdc,r2r7.0,147334,147380,_stage,147363,147371,Caroline,caroline
+gdc,r2r7.0,147334,147380,_stage,147373,147379,Johann,johann
+gdc,r2r7.0,147383,147902,die_gräfinn,147397,147410,Ihro Excellen,der_graf
+gdc,r2r7.0,147383,147902,die_gräfinn,147423,147447,diesem schönen Thierchen,fräulein_christinchen
+gdc,r2r7.0,147383,147902,die_gräfinn,147460,147475,den Licentiaten,chrysander
+gdc,r2r7.0,147383,147902,die_gräfinn,147510,147516,dieser,chrysander
+gdc,r2r7.0,147383,147902,die_gräfinn,147538,147557,der spanischen Wand,dieser-spanischen-Wand
+gdc,r2r7.0,147383,147902,die_gräfinn,147577,147579,er,chrysander
+gdc,r2r7.0,147383,147902,die_gräfinn,147670,147673,sie,der_graf
+gdc,r2r7.0,147383,147902,die_gräfinn,147681,147693,ihren Willen,ihren-Willen
+gdc,r2r7.0,147383,147902,die_gräfinn,147681,147686,ihren,der_graf
+gdc,r2r7.0,147383,147902,die_gräfinn,147733,147736,ich,die_gräfinn
+gdc,r2r7.0,147383,147902,die_gräfinn,147745,147761,einen Candidaten,valer
+gdc,r2r7.0,147383,147902,die_gräfinn,147766,147768,er,valer
+gdc,r2r7.0,147383,147902,die_gräfinn,147779,147787,Der Herr,valer
+gdc,r2r7.0,147383,147902,die_gräfinn,147793,147806,die Bedienung,die-Rathsherrnstelle
+gdc,r2r7.0,147383,147902,die_gräfinn,147822,147825,sie,der_graf
+gdc,r2r7.0,147383,147902,die_gräfinn,147851,147854,sie,der_graf
+gdc,r2r7.0,147383,147902,die_gräfinn,147855,147858,ihm,valer
+gdc,r2r7.0,147907,148235,der_graf,147926,147929,sie,die_gräfinn
+gdc,r2r7.0,147907,148235,der_graf,147953,147958,ihren,die_gräfinn
+gdc,r2r7.0,147907,148235,der_graf,147968,147980,gnädige Frau,die_gräfinn
+gdc,r2r7.0,147907,148235,der_graf,147982,147985,ich,der_graf
+gdc,r2r7.0,147907,148235,der_graf,147996,147999,ich,der_graf
+gdc,r2r7.0,147907,148235,der_graf,148014,148017,Sie,die_gräfinn
+gdc,r2r7.0,147907,148235,der_graf,148028,148032,sich,die_gräfinn
+gdc,r2r7.0,147907,148235,der_graf,148034,148048,Mein Secretair,herrmann
+gdc,r2r7.0,147907,148235,der_graf,148034,148038,Mein,der_graf
+gdc,r2r7.0,147907,148235,der_graf,148053,148056,mir,der_graf
+gdc,r2r7.0,147907,148235,der_graf,148103,148106,ich,der_graf
+gdc,r2r7.0,147907,148235,der_graf,148107,148111,mich,der_graf
+gdc,r2r7.0,147907,148235,der_graf,148145,148148,ich,der_graf
+gdc,r2r7.0,147907,148235,der_graf,148149,148152,ihn,herrmann
+gdc,r2r7.0,147907,148235,der_graf,148180,148183,sie,die_gräfinn
+gdc,r2r7.0,147907,148235,der_graf,148190,148212,ihren Herrn Candidaten,valer
+gdc,r2r7.0,147907,148235,der_graf,148190,148195,ihren,die_gräfinn
+gdc,r2r7.0,148250,148277,_stage,148256,148267,der Gräfinn,die_gräfinn
+gdc,r2r7.0,148240,148601,caroline,148289,148303,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,148240,148601,caroline,148309,148312,ich,caroline
+gdc,r2r7.0,148240,148601,caroline,148313,148318,meine,caroline
+gdc,r2r7.0,148240,148601,caroline,148372,148389,dero Herrn Gemals,der_graf
+gdc,r2r7.0,148240,148601,caroline,148372,148376,dero,die_gräfinn
+gdc,r2r7.0,148240,148601,caroline,148401,148406,Meine,caroline
+gdc,r2r7.0,148240,148601,caroline,148443,148455,den Herrmann,herrmann
+gdc,r2r7.0,148240,148601,caroline,148460,148465,ihnen,die_gräfinn
+gdc,r2r7.0,148240,148601,caroline,148482,148485,sie,die_gräfinn
+gdc,r2r7.0,148240,148601,caroline,148486,148489,uns,
+gdc,r2r7.0,148240,148601,caroline,148519,148524,ihrer,die_gräfinn
+gdc,r2r7.0,148240,148601,caroline,148533,148544,Dieser Herr,valer
+gdc,r2r7.0,148240,148601,caroline,148592,148600,Herrmann,herrmann
+gdc,r2r7.0,148614,148633,_stage,148623,148632,zum Valer,valer
+gdc,r2r7.0,148606,148730,johann,148636,148652,Die Mademoiselle,caroline
+gdc,r2r7.0,148606,148730,johann,148664,148667,sie,valer
+gdc,r2r7.0,148735,149068,die_gräfinn,148749,148752,Ich,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,148760,148764,euch,
+gdc,r2r7.0,148735,149068,die_gräfinn,148795,148800,meine,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,148817,148820,ich,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,148827,148831,euch,
+gdc,r2r7.0,148735,149068,die_gräfinn,148851,148861,Mein Gemal,der_graf
+gdc,r2r7.0,148735,149068,die_gräfinn,148851,148855,Mein,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,148866,148879,seinen Willen,ihren-Willen
+gdc,r2r7.0,148735,149068,die_gräfinn,148866,148872,seinen,der_graf
+gdc,r2r7.0,148735,149068,die_gräfinn,148893,148901,Zum Graf,der_graf
+gdc,r2r7.0,148735,149068,die_gräfinn,148903,148906,Ich,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,148924,148927,sie,der_graf
+gdc,r2r7.0,148735,149068,die_gräfinn,148953,148956,mir,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,148975,148984,Alle Welt,Alle-Welt
+gdc,r2r7.0,148735,149068,die_gräfinn,148998,149001,ich,die_gräfinn
+gdc,r2r7.0,148735,149068,die_gräfinn,149064,149067,sie,der_graf
+gdc,r2r7.0,149073,149273,der_graf,149097,149101,mein,der_graf
+gdc,r2r7.0,149073,149273,der_graf,149115,149118,sie,die_gräfinn
+gdc,r2r7.0,149073,149273,der_graf,149119,149123,sich,die_gräfinn
+gdc,r2r7.0,149073,149273,der_graf,149147,149150,ich,der_graf
+gdc,r2r7.0,149073,149273,der_graf,149151,149160,dem Herrn,valer
+gdc,r2r7.0,149073,149273,der_graf,149161,149182,die  Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,149073,149273,der_graf,149198,149207,alle Welt,Alle-Welt
+gdc,r2r7.0,149073,149273,der_graf,149222,149224,er,valer
+gdc,r2r7.0,149073,149273,der_graf,149235,149240,ihren,die_gräfinn
+gdc,r2r7.0,149278,149612,die_gräfinn,149321,149335,Ihro Excellenz,der_graf
+gdc,r2r7.0,149278,149612,die_gräfinn,149348,149357,dasjenige,dasjenige
+gdc,r2r7.0,149278,149612,die_gräfinn,149368,149371,was,dasjenige
+gdc,r2r7.0,149278,149612,die_gräfinn,149372,149375,sie,der_graf
+gdc,r2r7.0,149278,149612,die_gräfinn,149382,149385,sie,der_graf
+gdc,r2r7.0,149278,149612,die_gräfinn,149477,149480,ich,die_gräfinn
+gdc,r2r7.0,149278,149612,die_gräfinn,149481,149486,ihnen,der_graf
+gdc,r2r7.0,149278,149612,die_gräfinn,149493,149509,meine Verdienste,meine-Verdienste
+gdc,r2r7.0,149278,149612,die_gräfinn,149493,149498,meine,die_gräfinn
+gdc,r2r7.0,149278,149612,die_gräfinn,149534,149543,dieselben,meine-Verdienste
+gdc,r2r7.0,149278,149612,die_gräfinn,149570,149573,Ich,die_gräfinn
+gdc,r2r7.0,149278,149612,die_gräfinn,149585,149590,Ihnen,der_graf
+gdc,r2r7.0,149278,149612,die_gräfinn,149597,149600,sie,der_graf
+gdc,r2r7.0,149617,150113,der_graf,149644,149658,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,149617,150113,der_graf,149660,149663,Sie,die_gräfinn
+gdc,r2r7.0,149617,150113,der_graf,149691,149694,ich,der_graf
+gdc,r2r7.0,149617,150113,der_graf,149695,149700,meine,der_graf
+gdc,r2r7.0,149617,150113,der_graf,149717,149719,Er,der_graf
+gdc,r2r7.0,149617,150113,der_graf,149728,149737,den Valer,valer
+gdc,r2r7.0,149617,150113,der_graf,149747,149755,der Herr,valer
+gdc,r2r7.0,149617,150113,der_graf,149762,149765,mir,der_graf
+gdc,r2r7.0,149617,150113,der_graf,149789,149791,er,valer
+gdc,r2r7.0,149617,150113,der_graf,149798,149817,die Ratsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,149617,150113,der_graf,149838,149840,Er,valer
+gdc,r2r7.0,149617,150113,der_graf,149855,149858,ich,der_graf
+gdc,r2r7.0,149617,150113,der_graf,149864,149867,ihm,valer
+gdc,r2r7.0,149617,150113,der_graf,149875,149887,vom Herrmann,herrmann
+gdc,r2r7.0,149617,150113,der_graf,149938,149950,Zur Caroline,caroline
+gdc,r2r7.0,149617,150113,der_graf,149960,149963,ihr,caroline
+gdc,r2r7.0,149617,150113,der_graf,149979,149982,ich,der_graf
+gdc,r2r7.0,149617,150113,der_graf,150012,150015,ich,der_graf
+gdc,r2r7.0,149617,150113,der_graf,150056,150070,meine Gemalinn,die_gräfinn
+gdc,r2r7.0,149617,150113,der_graf,150056,150061,meine,der_graf
+gdc,r2r7.0,149617,150113,der_graf,150071,150076,meine,der_graf
+gdc,r2r7.0,150166,150203,_stage,150166,150177,Die Gräfinn,die_gräfinn
+gdc,r2r7.0,150166,150203,_stage,150179,150184,Valer,valer
+gdc,r2r7.0,150166,150203,_stage,150186,150194,Caroline,caroline
+gdc,r2r7.0,150166,150203,_stage,150196,150202,Johann,johann
+gdc,r2r7.0,150206,150421,die_gräfinn,150230,150240,Herr Valer,valer
+gdc,r2r7.0,150206,150421,die_gräfinn,150247,150250,sie,valer
+gdc,r2r7.0,150206,150421,die_gräfinn,150277,150280,ich,die_gräfinn
+gdc,r2r7.0,150206,150421,die_gräfinn,150286,150298,meinen Gemal,der_graf
+gdc,r2r7.0,150206,150421,die_gräfinn,150286,150292,meinen,die_gräfinn
+gdc,r2r7.0,150206,150421,die_gräfinn,150311,150314,ich,die_gräfinn
+gdc,r2r7.0,150206,150421,die_gräfinn,150340,150345,Ihnen,valer
+gdc,r2r7.0,150206,150421,die_gräfinn,150349,150357,dem Amte,die-Rathsherrnstelle
+gdc,r2r7.0,150206,150421,die_gräfinn,150374,150381,welches,die-Rathsherrnstelle
+gdc,r2r7.0,150206,150421,die_gräfinn,150382,150385,sie,valer
+gdc,r2r7.0,150206,150421,die_gräfinn,150386,150392,meiner,die_gräfinn
+gdc,r2r7.0,150426,150595,valer,150442,150445,mir,valer
+gdc,r2r7.0,150426,150595,valer,150451,150465,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,150426,150595,valer,150471,150474,ich,valer
+gdc,r2r7.0,150426,150595,valer,150475,150479,ihre,die_gräfinn
+gdc,r2r7.0,150426,150595,valer,150522,150525,ich,valer
+gdc,r2r7.0,150426,150595,valer,150558,150561,ich,valer
+gdc,r2r7.0,150611,150620,_stage,150615,150619,sich,caroline
+gdc,r2r7.0,150601,150673,caroline,150623,150637,Von Wirbelbach,den-Fähndrich-von-Wirbelbach
+gdc,r2r7.0,150601,150673,caroline,150641,150647,Himmel,der-Himmel
+gdc,r2r7.0,150678,150776,die_gräfinn,150703,150706,sie,valer
+gdc,r2r7.0,150678,150776,die_gräfinn,150707,150711,mich,die_gräfinn
+gdc,r2r7.0,150678,150776,die_gräfinn,150752,150755,sie,valer
+gdc,r2r7.0,150678,150776,die_gräfinn,150756,150759,mir,die_gräfinn
+gdc,r2r7.0,150781,151094,valer,150789,150803,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,150781,151094,valer,150813,150816,mir,valer
+gdc,r2r7.0,150781,151094,valer,150817,150822,meine,valer
+gdc,r2r7.0,150781,151094,valer,150837,150840,Ich,valer
+gdc,r2r7.0,150781,151094,valer,150859,150894,einer kleinen Rache meines Obristen,einer-kleinen-Rache
+gdc,r2r7.0,150781,151094,valer,150879,150894,meines Obristen,meines-Obristen
+gdc,r2r7.0,150781,151094,valer,150879,150885,meines,valer
+gdc,r2r7.0,150781,151094,valer,150908,150911,sie,die_gräfinn
+gdc,r2r7.0,150781,151094,valer,150926,150935,denselben,meines-Obristen
+gdc,r2r7.0,150781,151094,valer,150984,150987,ihn,meines-Obristen
+gdc,r2r7.0,150781,151094,valer,151024,151026,Er,meines-Obristen
+gdc,r2r7.0,151099,151138,die_gräfinn,151113,151116,Ich,die_gräfinn
+gdc,r2r7.0,151143,151297,valer,151165,151168,ich,valer
+gdc,r2r7.0,151143,151297,valer,151188,151210,der Rache des Obristen,einer-kleinen-Rache
+gdc,r2r7.0,151143,151297,valer,151198,151210,des Obristen,meines-Obristen
+gdc,r2r7.0,151143,151297,valer,151247,151253,meiner,valer
+gdc,r2r7.0,151143,151297,valer,151262,151271,dieselben,Dieselben2
+gdc,r2r7.0,151302,151359,die_gräfinn,151332,151358,mein lieber Herr Fähndrich,valer
+gdc,r2r7.0,151302,151359,die_gräfinn,151332,151336,mein,die_gräfinn
+gdc,r2r7.0,151364,151526,valer,151372,151375,Ich,valer
+gdc,r2r7.0,151364,151526,valer,151408,151413,ihnen,die_gräfinn
+gdc,r2r7.0,151364,151526,valer,151445,151448,mir,valer
+gdc,r2r7.0,151364,151526,valer,151453,151467,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,151364,151526,valer,151473,151476,ich,valer
+gdc,r2r7.0,151364,151526,valer,151498,151517,ihrer Kammerjungfer,caroline
+gdc,r2r7.0,151364,151526,valer,151498,151503,ihrer,die_gräfinn
+gdc,r2r7.0,151531,151615,die_gräfinn,151566,151569,die,caroline
+gdc,r2r7.0,151620,151730,valer,151642,151654,Zur Caroline,caroline
+gdc,r2r7.0,151620,151730,valer,151656,151673,Gnädiges Fräulein,caroline
+gdc,r2r7.0,151620,151730,valer,151680,151684,mein,valer
+gdc,r2r7.0,151620,151730,valer,151695,151698,mir,valer
+gdc,r2r7.0,151620,151730,valer,151704,151709,ihnen,caroline
+gdc,r2r7.0,151735,151808,caroline,151750,151759,mein Herz,mein-Herz2
+gdc,r2r7.0,151735,151808,caroline,151750,151754,mein,caroline
+gdc,r2r7.0,151735,151808,caroline,151780,151783,sie,valer
+gdc,r2r7.0,151813,152023,valer,151821,151829,Ihr Herz,mein-Herz2
+gdc,r2r7.0,151813,152023,valer,151821,151824,Ihr,caroline
+gdc,r2r7.0,151813,152023,valer,151835,151839,sich,mein-Herz2
+gdc,r2r7.0,151813,152023,valer,151858,151861,sie,caroline
+gdc,r2r7.0,151813,152023,valer,151874,151887,meinem Oheims,meinem-Oheims
+gdc,r2r7.0,151813,152023,valer,151874,151880,meinem,valer
+gdc,r2r7.0,151813,152023,valer,151894,151901,welcher,meinem-Oheims
+gdc,r2r7.0,151813,152023,valer,151983,151989,seiner,meinem-Oheims
+gdc,r2r7.0,152029,152229,caroline,152044,152064,liebster Herr Vetter,valer
+gdc,r2r7.0,152029,152229,caroline,152058,152064,Vetter,Vetter
+gdc,r2r7.0,152029,152229,caroline,152071,152074,ich,caroline
+gdc,r2r7.0,152029,152229,caroline,152079,152084,Ihnen,valer
+gdc,r2r7.0,152029,152229,caroline,152085,152097,diesen Namen,Vetter
+gdc,r2r7.0,152029,152229,caroline,152119,152122,sie,valer
+gdc,r2r7.0,152029,152229,caroline,152151,152161,mein Vater,meinem-Oheims
+gdc,r2r7.0,152029,152229,caroline,152151,152155,mein,caroline
+gdc,r2r7.0,152029,152229,caroline,152168,152171,ich,caroline
+gdc,r2r7.0,152029,152229,caroline,152218,152221,ihm,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152242,152248,Erlebt,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152297,152300,Ich,valer
+gdc,r2r7.0,152234,152888,valer,152306,152309,ihn,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152334,152337,ich,valer
+gdc,r2r7.0,152234,152888,valer,152413,152475,"Mein Vater, welcher selbst unter seinen Verfolgern gewesen ist","Mein-Vater,-welcher-selbst-unter-seinen-Verfolgern-gewesen-ist"
+gdc,r2r7.0,152234,152888,valer,152413,152417,Mein,valer
+gdc,r2r7.0,152234,152888,valer,152446,152452,seinen,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152507,152510,ich,valer
+gdc,r2r7.0,152234,152888,valer,152536,152549,meines Vaters,"Mein-Vater,-welcher-selbst-unter-seinen-Verfolgern-gewesen-ist"
+gdc,r2r7.0,152234,152888,valer,152536,152542,meines,valer
+gdc,r2r7.0,152234,152888,valer,152556,152563,den Haß,den-Haß
+gdc,r2r7.0,152234,152888,valer,152573,152580,welchen,den-Haß
+gdc,r2r7.0,152234,152888,valer,152581,152583,er,"Mein-Vater,-welcher-selbst-unter-seinen-Verfolgern-gewesen-ist"
+gdc,r2r7.0,152234,152888,valer,152590,152601,den ihrigen,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152594,152601,ihrigen,caroline
+gdc,r2r7.0,152234,152888,valer,152616,152618,Er,"Mein-Vater,-welcher-selbst-unter-seinen-Verfolgern-gewesen-ist"
+gdc,r2r7.0,152234,152888,valer,152666,152684,ihres Herrn Vaters,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152666,152671,ihres,caroline
+gdc,r2r7.0,152234,152888,valer,152701,152704,ihm,"Mein-Vater,-welcher-selbst-unter-seinen-Verfolgern-gewesen-ist"
+gdc,r2r7.0,152234,152888,valer,152705,152733,desselben einträgliche Güter,desselben-einträgliche-Güter
+gdc,r2r7.0,152234,152888,valer,152705,152714,desselben,meinem-Oheims
+gdc,r2r7.0,152234,152888,valer,152766,152769,Ich,valer
+gdc,r2r7.0,152234,152888,valer,152833,152836,sie,caroline
+gdc,r2r7.0,152234,152888,valer,152871,152874,sie,caroline
+gdc,r2r7.0,152893,153004,die_gräfinn,152915,152918,ich,die_gräfinn
+gdc,r2r7.0,152893,153004,die_gräfinn,152919,152947,eine Fräulein von Wirbelbach,caroline
+gdc,r2r7.0,153009,153428,caroline,153030,153033,mir,caroline
+gdc,r2r7.0,153009,153428,caroline,153034,153048,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,153009,153428,caroline,153073,153076,Ich,caroline
+gdc,r2r7.0,153009,153428,caroline,153090,153103,meines Vaters,meinem-Oheims
+gdc,r2r7.0,153009,153428,caroline,153090,153096,meines,caroline
+gdc,r2r7.0,153009,153428,caroline,153139,153142,ich,caroline
+gdc,r2r7.0,153009,153428,caroline,153191,153194,ich,caroline
+gdc,r2r7.0,153009,153428,caroline,153224,153236,meinem Vater,meinem-Oheims
+gdc,r2r7.0,153009,153428,caroline,153224,153230,meinem,caroline
+gdc,r2r7.0,153009,153428,caroline,153270,153276,meinen,caroline
+gdc,r2r7.0,153009,153428,caroline,153306,153309,ihm,meinem-Oheims
+gdc,r2r7.0,153009,153428,caroline,153348,153353,Ihnen,valer
+gdc,r2r7.0,153009,153428,caroline,153360,153379,großmüthiger Vetter,valer
+gdc,r2r7.0,153009,153428,caroline,153386,153389,ich,caroline
+gdc,r2r7.0,153433,154123,valer,153441,153444,Sie,caroline
+gdc,r2r7.0,153433,154123,valer,153481,153484,ihr,caroline
+gdc,r2r7.0,153433,154123,valer,153511,153514,ich,valer
+gdc,r2r7.0,153433,154123,valer,153515,153520,Ihnen,caroline
+gdc,r2r7.0,153433,154123,valer,153543,153546,ich,valer
+gdc,r2r7.0,153433,154123,valer,153579,153592,meines Vaters,"Mein-Vater,-welcher-selbst-unter-seinen-Verfolgern-gewesen-ist"
+gdc,r2r7.0,153433,154123,valer,153579,153585,meines,valer
+gdc,r2r7.0,153433,154123,valer,153630,153633,ich,valer
+gdc,r2r7.0,153433,154123,valer,153639,153642,ich,valer
+gdc,r2r7.0,153433,154123,valer,153647,153664,Ihrem Herrn Vater,meinem-Oheims
+gdc,r2r7.0,153433,154123,valer,153647,153652,Ihrem,caroline
+gdc,r2r7.0,153433,154123,valer,153704,153707,ich,valer
+gdc,r2r7.0,153433,154123,valer,153708,153711,sie,caroline
+gdc,r2r7.0,153433,154123,valer,153727,153729,Er,meinem-Oheims
+gdc,r2r7.0,153433,154123,valer,153735,153738,mir,valer
+gdc,r2r7.0,153433,154123,valer,153751,153764,einer Wehmuth,einer-Wehmuth
+gdc,r2r7.0,153433,154123,valer,153770,153776,welche,einer-Wehmuth
+gdc,r2r7.0,153433,154123,valer,153803,153806,ich,valer
+gdc,r2r7.0,153433,154123,valer,153826,153829,ich,valer
+gdc,r2r7.0,153433,154123,valer,153844,153872,meiner hier gespielten Rolle,meiner-hier-gespielten-Rolle
+gdc,r2r7.0,153433,154123,valer,153844,153850,meiner,valer
+gdc,r2r7.0,153433,154123,valer,153900,153903,sie,meiner-hier-gespielten-Rolle
+gdc,r2r7.0,153433,154123,valer,153904,153907,mir,valer
+gdc,r2r7.0,153433,154123,valer,153941,153944,Ich,valer
+gdc,r2r7.0,153433,154123,valer,153966,153969,ich,valer
+gdc,r2r7.0,153433,154123,valer,153970,153973,sie,caroline
+gdc,r2r7.0,153433,154123,valer,153977,153989,diesem Hause,ins-Haus
+gdc,r2r7.0,153433,154123,valer,154018,154036,ihres Herrn Vaters,meinem-Oheims
+gdc,r2r7.0,153433,154123,valer,154018,154023,ihres,caroline
+gdc,r2r7.0,153433,154123,valer,154057,154068,mein Diener,johann
+gdc,r2r7.0,153433,154123,valer,154057,154061,mein,valer
+gdc,r2r7.0,153433,154123,valer,154073,154076,mir,valer
+gdc,r2r7.0,153433,154123,valer,154081,154086,ihnen,caroline
+gdc,r2r7.0,154128,154221,johann,154140,154157,gnädiges Fräulein,caroline
+gdc,r2r7.0,154128,154221,johann,154159,154162,ich,johann
+gdc,r2r7.0,154128,154221,johann,154168,154192,die unglückliche Familie,der-unglücklichen-Familie
+gdc,r2r7.0,154128,154221,johann,154197,154202,ihnen,caroline
+gdc,r2r7.0,154271,154293,_stage,154271,154279,Herrmann,herrmann
+gdc,r2r7.0,154271,154293,_stage,154281,154292,Die Vorigen,
+gdc,r2r7.0,154296,154405,herrmann,154307,154316,Mein Herr,valer
+gdc,r2r7.0,154296,154405,herrmann,154307,154311,Mein,herrmann
+gdc,r2r7.0,154296,154405,herrmann,154318,154321,ich,herrmann
+gdc,r2r7.0,154296,154405,herrmann,154332,154337,Ihnen,valer
+gdc,r2r7.0,154296,154405,herrmann,154341,154369,der erlangen Ratsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,154296,154405,herrmann,154380,154396,die Ausfertigung,die-Ausfertigung
+gdc,r2r7.0,154417,154430,_stage,154417,154429,zur Caroline,caroline
+gdc,r2r7.0,154410,154477,valer,154433,154456,"Schönstes Fräulein, sie",caroline
+gdc,r2r7.0,154410,154477,valer,154464,154476,diesen Herrn,herrmann
+gdc,r2r7.0,154482,154631,caroline,154493,154498,Meine,caroline
+gdc,r2r7.0,154482,154631,caroline,154529,154535,seinem,herrmann
+gdc,r2r7.0,154482,154631,caroline,154548,154553,ihnen,valer
+gdc,r2r7.0,154482,154631,caroline,154614,154617,ich,caroline
+gdc,r2r7.0,154482,154631,caroline,154618,154621,sie,valer
+gdc,r2r7.0,154636,155147,valer,154651,154654,sie,caroline
+gdc,r2r7.0,154636,155147,valer,154662,154665,ich,valer
+gdc,r2r7.0,154636,155147,valer,154671,154676,meine,valer
+gdc,r2r7.0,154636,155147,valer,154691,154702,Zur Gräfinn,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,154704,154718,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,154720,154723,ich,valer
+gdc,r2r7.0,154636,155147,valer,154730,154742,dem Obristen,meines-Obristen
+gdc,r2r7.0,154636,155147,valer,154766,154777,seine Rache,einer-kleinen-Rache
+gdc,r2r7.0,154636,155147,valer,154766,154771,seine,meines-Obristen
+gdc,r2r7.0,154636,155147,valer,154794,154797,ich,valer
+gdc,r2r7.0,154636,155147,valer,154803,154806,ihm,meines-Obristen
+gdc,r2r7.0,154636,155147,valer,154834,154837,mir,valer
+gdc,r2r7.0,154636,155147,valer,154843,154848,meine,valer
+gdc,r2r7.0,154636,155147,valer,154886,154889,mir,valer
+gdc,r2r7.0,154636,155147,valer,154895,154904,dieselben,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,154937,154940,sie,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,154941,154953,diesem Herrn,herrmann
+gdc,r2r7.0,154636,155147,valer,154954,154974,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,154636,155147,valer,154998,155001,sie,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,155026,155029,ich,valer
+gdc,r2r7.0,154636,155147,valer,155030,155033,sie,die-Rathsherrnstelle
+gdc,r2r7.0,154636,155147,valer,155084,155087,sie,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,155099,155102,sie,die_gräfinn
+gdc,r2r7.0,154636,155147,valer,155103,155113,einen Mann,herrmann
+gdc,r2r7.0,154636,155147,valer,155130,155133,der,herrmann
+gdc,r2r7.0,155152,155452,die_gräfinn,155166,155169,Ihr,valer
+gdc,r2r7.0,155152,155452,die_gräfinn,155204,155213,mein Herr,valer
+gdc,r2r7.0,155152,155452,die_gräfinn,155204,155208,mein,die_gräfinn
+gdc,r2r7.0,155152,155452,die_gräfinn,155219,155222,ich,die_gräfinn
+gdc,r2r7.0,155152,155452,die_gräfinn,155226,155231,ihnen,valer
+gdc,r2r7.0,155152,155452,die_gräfinn,155254,155257,Ich,die_gräfinn
+gdc,r2r7.0,155152,155452,die_gräfinn,155277,155289,meinem Gemal,der_graf
+gdc,r2r7.0,155152,155452,die_gräfinn,155277,155283,meinem,die_gräfinn
+gdc,r2r7.0,155152,155452,die_gräfinn,155304,155306,er,der_graf
+gdc,r2r7.0,155152,155452,die_gräfinn,155307,155313,meinen,die_gräfinn
+gdc,r2r7.0,155152,155452,die_gräfinn,155360,155363,sie,valer
+gdc,r2r7.0,155152,155452,die_gräfinn,155399,155403,ihre,valer
+gdc,r2r7.0,155152,155452,die_gräfinn,155423,155426,mir,die_gräfinn
+gdc,r2r7.0,155152,155452,die_gräfinn,155440,155443,Sie,die_gräfinn
+gdc,r2r7.0,155465,155483,_stage,155470,155473,ihr,die_gräfinn
+gdc,r2r7.0,155458,156008,valer,155486,155500,Ihro Excellenz,die_gräfinn
+gdc,r2r7.0,155458,156008,valer,155526,155529,mir,valer
+gdc,r2r7.0,155458,156008,valer,155540,155552,Zum Herrmann,herrmann
+gdc,r2r7.0,155458,156008,valer,155563,155566,sie,herrmann
+gdc,r2r7.0,155458,156008,valer,155573,155582,mein Herr,herrmann
+gdc,r2r7.0,155458,156008,valer,155573,155577,mein,valer
+gdc,r2r7.0,155458,156008,valer,155584,155602,diese Ausfertiguug,die-Ausfertigung
+gdc,r2r7.0,155458,156008,valer,155607,155611,sich,herrmann
+gdc,r2r7.0,155458,156008,valer,155631,155634,sie,herrmann
+gdc,r2r7.0,155458,156008,valer,155644,155650,meiner,valer
+gdc,r2r7.0,155458,156008,valer,155656,155668,ein Geschenk,ein-Geschenk
+gdc,r2r7.0,155458,156008,valer,155673,155680,welches,ein-Geschenk
+gdc,r2r7.0,155458,156008,valer,155681,155686,ihnen,herrmann
+gdc,r2r7.0,155458,156008,valer,155725,155728,Sie,herrmann
+gdc,r2r7.0,155458,156008,valer,155736,155747,meine Muhme,caroline
+gdc,r2r7.0,155458,156008,valer,155736,155741,meine,valer
+gdc,r2r7.0,155458,156008,valer,155749,155752,sie,caroline
+gdc,r2r7.0,155458,156008,valer,155761,155776,alle ihre Güter,desselben-einträgliche-Güter
+gdc,r2r7.0,155458,156008,valer,155766,155770,ihre,caroline
+gdc,r2r7.0,155458,156008,valer,155809,155812,sie,herrmann
+gdc,r2r7.0,155458,156008,valer,155839,155843,mich,valer
+gdc,r2r7.0,155458,156008,valer,155887,155898,zwey Herzen,zwey-Herzen
+gdc,r2r7.0,155458,156008,valer,155930,155936,welche,zwey-Herzen
+gdc,r2r7.0,156013,156967,herrmann,156024,156033,Mein Herr,valer
+gdc,r2r7.0,156013,156967,herrmann,156024,156028,Mein,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156035,156048,ihre Großmuth,ihre-Großmuth
+gdc,r2r7.0,156013,156967,herrmann,156035,156039,ihre,valer
+gdc,r2r7.0,156013,156967,herrmann,156067,156070,sie,ihre-Großmuth
+gdc,r2r7.0,156013,156967,herrmann,156091,156102,das meinige,das-meinige
+gdc,r2r7.0,156013,156967,herrmann,156146,156166,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,156013,156967,herrmann,156188,156191,ich,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156192,156197,ihnen,valer
+gdc,r2r7.0,156013,156967,herrmann,156237,156242,meine,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156268,156274,meinem,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156316,156355,ihrer verehrungswürdigen Fräulein Muhme,caroline
+gdc,r2r7.0,156013,156967,herrmann,156316,156321,ihrer,valer
+gdc,r2r7.0,156013,156967,herrmann,156382,156385,mir,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156399,156402,ich,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156403,156409,meinen,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156446,156453,ihrigen,valer
+gdc,r2r7.0,156013,156967,herrmann,156455,156465,meine Hand,meine-Hand
+gdc,r2r7.0,156013,156967,herrmann,156455,156460,meine,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156472,156475,sie,caroline
+gdc,r2r7.0,156013,156967,herrmann,156502,156505,Sie,caroline
+gdc,r2r7.0,156013,156967,herrmann,156510,156523,eines Herzens,eines-Herzens
+gdc,r2r7.0,156013,156967,herrmann,156532,156535,das,eines-Herzens
+gdc,r2r7.0,156013,156967,herrmann,156536,156539,sie,caroline
+gdc,r2r7.0,156013,156967,herrmann,156567,156578,das meinige,das-meinige
+gdc,r2r7.0,156013,156967,herrmann,156580,156583,das,eines-Herzens
+gdc,r2r7.0,156013,156967,herrmann,156584,156589,ihrer,caroline
+gdc,r2r7.0,156013,156967,herrmann,156687,156704,gnädiges Fräulein,caroline
+gdc,r2r7.0,156013,156967,herrmann,156706,156709,ich,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156735,156740,ihnen,caroline
+gdc,r2r7.0,156013,156967,herrmann,156749,156752,sie,caroline
+gdc,r2r7.0,156013,156967,herrmann,156753,156757,mich,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156772,156789,ihr itziges Glück,ihr-itziges-Glück
+gdc,r2r7.0,156013,156967,herrmann,156772,156775,ihr,caroline
+gdc,r2r7.0,156013,156967,herrmann,156818,156821,ich,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156832,156835,ihr,caroline
+gdc,r2r7.0,156013,156967,herrmann,156866,156871,meine,herrmann
+gdc,r2r7.0,156013,156967,herrmann,156923,156935,ihres Glücks,ihr-itziges-Glück
+gdc,r2r7.0,156013,156967,herrmann,156923,156928,ihres,caroline
+gdc,r2r7.0,156013,156967,herrmann,156936,156941,meine,herrmann
+gdc,r2r7.0,156972,157513,valer,156980,156989,Mein Herr,herrmann
+gdc,r2r7.0,156972,157513,valer,156980,156984,Mein,valer
+gdc,r2r7.0,156972,157513,valer,156991,156994,sie,herrmann
+gdc,r2r7.0,156972,157513,valer,157004,157008,sich,herrmann
+gdc,r2r7.0,156972,157513,valer,157013,157016,mir,valer
+gdc,r2r7.0,156972,157513,valer,157041,157044,Ich,valer
+gdc,r2r7.0,156972,157513,valer,157059,157062,sie,herrmann
+gdc,r2r7.0,156972,157513,valer,157107,157110,sie,herrmann
+gdc,r2r7.0,156972,157513,valer,157138,157150,meiner Muhme,caroline
+gdc,r2r7.0,156972,157513,valer,157138,157144,meiner,valer
+gdc,r2r7.0,156972,157513,valer,157180,157189,ihre Hand,meine-Hand
+gdc,r2r7.0,156972,157513,valer,157180,157184,ihre,herrmann
+gdc,r2r7.0,156972,157513,valer,157203,157206,Sie,caroline
+gdc,r2r7.0,156972,157513,valer,157241,157246,ihrer,caroline
+gdc,r2r7.0,156972,157513,valer,157303,157306,Ich,valer
+gdc,r2r7.0,156972,157513,valer,157341,157344,sie,herrmann
+gdc,r2r7.0,156972,157513,valer,157374,157377,sie,herrmann
+gdc,r2r7.0,156972,157513,valer,157409,157412,mir,valer
+gdc,r2r7.0,156972,157513,valer,157432,157444,meiner Muhme,caroline
+gdc,r2r7.0,156972,157513,valer,157432,157438,meiner,valer
+gdc,r2r7.0,156972,157513,valer,157461,157464,sie,caroline
+gdc,r2r7.0,157528,157541,_stage,157528,157540,zum Herrmann,herrmann
+gdc,r2r7.0,157518,158085,caroline,157544,157547,Ich,caroline
+gdc,r2r7.0,157518,158085,caroline,157562,157565,sie,herrmann
+gdc,r2r7.0,157518,158085,caroline,157572,157576,mich,caroline
+gdc,r2r7.0,157518,158085,caroline,157610,157613,ich,caroline
+gdc,r2r7.0,157518,158085,caroline,157614,157618,mich,caroline
+gdc,r2r7.0,157518,158085,caroline,157657,157674,gnädiges Fräulein,caroline
+gdc,r2r7.0,157518,158085,caroline,157678,157683,ihrem,herrmann
+gdc,r2r7.0,157518,158085,caroline,157701,157704,mir,caroline
+gdc,r2r7.0,157518,158085,caroline,157725,157728,sie,herrmann
+gdc,r2r7.0,157518,158085,caroline,157740,157761,ihre liebste Caroline,caroline
+gdc,r2r7.0,157518,158085,caroline,157740,157744,ihre,herrmann
+gdc,r2r7.0,157518,158085,caroline,157770,157773,sie,herrmann
+gdc,r2r7.0,157518,158085,caroline,157785,157788,mir,caroline
+gdc,r2r7.0,157518,158085,caroline,157844,157847,ich,caroline
+gdc,r2r7.0,157518,158085,caroline,157848,157851,sie,herrmann
+gdc,r2r7.0,157518,158085,caroline,157887,157890,ich,caroline
+gdc,r2r7.0,157518,158085,caroline,157913,157916,ich,caroline
+gdc,r2r7.0,157518,158085,caroline,157917,157920,sie,herrmann
+gdc,r2r7.0,157518,158085,caroline,157942,157950,Ihr Herz,das-meinige
+gdc,r2r7.0,157518,158085,caroline,157942,157945,Ihr,herrmann
+gdc,r2r7.0,157518,158085,caroline,157984,158002,Liebster Bräutigam,herrmann
+gdc,r2r7.0,157518,158085,caroline,158011,158014,sie,herrmann
+gdc,r2r7.0,157518,158085,caroline,158021,158031,mein Glück,mein-Glück
+gdc,r2r7.0,157518,158085,caroline,158021,158025,mein,caroline
+gdc,r2r7.0,157518,158085,caroline,158056,158059,ich,caroline
+gdc,r2r7.0,157518,158085,caroline,158060,158062,es,mein-Glück
+gdc,r2r7.0,157518,158085,caroline,158067,158072,ihnen,herrmann
+gdc,r2r7.0,158100,158120,_stage,158106,158109,ihr,caroline
+gdc,r2r7.0,158100,158120,_stage,158113,158119,Füssen,Füssen
+gdc,r2r7.0,158090,158186,herrmann,158132,158135,ich,herrmann
+gdc,r2r7.0,158090,158186,herrmann,158165,158177,ihren Füssen,Füssen
+gdc,r2r7.0,158090,158186,herrmann,158165,158170,ihren,caroline
+gdc,r2r7.0,158191,158628,johann,158205,158208,ich,johann
+gdc,r2r7.0,158191,158628,johann,158301,158311,der Henker,der-Henker
+gdc,r2r7.0,158191,158628,johann,158319,158333,was für Canäle,den-Canal-des-Grafen-/-den-Canal-der-Gräfinn
+gdc,r2r7.0,158191,158628,johann,158338,158358,die Rathsherrnstelle,die-Rathsherrnstelle
+gdc,r2r7.0,158191,158628,johann,158385,158395,des Grafen,der_graf
+gdc,r2r7.0,158191,158628,johann,158400,158421,den Canal der Gräfinn,den-Canal-des-Grafen-/-den-Canal-der-Gräfinn
+gdc,r2r7.0,158191,158628,johann,158410,158421,der Gräfinn,die_gräfinn
+gdc,r2r7.0,158191,158628,johann,158433,158445,meinem Herrn,valer
+gdc,r2r7.0,158191,158628,johann,158433,158439,meinem,johann
+gdc,r2r7.0,158191,158628,johann,158451,158463,meinem Herrn,valer
+gdc,r2r7.0,158191,158628,johann,158451,158457,meinem,johann
+gdc,r2r7.0,158191,158628,johann,158467,158479,seiner Muhme,caroline
+gdc,r2r7.0,158191,158628,johann,158467,158473,seiner,valer
+gdc,r2r7.0,158191,158628,johann,158485,158488,die,caroline
+gdc,r2r7.0,158191,158628,johann,158493,158502,der Canal,der-Canal
+gdc,r2r7.0,158191,158628,johann,158510,158517,welchen,der-Canal
+gdc,r2r7.0,158191,158628,johann,158518,158521,sie,caroline
+gdc,r2r7.0,158191,158628,johann,158522,158540,der Herr Secretair,herrmann
+gdc,r2r7.0,158191,158628,johann,158563,158584,Ihr Herren Candidaten,
+gdc,r2r7.0,158191,158628,johann,158599,158603,euch,

@@ -1,0 +1,1407 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,x4vf.0,1598,1689,gehrmann,1609,1613,Mein,gehrmann
+gdc,x4vf.0,1598,1689,gehrmann,1622,1626,mein,gehrmann
+gdc,x4vf.0,1757,2002,gehrmann,1816,1819,ich,gehrmann
+gdc,x4vf.0,2311,2626,gehrmann,2435,2438,ich,gehrmann
+gdc,x4vf.0,2311,2626,gehrmann,2465,2469,mich,gehrmann
+gdc,x4vf.0,3099,3229,gehrmann,3189,3192,ich,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3448,3451,ich,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3475,3480,meine,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3492,3496,mein,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3504,3509,meine,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3587,3591,mein,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3598,3601,ich,gehrmann
+gdc,x4vf.0,3288,3687,gehrmann,3666,3671,meine,gehrmann
+gdc,x4vf.0,4834,4862,gehrmann,4857,4861,mein,gehrmann
+gdc,x4vf.0,4915,4978,gehrmann,4926,4930,Mein,gehrmann
+gdc,x4vf.0,5553,6518,gehrmann,5784,5787,ich,gehrmann
+gdc,x4vf.0,5553,6518,gehrmann,5982,5986,mich,gehrmann
+gdc,x4vf.0,5553,6518,gehrmann,6090,6094,mich,gehrmann
+gdc,x4vf.0,5553,6518,gehrmann,6182,6185,ich,gehrmann
+gdc,x4vf.0,5553,6518,gehrmann,6242,6245,ich,gehrmann
+gdc,x4vf.0,5553,6518,gehrmann,6370,6373,ich,gehrmann
+gdc,x4vf.0,7219,8231,gehrmann,7388,7391,ich,gehrmann
+gdc,x4vf.0,7219,8231,gehrmann,7928,7931,Ich,gehrmann
+gdc,x4vf.0,7219,8231,gehrmann,8016,8019,ich,gehrmann
+gdc,x4vf.0,8308,8892,gehrmann,8852,8856,mein,gehrmann
+gdc,x4vf.0,9623,9657,emerike,9643,9648,meine,emerike
+gdc,x4vf.0,9662,9708,gehrmann,9686,9691,meine,gehrmann
+gdc,x4vf.0,9780,9821,kunigunde,9801,9806,meine,kunigunde
+gdc,x4vf.0,9973,10447,kunigunde,10299,10303,mich,kunigunde
+gdc,x4vf.0,10480,10897,kunigunde,10534,10538,mich,kunigunde
+gdc,x4vf.0,10480,10897,kunigunde,10608,10611,ich,kunigunde
+gdc,x4vf.0,11383,11486,kunigunde,11405,11408,ich,kunigunde
+gdc,x4vf.0,11885,12045,gehrmann,11934,11940,meinem,gehrmann
+gdc,x4vf.0,12050,12505,kunigunde,12062,12065,Ich,kunigunde
+gdc,x4vf.0,12050,12505,kunigunde,12105,12108,ich,kunigunde
+gdc,x4vf.0,12050,12505,kunigunde,12119,12124,meine,kunigunde
+gdc,x4vf.0,12050,12505,kunigunde,12321,12324,Ich,kunigunde
+gdc,x4vf.0,12563,12733,kunigunde,12729,12732,mir,kunigunde
+gdc,x4vf.0,13203,13644,kunigunde,13437,13440,ich,kunigunde
+gdc,x4vf.0,13203,13644,kunigunde,13597,13600,ich,kunigunde
+gdc,x4vf.0,13773,13867,gehrmann,13843,13847,mein,gehrmann
+gdc,x4vf.0,13872,13922,emerike,13903,13906,mir,emerike
+gdc,x4vf.0,14066,14140,emerike,14127,14133,meiner,emerike
+gdc,x4vf.0,14343,14442,emerike,14374,14377,mir,emerike
+gdc,x4vf.0,14514,14662,emerike,14612,14615,ich,emerike
+gdc,x4vf.0,14514,14662,emerike,14631,14634,ich,emerike
+gdc,x4vf.0,14789,14913,emerike,14831,14834,ich,emerike
+gdc,x4vf.0,14789,14913,emerike,14876,14879,ich,emerike
+gdc,x4vf.0,15578,15638,emerike,15626,15629,ich,emerike
+gdc,x4vf.0,15761,15798,gehrmann,15777,15780,ich,gehrmann
+gdc,x4vf.0,16328,16718,gehrmann,16605,16611,meinem,gehrmann
+gdc,x4vf.0,16905,17699,gehrmann,17484,17487,Ich,gehrmann
+gdc,x4vf.0,16905,17699,gehrmann,17606,17609,ich,gehrmann
+gdc,x4vf.0,17826,17874,emerike,17856,17860,mich,emerike
+gdc,x4vf.0,18161,18198,emerike,18176,18179,ich,emerike
+gdc,x4vf.0,18561,18657,emerike,18610,18613,mir,emerike
+gdc,x4vf.0,18729,18788,emerike,18739,18742,Ich,emerike
+gdc,x4vf.0,18729,18788,emerike,18765,18768,mir,emerike
+gdc,x4vf.0,18810,18874,emerike,18841,18844,mir,emerike
+gdc,x4vf.0,19047,19106,emerike,19083,19087,Mein,emerike
+gdc,x4vf.0,19407,19475,emerike,19466,19469,mir,emerike
+gdc,x4vf.0,19510,19587,emerike,19550,19553,mir,emerike
+gdc,x4vf.0,19510,19587,emerike,19569,19573,mich,emerike
+gdc,x4vf.0,19615,19686,emerike,19645,19649,mich,emerike
+gdc,x4vf.0,19615,19686,emerike,19671,19675,mich,emerike
+gdc,x4vf.0,19714,19829,emerike,19739,19742,ich,emerike
+gdc,x4vf.0,19857,19976,emerike,19916,19919,mir,emerike
+gdc,x4vf.0,19857,19976,emerike,19938,19941,ich,emerike
+gdc,x4vf.0,20161,20317,emerike,20182,20185,ich,emerike
+gdc,x4vf.0,20161,20317,emerike,20186,20189,mir,emerike
+gdc,x4vf.0,20161,20317,emerike,20258,20261,ich,emerike
+gdc,x4vf.0,20161,20317,emerike,20308,20311,mir,emerike
+gdc,x4vf.0,20362,20691,emerike,20479,20482,ich,emerike
+gdc,x4vf.0,20362,20691,emerike,20585,20588,ich,emerike
+gdc,x4vf.0,20362,20691,emerike,20639,20642,ich,emerike
+gdc,x4vf.0,20362,20691,emerike,20648,20652,mich,emerike
+gdc,x4vf.0,20749,20895,emerike,20775,20778,ich,emerike
+gdc,x4vf.0,20962,21047,emerike,20992,20995,ich,emerike
+gdc,x4vf.0,20962,21047,emerike,21038,21041,ich,emerike
+gdc,x4vf.0,21209,21240,emerike,21219,21222,Ich,emerike
+gdc,x4vf.0,21357,21433,emerike,21378,21381,Ich,emerike
+gdc,x4vf.0,21729,21974,emerike,21769,21772,mir,emerike
+gdc,x4vf.0,22022,22193,emerike,22043,22046,Ich,emerike
+gdc,x4vf.0,22022,22193,emerike,22067,22070,Ich,emerike
+gdc,x4vf.0,22856,22902,flint,22882,22885,mir,flint
+gdc,x4vf.0,23246,23304,emerike,23272,23275,ich,emerike
+gdc,x4vf.0,23309,23372,flint,23342,23345,ich,flint
+gdc,x4vf.0,23309,23372,flint,23352,23358,meinen,flint
+gdc,x4vf.0,23465,23509,emerike,23480,23483,ich,emerike
+gdc,x4vf.0,23683,23749,emerike,23714,23717,ich,emerike
+gdc,x4vf.0,24063,24134,flint,24091,24094,ich,flint
+gdc,x4vf.0,24139,24235,emerike,24193,24197,mich,emerike
+gdc,x4vf.0,24547,24652,emerike,24591,24594,ich,emerike
+gdc,x4vf.0,24657,24725,flint,24665,24668,Ich,flint
+gdc,x4vf.0,24657,24725,flint,24675,24678,mir,flint
+gdc,x4vf.0,24730,24785,emerike,24769,24772,ich,emerike
+gdc,x4vf.0,25300,25345,emerike,25319,25322,ich,emerike
+gdc,x4vf.0,25350,25399,flint,25358,25361,Mir,flint
+gdc,x4vf.0,25486,25532,emerike,25508,25511,ich,emerike
+gdc,x4vf.0,25537,25560,flint,25555,25559,mich,flint
+gdc,x4vf.0,25565,25614,emerike,25590,25593,ich,emerike
+gdc,x4vf.0,25620,25644,flint,25628,25631,Ich,flint
+gdc,x4vf.0,25746,25824,emerike,25756,25760,Mein,emerike
+gdc,x4vf.0,25746,25824,emerike,25775,25778,mir,emerike
+gdc,x4vf.0,25746,25824,emerike,25796,25799,mir,emerike
+gdc,x4vf.0,25829,25857,flint,25848,25851,ich,flint
+gdc,x4vf.0,25862,25911,emerike,25899,25902,mir,emerike
+gdc,x4vf.0,25970,26088,emerike,25980,25983,Ich,emerike
+gdc,x4vf.0,26124,26342,emerike,26302,26305,ich,emerike
+gdc,x4vf.0,26398,26431,emerike,26413,26416,ich,emerike
+gdc,x4vf.0,26437,26511,flint,26458,26461,ich,flint
+gdc,x4vf.0,26437,26511,flint,26469,26472,ich,flint
+gdc,x4vf.0,26630,26746,emerike,26658,26661,ich,emerike
+gdc,x4vf.0,26630,26746,emerike,26722,26726,mich,emerike
+gdc,x4vf.0,26966,27156,emerike,27047,27050,ich,emerike
+gdc,x4vf.0,26966,27156,emerike,27137,27141,mein,emerike
+gdc,x4vf.0,27210,27491,emerike,27261,27264,ich,emerike
+gdc,x4vf.0,27210,27491,emerike,27315,27318,ich,emerike
+gdc,x4vf.0,27210,27491,emerike,27367,27370,mir,emerike
+gdc,x4vf.0,27210,27491,emerike,27404,27407,mir,emerike
+gdc,x4vf.0,27688,27769,madame_wölbing,27731,27734,ich,madame_wölbing
+gdc,x4vf.0,27774,27887,gehrmann,27796,27799,ich,gehrmann
+gdc,x4vf.0,27774,27887,gehrmann,27801,27804,mir,gehrmann
+gdc,x4vf.0,27892,27951,madame_wölbing,27941,27945,mein,madame_wölbing
+gdc,x4vf.0,28147,28385,madame_wölbing,28179,28182,ich,madame_wölbing
+gdc,x4vf.0,28147,28385,madame_wölbing,28334,28338,mein,madame_wölbing
+gdc,x4vf.0,28390,28492,gehrmann,28439,28443,mein,gehrmann
+gdc,x4vf.0,28390,28492,gehrmann,28459,28462,ich,gehrmann
+gdc,x4vf.0,28498,28749,madame_wölbing,28542,28548,meinem,madame_wölbing
+gdc,x4vf.0,28498,28749,madame_wölbing,28612,28617,meine,madame_wölbing
+gdc,x4vf.0,28498,28749,madame_wölbing,28644,28647,ich,madame_wölbing
+gdc,x4vf.0,28498,28749,madame_wölbing,28656,28660,mich,madame_wölbing
+gdc,x4vf.0,29060,29200,gehrmann,29127,29130,mir,gehrmann
+gdc,x4vf.0,29060,29200,gehrmann,29150,29154,mein,gehrmann
+gdc,x4vf.0,29510,29629,madame_wölbing,29527,29530,Ich,madame_wölbing
+gdc,x4vf.0,29679,29774,madame_wölbing,29707,29710,ich,madame_wölbing
+gdc,x4vf.0,30345,30535,gehrmann,30367,30370,Ich,gehrmann
+gdc,x4vf.0,30540,30657,madame_wölbing,30635,30639,mein,madame_wölbing
+gdc,x4vf.0,30663,31010,gehrmann,30750,30753,ich,gehrmann
+gdc,x4vf.0,30663,31010,gehrmann,30760,30763,ich,gehrmann
+gdc,x4vf.0,30663,31010,gehrmann,30819,30822,ich,gehrmann
+gdc,x4vf.0,30663,31010,gehrmann,30886,30889,mir,gehrmann
+gdc,x4vf.0,31015,31853,madame_wölbing,31038,31042,mein,madame_wölbing
+gdc,x4vf.0,31015,31853,madame_wölbing,31077,31080,ich,madame_wölbing
+gdc,x4vf.0,31015,31853,madame_wölbing,31081,31087,meinen,madame_wölbing
+gdc,x4vf.0,31015,31853,madame_wölbing,31700,31703,ich,madame_wölbing
+gdc,x4vf.0,31015,31853,madame_wölbing,31766,31770,mich,madame_wölbing
+gdc,x4vf.0,32021,32087,madame_wölbing,32038,32042,Mein,madame_wölbing
+gdc,x4vf.0,32346,32371,gehrmann,32367,32370,ich,gehrmann
+gdc,x4vf.0,32733,32803,gehrmann,32752,32755,ich,gehrmann
+gdc,x4vf.0,32733,32803,gehrmann,32764,32767,ich,gehrmann
+gdc,x4vf.0,33162,33314,gehrmann,33203,33209,meinem,gehrmann
+gdc,x4vf.0,33162,33314,gehrmann,33262,33265,mir,gehrmann
+gdc,x4vf.0,33162,33314,gehrmann,33285,33288,ich,gehrmann
+gdc,x4vf.0,33346,34234,gehrmann,33413,33416,mir,gehrmann
+gdc,x4vf.0,33346,34234,gehrmann,33562,33565,mir,gehrmann
+gdc,x4vf.0,33346,34234,gehrmann,33607,33610,ich,gehrmann
+gdc,x4vf.0,33346,34234,gehrmann,34136,34140,mich,gehrmann
+gdc,x4vf.0,36532,36584,erster_diener,36574,36578,mein,erster_diener
+gdc,x4vf.0,37009,37046,christine,37021,37024,Ich,christine
+gdc,x4vf.0,37081,37317,christine,37108,37111,ich,christine
+gdc,x4vf.0,37322,37409,walter,37369,37372,ich,walter
+gdc,x4vf.0,37758,37937,christine,37790,37793,ich,christine
+gdc,x4vf.0,37758,37937,christine,37795,37799,mein,christine
+gdc,x4vf.0,38099,38174,christine,38119,38123,mein,christine
+gdc,x4vf.0,38099,38174,christine,38164,38167,ich,christine
+gdc,x4vf.0,38239,38287,christine,38273,38276,mir,christine
+gdc,x4vf.0,38367,38429,christine,38402,38408,meiner,christine
+gdc,x4vf.0,38524,38559,christine,38555,38558,ich,christine
+gdc,x4vf.0,38616,38713,christine,38639,38642,Ich,christine
+gdc,x4vf.0,38616,38713,christine,38684,38687,mir,christine
+gdc,x4vf.0,38737,38804,christine,38761,38766,meine,christine
+gdc,x4vf.0,38737,38804,christine,38784,38787,mir,christine
+gdc,x4vf.0,38839,39191,christine,39032,39037,meine,christine
+gdc,x4vf.0,38839,39191,christine,39074,39078,mich,christine
+gdc,x4vf.0,40087,40176,jüngling,40151,40154,mir,jüngling
+gdc,x4vf.0,40292,40352,jüngling,40343,40346,ich,jüngling
+gdc,x4vf.0,40388,40417,jüngling,40399,40402,Ich,jüngling
+gdc,x4vf.0,40484,40556,jüngling,40509,40512,mir,jüngling
+gdc,x4vf.0,40716,40965,jüngling,40736,40739,mir,jüngling
+gdc,x4vf.0,40716,40965,jüngling,40786,40790,mich,jüngling
+gdc,x4vf.0,40716,40965,jüngling,40889,40892,ich,jüngling
+gdc,x4vf.0,40716,40965,jüngling,40934,40938,mich,jüngling
+gdc,x4vf.0,41169,41240,jüngling,41184,41187,ich,jüngling
+gdc,x4vf.0,41169,41240,jüngling,41192,41198,meinen,jüngling
+gdc,x4vf.0,41338,41482,jüngling,41368,41373,meine,jüngling
+gdc,x4vf.0,41338,41482,jüngling,41402,41405,Ich,jüngling
+gdc,x4vf.0,41338,41482,jüngling,41411,41417,meinen,jüngling
+gdc,x4vf.0,41535,41661,jüngling,41594,41597,mir,jüngling
+gdc,x4vf.0,41719,42020,jüngling,41746,41750,mich,jüngling
+gdc,x4vf.0,42114,42165,jüngling,42153,42156,mir,jüngling
+gdc,x4vf.0,42212,42385,jüngling,42234,42237,Ich,jüngling
+gdc,x4vf.0,42212,42385,jüngling,42301,42307,meines,jüngling
+gdc,x4vf.0,42501,42660,jüngling,42604,42607,mir,jüngling
+gdc,x4vf.0,42501,42660,jüngling,42613,42616,ich,jüngling
+gdc,x4vf.0,42501,42660,jüngling,42645,42648,ich,jüngling
+gdc,x4vf.0,42501,42660,jüngling,42649,42653,mich,jüngling
+gdc,x4vf.0,42949,43023,jüngling,42963,42966,ich,jüngling
+gdc,x4vf.0,42949,43023,jüngling,42977,42980,ich,jüngling
+gdc,x4vf.0,42949,43023,jüngling,43000,43003,ich,jüngling
+gdc,x4vf.0,43327,43415,jüngling,43340,43344,mein,jüngling
+gdc,x4vf.0,43327,43415,jüngling,43351,43355,mein,jüngling
+gdc,x4vf.0,43327,43415,jüngling,43364,43368,mein,jüngling
+gdc,x4vf.0,43444,43564,jüngling,43480,43483,Ich,jüngling
+gdc,x4vf.0,43682,43714,jüngling,43704,43708,mein,jüngling
+gdc,x4vf.0,43817,43908,jüngling,43887,43890,ich,jüngling
+gdc,x4vf.0,43913,43937,flint,43923,43926,ich,flint
+gdc,x4vf.0,43942,44215,jüngling,44091,44094,ich,jüngling
+gdc,x4vf.0,43942,44215,jüngling,44183,44186,mir,jüngling
+gdc,x4vf.0,44220,44257,flint,44228,44231,Ich,flint
+gdc,x4vf.0,44291,44365,walter,44342,44345,ich,walter
+gdc,x4vf.0,44370,44434,jüngling,44414,44417,ich,jüngling
+gdc,x4vf.0,44486,45114,jüngling,44545,44548,mir,jüngling
+gdc,x4vf.0,44486,45114,jüngling,44612,44616,mich,jüngling
+gdc,x4vf.0,44486,45114,jüngling,44629,44632,ich,jüngling
+gdc,x4vf.0,44486,45114,jüngling,44758,44761,ich,jüngling
+gdc,x4vf.0,44486,45114,jüngling,44810,44813,mir,jüngling
+gdc,x4vf.0,44486,45114,jüngling,44833,44836,Ich,jüngling
+gdc,x4vf.0,45120,45195,flint,45147,45150,Ich,flint
+gdc,x4vf.0,45490,45526,walter,45516,45520,mein,walter
+gdc,x4vf.0,45777,45904,giebel,45894,45897,ich,giebel
+gdc,x4vf.0,46064,46103,giebel,46088,46091,Mir,giebel
+gdc,x4vf.0,46189,46217,giebel,46198,46201,Ich,giebel
+gdc,x4vf.0,46276,46314,giebel,46284,46287,Ich,giebel
+gdc,x4vf.0,46356,46389,giebel,46374,46377,mir,giebel
+gdc,x4vf.0,46413,46451,giebel,46437,46440,Ich,giebel
+gdc,x4vf.0,46488,46533,giebel,46502,46505,mir,giebel
+gdc,x4vf.0,46800,46826,flint,46808,46811,Ich,flint
+gdc,x4vf.0,47061,47100,giebel,47077,47080,Ich,giebel
+gdc,x4vf.0,47106,47211,flint,47139,47142,ich,flint
+gdc,x4vf.0,47370,47397,giebel,47392,47396,mich,giebel
+gdc,x4vf.0,47528,47630,giebel,47622,47625,mir,giebel
+gdc,x4vf.0,47687,47814,giebel,47732,47735,ich,giebel
+gdc,x4vf.0,47687,47814,giebel,47742,47745,ich,giebel
+gdc,x4vf.0,48070,48225,giebel,48079,48082,Ich,giebel
+gdc,x4vf.0,48070,48225,giebel,48088,48091,mir,giebel
+gdc,x4vf.0,48284,48369,giebel,48317,48320,ich,giebel
+gdc,x4vf.0,48284,48369,giebel,48321,48324,mir,giebel
+gdc,x4vf.0,48874,48914,flint,48887,48890,ich,flint
+gdc,x4vf.0,49083,49112,flint,49106,49109,ich,flint
+gdc,x4vf.0,49117,49191,giebel,49152,49155,mir,giebel
+gdc,x4vf.0,49228,49306,giebel,49280,49283,mir,giebel
+gdc,x4vf.0,49446,49539,giebel,49523,49529,meinen,giebel
+gdc,x4vf.0,49585,49707,giebel,49665,49670,meine,giebel
+gdc,x4vf.0,49740,49829,giebel,49768,49771,ich,giebel
+gdc,x4vf.0,49834,49956,flint,49912,49915,ich,flint
+gdc,x4vf.0,50353,50412,flint,50391,50394,Ich,flint
+gdc,x4vf.0,50418,50624,giebel,50436,50440,mein,giebel
+gdc,x4vf.0,50418,50624,giebel,50488,50491,ich,giebel
+gdc,x4vf.0,50418,50624,giebel,50507,50510,ich,giebel
+gdc,x4vf.0,50418,50624,giebel,50529,50535,meiner,giebel
+gdc,x4vf.0,50629,50649,flint,50639,50642,ich,flint
+gdc,x4vf.0,50654,50840,giebel,50728,50731,ich,giebel
+gdc,x4vf.0,50845,50935,flint,50853,50856,Ich,flint
+gdc,x4vf.0,50940,51133,giebel,50954,50957,mir,giebel
+gdc,x4vf.0,50940,51133,giebel,51087,51090,mir,giebel
+gdc,x4vf.0,51196,51273,giebel,51221,51224,mir,giebel
+gdc,x4vf.0,51196,51273,giebel,51229,51235,meinem,giebel
+gdc,x4vf.0,51316,51440,giebel,51364,51367,ich,giebel
+gdc,x4vf.0,51316,51440,giebel,51389,51392,mir,giebel
+gdc,x4vf.0,51729,51748,flint,51737,51741,Mein,flint
+gdc,x4vf.0,51945,52124,giebel,52004,52007,ich,giebel
+gdc,x4vf.0,52151,52410,giebel,52201,52204,ich,giebel
+gdc,x4vf.0,52151,52410,giebel,52249,52252,mir,giebel
+gdc,x4vf.0,52151,52410,giebel,52277,52281,mich,giebel
+gdc,x4vf.0,52151,52410,giebel,52326,52330,mich,giebel
+gdc,x4vf.0,52415,52452,flint,52423,52426,Mir,flint
+gdc,x4vf.0,52457,52600,giebel,52574,52577,mir,giebel
+gdc,x4vf.0,52636,53151,giebel,52734,52738,mich,giebel
+gdc,x4vf.0,52636,53151,giebel,52962,52965,ich,giebel
+gdc,x4vf.0,52636,53151,giebel,53013,53017,mein,giebel
+gdc,x4vf.0,52636,53151,giebel,53056,53059,ich,giebel
+gdc,x4vf.0,52636,53151,giebel,53097,53103,meinem,giebel
+gdc,x4vf.0,53186,53760,giebel,53206,53210,mich,giebel
+gdc,x4vf.0,53186,53760,giebel,53493,53499,meinem,giebel
+gdc,x4vf.0,53186,53760,giebel,53654,53658,mich,giebel
+gdc,x4vf.0,54203,54321,gehrmann,54299,54303,mein,gehrmann
+gdc,x4vf.0,54326,54446,flint,54334,54337,Ich,flint
+gdc,x4vf.0,54452,54684,gehrmann,54463,54466,Ich,gehrmann
+gdc,x4vf.0,54452,54684,gehrmann,54580,54583,mir,gehrmann
+gdc,x4vf.0,54452,54684,gehrmann,54594,54597,ich,gehrmann
+gdc,x4vf.0,54690,54816,flint,54718,54721,ich,flint
+gdc,x4vf.0,54690,54816,flint,54754,54757,ich,flint
+gdc,x4vf.0,54821,54994,walter,54844,54847,ich,walter
+gdc,x4vf.0,55092,55157,emerike,55144,55147,mir,emerike
+gdc,x4vf.0,55321,55343,emerike,55338,55341,ich,emerike
+gdc,x4vf.0,55457,55503,flint,55465,55468,Ich,flint
+gdc,x4vf.0,55457,55503,flint,55489,55494,meine,flint
+gdc,x4vf.0,55623,55671,flint,55631,55634,Ich,flint
+gdc,x4vf.0,55676,55752,emerike,55728,55732,mich,emerike
+gdc,x4vf.0,55859,55897,flint,55880,55883,Ich,flint
+gdc,x4vf.0,55902,56001,emerike,55943,55946,mir,emerike
+gdc,x4vf.0,55902,56001,emerike,55978,55981,mir,emerike
+gdc,x4vf.0,56040,56069,emerike,56050,56053,Ich,emerike
+gdc,x4vf.0,56074,56125,flint,56093,56096,ich,flint
+gdc,x4vf.0,56131,56236,emerike,56159,56162,mir,emerike
+gdc,x4vf.0,56131,56236,emerike,56203,56206,ich,emerike
+gdc,x4vf.0,56241,56303,flint,56286,56289,Ich,flint
+gdc,x4vf.0,56388,56458,emerike,56402,56405,mir,emerike
+gdc,x4vf.0,56484,56697,emerike,56519,56525,meinen,emerike
+gdc,x4vf.0,56484,56697,emerike,56558,56561,mir,emerike
+gdc,x4vf.0,56484,56697,emerike,56643,56646,mir,emerike
+gdc,x4vf.0,56857,56939,emerike,56875,56879,mich,emerike
+gdc,x4vf.0,56857,56939,emerike,56909,56912,mir,emerike
+gdc,x4vf.0,57216,57279,emerike,57259,57263,mich,emerike
+gdc,x4vf.0,57284,57335,flint,57304,57307,Ich,flint
+gdc,x4vf.0,57425,57537,emerike,57461,57464,mir,emerike
+gdc,x4vf.0,57425,57537,emerike,57484,57487,ich,emerike
+gdc,x4vf.0,57576,57657,emerike,57598,57601,ich,emerike
+gdc,x4vf.0,57576,57657,emerike,57648,57651,mir,emerike
+gdc,x4vf.0,57682,57831,emerike,57706,57709,ich,emerike
+gdc,x4vf.0,57682,57831,emerike,57716,57719,Ich,emerike
+gdc,x4vf.0,57682,57831,emerike,57725,57728,mir,emerike
+gdc,x4vf.0,57682,57831,emerike,57767,57770,ich,emerike
+gdc,x4vf.0,57682,57831,emerike,57788,57791,ich,emerike
+gdc,x4vf.0,57886,57941,emerike,57900,57903,ich,emerike
+gdc,x4vf.0,57886,57941,emerike,57921,57924,ich,emerike
+gdc,x4vf.0,57946,57985,flint,57958,57961,mir,flint
+gdc,x4vf.0,57990,58047,emerike,58026,58030,mich,emerike
+gdc,x4vf.0,58455,58512,emerike,58508,58511,ich,emerike
+gdc,x4vf.0,58787,58833,emerike,58806,58809,ich,emerike
+gdc,x4vf.0,58863,58898,emerike,58878,58881,ich,emerike
+gdc,x4vf.0,59073,59163,emerike,59101,59104,Ich,emerike
+gdc,x4vf.0,59073,59163,emerike,59129,59132,ich,emerike
+gdc,x4vf.0,59196,59353,emerike,59211,59214,ich,emerike
+gdc,x4vf.0,59196,59353,emerike,59290,59293,ich,emerike
+gdc,x4vf.0,59196,59353,emerike,59329,59332,ich,emerike
+gdc,x4vf.0,59482,59581,emerike,59503,59506,Ich,emerike
+gdc,x4vf.0,59482,59581,emerike,59562,59565,mir,emerike
+gdc,x4vf.0,59586,59858,flint,59685,59690,meine,flint
+gdc,x4vf.0,59586,59858,flint,59744,59747,mir,flint
+gdc,x4vf.0,59586,59858,flint,59829,59832,ich,flint
+gdc,x4vf.0,60001,60196,gehrmann,60036,60039,mir,gehrmann
+gdc,x4vf.0,60262,60329,emerike,60277,60280,mir,emerike
+gdc,x4vf.0,60334,60399,gehrmann,60363,60366,ich,gehrmann
+gdc,x4vf.0,60334,60399,gehrmann,60385,60390,meine,gehrmann
+gdc,x4vf.0,60404,60655,emerike,60414,60417,Ich,emerike
+gdc,x4vf.0,60404,60655,emerike,60562,60565,ich,emerike
+gdc,x4vf.0,60404,60655,emerike,60644,60647,mir,emerike
+gdc,x4vf.0,60740,60848,emerike,60796,60800,mich,emerike
+gdc,x4vf.0,60740,60848,emerike,60812,60815,ich,emerike
+gdc,x4vf.0,60973,61310,emerike,60998,61001,Ich,emerike
+gdc,x4vf.0,60973,61310,emerike,61044,61049,meine,emerike
+gdc,x4vf.0,60973,61310,emerike,61115,61118,ich,emerike
+gdc,x4vf.0,60973,61310,emerike,61151,61154,ich,emerike
+gdc,x4vf.0,60973,61310,emerike,61155,61159,mich,emerike
+gdc,x4vf.0,60973,61310,emerike,61265,61268,ich,emerike
+gdc,x4vf.0,61472,61484,flint,61480,61483,Ich,flint
+gdc,x4vf.0,61489,61525,gehrmann,61516,61519,mir,gehrmann
+gdc,x4vf.0,61530,61555,flint,61551,61554,ich,flint
+gdc,x4vf.0,61560,61737,gehrmann,61616,61620,mich,gehrmann
+gdc,x4vf.0,61765,61903,gehrmann,61875,61878,ich,gehrmann
+gdc,x4vf.0,61908,61925,flint,61916,61919,Ich,flint
+gdc,x4vf.0,62049,62145,flint,62057,62061,Mein,flint
+gdc,x4vf.0,62150,62366,gehrmann,62160,62164,Mein,gehrmann
+gdc,x4vf.0,62150,62366,gehrmann,62346,62351,meine,gehrmann
+gdc,x4vf.0,62434,62485,flint,62442,62445,Ich,flint
+gdc,x4vf.0,62555,62567,flint,62563,62566,Ich,flint
+gdc,x4vf.0,63039,63124,flint,63062,63065,Ich,flint
+gdc,x4vf.0,63164,63194,flint,63172,63175,Ich,flint
+gdc,x4vf.0,63164,63194,flint,63181,63186,meine,flint
+gdc,x4vf.0,63256,63400,flint,63277,63280,ich,flint
+gdc,x4vf.0,63406,63508,gehrmann,63433,63437,mein,gehrmann
+gdc,x4vf.0,63406,63508,gehrmann,63504,63507,mir,gehrmann
+gdc,x4vf.0,63513,63554,flint,63530,63533,ich,flint
+gdc,x4vf.0,63559,63648,gehrmann,63604,63607,ich,gehrmann
+gdc,x4vf.0,63653,63690,flint,63676,63682,meinem,flint
+gdc,x4vf.0,63936,63998,flint,63957,63960,Ich,flint
+gdc,x4vf.0,64004,65059,gehrmann,64168,64174,meinen,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64211,64214,ich,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64282,64285,mir,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64333,64336,Ich,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64350,64354,mein,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64559,64565,meinem,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64623,64626,ich,gehrmann
+gdc,x4vf.0,64004,65059,gehrmann,64683,64686,ich,gehrmann
+gdc,x4vf.0,65507,65603,walter,65532,65535,Ich,walter
+gdc,x4vf.0,65988,66045,madame_wölbing,66005,66008,Ich,madame_wölbing
+gdc,x4vf.0,66232,66330,madame_wölbing,66298,66301,ich,madame_wölbing
+gdc,x4vf.0,66570,66622,madame_wölbing,66587,66590,Ich,madame_wölbing
+gdc,x4vf.0,66878,66917,madame_wölbing,66907,66911,mein,madame_wölbing
+gdc,x4vf.0,66994,67029,madame_wölbing,67019,67022,mir,madame_wölbing
+gdc,x4vf.0,67074,67115,madame_wölbing,67105,67109,mein,madame_wölbing
+gdc,x4vf.0,67549,67577,madame_wölbing,67566,67570,Mein,madame_wölbing
+gdc,x4vf.0,67637,67671,madame_wölbing,67654,67657,Ich,madame_wölbing
+gdc,x4vf.0,67828,67874,madame_wölbing,67845,67848,Ich,madame_wölbing
+gdc,x4vf.0,68090,68144,madame_wölbing,68107,68110,Ich,madame_wölbing
+gdc,x4vf.0,68290,68347,madame_wölbing,68319,68322,mir,madame_wölbing
+gdc,x4vf.0,68290,68347,madame_wölbing,68327,68333,meinem,madame_wölbing
+gdc,x4vf.0,68386,68419,madame_wölbing,68409,68413,mein,madame_wölbing
+gdc,x4vf.0,68476,68892,madame_wölbing,68563,68569,meiner,madame_wölbing
+gdc,x4vf.0,68476,68892,madame_wölbing,68614,68618,mein,madame_wölbing
+gdc,x4vf.0,68476,68892,madame_wölbing,68716,68722,meinem,madame_wölbing
+gdc,x4vf.0,68476,68892,madame_wölbing,68771,68776,Meine,madame_wölbing
+gdc,x4vf.0,69604,69968,madame_wölbing,69729,69733,mich,madame_wölbing
+gdc,x4vf.0,69604,69968,madame_wölbing,69810,69813,ich,madame_wölbing
+gdc,x4vf.0,69604,69968,madame_wölbing,69901,69904,ich,madame_wölbing
+gdc,x4vf.0,69604,69968,madame_wölbing,69905,69911,meinem,madame_wölbing
+gdc,x4vf.0,70012,70271,madame_wölbing,70121,70125,mein,madame_wölbing
+gdc,x4vf.0,70012,70271,madame_wölbing,70147,70150,mir,madame_wölbing
+gdc,x4vf.0,70012,70271,madame_wölbing,70227,70232,meine,madame_wölbing
+gdc,x4vf.0,70372,70413,madame_wölbing,70389,70392,Ich,madame_wölbing
+gdc,x4vf.0,70372,70413,madame_wölbing,70399,70403,mich,madame_wölbing
+gdc,x4vf.0,70499,70589,madame_wölbing,70522,70525,ich,madame_wölbing
+gdc,x4vf.0,70499,70589,madame_wölbing,70557,70560,ich,madame_wölbing
+gdc,x4vf.0,70499,70589,madame_wölbing,70574,70580,meiner,madame_wölbing
+gdc,x4vf.0,70650,70830,madame_wölbing,70682,70685,ich,madame_wölbing
+gdc,x4vf.0,70650,70830,madame_wölbing,70733,70739,meinen,madame_wölbing
+gdc,x4vf.0,70887,71285,madame_wölbing,70910,70914,mein,madame_wölbing
+gdc,x4vf.0,70887,71285,madame_wölbing,71036,71039,mir,madame_wölbing
+gdc,x4vf.0,70887,71285,madame_wölbing,71064,71070,meinem,madame_wölbing
+gdc,x4vf.0,70887,71285,madame_wölbing,71187,71190,ich,madame_wölbing
+gdc,x4vf.0,71349,71523,madame_wölbing,71395,71398,mir,madame_wölbing
+gdc,x4vf.0,71349,71523,madame_wölbing,71404,71407,ich,madame_wölbing
+gdc,x4vf.0,71867,71897,erster_diener,71883,71886,Ich,erster_diener
+gdc,x4vf.0,72536,72594,albertine,72568,72573,Meine,albertine
+gdc,x4vf.0,72599,72664,annchen,72639,72642,ich,annchen
+gdc,x4vf.0,72669,72695,albertine,72685,72689,mein,albertine
+gdc,x4vf.0,72700,72866,annchen,72823,72827,mich,annchen
+gdc,x4vf.0,72700,72866,annchen,72841,72844,ich,annchen
+gdc,x4vf.0,72914,73074,annchen,72964,72967,ich,annchen
+gdc,x4vf.0,72914,73074,annchen,73010,73013,Ich,annchen
+gdc,x4vf.0,73116,73215,annchen,73144,73147,Ich,annchen
+gdc,x4vf.0,73116,73215,annchen,73178,73184,meiner,annchen
+gdc,x4vf.0,73220,73280,albertine,73256,73259,Ich,albertine
+gdc,x4vf.0,73285,73347,annchen,73330,73334,mich,annchen
+gdc,x4vf.0,73352,73435,albertine,73411,73414,Ich,albertine
+gdc,x4vf.0,73497,73526,albertine,73516,73520,mein,albertine
+gdc,x4vf.0,73566,73666,albertine,73588,73591,ich,albertine
+gdc,x4vf.0,73672,73765,annchen,73747,73750,ich,annchen
+gdc,x4vf.0,73770,73824,albertine,73782,73785,Ich,albertine
+gdc,x4vf.0,73830,73903,annchen,73880,73883,ich,annchen
+gdc,x4vf.0,73908,74029,albertine,74019,74023,mich,albertine
+gdc,x4vf.0,74094,74181,albertine,74127,74130,Ich,albertine
+gdc,x4vf.0,74094,74181,albertine,74169,74173,mich,albertine
+gdc,x4vf.0,74186,74229,annchen,74224,74228,mich,annchen
+gdc,x4vf.0,74258,74296,annchen,74281,74285,mich,annchen
+gdc,x4vf.0,74301,74338,albertine,74313,74316,Ich,albertine
+gdc,x4vf.0,74301,74338,albertine,74325,74330,meine,albertine
+gdc,x4vf.0,74343,74390,annchen,74358,74361,ich,annchen
+gdc,x4vf.0,74422,74540,annchen,74443,74446,ich,annchen
+gdc,x4vf.0,74422,74540,annchen,74447,74452,meine,annchen
+gdc,x4vf.0,74422,74540,annchen,74496,74499,mir,annchen
+gdc,x4vf.0,74422,74540,annchen,74524,74527,mir,annchen
+gdc,x4vf.0,74545,74655,albertine,74593,74596,ich,albertine
+gdc,x4vf.0,74779,74807,albertine,74797,74801,mein,albertine
+gdc,x4vf.0,74812,74897,annchen,74843,74846,mir,annchen
+gdc,x4vf.0,74812,74897,annchen,74884,74887,mir,annchen
+gdc,x4vf.0,75040,75357,annchen,75082,75085,ich,annchen
+gdc,x4vf.0,75040,75357,annchen,75178,75181,ich,annchen
+gdc,x4vf.0,75040,75357,annchen,75238,75241,ich,annchen
+gdc,x4vf.0,75040,75357,annchen,75281,75284,mir,annchen
+gdc,x4vf.0,75040,75357,annchen,75319,75322,mir,annchen
+gdc,x4vf.0,75661,76036,annchen,75698,75702,mich,annchen
+gdc,x4vf.0,75661,76036,annchen,75722,75725,ich,annchen
+gdc,x4vf.0,75661,76036,annchen,75761,75765,mich,annchen
+gdc,x4vf.0,75661,76036,annchen,75783,75786,ich,annchen
+gdc,x4vf.0,75661,76036,annchen,75880,75883,ich,annchen
+gdc,x4vf.0,76042,77025,albertine,76163,76167,mich,albertine
+gdc,x4vf.0,76042,77025,albertine,76257,76260,Ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76293,76299,meinem,albertine
+gdc,x4vf.0,76042,77025,albertine,76359,76362,mir,albertine
+gdc,x4vf.0,76042,77025,albertine,76380,76383,mir,albertine
+gdc,x4vf.0,76042,77025,albertine,76423,76427,mein,albertine
+gdc,x4vf.0,76042,77025,albertine,76445,76448,ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76502,76507,meine,albertine
+gdc,x4vf.0,76042,77025,albertine,76558,76561,ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76618,76621,Ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76628,76631,ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76680,76683,ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76709,76712,ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76728,76732,mich,albertine
+gdc,x4vf.0,76042,77025,albertine,76759,76762,mir,albertine
+gdc,x4vf.0,76042,77025,albertine,76837,76840,mir,albertine
+gdc,x4vf.0,76042,77025,albertine,76906,76909,mir,albertine
+gdc,x4vf.0,76042,77025,albertine,76918,76923,meine,albertine
+gdc,x4vf.0,76042,77025,albertine,76938,76941,ich,albertine
+gdc,x4vf.0,76042,77025,albertine,76980,76983,mir,albertine
+gdc,x4vf.0,77157,77280,albertine,77228,77233,meine,albertine
+gdc,x4vf.0,77285,77318,madame_wölbing,77308,77312,mein,madame_wölbing
+gdc,x4vf.0,77419,77457,madame_wölbing,77447,77450,mir,madame_wölbing
+gdc,x4vf.0,77612,77696,albertine,77664,77669,meine,albertine
+gdc,x4vf.0,77612,77696,albertine,77691,77695,mich,albertine
+gdc,x4vf.0,77701,77734,madame_wölbing,77718,77721,Ich,madame_wölbing
+gdc,x4vf.0,77739,77883,albertine,77779,77783,mich,albertine
+gdc,x4vf.0,77739,77883,albertine,77797,77800,mir,albertine
+gdc,x4vf.0,77888,78047,madame_wölbing,77911,77915,mein,madame_wölbing
+gdc,x4vf.0,78155,78488,albertine,78190,78195,meine,albertine
+gdc,x4vf.0,78155,78488,albertine,78268,78272,mein,albertine
+gdc,x4vf.0,78155,78488,albertine,78325,78328,mir,albertine
+gdc,x4vf.0,78494,78545,madame_wölbing,78540,78544,mich,madame_wölbing
+gdc,x4vf.0,78550,79334,albertine,78571,78574,ich,albertine
+gdc,x4vf.0,78550,79334,albertine,78611,78614,ich,albertine
+gdc,x4vf.0,78550,79334,albertine,78683,78688,meine,albertine
+gdc,x4vf.0,78550,79334,albertine,78718,78722,mich,albertine
+gdc,x4vf.0,78550,79334,albertine,78784,78790,meinem,albertine
+gdc,x4vf.0,78550,79334,albertine,78808,78811,Ich,albertine
+gdc,x4vf.0,78550,79334,albertine,78874,78879,meine,albertine
+gdc,x4vf.0,78550,79334,albertine,78895,78898,mir,albertine
+gdc,x4vf.0,78550,79334,albertine,78912,78915,ich,albertine
+gdc,x4vf.0,78550,79334,albertine,78987,78990,ich,albertine
+gdc,x4vf.0,78550,79334,albertine,79014,79020,meiner,albertine
+gdc,x4vf.0,78550,79334,albertine,79089,79092,mir,albertine
+gdc,x4vf.0,78550,79334,albertine,79209,79212,Ich,albertine
+gdc,x4vf.0,79381,79992,albertine,79406,79409,ich,albertine
+gdc,x4vf.0,79381,79992,albertine,79456,79462,meiner,albertine
+gdc,x4vf.0,79381,79992,albertine,79523,79529,meinem,albertine
+gdc,x4vf.0,79381,79992,albertine,79543,79549,meinen,albertine
+gdc,x4vf.0,79381,79992,albertine,79571,79574,mir,albertine
+gdc,x4vf.0,79381,79992,albertine,79686,79689,mir,albertine
+gdc,x4vf.0,79381,79992,albertine,79732,79738,meiner,albertine
+gdc,x4vf.0,80084,80298,albertine,80102,80107,meine,albertine
+gdc,x4vf.0,80084,80298,albertine,80120,80124,mich,albertine
+gdc,x4vf.0,80349,80914,albertine,80408,80412,mich,albertine
+gdc,x4vf.0,80349,80914,albertine,80456,80459,ich,albertine
+gdc,x4vf.0,80349,80914,albertine,80482,80485,ich,albertine
+gdc,x4vf.0,80349,80914,albertine,80486,80489,mir,albertine
+gdc,x4vf.0,80349,80914,albertine,80698,80701,ich,albertine
+gdc,x4vf.0,80349,80914,albertine,80782,80785,mir,albertine
+gdc,x4vf.0,80349,80914,albertine,80856,80859,mir,albertine
+gdc,x4vf.0,80919,80958,madame_wölbing,80948,80952,mein,madame_wölbing
+gdc,x4vf.0,80963,81156,albertine,81138,81142,mich,albertine
+gdc,x4vf.0,81161,81218,madame_wölbing,81184,81188,mein,madame_wölbing
+gdc,x4vf.0,81223,81346,albertine,81247,81250,ich,albertine
+gdc,x4vf.0,81469,81740,albertine,81698,81702,mich,albertine
+gdc,x4vf.0,83264,83320,albertine,83295,83299,mein,albertine
+gdc,x4vf.0,83459,83520,madame_wölbing,83505,83508,Ich,madame_wölbing
+gdc,x4vf.0,83805,83863,madame_wölbing,83832,83835,ich,madame_wölbing
+gdc,x4vf.0,83868,84018,albertine,83884,83887,ich,albertine
+gdc,x4vf.0,83868,84018,albertine,83965,83968,ich,albertine
+gdc,x4vf.0,84115,84146,albertine,84141,84145,mich,albertine
+gdc,x4vf.0,84151,84325,madame_wölbing,84196,84199,ich,madame_wölbing
+gdc,x4vf.0,84151,84325,madame_wölbing,84282,84285,mir,madame_wölbing
+gdc,x4vf.0,84151,84325,madame_wölbing,84287,84290,ich,madame_wölbing
+gdc,x4vf.0,84330,84450,albertine,84352,84355,ich,albertine
+gdc,x4vf.0,84330,84450,albertine,84380,84383,mir,albertine
+gdc,x4vf.0,84330,84450,albertine,84416,84419,mir,albertine
+gdc,x4vf.0,84455,84519,madame_wölbing,84472,84475,Ich,madame_wölbing
+gdc,x4vf.0,84525,84615,albertine,84580,84583,ich,albertine
+gdc,x4vf.0,84620,84663,madame_wölbing,84653,84657,mein,madame_wölbing
+gdc,x4vf.0,84668,84721,albertine,84703,84706,ich,albertine
+gdc,x4vf.0,84754,84840,albertine,84771,84774,ich,albertine
+gdc,x4vf.0,84754,84840,albertine,84827,84830,ich,albertine
+gdc,x4vf.0,84845,84902,madame_wölbing,84898,84901,mir,madame_wölbing
+gdc,x4vf.0,84907,85133,albertine,84939,84943,mich,albertine
+gdc,x4vf.0,84907,85133,albertine,85029,85032,mir,albertine
+gdc,x4vf.0,86070,86110,madame_wölbing,86087,86091,Mein,madame_wölbing
+gdc,x4vf.0,86678,86756,madame_wölbing,86729,86732,ich,madame_wölbing
+gdc,x4vf.0,86819,87080,madame_wölbing,86880,86886,meinem,madame_wölbing
+gdc,x4vf.0,86819,87080,madame_wölbing,87005,87008,ich,madame_wölbing
+gdc,x4vf.0,86819,87080,madame_wölbing,87060,87065,meine,madame_wölbing
+gdc,x4vf.0,87130,87470,madame_wölbing,87147,87150,Ich,madame_wölbing
+gdc,x4vf.0,87130,87470,madame_wölbing,87243,87249,meines,madame_wölbing
+gdc,x4vf.0,87130,87470,madame_wölbing,87297,87301,mein,madame_wölbing
+gdc,x4vf.0,87502,87745,madame_wölbing,87519,87524,Meine,madame_wölbing
+gdc,x4vf.0,87877,88007,madame_wölbing,87916,87920,mein,madame_wölbing
+gdc,x4vf.0,88058,88237,madame_wölbing,88215,88221,meines,madame_wölbing
+gdc,x4vf.0,88274,88484,madame_wölbing,88304,88307,ich,madame_wölbing
+gdc,x4vf.0,88274,88484,madame_wölbing,88308,88313,meine,madame_wölbing
+gdc,x4vf.0,88274,88484,madame_wölbing,88461,88467,meiner,madame_wölbing
+gdc,x4vf.0,88524,89143,madame_wölbing,88546,88550,mein,madame_wölbing
+gdc,x4vf.0,88524,89143,madame_wölbing,88827,88833,meinen,madame_wölbing
+gdc,x4vf.0,88524,89143,madame_wölbing,88939,88945,meinem,madame_wölbing
+gdc,x4vf.0,88524,89143,madame_wölbing,89058,89062,mein,madame_wölbing
+gdc,x4vf.0,89466,89781,madame_wölbing,89641,89647,meines,madame_wölbing
+gdc,x4vf.0,89813,90011,madame_wölbing,89832,89836,mein,madame_wölbing
+gdc,x4vf.0,90050,90193,madame_wölbing,90072,90076,mein,madame_wölbing
+gdc,x4vf.0,90050,90193,madame_wölbing,90110,90113,ich,madame_wölbing
+gdc,x4vf.0,90400,91295,madame_wölbing,90507,90510,mir,madame_wölbing
+gdc,x4vf.0,90400,91295,madame_wölbing,90991,90994,Ich,madame_wölbing
+gdc,x4vf.0,90400,91295,madame_wölbing,91037,91041,mich,madame_wölbing
+gdc,x4vf.0,90400,91295,madame_wölbing,91068,91073,meine,madame_wölbing
+gdc,x4vf.0,90400,91295,madame_wölbing,91097,91102,meine,madame_wölbing
+gdc,x4vf.0,90400,91295,madame_wölbing,91209,91212,mir,madame_wölbing
+gdc,x4vf.0,91359,91527,madame_wölbing,91452,91456,mich,madame_wölbing
+gdc,x4vf.0,91359,91527,madame_wölbing,91478,91481,ich,madame_wölbing
+gdc,x4vf.0,92117,92175,madame_wölbing,92134,92137,Ich,madame_wölbing
+gdc,x4vf.0,92599,92650,madame_wölbing,92639,92643,mein,madame_wölbing
+gdc,x4vf.0,93392,93468,madame_wölbing,93458,93462,mein,madame_wölbing
+gdc,x4vf.0,93528,93688,albertine,93576,93580,mich,albertine
+gdc,x4vf.0,93755,94084,albertine,93767,93770,Ich,albertine
+gdc,x4vf.0,93755,94084,albertine,93827,93830,ich,albertine
+gdc,x4vf.0,93755,94084,albertine,93837,93841,mich,albertine
+gdc,x4vf.0,93755,94084,albertine,93994,93999,meine,albertine
+gdc,x4vf.0,93755,94084,albertine,94023,94027,mich,albertine
+gdc,x4vf.0,93755,94084,albertine,94051,94055,mein,albertine
+gdc,x4vf.0,94089,94133,madame_wölbing,94123,94127,mein,madame_wölbing
+gdc,x4vf.0,94138,94311,albertine,94163,94166,ich,albertine
+gdc,x4vf.0,94138,94311,albertine,94190,94193,mir,albertine
+gdc,x4vf.0,94138,94311,albertine,94273,94276,ich,albertine
+gdc,x4vf.0,94590,94651,madame_wölbing,94635,94639,Mein,madame_wölbing
+gdc,x4vf.0,94657,94761,albertine,94690,94693,mir,albertine
+gdc,x4vf.0,94766,94798,madame_wölbing,94783,94786,Ich,madame_wölbing
+gdc,x4vf.0,94803,95037,albertine,94888,94892,mich,albertine
+gdc,x4vf.0,94803,95037,albertine,94935,94938,ich,albertine
+gdc,x4vf.0,94803,95037,albertine,94990,94994,mich,albertine
+gdc,x4vf.0,95356,95389,madame_wölbing,95379,95383,mein,madame_wölbing
+gdc,x4vf.0,95394,95448,albertine,95410,95413,ich,albertine
+gdc,x4vf.0,95394,95448,albertine,95424,95428,mein,albertine
+gdc,x4vf.0,95486,95531,albertine,95514,95520,meiner,albertine
+gdc,x4vf.0,95678,95709,madame_wölbing,95699,95703,mein,madame_wölbing
+gdc,x4vf.0,95714,95753,albertine,95742,95746,mich,albertine
+gdc,x4vf.0,95804,95900,albertine,95820,95823,ich,albertine
+gdc,x4vf.0,95804,95900,albertine,95872,95876,mich,albertine
+gdc,x4vf.0,95951,95987,albertine,95971,95975,mich,albertine
+gdc,x4vf.0,96210,96274,madame_wölbing,96234,96237,mir,madame_wölbing
+gdc,x4vf.0,96347,96421,albertine,96395,96398,ich,albertine
+gdc,x4vf.0,96426,96992,madame_wölbing,96445,96449,mein,madame_wölbing
+gdc,x4vf.0,96426,96992,madame_wölbing,96497,96500,ich,madame_wölbing
+gdc,x4vf.0,96426,96992,madame_wölbing,96536,96539,ich,madame_wölbing
+gdc,x4vf.0,96426,96992,madame_wölbing,96543,96549,meinem,madame_wölbing
+gdc,x4vf.0,96426,96992,madame_wölbing,96661,96664,ich,madame_wölbing
+gdc,x4vf.0,96426,96992,madame_wölbing,96710,96713,mir,madame_wölbing
+gdc,x4vf.0,96426,96992,madame_wölbing,96863,96866,ich,madame_wölbing
+gdc,x4vf.0,96997,97322,albertine,97026,97029,mir,albertine
+gdc,x4vf.0,96997,97322,albertine,97105,97108,ich,albertine
+gdc,x4vf.0,96997,97322,albertine,97133,97136,ich,albertine
+gdc,x4vf.0,96997,97322,albertine,97229,97232,ich,albertine
+gdc,x4vf.0,97577,97610,emerike,97587,97590,Mir,emerike
+gdc,x4vf.0,97615,97645,kunigunde,97636,97639,Mir,kunigunde
+gdc,x4vf.0,97650,97705,emerike,97695,97698,ich,emerike
+gdc,x4vf.0,97860,98175,emerike,97917,97920,ich,emerike
+gdc,x4vf.0,97860,98175,emerike,97931,97937,meinem,emerike
+gdc,x4vf.0,97860,98175,emerike,98022,98025,ich,emerike
+gdc,x4vf.0,97860,98175,emerike,98049,98052,ich,emerike
+gdc,x4vf.0,98180,98247,kunigunde,98201,98204,Ich,kunigunde
+gdc,x4vf.0,98180,98247,kunigunde,98215,98221,meiner,kunigunde
+gdc,x4vf.0,98252,98568,emerike,98266,98269,mir,emerike
+gdc,x4vf.0,98252,98568,emerike,98395,98398,ich,emerike
+gdc,x4vf.0,98252,98568,emerike,98428,98432,mich,emerike
+gdc,x4vf.0,98252,98568,emerike,98494,98498,mich,emerike
+gdc,x4vf.0,98252,98568,emerike,98550,98554,mich,emerike
+gdc,x4vf.0,98573,99068,kunigunde,98599,98603,mich,kunigunde
+gdc,x4vf.0,98573,99068,kunigunde,98637,98640,ich,kunigunde
+gdc,x4vf.0,98573,99068,kunigunde,98645,98650,meine,kunigunde
+gdc,x4vf.0,98573,99068,kunigunde,98751,98754,ich,kunigunde
+gdc,x4vf.0,98573,99068,kunigunde,98831,98834,mir,kunigunde
+gdc,x4vf.0,99073,99244,emerike,99086,99090,mich,emerike
+gdc,x4vf.0,99073,99244,emerike,99152,99156,mich,emerike
+gdc,x4vf.0,99073,99244,emerike,99173,99176,ich,emerike
+gdc,x4vf.0,99073,99244,emerike,99223,99227,mich,emerike
+gdc,x4vf.0,99460,99737,emerike,99492,99496,mich,emerike
+gdc,x4vf.0,99460,99737,emerike,99713,99717,mich,emerike
+gdc,x4vf.0,100079,100187,kunigunde,100107,100110,mir,kunigunde
+gdc,x4vf.0,100079,100187,kunigunde,100175,100178,mir,kunigunde
+gdc,x4vf.0,100192,100352,emerike,100281,100284,ich,emerike
+gdc,x4vf.0,100192,100352,emerike,100295,100298,ich,emerike
+gdc,x4vf.0,100192,100352,emerike,100324,100328,mich,emerike
+gdc,x4vf.0,100392,100483,emerike,100451,100454,ich,emerike
+gdc,x4vf.0,100392,100483,emerike,100466,100471,meine,emerike
+gdc,x4vf.0,100529,100717,emerike,100561,100565,mich,emerike
+gdc,x4vf.0,100529,100717,emerike,100573,100576,ich,emerike
+gdc,x4vf.0,100529,100717,emerike,100624,100627,mir,emerike
+gdc,x4vf.0,100529,100717,emerike,100706,100710,mich,emerike
+gdc,x4vf.0,100825,100911,emerike,100862,100865,ich,emerike
+gdc,x4vf.0,100825,100911,emerike,100887,100890,ich,emerike
+gdc,x4vf.0,101125,101192,emerike,101170,101173,ich,emerike
+gdc,x4vf.0,101726,101830,gehrmann,101776,101779,ich,gehrmann
+gdc,x4vf.0,101726,101830,gehrmann,101808,101812,mich,gehrmann
+gdc,x4vf.0,101835,101855,emerike,101845,101849,Mich,emerike
+gdc,x4vf.0,102000,102105,gehrmann,102011,102014,Ich,gehrmann
+gdc,x4vf.0,102000,102105,gehrmann,102063,102066,mir,gehrmann
+gdc,x4vf.0,102111,102295,emerike,102176,102180,mich,emerike
+gdc,x4vf.0,102386,102542,gehrmann,102436,102439,ich,gehrmann
+gdc,x4vf.0,102386,102542,gehrmann,102489,102493,mein,gehrmann
+gdc,x4vf.0,102599,102722,gehrmann,102692,102698,meinen,gehrmann
+gdc,x4vf.0,102727,102768,kunigunde,102748,102751,ich,kunigunde
+gdc,x4vf.0,102773,102870,emerike,102802,102805,ich,emerike
+gdc,x4vf.0,102773,102870,emerike,102855,102858,mir,emerike
+gdc,x4vf.0,102917,103044,emerike,102934,102937,mir,emerike
+gdc,x4vf.0,102917,103044,emerike,102957,102960,ich,emerike
+gdc,x4vf.0,102917,103044,emerike,103037,103040,mir,emerike
+gdc,x4vf.0,103192,103405,kunigunde,103204,103207,Ich,kunigunde
+gdc,x4vf.0,103192,103405,kunigunde,103321,103324,ich,kunigunde
+gdc,x4vf.0,103192,103405,kunigunde,103401,103404,mir,kunigunde
+gdc,x4vf.0,103598,103698,kunigunde,103624,103630,meinen,kunigunde
+gdc,x4vf.0,104040,104760,gehrmann,104200,104203,ich,gehrmann
+gdc,x4vf.0,104040,104760,gehrmann,104343,104346,Ich,gehrmann
+gdc,x4vf.0,104040,104760,gehrmann,104374,104377,ich,gehrmann
+gdc,x4vf.0,104040,104760,gehrmann,104688,104691,ich,gehrmann
+gdc,x4vf.0,104815,104952,gehrmann,104839,104845,meiner,gehrmann
+gdc,x4vf.0,104815,104952,gehrmann,104874,104877,Ich,gehrmann
+gdc,x4vf.0,104815,104952,gehrmann,104883,104889,meinen,gehrmann
+gdc,x4vf.0,105026,105699,kunigunde,105388,105391,ich,kunigunde
+gdc,x4vf.0,105026,105699,kunigunde,105460,105465,meine,kunigunde
+gdc,x4vf.0,105778,106765,kunigunde,105941,105945,mein,kunigunde
+gdc,x4vf.0,105778,106765,kunigunde,106153,106156,ich,kunigunde
+gdc,x4vf.0,105778,106765,kunigunde,106611,106614,ich,kunigunde
+gdc,x4vf.0,106771,107104,emerike,106795,106798,ich,emerike
+gdc,x4vf.0,106771,107104,emerike,106835,106838,Ich,emerike
+gdc,x4vf.0,106771,107104,emerike,106941,106944,Ich,emerike
+gdc,x4vf.0,106771,107104,emerike,106979,106982,ich,emerike
+gdc,x4vf.0,106771,107104,emerike,106993,106996,ich,emerike
+gdc,x4vf.0,106771,107104,emerike,107036,107039,mir,emerike
+gdc,x4vf.0,107408,107431,flint,107416,107419,Ich,flint
+gdc,x4vf.0,107593,107632,emerike,107603,107606,Ich,emerike
+gdc,x4vf.0,107704,107779,flint,107719,107723,mich,flint
+gdc,x4vf.0,107878,107907,flint,107891,107894,ich,flint
+gdc,x4vf.0,107986,108033,emerike,108007,108010,ich,emerike
+gdc,x4vf.0,108039,108088,flint,108047,108050,Ich,flint
+gdc,x4vf.0,108133,108274,emerike,108174,108177,ich,emerike
+gdc,x4vf.0,108374,108473,gehrmann,108427,108430,ich,gehrmann
+gdc,x4vf.0,109669,109725,gehrmann,109690,109693,Ich,gehrmann
+gdc,x4vf.0,110373,110562,gehrmann,110558,110561,mir,gehrmann
+gdc,x4vf.0,110892,111062,gehrmann,110970,110973,ich,gehrmann
+gdc,x4vf.0,110892,111062,gehrmann,110988,110993,meine,gehrmann
+gdc,x4vf.0,111410,111517,gehrmann,111425,111429,mich,gehrmann
+gdc,x4vf.0,111410,111517,gehrmann,111485,111488,ich,gehrmann
+gdc,x4vf.0,112969,113006,gehrmann,112987,112990,ich,gehrmann
+gdc,x4vf.0,113159,113414,gehrmann,113211,113214,mir,gehrmann
+gdc,x4vf.0,113455,113496,gehrmann,113485,113489,mich,gehrmann
+gdc,x4vf.0,113539,114117,gehrmann,113685,113691,meinem,gehrmann
+gdc,x4vf.0,113539,114117,gehrmann,113752,113755,Ich,gehrmann
+gdc,x4vf.0,113539,114117,gehrmann,113819,113822,Ich,gehrmann
+gdc,x4vf.0,113539,114117,gehrmann,113846,113849,mir,gehrmann
+gdc,x4vf.0,113539,114117,gehrmann,113935,113938,Ich,gehrmann
+gdc,x4vf.0,113539,114117,gehrmann,114087,114091,mein,gehrmann
+gdc,x4vf.0,114661,114698,gehrmann,114681,114684,Ich,gehrmann
+gdc,x4vf.0,114778,114834,gehrmann,114819,114823,mich,gehrmann
+gdc,x4vf.0,116898,117545,gehrmann,117123,117126,ich,gehrmann
+gdc,x4vf.0,116898,117545,gehrmann,117132,117135,ich,gehrmann
+gdc,x4vf.0,116898,117545,gehrmann,117199,117202,ich,gehrmann
+gdc,x4vf.0,116898,117545,gehrmann,117373,117378,meine,gehrmann
+gdc,x4vf.0,117825,117915,emerike,117849,117852,mir,emerike
+gdc,x4vf.0,117825,117915,emerike,117904,117908,mich,emerike
+gdc,x4vf.0,117939,118006,emerike,117953,117956,ich,emerike
+gdc,x4vf.0,117939,118006,emerike,117983,117986,ich,emerike
+gdc,x4vf.0,118011,118189,gehrmann,118037,118040,ich,gehrmann
+gdc,x4vf.0,118011,118189,gehrmann,118095,118101,meinen,gehrmann
+gdc,x4vf.0,118011,118189,gehrmann,118121,118124,ich,gehrmann
+gdc,x4vf.0,118195,118545,emerike,118205,118208,Ich,emerike
+gdc,x4vf.0,118195,118545,emerike,118267,118270,ich,emerike
+gdc,x4vf.0,118195,118545,emerike,118427,118431,mich,emerike
+gdc,x4vf.0,118195,118545,emerike,118478,118482,mich,emerike
+gdc,x4vf.0,118195,118545,emerike,118493,118497,mich,emerike
+gdc,x4vf.0,118767,118913,flint,118819,118822,mir,flint
+gdc,x4vf.0,118767,118913,flint,118848,118851,ich,flint
+gdc,x4vf.0,118767,118913,flint,118870,118873,ich,flint
+gdc,x4vf.0,118767,118913,flint,118892,118895,ich,flint
+gdc,x4vf.0,118767,118913,flint,118896,118900,mich,flint
+gdc,x4vf.0,118964,119079,emerike,119011,119014,ich,emerike
+gdc,x4vf.0,118964,119079,emerike,119066,119069,ich,emerike
+gdc,x4vf.0,119121,119224,emerike,119146,119150,mich,emerike
+gdc,x4vf.0,119344,119399,emerike,119354,119357,Ich,emerike
+gdc,x4vf.0,119344,119399,emerike,119389,119392,ich,emerike
+gdc,x4vf.0,119428,119495,emerike,119472,119475,ich,emerike
+gdc,x4vf.0,119517,119551,emerike,119533,119537,mich,emerike
+gdc,x4vf.0,119575,119650,emerike,119602,119605,ich,emerike
+gdc,x4vf.0,119575,119650,emerike,119632,119635,mir,emerike
+gdc,x4vf.0,119855,119988,emerike,119886,119890,mich,emerike
+gdc,x4vf.0,119855,119988,emerike,119949,119953,mich,emerike
+gdc,x4vf.0,120019,120091,emerike,120050,120053,ich,emerike
+gdc,x4vf.0,120019,120091,emerike,120062,120066,mein,emerike
+gdc,x4vf.0,120124,120361,emerike,120134,120137,Ich,emerike
+gdc,x4vf.0,120124,120361,emerike,120309,120312,ich,emerike
+gdc,x4vf.0,120124,120361,emerike,120351,120355,mich,emerike
+gdc,x4vf.0,120423,120740,emerike,120451,120454,ich,emerike
+gdc,x4vf.0,120423,120740,emerike,120561,120564,ich,emerike
+gdc,x4vf.0,120423,120740,emerike,120616,120622,meiner,emerike
+gdc,x4vf.0,121146,121165,_stage,121146,121155,Albertine,albertine
+gdc,x4vf.0,121146,121165,_stage,121157,121164,Annchen,annchen
+gdc,x4vf.0,121179,121201,_stage,121189,121196,Annchen,annchen
+gdc,x4vf.0,121168,121237,albertine,121209,121211,du,annchen
+gdc,x4vf.0,121242,121532,annchen,121266,121269,Sie,albertine
+gdc,x4vf.0,121242,121532,annchen,121300,121303,ich,annchen
+gdc,x4vf.0,121242,121532,annchen,121309,121323,Die Amtsräthin,Die-Amtsräthin
+gdc,x4vf.0,121242,121532,annchen,121342,121345,mir,annchen
+gdc,x4vf.0,121242,121532,annchen,121360,121365,ihrer,Die-Amtsräthin
+gdc,x4vf.0,121242,121532,annchen,121385,121388,Ich,annchen
+gdc,x4vf.0,121242,121532,annchen,121394,121398,mich,annchen
+gdc,x4vf.0,121242,121532,annchen,121460,121469,Die Leute,Die-Leute
+gdc,x4vf.0,121242,121532,annchen,121477,121480,ich,annchen
+gdc,x4vf.0,121242,121532,annchen,121519,121523,sich,annchen
+gdc,x4vf.0,121538,121591,albertine,121550,121554,Dein,annchen
+gdc,x4vf.0,121596,121745,annchen,121656,121659,sie,sie
+gdc,x4vf.0,121596,121745,annchen,121668,121671,mir,annchen
+gdc,x4vf.0,121596,121745,annchen,121735,121738,ich,annchen
+gdc,x4vf.0,121779,121836,annchen,121794,121797,ich,annchen
+gdc,x4vf.0,121779,121836,annchen,121804,121809,einen,einen(Blumenstraus)
+gdc,x4vf.0,121779,121836,annchen,121817,121820,der,einen(Blumenstraus)
+gdc,x4vf.0,121779,121836,annchen,121821,121824,mir,annchen
+gdc,x4vf.0,121867,122010,annchen,121877,121880,Ich,annchen
+gdc,x4vf.0,121867,122010,annchen,121886,121889,ihn,einen(Blumenstraus)
+gdc,x4vf.0,121867,122010,annchen,121914,121917,Sie,sie
+gdc,x4vf.0,121867,122010,annchen,121925,121928,ihn,einen(Blumenstraus)
+gdc,x4vf.0,121867,122010,annchen,121933,121943,den Blumen,den-Blumen
+gdc,x4vf.0,121867,122010,annchen,121954,121957,die,den-Blumen
+gdc,x4vf.0,121867,122010,annchen,121958,121961,ich,annchen
+gdc,x4vf.0,121867,122010,annchen,121962,121967,Ihnen,sie
+gdc,x4vf.0,122015,122090,albertine,122027,122037,Die Blumen,den-Blumen
+gdc,x4vf.0,122015,122090,albertine,122062,122071,das Haupt,das-Haupt
+gdc,x4vf.0,122015,122090,albertine,122077,122080,ich,albertine
+gdc,x4vf.0,122015,122090,albertine,122081,122083,es,das-Haupt
+gdc,x4vf.0,122095,122384,annchen,122119,122122,sie,den-Blumen
+gdc,x4vf.0,122095,122384,annchen,122123,122126,mir,annchen
+gdc,x4vf.0,122095,122384,annchen,122136,122145,Der Käthe,emerike
+gdc,x4vf.0,122095,122384,annchen,122146,122160,ihr Brautkranz,ihr-Brautkranz
+gdc,x4vf.0,122095,122384,annchen,122146,122149,ihr,emerike
+gdc,x4vf.0,122095,122384,annchen,122184,122199,mein Sträußchen,einen(Blumenstraus)
+gdc,x4vf.0,122095,122384,annchen,122184,122188,mein,annchen
+gdc,x4vf.0,122095,122384,annchen,122206,122209,ich,annchen
+gdc,x4vf.0,122095,122384,annchen,122210,122213,ihr,emerike
+gdc,x4vf.0,122095,122384,annchen,122244,122251,Annchen,annchen
+gdc,x4vf.0,122095,122384,annchen,122283,122286,ich,annchen
+gdc,x4vf.0,122095,122384,annchen,122287,122296,den Kranz,ihr-Brautkranz
+gdc,x4vf.0,122095,122384,annchen,122320,122325,Ihnen,albertine
+gdc,x4vf.0,122095,122384,annchen,122353,122356,ich,annchen
+gdc,x4vf.0,122095,122384,annchen,122357,122379,mein liebes Sträußchen,einen(Blumenstraus)
+gdc,x4vf.0,122095,122384,annchen,122357,122361,mein,annchen
+gdc,x4vf.0,122389,122463,albertine,122407,122414,Annchen,annchen
+gdc,x4vf.0,122389,122463,albertine,122421,122423,du,annchen
+gdc,x4vf.0,122389,122463,albertine,122424,122433,den Herrn,august
+gdc,x4vf.0,122389,122463,albertine,122443,122446,der,august
+gdc,x4vf.0,122468,122795,annchen,122489,122492,ich,annchen
+gdc,x4vf.0,122468,122795,annchen,122500,122503,Ich,annchen
+gdc,x4vf.0,122468,122795,annchen,122509,122512,ihm,august
+gdc,x4vf.0,122468,122795,annchen,122516,122525,die Thüre,die-Thüre
+gdc,x4vf.0,122468,122795,annchen,122540,122542,er,august
+gdc,x4vf.0,122468,122795,annchen,122581,122583,er,august
+gdc,x4vf.0,122468,122795,annchen,122584,122587,sie,die-Thüre
+gdc,x4vf.0,122468,122795,annchen,122607,122610,mir,annchen
+gdc,x4vf.0,122468,122795,annchen,122616,122630,ein Stück Geld,ein-Stück-Geld
+gdc,x4vf.0,122468,122795,annchen,122641,122645,mich,annchen
+gdc,x4vf.0,122468,122795,annchen,122664,122668,mich,annchen
+gdc,x4vf.0,122468,122795,annchen,122698,122700,er,august
+gdc,x4vf.0,122468,122795,annchen,122726,122729,ich,annchen
+gdc,x4vf.0,122468,122795,annchen,122761,122764,der,august
+gdc,x4vf.0,122468,122795,annchen,122770,122773,ihr,emerike
+gdc,x4vf.0,122800,122830,albertine,122816,122818,er,august
+gdc,x4vf.0,122836,122927,annchen,122870,122873,Sie,sie
+gdc,x4vf.0,122836,122927,annchen,122888,122891,ich,annchen
+gdc,x4vf.0,122836,122927,annchen,122892,122897,Ihnen,sie
+gdc,x4vf.0,122932,122993,albertine,122956,122958,er,august
+gdc,x4vf.0,122932,122993,albertine,122968,122971,man,Die-Leute
+gdc,x4vf.0,122932,122993,albertine,122981,122985,dich,annchen
+gdc,x4vf.0,122998,123101,annchen,123093,123096,Sie,albertine
+gdc,x4vf.0,123106,123146,albertine,123139,123141,er,august
+gdc,x4vf.0,123151,123270,annchen,123175,123184,Der Käthe,emerike
+gdc,x4vf.0,123151,123270,annchen,123185,123198,ihr Bräutigam,flint
+gdc,x4vf.0,123151,123270,annchen,123185,123188,ihr,emerike
+gdc,x4vf.0,123151,123270,annchen,123238,123241,der,flint
+gdc,x4vf.0,123151,123270,annchen,123249,123252,ihm,august
+gdc,x4vf.0,123275,123313,albertine,123298,123300,Er,august
+gdc,x4vf.0,123275,123313,albertine,123309,123312,dir,annchen
+gdc,x4vf.0,123318,123471,annchen,123359,123362,mir,annchen
+gdc,x4vf.0,123318,123471,annchen,123400,123409,der Käthe,emerike
+gdc,x4vf.0,123318,123471,annchen,123415,123418,ich,annchen
+gdc,x4vf.0,123318,123471,annchen,123419,123437,einen solchen Mann,august
+gdc,x4vf.0,123318,123471,annchen,123446,123449,der,august
+gdc,x4vf.0,123318,123471,annchen,123455,123458,mir,annchen
+gdc,x4vf.0,123559,123594,albertine,123578,123580,er,august
+gdc,x4vf.0,123559,123594,albertine,123590,123593,dir,annchen
+gdc,x4vf.0,123599,123734,annchen,123622,123627,seine,august
+gdc,x4vf.0,123599,123734,annchen,123659,123661,er,august
+gdc,x4vf.0,123599,123734,annchen,123669,123680,liebes Kind,annchen
+gdc,x4vf.0,123599,123734,annchen,123723,123726,mir,annchen
+gdc,x4vf.0,123740,123785,albertine,123760,123763,mir,albertine
+gdc,x4vf.0,123740,123785,albertine,123775,123777,er,august
+gdc,x4vf.0,123790,124127,annchen,123805,123807,er,august
+gdc,x4vf.0,123790,124127,annchen,123815,123826,liebes Kind,annchen
+gdc,x4vf.0,123790,124127,annchen,123836,123839,Sie,albertine
+gdc,x4vf.0,123790,124127,annchen,123841,123844,ich,annchen
+gdc,x4vf.0,123790,124127,annchen,123864,123866,er,august
+gdc,x4vf.0,123790,124127,annchen,123873,123876,ihm,august
+gdc,x4vf.0,123790,124127,annchen,123883,123894,Liebes Kind,annchen
+gdc,x4vf.0,123790,124127,annchen,123897,123899,er,august
+gdc,x4vf.0,123790,124127,annchen,123905,123909,mich,annchen
+gdc,x4vf.0,123790,124127,annchen,123921,123923,er,august
+gdc,x4vf.0,123790,124127,annchen,123949,123952,ich,annchen
+gdc,x4vf.0,123790,124127,annchen,123983,123994,liebes Kind,annchen
+gdc,x4vf.0,123790,124127,annchen,124014,124023,eine Frau,madame_wölbing
+gdc,x4vf.0,123790,124127,annchen,124028,124046,"ihrer Tochter, die",albertine
+gdc,x4vf.0,123790,124127,annchen,124028,124033,ihrer,madame_wölbing
+gdc,x4vf.0,123790,124127,annchen,124060,124062,er,august
+gdc,x4vf.0,123790,124127,annchen,124074,124077,ich,annchen
+gdc,x4vf.0,123790,124127,annchen,124087,124090,ihn,august
+gdc,x4vf.0,123790,124127,annchen,124108,124111,ihn,august
+gdc,x4vf.0,123790,124127,annchen,124115,124126,Ihrer Thüre,die-Thüre
+gdc,x4vf.0,123790,124127,annchen,124115,124120,Ihrer,albertine
+gdc,x4vf.0,124132,124189,albertine,124153,124156,Die,albertine
+gdc,x4vf.0,124132,124189,albertine,124180,124182,er,august
+gdc,x4vf.0,124194,124364,annchen,124204,124206,Er,august
+gdc,x4vf.0,124194,124364,annchen,124227,124230,ich,annchen
+gdc,x4vf.0,124194,124364,annchen,124231,124241,der Mutter,madame_wölbing
+gdc,x4vf.0,124194,124364,annchen,124242,124250,das Geld,ein-Stück-Geld
+gdc,x4vf.0,124194,124364,annchen,124267,124270,sie,madame_wölbing
+gdc,x4vf.0,124194,124364,annchen,124298,124300,es,ein-Stück-Geld
+gdc,x4vf.0,124194,124364,annchen,124328,124332,mich,annchen
+gdc,x4vf.0,124194,124364,annchen,124337,124340,ich,annchen
+gdc,x4vf.0,124194,124364,annchen,124341,124344,ihm,august
+gdc,x4vf.0,124369,124459,albertine,124399,124406,Annchen,annchen
+gdc,x4vf.0,124369,124459,albertine,124445,124451,deiner,annchen
+gdc,x4vf.0,124464,124540,annchen,124489,124492,ich,annchen
+gdc,x4vf.0,124464,124540,annchen,124493,124496,Sie,albertine
+gdc,x4vf.0,124464,124540,annchen,124516,124519,ich,annchen
+gdc,x4vf.0,124556,124582,_stage,124561,124564,ihr,annchen
+gdc,x4vf.0,124545,124597,albertine,124585,124596,Liebes Kind,annchen
+gdc,x4vf.0,124602,124655,annchen,124643,124645,er,august
+gdc,x4vf.0,124690,124875,annchen,124700,124703,Ich,annchen
+gdc,x4vf.0,124690,124875,annchen,124729,124732,Sie,albertine
+gdc,x4vf.0,124690,124875,annchen,124750,124753,ich,annchen
+gdc,x4vf.0,124690,124875,annchen,124760,124769,der Käthe,emerike
+gdc,x4vf.0,124690,124875,annchen,124773,124783,der Kirche,der-Kirche
+gdc,x4vf.0,124690,124875,annchen,124796,124799,ich,annchen
+gdc,x4vf.0,124690,124875,annchen,124800,124815,den lieben Gott,den-lieben-Gott
+gdc,x4vf.0,124690,124875,annchen,124828,124830,er,den-lieben-Gott
+gdc,x4vf.0,124690,124875,annchen,124831,124835,mich,annchen
+gdc,x4vf.0,124690,124875,annchen,124854,124859,Ihnen,albertine
+gdc,x4vf.0,124880,124944,albertine,124929,124932,ich,albertine
+gdc,x4vf.0,124880,124944,albertine,124939,124943,dich,annchen
+gdc,x4vf.0,124994,125017,_stage,124994,125008,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,124994,125017,_stage,125010,125016,Vorige,Vorige
+gdc,x4vf.0,125020,125080,madame_wölbing,125052,125059,Annchen,annchen
+gdc,x4vf.0,125020,125080,madame_wölbing,125061,125064,man,Die-Leute
+gdc,x4vf.0,125020,125080,madame_wölbing,125076,125079,dir,annchen
+gdc,x4vf.0,125085,125338,annchen,125114,125124,Albertinen,albertine
+gdc,x4vf.0,125085,125338,annchen,125131,125139,der Herr,august
+gdc,x4vf.0,125085,125338,annchen,125171,125174,Sie,albertine
+gdc,x4vf.0,125085,125338,annchen,125175,125178,ihn,august
+gdc,x4vf.0,125085,125338,annchen,125202,125205,ich,annchen
+gdc,x4vf.0,125085,125338,annchen,125210,125220,der Kirche,der-Kirche
+gdc,x4vf.0,125085,125338,annchen,125239,125242,ich,annchen
+gdc,x4vf.0,125085,125338,annchen,125248,125252,mich,annchen
+gdc,x4vf.0,125085,125338,annchen,125257,125265,das Geld,ein-Stück-Geld
+gdc,x4vf.0,125085,125338,annchen,125290,125293,ich,annchen
+gdc,x4vf.0,125343,125380,madame_wölbing,125360,125363,Man,Die-Leute
+gdc,x4vf.0,125343,125380,madame_wölbing,125375,125379,dich,annchen
+gdc,x4vf.0,125394,125408,_stage,125397,125407,Albertinen,albertine
+gdc,x4vf.0,125385,125602,annchen,125411,125414,Ich,annchen
+gdc,x4vf.0,125385,125602,annchen,125491,125494,ich,annchen
+gdc,x4vf.0,125385,125602,annchen,125506,125510,ihre,albertine
+gdc,x4vf.0,125385,125602,annchen,125560,125577,eine Weiberstimme,eine-Weiberstimme
+gdc,x4vf.0,125385,125602,annchen,125585,125592,Annchen,annchen
+gdc,x4vf.0,125385,125602,annchen,125594,125601,Annchen,annchen
+gdc,x4vf.0,125607,125814,annchen,125625,125631,Mutter,eine-Weiberstimme
+gdc,x4vf.0,125607,125814,annchen,125650,125664,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,125607,125814,annchen,125666,125669,Sie,albertine
+gdc,x4vf.0,125607,125814,annchen,125719,125722,ich,annchen
+gdc,x4vf.0,125607,125814,annchen,125723,125726,ihr,albertine
+gdc,x4vf.0,125607,125814,annchen,125740,125746,meinen,annchen
+gdc,x4vf.0,125607,125814,annchen,125767,125770,ich,annchen
+gdc,x4vf.0,125865,125891,_stage,125865,125874,Albertine,albertine
+gdc,x4vf.0,125865,125891,_stage,125876,125890,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,125894,126015,madame_wölbing,125916,125918,du,albertine
+gdc,x4vf.0,125894,126015,madame_wölbing,125933,125942,Albertine,albertine
+gdc,x4vf.0,125894,126015,madame_wölbing,125944,125954,einen Mann,august
+gdc,x4vf.0,125894,126015,madame_wölbing,125969,125972,der,august
+gdc,x4vf.0,125894,126015,madame_wölbing,125992,125998,deinem,albertine
+gdc,x4vf.0,126020,126079,albertine,126054,126066,meine Mutter,madame_wölbing
+gdc,x4vf.0,126020,126079,albertine,126054,126059,meine,albertine
+gdc,x4vf.0,126084,126288,madame_wölbing,126110,126113,ich,madame_wölbing
+gdc,x4vf.0,126084,126288,madame_wölbing,126114,126120,seiner,august
+gdc,x4vf.0,126084,126288,madame_wölbing,126162,126164,er,august
+gdc,x4vf.0,126084,126288,madame_wölbing,126168,126239,"dem Mädchen, das seine Achtung so hoch über das gewöhnliche Weib stellt",albertine
+gdc,x4vf.0,126084,126288,madame_wölbing,126181,126184,das,albertine
+gdc,x4vf.0,126293,126319,albertine,126312,126314,er,august
+gdc,x4vf.0,126324,126363,madame_wölbing,126353,126362,mein Kind,albertine
+gdc,x4vf.0,126324,126363,madame_wölbing,126353,126357,mein,madame_wölbing
+gdc,x4vf.0,126368,126556,albertine,126389,126392,ich,albertine
+gdc,x4vf.0,126368,126556,albertine,126393,126396,ihn,august
+gdc,x4vf.0,126368,126556,albertine,126429,126432,Sie,madame_wölbing
+gdc,x4vf.0,126368,126556,albertine,126433,126436,mir,albertine
+gdc,x4vf.0,126368,126556,albertine,126446,126449,Sie,madame_wölbing
+gdc,x4vf.0,126368,126556,albertine,126467,126471,mich,albertine
+gdc,x4vf.0,126368,126556,albertine,126533,126536,ich,albertine
+gdc,x4vf.0,126561,126592,madame_wölbing,126578,126581,Ich,madame_wölbing
+gdc,x4vf.0,126597,126807,albertine,126609,126615,Mutter,madame_wölbing
+gdc,x4vf.0,126597,126807,albertine,126623,126626,Sie,madame_wölbing
+gdc,x4vf.0,126597,126807,albertine,126630,126636,seiner,august
+gdc,x4vf.0,126597,126807,albertine,126688,126708,der überlegene  Mann,der-überlegene--Mann
+gdc,x4vf.0,126597,126807,albertine,126747,126749,er,der-überlegene--Mann
+gdc,x4vf.0,126812,126885,madame_wölbing,126851,126857,deines,albertine
+gdc,x4vf.0,126890,127131,albertine,126912,126915,Ich,albertine
+gdc,x4vf.0,126890,127131,albertine,126930,126936,seinen,august
+gdc,x4vf.0,126890,127131,albertine,126948,126954,seinen,august
+gdc,x4vf.0,126890,127131,albertine,126962,126964,Er,august
+gdc,x4vf.0,126890,127131,albertine,126983,126985,er,august
+gdc,x4vf.0,126890,127131,albertine,127005,127010,Seine,august
+gdc,x4vf.0,126890,127131,albertine,127021,127025,mich,albertine
+gdc,x4vf.0,126890,127131,albertine,127041,127045,sein,august
+gdc,x4vf.0,126890,127131,albertine,127056,127060,mich,albertine
+gdc,x4vf.0,126890,127131,albertine,127086,127089,Sie,madame_wölbing
+gdc,x4vf.0,126890,127131,albertine,127098,127101,ihm,august
+gdc,x4vf.0,126890,127131,albertine,127123,127126,sie,madame_wölbing
+gdc,x4vf.0,126890,127131,albertine,127127,127130,ihn,august
+gdc,x4vf.0,127136,127172,madame_wölbing,127153,127155,Er,august
+gdc,x4vf.0,127177,127439,albertine,127219,127222,ich,albertine
+gdc,x4vf.0,127177,127439,albertine,127227,127238,einem Manne,august
+gdc,x4vf.0,127177,127439,albertine,127252,127255,dem,august
+gdc,x4vf.0,127177,127439,albertine,127256,127259,ich,albertine
+gdc,x4vf.0,127177,127439,albertine,127333,127336,ich,albertine
+gdc,x4vf.0,127177,127439,albertine,127345,127348,der,august
+gdc,x4vf.0,127177,127439,albertine,127371,127383,meiner Seele,Ihre-Seele
+gdc,x4vf.0,127177,127439,albertine,127371,127377,meiner,albertine
+gdc,x4vf.0,127177,127439,albertine,127404,127407,Sie,madame_wölbing
+gdc,x4vf.0,127177,127439,albertine,127408,127411,ihn,august
+gdc,x4vf.0,127177,127439,albertine,127422,127424,er,august
+gdc,x4vf.0,127444,127584,madame_wölbing,127480,127492,deine Mutter,madame_wölbing
+gdc,x4vf.0,127444,127584,madame_wölbing,127480,127485,deine,albertine
+gdc,x4vf.0,127444,127584,madame_wölbing,127498,127503,seine,august
+gdc,x4vf.0,127444,127584,madame_wölbing,127533,127536,ihm,august
+gdc,x4vf.0,127444,127584,madame_wölbing,127541,127544,mir,madame_wölbing
+gdc,x4vf.0,127444,127584,madame_wölbing,127546,127549,Ich,madame_wölbing
+gdc,x4vf.0,127444,127584,madame_wölbing,127555,127558,ihn,august
+gdc,x4vf.0,127601,127648,_stage,127632,127640,das Herz,das-Herz
+gdc,x4vf.0,127590,127828,albertine,127662,127664,du,das-Herz
+gdc,x4vf.0,127590,127828,albertine,127666,127670,Herz,das-Herz
+gdc,x4vf.0,127590,127828,albertine,127715,127721,meines,albertine
+gdc,x4vf.0,127590,127828,albertine,127735,127738,dir,das-Herz
+gdc,x4vf.0,127590,127828,albertine,127772,127774,du,das-Herz
+gdc,x4vf.0,127590,127828,albertine,127779,127782,man,Die-Leute
+gdc,x4vf.0,127590,127828,albertine,127797,127802,meine,albertine
+gdc,x4vf.0,127879,127913,_stage,127879,127893,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,127879,127913,_stage,127895,127901,August,august
+gdc,x4vf.0,127879,127913,_stage,127903,127912,Albertine,albertine
+gdc,x4vf.0,127924,127961,_stage,127946,127960,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,127916,127985,,127973,127976,Sie,madame_wölbing
+gdc,x4vf.0,127916,127985,,127978,127984,Madame,madame_wölbing
+gdc,x4vf.0,127990,128167,madame_wölbing,128020,128029,Albertine,albertine
+gdc,x4vf.0,127990,128167,madame_wölbing,128031,128129,"Herr August Gehrmann, der deine schriftstellerischen Versuche mit so viel Nachsicht beurtheilt hat",august
+gdc,x4vf.0,127990,128167,madame_wölbing,128053,128056,der,august
+gdc,x4vf.0,127990,128167,madame_wölbing,128057,128092,deine schriftstellerischen Versuche,"das-Manuseript,-welches-Sie-mir-diesen-Morgen-brachten"
+gdc,x4vf.0,127990,128167,madame_wölbing,128057,128062,deine,albertine
+gdc,x4vf.0,127990,128167,madame_wölbing,128139,128143,dich,albertine
+gdc,x4vf.0,128172,128205,albertine,128195,128204,Mein Herr,august
+gdc,x4vf.0,128172,128205,albertine,128195,128199,Mein,albertine
+gdc,x4vf.0,128210,128450,,128219,128252,Die Bilder Ihrer Einbildungskraft,Die-Bilder-Ihrer-Einbildungskraft
+gdc,x4vf.0,128210,128450,,128230,128235,Ihrer,albertine
+gdc,x4vf.0,128210,128450,,128262,128317,die mich mit dieser Zudringlichkeit in Ihre Nähe führen,Die-Bilder-Ihrer-Einbildungskraft
+gdc,x4vf.0,128210,128450,,128262,128265,die,Die-Bilder-Ihrer-Einbildungskraft
+gdc,x4vf.0,128210,128450,,128301,128305,Ihre,albertine
+gdc,x4vf.0,128210,128450,,128335,128338,Sie,albertine
+gdc,x4vf.0,128210,128450,,128384,128397,die Huldigung,die-Huldigung
+gdc,x4vf.0,128210,128450,,128411,128414,die,die-Huldigung
+gdc,x4vf.0,128210,128450,,128415,128418,man,Die-Leute
+gdc,x4vf.0,128210,128450,,128419,128424,Ihren,albertine
+gdc,x4vf.0,128455,128621,albertine,128477,128480,Sie,august
+gdc,x4vf.0,128455,128621,albertine,128487,128490,ich,albertine
+gdc,x4vf.0,128455,128621,albertine,128548,128582,"Der Zustand, in dem Sie mich sehen","Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,128455,128621,albertine,128564,128567,dem,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,128455,128621,albertine,128568,128571,Sie,august
+gdc,x4vf.0,128455,128621,albertine,128572,128576,mich,albertine
+gdc,x4vf.0,128455,128621,albertine,128584,128619,"mein Unglück, das mir nicht erlaubt","Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,128455,128621,albertine,128584,128588,mein,albertine
+gdc,x4vf.0,128455,128621,albertine,128598,128601,das,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,128455,128621,albertine,128602,128605,mir,albertine
+gdc,x4vf.0,128626,128776,,128651,128679,"Jedem, der sich Ihnen nähert","Jedem,-der-sich-Ihnen-nähert"
+gdc,x4vf.0,128626,128776,,128658,128661,der,"Jedem,-der-sich-Ihnen-nähert"
+gdc,x4vf.0,128626,128776,,128662,128666,sich,"Jedem,-der-sich-Ihnen-nähert"
+gdc,x4vf.0,128626,128776,,128667,128672,Ihnen,albertine
+gdc,x4vf.0,128626,128776,,128681,128693,den Eindruck,den-Eindruck
+gdc,x4vf.0,128626,128776,,128707,128710,den,den-Eindruck
+gdc,x4vf.0,128626,128776,,128737,128746,ALBERTINE,albertine
+gdc,x4vf.0,128626,128776,,128754,128758,sich,albertine
+gdc,x4vf.0,128626,128776,,128769,128775,Mutter,madame_wölbing
+gdc,x4vf.0,128798,128848,_stage,128807,128810,ihr,albertine
+gdc,x4vf.0,128798,128848,_stage,128819,128828,Albertine,albertine
+gdc,x4vf.0,128782,128876,madame_wölbing,128862,128864,du,albertine
+gdc,x4vf.0,128782,128876,madame_wölbing,128866,128875,mein Kind,albertine
+gdc,x4vf.0,128782,128876,madame_wölbing,128866,128870,mein,madame_wölbing
+gdc,x4vf.0,128882,129005,albertine,128900,128903,Sie,madame_wölbing
+gdc,x4vf.0,128882,129005,albertine,128904,128916,diesem Herrn,august
+gdc,x4vf.0,128882,129005,albertine,128927,128931,mein,albertine
+gdc,x4vf.0,128882,129005,albertine,128958,128962,mein,albertine
+gdc,x4vf.0,129059,129411,albertine,129071,129074,Ich,albertine
+gdc,x4vf.0,129059,129411,albertine,129083,129095,einen Freund,einen-Freund
+gdc,x4vf.0,129059,129411,albertine,129097,129112,einen Rathgeber,einen-Freund
+gdc,x4vf.0,129059,129411,albertine,129114,129147,einen unpartheiischen Beurtheiler,einen-Freund
+gdc,x4vf.0,129059,129411,albertine,129153,129160,solcher,einen-Freund
+gdc,x4vf.0,129059,129411,albertine,129166,129169,Sie,august
+gdc,x4vf.0,129059,129411,albertine,129170,129173,mir,albertine
+gdc,x4vf.0,129059,129411,albertine,129195,129198,Ich,albertine
+gdc,x4vf.0,129059,129411,albertine,129247,129250,ich,albertine
+gdc,x4vf.0,129059,129411,albertine,129265,129273,der Welt,die-Welt
+gdc,x4vf.0,129059,129411,albertine,129289,129299,meine Lage,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,129059,129411,albertine,129289,129294,meine,albertine
+gdc,x4vf.0,129059,129411,albertine,129301,129313,mein Unglück,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,129059,129411,albertine,129301,129305,mein,albertine
+gdc,x4vf.0,129059,129411,albertine,129319,129324,meine,albertine
+gdc,x4vf.0,129059,129411,albertine,129334,129347,meiner Mutter,madame_wölbing
+gdc,x4vf.0,129059,129411,albertine,129334,129340,meiner,albertine
+gdc,x4vf.0,129059,129411,albertine,129353,129357,mich,albertine
+gdc,x4vf.0,129059,129411,albertine,129387,129396,mein Herr,august
+gdc,x4vf.0,129059,129411,albertine,129387,129391,mein,albertine
+gdc,x4vf.0,129416,129911,,129425,129501,"Der mit solchen Kenntnissen, mit solcher warmen Phantasie die Feder ergreift",albertine
+gdc,x4vf.0,129416,129911,,129534,129536,er,albertine
+gdc,x4vf.0,129416,129911,,129598,129603,seine,albertine
+gdc,x4vf.0,129416,129911,,129632,129634,er,albertine
+gdc,x4vf.0,129416,129911,,129660,129664,Ihre,albertine
+gdc,x4vf.0,129416,129911,,129691,129695,Ihre,albertine
+gdc,x4vf.0,129416,129911,,129720,129724,Ihre,albertine
+gdc,x4vf.0,129416,129911,,129764,129768,Ihre,albertine
+gdc,x4vf.0,129416,129911,,129819,129822,Ihr,albertine
+gdc,x4vf.0,129416,129911,,129873,129883,Ihre Seele,Ihre-Seele
+gdc,x4vf.0,129416,129911,,129873,129877,Ihre,albertine
+gdc,x4vf.0,129416,129911,,129887,129892,Ihren,albertine
+gdc,x4vf.0,129916,130333,albertine,129933,129942,mein Herr,august
+gdc,x4vf.0,129916,130333,albertine,129933,129937,mein,albertine
+gdc,x4vf.0,129916,130333,albertine,129944,129995,"der, dem die Gegenstände nach und nach verschwinden","der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,129949,129952,dem,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,129997,130018,den Finsterniß umgibt,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130020,130023,der,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130048,130054,seinem,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130080,130083,ihm,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130108,130111,ihm,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130150,130155,seine,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130166,130168,er,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130178,130275,"den mit dem wahren Tag vertrauten Richter, der, was jener aus Nacht und Finsterniß herauf fördert","den-mit-dem-wahren-Tag-vertrauten-Richter,-der,-was-jener-aus-Nacht-und-Finsterniß-herauf-fördert"
+gdc,x4vf.0,129916,130333,albertine,130221,130224,der,"den-mit-dem-wahren-Tag-vertrauten-Richter,-der,-was-jener-aus-Nacht-und-Finsterniß-herauf-fördert"
+gdc,x4vf.0,129916,130333,albertine,130230,130235,jener,"der,-dem-die-Gegenstände-nach-und-nach-verschwinden"
+gdc,x4vf.0,129916,130333,albertine,130320,130323,Sie,august
+gdc,x4vf.0,129916,130333,albertine,130324,130327,das,"den-mit-dem-wahren-Tag-vertrauten-Richter,-der,-was-jener-aus-Nacht-und-Finsterniß-herauf-fördert"
+gdc,x4vf.0,130338,130376,,130361,130368,Mädchen,albertine
+gdc,x4vf.0,130338,130376,,130370,130375,Engel,albertine
+gdc,x4vf.0,130381,130576,albertine,130415,130418,Sie,august
+gdc,x4vf.0,130381,130576,albertine,130426,130428,es,"den-mit-dem-wahren-Tag-vertrauten-Richter,-der,-was-jener-aus-Nacht-und-Finsterniß-herauf-fördert"
+gdc,x4vf.0,130381,130576,albertine,130459,130462,Sie,august
+gdc,x4vf.0,130381,130576,albertine,130508,130511,mir,albertine
+gdc,x4vf.0,130381,130576,albertine,130535,130538,Ihr,august
+gdc,x4vf.0,130381,130576,albertine,130558,130574,"einer Waffe, die","einer-Waffe,-die"
+gdc,x4vf.0,130381,130576,albertine,130571,130574,die,"einer-Waffe,-die"
+gdc,x4vf.0,130581,130847,,130656,130659,dir,albertine
+gdc,x4vf.0,130581,130847,,130661,130675,du reine Seele,albertine
+gdc,x4vf.0,130581,130847,,130726,130735,Ihre Lage,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,130581,130847,,130726,130730,Ihre,albertine
+gdc,x4vf.0,130581,130847,,130737,130741,Ihre,albertine
+gdc,x4vf.0,130581,130847,,130756,130760,Ihre,albertine
+gdc,x4vf.0,130581,130847,,130771,130811,die ganze Verkettung Ihrer Unglücksfälle,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,130581,130847,,130792,130797,Ihrer,albertine
+gdc,x4vf.0,130581,130847,,130813,130822,Albertine,albertine
+gdc,x4vf.0,130581,130847,,130834,130839,Ihnen,albertine
+gdc,x4vf.0,130852,130884,albertine,130875,130878,Sie,august
+gdc,x4vf.0,130852,130884,albertine,130880,130883,mir,albertine
+gdc,x4vf.0,130889,131102,,130921,130949,diesem Gefühle der Hingebung,diesem-Gefühle-der-Hingebung
+gdc,x4vf.0,130889,131102,,130995,131010,der Erblindeten,albertine
+gdc,x4vf.0,130889,131102,,131075,131084,Albertine,albertine
+gdc,x4vf.0,130889,131102,,131093,131096,Sie,albertine
+gdc,x4vf.0,130889,131102,,131097,131101,mein,
+gdc,x4vf.0,131148,131186,madame_wölbing,131176,131185,Mein Herr,august
+gdc,x4vf.0,131148,131186,madame_wölbing,131176,131180,Mein,madame_wölbing
+gdc,x4vf.0,131191,131572,,131267,131281,Ihrer  Tochter,albertine
+gdc,x4vf.0,131191,131572,,131267,131272,Ihrer,madame_wölbing
+gdc,x4vf.0,131191,131572,,131294,131353,"eine Mahlzeit, die mein Fleiß erwirbt, und ihre Liebe würzt","eine-Mahlzeit,-die-mein-Fleiß-erwirbt"
+gdc,x4vf.0,131191,131572,,131309,131312,die,"eine-Mahlzeit,-die-mein-Fleiß-erwirbt"
+gdc,x4vf.0,131191,131572,,131337,131341,ihre,albertine
+gdc,x4vf.0,131191,131572,,131488,131506,eine solche Gattin,albertine
+gdc,x4vf.0,131191,131572,,131531,131549,eine solche Mutter,madame_wölbing
+gdc,x4vf.0,131588,131614,_stage,131588,131592,sich,albertine
+gdc,x4vf.0,131588,131614,_stage,131596,131600,ihre,madame_wölbing
+gdc,x4vf.0,131577,131732,albertine,131619,131631,meine Mutter,madame_wölbing
+gdc,x4vf.0,131577,131732,albertine,131619,131624,meine,albertine
+gdc,x4vf.0,131635,131732,_stage,131635,131643,Gehrmann,gehrmann
+gdc,x4vf.0,131737,131779,madame_wölbing,131763,131766,Sie,august
+gdc,x4vf.0,131737,131779,madame_wölbing,131768,131777,mein Herr,august
+gdc,x4vf.0,131737,131779,madame_wölbing,131768,131772,mein,madame_wölbing
+gdc,x4vf.0,131821,131879,madame_wölbing,131838,131864,Der Zustand meiner Tochter,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,131821,131879,madame_wölbing,131850,131864,meiner Tochter,albertine
+gdc,x4vf.0,131821,131879,madame_wölbing,131850,131856,meiner,madame_wölbing
+gdc,x4vf.0,131821,131879,madame_wölbing,131866,131877,ihr Unglück,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,131821,131879,madame_wölbing,131866,131869,ihr,albertine
+gdc,x4vf.0,131884,131915,,131893,131895,Es,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,131884,131915,,131903,131914,meine Liebe,diesem-Gefühle-der-Hingebung
+gdc,x4vf.0,131920,131979,madame_wölbing,131951,131954,Sie,albertine
+gdc,x4vf.0,131920,131979,madame_wölbing,131966,131978,ewiger Nacht,ewiger-Nacht
+gdc,x4vf.0,131984,132125,,131999,132010,diese Nacht,ewiger-Nacht
+gdc,x4vf.0,131984,132125,,132027,132035,Ihr Arzt,Ihr-Arzt
+gdc,x4vf.0,131984,132125,,132027,132030,Ihr,albertine
+gdc,x4vf.0,131984,132125,,132063,132065,er,Ihr-Arzt
+gdc,x4vf.0,131984,132125,,132075,132079,sich,Ihr-Arzt
+gdc,x4vf.0,131984,132125,,132092,132096,ihre,albertine
+gdc,x4vf.0,132130,132559,albertine,132195,132199,Gott,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132208,132212,dein,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132224,132227,ich,albertine
+gdc,x4vf.0,132130,132559,albertine,132228,132236,die Welt,die-Welt
+gdc,x4vf.0,132130,132559,albertine,132245,132248,ich,albertine
+gdc,x4vf.0,132130,132559,albertine,132283,132286,ich,albertine
+gdc,x4vf.0,132130,132559,albertine,132287,132291,dich,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132296,132301,deine,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132355,132360,deine,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132392,132398,deiner,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132407,132413,deiner,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132447,132449,du,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132450,132461,diese Augen,diese-Augen
+gdc,x4vf.0,132130,132559,albertine,132462,132468,deinem,den-lieben-Gott
+gdc,x4vf.0,132130,132559,albertine,132508,132511,ich,albertine
+gdc,x4vf.0,132130,132559,albertine,132549,132552,ich,albertine
+gdc,x4vf.0,132564,132624,madame_wölbing,132597,132606,mein Kind,albertine
+gdc,x4vf.0,132564,132624,madame_wölbing,132597,132601,mein,madame_wölbing
+gdc,x4vf.0,132564,132624,madame_wölbing,132608,132623,mein gutes Kind,albertine
+gdc,x4vf.0,132564,132624,madame_wölbing,132608,132612,mein,madame_wölbing
+gdc,x4vf.0,132640,132650,_stage,132643,132649,August,august
+gdc,x4vf.0,132629,132930,albertine,132653,132656,Ich,albertine
+gdc,x4vf.0,132629,132930,albertine,132679,132682,ich,albertine
+gdc,x4vf.0,132629,132930,albertine,132688,132696,Hoffnung,Hoffnung
+gdc,x4vf.0,132629,132930,albertine,132729,132733,sich,dieser-Engel-des-Himmels
+gdc,x4vf.0,132629,132930,albertine,132734,132758,dieser Engel des Himmels,dieser-Engel-des-Himmels
+gdc,x4vf.0,132629,132930,albertine,132770,132773,mir,albertine
+gdc,x4vf.0,132629,132930,albertine,132795,132809,diese Hoffnung,Hoffnung
+gdc,x4vf.0,132629,132930,albertine,132837,132840,ich,albertine
+gdc,x4vf.0,132629,132930,albertine,132855,132883,eines armen blinden Mädchens,albertine
+gdc,x4vf.0,132629,132930,albertine,132897,132921,eines glücklichen Mannes,august
+gdc,x4vf.0,132935,132964,,132954,132963,Albertine,albertine
+gdc,x4vf.0,132969,133440,albertine,132991,132995,mich,albertine
+gdc,x4vf.0,132969,133440,albertine,133001,133004,ich,albertine
+gdc,x4vf.0,132969,133440,albertine,133008,133023,diesem Zustande,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,132969,133440,albertine,133033,133054,eines würdigen Mannes,august
+gdc,x4vf.0,132969,133440,albertine,133076,133079,ich,albertine
+gdc,x4vf.0,132969,133440,albertine,133089,133092,mir,albertine
+gdc,x4vf.0,132969,133440,albertine,133104,133116,Ihre Neigung,diesem-Gefühle-der-Hingebung
+gdc,x4vf.0,132969,133440,albertine,133104,133108,Ihre,august
+gdc,x4vf.0,132969,133440,albertine,133168,133171,Sie,august
+gdc,x4vf.0,132969,133440,albertine,133172,133176,mein,albertine
+gdc,x4vf.0,132969,133440,albertine,133185,133189,mein,albertine
+gdc,x4vf.0,132969,133440,albertine,133258,133261,ich,albertine
+gdc,x4vf.0,132969,133440,albertine,133290,133307,dieses Wohlwollen,diesem-Gefühle-der-Hingebung
+gdc,x4vf.0,132969,133440,albertine,133312,133316,mich,albertine
+gdc,x4vf.0,132969,133440,albertine,133330,133335,Ihrem,august
+gdc,x4vf.0,132969,133440,albertine,133358,133361,Sie,august
+gdc,x4vf.0,132969,133440,albertine,133362,133365,mir,albertine
+gdc,x4vf.0,132969,133440,albertine,133372,133376,Sich,albertine
+gdc,x4vf.0,132969,133440,albertine,133386,133398,ihrer Mutter,madame_wölbing
+gdc,x4vf.0,132969,133440,albertine,133386,133391,ihrer,albertine
+gdc,x4vf.0,133445,133607,,133460,133469,Albertine,albertine
+gdc,x4vf.0,133445,133607,,133491,133494,Sie,albertine
+gdc,x4vf.0,133445,133607,,133506,133517,Ihr Unglück,"Der-Zustand,-in-dem-Sie-mich-sehen"
+gdc,x4vf.0,133445,133607,,133506,133509,Ihr,albertine
+gdc,x4vf.0,133445,133607,,133598,133601,Sie,albertine
+gdc,x4vf.0,133445,133607,,133602,133606,mein,
+gdc,x4vf.0,133613,133989,albertine,133632,133635,ich,albertine
+gdc,x4vf.0,133613,133989,albertine,133645,133650,Ihnen,august
+gdc,x4vf.0,133613,133989,albertine,133662,133666,Ihre,august
+gdc,x4vf.0,133613,133989,albertine,133677,133690,meinem Herzen,das-Herz
+gdc,x4vf.0,133613,133989,albertine,133677,133683,meinem,albertine
+gdc,x4vf.0,133613,133989,albertine,133708,133711,ich,albertine
+gdc,x4vf.0,133613,133989,albertine,133723,133727,Ihre,august
+gdc,x4vf.0,133613,133989,albertine,133814,133818,mich,albertine
+gdc,x4vf.0,133613,133989,albertine,133834,133837,ich,albertine
+gdc,x4vf.0,133613,133989,albertine,133844,133850,meinen,albertine
+gdc,x4vf.0,133892,133989,_stage,133892,133900,Gehrmann,gehrmann
+gdc,x4vf.0,133892,133989,_stage,133905,133909,sich,gehrmann
+gdc,x4vf.0,133892,133989,_stage,133935,133944,der Thüre,die-Thüre
+gdc,x4vf.0,134039,134061,_stage,134039,134047,Gehrmann,gehrmann
+gdc,x4vf.0,134039,134061,_stage,134049,134060,die Vorigen,Vorige
+gdc,x4vf.0,134064,134106,gehrmann,134096,134099,Sie,albertine
+gdc,x4vf.0,134146,134166,,134155,134165,Mein Onkel,gehrmann
+gdc,x4vf.0,134171,134202,madame_wölbing,134188,134201,Herr Gehrmann,gehrmann
+gdc,x4vf.0,134207,134225,,134216,134219,Sie,gehrmann
+gdc,x4vf.0,134230,134273,gehrmann,134241,134245,Mich,gehrmann
+gdc,x4vf.0,134230,134273,gehrmann,134253,134256,ich,gehrmann
+gdc,x4vf.0,134312,134344,madame_wölbing,134329,134338,Ihr Neffe,august
+gdc,x4vf.0,134312,134344,madame_wölbing,134329,134332,Ihr,gehrmann
+gdc,x4vf.0,134349,134408,albertine,134373,134385,Meine Mutter,madame_wölbing
+gdc,x4vf.0,134349,134408,albertine,134373,134378,Meine,albertine
+gdc,x4vf.0,134349,134408,albertine,134394,134397,Sie,madame_wölbing
+gdc,x4vf.0,134349,134408,albertine,134398,134402,mich,albertine
+gdc,x4vf.0,134414,134531,gehrmann,134431,134437,Madame,madame_wölbing
+gdc,x4vf.0,134414,134531,gehrmann,134446,134449,Sie,madame_wölbing
+gdc,x4vf.0,134414,134531,gehrmann,134450,134454,mich,gehrmann
+gdc,x4vf.0,134414,134531,gehrmann,134460,134471,die Gestalt,albertine
+gdc,x4vf.0,134414,134531,gehrmann,134490,134493,die,albertine
+gdc,x4vf.0,134572,134953,gehrmann,134587,134590,sie,albertine
+gdc,x4vf.0,134572,134953,gehrmann,134591,134601,den Neffen,august
+gdc,x4vf.0,134572,134953,gehrmann,134637,134647,die Wunder,die-Wunder
+gdc,x4vf.0,134572,134953,gehrmann,134662,134665,man,Die-Leute
+gdc,x4vf.0,134572,134953,gehrmann,134676,134695,diese leichte Waare,august
+gdc,x4vf.0,134572,134953,gehrmann,134736,134745,der Onkel,gehrmann
+gdc,x4vf.0,134572,134953,gehrmann,134769,134772,ihr,albertine
+gdc,x4vf.0,134572,134953,gehrmann,134784,134787,sie,albertine
+gdc,x4vf.0,134572,134953,gehrmann,134796,134809,seinen Neffen,august
+gdc,x4vf.0,134572,134953,gehrmann,134796,134802,seinen,gehrmann
+gdc,x4vf.0,134572,134953,gehrmann,134843,134853,die Wunder,die-Wunder
+gdc,x4vf.0,134572,134953,gehrmann,134872,134881,der Onkel,gehrmann
+gdc,x4vf.0,134572,134953,gehrmann,134892,134898,seinen,gehrmann
+gdc,x4vf.0,134966,134977,_stage,134972,134976,sich,august
+gdc,x4vf.0,134958,135001,,134980,134985,Onkel,gehrmann
+gdc,x4vf.0,134958,135001,,134987,134990,Sie,gehrmann
+gdc,x4vf.0,135006,135087,gehrmann,135037,135040,ich,gehrmann
+gdc,x4vf.0,135006,135087,gehrmann,135041,135054,diese Heirath,diese-Heirath
+gdc,x4vf.0,135006,135087,gehrmann,135079,135082,ich,gehrmann
+gdc,x4vf.0,135006,135087,gehrmann,135083,135086,sie,diese-Heirath
+gdc,x4vf.0,135092,135120,madame_wölbing,135109,135118,Mein Herr,gehrmann
+gdc,x4vf.0,135092,135120,madame_wölbing,135109,135113,Mein,madame_wölbing
+gdc,x4vf.0,135125,135334,gehrmann,135158,135164,Madame,madame_wölbing
+gdc,x4vf.0,135125,135334,gehrmann,135203,135206,Sie,madame_wölbing
+gdc,x4vf.0,135125,135334,gehrmann,135240,135243,Sie,madame_wölbing
+gdc,x4vf.0,135125,135334,gehrmann,135267,135270,ich,gehrmann
+gdc,x4vf.0,135125,135334,gehrmann,135271,135294,diese blinde Nachtigall,albertine
+gdc,x4vf.0,135339,135355,,135348,135353,Onkel,gehrmann
+gdc,x4vf.0,135360,135500,gehrmann,135380,135383,Ihr,madame_wölbing
+gdc,x4vf.0,135360,135500,gehrmann,135393,135396,ich,gehrmann
+gdc,x4vf.0,135360,135500,gehrmann,135406,135410,mich,gehrmann
+gdc,x4vf.0,135360,135500,gehrmann,135435,135448,Bürgermeister,Bürgermeister
+gdc,x4vf.0,135360,135500,gehrmann,135460,135466,seinen,Bürgermeister
+gdc,x4vf.0,135360,135500,gehrmann,135482,135498,eine Verführerin,eine-Verführerin
+gdc,x4vf.0,135581,135834,gehrmann,135618,135624,meiner,gehrmann
+gdc,x4vf.0,135581,135834,gehrmann,135658,135661,ich,gehrmann
+gdc,x4vf.0,135581,135834,gehrmann,135662,135665,ihm,Bürgermeister
+gdc,x4vf.0,135581,135834,gehrmann,135677,135689,des Mädchens,eine-Verführerin
+gdc,x4vf.0,135581,135834,gehrmann,135702,135704,er,Bürgermeister
+gdc,x4vf.0,135581,135834,gehrmann,135705,135709,mich,gehrmann
+gdc,x4vf.0,135581,135834,gehrmann,135733,135735,er,Bürgermeister
+gdc,x4vf.0,135581,135834,gehrmann,135737,135747,Diese Frau,eine-Verführerin
+gdc,x4vf.0,135581,135834,gehrmann,135749,135762,diese Tochter,eine-Verführerin
+gdc,x4vf.0,135581,135834,gehrmann,135780,135784,mein,
+gdc,x4vf.0,135581,135834,gehrmann,135798,135809,das Mädchen,eine-Verführerin
+gdc,x4vf.0,135581,135834,gehrmann,135818,135821,ich,
+gdc,x4vf.0,135839,135883,,135856,135858,du,gehrmann
+gdc,x4vf.0,135839,135883,,135870,135875,deine,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,135899,135901,Er,Bürgermeister
+gdc,x4vf.0,135888,136220,gehrmann,135908,135911,mir,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,135912,135917,Ihren,eine-Verführerin
+gdc,x4vf.0,135888,136220,gehrmann,135933,135936,ich,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,135959,135962,uns,gehrmann-und-madame_wölbing
+gdc,x4vf.0,135888,136220,gehrmann,135964,135970,Madame,madame_wölbing
+gdc,x4vf.0,135888,136220,gehrmann,135972,135975,ich,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,135988,135991,ich,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,135998,136003,Ihren,madame_wölbing
+gdc,x4vf.0,135888,136220,gehrmann,136048,136051,Ich,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,136095,136098,ich,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,136099,136113,das liebe Kind,albertine
+gdc,x4vf.0,135888,136220,gehrmann,136134,136137,mir,gehrmann
+gdc,x4vf.0,135888,136220,gehrmann,136163,136174,ihren Augen,diese-Augen
+gdc,x4vf.0,135888,136220,gehrmann,136163,136168,ihren,albertine
+gdc,x4vf.0,135888,136220,gehrmann,136199,136205,August,august
+gdc,x4vf.0,135888,136220,gehrmann,136207,136210,Sie,albertine
+gdc,x4vf.0,135888,136220,gehrmann,136215,136219,dein,
+gdc,x4vf.0,136225,136548,albertine,136253,136262,mein Herr,gehrmann
+gdc,x4vf.0,136225,136548,albertine,136253,136257,mein,albertine
+gdc,x4vf.0,136225,136548,albertine,136269,136272,Sie,gehrmann
+gdc,x4vf.0,136225,136548,albertine,136314,136317,Sie,gehrmann
+gdc,x4vf.0,136225,136548,albertine,136318,136389,"eine Nichte, die Ihnen nicht die kleinste kindliche Pflege leisten kann",albertine
+gdc,x4vf.0,136225,136548,albertine,136331,136334,die,albertine
+gdc,x4vf.0,136225,136548,albertine,136335,136340,Ihnen,gehrmann
+gdc,x4vf.0,136225,136548,albertine,136391,136394,Ich,albertine
+gdc,x4vf.0,136225,136548,albertine,136478,136491,meiner Mutter,madame_wölbing
+gdc,x4vf.0,136225,136548,albertine,136478,136484,meiner,albertine
+gdc,x4vf.0,136225,136548,albertine,136497,136516,einen würdigen Mann,august
+gdc,x4vf.0,136225,136548,albertine,136538,136541,ich,albertine
+gdc,x4vf.0,136553,136576,,136562,136567,Onkel,gehrmann
+gdc,x4vf.0,136553,136576,,136569,136575,Mutter,madame_wölbing
+gdc,x4vf.0,136582,136974,gehrmann,136604,136608,dich,august
+gdc,x4vf.0,136582,136974,gehrmann,136643,136646,ich,gehrmann
+gdc,x4vf.0,136582,136974,gehrmann,136690,136704,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,136582,136974,gehrmann,136706,136712,Madame,madame_wölbing
+gdc,x4vf.0,136582,136974,gehrmann,136714,136724,mein Neffe,august
+gdc,x4vf.0,136582,136974,gehrmann,136714,136718,mein,gehrmann
+gdc,x4vf.0,136582,136974,gehrmann,136731,136734,mir,gehrmann
+gdc,x4vf.0,136582,136974,gehrmann,136736,136790,"das Manuseript, welches Sie mir diesen Morgen brachten","das-Manuseript,-welches-Sie-mir-diesen-Morgen-brachten"
+gdc,x4vf.0,136582,136974,gehrmann,136752,136759,welches,"das-Manuseript,-welches-Sie-mir-diesen-Morgen-brachten"
+gdc,x4vf.0,136582,136974,gehrmann,136760,136763,Sie,madame_wölbing
+gdc,x4vf.0,136582,136974,gehrmann,136764,136767,mir,gehrmann
+gdc,x4vf.0,136582,136974,gehrmann,136843,136846,sie,madame_wölbing
+gdc,x4vf.0,136582,136974,gehrmann,136867,136932,"einer Münze, deren sich noch keine Schriftstellerin rühmen konnte","einer-Münze,-deren-sich-noch-keine-Schriftstellerin-rühmen-konnte"
+gdc,x4vf.0,136582,136974,gehrmann,136880,136885,deren,"einer-Münze,-deren-sich-noch-keine-Schriftstellerin-rühmen-konnte"
+gdc,x4vf.0,136582,136974,gehrmann,136886,136890,sich,"einer-Münze,-deren-sich-noch-keine-Schriftstellerin-rühmen-konnte"
+gdc,x4vf.0,137025,137046,_stage,137025,137032,Annchen,annchen
+gdc,x4vf.0,137025,137046,_stage,137034,137045,die Vorigen,Vorige
+gdc,x4vf.0,137058,137082,_stage,137068,137078,Albertinen,albertine
+gdc,x4vf.0,137049,137109,annchen,137094,137108,der Brautkranz,ihr-Brautkranz
+gdc,x4vf.0,137140,137168,gehrmann,137159,137167,das Kind,annchen
+gdc,x4vf.0,137173,137242,madame_wölbing,137190,137219,Die Tochter unserer Nachbarin,annchen
+gdc,x4vf.0,137173,137242,madame_wölbing,137221,137230,Albertine,albertine
+gdc,x4vf.0,137173,137242,madame_wölbing,137238,137241,sie,annchen
+gdc,x4vf.0,137296,137339,gehrmann,137322,137325,sie,annchen
+gdc,x4vf.0,137296,137339,gehrmann,137329,137338,dem Kranz,ihr-Brautkranz
+gdc,x4vf.0,137344,137397,madame_wölbing,137361,137364,Sie,annchen
+gdc,x4vf.0,137344,137397,madame_wölbing,137386,137396,zur Kirche,der-Kirche
+gdc,x4vf.0,137402,137561,annchen,137454,137457,mir,annchen
+gdc,x4vf.0,137402,137561,annchen,137458,137467,die Braut,emerike
+gdc,x4vf.0,137402,137561,annchen,137468,137477,den Kranz,ihr-Brautkranz
+gdc,x4vf.0,137402,137561,annchen,137479,137482,ich,annchen
+gdc,x4vf.0,137402,137561,annchen,137504,137507,ich,annchen
+gdc,x4vf.0,137402,137561,annchen,137508,137511,sie,albertine
+gdc,x4vf.0,137402,137561,annchen,137528,137547,einem solchen Kranz,ihr-Brautkranz
+gdc,x4vf.0,137575,137625,_stage,137578,137624,"Albertinen, die mit zitternder Freude da steht",albertine
+gdc,x4vf.0,137575,137625,_stage,137590,137593,die,albertine
+gdc,x4vf.0,137567,137669,,137628,137637,Albertine,albertine
+gdc,x4vf.0,137567,137669,,137656,137668,der Gottheit,den-lieben-Gott
+gdc,x4vf.0,137674,137846,albertine,137726,137728,Er,den-lieben-Gott
+gdc,x4vf.0,137674,137846,albertine,137736,137742,Mutter,madame_wölbing
+gdc,x4vf.0,137674,137846,albertine,137751,137754,ich,albertine
+gdc,x4vf.0,137674,137846,albertine,137755,137760,Ihnen,madame_wölbing
+gdc,x4vf.0,137674,137846,albertine,137808,137817,mein Auge,diese-Augen
+gdc,x4vf.0,137674,137846,albertine,137808,137812,mein,albertine
+gdc,x4vf.0,137867,137878,_stage,137873,137877,sich,madame_wölbing
+gdc,x4vf.0,137904,137933,,137923,137926,Sie,albertine
+gdc,x4vf.0,137938,138444,albertine,138059,138062,ich,albertine
+gdc,x4vf.0,137938,138444,albertine,138145,138150,Vater,den-lieben-Gott
+gdc,x4vf.0,137938,138444,albertine,138160,138166,deinen,den-lieben-Gott
+gdc,x4vf.0,137938,138444,albertine,138199,138202,mir,albertine
+gdc,x4vf.0,137938,138444,albertine,138212,138224,es sey Licht,es-sey-Licht
+gdc,x4vf.0,137938,138444,albertine,138256,138258,Er,den-lieben-Gott
+gdc,x4vf.0,137938,138444,albertine,138264,138266,es,es-sey-Licht
+gdc,x4vf.0,137938,138444,albertine,138378,138384,Mutter,madame_wölbing
+gdc,x4vf.0,137938,138444,albertine,138395,138400,Gatte,august
+gdc,x4vf.0,137938,138444,albertine,138402,138405,ich,albertine
+gdc,x4vf.0,137938,138444,albertine,138419,138422,ich,albertine
+gdc,x4vf.0,138459,138495,_stage,138466,138476,Albertinen,albertine
+gdc,x4vf.0,138449,138646,gehrmann,138498,138501,Sie,albertine
+gdc,x4vf.0,138449,138646,gehrmann,138509,138512,sie,albertine
+gdc,x4vf.0,138449,138646,gehrmann,138541,138545,sich,gehrmann
+gdc,x4vf.0,138449,138646,gehrmann,138549,138563,Madame Wölbing,madame_wölbing
+gdc,x4vf.0,138449,138646,gehrmann,138569,138572,wir,gehrmann-und-madame_wölbing
+gdc,x4vf.0,138449,138646,gehrmann,138579,138585,Madame,madame_wölbing
+gdc,x4vf.0,138449,138646,gehrmann,138587,138590,wir,gehrmann-und-madame_wölbing
+gdc,x4vf.0,138449,138646,gehrmann,138628,138633,unser,gehrmann-und-madame_wölbing

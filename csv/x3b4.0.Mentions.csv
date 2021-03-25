@@ -1,0 +1,2596 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,x3b4.0,1022,1643,könig_nicolo,1091,1094,ich,könig_nicolo
+gdc,x3b4.0,1022,1643,könig_nicolo,1108,1111,ich,könig_nicolo
+gdc,x3b4.0,1022,1643,könig_nicolo,1470,1473,Ich,könig_nicolo
+gdc,x3b4.0,1649,2099,alma,1815,1818,ich,alma
+gdc,x3b4.0,1649,2099,alma,1991,1994,ich,alma
+gdc,x3b4.0,2106,2380,könig_nicolo,2146,2149,ich,könig_nicolo
+gdc,x3b4.0,2386,3055,alma,2418,2421,ich,alma
+gdc,x3b4.0,2386,3055,alma,2860,2863,ich,alma
+gdc,x3b4.0,3062,3326,könig_nicolo,3160,3163,Ich,könig_nicolo
+gdc,x3b4.0,3887,3897,_stage,3887,3896,Thronsaal,Thronsaal
+gdc,x3b4.0,3918,3947,_stage,3918,3922,sich,erster_bedienter
+gdc,x3b4.0,3900,4018,erster_bedienter,3950,3953,Sie,
+gdc,x3b4.0,4023,4125,zweiter_bedienter,4092,4094,du,erster_bedienter
+gdc,x3b4.0,4023,4125,zweiter_bedienter,4100,4109,der König,könig_nicolo
+gdc,x3b4.0,4130,4171,erster_bedienter,4149,4160,Unser König,könig_nicolo
+gdc,x3b4.0,4130,4171,erster_bedienter,4149,4154,Unser,
+gdc,x3b4.0,4176,4258,zweiter_bedienter,4215,4224,Die Hunde,
+gdc,x3b4.0,4176,4258,zweiter_bedienter,4231,4234,ihn,könig_nicolo
+gdc,x3b4.0,4176,4258,zweiter_bedienter,4235,4248,ins Gefängnis,ins-Gefängnis
+gdc,x3b4.0,4263,4587,erster_bedienter,4294,4297,wir,
+gdc,x3b4.0,4263,4587,erster_bedienter,4343,4346,sie,
+gdc,x3b4.0,4263,4587,erster_bedienter,4351,4354,uns,
+gdc,x3b4.0,4263,4587,erster_bedienter,4366,4369,wir,
+gdc,x3b4.0,4263,4587,erster_bedienter,4370,4380,die Betten,die-Betten
+gdc,x3b4.0,4263,4587,erster_bedienter,4394,4399,denen,die-Betten
+gdc,x3b4.0,4263,4587,erster_bedienter,4400,4402,er,könig_nicolo
+gdc,x3b4.0,4263,4587,erster_bedienter,4403,4414,ihre Kinder,ihre-Kinder
+gdc,x3b4.0,4263,4587,erster_bedienter,4403,4407,ihre,
+gdc,x3b4.0,4431,4587,_stage,4431,4444,Die Bedienten,
+gdc,x3b4.0,4431,4587,_stage,4517,4530,Pietro Folchi,der_könig
+gdc,x3b4.0,4431,4587,_stage,4532,4545,Filipo Folchi,filipo
+gdc,x3b4.0,4431,4587,_stage,4547,4560,Andrea Valori,andrea_valori
+gdc,x3b4.0,4431,4587,_stage,4567,4582,einigen Bürgern,die_bürger
+gdc,x3b4.0,4607,4686,_stage,4655,4685,der draußen versammelten Menge,die_bürger
+gdc,x3b4.0,4592,5282,könig_pietro,4689,4698,Mitbürger,die_bürger
+gdc,x3b4.0,4592,5282,könig_pietro,4702,4724,Die Gassen von Perugia,Die-Gassen-von-Perugia
+gdc,x3b4.0,4592,5282,könig_pietro,4717,4724,Perugia,Perugia
+gdc,x3b4.0,4592,5282,könig_pietro,4734,4745,den Leichen,die-Toten
+gdc,x3b4.0,4592,5282,könig_pietro,4746,4771,unserer Kinder und Brüder,unserer-Kinder-und-Brüder
+gdc,x3b4.0,4592,5282,könig_pietro,4746,4760,unserer Kinder,ihre-Kinder
+gdc,x3b4.0,4592,5282,könig_pietro,4746,4753,unserer,
+gdc,x3b4.0,4592,5282,könig_pietro,4793,4797,euch,die_bürger
+gdc,x3b4.0,4592,5282,könig_pietro,4881,4890,Mitbürger,die_bürger
+gdc,x3b4.0,4592,5282,könig_pietro,4950,4953,uns,
+gdc,x3b4.0,4592,5282,könig_pietro,4979,4986,Unsrige,
+gdc,x3b4.0,4592,5282,könig_pietro,4996,5005,die Toten,die-Toten
+gdc,x3b4.0,4592,5282,könig_pietro,5028,5033,ihrer,die-Toten
+gdc,x3b4.0,4592,5282,könig_pietro,5082,5099,ihres Vaterlandes,ihres-Vaterlandes
+gdc,x3b4.0,4592,5282,könig_pietro,5082,5087,ihres,die-Toten
+gdc,x3b4.0,4592,5282,könig_pietro,5108,5111,wir,
+gdc,x3b4.0,4592,5282,könig_pietro,5134,5137,wir,
+gdc,x3b4.0,4592,5282,könig_pietro,5138,5151,unserem Staat,ihres-Vaterlandes
+gdc,x3b4.0,4592,5282,könig_pietro,5138,5145,unserem,
+gdc,x3b4.0,4592,5282,könig_pietro,5173,5178,seine,ihres-Vaterlandes
+gdc,x3b4.0,4592,5282,könig_pietro,5189,5196,Zukunft,Zukunft
+gdc,x3b4.0,4592,5282,könig_pietro,5227,5241,seinen Bürgern,
+gdc,x3b4.0,4592,5282,könig_pietro,5227,5233,seinen,ihres-Vaterlandes
+gdc,x3b4.0,4592,5282,könig_pietro,5261,5266,ihrer,
+gdc,x3b4.0,5287,5322,die_bürger,5308,5321,Pietro Folchi,der_könig
+gdc,x3b4.0,5342,5385,_stage,5353,5363,des Saales,Thronsaal
+gdc,x3b4.0,5327,5891,andrea_valori,5388,5397,Mitbürger,die_bürger
+gdc,x3b4.0,5327,5891,andrea_valori,5399,5402,Wir,
+gdc,x3b4.0,5327,5891,andrea_valori,5410,5439,diesen teuer erkämpften Platz,diesen-teuer-erkämpften-Platz
+gdc,x3b4.0,5327,5891,andrea_valori,5444,5447,wir,
+gdc,x3b4.0,5327,5891,andrea_valori,5448,5451,ihn,diesen-teuer-erkämpften-Platz
+gdc,x3b4.0,5327,5891,andrea_valori,5486,5493,unseren,
+gdc,x3b4.0,5327,5891,andrea_valori,5517,5520,wir,
+gdc,x3b4.0,5327,5891,andrea_valori,5521,5524,uns,
+gdc,x3b4.0,5327,5891,andrea_valori,5577,5597,Den ehemaligen König,könig_nicolo
+gdc,x3b4.0,5327,5891,andrea_valori,5605,5608,wir,
+gdc,x3b4.0,5327,5891,andrea_valori,5609,5621,im Gefängnis,ins-Gefängnis
+gdc,x3b4.0,5327,5891,andrea_valori,5632,5695,"die Patrizier, die ihr Nichtstun mit unserem Schweiß bestritten","die-Patrizier,-die-ihr-Nichtstun-mit-unserem-Schweiß-bestritten"
+gdc,x3b4.0,5327,5891,andrea_valori,5651,5654,ihr,"die-Patrizier,-die-ihr-Nichtstun-mit-unserem-Schweiß-bestritten"
+gdc,x3b4.0,5327,5891,andrea_valori,5669,5676,unserem,
+gdc,x3b4.0,5327,5891,andrea_valori,5722,5740,den Nachbarstaaten,den-Nachbarstaaten
+gdc,x3b4.0,5327,5891,andrea_valori,5752,5755,ich,andrea_valori
+gdc,x3b4.0,5327,5891,andrea_valori,5756,5760,euch,die_bürger
+gdc,x3b4.0,5327,5891,andrea_valori,5762,5771,Mitbürger,die_bürger
+gdc,x3b4.0,5327,5891,andrea_valori,5786,5789,wir,
+gdc,x3b4.0,5327,5891,andrea_valori,5801,5808,Florenz,Florenz
+gdc,x3b4.0,5327,5891,andrea_valori,5830,5835,Siena,Siena
+gdc,x3b4.0,5327,5891,andrea_valori,5853,5867,unserem Staate,ihres-Vaterlandes
+gdc,x3b4.0,5327,5891,andrea_valori,5853,5860,unserem,
+gdc,x3b4.0,5327,5891,andrea_valori,5868,5890,die Umbrische Republik,die-Umbrische-Republik
+gdc,x3b4.0,5896,5979,die_bürger,5917,5929,die Freiheit,die-Freiheit
+gdc,x3b4.0,5896,5979,die_bürger,5939,5946,Perugia,Perugia
+gdc,x3b4.0,5896,5979,die_bürger,5956,5978,die Umbrische Republik,die-Umbrische-Republik
+gdc,x3b4.0,5984,6049,könig_pietro,6010,6013,wir,
+gdc,x3b4.0,6054,6133,die_bürger,6075,6080,unser,die_bürger
+gdc,x3b4.0,6054,6133,die_bürger,6081,6102,Podesta Pietro Folchi,der_könig
+gdc,x3b4.0,6054,6133,die_bürger,6112,6132,die Republik Perugia,
+gdc,x3b4.0,6138,7183,andrea_valori,6154,6163,Mitbürger,die_bürger
+gdc,x3b4.0,6138,7183,andrea_valori,6209,6230,die erstrittene Macht,die-erstrittene-Macht
+gdc,x3b4.0,6138,7183,andrea_valori,6257,6260,sie,die-erstrittene-Macht
+gdc,x3b4.0,6138,7183,andrea_valori,6261,6264,uns,
+gdc,x3b4.0,6138,7183,andrea_valori,6274,6277,wir,
+gdc,x3b4.0,6138,7183,andrea_valori,6322,6325,uns,
+gdc,x3b4.0,6138,7183,andrea_valori,6336,6339,wir,
+gdc,x3b4.0,6138,7183,andrea_valori,6340,6347,Umbrien,Umbrien
+gdc,x3b4.0,6138,7183,andrea_valori,6421,6446,die verjagten Herrensöhne,die-verjagten-Herrensöhne
+gdc,x3b4.0,6138,7183,andrea_valori,6447,6451,sich,die-verjagten-Herrensöhne
+gdc,x3b4.0,6138,7183,andrea_valori,6466,6473,unserer,
+gdc,x3b4.0,6138,7183,andrea_valori,6474,6481,eigenen,
+gdc,x3b4.0,6138,7183,andrea_valori,6509,6512,uns,
+gdc,x3b4.0,6138,7183,andrea_valori,6612,6619,Florenz,Florenz
+gdc,x3b4.0,6138,7183,andrea_valori,6633,6638,Siena,Siena
+gdc,x3b4.0,6138,7183,andrea_valori,6655,6667,die Freiheit,die-Freiheit
+gdc,x3b4.0,6138,7183,andrea_valori,6687,6714,wüstester Willkürherrschaft,wüstester-Willkürherrschaft
+gdc,x3b4.0,6138,7183,andrea_valori,6722,6725,der,wüstester-Willkürherrschaft
+gdc,x3b4.0,6138,7183,andrea_valori,6726,6736,der Bürger,der-Bürger
+gdc,x3b4.0,6138,7183,andrea_valori,6761,6767,seinen,der-Bürger
+gdc,x3b4.0,6138,7183,andrea_valori,6780,6787,Perugia,Perugia
+gdc,x3b4.0,6138,7183,andrea_valori,6841,6855,einem Dummkopf,könig_nicolo
+gdc,x3b4.0,6138,7183,andrea_valori,6860,6868,Wüstling,könig_nicolo
+gdc,x3b4.0,6138,7183,andrea_valori,6898,6901,wir,
+gdc,x3b4.0,6138,7183,andrea_valori,6902,6916,den Würdigsten,der_könig
+gdc,x3b4.0,6138,7183,andrea_valori,6923,6926,uns,
+gdc,x3b4.0,6138,7183,andrea_valori,6931,6943,seinen Thron,seinen-Thron
+gdc,x3b4.0,6138,7183,andrea_valori,6931,6937,seinen,
+gdc,x3b4.0,6138,7183,andrea_valori,6961,6964,wir,
+gdc,x3b4.0,6138,7183,andrea_valori,6965,6971,selber,
+gdc,x3b4.0,6138,7183,andrea_valori,6980,6983,wir,
+gdc,x3b4.0,6138,7183,andrea_valori,7019,7026,Zukunft,Zukunft
+gdc,x3b4.0,6138,7183,andrea_valori,7027,7057,die Aristokraten unserer Stadt,
+gdc,x3b4.0,6138,7183,andrea_valori,7044,7057,unserer Stadt,Perugia
+gdc,x3b4.0,6138,7183,andrea_valori,7044,7051,unserer,
+gdc,x3b4.0,6138,7183,andrea_valori,7062,7083,die Herren des Landes,
+gdc,x3b4.0,6138,7183,andrea_valori,7106,7109,wir,
+gdc,x3b4.0,7188,7242,die_bürger,7209,7218,der König,der_könig
+gdc,x3b4.0,7188,7242,die_bürger,7228,7241,Pietro Folchi,der_könig
+gdc,x3b4.0,7247,7285,einige_stimmen,7272,7284,die Freiheit,die-Freiheit
+gdc,x3b4.0,7290,7368,die_bürger,7320,7325,unser,
+gdc,x3b4.0,7290,7368,die_bürger,7326,7345,König Pietro Folchi,der_könig
+gdc,x3b4.0,7290,7368,die_bürger,7355,7367,König Pietro,der_könig
+gdc,x3b4.0,7388,7417,_stage,7397,7405,den Saal,Thronsaal
+gdc,x3b4.0,7373,7508,einige_stimmen,7436,7439,wir,einige_stimmen
+gdc,x3b4.0,7373,7508,einige_stimmen,7440,7445,unser,einige_stimmen
+gdc,x3b4.0,7373,7508,einige_stimmen,7495,7507,die Freiheit,die-Freiheit
+gdc,x3b4.0,7514,7550,die_bürger,7537,7549,König Pietro,der_könig
+gdc,x3b4.0,7570,7589,_stage,7579,7588,den Thron,seinen-Thron
+gdc,x3b4.0,7555,8054,könig_pietro,7598,7602,eure,die_bürger
+gdc,x3b4.0,7555,8054,könig_pietro,7631,7634,ich,könig_pietro
+gdc,x3b4.0,7555,8054,könig_pietro,7635,7647,diesen Thron,seinen-Thron
+gdc,x3b4.0,7555,8054,könig_pietro,7658,7662,mich,könig_pietro
+gdc,x3b4.0,7555,8054,könig_pietro,7663,7680,König von Umbrien,der_könig
+gdc,x3b4.0,7555,8054,könig_pietro,7673,7680,Umbrien,Umbrien
+gdc,x3b4.0,7555,8054,könig_pietro,7684,7761,"Die Mißvergnügten, die unter dem Ruf nach Freiheit aus unserer Mitte schieden",einige_stimmen
+gdc,x3b4.0,7555,8054,könig_pietro,7726,7734,Freiheit,die-Freiheit
+gdc,x3b4.0,7555,8054,könig_pietro,7739,7746,unserer,
+gdc,x3b4.0,7555,8054,könig_pietro,7793,7808,unseres Staates,ihres-Vaterlandes
+gdc,x3b4.0,7555,8054,könig_pietro,7793,7800,unseres,
+gdc,x3b4.0,7555,8054,könig_pietro,7813,7872,"die adligen Faulenzer, die unsern Mauern den Rücken kehrten","die-adligen-Faulenzer,-die-unsern-Mauern-den-Rücken-kehrten"
+gdc,x3b4.0,7555,8054,könig_pietro,7840,7846,unsern,
+gdc,x3b4.0,7555,8054,könig_pietro,7874,7877,Ich,könig_pietro
+gdc,x3b4.0,7555,8054,könig_pietro,7907,7910,sie,
+gdc,x3b4.0,7555,8054,könig_pietro,7923,7926,sie,
+gdc,x3b4.0,7555,8054,könig_pietro,7938,7945,unserer,
+gdc,x3b4.0,7555,8054,könig_pietro,7989,8009,unserer teuren Stadt,Perugia
+gdc,x3b4.0,7555,8054,könig_pietro,7989,7996,unserer,
+gdc,x3b4.0,7555,8054,könig_pietro,8037,8053,mein Sohn Filipo,filipo
+gdc,x3b4.0,7555,8054,könig_pietro,8037,8041,mein,könig_pietro
+gdc,x3b4.0,8074,8096,_stage,8078,8087,der Menge,die_bürger
+gdc,x3b4.0,8059,8127,prinz_filipo,8111,8114,Ihr,der_könig
+gdc,x3b4.0,8059,8127,prinz_filipo,8116,8126,mein Vater,der_könig
+gdc,x3b4.0,8059,8127,prinz_filipo,8116,8120,mein,prinz_filipo
+gdc,x3b4.0,8132,8793,könig_pietro,8150,8192,"den Schrammen, die du über dem Auge trägst","den-Schrammen,-die-du-über-dem-Auge-trägst"
+gdc,x3b4.0,8132,8793,könig_pietro,8169,8171,du,filipo
+gdc,x3b4.0,8132,8793,könig_pietro,8177,8185,dem Auge,dem-Auge
+gdc,x3b4.0,8132,8793,könig_pietro,8199,8202,ich,könig_pietro
+gdc,x3b4.0,8132,8793,könig_pietro,8208,8210,du,filipo
+gdc,x3b4.0,8132,8793,könig_pietro,8229,8237,dem Tode,dem-Tode
+gdc,x3b4.0,8132,8793,könig_pietro,8265,8268,Ich,könig_pietro
+gdc,x3b4.0,8132,8793,könig_pietro,8277,8281,dich,filipo
+gdc,x3b4.0,8132,8793,könig_pietro,8299,8306,unserer,
+gdc,x3b4.0,8132,8793,könig_pietro,8333,8336,uns,
+gdc,x3b4.0,8132,8793,könig_pietro,8373,8382,der Stadt,Perugia
+gdc,x3b4.0,8132,8793,könig_pietro,8395,8405,dem Markte,dem-Markte
+gdc,x3b4.0,8132,8793,könig_pietro,8433,8440,Perugia,Perugia
+gdc,x3b4.0,8132,8793,könig_pietro,8488,8499,den Grenzen,den-Grenzen-des-Umbrischen-Staates
+gdc,x3b4.0,8132,8793,könig_pietro,8515,8517,Du,filipo
+gdc,x3b4.0,8132,8793,könig_pietro,8526,8529,mir,könig_pietro
+gdc,x3b4.0,8132,8793,könig_pietro,8544,8563,eines jeden Bürgers,die_bürger
+gdc,x3b4.0,8132,8793,könig_pietro,8575,8578,mir,könig_pietro
+gdc,x3b4.0,8132,8793,könig_pietro,8643,8675,den ehemaligen König von Umbrien,könig_nicolo
+gdc,x3b4.0,8132,8793,könig_pietro,8668,8675,Umbrien,Umbrien
+gdc,x3b4.0,8132,8793,könig_pietro,8680,8686,seiner,könig_nicolo
+gdc,x3b4.0,8132,8793,könig_pietro,8764,8767,ich,könig_pietro
+gdc,x3b4.0,8132,8793,könig_pietro,8768,8771,ihm,könig_nicolo
+gdc,x3b4.0,8132,8793,könig_pietro,8772,8776,sein,könig_nicolo
+gdc,x3b4.0,8798,8884,prinz_filipo,8807,8811,Eure,der_könig
+gdc,x3b4.0,8798,8884,prinz_filipo,8867,8879,König Pietro,der_könig
+gdc,x3b4.0,8890,8946,könig_pietro,8912,8930,mein Schwiegersohn,andrea_valori
+gdc,x3b4.0,8890,8946,könig_pietro,8912,8916,mein,könig_pietro
+gdc,x3b4.0,8890,8946,könig_pietro,8932,8945,Andrea Valori,andrea_valori
+gdc,x3b4.0,8951,9022,andrea_valori,8986,8996,mein König,der_könig
+gdc,x3b4.0,8951,9022,andrea_valori,8986,8990,mein,andrea_valori
+gdc,x3b4.0,8951,9022,andrea_valori,9002,9005,ich,andrea_valori
+gdc,x3b4.0,8951,9022,andrea_valori,9009,9014,Eurem,der_könig
+gdc,x3b4.0,9027,10017,könig_pietro,9042,9045,Ich,könig_pietro
+gdc,x3b4.0,9027,10017,könig_pietro,9054,9058,dich,andrea_valori
+gdc,x3b4.0,9027,10017,könig_pietro,9077,9101,des Königreiches Umbrien,Umbrien
+gdc,x3b4.0,9027,10017,könig_pietro,9103,9105,Du,andrea_valori
+gdc,x3b4.0,9027,10017,könig_pietro,9110,9136,mein Vetter Giulio Diaceto,mein-Vetter-Giulio-Diaceto
+gdc,x3b4.0,9027,10017,könig_pietro,9110,9114,mein,könig_pietro
+gdc,x3b4.0,9027,10017,könig_pietro,9141,9290,"unser berühmter Rechtsgelehrter Bernardo Ruccellai, dessen beredtes Wort im Auslande unsere Stadt zu wiederholten Malen vor Blutvergießen bewahrt hat",unser-berühmter-Rechtsgelehrter-Bernardo-Ruccellai
+gdc,x3b4.0,9027,10017,könig_pietro,9141,9146,unser,
+gdc,x3b4.0,9027,10017,könig_pietro,9226,9238,unsere Stadt,Perugia
+gdc,x3b4.0,9027,10017,könig_pietro,9226,9232,unsere,
+gdc,x3b4.0,9027,10017,könig_pietro,9294,9302,Ihr drei,
+gdc,x3b4.0,9027,10017,könig_pietro,9310,9315,meine,könig_pietro
+gdc,x3b4.0,9027,10017,könig_pietro,9378,9403,die Gerufenen vorgetreten,
+gdc,x3b4.0,9027,10017,könig_pietro,9412,9416,euch,
+gdc,x3b4.0,9027,10017,könig_pietro,9417,9420,mir,könig_pietro
+gdc,x3b4.0,9027,10017,könig_pietro,9432,9435,Sie,
+gdc,x3b4.0,9027,10017,könig_pietro,9495,9498,ich,könig_pietro
+gdc,x3b4.0,9027,10017,könig_pietro,9517,9561,die verdienstvollsten Männer des Vaterlandes,
+gdc,x3b4.0,9027,10017,könig_pietro,9546,9561,des Vaterlandes,die-Umbrische-Republik
+gdc,x3b4.0,9027,10017,könig_pietro,9562,9565,ihr,
+gdc,x3b4.0,9027,10017,könig_pietro,9575,9581,meinen,könig_pietro
+gdc,x3b4.0,9027,10017,könig_pietro,9614,9625,ihr übrigen,ihr-übrigen
+gdc,x3b4.0,9027,10017,könig_pietro,9630,9639,die Opfer,die-Toten
+gdc,x3b4.0,9027,10017,könig_pietro,9684,9687,sie,die-Toten
+gdc,x3b4.0,9027,10017,könig_pietro,9706,9729,ihrer Brüder und Kinder,unserer-Kinder-und-Brüder
+gdc,x3b4.0,9027,10017,könig_pietro,9706,9711,ihrer,
+gdc,x3b4.0,9027,10017,könig_pietro,9723,9729,Kinder,ihre-Kinder
+gdc,x3b4.0,9027,10017,könig_pietro,9738,9745,den Tod,dem-Tode
+gdc,x3b4.0,9845,10017,_stage,9845,9849,Alle,
+gdc,x3b4.0,9845,10017,_stage,9860,9868,den Saal,Thronsaal
+gdc,x3b4.0,9845,10017,_stage,9877,9889,König Pietro,der_könig
+gdc,x3b4.0,9845,10017,_stage,9891,9904,den Staatsrat,den-Staatsrat
+gdc,x3b4.0,9845,10017,_stage,9943,9962,der gefangene König,könig_nicolo
+gdc,x3b4.0,9845,10017,_stage,9967,9980,Filipo Folchi,filipo
+gdc,x3b4.0,9845,10017,_stage,9985,10001,zwei Bewaffneten,zwei-Bewaffneten
+gdc,x3b4.0,10022,10136,könig_pietro,10034,10037,Wer,der_könig
+gdc,x3b4.0,10022,10136,könig_pietro,10049,10053,sich,der_könig
+gdc,x3b4.0,10022,10136,könig_pietro,10076,10109,dieser pflichtvergessenen Schelme,
+gdc,x3b4.0,10141,10787,könig_pietro,10178,10185,unserer,
+gdc,x3b4.0,10141,10787,könig_pietro,10218,10225,Umbrien,Umbrien
+gdc,x3b4.0,10141,10787,könig_pietro,10226,10229,dir,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10253,10272,des Königs Giovanni,des-Königs-Giovanni
+gdc,x3b4.0,10141,10787,könig_pietro,10285,10287,Du,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10293,10298,deine,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10354,10366,eines Königs,der-König
+gdc,x3b4.0,10141,10787,könig_pietro,10383,10396,Schwelgereien,Schwelgereien
+gdc,x3b4.0,10141,10787,könig_pietro,10398,10409,Maskenbälle,Maskenbälle
+gdc,x3b4.0,10141,10787,könig_pietro,10414,10420,Jagden,Jagden
+gdc,x3b4.0,10141,10787,könig_pietro,10428,10431,die,
+gdc,x3b4.0,10141,10787,könig_pietro,10432,10434,du,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10466,10474,das Land,Umbrien
+gdc,x3b4.0,10141,10787,könig_pietro,10511,10513,du,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10551,10553,Du,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10559,10562,uns,
+gdc,x3b4.0,10141,10787,könig_pietro,10563,10569,unsere,
+gdc,x3b4.0,10141,10787,könig_pietro,10607,10614,unseren,
+gdc,x3b4.0,10141,10787,könig_pietro,10651,10653,Du,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10663,10674,des Staates,Umbrien
+gdc,x3b4.0,10141,10787,könig_pietro,10675,10686,Wohlergehen,Wohlergehen
+gdc,x3b4.0,10141,10787,könig_pietro,10704,10716,dein eigenes,
+gdc,x3b4.0,10141,10787,könig_pietro,10725,10727,Du,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10746,10752,deinem,könig_nicolo
+gdc,x3b4.0,10141,10787,könig_pietro,10757,10776,unseres Vaterlandes,Umbrien
+gdc,x3b4.0,10141,10787,könig_pietro,10757,10764,unseres,
+gdc,x3b4.0,10792,10840,könig_pietro,10808,10811,wem,könig_nicolo
+gdc,x3b4.0,10792,10840,könig_pietro,10818,10839,der Schlächtermeister,der_könig
+gdc,x3b4.0,10874,10916,könig_pietro,10891,10894,mir,könig_pietro
+gdc,x3b4.0,10874,10916,könig_pietro,10895,10899,mein,könig_pietro
+gdc,x3b4.0,10921,10973,andrea_valori,10942,10945,ihm,könig_nicolo
+gdc,x3b4.0,10921,10973,andrea_valori,10958,10960,Er,könig_nicolo
+gdc,x3b4.0,10978,11032,könig_pietro,10990,11011,Der Schlächtermeister,der_könig
+gdc,x3b4.0,11037,11407,könig_pietro,11052,11062,Dein Leben,Dein-Leben
+gdc,x3b4.0,11037,11407,könig_pietro,11052,11056,Dein,könig_nicolo
+gdc,x3b4.0,11037,11407,könig_pietro,11089,11095,meiner,könig_pietro
+gdc,x3b4.0,11037,11407,könig_pietro,11107,11110,ich,könig_pietro
+gdc,x3b4.0,11037,11407,könig_pietro,11117,11132,das Todesurteil,das-Todesurteil
+gdc,x3b4.0,11037,11407,könig_pietro,11153,11155,du,könig_nicolo
+gdc,x3b4.0,11037,11407,könig_pietro,11199,11205,meinen,könig_pietro
+gdc,x3b4.0,11037,11407,könig_pietro,11228,11234,meiner,könig_pietro
+gdc,x3b4.0,11037,11407,könig_pietro,11245,11249,dich,könig_nicolo
+gdc,x3b4.0,11037,11407,könig_pietro,11254,11272,deine Anverwandten,deine-Anverwandten
+gdc,x3b4.0,11037,11407,könig_pietro,11254,11259,deine,könig_nicolo
+gdc,x3b4.0,11037,11407,könig_pietro,11315,11319,mich,könig_pietro
+gdc,x3b4.0,11037,11407,könig_pietro,11324,11330,deinen,könig_nicolo
+gdc,x3b4.0,11037,11407,könig_pietro,11388,11395,Umbrien,Umbrien
+gdc,x3b4.0,11412,11933,könig_pietro,11466,11505,"einem  Karpfen, der in der Pfanne liegt","einem--Karpfen,-der-in-der-Pfanne-liegt"
+gdc,x3b4.0,11412,11933,könig_pietro,11507,11509,er,"einem--Karpfen,-der-in-der-Pfanne-liegt"
+gdc,x3b4.0,11412,11933,könig_pietro,11553,11566,dieses Gewürm,dieses-Gewürm
+gdc,x3b4.0,11412,11933,könig_pietro,11567,11578,unser Leben,Dein-Leben
+gdc,x3b4.0,11412,11933,könig_pietro,11567,11572,unser,
+gdc,x3b4.0,11412,11933,könig_pietro,11582,11588,seiner,dieses-Gewürm
+gdc,x3b4.0,11412,11933,könig_pietro,11622,11633,die Fürsten,die-Fürsten
+gdc,x3b4.0,11412,11933,könig_pietro,11646,11656,die Götter,die-Götter
+gdc,x3b4.0,11412,11933,könig_pietro,11671,11674,sie,die-Fürsten
+gdc,x3b4.0,11412,11933,könig_pietro,11679,11687,Menschen,die-Menschen
+gdc,x3b4.0,11412,11933,könig_pietro,11742,11745,wer,
+gdc,x3b4.0,11412,11933,könig_pietro,11802,11807,einer,einer
+gdc,x3b4.0,11412,11933,könig_pietro,11834,11837,uns,
+gdc,x3b4.0,11412,11933,könig_pietro,11844,11847,ihm,einer
+gdc,x3b4.0,11412,11933,könig_pietro,11902,11904,er,einer
+gdc,x3b4.0,11412,11933,könig_pietro,11916,11925,ein König,ein-König
+gdc,x3b4.0,11938,12308,könig_pietro,11953,11956,Ihr,könig_nicolo
+gdc,x3b4.0,11938,12308,könig_pietro,11962,11966,Euch,könig_nicolo
+gdc,x3b4.0,11938,12308,könig_pietro,11993,11997,Eure,könig_nicolo
+gdc,x3b4.0,11938,12308,könig_pietro,12028,12031,Ihr,könig_nicolo
+gdc,x3b4.0,11938,12308,könig_pietro,12071,12074,wir,der_könig
+gdc,x3b4.0,11938,12308,könig_pietro,12128,12180,"des Königs Giovanni, dessen leibliches Kind Ihr seid",des-Königs-Giovanni
+gdc,x3b4.0,11938,12308,könig_pietro,12172,12175,Ihr,könig_nicolo
+gdc,x3b4.0,11938,12308,könig_pietro,12209,12213,Euch,könig_nicolo
+gdc,x3b4.0,11938,12308,könig_pietro,12242,12268,Verhängung der Todesstrafe,Verhängung-der-Todesstrafe
+gdc,x3b4.0,11938,12308,könig_pietro,12253,12268,der Todesstrafe,das-Todesurteil
+gdc,x3b4.0,11938,12308,könig_pietro,12273,12307,den Grenzen des Umbrischen Staates,den-Grenzen-des-Umbrischen-Staates
+gdc,x3b4.0,11938,12308,könig_pietro,12285,12307,des Umbrischen Staates,Umbrien
+gdc,x3b4.0,12313,12984,könig_pietro,12344,12347,Wer,der_könig
+gdc,x3b4.0,12313,12984,könig_pietro,12351,12359,der Welt,der-Welt
+gdc,x3b4.0,12313,12984,könig_pietro,12365,12374,den König,könig_nicolo
+gdc,x3b4.0,12313,12984,könig_pietro,12390,12451,"einem Lande, dessen Beherrschung ihm vom Himmel verliehen ist",Umbrien
+gdc,x3b4.0,12313,12984,könig_pietro,12423,12426,ihm,könig_nicolo
+gdc,x3b4.0,12313,12984,könig_pietro,12427,12437,vom Himmel,vom-Himmel
+gdc,x3b4.0,12313,12984,könig_pietro,12458,12461,ihn,könig_nicolo
+gdc,x3b4.0,12313,12984,könig_pietro,12493,12507,ein Handwerker,ein-Handwerker
+gdc,x3b4.0,12313,12984,könig_pietro,12513,12517,sich,ein-Handwerker
+gdc,x3b4.0,12313,12984,könig_pietro,12589,12618,diese bedauernswürdigen Toren,diese-bedauernswürdigen-Toren
+gdc,x3b4.0,12313,12984,könig_pietro,12628,12632,sich,diese-bedauernswürdigen-Toren
+gdc,x3b4.0,12313,12984,könig_pietro,12651,12654,man,diese-bedauernswürdigen-Toren
+gdc,x3b4.0,12313,12984,könig_pietro,12655,12678,einem Schlächtermeister,der_könig
+gdc,x3b4.0,12313,12984,könig_pietro,12711,12720,ein König,ein-König
+gdc,x3b4.0,12313,12984,könig_pietro,12750,12763,der Dickwanst,der_könig
+gdc,x3b4.0,12313,12984,könig_pietro,12861,12864,sie,die-blöden-Dickköpfe
+gdc,x3b4.0,12313,12984,könig_pietro,12865,12868,uns,könig_nicolo
+gdc,x3b4.0,12313,12984,könig_pietro,12880,12900,die blöden Dickköpfe,die-blöden-Dickköpfe
+gdc,x3b4.0,12313,12984,könig_pietro,12905,12910,ihren,die-blöden-Dickköpfe
+gdc,x3b4.0,12313,12984,könig_pietro,12941,12946,ihnen,die-blöden-Dickköpfe
+gdc,x3b4.0,12313,12984,könig_pietro,12947,12961,der Sonnenball,die-Sonne
+gdc,x3b4.0,12989,13312,alma,13047,13058,wirrem Haar,wirrem-Haar
+gdc,x3b4.0,12989,13312,alma,13139,13143,mich,alma
+gdc,x3b4.0,12989,13312,alma,13159,13163,mich,alma
+gdc,x3b4.0,12989,13312,alma,13167,13179,meinem Vater,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13167,13173,meinem,alma
+gdc,x3b4.0,12989,13312,alma,13188,13198,mein Vater,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13188,13192,mein,alma
+gdc,x3b4.0,12989,13312,alma,13204,13213,dem König,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13234,13239,seine,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13256,13261,Vater,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13267,13270,ich,alma
+gdc,x3b4.0,12989,13312,alma,13271,13275,Euch,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13284,13311,Mein innigstgeliebter Vater,könig_nicolo
+gdc,x3b4.0,12989,13312,alma,13284,13288,Mein,alma
+gdc,x3b4.0,13328,13344,_stage,13334,13337,sie,alma
+gdc,x3b4.0,13317,13610,könig_pietro,13356,13359,ich,könig_pietro
+gdc,x3b4.0,13317,13610,könig_pietro,13360,13364,dich,alma
+gdc,x3b4.0,13317,13610,könig_pietro,13386,13398,meinen Armen,meinen-Armen
+gdc,x3b4.0,13317,13610,könig_pietro,13386,13392,meinen,könig_pietro
+gdc,x3b4.0,13317,13610,könig_pietro,13400,13425,du mein teuerstes Kleinod,alma
+gdc,x3b4.0,13317,13610,könig_pietro,13403,13407,mein,könig_pietro
+gdc,x3b4.0,13317,13610,könig_pietro,13438,13440,du,alma
+gdc,x3b4.0,13317,13610,könig_pietro,13445,13451,deinem,alma
+gdc,x3b4.0,13317,13610,könig_pietro,13510,13514,mich,könig_pietro
+gdc,x3b4.0,13317,13610,könig_pietro,13529,13532,ich,könig_pietro
+gdc,x3b4.0,13317,13610,könig_pietro,13533,13557,die blutlechzende  Meute,die-blöden-Dickköpfe
+gdc,x3b4.0,13615,13984,alma,13632,13636,mich,alma
+gdc,x3b4.0,13615,13984,alma,13641,13645,Euch,könig_nicolo
+gdc,x3b4.0,13615,13984,alma,13655,13662,Den Tod,dem-Tode
+gdc,x3b4.0,13615,13984,alma,13667,13671,Euch,könig_nicolo
+gdc,x3b4.0,13615,13984,alma,13687,13690,mir,alma
+gdc,x3b4.0,13615,13984,alma,13726,13729,ich,alma
+gdc,x3b4.0,13615,13984,alma,13772,13779,Perugia,Perugia
+gdc,x3b4.0,13615,13984,alma,13799,13803,mich,alma
+gdc,x3b4.0,13615,13984,alma,13814,13818,Euch,könig_nicolo
+gdc,x3b4.0,13615,13984,alma,13829,13833,mich,alma
+gdc,x3b4.0,13615,13984,alma,13843,13847,Euch,könig_nicolo
+gdc,x3b4.0,13615,13984,alma,13848,13861,ins Gefängnis,ins-Gefängnis
+gdc,x3b4.0,13615,13984,alma,13877,13880,Ihr,könig_nicolo
+gdc,x3b4.0,13615,13984,alma,13888,13892,mein,alma
+gdc,x3b4.0,13615,13984,alma,13903,13913,mein Vater,könig_nicolo
+gdc,x3b4.0,13615,13984,alma,13903,13907,mein,alma
+gdc,x3b4.0,13615,13984,alma,13919,13922,ich,alma
+gdc,x3b4.0,13615,13984,alma,13951,13969,dieser weiten Welt,der-Welt
+gdc,x3b4.0,13615,13984,alma,13979,13983,Euch,könig_nicolo
+gdc,x3b4.0,13989,14383,könig_pietro,14001,14010,Mein Kind,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14001,14005,Mein,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14012,14028,mein liebes Kind,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14012,14016,mein,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14044,14046,du,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14047,14051,mich,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14057,14071,meinen Mördern,
+gdc,x3b4.0,13989,14383,könig_pietro,14057,14063,meinen,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14097,14100,ich,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14111,14114,ich,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14120,14124,mein,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14146,14150,mich,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14176,14180,mich,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14200,14206,meinen,könig_pietro
+gdc,x3b4.0,13989,14383,könig_pietro,14235,14238,dir,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14239,14251,diese Männer,
+gdc,x3b4.0,13989,14383,könig_pietro,14269,14271,du,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14319,14321,du,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14322,14326,dich,alma
+gdc,x3b4.0,13989,14383,könig_pietro,14330,14372,deinen vom Schicksal zerschmetterten Vater,könig_nicolo
+gdc,x3b4.0,13989,14383,könig_pietro,14330,14336,deinen,alma
+gdc,x3b4.0,14388,14716,alma,14452,14455,Ich,alma
+gdc,x3b4.0,14388,14716,alma,14466,14470,Euch,könig_nicolo
+gdc,x3b4.0,14388,14716,alma,14583,14586,sie,
+gdc,x3b4.0,14388,14716,alma,14587,14590,uns,
+gdc,x3b4.0,14388,14716,alma,14611,14614,wir,
+gdc,x3b4.0,14388,14716,alma,14639,14642,wir,
+gdc,x3b4.0,14388,14716,alma,14643,14646,uns,
+gdc,x3b4.0,14388,14716,alma,14676,14687,dieser Welt,der-Welt
+gdc,x3b4.0,14388,14716,alma,14693,14696,uns,
+gdc,x3b4.0,14735,14824,_stage,14735,14738,der,der_könig
+gdc,x3b4.0,14735,14824,_stage,14739,14743,sich,der_könig
+gdc,x3b4.0,14735,14824,_stage,14769,14782,dem Staatsrat,den-Staatsrat
+gdc,x3b4.0,14735,14824,_stage,14806,14815,zum König,könig_nicolo
+gdc,x3b4.0,14721,15157,könig_pietro,14827,14844,Die Stadt Perugia,Perugia
+gdc,x3b4.0,14721,15157,könig_pietro,14850,14863,Eurer Tochter,alma
+gdc,x3b4.0,14721,15157,könig_pietro,14850,14855,Eurer,könig_nicolo
+gdc,x3b4.0,14721,15157,könig_pietro,14871,14876,ihrer,alma
+gdc,x3b4.0,14721,15157,könig_pietro,14941,14944,sie,alma
+gdc,x3b4.0,14721,15157,könig_pietro,15003,15015,Eure Tochter,alma
+gdc,x3b4.0,14721,15157,könig_pietro,15003,15007,Eure,könig_nicolo
+gdc,x3b4.0,14721,15157,könig_pietro,15040,15115,"meinem Sohne Filipo Folchi, der mein Nachfolger auf diesem Throne sein wird",filipo
+gdc,x3b4.0,14721,15157,könig_pietro,15040,15046,meinem,könig_pietro
+gdc,x3b4.0,14721,15157,könig_pietro,15072,15076,mein,könig_pietro
+gdc,x3b4.0,14721,15157,könig_pietro,15092,15105,diesem Throne,seinen-Thron
+gdc,x3b4.0,15162,15243,könig_pietro,15179,15181,du,alma
+gdc,x3b4.0,15162,15243,könig_pietro,15192,15201,mein Kind,alma
+gdc,x3b4.0,15162,15243,könig_pietro,15192,15196,mein,könig_pietro
+gdc,x3b4.0,15162,15243,könig_pietro,15203,15226,Der Thron deines Vaters,seinen-Thron
+gdc,x3b4.0,15162,15243,könig_pietro,15213,15226,deines Vaters,könig_nicolo
+gdc,x3b4.0,15162,15243,könig_pietro,15213,15219,deines,alma
+gdc,x3b4.0,15162,15243,könig_pietro,15233,15236,dir,alma
+gdc,x3b4.0,15248,15312,alma,15257,15266,mein Gott,mein-Gott
+gdc,x3b4.0,15248,15312,alma,15257,15261,mein,alma
+gdc,x3b4.0,15248,15312,alma,15278,15281,Ihr,könig_nicolo
+gdc,x3b4.0,15248,15312,alma,15282,15300,Eures armen Kindes,alma
+gdc,x3b4.0,15248,15312,alma,15282,15287,Eures,könig_nicolo
+gdc,x3b4.0,15331,15341,_stage,15331,15340,zum König,könig_nicolo
+gdc,x3b4.0,15317,15899,könig_pietro,15348,15352,dich,könig_nicolo
+gdc,x3b4.0,15317,15899,könig_pietro,15373,15377,dich,könig_nicolo
+gdc,x3b4.0,15317,15899,könig_pietro,15417,15430,meines Sohnes,filipo
+gdc,x3b4.0,15317,15899,könig_pietro,15417,15423,meines,könig_pietro
+gdc,x3b4.0,15317,15899,könig_pietro,15446,15467,die Grenze des Landes,den-Grenzen-des-Umbrischen-Staates
+gdc,x3b4.0,15317,15899,könig_pietro,15457,15467,des Landes,Umbrien
+gdc,x3b4.0,15317,15899,könig_pietro,15481,15485,dich,könig_nicolo
+gdc,x3b4.0,15317,15899,könig_pietro,15528,15543,unseres Staates,Umbrien
+gdc,x3b4.0,15317,15899,könig_pietro,15528,15535,unseres,der_könig
+gdc,x3b4.0,15317,15899,könig_pietro,15588,15599,dein  Haupt,dein--Haupt
+gdc,x3b4.0,15317,15899,könig_pietro,15588,15592,dein,könig_nicolo
+gdc,x3b4.0,15317,15899,könig_pietro,15624,15631,Perugia,Perugia
+gdc,x3b4.0,15665,15899,_stage,15665,15678,Filipo Folchi,filipo
+gdc,x3b4.0,15665,15899,_stage,15684,15693,den König,könig_nicolo
+gdc,x3b4.0,15665,15899,_stage,15698,15751,"die Prinzessin, die sich fest an ihren Vater klammert",alma
+gdc,x3b4.0,15665,15899,_stage,15718,15722,sich,alma
+gdc,x3b4.0,15665,15899,_stage,15731,15742,ihren Vater,könig_nicolo
+gdc,x3b4.0,15665,15899,_stage,15731,15736,ihren,alma
+gdc,x3b4.0,15665,15899,_stage,15759,15769,Bewaffnete,Bewaffnete
+gdc,x3b4.0,15665,15899,_stage,15780,15782,Er,filipo
+gdc,x3b4.0,15665,15899,_stage,15788,15793,ihnen,
+gdc,x3b4.0,15665,15899,_stage,15811,15813,er,filipo
+gdc,x3b4.0,15665,15899,_stage,15818,15862,dem atemlos hereinstürzenden Benedetto Nardi,benedetto_nardi
+gdc,x3b4.0,15904,16320,benedetto_nardi,15926,15929,ich,benedetto_nardi
+gdc,x3b4.0,15904,16320,benedetto_nardi,15930,15934,dich,filipo
+gdc,x3b4.0,15904,16320,benedetto_nardi,15936,15946,Schandbube,filipo
+gdc,x3b4.0,15904,16320,benedetto_nardi,15951,15963,König Pietro,der_könig
+gdc,x3b4.0,15904,16320,benedetto_nardi,15965,15981,Dieser dein Sohn,filipo
+gdc,x3b4.0,15904,16320,benedetto_nardi,15972,15976,dein,der_könig
+gdc,x3b4.0,15904,16320,benedetto_nardi,15983,15996,Pietro Folchi,filipo
+gdc,x3b4.0,15904,16320,benedetto_nardi,16033,16051,seinen Zechbrüdern,seinen-Zechbrüdern
+gdc,x3b4.0,15904,16320,benedetto_nardi,16033,16039,seinen,filipo
+gdc,x3b4.0,15904,16320,benedetto_nardi,16052,16071,mein wehrloses Kind,mein-wehrloses-Kind
+gdc,x3b4.0,15904,16320,benedetto_nardi,16052,16056,mein,benedetto_nardi
+gdc,x3b4.0,15904,16320,benedetto_nardi,16078,16098,die Gassen der Stadt,Die-Gassen-von-Perugia
+gdc,x3b4.0,15904,16320,benedetto_nardi,16089,16098,der Stadt,Perugia
+gdc,x3b4.0,15904,16320,benedetto_nardi,16121,16124,ihr,mein-wehrloses-Kind
+gdc,x3b4.0,15904,16320,benedetto_nardi,16150,16156,meiner,benedetto_nardi
+gdc,x3b4.0,15904,16320,benedetto_nardi,16171,16174,ihr,mein-wehrloses-Kind
+gdc,x3b4.0,15904,16320,benedetto_nardi,16201,16219,die Nichtswürdigen,
+gdc,x3b4.0,15904,16320,benedetto_nardi,16269,16277,der Bube,filipo
+gdc,x3b4.0,15904,16320,benedetto_nardi,16283,16319,die blutigen Schrammen über dem Auge,"den-Schrammen,-die-du-über-dem-Auge-trägst"
+gdc,x3b4.0,15904,16320,benedetto_nardi,16311,16319,dem Auge,dem-Auge
+gdc,x3b4.0,16325,16381,könig_pietro,16365,16369,dich,filipo
+gdc,x3b4.0,16325,16381,könig_pietro,16371,16380,mein Sohn,filipo
+gdc,x3b4.0,16325,16381,könig_pietro,16371,16375,mein,könig_pietro
+gdc,x3b4.0,16386,16426,prinz_filipo,16402,16404,Er,benedetto_nardi
+gdc,x3b4.0,16386,16426,prinz_filipo,16413,16425,die Wahrheit,die-Wahrheit
+gdc,x3b4.0,16431,16926,könig_pietro,16474,16477,dir,filipo
+gdc,x3b4.0,16431,16926,könig_pietro,16483,16502,meinem eigenen Sohn,filipo
+gdc,x3b4.0,16431,16926,könig_pietro,16483,16489,meinem,könig_pietro
+gdc,x3b4.0,16431,16926,könig_pietro,16507,16510,ich,könig_pietro
+gdc,x3b4.0,16431,16926,könig_pietro,16511,16527,meine Herrschaft,"der-Herrschaft-König-Pietros,-den-uns-der-Himmel-noch-lange-erhalten-möge"
+gdc,x3b4.0,16431,16926,könig_pietro,16511,16516,meine,könig_pietro
+gdc,x3b4.0,16431,16926,könig_pietro,16587,16591,Dich,filipo
+gdc,x3b4.0,16431,16926,könig_pietro,16599,16609,das Gesetz,das-Gesetz
+gdc,x3b4.0,16431,16926,könig_pietro,16614,16620,seiner,das-Gesetz
+gdc,x3b4.0,16431,16926,könig_pietro,16692,16711,die Bürger Perugias,die_bürger
+gdc,x3b4.0,16431,16926,könig_pietro,16703,16711,Perugias,Perugia
+gdc,x3b4.0,16431,16926,könig_pietro,16730,16733,mir,könig_pietro
+gdc,x3b4.0,16431,16926,könig_pietro,16755,16759,dich,filipo
+gdc,x3b4.0,16431,16926,könig_pietro,16780,16783,ihn,filipo
+gdc,x3b4.0,16797,16926,_stage,16797,16837,"Die Söldner, die den König hinausgeführt",Bewaffnete
+gdc,x3b4.0,16797,16926,_stage,16850,16854,Alma,alma
+gdc,x3b4.0,16797,16926,_stage,16863,16873,Ihr Führer,der_söldner
+gdc,x3b4.0,16797,16926,_stage,16863,16866,Ihr,Bewaffnete
+gdc,x3b4.0,16797,16926,_stage,16880,16884,sich,der_söldner
+gdc,x3b4.0,16797,16926,_stage,16908,16918,dem Throne,seinen-Thron
+gdc,x3b4.0,16931,17492,der_söldner,16953,16957,Herr,der_könig
+gdc,x3b4.0,16931,17492,der_söldner,16959,16971,Eure Knechte,Bewaffnete
+gdc,x3b4.0,16931,17492,der_söldner,16959,16963,Eure,der_könig
+gdc,x3b4.0,16931,17492,der_söldner,17016,17019,wir,Bewaffnete
+gdc,x3b4.0,16931,17492,der_söldner,17020,17029,den König,könig_nicolo
+gdc,x3b4.0,16931,17492,der_söldner,17100,17103,uns,
+gdc,x3b4.0,16931,17492,der_söldner,17117,17124,unserer,Bewaffnete
+gdc,x3b4.0,16931,17492,der_söldner,17155,17158,uns,Bewaffnete
+gdc,x3b4.0,16931,17492,der_söldner,17202,17215,der Gefangene,könig_nicolo
+gdc,x3b4.0,16931,17492,der_söldner,17220,17224,sich,könig_nicolo
+gdc,x3b4.0,16931,17492,der_söldner,17250,17286,die vom Regen angeschwollenen Fluten,die-vom-Regen-angeschwollenen-Fluten
+gdc,x3b4.0,16931,17492,der_söldner,17303,17310,unserer,Bewaffnete
+gdc,x3b4.0,16931,17492,der_söldner,17327,17330,wir,Bewaffnete
+gdc,x3b4.0,16931,17492,der_söldner,17335,17349,diese Jungfrau,alma
+gdc,x3b4.0,16931,17492,der_söldner,17391,17394,ich,der_söldner
+gdc,x3b4.0,16931,17492,der_söldner,17395,17399,mich,der_söldner
+gdc,x3b4.0,16931,17492,der_söldner,17400,17414,dem Gefangenen,könig_nicolo
+gdc,x3b4.0,16931,17492,der_söldner,17442,17445,ihn,könig_nicolo
+gdc,x3b4.0,16931,17492,der_söldner,17446,17464,die tosenden Wogen,die-vom-Regen-angeschwollenen-Fluten
+gdc,x3b4.0,16931,17492,der_söldner,17478,17482,sich,die-vom-Regen-angeschwollenen-Fluten
+gdc,x3b4.0,17498,17785,könig_pietro,17513,17523,Sein Leben,Sein-Leben
+gdc,x3b4.0,17498,17785,könig_pietro,17513,17517,Sein,könig_nicolo
+gdc,x3b4.0,17498,17785,könig_pietro,17592,17595,ihn,könig_nicolo
+gdc,x3b4.0,17498,17785,könig_pietro,17601,17616,hundert Bessere,die-Toten
+gdc,x3b4.0,17498,17785,könig_pietro,17632,17647,den Staatsräten,
+gdc,x3b4.0,17498,17785,könig_pietro,17649,17652,Man,
+gdc,x3b4.0,17498,17785,könig_pietro,17659,17667,das Kind,alma
+gdc,x3b4.0,17498,17785,könig_pietro,17700,17702,es,alma
+gdc,x3b4.0,17498,17785,könig_pietro,17726,17730,Sich,der_könig
+gdc,x3b4.0,17498,17785,könig_pietro,17753,17768,des Staatsrates,
+gdc,x3b4.0,17790,17830,,17813,17829,dem König Pietro,der_könig
+gdc,x3b4.0,17901,17957,_stage,17901,17910,Der König,könig_nicolo
+gdc,x3b4.0,17901,17957,_stage,17915,17930,Prinzessin Alma,alma
+gdc,x3b4.0,17901,17957,_stage,17932,17937,beide,
+gdc,x3b4.0,17960,18062,könig_pietro,18004,18007,ich,könig_pietro
+gdc,x3b4.0,17960,18062,könig_pietro,18008,18012,dich,alma
+gdc,x3b4.0,17960,18062,könig_pietro,18041,18043,du,alma
+gdc,x3b4.0,17960,18062,könig_pietro,18048,18052,mich,könig_pietro
+gdc,x3b4.0,18067,18135,alma,18079,18083,Euch,könig_nicolo
+gdc,x3b4.0,18067,18135,alma,18089,18094,Vater,könig_nicolo
+gdc,x3b4.0,18067,18135,alma,18111,18114,Ihr,könig_nicolo
+gdc,x3b4.0,18151,18177,_stage,18157,18161,sich,könig_nicolo
+gdc,x3b4.0,18151,18177,_stage,18162,18169,am Wege,am-Wege
+gdc,x3b4.0,18140,18275,könig_pietro,18199,18203,mich,könig_pietro
+gdc,x3b4.0,18140,18275,könig_pietro,18219,18237,die tobenden Wogen,die-vom-Regen-angeschwollenen-Fluten
+gdc,x3b4.0,18280,18596,alma,18296,18299,Ihr,könig_nicolo
+gdc,x3b4.0,18280,18596,alma,18300,18304,Euch,könig_nicolo
+gdc,x3b4.0,18280,18596,alma,18340,18351,Eurem Leben,Sein-Leben
+gdc,x3b4.0,18280,18596,alma,18340,18345,Eurem,könig_nicolo
+gdc,x3b4.0,18280,18596,alma,18374,18377,Ich,alma
+gdc,x3b4.0,18280,18596,alma,18410,18421,Euren Armen,meinen-Armen
+gdc,x3b4.0,18280,18596,alma,18410,18415,Euren,könig_nicolo
+gdc,x3b4.0,18280,18596,alma,18437,18441,Euch,könig_nicolo
+gdc,x3b4.0,18280,18596,alma,18442,18461,das reißende Wasser,die-vom-Regen-angeschwollenen-Fluten
+gdc,x3b4.0,18280,18596,alma,18462,18474,zur Freiheit,die-Freiheit
+gdc,x3b4.0,18280,18596,alma,18501,18504,ich,alma
+gdc,x3b4.0,18280,18596,alma,18572,18581,der Stadt,Perugia
+gdc,x3b4.0,18601,18761,könig_pietro,18631,18653,die reichen Jagdgründe,die-reichen-Jagdgründe
+gdc,x3b4.0,18601,18761,könig_pietro,18658,18663,denen,die-reichen-Jagdgründe
+gdc,x3b4.0,18601,18761,könig_pietro,18664,18667,ich,könig_pietro
+gdc,x3b4.0,18601,18761,könig_pietro,18672,18691,der Hofgesellschaft,der-Hofgesellschaft
+gdc,x3b4.0,18601,18761,könig_pietro,18718,18720,Du,alma
+gdc,x3b4.0,18601,18761,könig_pietro,18744,18747,uns,
+gdc,x3b4.0,18766,18993,alma,18777,18780,Ihr,könig_nicolo
+gdc,x3b4.0,18766,18993,alma,18781,18807,dieses kleine Land Umbrien,Umbrien
+gdc,x3b4.0,18766,18993,alma,18831,18841,mein Vater,könig_nicolo
+gdc,x3b4.0,18766,18993,alma,18831,18835,mein,alma
+gdc,x3b4.0,18766,18993,alma,18843,18851,Die Welt,der-Welt
+gdc,x3b4.0,18766,18993,alma,18868,18873,Siena,Siena
+gdc,x3b4.0,18766,18993,alma,18892,18896,Euer,könig_nicolo
+gdc,x3b4.0,18766,18993,alma,18897,18913,die Anverwandten,deine-Anverwandten
+gdc,x3b4.0,18766,18993,alma,18915,18918,Ihr,könig_nicolo
+gdc,x3b4.0,18766,18993,alma,18948,18965,Euer teures Haupt,dein--Haupt
+gdc,x3b4.0,18766,18993,alma,18948,18952,Euer,könig_nicolo
+gdc,x3b4.0,18998,19643,könig_pietro,19010,19012,Du,alma
+gdc,x3b4.0,18998,19643,könig_pietro,19021,19024,mir,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19031,19040,mein Kind,alma
+gdc,x3b4.0,18998,19643,könig_pietro,19031,19035,mein,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19057,19060,ich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19061,19065,dich,alma
+gdc,x3b4.0,18998,19643,könig_pietro,19067,19070,mir,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19148,19152,mein,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19176,19179,ich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19180,19191,dieses Land,Umbrien
+gdc,x3b4.0,18998,19643,könig_pietro,19217,19220,ich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19226,19231,seine,Umbrien
+gdc,x3b4.0,18998,19643,könig_pietro,19259,19270,meine Seele,meine-Seele
+gdc,x3b4.0,18998,19643,könig_pietro,19259,19264,meine,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19280,19288,Wünschen,Wünschen
+gdc,x3b4.0,18998,19643,könig_pietro,19301,19304,die,Wünschen
+gdc,x3b4.0,18998,19643,könig_pietro,19305,19308,ich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19317,19327,mein Leben,Sein-Leben
+gdc,x3b4.0,18998,19643,könig_pietro,19317,19321,mein,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19375,19378,ich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19379,19383,mich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19401,19409,der Welt,der-Welt
+gdc,x3b4.0,18998,19643,könig_pietro,19426,19432,meinen,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19458,19461,Ich,könig_pietro
+gdc,x3b4.0,18998,19643,könig_pietro,19474,19483,der König,der-König
+gdc,x3b4.0,18998,19643,könig_pietro,19507,19526,jeder andere Mensch,die-Menschen
+gdc,x3b4.0,18998,19643,könig_pietro,19531,19557,der Wahrung seines Standes,der-Wahrung-seines-Standes
+gdc,x3b4.0,18998,19643,könig_pietro,19543,19549,seines,der-König
+gdc,x3b4.0,18998,19643,könig_pietro,19562,19594,der Verteidigung seines Besitzes,der-Verteidigung-seines-Besitzes
+gdc,x3b4.0,18998,19643,könig_pietro,19579,19585,seines,der-König
+gdc,x3b4.0,18998,19643,könig_pietro,19612,19614,er,der-König
+gdc,x3b4.0,18998,19643,könig_pietro,19621,19627,beides,
+gdc,x3b4.0,19648,19697,alma,19669,19672,Ihr,könig_nicolo
+gdc,x3b4.0,19648,19697,alma,19673,19684,Euer selbst,könig_nicolo
+gdc,x3b4.0,19648,19697,alma,19686,19696,mein Vater,könig_nicolo
+gdc,x3b4.0,19648,19697,alma,19686,19690,mein,alma
+gdc,x3b4.0,19702,20823,könig_pietro,19731,19739,der Welt,der-Welt
+gdc,x3b4.0,19702,20823,könig_pietro,19743,19745,Du,alma
+gdc,x3b4.0,19702,20823,könig_pietro,19759,19762,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,19763,19769,meiner,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,19819,19831,die Menschen,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,19843,19850,unseren,
+gdc,x3b4.0,19702,20823,könig_pietro,19888,19891,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,19892,19896,mich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,19897,19902,ihnen,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,19923,19926,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,19965,19968,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,19969,19972,sie,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,19979,19987,Anmaßung,Anmaßung
+gdc,x3b4.0,19702,20823,könig_pietro,19992,19997,Stolz,Stolz
+gdc,x3b4.0,19702,20823,könig_pietro,20002,20007,denen,
+gdc,x3b4.0,19702,20823,könig_pietro,20008,20012,mein,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20067,20071,mein,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20097,20100,sie,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,20121,20126,ihnen,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,20211,20214,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20215,20221,meinen,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20262,20266,mich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20270,20273,ihr,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,20323,20326,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20350,20357,Umbrien,Umbrien
+gdc,x3b4.0,19702,20823,könig_pietro,20379,20389,ihrer Welt,ihrer-Welt
+gdc,x3b4.0,19702,20823,könig_pietro,20379,20384,ihrer,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,20423,20426,was,was
+gdc,x3b4.0,19702,20823,könig_pietro,20427,20431,sich,was
+gdc,x3b4.0,19702,20823,könig_pietro,20435,20445,ihrer Welt,ihrer-Welt
+gdc,x3b4.0,19702,20823,könig_pietro,20435,20440,ihrer,die-Menschen
+gdc,x3b4.0,19702,20823,könig_pietro,20467,20470,ich,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20510,20513,mir,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20520,20526,meiner,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20563,20572,mein Kind,alma
+gdc,x3b4.0,19702,20823,könig_pietro,20563,20567,mein,könig_pietro
+gdc,x3b4.0,19702,20823,könig_pietro,20577,20580,wir,
+gdc,x3b4.0,19702,20823,könig_pietro,20653,20676,der Schweine schlächter,der_könig
+gdc,x3b4.0,19702,20823,könig_pietro,20681,20690,den Thron,seinen-Thron
+gdc,x3b4.0,19702,20823,könig_pietro,20721,20730,den König,
+gdc,x3b4.0,19702,20823,könig_pietro,20747,20774,keine andere Lebensstellung,keine-andere-Lebensstellung
+gdc,x3b4.0,19702,20823,könig_pietro,20775,20784,im Staate,ihres-Vaterlandes
+gdc,x3b4.0,19702,20823,könig_pietro,20801,20822,die eines – Hofnarren,keine-andere-Lebensstellung
+gdc,x3b4.0,20829,21025,alma,20846,20850,Euch,könig_nicolo
+gdc,x3b4.0,20829,21025,alma,20854,20859,Eurer,könig_nicolo
+gdc,x3b4.0,20829,21025,alma,20880,20890,mein Vater,könig_nicolo
+gdc,x3b4.0,20829,21025,alma,20880,20884,mein,alma
+gdc,x3b4.0,20829,21025,alma,20902,20905,Ihr,könig_nicolo
+gdc,x3b4.0,20829,21025,alma,20928,20931,Ich,alma
+gdc,x3b4.0,20829,21025,alma,20968,20973,Euren,könig_nicolo
+gdc,x3b4.0,20829,21025,alma,20995,20999,Eure,könig_nicolo
+gdc,x3b4.0,21041,21066,_stage,21041,21051,sein Haupt,dein--Haupt
+gdc,x3b4.0,21041,21066,_stage,21041,21045,sein,könig_nicolo
+gdc,x3b4.0,21030,21089,könig_pietro,21074,21077,dir,alma
+gdc,x3b4.0,21030,21089,könig_pietro,21079,21088,mein Kind,alma
+gdc,x3b4.0,21030,21089,könig_pietro,21079,21083,mein,könig_pietro
+gdc,x3b4.0,21100,21112,_stage,21100,21103,ihn,könig_nicolo
+gdc,x3b4.0,21094,21135,alma,21115,21130,Geliebter Vater,könig_nicolo
+gdc,x3b4.0,21152,21193,_stage,21159,21163,sich,könig_nicolo
+gdc,x3b4.0,21141,21673,könig_pietro,21200,21203,ich,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21215,21233,dieses schöne Land,ihres-Vaterlandes
+gdc,x3b4.0,21141,21673,könig_pietro,21253,21256,ich,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21312,21333,das schlimmste Unheil,das-schlimmste-Unheil
+gdc,x3b4.0,21141,21673,könig_pietro,21351,21355,sein,das-schlimmste-Unheil
+gdc,x3b4.0,21141,21673,könig_pietro,21373,21376,ich,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21377,21381,mich,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21385,21425,mein braves Volk von Perugia und Umbrien,die_bürger
+gdc,x3b4.0,21141,21673,könig_pietro,21385,21389,mein,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21406,21413,Perugia,Perugia
+gdc,x3b4.0,21141,21673,könig_pietro,21418,21425,Umbrien,Umbrien
+gdc,x3b4.0,21141,21673,könig_pietro,21461,21463,es,die_bürger
+gdc,x3b4.0,21141,21673,könig_pietro,21464,21468,mich,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21530,21534,Gott,mein-Gott
+gdc,x3b4.0,21141,21673,könig_pietro,21544,21547,ich,könig_pietro
+gdc,x3b4.0,21141,21673,könig_pietro,21611,21630,einer von der Sorte,der_gutsbesitzer
+gdc,x3b4.0,21634,21673,_stage,21634,21650,Ein Gutsbesitzer,der_gutsbesitzer
+gdc,x3b4.0,21678,21757,könig_pietro,21690,21694,Gott,mein-Gott
+gdc,x3b4.0,21678,21757,könig_pietro,21705,21709,Herr,der_gutsbesitzer
+gdc,x3b4.0,21678,21757,könig_pietro,21716,21719,Ihr,der_gutsbesitzer
+gdc,x3b4.0,21678,21757,könig_pietro,21726,21732,Arbeit,um-Arbeit
+gdc,x3b4.0,21678,21757,könig_pietro,21737,21741,mich,könig_pietro
+gdc,x3b4.0,21678,21757,könig_pietro,21746,21756,Eurem Gute,Eurem-Gute
+gdc,x3b4.0,21678,21757,könig_pietro,21746,21751,Eurem,der_gutsbesitzer
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21785,21789,dich,könig_nicolo
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21797,21801,sich,lohnende-Arbeit
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21802,21817,lohnende Arbeit,lohnende-Arbeit
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21822,21833,meinem Gute,Eurem-Gute
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21822,21828,meinem,der_gutsbesitzer
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21865,21874,mein Haus,mein-Haus
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21865,21869,mein,der_gutsbesitzer
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21927,21929,du,könig_nicolo
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21937,21940,ich,der_gutsbesitzer
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21961,21964,ich,der_gutsbesitzer
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,21999,22002,ich,der_gutsbesitzer
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,22003,22006,dir,könig_nicolo
+gdc,x3b4.0,21762,22064,der_gutsbesitzer,22027,22030,mir,der_gutsbesitzer
+gdc,x3b4.0,22069,22202,könig_pietro,22081,22085,Herr,der_gutsbesitzer
+gdc,x3b4.0,22069,22202,könig_pietro,22087,22090,Ihr,der_gutsbesitzer
+gdc,x3b4.0,22069,22202,könig_pietro,22110,22120,vom Himmel,vom-Himmel
+gdc,x3b4.0,22069,22202,könig_pietro,22136,22139,Ihr,der_gutsbesitzer
+gdc,x3b4.0,22069,22202,könig_pietro,22180,22189,um Arbeit,um-Arbeit
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22234,22237,Wer,Wer
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22274,22277,der,Wer
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22282,22285,mir,der_gutsbesitzer
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22299,22318,der rechte Arbeiter,Wer
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22331,22341,die Arbeit,um-Arbeit
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22363,22366,Wer,Wer2
+gdc,x3b4.0,22207,22430,der_gutsbesitzer,22391,22394,der,Wer2
+gdc,x3b4.0,22435,22497,könig_pietro,22447,22451,Herr,der_gutsbesitzer
+gdc,x3b4.0,22435,22497,könig_pietro,22453,22456,Ihr,der_gutsbesitzer
+gdc,x3b4.0,22435,22497,könig_pietro,22493,22496,ich,könig_pietro
+gdc,x3b4.0,22502,22569,der_gutsbesitzer,22530,22533,ich,der_gutsbesitzer
+gdc,x3b4.0,22502,22569,der_gutsbesitzer,22558,22560,du,könig_nicolo
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22639,22643,Gott,mein-Gott
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22659,22732,"der Herrschaft König Pietros, den uns der Himmel noch lange erhalten möge","der-Herrschaft-König-Pietros,-den-uns-der-Himmel-noch-lange-erhalten-möge"
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22674,22732,"König Pietros, den uns der Himmel noch lange erhalten möge",der_könig
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22693,22696,uns,
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22697,22707,der Himmel,vom-Himmel
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22737,22744,Umbrien,Umbrien
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22770,22775,Stadt,Umbrien
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22780,22784,Land,die-Umbrische-Republik
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22812,22830,den Nachbarstaaten,den-Nachbarstaaten
+gdc,x3b4.0,22610,22862,der_gutsbesitzer,22837,22840,wir,
+gdc,x3b4.0,22867,22949,könig_pietro,22879,22883,Herr,der_gutsbesitzer
+gdc,x3b4.0,22867,22949,könig_pietro,22885,22888,Ihr,der_gutsbesitzer
+gdc,x3b4.0,22867,22949,könig_pietro,22896,22900,mich,könig_pietro
+gdc,x3b4.0,22867,22949,könig_pietro,22905,22916,jede Arbeit,um-Arbeit
+gdc,x3b4.0,22867,22949,könig_pietro,22921,22931,Eurem Gute,Eurem-Gute
+gdc,x3b4.0,22867,22949,könig_pietro,22921,22926,Eurem,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,22973,22976,Ich,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,22983,22986,mir,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23011,23013,Du,könig_nicolo
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23023,23026,mir,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23058,23061,Ich,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23082,23088,meinem,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23160,23163,ich,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23181,23185,mich,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23228,23231,ich,der_gutsbesitzer
+gdc,x3b4.0,22954,23252,der_gutsbesitzer,23232,23236,dich,könig_nicolo
+gdc,x3b4.0,23258,24037,könig_pietro,23279,23282,Wer,Wer3
+gdc,x3b4.0,23258,24037,könig_pietro,23307,23310,der,Wer3
+gdc,x3b4.0,23258,24037,könig_pietro,23340,23356,dieses Geschmeiß,dieses-Geschmeiß
+gdc,x3b4.0,23258,24037,könig_pietro,23366,23370,sich,dieses-Geschmeiß
+gdc,x3b4.0,23258,24037,könig_pietro,23371,23375,sein,dieses-Geschmeiß
+gdc,x3b4.0,23258,24037,könig_pietro,23418,23421,ich,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23438,23450,meinem Kinde,alma
+gdc,x3b4.0,23258,24037,könig_pietro,23438,23444,meinem,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23456,23459,ich,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23476,23479,Mir,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23485,23495,vom Himmel,vom-Himmel
+gdc,x3b4.0,23258,24037,könig_pietro,23496,23513,eine Herrlichkeit,eine-Herrlichkeit
+gdc,x3b4.0,23258,24037,könig_pietro,23533,23536,sie,eine-Herrlichkeit
+gdc,x3b4.0,23258,24037,könig_pietro,23589,23592,ich,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23611,23623,meinem Kinde,alma
+gdc,x3b4.0,23258,24037,könig_pietro,23611,23617,meinem,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23640,23643,Mir,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23655,23659,mein,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23815,23824,mein Kind,alma
+gdc,x3b4.0,23258,24037,könig_pietro,23815,23819,mein,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23898,23903,ihrer,alma
+gdc,x3b4.0,23258,24037,könig_pietro,23907,23911,Gott,mein-Gott
+gdc,x3b4.0,23258,24037,könig_pietro,23935,23946,mir Elendem,könig_nicolo
+gdc,x3b4.0,23258,24037,könig_pietro,23935,23938,mir,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,23951,23956,ihrem,alma
+gdc,x3b4.0,23258,24037,könig_pietro,23984,23987,Mir,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,24007,24010,was,was2
+gdc,x3b4.0,23258,24037,könig_pietro,24018,24021,ich,könig_pietro
+gdc,x3b4.0,23258,24037,könig_pietro,24027,24029,es,was2
+gdc,x3b4.0,24048,24092,_stage,24059,24075,aufgelöstem Haar,wirrem-Haar
+gdc,x3b4.0,24042,24141,alma,24095,24100,Vater,könig_nicolo
+gdc,x3b4.0,24042,24141,alma,24115,24125,Mein Vater,könig_nicolo
+gdc,x3b4.0,24042,24141,alma,24115,24119,Mein,alma
+gdc,x3b4.0,24042,24141,alma,24133,24136,mir,alma
+gdc,x3b4.0,24157,24184,_stage,24157,24160,sie,könig_nicolo
+gdc,x3b4.0,24157,24184,_stage,24164,24172,die Arme,meinen-Armen
+gdc,x3b4.0,24146,24205,könig_pietro,24195,24198,dir,alma
+gdc,x3b4.0,24146,24205,könig_pietro,24200,24204,Kind,alma
+gdc,x3b4.0,24229,24280,_stage,24229,24257,der das Mädchen verfolgt hat,der_landstreicher
+gdc,x3b4.0,24229,24280,_stage,24233,24244,das Mädchen,alma
+gdc,x3b4.0,24210,24337,ein_landstreicher,24301,24304,ich,ein_landstreicher
+gdc,x3b4.0,24210,24337,ein_landstreicher,24317,24328,ein anderer,könig_nicolo
+gdc,x3b4.0,24210,24337,ein_landstreicher,24329,24332,sie,alma
+gdc,x3b4.0,24353,24392,_stage,24384,24387,ihn,der_landstreicher
+gdc,x3b4.0,24342,24421,könig_pietro,24407,24420,du Hundeseele,der_landstreicher
+gdc,x3b4.0,24426,24482,ein_landstreicher,24446,24460,Ich Hundeseele,der_landstreicher
+gdc,x3b4.0,24426,24482,ein_landstreicher,24446,24449,Ich,ein_landstreicher
+gdc,x3b4.0,24426,24482,ein_landstreicher,24478,24480,du,könig_nicolo
+gdc,x3b4.0,24498,24510,_stage,24506,24509,ihn,der_landstreicher
+gdc,x3b4.0,24487,24584,könig_pietro,24521,24524,ich,könig_pietro
+gdc,x3b4.0,24550,24584,_stage,24550,24567,Der Landstreicher,der_landstreicher
+gdc,x3b4.0,24595,24633,_stage,24595,24599,sich,alma
+gdc,x3b4.0,24595,24633,_stage,24610,24621,ihren Vater,könig_nicolo
+gdc,x3b4.0,24595,24633,_stage,24610,24615,ihren,alma
+gdc,x3b4.0,24589,24717,alma,24638,24648,mein Vater,könig_nicolo
+gdc,x3b4.0,24589,24717,alma,24638,24642,mein,alma
+gdc,x3b4.0,24589,24717,alma,24650,24653,Ich,alma
+gdc,x3b4.0,24589,24717,alma,24660,24664,mich,alma
+gdc,x3b4.0,24589,24717,alma,24692,24696,sich,der_landstreicher
+gdc,x3b4.0,24589,24717,alma,24697,24707,der Mensch,der_landstreicher
+gdc,x3b4.0,24589,24717,alma,24712,24716,mich,alma
+gdc,x3b4.0,24722,24778,könig_pietro,24759,24763,dich,alma
+gdc,x3b4.0,24722,24778,könig_pietro,24765,24774,mein Kind,alma
+gdc,x3b4.0,24722,24778,könig_pietro,24765,24769,mein,könig_pietro
+gdc,x3b4.0,24783,24870,alma,24790,24806,Mein armer Vater,könig_nicolo
+gdc,x3b4.0,24783,24870,alma,24790,24794,Mein,alma
+gdc,x3b4.0,24783,24870,alma,24812,24815,ich,alma
+gdc,x3b4.0,24783,24870,alma,24823,24827,Euch,könig_nicolo
+gdc,x3b4.0,24783,24870,alma,24851,24856,Eurer,könig_nicolo
+gdc,x3b4.0,24875,24967,könig_pietro,24887,24890,Ich,könig_pietro
+gdc,x3b4.0,24875,24967,könig_pietro,24898,24902,dich,alma
+gdc,x3b4.0,24875,24967,könig_pietro,24919,24926,Perugia,Perugia
+gdc,x3b4.0,24875,24967,könig_pietro,24933,24937,dich,alma
+gdc,x3b4.0,24875,24967,könig_pietro,24938,24954,dem König Pietro,der_könig
+gdc,x3b4.0,24972,25073,alma,24986,24990,mich,alma
+gdc,x3b4.0,24972,25073,alma,25021,25024,Ich,alma
+gdc,x3b4.0,24972,25073,alma,25025,25029,Euch,könig_nicolo
+gdc,x3b4.0,24972,25073,alma,25044,25048,Euch,könig_nicolo
+gdc,x3b4.0,24972,25073,alma,25057,25064,der Tod,dem-Tode
+gdc,x3b4.0,25078,25464,könig_pietro,25103,25110,Zukunft,Zukunft
+gdc,x3b4.0,25078,25464,könig_pietro,25134,25136,du,alma
+gdc,x3b4.0,25078,25464,könig_pietro,25160,25177,in Männerkleidern,in-Männerkleidern
+gdc,x3b4.0,25078,25464,könig_pietro,25203,25207,dich,alma
+gdc,x3b4.0,25078,25464,könig_pietro,25236,25253,den Schrecknissen,den-Schrecknissen
+gdc,x3b4.0,25078,25464,könig_pietro,25267,25270,die,den-Schrecknissen
+gdc,x3b4.0,25078,25464,könig_pietro,25271,25275,dich,alma
+gdc,x3b4.0,25078,25464,könig_pietro,25280,25287,unserem,
+gdc,x3b4.0,25078,25464,könig_pietro,25309,25326,In Männerkleidern,in-Männerkleidern
+gdc,x3b4.0,25078,25464,könig_pietro,25333,25335,du,alma
+gdc,x3b4.0,25078,25464,könig_pietro,25353,25362,Ein Bauer,der_gutsbesitzer
+gdc,x3b4.0,25078,25464,könig_pietro,25388,25390,er,der_gutsbesitzer
+gdc,x3b4.0,25078,25464,könig_pietro,25409,25411,er,der_gutsbesitzer
+gdc,x3b4.0,25078,25464,könig_pietro,25412,25416,mich,könig_pietro
+gdc,x3b4.0,25078,25464,könig_pietro,25431,25434,mir,könig_pietro
+gdc,x3b4.0,25078,25464,könig_pietro,25435,25441,Arbeit,um-Arbeit
+gdc,x3b4.0,25078,25464,könig_pietro,25446,25457,seinem Gute,Eurem-Gute
+gdc,x3b4.0,25078,25464,könig_pietro,25446,25452,seinem,der_gutsbesitzer
+gdc,x3b4.0,25469,25619,alma,25482,25485,Ihr,könig_nicolo
+gdc,x3b4.0,25469,25619,alma,25532,25536,Euch,könig_nicolo
+gdc,x3b4.0,25469,25619,alma,25561,25567,Leuten,Leuten
+gdc,x3b4.0,25469,25619,alma,25582,25585,die,Leuten
+gdc,x3b4.0,25469,25619,alma,25607,25611,Euch,könig_nicolo
+gdc,x3b4.0,25624,25897,könig_pietro,25657,25659,du,alma
+gdc,x3b4.0,25624,25897,könig_pietro,25661,25670,mein Kind,alma
+gdc,x3b4.0,25624,25897,könig_pietro,25661,25665,mein,könig_pietro
+gdc,x3b4.0,25624,25897,könig_pietro,25685,25688,sie,Leuten
+gdc,x3b4.0,25624,25897,könig_pietro,25695,25698,mir,könig_pietro
+gdc,x3b4.0,25624,25897,könig_pietro,25745,25747,er,der_gutsbesitzer
+gdc,x3b4.0,25624,25897,könig_pietro,25748,25752,mich,könig_pietro
+gdc,x3b4.0,25624,25897,könig_pietro,25753,25766,seiner Arbeit,um-Arbeit
+gdc,x3b4.0,25624,25897,könig_pietro,25753,25759,seiner,der_gutsbesitzer
+gdc,x3b4.0,25624,25897,könig_pietro,25794,25796,er,der_gutsbesitzer
+gdc,x3b4.0,25624,25897,könig_pietro,25797,25801,mich,könig_pietro
+gdc,x3b4.0,25624,25897,könig_pietro,25828,25831,uns,
+gdc,x3b4.0,25624,25897,könig_pietro,25841,25844,ich,könig_pietro
+gdc,x3b4.0,25624,25897,könig_pietro,25845,25848,dir,alma
+gdc,x3b4.0,25624,25897,könig_pietro,25849,25855,meinen,könig_pietro
+gdc,x3b4.0,25624,25897,könig_pietro,25868,25880,seinem Dache,mein-Haus
+gdc,x3b4.0,25624,25897,könig_pietro,25868,25874,seinem,der_gutsbesitzer
+gdc,x3b4.0,25902,26007,alma,25939,25942,Ihr,könig_nicolo
+gdc,x3b4.0,25902,26007,alma,25943,25947,Euch,könig_nicolo
+gdc,x3b4.0,25902,26007,alma,25982,25985,ich,alma
+gdc,x3b4.0,25902,26007,alma,25993,25997,Euch,könig_nicolo
+gdc,x3b4.0,26012,26431,könig_pietro,26030,26032,du,alma
+gdc,x3b4.0,26012,26431,könig_pietro,26039,26048,mein Kind,alma
+gdc,x3b4.0,26012,26431,könig_pietro,26039,26043,mein,könig_pietro
+gdc,x3b4.0,26012,26431,könig_pietro,26054,26057,ich,könig_pietro
+gdc,x3b4.0,26012,26431,könig_pietro,26145,26148,ich,könig_pietro
+gdc,x3b4.0,26012,26431,könig_pietro,26149,26153,dich,alma
+gdc,x3b4.0,26012,26431,könig_pietro,26155,26167,mein Kleinod,alma
+gdc,x3b4.0,26012,26431,könig_pietro,26155,26159,mein,könig_pietro
+gdc,x3b4.0,26012,26431,könig_pietro,26195,26198,mir,könig_pietro
+gdc,x3b4.0,26012,26431,könig_pietro,26209,26211,Er,könig_nicolo
+gdc,x3b4.0,26012,26431,könig_pietro,26217,26221,sich,könig_nicolo
+gdc,x3b4.0,26012,26431,könig_pietro,26222,26229,am Wege,am-Wege
+gdc,x3b4.0,26012,26431,könig_pietro,26246,26249,uns,
+gdc,x3b4.0,26012,26431,könig_pietro,26278,26312,des Ironisch. allgewaltigen Mannes,der_gutsbesitzer
+gdc,x3b4.0,26012,26431,könig_pietro,26321,26327,dessen,der_gutsbesitzer
+gdc,x3b4.0,26012,26431,könig_pietro,26343,26348,unser,
+gdc,x3b4.0,26505,26666,_stage,26505,26514,Der König,könig_nicolo
+gdc,x3b4.0,26505,26666,_stage,26543,26568,einem reichen Frauenkleid,der-Arbeit
+gdc,x3b4.0,26505,26666,_stage,26625,26641,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,26669,26757,meister_pandolfo,26702,26712,der Arbeit,der-Arbeit
+gdc,x3b4.0,26669,26757,meister_pandolfo,26714,26718,Gigi,könig_nicolo
+gdc,x3b4.0,26669,26757,meister_pandolfo,26734,26744,der Arbeit,der-Arbeit
+gdc,x3b4.0,26669,26757,meister_pandolfo,26752,26756,Gigi,könig_nicolo
+gdc,x3b4.0,26762,26804,könig_pietro,26796,26803,Meister,meister_pandolfo
+gdc,x3b4.0,26809,27369,meister_pandolfo,26843,26846,mir,meister_pandolfo
+gdc,x3b4.0,26809,27369,meister_pandolfo,26856,26868,die Gesellen,die_gesellen
+gdc,x3b4.0,26809,27369,meister_pandolfo,26895,26907,Gesellschaft,Gesellschaft
+gdc,x3b4.0,26809,27369,meister_pandolfo,26909,26913,Gigi,könig_nicolo
+gdc,x3b4.0,26809,27369,meister_pandolfo,26957,26960,ihm,könig_nicolo
+gdc,x3b4.0,26809,27369,meister_pandolfo,26961,26971,die Arbeit,der-Arbeit
+gdc,x3b4.0,26809,27369,meister_pandolfo,26998,27002,Gigi,könig_nicolo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27004,27006,Er,meister_pandolfo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27016,27025,das Kleid,der-Arbeit
+gdc,x3b4.0,26809,27369,meister_pandolfo,27135,27139,Gigi,könig_nicolo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27147,27150,dir,könig_nicolo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27178,27181,Ich,meister_pandolfo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27191,27223,Ihre Majestät die Königin Amalie,Ihre-Majestät-die-Königin-Amalie
+gdc,x3b4.0,26809,27369,meister_pandolfo,27246,27249,ihr,Ihre-Majestät-die-Königin-Amalie
+gdc,x3b4.0,26809,27369,meister_pandolfo,27300,27303,mir,meister_pandolfo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27304,27309,deine,könig_nicolo
+gdc,x3b4.0,26809,27369,meister_pandolfo,27321,27334,die hohe Dame,Ihre-Majestät-die-Königin-Amalie
+gdc,x3b4.0,26809,27369,meister_pandolfo,27364,27368,Gigi,könig_nicolo
+gdc,x3b4.0,27374,27444,könig_pietro,27391,27394,ich,könig_pietro
+gdc,x3b4.0,27374,27444,könig_pietro,27395,27399,Euch,meister_pandolfo
+gdc,x3b4.0,27374,27444,könig_pietro,27434,27438,mich,könig_pietro
+gdc,x3b4.0,27449,27678,meister_pandolfo,27488,27492,Gigi,könig_nicolo
+gdc,x3b4.0,27449,27678,meister_pandolfo,27496,27498,Du,könig_nicolo
+gdc,x3b4.0,27449,27678,meister_pandolfo,27516,27522,Baschi,Baschi
+gdc,x3b4.0,27449,27678,meister_pandolfo,27606,27610,dich,könig_nicolo
+gdc,x3b4.0,27449,27678,meister_pandolfo,27615,27621,meinem,meister_pandolfo
+gdc,x3b4.0,27449,27678,meister_pandolfo,27628,27641,Landstreicher,könig_nicolo
+gdc,x3b4.0,27449,27678,meister_pandolfo,27659,27663,dein,könig_nicolo
+gdc,x3b4.0,27694,27735,_stage,27701,27705,sich,könig_nicolo
+gdc,x3b4.0,27683,27772,könig_pietro,27738,27741,Ich,könig_pietro
+gdc,x3b4.0,27683,27772,könig_pietro,27748,27752,Euch,meister_pandolfo
+gdc,x3b4.0,27683,27772,könig_pietro,27764,27771,Meister,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27808,27816,Tollkopf,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27828,27830,du,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27849,27852,ich,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27853,27867,meinem Lehrbub,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27853,27859,meinem,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27895,27898,ich,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27899,27902,ihm,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27903,27913,die Arbeit,der-Arbeit
+gdc,x3b4.0,27777,28459,meister_pandolfo,27920,27923,die,der-Arbeit
+gdc,x3b4.0,27777,28459,meister_pandolfo,27930,27941,der Meister,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27959,27962,ich,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27963,27967,dich,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27980,27982,du,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,27987,27990,mir,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28033,28037,mich,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28054,28057,ich,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28058,28061,dir,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28062,28068,deinen,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28116,28123,Perugia,Perugia
+gdc,x3b4.0,27777,28459,meister_pandolfo,28131,28147,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28154,28170,der alte Lehrbub,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28175,28179,Euch,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28193,28204,Eure Arbeit,der-Arbeit
+gdc,x3b4.0,27777,28459,meister_pandolfo,28193,28197,Eure,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28320,28322,Du,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28342,28346,Gigi,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28353,28355,du,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28376,28398,Mein lieber süßer Gigi,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28376,28380,Mein,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28407,28409,du,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28421,28427,selbst,könig_nicolo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28433,28436,ich,meister_pandolfo
+gdc,x3b4.0,27777,28459,meister_pandolfo,28441,28445,dein,könig_nicolo
+gdc,x3b4.0,28464,28607,könig_pietro,28481,28497,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,28464,28607,könig_pietro,28499,28502,ich,könig_pietro
+gdc,x3b4.0,28464,28607,könig_pietro,28514,28518,Euch,meister_pandolfo
+gdc,x3b4.0,28464,28607,könig_pietro,28525,28528,Ihr,meister_pandolfo
+gdc,x3b4.0,28464,28607,könig_pietro,28529,28532,mir,könig_pietro
+gdc,x3b4.0,28612,29102,meister_pandolfo,28646,28649,ich,meister_pandolfo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28650,28653,dir,könig_nicolo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28655,28659,Gigi,könig_nicolo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28671,28674,ich,meister_pandolfo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28698,28701,ich,meister_pandolfo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28702,28705,dir,könig_nicolo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28734,28736,du,könig_nicolo
+gdc,x3b4.0,28612,29102,meister_pandolfo,28773,28782,Das Kleid,der-Arbeit
+gdc,x3b4.0,28612,29102,meister_pandolfo,28787,28812,Ihre Majestät die Königin,Ihre-Majestät-die-Königin-Amalie
+gdc,x3b4.0,28612,29102,meister_pandolfo,28874,28878,Gigi,könig_nicolo
+gdc,x3b4.0,28905,29102,_stage,28905,28914,Der König,könig_nicolo
+gdc,x3b4.0,28905,29102,_stage,28932,28948,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,28905,29102,_stage,28949,28962,die Werkstatt,die-Werkstatt
+gdc,x3b4.0,28905,29102,_stage,28990,28994,sich,könig_nicolo
+gdc,x3b4.0,28905,29102,_stage,29009,29013,sich,könig_nicolo
+gdc,x3b4.0,28905,29102,_stage,29026,29036,zur Arbeit,der-Arbeit
+gdc,x3b4.0,28905,29102,_stage,29038,29053,Prinzessin Alma,alma
+gdc,x3b4.0,29107,29137,alma,29119,29122,Ihr,könig_nicolo
+gdc,x3b4.0,29107,29137,alma,29131,29136,Vater,könig_nicolo
+gdc,x3b4.0,29142,29190,könig_pietro,29177,29189,Mein Kleinod,alma
+gdc,x3b4.0,29142,29190,könig_pietro,29177,29181,Mein,könig_pietro
+gdc,x3b4.0,29195,29285,alma,29214,29217,Sie,alma
+gdc,x3b4.0,29195,29285,alma,29268,29271,uns,
+gdc,x3b4.0,29290,29726,könig_pietro,29302,29313,Der Meister,meister_pandolfo
+gdc,x3b4.0,29290,29726,könig_pietro,29344,29356,die Gesellen,die_gesellen
+gdc,x3b4.0,29290,29726,könig_pietro,29374,29389,Die Augenblicke,Die-Augenblicke
+gdc,x3b4.0,29290,29726,könig_pietro,29391,29400,mein Kind,alma
+gdc,x3b4.0,29290,29726,könig_pietro,29391,29395,mein,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29402,29405,die,Die-Augenblicke
+gdc,x3b4.0,29290,29726,könig_pietro,29406,29409,ich,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29414,29417,dir,alma
+gdc,x3b4.0,29290,29726,könig_pietro,29445,29456,meine Seele,meine-Seele
+gdc,x3b4.0,29290,29726,könig_pietro,29445,29450,meine,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29499,29501,du,alma
+gdc,x3b4.0,29290,29726,könig_pietro,29527,29530,ich,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29535,29538,dir,alma
+gdc,x3b4.0,29290,29726,könig_pietro,29570,29572,du,alma
+gdc,x3b4.0,29290,29726,könig_pietro,29573,29576,mir,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29606,29610,mich,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29651,29654,ich,könig_pietro
+gdc,x3b4.0,29290,29726,könig_pietro,29675,29678,dir,alma
+gdc,x3b4.0,29290,29726,könig_pietro,29692,29695,ich,könig_pietro
+gdc,x3b4.0,29731,30753,alma,29779,29789,mein Vater,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,29779,29783,mein,alma
+gdc,x3b4.0,29731,30753,alma,29815,29818,uns,
+gdc,x3b4.0,29731,30753,alma,29827,29853,Der alte Gerichtsschreiber,der_gerichtsaktuar
+gdc,x3b4.0,29731,30753,alma,29859,29862,dem,der_gerichtsaktuar
+gdc,x3b4.0,29731,30753,alma,29863,29866,ich,alma
+gdc,x3b4.0,29731,30753,alma,29913,29917,mich,alma
+gdc,x3b4.0,29731,30753,alma,29928,29933,seine,der_gerichtsaktuar
+gdc,x3b4.0,29731,30753,alma,29969,29971,er,der_gerichtsaktuar
+gdc,x3b4.0,29731,30753,alma,29972,29976,mich,alma
+gdc,x3b4.0,29731,30753,alma,29984,30000,den Gerichtssaal,dem-Saal
+gdc,x3b4.0,29731,30753,alma,30015,30018,ich,alma
+gdc,x3b4.0,29731,30753,alma,30025,30031,seiner,der_gerichtsaktuar
+gdc,x3b4.0,29731,30753,alma,30057,30067,mein Vater,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30057,30061,mein,alma
+gdc,x3b4.0,29731,30753,alma,30077,30080,mir,alma
+gdc,x3b4.0,29731,30753,alma,30127,30131,Euch,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30142,30145,wir,
+gdc,x3b4.0,29731,30753,alma,30161,30168,Perugia,Perugia
+gdc,x3b4.0,29731,30753,alma,30208,30220,Eurem Haupte,dein--Haupt
+gdc,x3b4.0,29731,30753,alma,30208,30213,Eurem,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30242,30245,man,man
+gdc,x3b4.0,29731,30753,alma,30246,30250,Euch,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30262,30271,den Thron,seinen-Thron
+gdc,x3b4.0,29731,30753,alma,30285,30288,ich,alma
+gdc,x3b4.0,29731,30753,alma,30293,30299,meiner,alma
+gdc,x3b4.0,29731,30753,alma,30385,30388,man,man
+gdc,x3b4.0,29731,30753,alma,30389,30393,Euch,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30409,30412,Ihr,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30452,30455,Ihr,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30462,30467,Eurer,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30531,30534,ich,alma
+gdc,x3b4.0,29731,30753,alma,30584,30587,Ihr,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30617,30621,Euch,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30663,30667,sich,sich
+gdc,x3b4.0,29731,30753,alma,30668,30676,Tausende,sich
+gdc,x3b4.0,29731,30753,alma,30680,30684,Euch,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30689,30692,Ihr,könig_nicolo
+gdc,x3b4.0,29731,30753,alma,30698,30710,keinen König,der_könig
+gdc,x3b4.0,29731,30753,alma,30728,30734,seiner,der_könig
+gdc,x3b4.0,30758,31079,könig_pietro,30794,30797,mir,könig_pietro
+gdc,x3b4.0,30758,31079,könig_pietro,30799,30802,Ich,könig_pietro
+gdc,x3b4.0,30758,31079,könig_pietro,30838,30850,meine Stunde,dem-Tode
+gdc,x3b4.0,30758,31079,könig_pietro,30838,30843,meine,könig_pietro
+gdc,x3b4.0,30758,31079,könig_pietro,30872,30874,du,alma
+gdc,x3b4.0,30758,31079,könig_pietro,30876,30885,mein Kind,alma
+gdc,x3b4.0,30758,31079,könig_pietro,30876,30880,mein,könig_pietro
+gdc,x3b4.0,30758,31079,könig_pietro,30894,30896,du,alma
+gdc,x3b4.0,30758,31079,könig_pietro,30897,30901,dich,alma
+gdc,x3b4.0,30758,31079,könig_pietro,30944,30950,deiner,alma
+gdc,x3b4.0,30758,31079,könig_pietro,30966,30975,dein Herr,der_gerichtsaktuar
+gdc,x3b4.0,30758,31079,könig_pietro,30966,30970,dein,alma
+gdc,x3b4.0,30758,31079,könig_pietro,31009,31011,er,der_gerichtsaktuar
+gdc,x3b4.0,30758,31079,könig_pietro,31046,31051,seine,der_gerichtsaktuar
+gdc,x3b4.0,31084,31621,alma,31111,31114,Ihr,könig_nicolo
+gdc,x3b4.0,31084,31621,alma,31131,31141,mein Vater,könig_nicolo
+gdc,x3b4.0,31084,31621,alma,31131,31135,mein,alma
+gdc,x3b4.0,31084,31621,alma,31158,31161,mir,alma
+gdc,x3b4.0,31084,31621,alma,31174,31203,"Die Menschen, denen ich diene",der_gerichtsaktuar
+gdc,x3b4.0,31084,31621,alma,31194,31197,ich,alma
+gdc,x3b4.0,31084,31621,alma,31261,31264,Ihr,könig_nicolo
+gdc,x3b4.0,31084,31621,alma,31291,31406,"einer Menschenbrut, die Eure Seele, ohne es zu wissen und zu wollen, durch all ihre Lebensgewohnheiten peinigen muß",meister_pandolfo
+gdc,x3b4.0,31084,31621,alma,31315,31325,Eure Seele,meine-Seele
+gdc,x3b4.0,31084,31621,alma,31315,31319,Eure,könig_nicolo
+gdc,x3b4.0,31084,31621,alma,31370,31374,ihre,meister_pandolfo
+gdc,x3b4.0,31084,31621,alma,31408,31411,Ich,alma
+gdc,x3b4.0,31084,31621,alma,31417,31421,Euch,könig_nicolo
+gdc,x3b4.0,31084,31621,alma,31467,31470,ich,alma
+gdc,x3b4.0,31084,31621,alma,31481,31485,Euch,könig_nicolo
+gdc,x3b4.0,31084,31621,alma,31534,31538,Sich,alma
+gdc,x3b4.0,31084,31621,alma,31561,31572,meine Worte,meine-Worte
+gdc,x3b4.0,31084,31621,alma,31561,31566,meine,alma
+gdc,x3b4.0,31084,31621,alma,31574,31577,Sie,meine-Worte
+gdc,x3b4.0,31084,31621,alma,31585,31590,Eurer,könig_nicolo
+gdc,x3b4.0,31626,33382,könig_pietro,31696,31699,dir,alma
+gdc,x3b4.0,31626,33382,könig_pietro,31701,31717,mein liebes Kind,alma
+gdc,x3b4.0,31626,33382,könig_pietro,31701,31705,mein,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,31767,31770,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,31775,31791,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,31626,33382,könig_pietro,31796,31800,sein,meister_pandolfo
+gdc,x3b4.0,31626,33382,könig_pietro,31836,31842,Baschi,Baschi
+gdc,x3b4.0,31626,33382,könig_pietro,31847,31850,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,31874,31877,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,31878,31882,mein,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,31953,31956,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32000,32006,meinen,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32025,32034,die Sonne,die-Sonne
+gdc,x3b4.0,31626,33382,könig_pietro,32040,32043,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32072,32075,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32076,32085,der Bauer,der_gutsbesitzer
+gdc,x3b4.0,31626,33382,könig_pietro,32121,32124,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32129,32151,drei gemeinen Gesellen,die_gesellen
+gdc,x3b4.0,31626,33382,könig_pietro,32177,32203,"der erste, der sich erhebt",könig_nicolo
+gdc,x3b4.0,31626,33382,könig_pietro,32192,32196,sich,könig_nicolo
+gdc,x3b4.0,31626,33382,könig_pietro,32209,32243,"der letzte, der sich zur Ruhe legt",könig_nicolo
+gdc,x3b4.0,31626,33382,könig_pietro,32225,32229,sich,könig_nicolo
+gdc,x3b4.0,31626,33382,könig_pietro,32249,32253,mich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32284,32296,Gesellschaft,Gesellschaft
+gdc,x3b4.0,31626,33382,könig_pietro,32301,32309,Menschen,die-Menschen
+gdc,x3b4.0,31626,33382,könig_pietro,32352,32355,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32356,32359,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32409,32412,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32421,32431,Die Arbeit,um-Arbeit
+gdc,x3b4.0,31626,33382,könig_pietro,32438,32441,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32499,32539,die herrlichen Farben der schweren Samte,die-herrlichen-Farben-der-schweren-Samte
+gdc,x3b4.0,31626,33382,könig_pietro,32541,32566,der Glanz der Goldbrokate,der-Glanz-der-Goldbrokate
+gdc,x3b4.0,31626,33382,könig_pietro,32568,32577,alles das,
+gdc,x3b4.0,31626,33382,könig_pietro,32588,32591,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32592,32601,die Seele,meine-Seele
+gdc,x3b4.0,31626,33382,könig_pietro,32614,32617,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32705,32722,Meister Pandolfos,meister_pandolfo
+gdc,x3b4.0,31626,33382,könig_pietro,32773,32786,eine Begabung,eine-Begabung
+gdc,x3b4.0,31626,33382,könig_pietro,32790,32793,mir,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32808,32811,der,eine-Begabung
+gdc,x3b4.0,31626,33382,könig_pietro,32812,32815,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32859,32864,deren,eine-Begabung
+gdc,x3b4.0,31626,33382,könig_pietro,32876,32879,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32880,32884,mich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32945,32947,Er,meister_pandolfo
+gdc,x3b4.0,31626,33382,könig_pietro,32958,32961,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32962,32966,mich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,32978,32999,jeder seiner Gesellen,die_gesellen
+gdc,x3b4.0,31626,33382,könig_pietro,33008,33017,er selbst,meister_pandolfo
+gdc,x3b4.0,31626,33382,könig_pietro,33063,33079,die Damenkleider,die-Damenkleider
+gdc,x3b4.0,31626,33382,könig_pietro,33102,33105,sie,die-Damenkleider
+gdc,x3b4.0,31626,33382,könig_pietro,33174,33177,ich,könig_pietro
+gdc,x3b4.0,31626,33382,könig_pietro,33178,33207,"dieses Wams, das du da trägst","dieses-Wams,-das-du-da-trägst"
+gdc,x3b4.0,31626,33382,könig_pietro,33195,33197,du,alma
+gdc,x3b4.0,31626,33382,könig_pietro,33272,33308,der Sehr verächtlich. elende Stümper,der-Sehr-verächtlich.-elende-Stümper
+gdc,x3b4.0,31626,33382,könig_pietro,33320,33326,dessen,der-Sehr-verächtlich.-elende-Stümper
+gdc,x3b4.0,31626,33382,könig_pietro,33334,33360,eines so herrlichen Tuches,"dieses-Wams,-das-du-da-trägst"
+gdc,x3b4.0,33387,33495,alma,33406,33416,mein Vater,könig_nicolo
+gdc,x3b4.0,33387,33495,alma,33406,33410,mein,alma
+gdc,x3b4.0,33387,33495,alma,33428,33431,Ihr,könig_nicolo
+gdc,x3b4.0,33387,33495,alma,33461,33486,Eurem. unseligen Geschick,Eurem.-unseligen-Geschick
+gdc,x3b4.0,33387,33495,alma,33461,33466,Eurem,könig_nicolo
+gdc,x3b4.0,33500,33631,könig_pietro,33535,33538,mir,könig_pietro
+gdc,x3b4.0,33500,33631,könig_pietro,33558,33567,mein Kind,alma
+gdc,x3b4.0,33500,33631,könig_pietro,33558,33562,mein,könig_pietro
+gdc,x3b4.0,33500,33631,könig_pietro,33571,33583,Das Geschick,Eurem.-unseligen-Geschick
+gdc,x3b4.0,33500,33631,könig_pietro,33591,33597,seinen,Eurem.-unseligen-Geschick
+gdc,x3b4.0,33500,33631,könig_pietro,33608,33611,mir,könig_pietro
+gdc,x3b4.0,33500,33631,könig_pietro,33619,33622,ich,könig_pietro
+gdc,x3b4.0,33500,33631,könig_pietro,33627,33630,ihm,Eurem.-unseligen-Geschick
+gdc,x3b4.0,33642,33659,_stage,33642,33645,ihn,könig_nicolo
+gdc,x3b4.0,33636,33745,alma,33662,33677,Geliebter Vater,könig_nicolo
+gdc,x3b4.0,33636,33745,alma,33679,33682,Ihr,könig_nicolo
+gdc,x3b4.0,33636,33745,alma,33707,33711,Euch,könig_nicolo
+gdc,x3b4.0,33636,33745,alma,33715,33726,dieser Welt,der-Welt
+gdc,x3b4.0,33750,34683,könig_pietro,33765,33788,deinem liebenden Herzen,deinem-liebenden-Herzen
+gdc,x3b4.0,33750,34683,könig_pietro,33765,33771,deinem,alma
+gdc,x3b4.0,33750,34683,könig_pietro,33818,33828,dein Vater,könig_nicolo
+gdc,x3b4.0,33750,34683,könig_pietro,33833,33846,deinem Herzen,deinem-liebenden-Herzen
+gdc,x3b4.0,33750,34683,könig_pietro,33833,33839,deinem,alma
+gdc,x3b4.0,33750,34683,könig_pietro,33847,33860,das Empfinden,das-Empfinden
+gdc,x3b4.0,33750,34683,könig_pietro,33872,33875,das,das-Empfinden
+gdc,x3b4.0,33750,34683,könig_pietro,33897,33900,dir,alma
+gdc,x3b4.0,33750,34683,könig_pietro,33920,33924,dich,alma
+gdc,x3b4.0,33750,34683,könig_pietro,33949,33955,deinem,alma
+gdc,x3b4.0,33750,34683,könig_pietro,34013,34017,dich,alma
+gdc,x3b4.0,33750,34683,könig_pietro,34018,34031,deines Vaters,könig_nicolo
+gdc,x3b4.0,33750,34683,könig_pietro,34018,34024,deines,alma
+gdc,x3b4.0,33750,34683,könig_pietro,34087,34089,er,könig_nicolo
+gdc,x3b4.0,33750,34683,könig_pietro,34090,34099,sein Kind,alma
+gdc,x3b4.0,33750,34683,könig_pietro,34113,34200,"die höchsten Rechte des Lebens, die die Geschöpfe der Wildnis mit der Menschheit teilen","die-höchsten-Rechte-des-Lebens,-die-die-Geschöpfe-der-Wildnis-mit-der-Menschheit-teilen"
+gdc,x3b4.0,33750,34683,könig_pietro,34210,34213,die,"die-höchsten-Rechte-des-Lebens,-die-die-Geschöpfe-der-Wildnis-mit-der-Menschheit-teilen"
+gdc,x3b4.0,33750,34683,könig_pietro,34281,34291,der Götter,die-Götter
+gdc,x3b4.0,33750,34683,könig_pietro,34337,34341,mich,könig_pietro
+gdc,x3b4.0,33750,34683,könig_pietro,34348,34353,meine,könig_pietro
+gdc,x3b4.0,33750,34683,könig_pietro,34465,34472,Umbrien,Umbrien
+gdc,x3b4.0,33750,34683,könig_pietro,34498,34507,die Stadt,Umbrien
+gdc,x3b4.0,33750,34683,könig_pietro,34511,34516,ihren,Umbrien
+gdc,x3b4.0,33750,34683,könig_pietro,34543,34548,meine,könig_pietro
+gdc,x3b4.0,34688,34805,alma,34707,34717,Der Himmel,vom-Himmel
+gdc,x3b4.0,34688,34805,alma,34725,34729,sich,vom-Himmel
+gdc,x3b4.0,34688,34805,alma,34730,34736,meiner,alma
+gdc,x3b4.0,34688,34805,alma,34764,34767,ich,alma
+gdc,x3b4.0,34688,34805,alma,34786,34790,Euch,könig_nicolo
+gdc,x3b4.0,34810,35109,könig_pietro,34837,34849,die Menschen,die-Menschen
+gdc,x3b4.0,34810,35109,könig_pietro,34884,34892,einander,die-Menschen
+gdc,x3b4.0,34810,35109,könig_pietro,35035,35037,Du,alma
+gdc,x3b4.0,34810,35109,könig_pietro,35049,35058,mein Kind,alma
+gdc,x3b4.0,34810,35109,könig_pietro,35049,35053,mein,könig_pietro
+gdc,x3b4.0,34810,35109,könig_pietro,35060,35063,Ich,könig_pietro
+gdc,x3b4.0,34810,35109,könig_pietro,35069,35081,die Gesellen,die_gesellen
+gdc,x3b4.0,35120,35132,_stage,35120,35123,ihn,könig_nicolo
+gdc,x3b4.0,35159,35271,_stage,35159,35168,Der König,könig_nicolo
+gdc,x3b4.0,35159,35271,_stage,35175,35187,seine Arbeit,um-Arbeit
+gdc,x3b4.0,35159,35271,_stage,35175,35180,seine,könig_nicolo
+gdc,x3b4.0,35159,35271,_stage,35214,35231,die drei Gesellen,die_gesellen
+gdc,x3b4.0,35159,35271,_stage,35250,35254,sich,die_gesellen
+gdc,x3b4.0,35159,35271,_stage,35267,35270,ihn,könig_nicolo
+gdc,x3b4.0,35276,35493,michele,35286,35290,Gigi,könig_nicolo
+gdc,x3b4.0,35276,35493,michele,35297,35299,du,könig_nicolo
+gdc,x3b4.0,35276,35493,michele,35357,35360,ich,michele
+gdc,x3b4.0,35276,35493,michele,35361,35364,dir,könig_nicolo
+gdc,x3b4.0,35276,35493,michele,35430,35433,dir,könig_nicolo
+gdc,x3b4.0,35276,35493,michele,35452,35454,du,könig_nicolo
+gdc,x3b4.0,35276,35493,michele,35455,35460,deine,könig_nicolo
+gdc,x3b4.0,35498,35694,könig_pietro,35531,35535,Dich,michele
+gdc,x3b4.0,35498,35694,könig_pietro,35602,35607,deine,michele
+gdc,x3b4.0,35498,35694,könig_pietro,35644,35646,du,michele
+gdc,x3b4.0,35699,35827,noè,35729,35733,Gigi,michele
+gdc,x3b4.0,35699,35827,noè,35742,35745,uns,
+gdc,x3b4.0,35699,35827,noè,35774,35780,deinen,könig_nicolo
+gdc,x3b4.0,35699,35827,noè,35800,35803,wir,
+gdc,x3b4.0,35699,35827,noè,35814,35817,dir,könig_nicolo
+gdc,x3b4.0,35832,35977,könig_pietro,35844,35847,Mir,könig_pietro
+gdc,x3b4.0,35832,35977,könig_pietro,35880,35882,du,noè
+gdc,x3b4.0,35832,35977,könig_pietro,35887,35893,deinem,noè
+gdc,x3b4.0,35832,35977,könig_pietro,35934,35939,deine,noè
+gdc,x3b4.0,35982,36206,battista,36021,36024,uns,
+gdc,x3b4.0,35982,36206,battista,36041,36043,du,könig_nicolo
+gdc,x3b4.0,35982,36206,battista,36071,36075,Gigi,könig_nicolo
+gdc,x3b4.0,35982,36206,battista,36088,36093,deine,könig_nicolo
+gdc,x3b4.0,35982,36206,battista,36146,36148,du,könig_nicolo
+gdc,x3b4.0,35982,36206,battista,36149,36152,uns,
+gdc,x3b4.0,35982,36206,battista,36165,36174,alle drei,
+gdc,x3b4.0,36211,36341,könig_pietro,36242,36246,mich,könig_pietro
+gdc,x3b4.0,36211,36341,könig_pietro,36264,36268,Mich,könig_pietro
+gdc,x3b4.0,36211,36341,könig_pietro,36304,36307,ich,könig_pietro
+gdc,x3b4.0,36346,36530,noè,36361,36373,die Wahrheit,die-Wahrheit
+gdc,x3b4.0,36346,36530,noè,36375,36379,Gigi,könig_nicolo
+gdc,x3b4.0,36346,36530,noè,36396,36404,der Page,der-Page
+gdc,x3b4.0,36346,36530,noè,36418,36421,der,der-Page
+gdc,x3b4.0,36346,36530,noè,36422,36425,dir,könig_nicolo
+gdc,x3b4.0,36346,36530,noè,36457,36465,der Dame,der-Dame
+gdc,x3b4.0,36346,36530,noè,36482,36485,die,der-Dame
+gdc,x3b4.0,36346,36530,noè,36486,36488,du,könig_nicolo
+gdc,x3b4.0,36535,36597,könig_pietro,36554,36557,ich,könig_pietro
+gdc,x3b4.0,36535,36597,könig_pietro,36558,36562,mich,könig_pietro
+gdc,x3b4.0,36535,36597,könig_pietro,36577,36582,deine,noè
+gdc,x3b4.0,36602,36865,michele,36612,36614,Du,könig_nicolo
+gdc,x3b4.0,36602,36865,michele,36624,36628,dich,könig_nicolo
+gdc,x3b4.0,36602,36865,michele,36695,36699,dich,könig_nicolo
+gdc,x3b4.0,36602,36865,michele,36749,36752,dir,könig_nicolo
+gdc,x3b4.0,36602,36865,michele,36753,36764,vom Meister,meister_pandolfo
+gdc,x3b4.0,36602,36865,michele,36801,36804,uns,
+gdc,x3b4.0,36602,36865,michele,36829,36831,Du,könig_nicolo
+gdc,x3b4.0,36602,36865,michele,36839,36842,uns,
+gdc,x3b4.0,36870,36954,battista,36883,36890,Lehrbub,könig_nicolo
+gdc,x3b4.0,36870,36954,battista,36898,36901,uns,
+gdc,x3b4.0,36922,36954,_stage,36922,36931,Der König,könig_nicolo
+gdc,x3b4.0,36922,36954,_stage,36940,36953,die Werkstatt,die-Werkstatt
+gdc,x3b4.0,36959,37117,noè,36982,36985,ihm,könig_nicolo
+gdc,x3b4.0,36959,37117,noè,36987,36990,mir,noè
+gdc,x3b4.0,36959,37117,noè,36995,36997,er,könig_nicolo
+gdc,x3b4.0,36959,37117,noè,37004,37006,Er,könig_nicolo
+gdc,x3b4.0,36959,37117,noè,37085,37088,ihm,könig_nicolo
+gdc,x3b4.0,36959,37117,noè,37098,37105,im Kopf,dein--Haupt
+gdc,x3b4.0,37122,37249,battista,37137,37140,dir,noè
+gdc,x3b4.0,37122,37249,battista,37144,37169,ein gewesener Landsknecht,ein-gewesener-Landsknecht
+gdc,x3b4.0,37122,37249,battista,37181,37184,der,ein-gewesener-Landsknecht
+gdc,x3b4.0,37122,37249,battista,37185,37189,sich,ein-gewesener-Landsknecht
+gdc,x3b4.0,37122,37249,battista,37194,37211,Schneidergesellen,
+gdc,x3b4.0,37254,37408,noè,37260,37265,Meine,noè
+gdc,x3b4.0,37254,37408,noè,37289,37292,ich,noè
+gdc,x3b4.0,37254,37408,noè,37313,37317,mich,noè
+gdc,x3b4.0,37254,37408,noè,37325,37328,Ich,noè
+gdc,x3b4.0,37254,37408,noè,37336,37340,mich,noè
+gdc,x3b4.0,37254,37408,noè,37358,37361,ich,noè
+gdc,x3b4.0,37254,37408,noè,37362,37380,den heiligen Vater,mein-Gott
+gdc,x3b4.0,37413,38033,michele,37423,37426,Ich,michele
+gdc,x3b4.0,37413,38033,michele,37432,37436,euch,
+gdc,x3b4.0,37413,38033,michele,37450,37458,der Bube,könig_nicolo
+gdc,x3b4.0,37413,38033,michele,37482,37485,uns,
+gdc,x3b4.0,37413,38033,michele,37490,37494,sich,
+gdc,x3b4.0,37413,38033,michele,37495,37500,jeder,
+gdc,x3b4.0,37413,38033,michele,37504,37512,der Welt,der-Welt
+gdc,x3b4.0,37413,38033,michele,37533,37536,wir,
+gdc,x3b4.0,37413,38033,michele,37576,37579,der,könig_nicolo
+gdc,x3b4.0,37413,38033,michele,37585,37594,sein Maul,sein-Maul
+gdc,x3b4.0,37413,38033,michele,37585,37589,sein,könig_nicolo
+gdc,x3b4.0,37413,38033,michele,37630,37633,ihm,
+gdc,x3b4.0,37413,38033,michele,37670,37674,sich,sich2
+gdc,x3b4.0,37413,38033,michele,37675,37685,uns dreien,
+gdc,x3b4.0,37413,38033,michele,37686,37695,der Magen,sich2
+gdc,x3b4.0,37413,38033,michele,37717,37721,sich,der-Welt
+gdc,x3b4.0,37413,38033,michele,37722,37730,die Erde,der-Welt
+gdc,x3b4.0,37413,38033,michele,37736,37739,sie,der-Welt
+gdc,x3b4.0,37413,38033,michele,37740,37750,den Unhold,könig_nicolo
+gdc,x3b4.0,37413,38033,michele,37783,37787,sich,vom-Himmel
+gdc,x3b4.0,37413,38033,michele,37788,37798,der Himmel,vom-Himmel
+gdc,x3b4.0,37413,38033,michele,37804,37806,er,vom-Himmel
+gdc,x3b4.0,37413,38033,michele,37807,37810,ihn,könig_nicolo
+gdc,x3b4.0,37413,38033,michele,37839,37843,sich,die-Hölle
+gdc,x3b4.0,37413,38033,michele,37844,37853,die Hölle,die-Hölle
+gdc,x3b4.0,37413,38033,michele,37859,37862,sie,die-Hölle
+gdc,x3b4.0,37413,38033,michele,37863,37866,ihn,könig_nicolo
+gdc,x3b4.0,37413,38033,michele,37898,37901,Ihr,
+gdc,x3b4.0,37922,38033,_stage,37922,37931,Der König,könig_nicolo
+gdc,x3b4.0,37922,38033,_stage,37969,37990,einem Topf voll Suppe,einem-Topf-voll-Suppe
+gdc,x3b4.0,37922,38033,_stage,37999,38002,den,einem-Topf-voll-Suppe
+gdc,x3b4.0,37922,38033,_stage,38003,38005,er,könig_nicolo
+gdc,x3b4.0,37922,38033,_stage,38010,38022,die Gesellen,
+gdc,x3b4.0,38038,38114,michele,38059,38065,Unhold,könig_nicolo
+gdc,x3b4.0,38038,38114,michele,38067,38069,Du,könig_nicolo
+gdc,x3b4.0,38038,38114,michele,38077,38083,unsere,
+gdc,x3b4.0,38038,38114,michele,38100,38103,wir,
+gdc,x3b4.0,38130,38250,_stage,38150,38154,sich,könig_nicolo
+gdc,x3b4.0,38130,38250,_stage,38183,38189,seiner,könig_nicolo
+gdc,x3b4.0,38130,38250,_stage,38219,38223,sich,könig_nicolo
+gdc,x3b4.0,38119,38620,könig_pietro,38255,38260,Fluch,Fluch
+gdc,x3b4.0,38119,38620,könig_pietro,38266,38293,"den König, der mich hindert",der_könig
+gdc,x3b4.0,38119,38620,könig_pietro,38281,38285,mich,könig_pietro
+gdc,x3b4.0,38119,38620,könig_pietro,38295,38299,mich,könig_pietro
+gdc,x3b4.0,38119,38620,könig_pietro,38304,38319,diesem Schurken,michele
+gdc,x3b4.0,38119,38620,könig_pietro,38341,38346,Fluch,Fluch
+gdc,x3b4.0,38119,38620,könig_pietro,38352,38379,"den König, der mich hindert",der_könig
+gdc,x3b4.0,38119,38620,könig_pietro,38367,38371,mich,könig_pietro
+gdc,x3b4.0,38119,38620,könig_pietro,38381,38396,diesen Schurken,michele
+gdc,x3b4.0,38119,38620,könig_pietro,38418,38421,ich,könig_pietro
+gdc,x3b4.0,38119,38620,könig_pietro,38422,38425,ihn,michele
+gdc,x3b4.0,38119,38620,könig_pietro,38447,38449,er,michele
+gdc,x3b4.0,38119,38620,könig_pietro,38450,38454,mich,könig_pietro
+gdc,x3b4.0,38119,38620,könig_pietro,38467,38472,Fluch,Fluch
+gdc,x3b4.0,38119,38620,könig_pietro,38478,38505,"den König, der mich hindert",der_könig
+gdc,x3b4.0,38119,38620,könig_pietro,38493,38497,mich,könig_pietro
+gdc,x3b4.0,38119,38620,könig_pietro,38531,38543,jeder andere,die-Menschen
+gdc,x3b4.0,38119,38620,könig_pietro,38555,38560,Fluch,Fluch
+gdc,x3b4.0,38119,38620,könig_pietro,38566,38575,den König,der_könig
+gdc,x3b4.0,38579,38620,_stage,38579,38591,Die Gesellen,
+gdc,x3b4.0,38625,38697,michele,38640,38643,Ihr,
+gdc,x3b4.0,38625,38697,michele,38654,38656,Er,könig_nicolo
+gdc,x3b4.0,38625,38697,michele,38665,38674,den König,der_könig
+gdc,x3b4.0,38625,38697,michele,38676,38678,Er,könig_nicolo
+gdc,x3b4.0,38625,38697,michele,38687,38696,den König,der_könig
+gdc,x3b4.0,38702,38759,battista,38732,38734,Er,könig_nicolo
+gdc,x3b4.0,38702,38759,battista,38739,38748,den König,der_könig
+gdc,x3b4.0,38765,38874,michele,38781,38784,ihn,könig_nicolo
+gdc,x3b4.0,38765,38874,michele,38796,38799,ihn,könig_nicolo
+gdc,x3b4.0,38765,38874,michele,38808,38824,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,38765,38874,michele,38828,38844,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,38765,38874,michele,38856,38859,ihm,könig_nicolo
+gdc,x3b4.0,38879,39012,meister_pandolfo,38930,38938,Burschen,
+gdc,x3b4.0,38879,39012,meister_pandolfo,38952,38955,ihr,
+gdc,x3b4.0,38879,39012,meister_pandolfo,38956,38960,euch,
+gdc,x3b4.0,38879,39012,meister_pandolfo,38978,38991,der Werkstatt,die-Werkstatt
+gdc,x3b4.0,38879,39012,meister_pandolfo,38998,39001,ihr,
+gdc,x3b4.0,39031,39062,_stage,39031,39040,den König,könig_nicolo
+gdc,x3b4.0,39017,39159,die_gesellen,39065,39074,Den König,der_könig
+gdc,x3b4.0,39017,39159,die_gesellen,39079,39081,er,könig_nicolo
+gdc,x3b4.0,39017,39159,die_gesellen,39093,39098,Fluch,Fluch
+gdc,x3b4.0,39017,39159,die_gesellen,39103,39112,den König,der_könig
+gdc,x3b4.0,39017,39159,die_gesellen,39117,39119,er,könig_nicolo
+gdc,x3b4.0,39017,39159,die_gesellen,39139,39144,Fluch,Fluch
+gdc,x3b4.0,39017,39159,die_gesellen,39149,39158,den König,der_könig
+gdc,x3b4.0,39175,39210,_stage,39175,39178,der,könig_nicolo
+gdc,x3b4.0,39175,39210,_stage,39179,39183,sich,könig_nicolo
+gdc,x3b4.0,39164,39296,könig_pietro,39221,39226,Fluch,Fluch
+gdc,x3b4.0,39164,39296,könig_pietro,39231,39240,den König,der_könig
+gdc,x3b4.0,39164,39296,könig_pietro,39258,39274,des Königs Haupt,König-Pietros-Haupt
+gdc,x3b4.0,39164,39296,könig_pietro,39258,39268,des Königs,der_könig
+gdc,x3b4.0,39164,39296,könig_pietro,39281,39295,dem Henkerbeil,dem-Henkerbeil
+gdc,x3b4.0,39301,39347,die_gesellen,39321,39324,Ihr,meister_pandolfo
+gdc,x3b4.0,39301,39347,die_gesellen,39325,39328,ihn,könig_nicolo
+gdc,x3b4.0,39301,39347,die_gesellen,39330,39346,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,39363,39372,_stage,39367,39371,sich,könig_nicolo
+gdc,x3b4.0,39352,39391,könig_pietro,39375,39390,Mein armes Kind,alma
+gdc,x3b4.0,39352,39391,könig_pietro,39375,39379,Mein,könig_pietro
+gdc,x3b4.0,39396,39761,meister_pandolfo,39422,39425,ihm,könig_nicolo
+gdc,x3b4.0,39396,39761,meister_pandolfo,39452,39457,Fluch,Fluch
+gdc,x3b4.0,39396,39761,meister_pandolfo,39462,39495,unseren lieben guten König Pietro,der_könig
+gdc,x3b4.0,39396,39761,meister_pandolfo,39462,39469,unseren,
+gdc,x3b4.0,39396,39761,meister_pandolfo,39497,39516,König Pietros Haupt,König-Pietros-Haupt
+gdc,x3b4.0,39396,39761,meister_pandolfo,39497,39510,König Pietros,der_könig
+gdc,x3b4.0,39396,39761,meister_pandolfo,39528,39542,dem Henkerbeil,dem-Henkerbeil
+gdc,x3b4.0,39396,39761,meister_pandolfo,39575,39583,den Hund,könig_nicolo
+gdc,x3b4.0,39396,39761,meister_pandolfo,39597,39614,Der Landstreicher,könig_nicolo
+gdc,x3b4.0,39396,39761,meister_pandolfo,39623,39626,mir,meister_pandolfo
+gdc,x3b4.0,39396,39761,meister_pandolfo,39649,39715,"Das Haupt König Pietros, der seine Rechnungen so pünktlich bezahlt",König-Pietros-Haupt
+gdc,x3b4.0,39396,39761,meister_pandolfo,39659,39672,König Pietros,der_könig
+gdc,x3b4.0,39396,39761,meister_pandolfo,39678,39683,seine,der_könig
+gdc,x3b4.0,39808,39821,_stage,39808,39820,Gerichtssaal,dem-Saal
+gdc,x3b4.0,39824,40206,_stage,39824,39838,Am Mitteltisch,Am-Mitteltisch
+gdc,x3b4.0,39824,40206,_stage,39839,39854,der Oberrichter,der_oberrichter
+gdc,x3b4.0,39824,40206,_stage,39856,39868,zwei Richter,die-Richter
+gdc,x3b4.0,39824,40206,_stage,39870,39880,der Aktuar,der_gerichtsaktuar
+gdc,x3b4.0,39824,40206,_stage,39889,39898,Schreiber,mein-Junge
+gdc,x3b4.0,39824,40206,_stage,39899,39952,"junge Prinzessin Alma, die das Protokoll vor sich hat",alma
+gdc,x3b4.0,39824,40206,_stage,39926,39939,das Protokoll,das-Protokoll
+gdc,x3b4.0,39824,40206,_stage,39944,39948,sich,alma
+gdc,x3b4.0,39824,40206,_stage,39961,39976,vom Mitteltisch,Am-Mitteltisch
+gdc,x3b4.0,39824,40206,_stage,39994,40019,den Prokurator des Königs,der_prokurator_des_königs
+gdc,x3b4.0,39824,40206,_stage,40009,40019,des Königs,könig_nicolo
+gdc,x3b4.0,39824,40206,_stage,40037,40053,des Verteidigers,der_verteidiger
+gdc,x3b4.0,39824,40206,_stage,40084,40100,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,39824,40206,_stage,40105,40119,seine Gesellen,
+gdc,x3b4.0,39824,40206,_stage,40105,40110,seine,meister_pandolfo
+gdc,x3b4.0,39824,40206,_stage,40185,40189,sich,das-Volk
+gdc,x3b4.0,39824,40206,_stage,40190,40198,das Volk,das-Volk
+gdc,x3b4.0,40209,40502,der_oberrichter,40227,40230,Ich,der_oberrichter
+gdc,x3b4.0,40209,40502,der_oberrichter,40239,40250,die Sitzung,die-Sitzung
+gdc,x3b4.0,40209,40502,der_oberrichter,40260,40296,Seiner erhabenen Majestät des Königs,der_könig
+gdc,x3b4.0,40209,40502,der_oberrichter,40298,40317,Sämtliche Anwesende,Die-Anwesenden
+gdc,x3b4.0,40209,40502,der_oberrichter,40326,40330,sich,Die-Anwesenden
+gdc,x3b4.0,40209,40502,der_oberrichter,40335,40340,ihren,Die-Anwesenden
+gdc,x3b4.0,40209,40502,der_oberrichter,40351,40354,Ich,der_oberrichter
+gdc,x3b4.0,40209,40502,der_oberrichter,40371,40472,"dem Vertreter der Anklage, dem Herrn Silvio Andreotti, Doktor beider Rechte und Prokurator des Königs",der_prokurator_des_königs
+gdc,x3b4.0,40209,40502,der_oberrichter,40478,40482,sein,der_prokurator_des_königs
+gdc,x3b4.0,40209,40502,der_oberrichter,40493,40501,das Wort,das-Wort
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40542,40616,der segensreichen Herrschaft unseres erhabenen und geliebten Königs Pietro,"der-Herrschaft-König-Pietros,-den-uns-der-Himmel-noch-lange-erhalten-möge"
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40617,40631,Die Anwesenden,Die-Anwesenden
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40640,40644,sich,Die-Anwesenden
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40656,40677,unserer Stadt Perugia,Perugia
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40656,40663,unserer,die_bürger
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40710,40720,dem Bürger,dem-Bürger
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40725,40729,sein,dem-Bürger
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40783,40790,unserer,die_bürger
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40838,40842,sich,dem-Bürger
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40851,40872,unserer Verhandlungen,den-Gerichtsverhandlungen
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40851,40858,unserer,die_bürger
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40873,40888,im Gerichtssaal,dem-Saal
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40913,40962,des heute zur Verhandlung gelangenden Verbrechens,des-Verbrechens
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40923,40938,zur Verhandlung,zur-Verhandlung
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40971,40974,ich,der_prokurator_des_königs
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40984,40995,die Richter,
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,40997,41000,sie,
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,41009,41038,die hier versammelten Zuhörer,die-hier-versammelten-Zuhörer
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,41043,41046,sie,die-hier-versammelten-Zuhörer
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,41140,41159,unserer Verhandlung,zur-Verhandlung
+gdc,x3b4.0,40508,41173,der_prokurator_des_königs,41140,41147,unserer,
+gdc,x3b4.0,41178,41382,der_oberrichter,41226,41256,des würdigen Herrn Prokurators,der_prokurator_des_königs
+gdc,x3b4.0,41284,41382,_stage,41284,41301,Die Zuhörerschaft,die-hier-versammelten-Zuhörer
+gdc,x3b4.0,41284,41382,_stage,41364,41372,dem Saal,dem-Saal
+gdc,x3b4.0,41387,41915,der_oberrichter,41405,41433,Unser erhabener König Pietro,der_könig
+gdc,x3b4.0,41387,41915,der_oberrichter,41405,41410,Unser,unseren
+gdc,x3b4.0,41387,41915,der_oberrichter,41434,41448,Die Anwesenden,Die-Anwesenden2
+gdc,x3b4.0,41387,41915,der_oberrichter,41457,41461,sich,Die-Anwesenden2
+gdc,x3b4.0,41387,41915,der_oberrichter,41515,41552,einem jeden unbemittelten Angeklagten,einem-jeden-unbemittelten-Angeklagten
+gdc,x3b4.0,41387,41915,der_oberrichter,41583,41585,er,einem-jeden-unbemittelten-Angeklagten
+gdc,x3b4.0,41387,41915,der_oberrichter,41613,41626,unserer Stadt,Perugia
+gdc,x3b4.0,41387,41915,der_oberrichter,41613,41620,unserer,
+gdc,x3b4.0,41387,41915,der_oberrichter,41682,41748,"Der würdige Herr Corrado Ezzelino, Lehrer und Doktor beider Rechte",der_verteidiger
+gdc,x3b4.0,41387,41915,der_oberrichter,41754,41758,sich,der_verteidiger
+gdc,x3b4.0,41387,41915,der_oberrichter,41821,41824,ich,der_oberrichter
+gdc,x3b4.0,41387,41915,der_oberrichter,41825,41875,unserem würdigen Herrn Gerichtsaktuar Matteo Nerli,der_gerichtsaktuar
+gdc,x3b4.0,41387,41915,der_oberrichter,41825,41832,unserem,der_oberrichter
+gdc,x3b4.0,41387,41915,der_oberrichter,41880,41884,sein,der_gerichtsaktuar
+gdc,x3b4.0,41387,41915,der_oberrichter,41906,41914,das Wort,das-Wort
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,41941,41970,Hochwürdige und weise Richter,
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42048,42060,des Gesetzes,das-Gesetz
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42076,42082,meiner,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42103,42107,mich,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42152,42165,das Protokoll,das-Protokoll
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42166,42194,unserer heutigen Verhandlung,zur-Verhandlung
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42166,42173,unserer,
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42211,42217,meiner,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42230,42233,Ihr,die-Richter
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42234,42258,meinen Schreiberlehrling,
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42234,42240,meinen,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42260,42304,einen mir liebgewordenen aufgeweckten Knaben,
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42266,42269,mir,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42312,42318,seiner,
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42391,42394,dem,
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42395,42398,ich,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42419,42433,des Protokolls,das-Protokoll
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42468,42480,seines Herrn,der_gerichtsaktuar
+gdc,x3b4.0,41920,42501,der_gerichtsaktuar,42468,42474,seines,
+gdc,x3b4.0,42507,42910,der_oberrichter,42525,42529,Euer,der_gerichtsaktuar
+gdc,x3b4.0,42507,42910,der_oberrichter,42550,42564,Meister Matteo,der_gerichtsaktuar
+gdc,x3b4.0,42507,42910,der_oberrichter,42566,42576,Die Zeugen,Die-Zeugen
+gdc,x3b4.0,42507,42910,der_oberrichter,42577,42587,Die Zeugen,Die-Zeugen
+gdc,x3b4.0,42507,42910,der_oberrichter,42596,42600,sich,Die-Zeugen
+gdc,x3b4.0,42507,42910,der_oberrichter,42617,42620,die,Die-Zeugen
+gdc,x3b4.0,42507,42910,der_oberrichter,42624,42644,der heutigen Sitzung,die-Sitzung
+gdc,x3b4.0,42507,42910,der_oberrichter,42667,42671,sich,Die-Zeugen
+gdc,x3b4.0,42507,42910,der_oberrichter,42716,42731,den Angeklagten,könig_nicolo
+gdc,x3b4.0,42739,42910,_stage,42739,42748,Der König,könig_nicolo
+gdc,x3b4.0,42739,42910,_stage,42794,42809,Prinzessin Alma,alma
+gdc,x3b4.0,42739,42910,_stage,42823,42829,seinem,könig_nicolo
+gdc,x3b4.0,42739,42910,_stage,42858,42862,sich,alma
+gdc,x3b4.0,42739,42910,_stage,42890,42893,ihr,alma
+gdc,x3b4.0,42915,43374,der_oberrichter,42933,42935,Du,könig_nicolo
+gdc,x3b4.0,42915,43374,der_oberrichter,42943,42947,dich,könig_nicolo
+gdc,x3b4.0,42915,43374,der_oberrichter,42977,42983,Baschi,Baschi
+gdc,x3b4.0,42915,43374,der_oberrichter,42984,43002,dem Hüten von Vieh,dem-Hüten-von-Vieh
+gdc,x3b4.0,42915,43374,der_oberrichter,43029,43031,du,könig_nicolo
+gdc,x3b4.0,42915,43374,der_oberrichter,43032,43060,des Crimen laesae majestatis,des-Crimen-laesae-majestatis
+gdc,x3b4.0,42915,43374,der_oberrichter,43066,43068,es,des-Crimen-laesae-majestatis
+gdc,x3b4.0,42915,43374,der_oberrichter,43113,43137,unserer großen Vorfahren,unserer-großen-Vorfahren
+gdc,x3b4.0,42915,43374,der_oberrichter,43113,43120,unserer,der_oberrichter
+gdc,x3b4.0,42915,43374,der_oberrichter,43139,43154,der alten Römer,unserer-großen-Vorfahren
+gdc,x3b4.0,42915,43374,der_oberrichter,43197,43236,des Verbrechens der verletzten Majestät,des-Crimen-laesae-majestatis
+gdc,x3b4.0,42915,43374,der_oberrichter,43246,43248,es,des-Crimen-laesae-majestatis
+gdc,x3b4.0,42915,43374,der_oberrichter,43274,43323,der Beleidigung der geheiligten Person des Königs,des-Crimen-laesae-majestatis
+gdc,x3b4.0,42915,43374,der_oberrichter,43334,43336,du,könig_nicolo
+gdc,x3b4.0,42915,43374,der_oberrichter,43337,43341,dich,könig_nicolo
+gdc,x3b4.0,42915,43374,der_oberrichter,43342,43360,dieses Verbrechens,des-Verbrechens
+gdc,x3b4.0,43419,43427,_stage,43422,43426,Alma,
+gdc,x3b4.0,43399,43495,der_gerichtsaktuar,43439,43441,er,könig_nicolo
+gdc,x3b4.0,43399,43495,der_gerichtsaktuar,43464,43474,mein Junge,
+gdc,x3b4.0,43399,43495,der_gerichtsaktuar,43464,43468,mein,der_gerichtsaktuar
+gdc,x3b4.0,43500,43706,der_oberrichter,43558,43583,vier einwandfreien Zeugen,vier-einwandfreien-Zeugen
+gdc,x3b4.0,43500,43706,der_oberrichter,43584,43594,Die Zeugen,vier-einwandfreien-Zeugen
+gdc,x3b4.0,43500,43706,der_oberrichter,43603,43607,sich,vier-einwandfreien-Zeugen
+gdc,x3b4.0,43500,43706,der_oberrichter,43615,43626,deine Worte,deine-Worte
+gdc,x3b4.0,43500,43706,der_oberrichter,43615,43620,deine,könig_nicolo
+gdc,x3b4.0,43500,43706,der_oberrichter,43637,43642,Fluch,Fluch
+gdc,x3b4.0,43500,43706,der_oberrichter,43647,43656,den König,der_könig
+gdc,x3b4.0,43500,43706,der_oberrichter,43667,43683,des Königs Haupt,König-Pietros-Haupt
+gdc,x3b4.0,43500,43706,der_oberrichter,43667,43677,des Königs,der_könig
+gdc,x3b4.0,43500,43706,der_oberrichter,43690,43704,dem Henkerbeil,dem-Henkerbeil
+gdc,x3b4.0,43711,43745,könig_pietro,43733,43744,meine Worte,deine-Worte
+gdc,x3b4.0,43711,43745,könig_pietro,43733,43738,meine,könig_pietro
+gdc,x3b4.0,43770,43778,_stage,43773,43777,Alma,
+gdc,x3b4.0,43750,43891,der_gerichtsaktuar,43792,43803,meine Worte,deine-Worte
+gdc,x3b4.0,43750,43891,der_gerichtsaktuar,43792,43797,meine,
+gdc,x3b4.0,43750,43891,der_gerichtsaktuar,43819,43833,eine Tintensau,könig_nicolo
+gdc,x3b4.0,43750,43891,der_gerichtsaktuar,43835,43840,Junge,
+gdc,x3b4.0,43750,43891,der_gerichtsaktuar,43857,43872,der Leibhaftige,dem-Tode
+gdc,x3b4.0,43750,43891,der_gerichtsaktuar,43876,43880,dich,
+gdc,x3b4.0,43896,43962,der_oberrichter,43923,43925,du,könig_nicolo
+gdc,x3b4.0,43896,43962,der_oberrichter,43929,43948,deiner Verteidigung,deiner-Verteidigung
+gdc,x3b4.0,43896,43962,der_oberrichter,43929,43935,deiner,könig_nicolo
+gdc,x3b4.0,44000,44021,_stage,44003,44020,den andern Zeugen,den-andern-Zeugen
+gdc,x3b4.0,43991,44098,michele,44035,44037,er,könig_nicolo
+gdc,x3b4.0,43991,44098,michele,44057,44060,ihr,den-andern-Zeugen
+gdc,x3b4.0,43991,44098,michele,44071,44073,Er,könig_nicolo
+gdc,x3b4.0,44103,44270,meister_pandolfo,44152,44156,mich,meister_pandolfo
+gdc,x3b4.0,44103,44270,meister_pandolfo,44165,44170,seine,könig_nicolo
+gdc,x3b4.0,44103,44270,meister_pandolfo,44194,44198,Mich,meister_pandolfo
+gdc,x3b4.0,44103,44270,meister_pandolfo,44200,44204,mein,meister_pandolfo
+gdc,x3b4.0,44103,44270,meister_pandolfo,44218,44223,meine,meister_pandolfo
+gdc,x3b4.0,44103,44270,meister_pandolfo,44245,44247,er,könig_nicolo
+gdc,x3b4.0,44275,44373,der_oberrichter,44302,44316,der Zeugenbank,der-Zeugenbank
+gdc,x3b4.0,44275,44373,der_oberrichter,44334,44336,du,könig_nicolo
+gdc,x3b4.0,44275,44373,der_oberrichter,44340,44359,deiner Verteidigung,deiner-Verteidigung
+gdc,x3b4.0,44275,44373,der_oberrichter,44340,44346,deiner,könig_nicolo
+gdc,x3b4.0,44379,46243,könig_pietro,44406,44425,der Majestät Gottes,der-Majestät-Gottes
+gdc,x3b4.0,44379,46243,könig_pietro,44419,44425,Gottes,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,44437,44460,die Majestät des Königs,die-Majestät-des-Königs
+gdc,x3b4.0,44379,46243,könig_pietro,44450,44460,des Königs,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,44476,44487,dieser Welt,der-Welt
+gdc,x3b4.0,44379,46243,könig_pietro,44502,44517,Gottes Majestät,der-Majestät-Gottes
+gdc,x3b4.0,44379,46243,könig_pietro,44502,44508,Gottes,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,44539,44563,der niedrigen Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,44600,44623,die Majestät des Königs,die-Majestät-des-Königs
+gdc,x3b4.0,44379,46243,könig_pietro,44613,44623,des Königs,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,44641,44660,die Majestät Gottes,der-Majestät-Gottes
+gdc,x3b4.0,44379,46243,könig_pietro,44654,44660,Gottes,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,44692,44716,die niedrige  Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,44726,44729,Wir,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,44752,44756,dich,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,44765,44788,die königliche Majestät,die-Majestät-des-Königs
+gdc,x3b4.0,44379,46243,könig_pietro,44820,44844,die niedrige  Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,44851,44854,Wir,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,44865,44868,dir,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,44934,44938,Gott,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,44958,44967,auf Erden,der-Welt
+gdc,x3b4.0,44379,46243,könig_pietro,44983,45006,die niedrige Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45015,45018,ihn,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,45019,45027,zum Tode,dem-Tode
+gdc,x3b4.0,44379,46243,könig_pietro,45050,45073,die niedrige Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45083,45092,den König,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,45106,45108,er,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,45120,45122,er,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,45131,45134,sie,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45135,45138,ihm,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,45157,45167,dein Haupt,König-Pietros-Haupt
+gdc,x3b4.0,44379,46243,könig_pietro,45157,45161,dein,
+gdc,x3b4.0,44379,46243,könig_pietro,45174,45177,dem,dem-Henkerbeil
+gdc,x3b4.0,44379,46243,könig_pietro,45198,45201,ihm,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,45257,45263,Gottes,mein-Gott
+gdc,x3b4.0,44379,46243,könig_pietro,45278,45288,des Königs,der-König
+gdc,x3b4.0,44379,46243,könig_pietro,45289,45318,das fluchwürdigste Verbrechen,des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45326,45417,"ein Verbrechen, dessen ich mich, wie ich offen bekannte, mit meinen Worten schuldig gemacht",des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45349,45352,ich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45353,45357,mich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45363,45366,ich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45387,45400,meinen Worten,deine-Worte
+gdc,x3b4.0,44379,46243,könig_pietro,45387,45393,meinen,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45420,45423,mir,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45432,45434,es,des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45439,45448,den König,
+gdc,x3b4.0,44379,46243,könig_pietro,45493,45495,er,
+gdc,x3b4.0,44379,46243,könig_pietro,45496,45498,es,des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45522,45525,mir,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45534,45536,es,des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45568,45592,die niedrige  Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45593,45597,sich,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45616,45618,es,des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45642,45666,die niedrige Mensch heit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45706,45709,Tod,dem-Tode
+gdc,x3b4.0,44379,46243,könig_pietro,45720,45723,sie,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,44379,46243,könig_pietro,45763,45770,den Tod,dem-Tode
+gdc,x3b4.0,44379,46243,könig_pietro,45780,45782,er,dem-Tode
+gdc,x3b4.0,44379,46243,könig_pietro,45875,45878,ich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45904,45920,mein Verschulden,des-Verbrechens
+gdc,x3b4.0,44379,46243,könig_pietro,45904,45908,mein,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45925,45937,den Richtern,
+gdc,x3b4.0,44379,46243,könig_pietro,45943,45948,denen,
+gdc,x3b4.0,44379,46243,könig_pietro,45949,45952,ich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,45982,45986,mich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,46066,46070,mich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,46072,46096,webe und geehrte Richter,
+gdc,x3b4.0,44379,46243,könig_pietro,46124,46128,euch,
+gdc,x3b4.0,44379,46243,könig_pietro,46158,46162,mich,könig_pietro
+gdc,x3b4.0,44379,46243,könig_pietro,46201,46227,menschlicher Gerechtigkeit,menschlicher-Gerechtigkeit
+gdc,x3b4.0,46253,46274,_stage,46256,46273,den andern Zeugen,den-andern-Zeugen2
+gdc,x3b4.0,46248,46347,noè,46277,46280,Ich,noè
+gdc,x3b4.0,46248,46347,noè,46289,46293,euch,den-andern-Zeugen2
+gdc,x3b4.0,46248,46347,noè,46314,46322,der Kerl,könig_nicolo
+gdc,x3b4.0,46353,46423,der_oberrichter,46380,46394,der Zeugenbank,der-Zeugenbank
+gdc,x3b4.0,46353,46423,der_oberrichter,46398,46407,Zum König,könig_nicolo
+gdc,x3b4.0,46428,47666,könig_pietro,46440,46463,Der Majestät des Königs,der_könig
+gdc,x3b4.0,46428,47666,könig_pietro,46472,46483,meine Worte,deine-Worte
+gdc,x3b4.0,46428,47666,könig_pietro,46472,46477,meine,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,46489,46492,ich,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,46594,46617,die Majestät des Königs,der_könig
+gdc,x3b4.0,46428,47666,könig_pietro,46706,46734,der – niedri  gen Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46736,46739,Was,Was
+gdc,x3b4.0,46428,47666,könig_pietro,46740,46754,die Erdensöhne,
+gdc,x3b4.0,46428,47666,könig_pietro,46783,46800,ewigen Wahrheiten,ewigen-Wahrheiten
+gdc,x3b4.0,46428,47666,könig_pietro,46808,46811,die,ewigen-Wahrheiten
+gdc,x3b4.0,46428,47666,könig_pietro,46812,46816,sich,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46817,46823,keiner,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46829,46831,er,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46893,46896,das,Was
+gdc,x3b4.0,46428,47666,könig_pietro,46906,46909,sie,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46916,46922,Gottes,mein-Gott
+gdc,x3b4.0,46428,47666,könig_pietro,46949,46952,ihr,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46961,46968,Ihrigen,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,46989,46993,ihre,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47016,47021,ihres,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47056,47059,sie,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47100,47105,ihrer,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47119,47131,ihres Königs,der-König
+gdc,x3b4.0,46428,47666,könig_pietro,47119,47124,ihres,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47142,47154,ihrem Könige,der-König
+gdc,x3b4.0,46428,47666,könig_pietro,47142,47147,ihrem,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47163,47188,die – niedrige Menschheit,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47189,47219,das Abbild des eigenen Glückes,das-Abbild-des-eigenen-Glückes
+gdc,x3b4.0,46428,47666,könig_pietro,47204,47211,eigenen,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47225,47228,wer,wer
+gdc,x3b4.0,46428,47666,könig_pietro,47229,47242,dieses Abbild,das-Abbild-des-eigenen-Glückes
+gdc,x3b4.0,46428,47666,könig_pietro,47253,47256,der,wer
+gdc,x3b4.0,46428,47666,könig_pietro,47263,47266,ihr,der-–-niedri--gen-Menschheit
+gdc,x3b4.0,46428,47666,könig_pietro,47275,47285,zur Arbeit,um-Arbeit
+gdc,x3b4.0,46428,47666,könig_pietro,47310,47322,Dieser Untat,des-Verbrechens
+gdc,x3b4.0,46428,47666,könig_pietro,47327,47330,ich,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,47369,47394,menschliche Gerechtigkeit,menschlicher-Gerechtigkeit
+gdc,x3b4.0,46428,47666,könig_pietro,47418,47456,"die Strafe, die man über mich verhängt",des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,46428,47666,könig_pietro,47443,47447,mich,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,47470,47488,meines Verbrechens,des-Verbrechens
+gdc,x3b4.0,46428,47666,könig_pietro,47470,47476,meines,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,47507,47510,sie,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,46428,47666,könig_pietro,47511,47515,sich,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,46428,47666,könig_pietro,47522,47532,mein Leben,Sein-Leben
+gdc,x3b4.0,46428,47666,könig_pietro,47522,47526,mein,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,47546,47549,sie,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,46428,47666,könig_pietro,47571,47574,sie,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,46428,47666,könig_pietro,47581,47584,ich,könig_pietro
+gdc,x3b4.0,46428,47666,könig_pietro,47591,47594,sie,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,46428,47666,könig_pietro,47610,47621,des Himmels,vom-Himmel
+gdc,x3b4.0,46428,47666,könig_pietro,47626,47631,eurer,
+gdc,x3b4.0,46428,47666,könig_pietro,47638,47649,ihr Richter,
+gdc,x3b4.0,47671,47922,der_oberrichter,47699,47711,deines Herrn,der_könig
+gdc,x3b4.0,47671,47922,der_oberrichter,47699,47705,deines,könig_nicolo
+gdc,x3b4.0,47671,47922,der_oberrichter,47713,47748,unseres teuren und geliebten Königs,der_könig
+gdc,x3b4.0,47671,47922,der_oberrichter,47713,47720,unseres,der_oberrichter
+gdc,x3b4.0,47671,47922,der_oberrichter,47750,47764,Die Anwesenden,Die-Anwesenden2
+gdc,x3b4.0,47671,47922,der_oberrichter,47773,47777,sich,Die-Anwesenden2
+gdc,x3b4.0,47671,47922,der_oberrichter,47783,47786,dir,könig_nicolo
+gdc,x3b4.0,47671,47922,der_oberrichter,47787,47819,einen rechtskundigen Verteidiger,der_verteidiger
+gdc,x3b4.0,47671,47922,der_oberrichter,47841,47907,"Der würdige Herr Corrado Ezzelino, Lehrer und Doktor beider Rechte",der_verteidiger
+gdc,x3b4.0,47671,47922,der_oberrichter,47913,47921,das Wort,das-Wort
+gdc,x3b4.0,47944,48040,_stage,47951,47955,sich,der_verteidiger
+gdc,x3b4.0,47944,48040,_stage,47957,47959,er,der_verteidiger
+gdc,x3b4.0,47944,48040,_stage,47968,47983,dem Gerichtshof,dem-Gerichtshof
+gdc,x3b4.0,47944,48040,_stage,48016,48039,größter Unterwürfigkeit,größter-Unterwürfigkeit
+gdc,x3b4.0,47927,50055,der_verteidiger,48043,48110,"Meine hochwohlweisen, hochgerechten, würdigen, hochgeehrten Richter",
+gdc,x3b4.0,47927,50055,der_verteidiger,48043,48048,Meine,der_verteidiger
+gdc,x3b4.0,47927,50055,der_verteidiger,48120,48123,mir,der_verteidiger
+gdc,x3b4.0,47927,50055,der_verteidiger,48146,48187,unseren wackeren und verdienten Mitbürger,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48146,48153,unseren,
+gdc,x3b4.0,47927,50055,der_verteidiger,48189,48225,den Schneidermeister Cesare Pandolfo,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48267,48275,Pandolfo,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48310,48325,seinen Gesellen,die_gesellen
+gdc,x3b4.0,47927,50055,der_verteidiger,48310,48316,seinen,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48382,48450,des unter seinem  Dache begangenen verabscheuenswürdigen Verbrechens,des-Verbrechens
+gdc,x3b4.0,47927,50055,der_verteidiger,48392,48405,seinem  Dache,mein-Haus
+gdc,x3b4.0,47927,50055,der_verteidiger,48392,48398,seinem,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48457,48460,wir,
+gdc,x3b4.0,47927,50055,der_verteidiger,48461,48464,ihn,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48475,48489,der Zeugenbank,der-Zeugenbank
+gdc,x3b4.0,47927,50055,der_verteidiger,48498,48506,Wir alle,
+gdc,x3b4.0,47927,50055,der_verteidiger,48530,48536,seiner,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48548,48556,wir alle,
+gdc,x3b4.0,47927,50055,der_verteidiger,48562,48565,wir,
+gdc,x3b4.0,47927,50055,der_verteidiger,48599,48611,seinen Talar,seinem-Talar
+gdc,x3b4.0,47927,50055,der_verteidiger,48599,48605,seinen,der_verteidiger
+gdc,x3b4.0,47927,50055,der_verteidiger,48638,48644,seiner,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48653,48659,Keinem,Keinem
+gdc,x3b4.0,47927,50055,der_verteidiger,48666,48669,uns,
+gdc,x3b4.0,47927,50055,der_verteidiger,48692,48698,dessen,Keinem
+gdc,x3b4.0,47927,50055,der_verteidiger,48706,48709,ich,der_verteidiger
+gdc,x3b4.0,47927,50055,der_verteidiger,48710,48726,Meister Pandolfo,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48730,48741,unser aller,
+gdc,x3b4.0,47927,50055,der_verteidiger,48770,48773,ihn,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48804,48871,"dem unter seinem Dache begangenen, verabscheuenswürdigen Verbrechen",des-Verbrechens
+gdc,x3b4.0,47927,50055,der_verteidiger,48814,48826,seinem Dache,mein-Haus
+gdc,x3b4.0,47927,50055,der_verteidiger,48814,48820,seinem,meister_pandolfo
+gdc,x3b4.0,47927,50055,der_verteidiger,48960,48975,den Angeklagten,könig_nicolo
+gdc,x3b4.0,47927,50055,der_verteidiger,48986,48989,den,könig_nicolo
+gdc,x3b4.0,47927,50055,der_verteidiger,49005,49008,ich,der_verteidiger
+gdc,x3b4.0,47927,50055,der_verteidiger,49043,49045,er,könig_nicolo
+gdc,x3b4.0,47927,50055,der_verteidiger,49106,49113,unserer,
+gdc,x3b4.0,47927,50055,der_verteidiger,49170,49224,des hohen römischen Rechtes klüglich gefällten Urteils,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,47927,50055,der_verteidiger,49236,49243,Richter,
+gdc,x3b4.0,47927,50055,der_verteidiger,49263,49303,unserer teuren menschlichen Gemeinschaft,unserer-teuren-menschlichen-Gemeinschaft
+gdc,x3b4.0,47927,50055,der_verteidiger,49263,49270,unserer,
+gdc,x3b4.0,47927,50055,der_verteidiger,49304,49324,das Wort der Schrift,das-Wort-der-Schrift
+gdc,x3b4.0,47927,50055,der_verteidiger,49313,49324,der Schrift,der-Schrift
+gdc,x3b4.0,47927,50055,der_verteidiger,49325,49329,sich,das-Wort-der-Schrift
+gdc,x3b4.0,47927,50055,der_verteidiger,49347,49350,der,der-Schrift
+gdc,x3b4.0,47927,50055,der_verteidiger,49361,49363,Du,die-Menschen
+gdc,x3b4.0,47927,50055,der_verteidiger,49371,49376,deine,die-Menschen
+gdc,x3b4.0,47927,50055,der_verteidiger,49414,49428,der Angeklagte,könig_nicolo
+gdc,x3b4.0,47927,50055,der_verteidiger,49432,49438,seiner,könig_nicolo
+gdc,x3b4.0,47927,50055,der_verteidiger,49493,49593,"die Ehre, die ihm durch ein auf der heiligen Waage der Gerechtigkeit abgewogenes Urteil zuteil würde","die-Ehre,-die-ihm-durch-ein-auf-der-heiligen-Waage-der-Gerechtigkeit-abgewogenes-Urteil-zuteil-würde"
+gdc,x3b4.0,47927,50055,der_verteidiger,49507,49510,ihm,könig_nicolo
+gdc,x3b4.0,47927,50055,der_verteidiger,49605,49610,ihrem,"die-Ehre,-die-ihm-durch-ein-auf-der-heiligen-Waage-der-Gerechtigkeit-abgewogenes-Urteil-zuteil-würde"
+gdc,x3b4.0,47927,50055,der_verteidiger,49666,49669,ich,der_verteidiger
+gdc,x3b4.0,47927,50055,der_verteidiger,49670,49674,euch,
+gdc,x3b4.0,47927,50055,der_verteidiger,49676,49709,hochwohlweise und geehrte Richter,
+gdc,x3b4.0,47927,50055,der_verteidiger,49725,49732,unseres,
+gdc,x3b4.0,47927,50055,der_verteidiger,49771,49808,einer In zärtlichem Ton. Prügelstrafe,einer-In-zärtlichem-Ton.-Prügelstrafe
+gdc,x3b4.0,47927,50055,der_verteidiger,49836,49840,euch,
+gdc,x3b4.0,47927,50055,der_verteidiger,49842,49875,hochwohlweise und geehrte Richter,
+gdc,x3b4.0,47927,50055,der_verteidiger,49877,49894,eine Prügelstrafe,einer-In-zärtlichem-Ton.-Prügelstrafe
+gdc,x3b4.0,47927,50055,der_verteidiger,49935,49952,die Prügel strafe,einer-In-zärtlichem-Ton.-Prügelstrafe
+gdc,x3b4.0,47927,50055,der_verteidiger,50017,50027,dem Markte,dem-Markte
+gdc,x3b4.0,47927,50055,der_verteidiger,50032,50039,Perugia,Perugia
+gdc,x3b4.0,50060,50187,der_oberrichter,50078,50081,Ich,der_oberrichter
+gdc,x3b4.0,50060,50187,der_oberrichter,50090,50098,das Wort,das-Wort
+gdc,x3b4.0,50060,50187,der_oberrichter,50099,50124,dem Prokurator des Königs,der_prokurator_des_königs
+gdc,x3b4.0,50060,50187,der_oberrichter,50126,50186,"unserm würdigen Herrn Silvio Andreotti, Doktor beider Rechte",der_prokurator_des_königs
+gdc,x3b4.0,50060,50187,der_oberrichter,50126,50132,unserm,der_oberrichter
+gdc,x3b4.0,50219,50495,_stage,50219,50222,der,der_prokurator_des_königs
+gdc,x3b4.0,50219,50495,_stage,50223,50227,sich,der_prokurator_des_königs
+gdc,x3b4.0,50219,50495,_stage,50236,50258,der ganzen Verhandlung,zur-Verhandlung
+gdc,x3b4.0,50219,50495,_stage,50283,50296,seinem Sessel,seinem-Sessel
+gdc,x3b4.0,50219,50495,_stage,50283,50289,seinem,der_prokurator_des_königs
+gdc,x3b4.0,50219,50495,_stage,50317,50321,sich,der_prokurator_des_königs
+gdc,x3b4.0,50219,50495,_stage,50432,50434,er,der_prokurator_des_königs
+gdc,x3b4.0,50219,50495,_stage,50441,50456,dem Gerichtshof,dem-Gerichtshof
+gdc,x3b4.0,50219,50495,_stage,50458,50463,seine,der_prokurator_des_königs
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50498,50513,Geehrte Richter,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50515,50529,Der Angeklagte,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50539,50607,die treffliche Verteidigungsrede des würdigen Herrn Corrado Ezzelino,"eine-ciceronianische-Verteidigungsrede,-die-ich-da-für-dich-gehalten-habe"
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50572,50607,des würdigen Herrn Corrado Ezzelino,der_verteidiger
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50671,50711,unserer teuren menschlichen Gemeinschaft,unserer-teuren-menschlichen-Gemeinschaft
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50671,50678,unserer,die-Menschen
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50773,50776,dem,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50777,50780,ich,der_prokurator_des_königs
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50832,50836,mich,der_prokurator_des_königs
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50862,50891,eine gewisse Bauernschlauheit,eine-gewisse-Bauernschlauheit
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50921,50943,diese Bauernschlauheit,eine-gewisse-Bauernschlauheit
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50951,50970,seine eigenen Worte,deine-Worte
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50951,50964,seine eigenen,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,50980,50982,er,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51024,51026,er,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51043,51062,unsere Urteilskraft,unsere-Urteilskraft
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51043,51049,unsere,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51123,51132,seine Tat,des-Verbrechens
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51123,51128,seine,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51182,51256,ein auf der tiefsten Stufe menschlicher Verkommenheit stehendes Individuum,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51257,51292,ein so himmelschreiendes Verbrechen,des-Verbrechens
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51310,51327,dieses Individuum,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51429,51443,der Angeklagte,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51461,51480,unsere Urteilskraft,unsere-Urteilskraft
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51461,51467,unsere,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51495,51501,selber,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51556,51681,"unserer so teuren menschlichen Gemeinschaft, die mich und euch, ihr Richter, zu ihrem Schütze berufen und hierhergestellt hat",unserer-teuren-menschlichen-Gemeinschaft
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51556,51563,unserer,die-Menschen
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51605,51609,mich,der_prokurator_des_königs
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51614,51618,euch,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51620,51631,ihr Richter,
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51636,51641,ihrem,unserer-teuren-menschlichen-Gemeinschaft
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51683,51704,Solch ein wildes Tier,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51725,51730,seine,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51755,51760,seine,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51814,51816,es,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51823,51830,den Tod,dem-Tode
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51846,51851,seine,könig_nicolo
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51861,51872,dieser Erde,der-Welt
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51889,51891,Er,der_prokurator_des_königs
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51900,51904,sich,der_prokurator_des_königs
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51920,51933,seinen Sessel,seinem-Sessel
+gdc,x3b4.0,50192,51941,der_prokurator_des_königs,51920,51926,seinen,der_prokurator_des_königs
+gdc,x3b4.0,51947,52022,der_oberrichter,51965,51986,Angeklagter Ludovicus,könig_nicolo
+gdc,x3b4.0,51947,52022,der_oberrichter,51997,51999,du,könig_nicolo
+gdc,x3b4.0,52051,52251,der_oberrichter,52069,52079,Die Zeugen,Die-Zeugen
+gdc,x3b4.0,52051,52251,der_oberrichter,52098,52109,Das Gericht,Das-Gericht
+gdc,x3b4.0,52051,52251,der_oberrichter,52116,52120,sich,Das-Gericht
+gdc,x3b4.0,52051,52251,der_oberrichter,52133,52144,des Urteils,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,52051,52251,der_oberrichter,52148,52167,das Beratungszimmer,das-Beratungszimmer
+gdc,x3b4.0,52178,52251,_stage,52178,52188,Die Zeugen,Die-Zeugen
+gdc,x3b4.0,52178,52251,_stage,52190,52201,der Richter,der_oberrichter
+gdc,x3b4.0,52178,52251,_stage,52206,52231,der Prokurator des Königs,der_prokurator_des_königs
+gdc,x3b4.0,52178,52251,_stage,52242,52250,den Saal,dem-Saal
+gdc,x3b4.0,52276,52376,_stage,52322,52349,"Alma, die in Tränen gebadet",
+gdc,x3b4.0,52276,52376,_stage,52356,52369,dem Protokoll,das-Protokoll
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52384,52387,mir,der_gerichtsaktuar
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52389,52402,heilige Maria,heilige-Maria
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52404,52417,Mutter Gottes,heilige-Maria
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52424,52427,mir,der_gerichtsaktuar
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52428,52438,der Bengel,
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52442,52448,seiner,
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52460,52489,mein ganzes Gerichtsprotokoll,das-Protokoll
+gdc,x3b4.0,52256,52569,der_gerichtsaktuar,52460,52464,mein,der_gerichtsaktuar
+gdc,x3b4.0,52574,52662,alma,52597,52606,mein Gott,mein-Gott
+gdc,x3b4.0,52574,52662,alma,52597,52601,mein,alma
+gdc,x3b4.0,52574,52662,alma,52608,52610,er,könig_nicolo
+gdc,x3b4.0,52574,52662,alma,52627,52630,Ich,alma
+gdc,x3b4.0,52574,52662,alma,52644,52646,er,könig_nicolo
+gdc,x3b4.0,52667,52820,der_gerichtsaktuar,52701,52705,dich,alma
+gdc,x3b4.0,52667,52820,der_gerichtsaktuar,52725,52727,er,könig_nicolo
+gdc,x3b4.0,52667,52820,der_gerichtsaktuar,52765,52769,dein,alma
+gdc,x3b4.0,52667,52820,der_gerichtsaktuar,52787,52819,"sein Kopf, den man ihm abschlägt",dein--Haupt
+gdc,x3b4.0,52667,52820,der_gerichtsaktuar,52787,52791,sein,könig_nicolo
+gdc,x3b4.0,52667,52820,der_gerichtsaktuar,52806,52809,ihm,dein--Haupt
+gdc,x3b4.0,52825,52979,könig_pietro,52869,52880,Meine Worte,deine-Worte
+gdc,x3b4.0,52825,52979,könig_pietro,52869,52874,Meine,könig_pietro
+gdc,x3b4.0,52825,52979,könig_pietro,52914,52930,des Königs Haupt,König-Pietros-Haupt
+gdc,x3b4.0,52825,52979,könig_pietro,52914,52924,des Königs,der_könig
+gdc,x3b4.0,52825,52979,könig_pietro,52935,52945,dem Markte,dem-Markte
+gdc,x3b4.0,52825,52979,könig_pietro,52950,52957,Perugia,Perugia
+gdc,x3b4.0,52825,52979,könig_pietro,52964,52978,dem Henkerbeil,dem-Henkerbeil
+gdc,x3b4.0,53004,53012,_stage,53007,53011,Alma,
+gdc,x3b4.0,52984,53054,der_gerichtsaktuar,53024,53026,du,
+gdc,x3b4.0,52984,53054,der_gerichtsaktuar,53046,53048,er,dein--Haupt
+gdc,x3b4.0,53065,53141,_stage,53072,53076,sich,alma
+gdc,x3b4.0,53059,53237,alma,53144,53217,"Heiliger Gott im Himmel, der du Erbarmen hast mit allen Armen und Elenden",mein-Gott
+gdc,x3b4.0,53059,53237,alma,53173,53175,du,mein-Gott
+gdc,x3b4.0,53059,53237,alma,53227,53230,uns,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53274,53276,du,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53278,53280,du,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53314,53322,das Herz,deinem-liebenden-Herzen
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53349,53374,den Gerichtsverhandlungen,den-Gerichtsverhandlungen
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53381,53384,ich,der_gerichtsaktuar
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53385,53389,dich,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53431,53433,Du,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53448,53467,das ganze Protokoll,das-Protokoll
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53473,53479,deinem,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53527,53529,du,
+gdc,x3b4.0,53242,53586,der_gerichtsaktuar,53545,53547,du,
+gdc,x3b4.0,53608,53751,_stage,53621,53632,die Richter,
+gdc,x3b4.0,53608,53751,_stage,53633,53641,den Saal,dem-Saal
+gdc,x3b4.0,53608,53751,_stage,53690,53708,eine Kürbisflasche,eine-Kürbisflasche
+gdc,x3b4.0,53608,53751,_stage,53713,53725,einen Becher,einen-Becher
+gdc,x3b4.0,53608,53751,_stage,53730,53742,seinem Talar,seinem-Talar
+gdc,x3b4.0,53608,53751,_stage,53730,53736,seinem,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,53754,53761,Flasche,eine-Kürbisflasche
+gdc,x3b4.0,53591,54402,der_verteidiger,53766,53772,Becher,einen-Becher
+gdc,x3b4.0,53591,54402,der_verteidiger,53777,53779,er,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,53784,53788,sich,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,53816,53818,er,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,53865,53869,Gigi,dein--Haupt
+gdc,x3b4.0,53591,54402,der_verteidiger,53885,53958,"eine ciceronianische Verteidigungsrede, die ich da für dich gehalten habe","eine-ciceronianische-Verteidigungsrede,-die-ich-da-für-dich-gehalten-habe"
+gdc,x3b4.0,53591,54402,der_verteidiger,53929,53932,ich,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,53940,53944,dich,dein--Haupt
+gdc,x3b4.0,53591,54402,der_verteidiger,53975,53977,du,dein--Haupt
+gdc,x3b4.0,53591,54402,der_verteidiger,53990,53992,Du,dein--Haupt
+gdc,x3b4.0,53591,54402,der_verteidiger,54002,54005,mir,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,54017,54020,ich,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,54033,54036,Ich,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,54069,54093,meiner Verteidigungsrede,"eine-ciceronianische-Verteidigungsrede,-die-ich-da-für-dich-gehalten-habe"
+gdc,x3b4.0,53591,54402,der_verteidiger,54069,54075,meiner,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,54168,54185,deines Viehhütens,dem-Hüten-von-Vieh
+gdc,x3b4.0,53591,54402,der_verteidiger,54168,54174,deines,dein--Haupt
+gdc,x3b4.0,53591,54402,der_verteidiger,54215,54219,Gigi,dein--Haupt
+gdc,x3b4.0,53591,54402,der_verteidiger,54221,54224,ich,der_verteidiger
+gdc,x3b4.0,53591,54402,der_verteidiger,54251,54365,"diesen Hinausdeutend, im Gegensatz zu seiner früheren Unterwürfigkeit im Ton aller tiefster Verachtung. Hornochsen",
+gdc,x3b4.0,53591,54402,der_verteidiger,54289,54320,seiner früheren Unterwürfigkeit,größter-Unterwürfigkeit
+gdc,x3b4.0,53591,54402,der_verteidiger,54289,54295,seiner,der_verteidiger
+gdc,x3b4.0,54408,54597,könig_pietro,54420,54423,Ich,könig_pietro
+gdc,x3b4.0,54408,54597,könig_pietro,54429,54433,Euch,der_verteidiger
+gdc,x3b4.0,54408,54597,könig_pietro,54434,54440,meinen,könig_pietro
+gdc,x3b4.0,54408,54597,könig_pietro,54450,54454,Eure,der_verteidiger
+gdc,x3b4.0,54408,54597,könig_pietro,54465,54489,würdiger Doktor Ezzelino,der_verteidiger
+gdc,x3b4.0,54493,54597,_stage,54493,54504,Die Richter,
+gdc,x3b4.0,54493,54597,_stage,54510,54524,den Prokurator,der_prokurator_des_königs
+gdc,x3b4.0,54493,54597,_stage,54536,54555,dem Beratungszimmer,das-Beratungszimmer
+gdc,x3b4.0,54493,54597,_stage,54574,54578,ihre,
+gdc,x3b4.0,54602,55243,der_oberrichter,54674,54698,Der Angeklagte Ludovicus,könig_nicolo
+gdc,x3b4.0,54602,55243,der_oberrichter,54731,54738,Perugia,Perugia
+gdc,x3b4.0,54602,55243,der_oberrichter,54751,54767,dem Dorfe Baschi,Baschi
+gdc,x3b4.0,54602,55243,der_oberrichter,54772,54790,dem Hüten von Vieh,dem-Hüten-von-Vieh
+gdc,x3b4.0,54602,55243,der_oberrichter,54804,54819,des Verbrechens,des-Verbrechens
+gdc,x3b4.0,54602,55243,der_oberrichter,54836,54869,der geheiligten Person des Königs,der_könig
+gdc,x3b4.0,54602,55243,der_oberrichter,54890,54908,dieses Verbrechens,des-Verbrechens
+gdc,x3b4.0,54602,55243,der_oberrichter,54958,54986,seines eigenen Geständnisses,seines-eigenen-Geständnisses
+gdc,x3b4.0,54602,55243,der_oberrichter,54958,54972,seines eigenen,könig_nicolo
+gdc,x3b4.0,54602,55243,der_oberrichter,55010,55024,Der Angeklagte,könig_nicolo
+gdc,x3b4.0,54602,55243,der_oberrichter,55057,55063,seiner,könig_nicolo
+gdc,x3b4.0,54602,55243,der_oberrichter,55113,55155,seines freiwillig abgelegten Geständnisses,seines-eigenen-Geständnisses
+gdc,x3b4.0,54602,55243,der_oberrichter,55113,55119,seines,könig_nicolo
+gdc,x3b4.0,54602,55243,der_oberrichter,55159,55182,zweijähriger Kerkerhaft,zweijähriger-Kerkerhaft
+gdc,x3b4.0,55189,55243,_stage,55189,55193,Alma,alma
+gdc,x3b4.0,55248,55359,der_gerichtsaktuar,55299,55304,Junge,
+gdc,x3b4.0,55248,55359,der_gerichtsaktuar,55316,55320,dein,
+gdc,x3b4.0,55248,55359,der_gerichtsaktuar,55339,55350,der Richter,der_oberrichter
+gdc,x3b4.0,55364,55627,der_oberrichter,55512,55529,der Stadt Perugia,Perugia
+gdc,x3b4.0,55364,55627,der_oberrichter,55550,55563,seines Lebens,Sein-Leben
+gdc,x3b4.0,55364,55627,der_oberrichter,55550,55556,seines,könig_nicolo
+gdc,x3b4.0,55364,55627,der_oberrichter,55570,55597,Verhängung der To desstrafe,Verhängung-der-Todesstrafe
+gdc,x3b4.0,55364,55627,der_oberrichter,55581,55587,der To,das-Todesurteil
+gdc,x3b4.0,55653,55661,_stage,55656,55660,Alma,
+gdc,x3b4.0,55633,55730,der_gerichtsaktuar,55677,55687,mein Junge,
+gdc,x3b4.0,55633,55730,der_gerichtsaktuar,55677,55681,mein,der_gerichtsaktuar
+gdc,x3b4.0,55735,56333,der_oberrichter,55806,55820,der Angeklagte,könig_nicolo
+gdc,x3b4.0,55735,56333,der_oberrichter,55860,55869,seine Tat,des-Verbrechens
+gdc,x3b4.0,55735,56333,der_oberrichter,55860,55865,seine,könig_nicolo
+gdc,x3b4.0,55735,56333,der_oberrichter,55899,55909,das Urteil,des-hohen-römischen-Rechtes-klüglich-gefällten-Urteils
+gdc,x3b4.0,55735,56333,der_oberrichter,55932,55934,er,könig_nicolo
+gdc,x3b4.0,55735,56333,der_oberrichter,55935,55965,seine zweijährige Kerkerstrafe,zweijähriger-Kerkerhaft
+gdc,x3b4.0,55735,56333,der_oberrichter,55935,55940,seine,könig_nicolo
+gdc,x3b4.0,55735,56333,der_oberrichter,56032,56042,des Königs,der_könig
+gdc,x3b4.0,55735,56333,der_oberrichter,56164,56177,Der Gefangene,könig_nicolo
+gdc,x3b4.0,55735,56333,der_oberrichter,56194,56198,Sich,der_oberrichter
+gdc,x3b4.0,55735,56333,der_oberrichter,56212,56224,den Richtern,die-Richter
+gdc,x3b4.0,55735,56333,der_oberrichter,56269,56272,ich,der_oberrichter
+gdc,x3b4.0,55735,56333,der_oberrichter,56273,56296,die heutige Verhandlung,zur-Verhandlung
+gdc,x3b4.0,56409,57449,könig_pietro,56503,56506,Ich,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,56912,56915,mir,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,56925,56928,ich,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,57002,57005,ich,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,57063,57066,Ich,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,57109,57113,mich,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,57119,57122,ich,könig_pietro
+gdc,x3b4.0,56409,57449,könig_pietro,57135,57141,meiner,könig_pietro
+gdc,x3b4.0,57454,57883,der_gefängniswärter,57616,57619,ich,der_gefängniswärter
+gdc,x3b4.0,57454,57883,der_gefängniswärter,57672,57676,mich,der_gefängniswärter
+gdc,x3b4.0,57454,57883,der_gefängniswärter,57710,57713,ich,der_gefängniswärter
+gdc,x3b4.0,57889,58545,der_gefängniswärter,58047,58050,ich,der_gefängniswärter
+gdc,x3b4.0,57889,58545,der_gefängniswärter,58100,58103,mir,der_gefängniswärter
+gdc,x3b4.0,58550,58585,könig_pietro,58562,58565,Ich,könig_pietro
+gdc,x3b4.0,58763,58901,der_gefängniswärter,58785,58788,Ich,der_gefängniswärter
+gdc,x3b4.0,59090,59211,könig_pietro,59140,59144,Mein,könig_pietro
+gdc,x3b4.0,59872,60128,der_gefängniswärter,59974,59977,mir,der_gefängniswärter
+gdc,x3b4.0,60134,61308,könig_pietro,60290,60293,ich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60294,60298,mich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60338,60341,ich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60437,60440,mir,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60498,60501,ich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60585,60588,ich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60644,60647,mir,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60685,60689,mich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60720,60724,mich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60752,60755,ich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60832,60835,ich,könig_pietro
+gdc,x3b4.0,60134,61308,könig_pietro,60925,60928,mir,könig_pietro
+gdc,x3b4.0,61313,61395,könig_pietro,61361,61365,Mein,könig_pietro
+gdc,x3b4.0,61400,61485,alma,61416,61419,ich,alma
+gdc,x3b4.0,61400,61485,alma,61448,61451,Ich,alma
+gdc,x3b4.0,61490,61792,könig_pietro,61641,61645,mein,könig_pietro
+gdc,x3b4.0,61490,61792,könig_pietro,61674,61677,ich,könig_pietro
+gdc,x3b4.0,61798,62003,alma,61862,61865,mir,alma
+gdc,x3b4.0,61798,62003,alma,61915,61919,mich,alma
+gdc,x3b4.0,61798,62003,alma,61959,61962,mir,alma
+gdc,x3b4.0,61798,62003,alma,61974,61977,ich,alma
+gdc,x3b4.0,62008,62286,könig_pietro,62031,62036,Meine,könig_pietro
+gdc,x3b4.0,62008,62286,könig_pietro,62071,62074,ich,könig_pietro
+gdc,x3b4.0,62008,62286,könig_pietro,62080,62083,ich,könig_pietro
+gdc,x3b4.0,62008,62286,könig_pietro,62084,62088,mein,könig_pietro
+gdc,x3b4.0,62008,62286,könig_pietro,62136,62141,meine,könig_pietro
+gdc,x3b4.0,62008,62286,könig_pietro,62164,62167,ich,könig_pietro
+gdc,x3b4.0,62008,62286,könig_pietro,62188,62191,ich,könig_pietro
+gdc,x3b4.0,62291,62540,alma,62307,62310,mir,alma
+gdc,x3b4.0,62291,62540,alma,62320,62324,mein,alma
+gdc,x3b4.0,62291,62540,alma,62357,62360,mir,alma
+gdc,x3b4.0,62291,62540,alma,62367,62370,Ich,alma
+gdc,x3b4.0,62291,62540,alma,62424,62427,mir,alma
+gdc,x3b4.0,62291,62540,alma,62437,62440,ich,alma
+gdc,x3b4.0,62545,63237,könig_pietro,62604,62608,mein,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,62621,62624,mir,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,62744,62747,ich,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,62875,62878,ich,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,62931,62934,ich,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,63017,63020,ich,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,63072,63076,mich,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,63133,63138,meine,könig_pietro
+gdc,x3b4.0,62545,63237,könig_pietro,63192,63196,mich,könig_pietro
+gdc,x3b4.0,63242,63317,alma,63277,63280,ich,alma
+gdc,x3b4.0,63322,64189,könig_pietro,63434,63440,meiner,könig_pietro
+gdc,x3b4.0,63322,64189,könig_pietro,63550,63553,mir,könig_pietro
+gdc,x3b4.0,63322,64189,könig_pietro,63738,63742,mein,könig_pietro
+gdc,x3b4.0,63322,64189,könig_pietro,63774,63777,mir,könig_pietro
+gdc,x3b4.0,63322,64189,könig_pietro,64046,64049,mir,könig_pietro
+gdc,x3b4.0,64194,64297,alma,64217,64220,mir,alma
+gdc,x3b4.0,64194,64297,alma,64222,64226,mein,alma
+gdc,x3b4.0,64194,64297,alma,64256,64259,ich,alma
+gdc,x3b4.0,64194,64297,alma,64276,64279,ich,alma
+gdc,x3b4.0,64302,65118,könig_pietro,64353,64356,Ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64395,64398,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64438,64441,mir,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64442,64446,mein,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64499,64502,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64515,64518,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64546,64550,mich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64639,64642,mir,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64660,64663,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64703,64706,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64755,64758,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64939,64944,meine,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,64978,64982,mich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,65031,65034,ich,könig_pietro
+gdc,x3b4.0,64302,65118,könig_pietro,65066,65069,ich,könig_pietro
+gdc,x3b4.0,65123,65227,alma,65181,65185,mich,alma
+gdc,x3b4.0,65232,65614,könig_pietro,65261,65264,Ich,könig_pietro
+gdc,x3b4.0,65232,65614,könig_pietro,65451,65454,ich,könig_pietro
+gdc,x3b4.0,65232,65614,könig_pietro,65466,65469,mir,könig_pietro
+gdc,x3b4.0,65232,65614,könig_pietro,65511,65515,mich,könig_pietro
+gdc,x3b4.0,65232,65614,könig_pietro,65516,65522,meinem,könig_pietro
+gdc,x3b4.0,65232,65614,könig_pietro,65570,65573,ich,könig_pietro
+gdc,x3b4.0,65232,65614,könig_pietro,65574,65578,mich,könig_pietro
+gdc,x3b4.0,65619,65756,alma,65660,65663,ich,alma
+gdc,x3b4.0,65761,65804,könig_pietro,65795,65798,ich,könig_pietro
+gdc,x3b4.0,66037,66215,könig_pietro,66058,66061,Ich,könig_pietro
+gdc,x3b4.0,66037,66215,könig_pietro,66067,66071,mein,könig_pietro
+gdc,x3b4.0,66037,66215,könig_pietro,66117,66120,ich,könig_pietro
+gdc,x3b4.0,66037,66215,könig_pietro,66126,66129,mir,könig_pietro
+gdc,x3b4.0,66037,66215,könig_pietro,66180,66184,mein,könig_pietro
+gdc,x3b4.0,66220,66256,alma,66245,66249,mein,alma
+gdc,x3b4.0,66261,66526,könig_pietro,66338,66344,meiner,könig_pietro
+gdc,x3b4.0,66261,66526,könig_pietro,66389,66395,meinem,könig_pietro
+gdc,x3b4.0,66261,66526,könig_pietro,66425,66428,mir,könig_pietro
+gdc,x3b4.0,66261,66526,könig_pietro,66450,66454,mein,könig_pietro
+gdc,x3b4.0,66261,66526,könig_pietro,66499,66502,ich,könig_pietro
+gdc,x3b4.0,66531,66606,alma,66538,66541,Ich,alma
+gdc,x3b4.0,66531,66606,alma,66564,66567,mir,alma
+gdc,x3b4.0,66531,66606,alma,66573,66576,ich,alma
+gdc,x3b4.0,66611,67402,könig_pietro,66659,66662,ich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,66764,66768,mich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,66818,66822,mein,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,66904,66908,Mein,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,66951,66954,mir,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,66991,66994,ich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,66995,66999,mich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,67037,67040,ich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,67083,67087,mich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,67151,67154,ich,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,67240,67244,mein,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,67295,67298,mir,könig_pietro
+gdc,x3b4.0,66611,67402,könig_pietro,67333,67336,mir,könig_pietro
+gdc,x3b4.0,67491,67683,könig_pietro,67588,67591,Ich,könig_pietro
+gdc,x3b4.0,68364,68496,der_kunstreiter,68382,68385,Mir,der_kunstreiter
+gdc,x3b4.0,68501,68659,könig_pietro,68552,68556,Mein,könig_pietro
+gdc,x3b4.0,68501,68659,könig_pietro,68646,68649,mir,könig_pietro
+gdc,x3b4.0,68664,69168,der_kunstreiter,68803,68806,mir,der_kunstreiter
+gdc,x3b4.0,68664,69168,der_kunstreiter,68947,68950,mir,der_kunstreiter
+gdc,x3b4.0,68664,69168,der_kunstreiter,68993,68996,mir,der_kunstreiter
+gdc,x3b4.0,68664,69168,der_kunstreiter,69079,69082,ich,der_kunstreiter
+gdc,x3b4.0,69173,69333,könig_pietro,69191,69195,mich,könig_pietro
+gdc,x3b4.0,69173,69333,könig_pietro,69250,69256,meinem,könig_pietro
+gdc,x3b4.0,69338,70086,der_kunstreiter,69776,69781,meine,der_kunstreiter
+gdc,x3b4.0,69338,70086,der_kunstreiter,69859,69862,ich,der_kunstreiter
+gdc,x3b4.0,69338,70086,der_kunstreiter,69931,69934,ich,der_kunstreiter
+gdc,x3b4.0,69338,70086,der_kunstreiter,69973,69976,ich,der_kunstreiter
+gdc,x3b4.0,70091,70182,könig_pietro,70107,70110,mir,könig_pietro
+gdc,x3b4.0,70187,70519,der_kunstreiter,70415,70418,mir,der_kunstreiter
+gdc,x3b4.0,70187,70519,der_kunstreiter,70447,70450,mir,der_kunstreiter
+gdc,x3b4.0,70603,70941,der_kunstreiter,70658,70661,ich,der_kunstreiter
+gdc,x3b4.0,70603,70941,der_kunstreiter,70713,70716,ich,der_kunstreiter
+gdc,x3b4.0,70603,70941,der_kunstreiter,70717,70721,mich,der_kunstreiter
+gdc,x3b4.0,70603,70941,der_kunstreiter,70757,70760,ich,der_kunstreiter
+gdc,x3b4.0,70603,70941,der_kunstreiter,70826,70830,mein,der_kunstreiter
+gdc,x3b4.0,70603,70941,der_kunstreiter,70928,70931,mir,der_kunstreiter
+gdc,x3b4.0,71831,71996,der_erste_theaterbesitzer,71903,71906,mir,der_erste_theaterbesitzer
+gdc,x3b4.0,71831,71996,der_erste_theaterbesitzer,71929,71933,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,72001,72061,der_schauspieler,72020,72023,Ich,der_schauspieler
+gdc,x3b4.0,72066,72227,der_erste_theaterbesitzer,72182,72186,Mein,der_erste_theaterbesitzer
+gdc,x3b4.0,72232,72300,der_schauspieler,72251,72254,Ich,der_schauspieler
+gdc,x3b4.0,72232,72300,der_schauspieler,72279,72285,meiner,der_schauspieler
+gdc,x3b4.0,72305,72594,der_erste_theaterbesitzer,72348,72354,meinen,der_erste_theaterbesitzer
+gdc,x3b4.0,73572,73723,die_kupplerin,73632,73635,mir,die_kupplerin
+gdc,x3b4.0,73572,73723,die_kupplerin,73709,73715,meiner,die_kupplerin
+gdc,x3b4.0,73728,73954,könig_pietro,73755,73758,mir,könig_pietro
+gdc,x3b4.0,73728,73954,könig_pietro,73808,73811,mir,könig_pietro
+gdc,x3b4.0,73728,73954,könig_pietro,73821,73827,meinen,könig_pietro
+gdc,x3b4.0,73728,73954,könig_pietro,73860,73863,ich,könig_pietro
+gdc,x3b4.0,73959,74869,die_kupplerin,73980,73984,mich,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74028,74031,ich,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74111,74114,mir,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74217,74221,mein,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74241,74244,Ich,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74499,74502,mir,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74616,74619,mir,die_kupplerin
+gdc,x3b4.0,73959,74869,die_kupplerin,74854,74857,mir,die_kupplerin
+gdc,x3b4.0,75603,76029,die_kupplerin,75638,75642,mein,die_kupplerin
+gdc,x3b4.0,75603,76029,die_kupplerin,75744,75748,mein,die_kupplerin
+gdc,x3b4.0,75603,76029,die_kupplerin,75860,75863,mir,die_kupplerin
+gdc,x3b4.0,75603,76029,die_kupplerin,75958,75964,meiner,die_kupplerin
+gdc,x3b4.0,76034,76244,alma,76089,76092,Ich,alma
+gdc,x3b4.0,76034,76244,alma,76189,76193,mein,alma
+gdc,x3b4.0,76249,76841,könig_pietro,76261,76264,Ich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76274,76278,mein,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76427,76430,Ich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76520,76523,ich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76564,76567,ich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76627,76631,mich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76658,76662,mein,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76699,76702,ich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76785,76791,meiner,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76817,76820,ich,könig_pietro
+gdc,x3b4.0,76249,76841,könig_pietro,76822,76826,mein,könig_pietro
+gdc,x3b4.0,76982,77091,könig_pietro,77037,77041,Mein,könig_pietro
+gdc,x3b4.0,77146,77324,könig_pietro,77198,77201,ich,könig_pietro
+gdc,x3b4.0,77146,77324,könig_pietro,77227,77230,mir,könig_pietro
+gdc,x3b4.0,77146,77324,könig_pietro,77264,77267,ich,könig_pietro
+gdc,x3b4.0,77146,77324,könig_pietro,77292,77298,meiner,könig_pietro
+gdc,x3b4.0,77491,77694,der_erste_theaterbesitzer,77573,77577,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,77699,77978,könig_pietro,77740,77743,ich,könig_pietro
+gdc,x3b4.0,77699,77978,könig_pietro,77761,77766,meine,könig_pietro
+gdc,x3b4.0,77699,77978,könig_pietro,77790,77796,meinen,könig_pietro
+gdc,x3b4.0,77699,77978,könig_pietro,77868,77871,mir,könig_pietro
+gdc,x3b4.0,77699,77978,könig_pietro,77934,77940,meinem,könig_pietro
+gdc,x3b4.0,78150,78517,der_erste_theaterbesitzer,78429,78433,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,78150,78517,der_erste_theaterbesitzer,78440,78443,Mir,der_erste_theaterbesitzer
+gdc,x3b4.0,78150,78517,der_erste_theaterbesitzer,78475,78479,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,78522,79143,könig_pietro,78605,78608,Ich,könig_pietro
+gdc,x3b4.0,78522,79143,könig_pietro,78700,78705,meine,könig_pietro
+gdc,x3b4.0,78522,79143,könig_pietro,78726,78732,meinem,könig_pietro
+gdc,x3b4.0,78522,79143,könig_pietro,78756,78759,mir,könig_pietro
+gdc,x3b4.0,78522,79143,könig_pietro,78773,78778,meine,könig_pietro
+gdc,x3b4.0,78522,79143,könig_pietro,78788,78792,Mein,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79346,79349,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79421,79425,mich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79455,79458,ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79468,79472,mein,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79513,79516,mir,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79574,79577,ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79808,79811,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79862,79865,mir,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79899,79902,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79953,79958,meine,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,79996,79999,mir,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80070,80073,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80379,80382,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80467,80470,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80531,80534,ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80536,80541,meine,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80577,80580,ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80713,80716,mir,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80864,80867,mir,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80882,80885,Ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,80985,80988,ich,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,81266,81271,meine,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,81326,81329,mir,könig_pietro
+gdc,x3b4.0,79323,81353,könig_pietro,81343,81347,mein,könig_pietro
+gdc,x3b4.0,81358,81496,der_erste_theaterbesitzer,81392,81395,Ich,der_erste_theaterbesitzer
+gdc,x3b4.0,81501,81744,der_zweite_theaterbesitzer,81624,81627,Ich,der_zweite_theaterbesitzer
+gdc,x3b4.0,81749,81917,könig_pietro,81866,81869,ich,könig_pietro
+gdc,x3b4.0,81749,81917,könig_pietro,81870,81874,mich,könig_pietro
+gdc,x3b4.0,81922,82306,der_erste_theaterbesitzer,82099,82102,mir,der_erste_theaterbesitzer
+gdc,x3b4.0,81922,82306,der_erste_theaterbesitzer,82104,82108,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,81922,82306,der_erste_theaterbesitzer,82124,82127,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,81922,82306,der_erste_theaterbesitzer,82146,82149,Ich,der_erste_theaterbesitzer
+gdc,x3b4.0,82440,82579,könig_pietro,82528,82531,ich,könig_pietro
+gdc,x3b4.0,82440,82579,könig_pietro,82532,82536,mich,könig_pietro
+gdc,x3b4.0,82584,82777,der_zweite_theaterbesitzer,82663,82666,Ich,der_zweite_theaterbesitzer
+gdc,x3b4.0,82584,82777,der_zweite_theaterbesitzer,82672,82678,meinen,der_zweite_theaterbesitzer
+gdc,x3b4.0,82782,82906,der_erste_theaterbesitzer,82848,82851,Ich,der_erste_theaterbesitzer
+gdc,x3b4.0,82782,82906,der_erste_theaterbesitzer,82880,82884,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,82911,83000,der_zweite_theaterbesitzer,82940,82943,Ich,der_zweite_theaterbesitzer
+gdc,x3b4.0,83005,83139,der_erste_theaterbesitzer,83075,83080,meine,der_erste_theaterbesitzer
+gdc,x3b4.0,83005,83139,der_erste_theaterbesitzer,83134,83138,mich,der_erste_theaterbesitzer
+gdc,x3b4.0,83144,83238,könig_pietro,83202,83208,meinen,könig_pietro
+gdc,x3b4.0,83309,83359,alma,83316,83319,Ich,alma
+gdc,x3b4.0,83364,83436,der_erste_theaterbesitzer,83407,83411,mich,der_erste_theaterbesitzer
+gdc,x3b4.0,83441,83906,alma,83581,83584,ich,alma
+gdc,x3b4.0,83912,84203,der_erste_theaterbesitzer,83962,83965,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,83912,84203,der_erste_theaterbesitzer,84072,84077,meine,der_erste_theaterbesitzer
+gdc,x3b4.0,84208,84330,könig_pietro,84257,84263,meinen,könig_pietro
+gdc,x3b4.0,84208,84330,könig_pietro,84283,84286,ich,könig_pietro
+gdc,x3b4.0,84335,84421,der_erste_theaterbesitzer,84402,84406,mein,der_erste_theaterbesitzer
+gdc,x3b4.0,84426,84458,könig_pietro,84438,84441,Ich,könig_pietro
+gdc,x3b4.0,84463,84707,der_erste_theaterbesitzer,84491,84494,Ich,der_erste_theaterbesitzer
+gdc,x3b4.0,84463,84707,der_erste_theaterbesitzer,84609,84615,meiner,der_erste_theaterbesitzer
+gdc,x3b4.0,84463,84707,der_erste_theaterbesitzer,84663,84668,meine,der_erste_theaterbesitzer
+gdc,x3b4.0,85716,85849,könig_pietro,85803,85807,mein,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86232,86235,mir,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86266,86269,ich,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86274,86280,meinen,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86353,86357,mich,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86426,86432,meinen,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86459,86462,ich,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86463,86466,mir,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86499,86504,meine,könig_pietro
+gdc,x3b4.0,86193,86763,könig_pietro,86581,86584,ich,könig_pietro
+gdc,x3b4.0,86768,86993,alma,86853,86856,Mir,alma
+gdc,x3b4.0,86998,87165,könig_pietro,87044,87048,mich,könig_pietro
+gdc,x3b4.0,86998,87165,könig_pietro,87050,87054,mein,könig_pietro
+gdc,x3b4.0,87251,87853,ein_edelknabe,87378,87382,Mich,ein_edelknabe
+gdc,x3b4.0,87251,87853,ein_edelknabe,87390,87395,meine,ein_edelknabe
+gdc,x3b4.0,87251,87853,ein_edelknabe,87506,87511,Meine,ein_edelknabe
+gdc,x3b4.0,87251,87853,ein_edelknabe,87662,87667,Meine,ein_edelknabe
+gdc,x3b4.0,87251,87853,ein_edelknabe,87686,87690,mich,ein_edelknabe
+gdc,x3b4.0,87859,88181,könig_pietro,88141,88147,meiner,könig_pietro
+gdc,x3b4.0,88186,88340,könig_pietro,88252,88256,mein,könig_pietro
+gdc,x3b4.0,88345,88506,alma,88356,88360,mein,alma
+gdc,x3b4.0,88345,88506,alma,88383,88387,Mein,alma
+gdc,x3b4.0,88345,88506,alma,88421,88424,ich,alma
+gdc,x3b4.0,88345,88506,alma,88425,88429,mich,alma
+gdc,x3b4.0,88345,88506,alma,88468,88474,meinen,alma
+gdc,x3b4.0,88511,89118,könig_pietro,88562,88565,ich,könig_pietro
+gdc,x3b4.0,88511,89118,könig_pietro,88984,88988,mich,könig_pietro
+gdc,x3b4.0,88511,89118,könig_pietro,88990,88993,Ich,könig_pietro
+gdc,x3b4.0,88511,89118,könig_pietro,89025,89029,mich,könig_pietro
+gdc,x3b4.0,89123,89375,alma,89137,89141,mich,alma
+gdc,x3b4.0,89123,89375,alma,89211,89214,ich,alma
+gdc,x3b4.0,89123,89375,alma,89237,89241,mein,alma
+gdc,x3b4.0,89123,89375,alma,89258,89261,mir,alma
+gdc,x3b4.0,89123,89375,alma,89337,89340,ich,alma
+gdc,x3b4.0,89123,89375,alma,89341,89346,meine,alma
+gdc,x3b4.0,89380,89698,könig_pietro,89445,89448,ich,könig_pietro
+gdc,x3b4.0,89703,90648,der_erste_theaterbesitzer,89842,89845,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,89703,90648,der_erste_theaterbesitzer,90070,90073,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,89703,90648,der_erste_theaterbesitzer,90318,90324,meines,der_erste_theaterbesitzer
+gdc,x3b4.0,89703,90648,der_erste_theaterbesitzer,90435,90438,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,90653,91055,könig_pietro,90687,90690,Ich,könig_pietro
+gdc,x3b4.0,90653,91055,könig_pietro,90697,90701,mich,könig_pietro
+gdc,x3b4.0,90653,91055,könig_pietro,90710,90713,ich,könig_pietro
+gdc,x3b4.0,90653,91055,könig_pietro,90780,90785,meine,könig_pietro
+gdc,x3b4.0,91060,91908,der_erste_theaterbesitzer,91389,91392,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,91060,91908,der_erste_theaterbesitzer,91402,91405,ich,der_erste_theaterbesitzer
+gdc,x3b4.0,91913,92507,könig_pietro,91950,91954,mein,könig_pietro
+gdc,x3b4.0,91913,92507,könig_pietro,92001,92004,ich,könig_pietro
+gdc,x3b4.0,91913,92507,könig_pietro,92119,92122,ich,könig_pietro
+gdc,x3b4.0,91913,92507,könig_pietro,92267,92273,meinem,könig_pietro
+gdc,x3b4.0,91913,92507,könig_pietro,92335,92338,mir,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,92678,92681,mir,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,92838,92841,mir,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,93208,93211,ich,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,93252,93255,ich,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,93308,93311,mir,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,93340,93343,ich,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,93422,93426,Mein,könig_pietro
+gdc,x3b4.0,92657,93593,könig_pietro,93435,93439,Mein,könig_pietro
+gdc,x3b4.0,93599,93707,alma,93641,93645,mein,alma
+gdc,x3b4.0,93599,93707,alma,93678,93681,ich,alma
+gdc,x3b4.0,93712,93904,könig_pietro,93766,93769,ich,könig_pietro
+gdc,x3b4.0,93999,94067,könig_pietro,94036,94039,Ich,könig_pietro
+gdc,x3b4.0,93999,94067,könig_pietro,94046,94050,mich,könig_pietro
+gdc,x3b4.0,94072,94816,alma,94195,94198,Ich,alma
+gdc,x3b4.0,94072,94816,alma,94305,94308,ich,alma
+gdc,x3b4.0,94072,94816,alma,94396,94399,Ich,alma
+gdc,x3b4.0,94072,94816,alma,94496,94499,mir,alma
+gdc,x3b4.0,94072,94816,alma,94628,94631,mir,alma
+gdc,x3b4.0,94072,94816,alma,94674,94677,ich,alma
+gdc,x3b4.0,94072,94816,alma,94714,94719,meine,alma
+gdc,x3b4.0,94072,94816,alma,94790,94793,ich,alma
+gdc,x3b4.0,94822,94887,könig_pietro,94845,94848,Ich,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,94995,94999,Mein,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95030,95034,mein,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95056,95059,ich,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95097,95100,ich,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95138,95141,ich,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95203,95209,meines,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95246,95250,mein,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95278,95281,ich,könig_pietro
+gdc,x3b4.0,94983,95447,könig_pietro,95416,95422,meines,könig_pietro
+gdc,x3b4.0,95453,95890,alma,95596,95600,Mich,alma
+gdc,x3b4.0,95453,95890,alma,95622,95625,ich,alma
+gdc,x3b4.0,95453,95890,alma,95650,95653,ich,alma
+gdc,x3b4.0,95453,95890,alma,95667,95671,mein,alma
+gdc,x3b4.0,95453,95890,alma,95702,95705,ich,alma
+gdc,x3b4.0,95453,95890,alma,95755,95758,ich,alma
+gdc,x3b4.0,95895,96045,könig_pietro,95948,95951,ich,könig_pietro
+gdc,x3b4.0,95895,96045,könig_pietro,95958,95962,Mein,könig_pietro
+gdc,x3b4.0,95895,96045,könig_pietro,95980,95986,meinen,könig_pietro
+gdc,x3b4.0,95895,96045,könig_pietro,96008,96014,meines,könig_pietro
+gdc,x3b4.0,96268,96575,könig_pietro,96313,96317,mich,könig_pietro
+gdc,x3b4.0,96268,96575,könig_pietro,96349,96352,ich,könig_pietro
+gdc,x3b4.0,96268,96575,könig_pietro,96369,96373,mich,könig_pietro
+gdc,x3b4.0,96268,96575,könig_pietro,96410,96413,ich,könig_pietro
+gdc,x3b4.0,96268,96575,könig_pietro,96464,96468,mich,könig_pietro
+gdc,x3b4.0,96268,96575,könig_pietro,96491,96495,mich,könig_pietro
+gdc,x3b4.0,96581,97468,alma,96616,96619,Ich,alma
+gdc,x3b4.0,96581,97468,alma,96719,96723,mich,alma
+gdc,x3b4.0,96581,97468,alma,96746,96749,ich,alma
+gdc,x3b4.0,97474,97580,könig_pietro,97498,97501,ich,könig_pietro
+gdc,x3b4.0,97474,97580,könig_pietro,97543,97547,mein,könig_pietro
+gdc,x3b4.0,97586,97876,alma,97619,97622,ich,alma
+gdc,x3b4.0,97586,97876,alma,97628,97631,mir,alma
+gdc,x3b4.0,97586,97876,alma,97680,97684,mich,alma
+gdc,x3b4.0,97882,97995,könig_pietro,97909,97915,meinem,könig_pietro
+gdc,x3b4.0,97882,97995,könig_pietro,97950,97953,ich,könig_pietro
+gdc,x3b4.0,98001,98341,alma,98058,98061,ich,alma
+gdc,x3b4.0,98001,98341,alma,98092,98096,mein,alma
+gdc,x3b4.0,98001,98341,alma,98196,98199,mir,alma
+gdc,x3b4.0,98650,99561,alma,98675,98678,Ich,alma
+gdc,x3b4.0,98650,99561,alma,98720,98723,ich,alma
+gdc,x3b4.0,98650,99561,alma,98740,98744,mein,alma
+gdc,x3b4.0,98650,99561,alma,98870,98873,ich,alma
+gdc,x3b4.0,98650,99561,alma,98980,98983,Mir,alma
+gdc,x3b4.0,99567,99871,könig_pietro,99651,99655,mein,könig_pietro
+gdc,x3b4.0,99567,99871,könig_pietro,99702,99706,mich,könig_pietro
+gdc,x3b4.0,99567,99871,könig_pietro,99748,99751,ich,könig_pietro
+gdc,x3b4.0,99876,99980,prinz_filipo,99960,99964,mein,prinz_filipo
+gdc,x3b4.0,99985,100094,könig_pietro,100000,100003,Ich,könig_pietro
+gdc,x3b4.0,99985,100094,könig_pietro,100049,100053,mein,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100111,100115,Mein,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100164,100168,Mich,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100189,100194,meine,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100225,100228,ich,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100309,100315,meinem,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100420,100424,mein,könig_pietro
+gdc,x3b4.0,100099,100578,könig_pietro,100499,100502,ich,könig_pietro
+gdc,x3b4.0,100584,100824,könig_pietro,100621,100624,ich,könig_pietro
+gdc,x3b4.0,100584,100824,könig_pietro,100741,100744,mir,könig_pietro
+gdc,x3b4.0,100584,100824,könig_pietro,100751,100755,mein,könig_pietro
+gdc,x3b4.0,100584,100824,könig_pietro,100781,100786,meine,könig_pietro
+gdc,x3b4.0,100829,101688,alma,100881,100885,mein,alma
+gdc,x3b4.0,100829,101688,alma,100911,100914,ich,alma
+gdc,x3b4.0,100829,101688,alma,100953,100956,ich,alma
+gdc,x3b4.0,100829,101688,alma,101001,101007,meiner,alma
+gdc,x3b4.0,100829,101688,alma,101046,101049,mir,alma
+gdc,x3b4.0,100829,101688,alma,101139,101142,ich,alma
+gdc,x3b4.0,100829,101688,alma,101150,101153,mir,alma
+gdc,x3b4.0,100829,101688,alma,101210,101213,ich,alma
+gdc,x3b4.0,100829,101688,alma,101260,101263,ich,alma
+gdc,x3b4.0,101693,101896,könig_pietro,101733,101738,meine,könig_pietro
+gdc,x3b4.0,101901,102081,alma,101996,102000,mein,alma
+gdc,x3b4.0,101901,102081,alma,102042,102045,ich,alma
+gdc,x3b4.0,101901,102081,alma,102072,102075,mir,alma
+gdc,x3b4.0,102087,102146,der_zuschauer,102111,102114,ich,der_zuschauer
+gdc,x3b4.0,102151,102557,könig_pietro,102234,102239,meine,könig_pietro
+gdc,x3b4.0,102151,102557,könig_pietro,102309,102312,ich,könig_pietro
+gdc,x3b4.0,102151,102557,könig_pietro,102324,102327,mir,könig_pietro
+gdc,x3b4.0,102562,103180,könig_pietro,103131,103137,meinen,könig_pietro
+gdc,x3b4.0,102562,103180,könig_pietro,103166,103170,mich,könig_pietro
+gdc,x3b4.0,103186,103262,alma,103244,103247,Ich,alma
+gdc,x3b4.0,103267,103309,könig_pietro,103278,103281,Ich,könig_pietro
+gdc,x3b4.0,103267,103309,könig_pietro,103305,103308,ich,könig_pietro
+gdc,x3b4.0,103469,103527,könig_pietro,103480,103483,Ich,könig_pietro
+gdc,x3b4.0,103685,103786,könig_pietro,103746,103749,mir,könig_pietro
+gdc,x3b4.0,103685,103786,könig_pietro,103759,103762,Ich,könig_pietro
+gdc,x3b4.0,103932,104064,könig_pietro,104008,104011,ich,könig_pietro
+gdc,x3b4.0,103932,104064,könig_pietro,104012,104015,mir,könig_pietro
+gdc,x3b4.0,103932,104064,könig_pietro,104059,104063,mich,könig_pietro
+gdc,x3b4.0,104181,104213,könig_pietro,104201,104204,ich,könig_pietro
+gdc,x3b4.0,104239,104282,könig_pietro,104267,104270,Mir,könig_pietro
+gdc,x3b4.0,104455,104552,alma,104500,104503,ich,alma
+gdc,x3b4.0,104603,104674,alma,104646,104649,mir,alma
+gdc,x3b4.0,104680,104781,könig_pietro,104726,104731,meine,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,104967,104970,mir,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,104996,104999,Ich,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105053,105056,ich,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105057,105061,mich,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105088,105092,Mein,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105112,105115,ich,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105149,105154,meine,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105225,105229,Mein,könig_pietro
+gdc,x3b4.0,104880,105321,könig_pietro,105296,105302,meinem,könig_pietro
+gdc,x3b4.0,105534,105815,alma,105734,105737,ich,alma
+gdc,x3b4.0,105821,105927,könig_pietro,105832,105835,Ich,könig_pietro
+gdc,x3b4.0,105821,105927,könig_pietro,105892,105895,Ich,könig_pietro
+gdc,x3b4.0,105933,106049,alma,105980,105986,meinem,alma
+gdc,x3b4.0,106055,106579,könig_pietro,106123,106126,ich,könig_pietro
+gdc,x3b4.0,106055,106579,könig_pietro,106180,106183,ich,könig_pietro
+gdc,x3b4.0,106585,106837,alma,106650,106654,mein,alma
+gdc,x3b4.0,106585,106837,alma,106709,106712,Ich,alma
+gdc,x3b4.0,106843,106967,könig_pietro,106931,106934,mir,könig_pietro
+gdc,x3b4.0,107115,107239,könig_pietro,107139,107142,ich,könig_pietro
+gdc,x3b4.0,107115,107239,könig_pietro,107170,107175,meine,könig_pietro
+gdc,x3b4.0,107115,107239,könig_pietro,107231,107234,mir,könig_pietro
+gdc,x3b4.0,107244,107324,könig_pietro,107269,107272,ich,könig_pietro
+gdc,x3b4.0,107330,107647,könig_pietro,107391,107395,mein,könig_pietro
+gdc,x3b4.0,107330,107647,könig_pietro,107510,107516,meines,könig_pietro
+gdc,x3b4.0,107330,107647,könig_pietro,107556,107560,mich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,107667,107670,Ich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,107792,107797,meine,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,107810,107814,mich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,107824,107827,mir,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,107858,107861,ich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,107975,107978,ich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108010,108013,ich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108214,108220,meines,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108272,108275,mir,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108307,108310,mir,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108370,108374,mich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108379,108383,mein,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108524,108530,meinem,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108548,108551,Ich,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108568,108574,meinem,könig_pietro
+gdc,x3b4.0,107652,108624,könig_pietro,108594,108597,mir,könig_pietro
+gdc,x3b4.0,109162,109398,könig_pietro,109206,109209,ich,könig_pietro
+gdc,x3b4.0,109403,109623,könig_pietro,109426,109430,mein,könig_pietro
+gdc,x3b4.0,109403,109623,könig_pietro,109493,109496,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110132,110135,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110147,110153,meines,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110201,110205,mich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110230,110235,meine,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110324,110330,meiner,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110340,110343,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110364,110367,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110419,110422,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110473,110476,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110496,110499,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110637,110640,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110695,110701,meinem,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110722,110725,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110726,110729,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110767,110770,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110786,110789,Mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110835,110838,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110856,110859,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,110991,110994,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111083,111087,mein,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111116,111120,mich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111462,111465,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111590,111596,meinem,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111716,111719,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111752,111756,mich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111862,111866,mein,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111893,111896,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111914,111917,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,111946,111949,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112016,112022,meiner,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112046,112049,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112050,112053,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112144,112147,mir,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112163,112167,mich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112181,112184,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112195,112198,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112209,112212,Ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112245,112248,ich,könig_pietro
+gdc,x3b4.0,110030,112361,könig_pietro,112249,112253,mich,könig_pietro
+gdc,x3b4.0,112366,112626,könig_pietro,112381,112384,Ich,könig_pietro
+gdc,x3b4.0,112366,112626,könig_pietro,112495,112498,ich,könig_pietro
+gdc,x3b4.0,112631,112814,prinz_filipo,112661,112665,mein,prinz_filipo
+gdc,x3b4.0,112631,112814,prinz_filipo,112687,112690,ich,prinz_filipo
+gdc,x3b4.0,112631,112814,prinz_filipo,112738,112741,ich,prinz_filipo
+gdc,x3b4.0,112819,112939,könig_pietro,112860,112866,meines,könig_pietro
+gdc,x3b4.0,112944,113019,prinz_filipo,112963,112967,mich,prinz_filipo
+gdc,x3b4.0,112944,113019,prinz_filipo,112999,113003,mein,prinz_filipo
+gdc,x3b4.0,113024,114436,könig_pietro,113243,113246,ich,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,113902,113905,ich,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,113972,113976,mein,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,114084,114087,ich,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,114088,114091,mir,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,114222,114225,mir,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,114314,114317,mir,könig_pietro
+gdc,x3b4.0,113024,114436,könig_pietro,114376,114379,ich,könig_pietro
+gdc,x3b4.0,114441,114500,könig_pietro,114479,114483,mein,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114575,114579,mich,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114612,114615,ich,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114616,114620,mich,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114814,114817,ich,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114909,114912,Ich,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114973,114976,mir,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,114981,114987,meinem,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,115030,115033,ich,könig_pietro
+gdc,x3b4.0,114505,115169,könig_pietro,115155,115158,mir,könig_pietro
+gdc,x3b4.0,115174,115343,könig_pietro,115186,115190,Mein,könig_pietro
+gdc,x3b4.0,115174,115343,könig_pietro,115221,115224,mir,könig_pietro
+gdc,x3b4.0,115174,115343,könig_pietro,115272,115275,mir,könig_pietro
+gdc,x3b4.0,115348,115475,könig_pietro,115372,115375,ich,könig_pietro
+gdc,x3b4.0,115574,115630,könig_pietro,115586,115589,Ich,könig_pietro
+gdc,x3b4.0,115692,115757,könig_pietro,115720,115724,mein,könig_pietro
+gdc,x3b4.0,115692,115757,könig_pietro,115734,115737,mir,könig_pietro
+gdc,x3b4.0,115762,116251,könig_pietro,115795,115798,Ich,könig_pietro
+gdc,x3b4.0,115762,116251,könig_pietro,115902,115908,meinem,könig_pietro
+gdc,x3b4.0,115762,116251,könig_pietro,115944,115948,mich,könig_pietro
+gdc,x3b4.0,115762,116251,könig_pietro,116116,116122,meiner,könig_pietro
+gdc,x3b4.0,115762,116251,könig_pietro,116145,116149,mich,könig_pietro
+gdc,x3b4.0,115762,116251,könig_pietro,116199,116202,ich,könig_pietro
+gdc,x3b4.0,116256,116328,könig_pietro,116268,116271,Ich,könig_pietro
+gdc,x3b4.0,116256,116328,könig_pietro,116291,116294,ich,könig_pietro
+gdc,x3b4.0,116372,116614,könig_pietro,116384,116387,Ich,könig_pietro
+gdc,x3b4.0,116372,116614,könig_pietro,116487,116490,ich,könig_pietro
+gdc,x3b4.0,116372,116614,könig_pietro,116526,116529,Ich,könig_pietro
+gdc,x3b4.0,116372,116614,könig_pietro,116570,116576,meinen,könig_pietro
+gdc,x3b4.0,116372,116614,könig_pietro,116602,116608,meinen,könig_pietro
+gdc,x3b4.0,116619,116674,könig_pietro,116662,116667,meine,könig_pietro
+gdc,x3b4.0,116679,116992,könig_pietro,116711,116715,mein,könig_pietro
+gdc,x3b4.0,116679,116992,könig_pietro,116783,116786,ich,könig_pietro
+gdc,x3b4.0,117115,117237,könig_pietro,117167,117170,ich,könig_pietro
+gdc,x3b4.0,117115,117237,könig_pietro,117181,117184,ich,könig_pietro
+gdc,x3b4.0,117329,117479,könig_pietro,117382,117386,mich,könig_pietro
+gdc,x3b4.0,117329,117479,könig_pietro,117438,117453,der Todesstrafe,das-Todesurteil
+gdc,x3b4.0,117484,117566,könig_pietro,117499,117502,Ich,könig_pietro
+gdc,x3b4.0,117484,117566,könig_pietro,117508,117512,mich,könig_pietro
+gdc,x3b4.0,117484,117566,könig_pietro,117551,117554,ich,könig_pietro
+gdc,x3b4.0,117571,117649,könig_pietro,117645,117648,ich,könig_pietro
+gdc,x3b4.0,117849,117903,könig_pietro,117861,117864,Ich,könig_pietro
+gdc,x3b4.0,117849,117903,könig_pietro,117870,117873,ich,könig_pietro
+gdc,x3b4.0,117908,118054,könig_pietro,117945,117948,Ich,könig_pietro
+gdc,x3b4.0,118059,118114,könig_pietro,118071,118074,Ich,könig_pietro
+gdc,x3b4.0,118059,118114,könig_pietro,118093,118096,Ich,könig_pietro
+gdc,x3b4.0,118284,118530,könig_pietro,118385,118388,mir,könig_pietro
+gdc,x3b4.0,118284,118530,könig_pietro,118430,118433,ich,könig_pietro
+gdc,x3b4.0,118284,118530,könig_pietro,118457,118460,ich,könig_pietro
+gdc,x3b4.0,118284,118530,könig_pietro,118466,118472,meinem,könig_pietro
+gdc,x3b4.0,118535,118631,prinz_filipo,118587,118590,mir,prinz_filipo
+gdc,x3b4.0,118703,119106,könig_pietro,118739,118742,Ich,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118752,118756,mich,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118774,118780,meinen,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118811,118817,meinem,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118859,118862,ich,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118880,118883,mir,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118917,118922,meine,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,118971,118974,ich,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,119004,119009,meine,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,119027,119030,Ich,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,119079,119083,mein,könig_pietro
+gdc,x3b4.0,118703,119106,könig_pietro,119096,119100,Mein,könig_pietro
+gdc,x3b4.0,119111,119268,prinz_filipo,119120,119123,Ich,prinz_filipo
+gdc,x3b4.0,119111,119268,prinz_filipo,119140,119144,mein,prinz_filipo
+gdc,x3b4.0,119273,119867,könig_pietro,119285,119289,Mein,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119307,119310,Ich,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119396,119401,meine,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119500,119505,meine,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119577,119580,mir,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119586,119591,meine,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119600,119605,meine,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119702,119708,meiner,könig_pietro
+gdc,x3b4.0,119273,119867,könig_pietro,119811,119815,mich,könig_pietro
+gdc,x3b4.0,119872,119967,könig_pietro,119916,119920,mein,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120018,120022,mich,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120078,120081,Ich,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120126,120130,mich,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120176,120179,mir,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120190,120194,mein,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120213,120216,mir,könig_pietro
+gdc,x3b4.0,119972,120300,könig_pietro,120238,120241,mir,könig_pietro
+gdc,x3b4.0,120305,120369,prinz_filipo,120314,120317,Ich,prinz_filipo
+gdc,x3b4.0,120305,120369,prinz_filipo,120349,120353,mein,prinz_filipo
+gdc,x3b4.0,120374,120416,könig_pietro,120386,120390,Mein,könig_pietro
+gdc,x3b4.0,120374,120416,könig_pietro,120406,120410,Mein,könig_pietro
+gdc,x3b4.0,120421,120538,alma,120456,120460,Mein,alma
+gdc,x3b4.0,120421,120538,alma,120487,120490,ich,alma
+gdc,x3b4.0,120543,120588,könig_pietro,120559,120562,ich,könig_pietro
+gdc,x3b4.0,120593,120690,alma,120623,120627,mein,alma
+gdc,x3b4.0,120695,121504,könig_pietro,120839,120842,ich,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,120843,120847,mein,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,120984,120990,meinem,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,121021,121024,Ich,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,121058,121063,Fluch,Fluch
+gdc,x3b4.0,120695,121504,könig_pietro,121082,121085,ich,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,121112,121115,ich,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,121203,121206,ich,könig_pietro
+gdc,x3b4.0,120695,121504,könig_pietro,121354,121357,ich,könig_pietro
+gdc,x3b4.0,121742,121905,könig_pietro,121778,121782,mein,könig_pietro
+gdc,x3b4.0,121910,122012,alma,121917,121920,Ich,alma
+gdc,x3b4.0,121910,122012,alma,121953,121957,mein,alma
+gdc,x3b4.0,122152,122389,könig_pietro,122176,122180,mein,könig_pietro
+gdc,x3b4.0,122152,122389,könig_pietro,122231,122234,ich,könig_pietro
+gdc,x3b4.0,122152,122389,könig_pietro,122235,122241,meinen,könig_pietro
+gdc,x3b4.0,122152,122389,könig_pietro,122364,122369,Fluch,Fluch
+gdc,x3b4.0,122442,122546,prinz_filipo,122517,122521,mein,prinz_filipo
+gdc,x3b4.0,122551,122638,könig_pietro,122590,122593,ich,könig_pietro
+gdc,x3b4.0,122643,122853,könig_pietro,122676,122680,mein,könig_pietro
+gdc,x3b4.0,122643,122853,könig_pietro,122749,122752,ich,könig_pietro
+gdc,x3b4.0,122643,122853,könig_pietro,122827,122832,meine,könig_pietro
+gdc,x3b4.0,122858,123035,alma,122939,122943,Mein,alma
+gdc,x3b4.0,123148,123479,könig_pietro,123269,123272,ich,könig_pietro
+gdc,x3b4.0,123148,123479,könig_pietro,123375,123378,Ich,könig_pietro
+gdc,x3b4.0,123148,123479,könig_pietro,123414,123418,mein,könig_pietro
+gdc,x3b4.0,123484,123646,alma,123526,123530,Mein,alma
+gdc,x3b4.0,123484,123646,alma,123547,123551,mich,alma
+gdc,x3b4.0,123484,123646,alma,123564,123567,mir,alma
+gdc,x3b4.0,123484,123646,alma,123578,123582,mein,alma
+gdc,x3b4.0,123651,123742,könig_pietro,123665,123668,Ich,könig_pietro
+gdc,x3b4.0,123748,124077,alma,123815,123818,mir,alma
+gdc,x3b4.0,123748,124077,alma,123855,123859,mich,alma
+gdc,x3b4.0,123748,124077,alma,123869,123874,meine,alma
+gdc,x3b4.0,123748,124077,alma,123928,123931,ich,alma
+gdc,x3b4.0,123748,124077,alma,123965,123969,mein,alma
+gdc,x3b4.0,123748,124077,alma,124014,124018,mich,alma
+gdc,x3b4.0,123748,124077,alma,124041,124044,mir,alma
+gdc,x3b4.0,123748,124077,alma,124050,124053,mir,alma
+gdc,x3b4.0,123748,124077,alma,124062,124066,mich,alma
+gdc,x3b4.0,124082,124142,könig_pietro,124108,124111,Ich,könig_pietro
+gdc,x3b4.0,124195,124335,könig_pietro,124210,124213,Ich,könig_pietro
+gdc,x3b4.0,124195,124335,könig_pietro,124228,124234,meinen,könig_pietro
+gdc,x3b4.0,124195,124335,könig_pietro,124315,124319,mein,könig_pietro
+gdc,x3b4.0,124340,124381,prinz_filipo,124370,124374,mein,prinz_filipo
+gdc,x3b4.0,124386,124658,könig_pietro,124587,124590,mir,könig_pietro
+gdc,x3b4.0,124386,124658,könig_pietro,124609,124612,ich,könig_pietro
+gdc,x3b4.0,124386,124658,könig_pietro,124628,124634,meinem,könig_pietro

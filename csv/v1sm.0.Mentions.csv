@@ -1,0 +1,1168 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,v1sm.0,206,2763,jon,412,415,mir,jon
+gdc,v1sm.0,206,2763,jon,449,453,mein,jon
+gdc,v1sm.0,206,2763,jon,501,504,ich,jon
+gdc,v1sm.0,206,2763,jon,704,709,meine,jon
+gdc,v1sm.0,206,2763,jon,753,756,ich,jon
+gdc,v1sm.0,206,2763,jon,796,800,mich,jon
+gdc,v1sm.0,206,2763,jon,822,825,ich,jon
+gdc,v1sm.0,206,2763,jon,952,955,ich,jon
+gdc,v1sm.0,206,2763,jon,997,1001,mich,jon
+gdc,v1sm.0,206,2763,jon,1064,1067,Mir,jon
+gdc,v1sm.0,206,2763,jon,1144,1148,mich,jon
+gdc,v1sm.0,206,2763,jon,1174,1177,mir,jon
+gdc,v1sm.0,206,2763,jon,1208,1211,mir,jon
+gdc,v1sm.0,206,2763,jon,1260,1263,mir,jon
+gdc,v1sm.0,206,2763,jon,1436,1439,mir,jon
+gdc,v1sm.0,206,2763,jon,2074,2078,mein,jon
+gdc,v1sm.0,206,2763,jon,2218,2221,ich,jon
+gdc,v1sm.0,206,2763,jon,2320,2323,ich,jon
+gdc,v1sm.0,206,2763,jon,2484,2488,mein,jon
+gdc,v1sm.0,206,2763,jon,2648,2651,ich,jon
+gdc,v1sm.0,206,2763,jon,2679,2682,ich,jon
+gdc,v1sm.0,2831,2865,priesterin,2843,2846,mir,priesterin
+gdc,v1sm.0,2831,2865,priesterin,2856,2860,mein,priesterin
+gdc,v1sm.0,2870,2937,jon,2876,2879,Mir,jon
+gdc,v1sm.0,2943,3160,priesterin,2952,2956,Mich,priesterin
+gdc,v1sm.0,2943,3160,priesterin,3149,3153,mein,priesterin
+gdc,v1sm.0,3216,3310,priesterin,3284,3290,meiner,priesterin
+gdc,v1sm.0,3316,3360,jon,3321,3324,Ich,jon
+gdc,v1sm.0,3365,3757,priesterin,3374,3377,Ich,priesterin
+gdc,v1sm.0,3365,3757,priesterin,3466,3469,ich,priesterin
+gdc,v1sm.0,3763,3782,jon,3772,3775,ich,jon
+gdc,v1sm.0,3787,4050,priesterin,3808,3811,ich,priesterin
+gdc,v1sm.0,4056,4149,jon,4070,4073,ich,jon
+gdc,v1sm.0,4155,5003,priesterin,4180,4183,ich,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4222,4228,meiner,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4597,4601,mich,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4615,4618,mir,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4645,4648,mir,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4653,4658,meine,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4907,4910,mir,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4944,4949,meine,priesterin
+gdc,v1sm.0,4155,5003,priesterin,4964,4967,ich,priesterin
+gdc,v1sm.0,5053,5709,priesterin,5243,5246,ich,priesterin
+gdc,v1sm.0,5715,5876,jon,5744,5747,mir,jon
+gdc,v1sm.0,5715,5876,jon,5797,5800,Ich,jon
+gdc,v1sm.0,5715,5876,jon,5826,5829,mir,jon
+gdc,v1sm.0,5939,6039,jon,6003,6007,mein,jon
+gdc,v1sm.0,5939,6039,jon,6015,6019,mich,jon
+gdc,v1sm.0,6100,6148,jon,6109,6112,mir,jon
+gdc,v1sm.0,6100,6148,jon,6137,6140,ich,jon
+gdc,v1sm.0,6153,6204,priesterin,6172,6175,ich,priesterin
+gdc,v1sm.0,6209,6634,jon,6243,6247,mich,jon
+gdc,v1sm.0,6776,6992,priesterin,6785,6788,Ich,priesterin
+gdc,v1sm.0,6998,7882,jon,7126,7129,mir,jon
+gdc,v1sm.0,6998,7882,jon,7191,7194,ich,jon
+gdc,v1sm.0,6998,7882,jon,7229,7235,meinem,jon
+gdc,v1sm.0,6998,7882,jon,7249,7252,ich,jon
+gdc,v1sm.0,6998,7882,jon,7281,7284,ich,jon
+gdc,v1sm.0,6998,7882,jon,7356,7359,mir,jon
+gdc,v1sm.0,7991,8040,jon,8025,8031,meiner,jon
+gdc,v1sm.0,8045,8312,priesterin,8115,8118,ich,priesterin
+gdc,v1sm.0,8045,8312,priesterin,8299,8302,mir,priesterin
+gdc,v1sm.0,8318,8362,jon,8331,8334,ich,jon
+gdc,v1sm.0,8632,8678,jon,8651,8654,ich,jon
+gdc,v1sm.0,8683,9319,priesterin,8864,8867,ich,priesterin
+gdc,v1sm.0,8683,9319,priesterin,9019,9023,mein,priesterin
+gdc,v1sm.0,9527,9623,jon,9564,9567,mir,jon
+gdc,v1sm.0,9527,9623,jon,9596,9600,mein,jon
+gdc,v1sm.0,9736,10262,jon,9787,9793,meiner,jon
+gdc,v1sm.0,9736,10262,jon,9825,9828,ich,jon
+gdc,v1sm.0,9736,10262,jon,9878,9882,mich,jon
+gdc,v1sm.0,9736,10262,jon,9928,9931,ich,jon
+gdc,v1sm.0,9736,10262,jon,10191,10195,mich,jon
+gdc,v1sm.0,10590,10641,phorbas,10604,10607,ich,phorbas
+gdc,v1sm.0,10702,10966,phorbas,10804,10808,Mich,phorbas
+gdc,v1sm.0,11107,11271,phorbas,11195,11200,meine,phorbas
+gdc,v1sm.0,11278,11409,priesterin,11320,11323,mir,priesterin
+gdc,v1sm.0,12409,14394,phorbas,12494,12498,Mich,phorbas
+gdc,v1sm.0,12409,14394,phorbas,12540,12543,ich,phorbas
+gdc,v1sm.0,12409,14394,phorbas,12920,12923,ich,phorbas
+gdc,v1sm.0,12409,14394,phorbas,13189,13193,mein,phorbas
+gdc,v1sm.0,12409,14394,phorbas,13948,13951,ich,phorbas
+gdc,v1sm.0,14499,15816,phorbas,15563,15566,Mir,phorbas
+gdc,v1sm.0,15822,16175,priesterin,15831,15835,Mein,priesterin
+gdc,v1sm.0,15822,16175,priesterin,15920,15923,ich,priesterin
+gdc,v1sm.0,15822,16175,priesterin,15931,15935,Mich,priesterin
+gdc,v1sm.0,15822,16175,priesterin,15973,15976,Ich,priesterin
+gdc,v1sm.0,15822,16175,priesterin,16113,16116,ich,priesterin
+gdc,v1sm.0,16228,16641,jon,16260,16263,mir,jon
+gdc,v1sm.0,16228,16641,jon,16303,16307,mich,jon
+gdc,v1sm.0,16228,16641,jon,16350,16356,meinem,jon
+gdc,v1sm.0,16228,16641,jon,16397,16400,ich,jon
+gdc,v1sm.0,16228,16641,jon,16525,16528,ich,jon
+gdc,v1sm.0,16228,16641,jon,16529,16533,mich,jon
+gdc,v1sm.0,16228,16641,jon,16548,16554,meines,jon
+gdc,v1sm.0,16766,17269,kreusa,16807,16810,ich,kreusa
+gdc,v1sm.0,16766,17269,kreusa,16859,16863,mich,kreusa
+gdc,v1sm.0,16766,17269,kreusa,17161,17164,mir,kreusa
+gdc,v1sm.0,17275,17629,jon,17515,17518,Ich,jon
+gdc,v1sm.0,17275,17629,jon,17563,17566,ich,jon
+gdc,v1sm.0,17695,17791,jon,17711,17715,mich,jon
+gdc,v1sm.0,17695,17791,jon,17739,17742,ich,jon
+gdc,v1sm.0,17850,17943,jon,17873,17876,ich,jon
+gdc,v1sm.0,18000,18052,jon,18027,18031,mich,jon
+gdc,v1sm.0,18276,18328,kreusa,18284,18287,Ich,kreusa
+gdc,v1sm.0,18333,18420,jon,18360,18363,mir,jon
+gdc,v1sm.0,18521,19080,jon,18540,18544,mich,jon
+gdc,v1sm.0,18521,19080,jon,18563,18567,mich,jon
+gdc,v1sm.0,18521,19080,jon,18613,18616,Mir,jon
+gdc,v1sm.0,18521,19080,jon,18634,18637,ich,jon
+gdc,v1sm.0,18521,19080,jon,18870,18873,mir,jon
+gdc,v1sm.0,18521,19080,jon,18879,18882,ich,jon
+gdc,v1sm.0,18521,19080,jon,18941,18945,mein,jon
+gdc,v1sm.0,18521,19080,jon,18954,18958,Mein,jon
+gdc,v1sm.0,18521,19080,jon,18965,18969,mein,jon
+gdc,v1sm.0,18521,19080,jon,18981,18985,mein,jon
+gdc,v1sm.0,18521,19080,jon,19018,19021,ich,jon
+gdc,v1sm.0,19086,19217,kreusa,19137,19142,meine,kreusa
+gdc,v1sm.0,19223,19443,jon,19266,19269,ich,jon
+gdc,v1sm.0,19449,19492,kreusa,19484,19487,ich,kreusa
+gdc,v1sm.0,19497,19785,jon,19592,19595,ich,jon
+gdc,v1sm.0,19791,20045,kreusa,19805,19810,meine,kreusa
+gdc,v1sm.0,19791,20045,kreusa,19868,19871,ich,kreusa
+gdc,v1sm.0,19791,20045,kreusa,19904,19908,mich,kreusa
+gdc,v1sm.0,21325,21371,kreusa,21347,21351,mich,kreusa
+gdc,v1sm.0,21429,21482,kreusa,21449,21453,mein,kreusa
+gdc,v1sm.0,21429,21482,kreusa,21471,21474,ich,kreusa
+gdc,v1sm.0,21650,21750,kreusa,21668,21672,mein,kreusa
+gdc,v1sm.0,21756,21795,jon,21769,21772,mir,jon
+gdc,v1sm.0,21800,22301,kreusa,21985,21989,mich,kreusa
+gdc,v1sm.0,21800,22301,kreusa,22051,22054,mir,kreusa
+gdc,v1sm.0,21800,22301,kreusa,22061,22064,Ich,kreusa
+gdc,v1sm.0,21800,22301,kreusa,22078,22084,meinem,kreusa
+gdc,v1sm.0,21800,22301,kreusa,22273,22276,mir,kreusa
+gdc,v1sm.0,22307,22491,jon,22358,22361,Ich,jon
+gdc,v1sm.0,22307,22491,jon,22390,22393,ich,jon
+gdc,v1sm.0,22497,22811,kreusa,22522,22526,mein,kreusa
+gdc,v1sm.0,22497,22811,kreusa,22610,22613,ich,kreusa
+gdc,v1sm.0,22497,22811,kreusa,22662,22665,ich,kreusa
+gdc,v1sm.0,23117,23587,kreusa,23264,23267,ich,kreusa
+gdc,v1sm.0,23117,23587,kreusa,23277,23280,mir,kreusa
+gdc,v1sm.0,23926,24577,jon,23974,23977,mir,jon
+gdc,v1sm.0,24640,25436,jon,24675,24678,ich,jon
+gdc,v1sm.0,24640,25436,jon,24727,24732,meine,jon
+gdc,v1sm.0,24640,25436,jon,24753,24756,ich,jon
+gdc,v1sm.0,24640,25436,jon,24862,24866,mein,jon
+gdc,v1sm.0,24640,25436,jon,25137,25141,Mich,jon
+gdc,v1sm.0,24640,25436,jon,25159,25163,mich,jon
+gdc,v1sm.0,24640,25436,jon,25169,25173,mich,jon
+gdc,v1sm.0,24640,25436,jon,25191,25194,ich,jon
+gdc,v1sm.0,24640,25436,jon,25198,25203,meine,jon
+gdc,v1sm.0,24640,25436,jon,25309,25312,mir,jon
+gdc,v1sm.0,24640,25436,jon,25324,25327,ich,jon
+gdc,v1sm.0,25489,26588,kreusa,25559,25562,ich,kreusa
+gdc,v1sm.0,25489,26588,kreusa,25576,25580,mich,kreusa
+gdc,v1sm.0,25489,26588,kreusa,25620,25624,mein,kreusa
+gdc,v1sm.0,25489,26588,kreusa,25852,25855,ich,kreusa
+gdc,v1sm.0,25489,26588,kreusa,25978,25984,meiner,kreusa
+gdc,v1sm.0,25489,26588,kreusa,26195,26198,ich,kreusa
+gdc,v1sm.0,25489,26588,kreusa,26215,26218,mir,kreusa
+gdc,v1sm.0,25489,26588,kreusa,26226,26230,mich,kreusa
+gdc,v1sm.0,25489,26588,kreusa,26368,26372,mein,kreusa
+gdc,v1sm.0,25489,26588,kreusa,26405,26408,Mir,kreusa
+gdc,v1sm.0,25489,26588,kreusa,26536,26539,ich,kreusa
+gdc,v1sm.0,26672,26760,xuthus,26681,26684,Ich,xuthus
+gdc,v1sm.0,26672,26760,xuthus,26730,26734,mein,xuthus
+gdc,v1sm.0,26766,26860,kreusa,26829,26832,ich,kreusa
+gdc,v1sm.0,26866,27102,xuthus,26885,26888,mir,xuthus
+gdc,v1sm.0,27108,27252,kreusa,27126,27129,ich,kreusa
+gdc,v1sm.0,27259,27316,xuthus,27274,27277,mir,xuthus
+gdc,v1sm.0,27321,27372,kreusa,27338,27341,ich,kreusa
+gdc,v1sm.0,27321,27372,kreusa,27352,27356,mich,kreusa
+gdc,v1sm.0,27377,29362,xuthus,27395,27398,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27481,27484,mir,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27528,27531,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27569,27573,mich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27615,27618,mir,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27684,27690,meiner,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27707,27710,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27794,27797,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,27924,27928,mich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28020,28023,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28034,28037,Ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28055,28058,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28212,28215,mir,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28400,28404,mich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28537,28541,mich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28606,28609,Ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28662,28665,mir,xuthus
+gdc,v1sm.0,27377,29362,xuthus,28883,28886,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,29119,29122,ich,xuthus
+gdc,v1sm.0,27377,29362,xuthus,29310,29316,meinem,xuthus
+gdc,v1sm.0,29584,30326,kreusa,29999,30002,ich,kreusa
+gdc,v1sm.0,29584,30326,kreusa,30044,30048,mich,kreusa
+gdc,v1sm.0,30332,30472,xuthus,30355,30359,mich,xuthus
+gdc,v1sm.0,30332,30472,xuthus,30410,30413,mir,xuthus
+gdc,v1sm.0,30332,30472,xuthus,30457,30461,mich,xuthus
+gdc,v1sm.0,30478,30917,kreusa,30797,30800,Ich,kreusa
+gdc,v1sm.0,30478,30917,kreusa,30871,30875,mich,kreusa
+gdc,v1sm.0,32453,32590,xuthus,32483,32486,ich,xuthus
+gdc,v1sm.0,32453,32590,xuthus,32492,32495,ich,xuthus
+gdc,v1sm.0,32453,32590,xuthus,32530,32533,ich,xuthus
+gdc,v1sm.0,32453,32590,xuthus,32572,32576,mich,xuthus
+gdc,v1sm.0,32596,32680,jon,32635,32638,mir,jon
+gdc,v1sm.0,32596,32680,jon,32659,32665,meiner,jon
+gdc,v1sm.0,32686,32824,xuthus,32769,32772,ich,xuthus
+gdc,v1sm.0,32686,32824,xuthus,32807,32813,meinen,xuthus
+gdc,v1sm.0,32831,32969,jon,32874,32877,mir,jon
+gdc,v1sm.0,32975,33074,xuthus,33039,33043,mein,xuthus
+gdc,v1sm.0,33293,33426,xuthus,33333,33337,mich,xuthus
+gdc,v1sm.0,33293,33426,xuthus,33359,33363,mich,xuthus
+gdc,v1sm.0,33465,33490,xuthus,33486,33489,mir,xuthus
+gdc,v1sm.0,33521,33550,xuthus,33532,33536,mein,xuthus
+gdc,v1sm.0,33555,33598,jon,33585,33589,mich,jon
+gdc,v1sm.0,33604,34509,xuthus,33641,33644,ich,xuthus
+gdc,v1sm.0,33604,34509,xuthus,33752,33758,meiner,xuthus
+gdc,v1sm.0,33604,34509,xuthus,33787,33790,Ich,xuthus
+gdc,v1sm.0,33604,34509,xuthus,33892,33895,mir,xuthus
+gdc,v1sm.0,33604,34509,xuthus,33910,33914,mein,xuthus
+gdc,v1sm.0,33604,34509,xuthus,33990,33993,Ich,xuthus
+gdc,v1sm.0,33604,34509,xuthus,34136,34139,ich,xuthus
+gdc,v1sm.0,33604,34509,xuthus,34234,34238,mein,xuthus
+gdc,v1sm.0,33604,34509,xuthus,34286,34290,mein,xuthus
+gdc,v1sm.0,33604,34509,xuthus,34327,34330,mir,xuthus
+gdc,v1sm.0,33604,34509,xuthus,34445,34448,ich,xuthus
+gdc,v1sm.0,34515,35050,jon,34535,34538,ich,jon
+gdc,v1sm.0,34515,35050,jon,34581,34584,mir,jon
+gdc,v1sm.0,34515,35050,jon,34612,34615,ich,jon
+gdc,v1sm.0,34515,35050,jon,34622,34626,mein,jon
+gdc,v1sm.0,34515,35050,jon,34697,34700,ich,jon
+gdc,v1sm.0,34515,35050,jon,34779,34783,mich,jon
+gdc,v1sm.0,34515,35050,jon,34869,34873,mein,jon
+gdc,v1sm.0,34515,35050,jon,34999,35002,mir,jon
+gdc,v1sm.0,34515,35050,jon,35020,35023,ich,jon
+gdc,v1sm.0,35056,35711,xuthus,35070,35074,mich,xuthus
+gdc,v1sm.0,35056,35711,xuthus,35191,35194,mir,xuthus
+gdc,v1sm.0,35056,35711,xuthus,35292,35295,mir,xuthus
+gdc,v1sm.0,35056,35711,xuthus,35327,35330,ich,xuthus
+gdc,v1sm.0,35056,35711,xuthus,35584,35587,mir,xuthus
+gdc,v1sm.0,35056,35711,xuthus,35682,35686,mich,xuthus
+gdc,v1sm.0,35717,35925,jon,35733,35737,mich,jon
+gdc,v1sm.0,35717,35925,jon,35904,35910,meinen,jon
+gdc,v1sm.0,35989,36077,jon,36004,36008,mich,jon
+gdc,v1sm.0,35989,36077,jon,36065,36068,mir,jon
+gdc,v1sm.0,36084,36129,xuthus,36110,36116,meines,xuthus
+gdc,v1sm.0,36134,36218,jon,36140,36143,Ich,jon
+gdc,v1sm.0,36277,36313,jon,36282,36285,Mir,jon
+gdc,v1sm.0,36318,37744,xuthus,36415,36418,ich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36516,36520,mich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36551,36554,ich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36579,36583,Mich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36611,36614,mir,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36698,36702,mich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36747,36753,meinen,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36804,36807,mir,xuthus
+gdc,v1sm.0,36318,37744,xuthus,36814,36818,mich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,37073,37077,Mich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,37176,37179,ich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,37539,37544,meine,xuthus
+gdc,v1sm.0,36318,37744,xuthus,37638,37641,ich,xuthus
+gdc,v1sm.0,36318,37744,xuthus,37674,37678,mein,xuthus
+gdc,v1sm.0,37750,38479,jon,37756,37759,Ich,jon
+gdc,v1sm.0,37750,38479,jon,37812,37816,mein,jon
+gdc,v1sm.0,37750,38479,jon,37831,37835,mich,jon
+gdc,v1sm.0,37750,38479,jon,37903,37908,meine,jon
+gdc,v1sm.0,37750,38479,jon,38016,38020,Mein,jon
+gdc,v1sm.0,37750,38479,jon,38094,38097,mir,jon
+gdc,v1sm.0,37750,38479,jon,38158,38164,meiner,jon
+gdc,v1sm.0,37750,38479,jon,38204,38207,ich,jon
+gdc,v1sm.0,37750,38479,jon,38252,38255,ich,jon
+gdc,v1sm.0,37750,38479,jon,38269,38272,Ich,jon
+gdc,v1sm.0,37750,38479,jon,38288,38292,mein,jon
+gdc,v1sm.0,37750,38479,jon,38305,38309,mein,jon
+gdc,v1sm.0,37750,38479,jon,38366,38370,mich,jon
+gdc,v1sm.0,37750,38479,jon,38385,38389,mich,jon
+gdc,v1sm.0,37750,38479,jon,38398,38403,meine,jon
+gdc,v1sm.0,37750,38479,jon,38453,38456,ich,jon
+gdc,v1sm.0,38485,38541,xuthus,38516,38522,meiner,xuthus
+gdc,v1sm.0,38547,38637,jon,38557,38562,meine,jon
+gdc,v1sm.0,38643,39029,xuthus,38679,38683,mein,xuthus
+gdc,v1sm.0,38643,39029,xuthus,38740,38743,Ich,xuthus
+gdc,v1sm.0,38643,39029,xuthus,38774,38777,mir,xuthus
+gdc,v1sm.0,38643,39029,xuthus,38998,39001,Mir,xuthus
+gdc,v1sm.0,39135,39447,xuthus,39322,39326,Mein,xuthus
+gdc,v1sm.0,39453,39535,jon,39497,39500,Ich,jon
+gdc,v1sm.0,39593,39892,jon,39609,39612,mir,jon
+gdc,v1sm.0,39593,39892,jon,39685,39688,Ich,jon
+gdc,v1sm.0,39593,39892,jon,39865,39868,mir,jon
+gdc,v1sm.0,39998,40623,jon,40264,40268,mein,jon
+gdc,v1sm.0,39998,40623,jon,40568,40572,Mich,jon
+gdc,v1sm.0,40629,41298,xuthus,40723,40726,mir,xuthus
+gdc,v1sm.0,40629,41298,xuthus,40931,40934,ich,xuthus
+gdc,v1sm.0,41304,41341,jon,41328,41332,mich,jon
+gdc,v1sm.0,41346,41904,xuthus,41360,41364,mein,xuthus
+gdc,v1sm.0,41346,41904,xuthus,41824,41828,Mein,xuthus
+gdc,v1sm.0,41910,43487,jon,42006,42009,Ich,jon
+gdc,v1sm.0,41910,43487,jon,42017,42020,mir,jon
+gdc,v1sm.0,41910,43487,jon,42055,42058,mir,jon
+gdc,v1sm.0,41910,43487,jon,42083,42087,mich,jon
+gdc,v1sm.0,41910,43487,jon,42269,42272,ich,jon
+gdc,v1sm.0,41910,43487,jon,42521,42525,Mich,jon
+gdc,v1sm.0,41910,43487,jon,42653,42657,Mich,jon
+gdc,v1sm.0,41910,43487,jon,42913,42917,Mein,jon
+gdc,v1sm.0,41910,43487,jon,43009,43013,mich,jon
+gdc,v1sm.0,41910,43487,jon,43086,43089,ich,jon
+gdc,v1sm.0,41910,43487,jon,43211,43215,mein,jon
+gdc,v1sm.0,41910,43487,jon,43298,43301,ich,jon
+gdc,v1sm.0,41910,43487,jon,43313,43317,mein,jon
+gdc,v1sm.0,41910,43487,jon,43360,43364,mich,jon
+gdc,v1sm.0,41910,43487,jon,43380,43383,ich,jon
+gdc,v1sm.0,43494,44405,xuthus,43554,43557,mir,xuthus
+gdc,v1sm.0,43494,44405,xuthus,44304,44307,mir,xuthus
+gdc,v1sm.0,43494,44405,xuthus,44351,44354,ich,xuthus
+gdc,v1sm.0,44411,45363,jon,44425,44428,ich,jon
+gdc,v1sm.0,44411,45363,jon,44447,44451,mich,jon
+gdc,v1sm.0,44411,45363,jon,44529,44533,mich,jon
+gdc,v1sm.0,44411,45363,jon,44652,44658,meines,jon
+gdc,v1sm.0,44411,45363,jon,44667,44671,Mich,jon
+gdc,v1sm.0,44411,45363,jon,44975,44978,Ich,jon
+gdc,v1sm.0,44411,45363,jon,45009,45013,mein,jon
+gdc,v1sm.0,44411,45363,jon,45046,45049,mir,jon
+gdc,v1sm.0,44411,45363,jon,45064,45067,ich,jon
+gdc,v1sm.0,44411,45363,jon,45119,45123,mich,jon
+gdc,v1sm.0,44411,45363,jon,45162,45166,mein,jon
+gdc,v1sm.0,44411,45363,jon,45190,45194,Mich,jon
+gdc,v1sm.0,44411,45363,jon,45239,45242,ich,jon
+gdc,v1sm.0,44411,45363,jon,45292,45295,ich,jon
+gdc,v1sm.0,44411,45363,jon,45311,45315,mich,jon
+gdc,v1sm.0,45501,45553,kreusa,45541,45545,mein,kreusa
+gdc,v1sm.0,45558,45614,xuthus,45576,45580,mich,xuthus
+gdc,v1sm.0,45619,45675,kreusa,45647,45650,ich,kreusa
+gdc,v1sm.0,45826,45853,kreusa,45834,45837,Ich,kreusa
+gdc,v1sm.0,45937,45993,kreusa,45959,45962,mir,kreusa
+gdc,v1sm.0,45937,45993,kreusa,45985,45988,mir,kreusa
+gdc,v1sm.0,46054,46104,kreusa,46062,46065,Ich,kreusa
+gdc,v1sm.0,46109,46162,xuthus,46135,46138,ich,xuthus
+gdc,v1sm.0,46109,46162,xuthus,46139,46143,mein,xuthus
+gdc,v1sm.0,46206,46232,xuthus,46214,46217,Ich,xuthus
+gdc,v1sm.0,46206,46232,xuthus,46227,46231,mein,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46334,46337,ich,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46442,46445,ich,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46467,46472,meine,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46520,46523,Mir,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46543,46546,ich,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46609,46613,mich,xuthus
+gdc,v1sm.0,46297,46738,xuthus,46681,46684,mir,xuthus
+gdc,v1sm.0,46744,47089,kreusa,46785,46789,mein,kreusa
+gdc,v1sm.0,47095,47444,xuthus,47243,47246,mir,xuthus
+gdc,v1sm.0,47095,47444,xuthus,47259,47262,ich,xuthus
+gdc,v1sm.0,47095,47444,xuthus,47276,47280,Mich,xuthus
+gdc,v1sm.0,47095,47444,xuthus,47302,47305,ich,xuthus
+gdc,v1sm.0,47095,47444,xuthus,47330,47334,mich,xuthus
+gdc,v1sm.0,47595,47769,jon,47601,47604,Ich,jon
+gdc,v1sm.0,47595,47769,jon,47656,47659,mir,jon
+gdc,v1sm.0,47595,47769,jon,47691,47697,meiner,jon
+gdc,v1sm.0,48090,49091,jon,48114,48117,mir,jon
+gdc,v1sm.0,48090,49091,jon,48138,48141,Ich,jon
+gdc,v1sm.0,48090,49091,jon,48149,48153,mich,jon
+gdc,v1sm.0,48090,49091,jon,48229,48232,mir,jon
+gdc,v1sm.0,48090,49091,jon,48398,48401,ich,jon
+gdc,v1sm.0,48090,49091,jon,48422,48426,mich,jon
+gdc,v1sm.0,48090,49091,jon,48516,48520,mein,jon
+gdc,v1sm.0,48090,49091,jon,48553,48556,mir,jon
+gdc,v1sm.0,48090,49091,jon,48610,48615,meine,jon
+gdc,v1sm.0,48090,49091,jon,48649,48652,ich,jon
+gdc,v1sm.0,48090,49091,jon,48674,48679,meine,jon
+gdc,v1sm.0,49097,51007,xuthus,49386,49389,mir,xuthus
+gdc,v1sm.0,49097,51007,xuthus,49399,49403,mein,xuthus
+gdc,v1sm.0,49097,51007,xuthus,49851,49857,meines,xuthus
+gdc,v1sm.0,49097,51007,xuthus,49916,49920,Mich,xuthus
+gdc,v1sm.0,49097,51007,xuthus,49981,49984,ich,xuthus
+gdc,v1sm.0,49097,51007,xuthus,50032,50036,mich,xuthus
+gdc,v1sm.0,49097,51007,xuthus,50101,50104,mir,xuthus
+gdc,v1sm.0,49097,51007,xuthus,50755,50761,meinem,xuthus
+gdc,v1sm.0,49097,51007,xuthus,50850,50853,ich,xuthus
+gdc,v1sm.0,51013,51056,jon,51018,51021,Ich,jon
+gdc,v1sm.0,51013,51056,jon,51033,51037,mein,jon
+gdc,v1sm.0,51126,51248,phorbas,51193,51197,mein,phorbas
+gdc,v1sm.0,51453,51816,kreusa,51794,51798,mich,kreusa
+gdc,v1sm.0,52037,52087,kreusa,52064,52067,ich,kreusa
+gdc,v1sm.0,53552,53645,kreusa,53561,53564,Ich,kreusa
+gdc,v1sm.0,54055,54110,kreusa,54071,54074,ich,kreusa
+gdc,v1sm.0,54115,54590,phorbas,54136,54139,ich,phorbas
+gdc,v1sm.0,54115,54590,phorbas,54498,54501,ich,phorbas
+gdc,v1sm.0,54115,54590,phorbas,54502,54505,mir,phorbas
+gdc,v1sm.0,54115,54590,phorbas,54543,54546,ich,phorbas
+gdc,v1sm.0,54596,54731,kreusa,54618,54622,mich,kreusa
+gdc,v1sm.0,54596,54731,kreusa,54634,54640,meiner,kreusa
+gdc,v1sm.0,55276,55503,kreusa,55285,55288,Mir,kreusa
+gdc,v1sm.0,55276,55503,kreusa,55338,55341,ich,kreusa
+gdc,v1sm.0,55276,55503,kreusa,55355,55359,mein,kreusa
+gdc,v1sm.0,55276,55503,kreusa,55382,55385,ich,kreusa
+gdc,v1sm.0,55276,55503,kreusa,55408,55414,meiner,kreusa
+gdc,v1sm.0,55276,55503,kreusa,55427,55430,mir,kreusa
+gdc,v1sm.0,55745,55798,kreusa,55762,55765,ich,kreusa
+gdc,v1sm.0,55745,55798,kreusa,55771,55774,Ich,kreusa
+gdc,v1sm.0,56140,56401,kreusa,56175,56178,mir,kreusa
+gdc,v1sm.0,56140,56401,kreusa,56210,56214,mein,kreusa
+gdc,v1sm.0,57015,57072,kreusa,57023,57027,Mich,kreusa
+gdc,v1sm.0,57136,57188,kreusa,57175,57178,mir,kreusa
+gdc,v1sm.0,57251,57296,kreusa,57281,57284,ich,kreusa
+gdc,v1sm.0,57353,57403,kreusa,57382,57386,mich,kreusa
+gdc,v1sm.0,57767,57815,kreusa,57811,57814,mir,kreusa
+gdc,v1sm.0,58082,59189,phorbas,58124,58129,meine,phorbas
+gdc,v1sm.0,58082,59189,phorbas,58687,58690,Mir,phorbas
+gdc,v1sm.0,58082,59189,phorbas,58934,58938,Mich,phorbas
+gdc,v1sm.0,58082,59189,phorbas,58946,58949,ich,phorbas
+gdc,v1sm.0,58082,59189,phorbas,59023,59027,Mein,phorbas
+gdc,v1sm.0,58082,59189,phorbas,59096,59099,ich,phorbas
+gdc,v1sm.0,58082,59189,phorbas,59100,59104,mich,phorbas
+gdc,v1sm.0,58082,59189,phorbas,59140,59143,ich,phorbas
+gdc,v1sm.0,59195,59244,kreusa,59203,59206,Ich,kreusa
+gdc,v1sm.0,59195,59244,kreusa,59214,59218,mich,kreusa
+gdc,v1sm.0,59249,59301,phorbas,59258,59262,Mein,phorbas
+gdc,v1sm.0,59364,59734,phorbas,59374,59378,Mein,phorbas
+gdc,v1sm.0,59364,59734,phorbas,59386,59389,ich,phorbas
+gdc,v1sm.0,59364,59734,phorbas,59429,59432,ich,phorbas
+gdc,v1sm.0,59364,59734,phorbas,59491,59495,mich,phorbas
+gdc,v1sm.0,59364,59734,phorbas,59562,59565,ich,phorbas
+gdc,v1sm.0,59739,60061,kreusa,59815,59818,ich,kreusa
+gdc,v1sm.0,59739,60061,kreusa,59854,59857,ich,kreusa
+gdc,v1sm.0,59739,60061,kreusa,59992,59996,mich,kreusa
+gdc,v1sm.0,59739,60061,kreusa,60041,60044,mir,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60164,60167,mir,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60188,60191,ich,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60214,60217,ich,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60253,60256,mir,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60306,60312,meinen,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60377,60380,ich,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60387,60392,meine,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60457,60460,ich,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60490,60493,ich,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60630,60634,mich,kreusa
+gdc,v1sm.0,60127,61056,kreusa,60649,60666,des wilden Knaben,jon
+gdc,v1sm.0,60127,61056,kreusa,60679,60682,ihm,jon
+gdc,v1sm.0,60127,61056,kreusa,60715,60719,mein,kreusa
+gdc,v1sm.0,60127,61056,kreusa,61002,61006,mich,kreusa
+gdc,v1sm.0,61113,61154,_stage,61126,61141,Pfeil und Bogen,seinen-Waffen
+gdc,v1sm.0,61108,62083,jon,61168,61186,die gift'ge Mutter,kreusa
+gdc,v1sm.0,61108,62083,jon,61194,61197,ich,jon
+gdc,v1sm.0,61108,62083,jon,61203,61206,sie,kreusa
+gdc,v1sm.0,61108,62083,jon,61224,61227,sie,kreusa
+gdc,v1sm.0,61108,62083,jon,61264,61267,sie,kreusa
+gdc,v1sm.0,61108,62083,jon,61287,61308,ein solches Ungeheuer,kreusa
+gdc,v1sm.0,61108,62083,jon,61345,61348,ihr,kreusa
+gdc,v1sm.0,61108,62083,jon,61372,61375,sie,kreusa
+gdc,v1sm.0,61108,62083,jon,61403,61407,Ihre,kreusa
+gdc,v1sm.0,61108,62083,jon,61420,61423,ich,jon
+gdc,v1sm.0,61108,62083,jon,61436,61439,sie,kreusa
+gdc,v1sm.0,61108,62083,jon,61445,61448,mir,jon
+gdc,v1sm.0,61108,62083,jon,61481,61518,"Apollo, der du dies Geschoß mir gabst",apollo
+gdc,v1sm.0,61108,62083,jon,61489,61492,der,apollo
+gdc,v1sm.0,61108,62083,jon,61493,61495,du,apollo
+gdc,v1sm.0,61108,62083,jon,61509,61512,mir,jon
+gdc,v1sm.0,61108,62083,jon,61628,61633,meine,jon
+gdc,v1sm.0,61108,62083,jon,61645,61648,ich,jon
+gdc,v1sm.0,61108,62083,jon,61674,61678,ihre,kreusa
+gdc,v1sm.0,61108,62083,jon,61705,61707,du,apollo
+gdc,v1sm.0,61108,62083,jon,61713,61759,"der Drachentöter, der von hohem Zorn entbrannt",apollo
+gdc,v1sm.0,61108,62083,jon,61731,61734,der,apollo
+gdc,v1sm.0,61108,62083,jon,61797,61799,du,apollo
+gdc,v1sm.0,61108,62083,jon,61833,61845,die Schlange,kreusa
+gdc,v1sm.0,61108,62083,jon,61861,61864,die,kreusa
+gdc,v1sm.0,61108,62083,jon,61865,61868,ich,jon
+gdc,v1sm.0,61108,62083,jon,61896,61899,sie,kreusa
+gdc,v1sm.0,61108,62083,jon,61925,61929,ihre,kreusa
+gdc,v1sm.0,61108,62083,jon,61976,61979,ich,jon
+gdc,v1sm.0,61108,62083,jon,62000,62009,den Pfeil,seinen-Waffen
+gdc,v1sm.0,61108,62083,jon,62010,62013,ihr,kreusa
+gdc,v1sm.0,61108,62083,jon,62033,62036,ich,jon
+gdc,v1sm.0,61108,62083,jon,62037,62040,dir,apollo
+gdc,v1sm.0,61108,62083,jon,62041,62050,im Tempel,Des-Heiligtums
+gdc,v1sm.0,61108,62083,jon,62051,62071,diese frommen Waffen,seinen-Waffen
+gdc,v1sm.0,62134,62995,priesterin,62204,62224,diese stillen Hallen,Des-Heiligtums
+gdc,v1sm.0,62134,62995,priesterin,62317,62320,ich,priesterin
+gdc,v1sm.0,62134,62995,priesterin,62359,62362,ich,priesterin
+gdc,v1sm.0,62134,62995,priesterin,62444,62448,sich,die-Freude
+gdc,v1sm.0,62134,62995,priesterin,62449,62459,die Freude,die-Freude
+gdc,v1sm.0,62134,62995,priesterin,62464,62476,dem Gastmahl,dem-Gastmahl
+gdc,v1sm.0,62134,62995,priesterin,62515,62519,sich,die-Freude
+gdc,v1sm.0,62134,62995,priesterin,62575,62613,Die Gäste des athenischen Beherrschers,Der-Gäste
+gdc,v1sm.0,62134,62995,priesterin,62585,62613,des athenischen Beherrschers,xuthus
+gdc,v1sm.0,62134,62995,priesterin,62633,62655,"der Übermut, der dort,","der-Übermut,-der-dort,-------------------Von-lauter-Lust-herbeigerufen"
+gdc,v1sm.0,62134,62995,priesterin,62646,62649,der,"der-Übermut,-der-dort,-------------------Von-lauter-Lust-herbeigerufen"
+gdc,v1sm.0,62134,62995,priesterin,62863,62871,Mein Jon,jon
+gdc,v1sm.0,62134,62995,priesterin,62863,62867,Mein,priesterin
+gdc,v1sm.0,62134,62995,priesterin,62884,62888,mein,priesterin
+gdc,v1sm.0,62134,62995,priesterin,62913,62916,ihm,jon
+gdc,v1sm.0,62134,62995,priesterin,62946,62949,ihn,jon
+gdc,v1sm.0,62134,62995,priesterin,62961,62964,mir,priesterin
+gdc,v1sm.0,62134,62995,priesterin,62980,62983,ich,priesterin
+gdc,v1sm.0,63047,63113,_stage,63047,63053,Pythia,priesterin
+gdc,v1sm.0,63047,63113,_stage,63055,63061,Xuthus,xuthus
+gdc,v1sm.0,63047,63113,_stage,63063,63077,dessen Gefolge,dessen-Gefolge
+gdc,v1sm.0,63047,63113,_stage,63063,63069,dessen,xuthus
+gdc,v1sm.0,63047,63113,_stage,63078,63089,den Phorbas,phorbas
+gdc,v1sm.0,63116,63240,xuthus,63160,63163,ihn,phorbas
+gdc,v1sm.0,63116,63240,xuthus,63202,63204,er,phorbas
+gdc,v1sm.0,63116,63240,xuthus,63205,63209,euch,dessen-Gefolge
+gdc,v1sm.0,63245,63304,priesterin,63275,63278,ich,priesterin
+gdc,v1sm.0,63245,63304,priesterin,63279,63283,dich,priesterin
+gdc,v1sm.0,63245,63304,priesterin,63290,63294,dein,priesterin
+gdc,v1sm.0,63309,63359,priesterin,63331,63334,mir,priesterin
+gdc,v1sm.0,63309,63359,priesterin,63350,63354,dich,priesterin
+gdc,v1sm.0,63412,63462,priesterin,63429,63432,Ich,priesterin
+gdc,v1sm.0,63518,63567,priesterin,63546,63558,deines Mahls,dem-Gastmahl
+gdc,v1sm.0,63518,63567,priesterin,63546,63552,deines,xuthus
+gdc,v1sm.0,63572,63620,xuthus,63580,63606,Gift und der Furien Geifer,Gift-und-der-Furien-Geifer
+gdc,v1sm.0,63625,63670,priesterin,63657,63660,sie,Gift-und-der-Furien-Geifer
+gdc,v1sm.0,63675,63727,xuthus,63683,63700,Mein teures Pfand,jon
+gdc,v1sm.0,63675,63727,xuthus,63683,63687,Mein,xuthus
+gdc,v1sm.0,63675,63727,xuthus,63702,63726,den kaum gefund'nen Sohn,jon
+gdc,v1sm.0,63732,63779,priesterin,63744,63747,Jon,jon
+gdc,v1sm.0,63732,63779,priesterin,63761,63764,ihn,jon
+gdc,v1sm.0,63784,63836,xuthus,63802,63808,seinen,jon
+gdc,v1sm.0,63841,63888,priesterin,63872,63875,ich,priesterin
+gdc,v1sm.0,63893,63947,xuthus,63930,63933,sie,die-Tat
+gdc,v1sm.0,63893,63947,xuthus,63939,63946,die Tat,die-Tat
+gdc,v1sm.0,63952,64000,priesterin,63968,63971,sie,die-Tat
+gdc,v1sm.0,64005,64052,xuthus,64013,64021,Kreusens,kreusa
+gdc,v1sm.0,64005,64052,xuthus,64031,64046,dieses Knechtes,phorbas
+gdc,v1sm.0,64057,64106,priesterin,64065,64083,Dein treuer Diener,phorbas
+gdc,v1sm.0,64057,64106,priesterin,64065,64069,Dein,xuthus
+gdc,v1sm.0,64057,64106,priesterin,64088,64105,dein liebend Weib,kreusa
+gdc,v1sm.0,64057,64106,priesterin,64088,64092,dein,xuthus
+gdc,v1sm.0,64166,65330,priesterin,64193,64217,sterblicher Geschlechter,sterblicher-Geschlechter
+gdc,v1sm.0,64166,65330,priesterin,64224,64229,ihrer,sterblicher-Geschlechter
+gdc,v1sm.0,64166,65330,priesterin,64284,64287,sie,sterblicher-Geschlechter
+gdc,v1sm.0,64166,65330,priesterin,64336,64341,ihnen,sterblicher-Geschlechter
+gdc,v1sm.0,64166,65330,priesterin,64698,64713,mein teurer Jon,jon
+gdc,v1sm.0,64166,65330,priesterin,64698,64702,mein,priesterin
+gdc,v1sm.0,64166,65330,priesterin,64729,64743,Des Heiligtums,Des-Heiligtums
+gdc,v1sm.0,64166,65330,priesterin,64781,64784,ihn,jon
+gdc,v1sm.0,64166,65330,priesterin,64834,64836,er,jon
+gdc,v1sm.0,64166,65330,priesterin,64905,64908,ihm,jon
+gdc,v1sm.0,64166,65330,priesterin,64926,64938,die Umarmung,die-Umarmung-------------------Der-stillen-Bucht
+gdc,v1sm.0,64166,65330,priesterin,64958,64961,ihn,jon
+gdc,v1sm.0,64166,65330,priesterin,64991,64993,er,jon
+gdc,v1sm.0,64166,65330,priesterin,65001,65004,sie,die-Umarmung-------------------Der-stillen-Bucht
+gdc,v1sm.0,64166,65330,priesterin,65033,65036,ich,priesterin
+gdc,v1sm.0,64166,65330,priesterin,65087,65090,ihm,jon
+gdc,v1sm.0,64166,65330,priesterin,65126,65129,mir,priesterin
+gdc,v1sm.0,64166,65330,priesterin,65133,65138,König,xuthus
+gdc,v1sm.0,64166,65330,priesterin,65158,65160,es,die-Tat
+gdc,v1sm.0,64166,65330,priesterin,65203,65213,unserm Jon,jon
+gdc,v1sm.0,64166,65330,priesterin,65203,65209,unserm,xuthus-und-pythia
+gdc,v1sm.0,64166,65330,priesterin,65250,65254,sich,mein-Geist
+gdc,v1sm.0,64166,65330,priesterin,65255,65265,mein Geist,mein-Geist
+gdc,v1sm.0,64166,65330,priesterin,65255,65259,mein,priesterin
+gdc,v1sm.0,64166,65330,priesterin,65316,65320,euch,xuthus
+gdc,v1sm.0,65336,71084,xuthus,65432,65447,der Stiefmütter,kreusa
+gdc,v1sm.0,65336,71084,xuthus,65503,65508,ihrer,kreusa
+gdc,v1sm.0,65336,71084,xuthus,65621,65623,du,priesterin
+gdc,v1sm.0,65336,71084,xuthus,65663,65696,der frisch begrünten Wiesenfläche,der-frisch-begrünten-Wiesenfläche-------------------Vor-Delphi
+gdc,v1sm.0,65336,71084,xuthus,65702,65708,Delphi,Delphi
+gdc,v1sm.0,65336,71084,xuthus,65715,65723,das Mahl,dem-Gastmahl
+gdc,v1sm.0,65336,71084,xuthus,65745,65760,Die ganze Eb'ne,der-frisch-begrünten-Wiesenfläche-------------------Vor-Delphi
+gdc,v1sm.0,65336,71084,xuthus,65774,65782,"Dienern,","Dienern,-------------------Die-hin-und-wieder-Opfertiere-führten-------------------Und-mancherlei-Gerät-in-Händen-trugen"
+gdc,v1sm.0,65336,71084,xuthus,65784,65787,Die,"Dienern,-------------------Die-hin-und-wieder-Opfertiere-führten-------------------Und-mancherlei-Gerät-in-Händen-trugen"
+gdc,v1sm.0,65336,71084,xuthus,65863,65866,Ich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,65991,66000,Mein Knab,jon
+gdc,v1sm.0,65336,71084,xuthus,65991,65995,Mein,xuthus
+gdc,v1sm.0,65336,71084,xuthus,66033,66043,Den Gästen,Der-Gäste
+gdc,v1sm.0,65336,71084,xuthus,66060,66062,er,jon
+gdc,v1sm.0,65336,71084,xuthus,66112,66133,ein geräumiges Gezelt,Des-schnell-emporgewachs'nen-Saals
+gdc,v1sm.0,65336,71084,xuthus,66134,66143,den Platz,den-Platz
+gdc,v1sm.0,65336,71084,xuthus,66149,66151,er,jon
+gdc,v1sm.0,65336,71084,xuthus,66165,66168,ihn,den-Platz
+gdc,v1sm.0,65336,71084,xuthus,66196,66198,er,jon
+gdc,v1sm.0,65336,71084,xuthus,66215,66228,Fichtenstämme,Fichtenstämme
+gdc,v1sm.0,65336,71084,xuthus,66251,66254,die,Fichtenstämme
+gdc,v1sm.0,65336,71084,xuthus,66255,66257,er,jon
+gdc,v1sm.0,65336,71084,xuthus,66318,66321,sie,Fichtenstämme
+gdc,v1sm.0,65336,71084,xuthus,66326,66335,Teppichen,Teppichen
+gdc,v1sm.0,65336,71084,xuthus,66348,66351,Die,Teppichen
+gdc,v1sm.0,65336,71084,xuthus,66352,66356,euer,priesterin
+gdc,v1sm.0,65336,71084,xuthus,66446,66448,er,jon
+gdc,v1sm.0,65336,71084,xuthus,66449,66452,mir,xuthus
+gdc,v1sm.0,65336,71084,xuthus,66592,66600,der Mond,der-Mond
+gdc,v1sm.0,65336,71084,xuthus,66606,66612,seinen,der-Mond
+gdc,v1sm.0,65336,71084,xuthus,66626,66643,die mildre Fackel,die-mildre-Fackel-------------------Des-Hesperus
+gdc,v1sm.0,65336,71084,xuthus,66747,66750,ihr,die-mildre-Fackel-------------------Des-Hesperus
+gdc,v1sm.0,65336,71084,xuthus,66761,66765,sich,apollo
+gdc,v1sm.0,65336,71084,xuthus,66767,66781,Der Sonnengott,apollo
+gdc,v1sm.0,65336,71084,xuthus,66786,66792,seinen,apollo
+gdc,v1sm.0,65336,71084,xuthus,67025,67059,Des schnell emporgewachs'nen Saals,Des-schnell-emporgewachs'nen-Saals
+gdc,v1sm.0,65336,71084,xuthus,67068,67083,Der Gäste Blick,Der-Gäste-Blick
+gdc,v1sm.0,65336,71084,xuthus,67068,67077,Der Gäste,Der-Gäste
+gdc,v1sm.0,65336,71084,xuthus,67084,67088,sich,Der-Gäste-Blick
+gdc,v1sm.0,65336,71084,xuthus,67357,67366,des Mahls,dem-Gastmahl
+gdc,v1sm.0,65336,71084,xuthus,67426,67436,des Zeltes,Des-schnell-emporgewachs'nen-Saals
+gdc,v1sm.0,65336,71084,xuthus,67510,67520,der Herold,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,67587,67596,Der Greis,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,67613,67617,sich,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,67637,67645,Den Wein,Den-Wein
+gdc,v1sm.0,65336,71084,xuthus,67694,67696,er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,67697,67707,die Diener,"Dienern,-------------------Die-hin-und-wieder-Opfertiere-führten-------------------Und-mancherlei-Gerät-in-Händen-trugen"
+gdc,v1sm.0,65336,71084,xuthus,67723,67726,Ihn,Den-Wein
+gdc,v1sm.0,65336,71084,xuthus,67778,67780,er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,67781,67785,sich,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,67813,67821,Das Mahl,dem-Gastmahl
+gdc,v1sm.0,65336,71084,xuthus,67900,67905,Athen,Athen
+gdc,v1sm.0,65336,71084,xuthus,67910,67939,seine glücklichen Beherrscher,kreusa-und-xuthus
+gdc,v1sm.0,65336,71084,xuthus,67910,67915,seine,Athen
+gdc,v1sm.0,65336,71084,xuthus,67958,67982,"die kleinen Trinkgefäße,","die-kleinen-Trinkgefäße,-------------------Die-kaum-die-Lippen-netzen"
+gdc,v1sm.0,65336,71084,xuthus,67984,67987,Die,"die-kleinen-Trinkgefäße,-------------------Die-kaum-die-Lippen-netzen"
+gdc,v1sm.0,65336,71084,xuthus,68019,68027,der Alte,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,68035,68047,tiefe Becher,tiefe-Becher
+gdc,v1sm.0,65336,71084,xuthus,68056,68061,denen,tiefe-Becher
+gdc,v1sm.0,65336,71084,xuthus,68116,68118,Er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,68154,68158,Sein,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,68212,68222,die Diener,"Dienern,-------------------Die-hin-und-wieder-Opfertiere-führten-------------------Und-mancherlei-Gerät-in-Händen-trugen"
+gdc,v1sm.0,65336,71084,xuthus,68263,68275,neu Geschirr,tiefe-Becher
+gdc,v1sm.0,65336,71084,xuthus,68285,68288,Das,tiefe-Becher
+gdc,v1sm.0,65336,71084,xuthus,68316,68328,einen Becher,einen-Becher
+gdc,v1sm.0,65336,71084,xuthus,68381,68383,er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,68384,68387,ihn,einen-Becher
+gdc,v1sm.0,65336,71084,xuthus,68419,68447,seinem neuen Fürsten Phorbas,phorbas
+gdc,v1sm.0,65336,71084,xuthus,68419,68425,seinem,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,68454,68463,Mein Sohn,jon
+gdc,v1sm.0,65336,71084,xuthus,68454,68458,Mein,xuthus
+gdc,v1sm.0,65336,71084,xuthus,68584,68602,Der holde Jüngling,jon
+gdc,v1sm.0,65336,71084,xuthus,68729,68739,die andern,Der-Gäste
+gdc,v1sm.0,65336,71084,xuthus,68781,68790,im Gezelt,Des-schnell-emporgewachs'nen-Saals
+gdc,v1sm.0,65336,71084,xuthus,68808,68811,man,man
+gdc,v1sm.0,65336,71084,xuthus,68812,68822,die Becher,tiefe-Becher
+gdc,v1sm.0,65336,71084,xuthus,68862,68884,"eine Schar von Tauben,","eine-Schar-von-Tauben,-------------------Die-zahm-und-furchtlos-hier-im-Haine-schwärmen"
+gdc,v1sm.0,65336,71084,xuthus,68886,68889,Die,"eine-Schar-von-Tauben,-------------------Die-zahm-und-furchtlos-hier-im-Haine-schwärmen"
+gdc,v1sm.0,65336,71084,xuthus,68967,68970,Sie,"eine-Schar-von-Tauben,-------------------Die-zahm-und-furchtlos-hier-im-Haine-schwärmen"
+gdc,v1sm.0,65336,71084,xuthus,68979,68983,Sich,"eine-Schar-von-Tauben,-------------------Die-zahm-und-furchtlos-hier-im-Haine-schwärmen"
+gdc,v1sm.0,65336,71084,xuthus,69032,69036,ihre,"eine-Schar-von-Tauben,-------------------Die-zahm-und-furchtlos-hier-im-Haine-schwärmen"
+gdc,v1sm.0,65336,71084,xuthus,69049,69058,"den Wein,",Den-Wein
+gdc,v1sm.0,65336,71084,xuthus,69060,69063,Der,Den-Wein
+gdc,v1sm.0,65336,71084,xuthus,69105,69108,Die,"eine-Schar-von-Tauben,-------------------Die-zahm-und-furchtlos-hier-im-Haine-schwärmen"
+gdc,v1sm.0,65336,71084,xuthus,69166,69188,"zwei, die da getrunken","zwei,-die-da-getrunken"
+gdc,v1sm.0,65336,71084,xuthus,69172,69175,die,"zwei,-die-da-getrunken"
+gdc,v1sm.0,65336,71084,xuthus,69264,69267,Jon,jon
+gdc,v1sm.0,65336,71084,xuthus,69274,69284,Den Becher,einen-Becher
+gdc,v1sm.0,65336,71084,xuthus,69359,69362,Sie,"zwei,-die-da-getrunken"
+gdc,v1sm.0,65336,71084,xuthus,69463,69480,"jeden, der es sah","jeden,-der-es-sah"
+gdc,v1sm.0,65336,71084,xuthus,69470,69473,der,"jeden,-der-es-sah"
+gdc,v1sm.0,65336,71084,xuthus,69483,69491,Mein Jon,jon
+gdc,v1sm.0,65336,71084,xuthus,69483,69487,Mein,xuthus
+gdc,v1sm.0,65336,71084,xuthus,69571,69574,dir,apollo
+gdc,v1sm.0,65336,71084,xuthus,69576,69610,"Apoll, der mich prophetisch warnte",apollo
+gdc,v1sm.0,65336,71084,xuthus,69583,69586,der,apollo
+gdc,v1sm.0,65336,71084,xuthus,69587,69591,mich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,69629,69633,mein,xuthus
+gdc,v1sm.0,65336,71084,xuthus,69647,69649,er,jon
+gdc,v1sm.0,65336,71084,xuthus,69670,69674,sich,ein-verwirrt-Geschrei
+gdc,v1sm.0,65336,71084,xuthus,69675,69696,ein verwirrt Geschrei,ein-verwirrt-Geschrei
+gdc,v1sm.0,65336,71084,xuthus,69713,69736,"den Alten, der den Wein",der-Herold
+gdc,v1sm.0,65336,71084,xuthus,69724,69727,der,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,69728,69736,den Wein,Den-Wein
+gdc,v1sm.0,65336,71084,xuthus,69764,69767,Ich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,69795,69798,ihn,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,69818,69821,ihn,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,69838,69841,Der,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,69847,69854,der Tat,die-Tat
+gdc,v1sm.0,65336,71084,xuthus,69959,69961,Er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,70017,70020,ich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,70021,70030,die Menge,die-Menge
+gdc,v1sm.0,65336,71084,xuthus,70044,70047,Die,die-Menge
+gdc,v1sm.0,65336,71084,xuthus,70070,70073,ihn,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,70123,70129,Kreusa,kreusa
+gdc,v1sm.0,65336,71084,xuthus,70161,70163,Er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,70183,70193,dem Greise,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,70211,70213,er,der-Herold
+gdc,v1sm.0,65336,71084,xuthus,70215,70218,ich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,70225,70232,die Tat,die-Tat
+gdc,v1sm.0,65336,71084,xuthus,70264,70273,der Gorgo,der-Gorgo
+gdc,v1sm.0,65336,71084,xuthus,70282,70287,meine,xuthus
+gdc,v1sm.0,65336,71084,xuthus,70372,70375,ich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,70452,70455,mir,xuthus
+gdc,v1sm.0,65336,71084,xuthus,70466,70485,die Schlangen Gorgo,der-Gorgo
+gdc,v1sm.0,65336,71084,xuthus,70486,70492,selber,der-Gorgo
+gdc,v1sm.0,65336,71084,xuthus,70576,70579,sie,kreusa
+gdc,v1sm.0,65336,71084,xuthus,70591,70594,Ich,xuthus
+gdc,v1sm.0,65336,71084,xuthus,70640,70643,Jon,jon
+gdc,v1sm.0,65336,71084,xuthus,70652,70657,ihren,kreusa
+gdc,v1sm.0,65336,71084,xuthus,70687,70700,seinen Waffen,seinen-Waffen
+gdc,v1sm.0,65336,71084,xuthus,70687,70693,seinen,jon
+gdc,v1sm.0,65336,71084,xuthus,70708,70710,er,jon
+gdc,v1sm.0,65336,71084,xuthus,70712,70718,welche,seinen-Waffen
+gdc,v1sm.0,65336,71084,xuthus,70756,70771,Pfeil und Bogen,seinen-Waffen
+gdc,v1sm.0,65336,71084,xuthus,70829,70843,dies Heiligtum,Des-Heiligtums
+gdc,v1sm.0,65336,71084,xuthus,70859,70862,sie,kreusa
+gdc,v1sm.0,65336,71084,xuthus,70863,70875,den Jüngling,jon
+gdc,v1sm.0,65336,71084,xuthus,70952,70955,sie,kreusa
+gdc,v1sm.0,65336,71084,xuthus,70975,70978,sie,kreusa
+gdc,v1sm.0,65336,71084,xuthus,71051,71054,sie,kreusa
+gdc,v1sm.0,65336,71084,xuthus,71055,71059,sich,kreusa
+gdc,v1sm.0,71090,71132,priesterin,71113,71119,Kreusa,kreusa
+gdc,v1sm.0,71090,71132,priesterin,71128,71131,Jon,jon
+gdc,v1sm.0,71137,71187,xuthus,71145,71148,Sie,jon-und-kreusa
+gdc,v1sm.0,71137,71187,xuthus,71157,71161,sich,jon-und-kreusa
+gdc,v1sm.0,71137,71187,xuthus,71176,71179,mir,xuthus
+gdc,v1sm.0,71192,71289,priesterin,71201,71204,Ich,priesterin
+gdc,v1sm.0,71192,71289,priesterin,71274,71277,ich,priesterin
+gdc,v1sm.0,71296,71429,xuthus,71305,71308,Sie,kreusa
+gdc,v1sm.0,71296,71429,xuthus,71315,71319,sich,kreusa
+gdc,v1sm.0,71296,71429,xuthus,71377,71379,er,jon
+gdc,v1sm.0,71296,71429,xuthus,71380,71383,sie,kreusa
+gdc,v1sm.0,71296,71429,xuthus,71391,71395,ihre,kreusa
+gdc,v1sm.0,71296,71429,xuthus,71412,71415,sie,kreusa
+gdc,v1sm.0,71435,71610,priesterin,71453,71458,König,xuthus
+gdc,v1sm.0,71435,71610,priesterin,71460,71472,deinem Sohne,jon
+gdc,v1sm.0,71435,71610,priesterin,71460,71466,deinem,xuthus
+gdc,v1sm.0,71435,71610,priesterin,71492,71495,ihn,jon
+gdc,v1sm.0,71435,71610,priesterin,71499,71502,dir,xuthus
+gdc,v1sm.0,71435,71610,priesterin,71525,71527,er,jon
+gdc,v1sm.0,71435,71610,priesterin,71528,71539,den Streich,den-Streich
+gdc,v1sm.0,71435,71610,priesterin,71568,71571,Der,den-Streich
+gdc,v1sm.0,71435,71610,priesterin,71572,71575,ihn,jon
+gdc,v1sm.0,71616,72274,xuthus,71636,71639,ich,xuthus
+gdc,v1sm.0,71616,72274,xuthus,71641,71647,Pythia,priesterin
+gdc,v1sm.0,71616,72274,xuthus,71666,71707,"Des Jünglings, der sich königlich bewährt",jon
+gdc,v1sm.0,71616,72274,xuthus,71681,71684,der,jon
+gdc,v1sm.0,71616,72274,xuthus,71685,71689,sich,jon
+gdc,v1sm.0,71616,72274,xuthus,71719,71727,Kreusens,kreusa
+gdc,v1sm.0,71616,72274,xuthus,71772,71775,ihr,kreusa
+gdc,v1sm.0,71616,72274,xuthus,71857,71870,dem Herrscher,dem-Herrscher
+gdc,v1sm.0,71616,72274,xuthus,71963,71965,er,dem-Herrscher
+gdc,v1sm.0,71616,72274,xuthus,72000,72004,sich,dem-Herrscher
+gdc,v1sm.0,71616,72274,xuthus,72047,72050,ihn,dem-Herrscher
+gdc,v1sm.0,71616,72274,xuthus,72077,72080,ich,xuthus
+gdc,v1sm.0,71616,72274,xuthus,72081,72087,deinem,priesterin
+gdc,v1sm.0,71616,72274,xuthus,72114,72117,ihr,ihr
+gdc,v1sm.0,71616,72274,xuthus,72125,72128,mir,xuthus
+gdc,v1sm.0,71616,72274,xuthus,72129,72140,den Prinzen,jon
+gdc,v1sm.0,71616,72274,xuthus,72148,72150,er,jon
+gdc,v1sm.0,71616,72274,xuthus,72213,72224,die Königin,kreusa
+gdc,v1sm.0,71616,72274,xuthus,72229,72232,ihr,ihr
+gdc,v1sm.0,71616,72274,xuthus,72233,72236,sie,kreusa
+gdc,v1sm.0,72248,72274,_stage,72259,72270,dem Gefolge,dessen-Gefolge
+gdc,v1sm.0,72279,72365,priesterin,72298,72300,du,xuthus
+gdc,v1sm.0,72279,72365,priesterin,72301,72313,deine Gattin,kreusa
+gdc,v1sm.0,72279,72365,priesterin,72301,72306,deine,xuthus
+gdc,v1sm.0,72279,72365,priesterin,72319,72324,Athen,Athen
+gdc,v1sm.0,72279,72365,priesterin,72349,72359,den Diener,phorbas
+gdc,v1sm.0,72371,72859,xuthus,72406,72409,sie,kreusa-und-phorbas
+gdc,v1sm.0,72371,72859,xuthus,72410,72420,die Heimat,Athen
+gdc,v1sm.0,72371,72859,xuthus,72445,72472,"der Ort, den ihre Mordsucht",Athen
+gdc,v1sm.0,72371,72859,xuthus,72454,72457,den,Athen
+gdc,v1sm.0,72371,72859,xuthus,72458,72462,ihre,kreusa-und-phorbas
+gdc,v1sm.0,72371,72859,xuthus,72582,72588,Delphi,Delphi
+gdc,v1sm.0,72371,72859,xuthus,72609,72638,"Urnen, welche Todeslose still","Urnen,-welche-Todeslose-still-------------------In-sich-versammeln-und-ans-Licht-dann-bringen"
+gdc,v1sm.0,72371,72859,xuthus,72616,72622,welche,"Urnen,-welche-Todeslose-still-------------------In-sich-versammeln-und-ans-Licht-dann-bringen"
+gdc,v1sm.0,72371,72859,xuthus,72643,72647,sich,"Urnen,-welche-Todeslose-still-------------------In-sich-versammeln-und-ans-Licht-dann-bringen"
+gdc,v1sm.0,72371,72859,xuthus,72720,72723,ich,xuthus
+gdc,v1sm.0,72371,72859,xuthus,72731,72735,Mein,xuthus
+gdc,v1sm.0,72371,72859,xuthus,72841,72844,ich,xuthus
+gdc,v1sm.0,72865,73216,priesterin,72887,72889,du,xuthus
+gdc,v1sm.0,72865,73216,priesterin,72908,72918,dein Reich,Athen
+gdc,v1sm.0,72865,73216,priesterin,72908,72912,dein,xuthus
+gdc,v1sm.0,72865,73216,priesterin,72934,72957,der Enkelin und Tochter,kreusa
+gdc,v1sm.0,72865,73216,priesterin,72971,72974,die,kreusa
+gdc,v1sm.0,72865,73216,priesterin,73008,73043,einem unbekannten Sohn des Auslands,jon
+gdc,v1sm.0,72865,73216,priesterin,73049,73055,deinen,xuthus
+gdc,v1sm.0,72865,73216,priesterin,73198,73202,dich,xuthus
+gdc,v1sm.0,73222,73278,xuthus,73230,73239,Das Recht,Das-Recht
+gdc,v1sm.0,73222,73278,xuthus,73256,73264,Mannheit,man
+gdc,v1sm.0,73222,73278,xuthus,73265,73267,es,Das-Recht
+gdc,v1sm.0,73283,73331,priesterin,73298,73300,es,Das-Recht
+gdc,v1sm.0,73283,73331,priesterin,73317,73320,ihr,kreusa
+gdc,v1sm.0,73336,73517,xuthus,73355,73366,die Schlaue,kreusa
+gdc,v1sm.0,73336,73517,xuthus,73370,73374,sich,kreusa
+gdc,v1sm.0,73336,73517,xuthus,73411,73424,ihres Frevels,die-Tat
+gdc,v1sm.0,73336,73517,xuthus,73411,73416,ihres,kreusa
+gdc,v1sm.0,73336,73517,xuthus,73509,73512,sie,kreusa
+gdc,v1sm.0,73523,73913,priesterin,73537,73540,ihr,xuthus
+gdc,v1sm.0,73523,73913,priesterin,73552,73582,"des Mord's geschworne Richter,","des-Mord's-geschworne-Richter,-------------------Areopag-genannt"
+gdc,v1sm.0,73523,73913,priesterin,73604,73609,ihrem,"des-Mord's-geschworne-Richter,-------------------Areopag-genannt"
+gdc,v1sm.0,73523,73913,priesterin,73671,73697,die Wage der Gerechtigkeit,die-Wage-der-Gerechtigkeit
+gdc,v1sm.0,73523,73913,priesterin,73763,73768,ihres,die-Wage-der-Gerechtigkeit
+gdc,v1sm.0,73523,73913,priesterin,73799,73802,sie,kreusa
+gdc,v1sm.0,73523,73913,priesterin,73856,73859,sie,kreusa
+gdc,v1sm.0,73523,73913,priesterin,73880,73884,dich,xuthus
+gdc,v1sm.0,74072,74401,priesterin,74090,74093,mir,priesterin
+gdc,v1sm.0,74072,74401,priesterin,74241,74248,Der Tat,die-Tat
+gdc,v1sm.0,74407,74872,xuthus,74416,74420,Dein,priesterin
+gdc,v1sm.0,74407,74872,xuthus,74435,74438,ich,xuthus
+gdc,v1sm.0,74407,74872,xuthus,74449,74452,mir,xuthus
+gdc,v1sm.0,74407,74872,xuthus,74472,74474,du,priesterin
+gdc,v1sm.0,74407,74872,xuthus,74484,74493,dem Weibe,kreusa
+gdc,v1sm.0,74407,74872,xuthus,74512,74515,Das,kreusa
+gdc,v1sm.0,74407,74872,xuthus,74520,74526,Apollo,apollo
+gdc,v1sm.0,74407,74872,xuthus,74537,74554,deinen Pflegesohn,jon
+gdc,v1sm.0,74407,74872,xuthus,74537,74543,deinen,priesterin
+gdc,v1sm.0,74407,74872,xuthus,74561,74564,ihm,apollo
+gdc,v1sm.0,74407,74872,xuthus,74569,74573,mein,xuthus
+gdc,v1sm.0,74407,74872,xuthus,74610,74613,ich,xuthus
+gdc,v1sm.0,74407,74872,xuthus,74645,74688,"Die Alten, denen obliegt, Recht zu sprechen","Die-Alten,-denen-obliegt,-Recht-zu-sprechen"
+gdc,v1sm.0,74407,74872,xuthus,74656,74661,denen,"Die-Alten,-denen-obliegt,-Recht-zu-sprechen"
+gdc,v1sm.0,74407,74872,xuthus,74717,74724,Delphis,Delphi
+gdc,v1sm.0,74407,74872,xuthus,74739,74742,ich,xuthus
+gdc,v1sm.0,74407,74872,xuthus,74743,74747,mich,xuthus
+gdc,v1sm.0,74407,74872,xuthus,74779,74782,Sie,"Die-Alten,-denen-obliegt,-Recht-zu-sprechen"
+gdc,v1sm.0,74407,74872,xuthus,74790,74793,mir,xuthus
+gdc,v1sm.0,74879,74976,priesterin,74897,74899,du,xuthus
+gdc,v1sm.0,74879,74976,priesterin,74907,74916,den Greis,phorbas
+gdc,v1sm.0,74879,74976,priesterin,74917,74921,mich,priesterin
+gdc,v1sm.0,74879,74976,priesterin,74952,74958,Kreusa,kreusa
+gdc,v1sm.0,74982,75033,phorbas,74991,74994,Sie,kreusa
+gdc,v1sm.0,74982,75033,phorbas,75009,75012,ich,phorbas
+gdc,v1sm.0,75038,75084,priesterin,75062,75066,dich,phorbas
+gdc,v1sm.0,75038,75084,priesterin,75068,75071,ihr,kreusa
+gdc,v1sm.0,75133,75179,priesterin,75141,75143,Du,phorbas
+gdc,v1sm.0,75133,75179,priesterin,75166,75178,deinem Herrn,xuthus
+gdc,v1sm.0,75133,75179,priesterin,75166,75172,deinem,phorbas
+gdc,v1sm.0,75184,75237,phorbas,75201,75222,die längstgestorb'nen,Den-Erichthonius-und-Erechtheus
+gdc,v1sm.0,75184,75237,phorbas,75228,75231,ich,phorbas
+gdc,v1sm.0,75242,75292,priesterin,75250,75281,Den Erichthonius und Erechtheus,Den-Erichthonius-und-Erechtheus
+gdc,v1sm.0,75242,75292,priesterin,75289,75291,du,phorbas
+gdc,v1sm.0,75297,75347,phorbas,75306,75309,Sie,Den-Erichthonius-und-Erechtheus
+gdc,v1sm.0,75297,75347,phorbas,75343,75346,mir,phorbas
+gdc,v1sm.0,75352,75404,priesterin,75377,75390,dein Anschlag,die-Tat
+gdc,v1sm.0,75352,75404,priesterin,75377,75381,dein,phorbas
+gdc,v1sm.0,75352,75404,priesterin,75400,75403,sie,Den-Erichthonius-und-Erechtheus
+gdc,v1sm.0,75409,75461,phorbas,75436,75439,ihr,Den-Erichthonius-und-Erechtheus
+gdc,v1sm.0,75466,75515,priesterin,75494,75514,dem harmlosen Knaben,jon
+gdc,v1sm.0,75574,76857,priesterin,75599,75602,ihr,kreusa-und-xuthus
+gdc,v1sm.0,75574,76857,priesterin,75609,75616,Apollen,apollo
+gdc,v1sm.0,75574,76857,priesterin,75686,75694,seinigen,apollo
+gdc,v1sm.0,75574,76857,priesterin,75705,75718,Die Unterwelt,Die-Unterwelt
+gdc,v1sm.0,75574,76857,priesterin,75793,75797,sich,Die-Unterwelt
+gdc,v1sm.0,75574,76857,priesterin,75824,75827,sie,Die-Unterwelt
+gdc,v1sm.0,75574,76857,priesterin,75837,75880,"Manch ängstendes Phantom, das wirklich wird","Manch-ängstendes-Phantom,-das-wirklich-wird"
+gdc,v1sm.0,75574,76857,priesterin,75863,75866,das,"Manch-ängstendes-Phantom,-das-wirklich-wird"
+gdc,v1sm.0,75574,76857,priesterin,75892,75894,es,"Manch-ängstendes-Phantom,-das-wirklich-wird"
+gdc,v1sm.0,75574,76857,priesterin,75916,75919,sie,Die-Unterwelt
+gdc,v1sm.0,75574,76857,priesterin,75920,75928,"Sprüche,","Sprüche,-------------------Die-der-Erfüllung-Grund-bloß-in-sich-tragen"
+gdc,v1sm.0,75574,76857,priesterin,75930,75933,Die,"Sprüche,-------------------Die-der-Erfüllung-Grund-bloß-in-sich-tragen"
+gdc,v1sm.0,75574,76857,priesterin,75962,75966,sich,"Sprüche,-------------------Die-der-Erfüllung-Grund-bloß-in-sich-tragen"
+gdc,v1sm.0,75574,76857,priesterin,76083,76086,ich,priesterin
+gdc,v1sm.0,75574,76857,priesterin,76098,76102,dich,xuthus
+gdc,v1sm.0,75574,76857,priesterin,76107,76119,deine Gattin,kreusa
+gdc,v1sm.0,75574,76857,priesterin,76107,76112,deine,xuthus
+gdc,v1sm.0,75574,76857,priesterin,76121,76132,edler König,xuthus
+gdc,v1sm.0,75574,76857,priesterin,76145,76149,euch,kreusa-und-xuthus
+gdc,v1sm.0,75574,76857,priesterin,76150,76156,beiden,kreusa-und-xuthus
+gdc,v1sm.0,75574,76857,priesterin,76158,76176,den geliebten Sohn,jon
+gdc,v1sm.0,75574,76857,priesterin,76330,76334,euch,kreusa-und-xuthus
+gdc,v1sm.0,75574,76857,priesterin,76352,76355,ihr,kreusa-und-xuthus
+gdc,v1sm.0,75574,76857,priesterin,76386,76394,Der Gott,apollo
+gdc,v1sm.0,75574,76857,priesterin,76530,76536,seiner,apollo
+gdc,v1sm.0,75574,76857,priesterin,76547,76550,ich,priesterin
+gdc,v1sm.0,75574,76857,priesterin,76558,76562,Mich,priesterin
+gdc,v1sm.0,75574,76857,priesterin,76605,76607,er,apollo
+gdc,v1sm.0,75574,76857,priesterin,76608,76611,mir,priesterin
+gdc,v1sm.0,75574,76857,priesterin,76673,76678,seine,apollo
+gdc,v1sm.0,75574,76857,priesterin,76685,76687,Du,xuthus
+gdc,v1sm.0,75574,76857,priesterin,76770,76774,Dich,xuthus
+gdc,v1sm.0,75574,76857,priesterin,76804,76808,Sohn,jon
+gdc,v1sm.0,75574,76857,priesterin,76813,76819,Gattin,kreusa
+gdc,v1sm.0,75574,76857,priesterin,76843,76846,dir,xuthus
+gdc,v1sm.0,76864,77138,xuthus,76881,76884,dir,priesterin
+gdc,v1sm.0,76864,77138,xuthus,76898,76901,ich,xuthus
+gdc,v1sm.0,76864,77138,xuthus,76907,76910,mir,xuthus
+gdc,v1sm.0,76864,77138,xuthus,76919,76922,Ich,xuthus
+gdc,v1sm.0,76864,77138,xuthus,76941,76944,ich,xuthus
+gdc,v1sm.0,76864,77138,xuthus,76945,76948,dir,priesterin
+gdc,v1sm.0,77051,77138,_stage,77051,77057,Pythia,priesterin
+gdc,v1sm.0,77051,77138,_stage,77064,77068,sich,priesterin
+gdc,v1sm.0,77051,77138,_stage,77088,77095,Tempels,Des-Heiligtums
+gdc,v1sm.0,77051,77138,_stage,77104,77110,Xuthus,xuthus
+gdc,v1sm.0,77051,77138,_stage,77115,77122,Phorbas,phorbas
+gdc,v1sm.0,77051,77138,_stage,77127,77134,Gefolge,dessen-Gefolge
+gdc,v1sm.0,77204,83324,kreusa,77239,77242,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77304,77307,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77375,77379,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77406,77410,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77459,77462,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77565,77568,Ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77628,77632,mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77860,77864,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77902,77905,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77914,77918,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77927,77930,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77952,77956,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,77993,77996,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78241,78244,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78267,78271,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78319,78322,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78360,78363,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78392,78396,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78449,78453,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78469,78472,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78524,78527,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78555,78558,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78732,78736,Mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78777,78780,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78822,78826,mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78855,78861,meinen,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78963,78966,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,78988,78992,mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,79123,79127,Mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,79229,79233,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,79454,79457,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,79510,79513,Ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,79657,79660,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,79932,79935,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,80265,80269,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,80361,80365,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,80524,80528,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,80677,80680,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,80736,80739,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,80962,80965,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81078,81082,mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81149,81152,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81251,81254,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81410,81413,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81501,81504,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81598,81602,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,81714,81717,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82095,82098,Ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82202,82206,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82226,82231,meine,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82278,82281,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82290,82294,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82354,82357,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82414,82418,mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82469,82472,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82611,82614,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82659,82662,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82698,82702,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82762,82767,meine,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82911,82914,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,82978,82982,mich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,83027,83030,mir,kreusa
+gdc,v1sm.0,77204,83324,kreusa,83060,83065,meine,kreusa
+gdc,v1sm.0,77204,83324,kreusa,83092,83095,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,83142,83146,mein,kreusa
+gdc,v1sm.0,77204,83324,kreusa,83185,83188,ich,kreusa
+gdc,v1sm.0,77204,83324,kreusa,83222,83225,ich,kreusa
+gdc,v1sm.0,83441,83901,priesterin,83459,83462,ich,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83486,83490,mich,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83507,83510,mir,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83526,83529,Ich,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83647,83650,ich,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83682,83686,mich,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83748,83751,Ich,priesterin
+gdc,v1sm.0,83441,83901,priesterin,83758,83761,ich,priesterin
+gdc,v1sm.0,83967,84426,jon,84018,84021,ich,jon
+gdc,v1sm.0,83967,84426,jon,84108,84111,Ich,jon
+gdc,v1sm.0,83967,84426,jon,84289,84292,mir,jon
+gdc,v1sm.0,83967,84426,jon,84367,84370,ich,jon
+gdc,v1sm.0,83967,84426,jon,84416,84419,ich,jon
+gdc,v1sm.0,84432,84487,kreusa,84468,84471,ich,kreusa
+gdc,v1sm.0,84492,84535,jon,84497,84500,Ich,jon
+gdc,v1sm.0,84540,84587,kreusa,84573,84576,ich,kreusa
+gdc,v1sm.0,84642,84688,kreusa,84676,84679,mir,kreusa
+gdc,v1sm.0,84791,84840,jon,84804,84807,ich,jon
+gdc,v1sm.0,84791,84840,jon,84821,84824,ich,jon
+gdc,v1sm.0,84845,84894,kreusa,84866,84869,mir,kreusa
+gdc,v1sm.0,85055,85105,kreusa,85087,85090,ich,kreusa
+gdc,v1sm.0,85055,85105,kreusa,85091,85095,mich,kreusa
+gdc,v1sm.0,85110,85159,jon,85119,85125,meinem,jon
+gdc,v1sm.0,85279,85331,kreusa,85308,85312,mich,kreusa
+gdc,v1sm.0,85336,85379,jon,85341,85344,Ich,jon
+gdc,v1sm.0,85447,85496,jon,85485,85489,mein,jon
+gdc,v1sm.0,85610,85777,kreusa,85619,85622,Ich,kreusa
+gdc,v1sm.0,85610,85777,kreusa,85651,85655,mein,kreusa
+gdc,v1sm.0,85610,85777,kreusa,85689,85692,mir,kreusa
+gdc,v1sm.0,85610,85777,kreusa,85707,85711,mich,kreusa
+gdc,v1sm.0,85782,85873,jon,85812,85817,meine,jon
+gdc,v1sm.0,85996,86107,priesterin,86064,86067,ich,priesterin
+gdc,v1sm.0,86113,86388,jon,86141,86144,ich,jon
+gdc,v1sm.0,86394,88178,priesterin,86836,86840,Mein,priesterin
+gdc,v1sm.0,86394,88178,priesterin,86949,86952,ich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,87025,87028,ich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,87240,87243,Ich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,87303,87306,ich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,87630,87633,ich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,87902,87906,mich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,88022,88025,ich,priesterin
+gdc,v1sm.0,86394,88178,priesterin,88112,88115,ich,priesterin
+gdc,v1sm.0,88183,89827,jon,88199,88202,ich,jon
+gdc,v1sm.0,88183,89827,jon,88236,88239,mir,jon
+gdc,v1sm.0,88183,89827,jon,88351,88354,ich,jon
+gdc,v1sm.0,88183,89827,jon,88481,88484,ich,jon
+gdc,v1sm.0,88183,89827,jon,88524,88527,Ich,jon
+gdc,v1sm.0,88183,89827,jon,88622,88625,mir,jon
+gdc,v1sm.0,88183,89827,jon,88641,88644,ich,jon
+gdc,v1sm.0,88183,89827,jon,88650,88655,meine,jon
+gdc,v1sm.0,88183,89827,jon,88684,88687,Ich,jon
+gdc,v1sm.0,88183,89827,jon,88849,88854,meine,jon
+gdc,v1sm.0,88183,89827,jon,88954,88958,mich,jon
+gdc,v1sm.0,88183,89827,jon,88991,88995,mich,jon
+gdc,v1sm.0,88183,89827,jon,89040,89043,mir,jon
+gdc,v1sm.0,88183,89827,jon,89114,89117,Ich,jon
+gdc,v1sm.0,88183,89827,jon,89170,89173,ich,jon
+gdc,v1sm.0,88183,89827,jon,89653,89656,ich,jon
+gdc,v1sm.0,88183,89827,jon,89697,89700,ich,jon
+gdc,v1sm.0,88183,89827,jon,89776,89779,Ich,jon
+gdc,v1sm.0,89833,90009,kreusa,89988,89992,Mein,kreusa
+gdc,v1sm.0,89833,90009,kreusa,89999,90003,mein,kreusa
+gdc,v1sm.0,90014,90043,jon,90027,90030,mir,jon
+gdc,v1sm.0,90109,90139,kreusa,90117,90121,Mein,kreusa
+gdc,v1sm.0,90231,90264,kreusa,90239,90242,Ich,kreusa
+gdc,v1sm.0,90270,90298,jon,90280,90283,ich,jon
+gdc,v1sm.0,90303,90352,kreusa,90322,90325,ich,kreusa
+gdc,v1sm.0,90357,90403,jon,90384,90388,mein,jon
+gdc,v1sm.0,90408,90442,kreusa,90426,90429,mir,kreusa
+gdc,v1sm.0,90473,90524,kreusa,90491,90494,ich,kreusa
+gdc,v1sm.0,90529,90578,jon,90546,90549,mir,jon
+gdc,v1sm.0,90529,90578,jon,90560,90563,ich,jon
+gdc,v1sm.0,90693,91048,kreusa,90791,90796,meine,kreusa
+gdc,v1sm.0,90693,91048,kreusa,90824,90828,mich,kreusa
+gdc,v1sm.0,90693,91048,kreusa,90879,90882,ich,kreusa
+gdc,v1sm.0,90693,91048,kreusa,90998,91001,ich,kreusa
+gdc,v1sm.0,90693,91048,kreusa,91016,91020,mein,kreusa
+gdc,v1sm.0,91054,91453,jon,91083,91088,meine,jon
+gdc,v1sm.0,91054,91453,jon,91103,91106,Ich,jon
+gdc,v1sm.0,91054,91453,jon,91123,91126,ich,jon
+gdc,v1sm.0,91054,91453,jon,91150,91154,Mich,jon
+gdc,v1sm.0,91054,91453,jon,91221,91225,mein,jon
+gdc,v1sm.0,91054,91453,jon,91311,91314,ich,jon
+gdc,v1sm.0,91459,91566,kreusa,91476,91479,ich,kreusa
+gdc,v1sm.0,91459,91566,kreusa,91498,91502,mich,kreusa
+gdc,v1sm.0,91459,91566,kreusa,91519,91522,Ich,kreusa
+gdc,v1sm.0,91572,91956,priesterin,91581,91584,Ich,priesterin
+gdc,v1sm.0,91962,92175,kreusa,91986,91989,ich,kreusa
+gdc,v1sm.0,91962,92175,kreusa,91997,92002,meine,kreusa
+gdc,v1sm.0,91962,92175,kreusa,92052,92055,Ich,kreusa
+gdc,v1sm.0,92323,92554,jon,92333,92336,ich,jon
+gdc,v1sm.0,92323,92554,jon,92432,92435,mir,jon
+gdc,v1sm.0,92323,92554,jon,92476,92480,mich,jon
+gdc,v1sm.0,92560,92738,kreusa,92569,92572,Ich,kreusa
+gdc,v1sm.0,92859,92987,jon,92891,92895,mich,jon
+gdc,v1sm.0,92859,92987,jon,92962,92965,ich,jon
+gdc,v1sm.0,93055,93231,jon,93074,93078,mich,jon
+gdc,v1sm.0,93055,93231,jon,93176,93180,mich,jon
+gdc,v1sm.0,93561,93822,jon,93649,93652,Ich,jon
+gdc,v1sm.0,93561,93822,jon,93734,93737,Ich,jon
+gdc,v1sm.0,93561,93822,jon,93743,93746,ich,jon
+gdc,v1sm.0,93828,94397,kreusa,93915,93918,Ich,kreusa
+gdc,v1sm.0,93828,94397,kreusa,93943,93946,mir,kreusa
+gdc,v1sm.0,93828,94397,kreusa,93979,93982,ich,kreusa
+gdc,v1sm.0,93828,94397,kreusa,94029,94032,ich,kreusa
+gdc,v1sm.0,93828,94397,kreusa,94050,94053,mir,kreusa
+gdc,v1sm.0,93828,94397,kreusa,94147,94150,ich,kreusa
+gdc,v1sm.0,93828,94397,kreusa,94325,94328,ich,kreusa
+gdc,v1sm.0,94404,94454,jon,94413,94416,mir,jon
+gdc,v1sm.0,94404,94454,jon,94432,94436,mein,jon
+gdc,v1sm.0,94459,94640,kreusa,94493,94497,mein,kreusa
+gdc,v1sm.0,94459,94640,kreusa,94546,94550,mich,kreusa
+gdc,v1sm.0,94459,94640,kreusa,94579,94582,mir,kreusa
+gdc,v1sm.0,94814,94988,kreusa,94831,94834,mir,kreusa
+gdc,v1sm.0,94814,94988,kreusa,94850,94853,mir,kreusa
+gdc,v1sm.0,94814,94988,kreusa,94872,94875,mir,kreusa
+gdc,v1sm.0,94814,94988,kreusa,94963,94966,ich,kreusa
+gdc,v1sm.0,94994,95521,priesterin,95234,95237,mir,priesterin
+gdc,v1sm.0,95527,95756,kreusa,95546,95549,mir,kreusa
+gdc,v1sm.0,95527,95756,kreusa,95629,95632,ich,kreusa
+gdc,v1sm.0,95527,95756,kreusa,95702,95705,ich,kreusa
+gdc,v1sm.0,96582,96671,jon,96617,96620,ich,jon
+gdc,v1sm.0,96677,97145,xuthus,96707,96710,ich,xuthus
+gdc,v1sm.0,97284,97465,xuthus,97386,97389,ich,xuthus
+gdc,v1sm.0,97472,97745,jon,97496,97500,mein,jon
+gdc,v1sm.0,97472,97745,jon,97511,97515,mein,jon
+gdc,v1sm.0,97472,97745,jon,97726,97730,mich,jon
+gdc,v1sm.0,97751,97981,xuthus,97760,97763,Mir,xuthus
+gdc,v1sm.0,97751,97981,xuthus,97854,97857,ich,xuthus
+gdc,v1sm.0,97751,97981,xuthus,97868,97872,mich,xuthus
+gdc,v1sm.0,97987,98170,jon,98112,98115,mir,jon
+gdc,v1sm.0,98176,98770,xuthus,98279,98282,ich,xuthus
+gdc,v1sm.0,98176,98770,xuthus,98300,98303,Ich,xuthus
+gdc,v1sm.0,98176,98770,xuthus,98478,98481,Ich,xuthus
+gdc,v1sm.0,98176,98770,xuthus,98607,98610,mir,xuthus
+gdc,v1sm.0,98776,99114,jon,98808,98812,mein,jon
+gdc,v1sm.0,98776,99114,jon,98833,98837,mich,jon
+gdc,v1sm.0,99120,99325,xuthus,99190,99193,ich,xuthus
+gdc,v1sm.0,99331,99803,jon,99468,99471,ich,jon
+gdc,v1sm.0,99331,99803,jon,99519,99523,mich,jon
+gdc,v1sm.0,99331,99803,jon,99554,99557,Ich,jon
+gdc,v1sm.0,99331,99803,jon,99609,99613,mich,jon
+gdc,v1sm.0,99331,99803,jon,99633,99636,ich,jon
+gdc,v1sm.0,99331,99803,jon,99731,99735,mich,jon
+gdc,v1sm.0,99331,99803,jon,99767,99771,mich,jon
+gdc,v1sm.0,99809,100262,xuthus,99864,99868,Mein,xuthus
+gdc,v1sm.0,99809,100262,xuthus,100147,100150,ich,xuthus
+gdc,v1sm.0,99809,100262,xuthus,100160,100163,mir,xuthus
+gdc,v1sm.0,99809,100262,xuthus,100228,100232,mich,xuthus
+gdc,v1sm.0,100337,100670,priesterin,100369,100372,mir,priesterin
+gdc,v1sm.0,100337,100670,priesterin,100389,100392,Ich,priesterin
+gdc,v1sm.0,100337,100670,priesterin,100399,100403,mein,priesterin
+gdc,v1sm.0,100337,100670,priesterin,100504,100507,mir,priesterin
+gdc,v1sm.0,100676,101288,xuthus,100997,101000,ich,xuthus
+gdc,v1sm.0,100676,101288,xuthus,101079,101083,mein,xuthus
+gdc,v1sm.0,100676,101288,xuthus,101165,101168,ich,xuthus
+gdc,v1sm.0,100676,101288,xuthus,101192,101195,mir,xuthus
+gdc,v1sm.0,100676,101288,xuthus,101275,101278,mir,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102185,102188,ich,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102192,102195,mir,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102233,102237,mich,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102306,102309,ich,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102324,102327,mir,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102762,102766,Mich,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102788,102791,mir,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102815,102820,meine,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102888,102891,ich,xuthus
+gdc,v1sm.0,102159,102971,xuthus,102951,102954,mir,xuthus
+gdc,v1sm.0,103498,104016,xuthus,103536,103539,ich,xuthus
+gdc,v1sm.0,103498,104016,xuthus,103674,103677,mir,xuthus
+gdc,v1sm.0,104368,104414,xuthus,104409,104413,mich,xuthus
+gdc,v1sm.0,104419,104559,priesterin,104477,104482,meine,priesterin
+gdc,v1sm.0,104419,104559,priesterin,104524,104527,ich,priesterin
+gdc,v1sm.0,104634,105500,kreusa,104747,104751,Mein,kreusa
+gdc,v1sm.0,104634,105500,kreusa,104781,104784,mir,kreusa
+gdc,v1sm.0,104634,105500,kreusa,104800,104803,ich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,104846,104849,mir,kreusa
+gdc,v1sm.0,104634,105500,kreusa,104959,104962,ich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105009,105014,meine,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105094,105097,mir,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105115,105119,mich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105160,105163,ich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105204,105208,mich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105245,105249,mich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105258,105261,ich,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105340,105343,mir,kreusa
+gdc,v1sm.0,104634,105500,kreusa,105459,105462,Mir,kreusa
+gdc,v1sm.0,105506,106179,xuthus,105572,105576,mich,xuthus
+gdc,v1sm.0,105506,106179,xuthus,105641,105644,ich,xuthus
+gdc,v1sm.0,105506,106179,xuthus,105668,105672,mich,xuthus
+gdc,v1sm.0,105506,106179,xuthus,105688,105691,ich,xuthus
+gdc,v1sm.0,105506,106179,xuthus,105721,105724,Ich,xuthus
+gdc,v1sm.0,105506,106179,xuthus,105820,105823,mir,xuthus
+gdc,v1sm.0,105506,106179,xuthus,105939,105942,ich,xuthus
+gdc,v1sm.0,105506,106179,xuthus,106120,106123,ich,xuthus
+gdc,v1sm.0,106185,106674,kreusa,106302,106307,meine,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106348,106351,ich,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106382,106385,ich,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106419,106422,ich,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106423,106427,mich,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106460,106466,meiner,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106517,106521,mich,kreusa
+gdc,v1sm.0,106185,106674,kreusa,106623,106627,mich,kreusa
+gdc,v1sm.0,106680,107708,jon,106752,106755,mir,jon
+gdc,v1sm.0,106680,107708,jon,106842,106846,mein,jon
+gdc,v1sm.0,106680,107708,jon,106928,106932,mein,jon
+gdc,v1sm.0,106680,107708,jon,106947,106950,Ich,jon
+gdc,v1sm.0,106680,107708,jon,107140,107144,mein,jon
+gdc,v1sm.0,106680,107708,jon,107171,107174,ich,jon
+gdc,v1sm.0,106680,107708,jon,107215,107218,ich,jon
+gdc,v1sm.0,106680,107708,jon,107219,107223,mich,jon
+gdc,v1sm.0,106680,107708,jon,107258,107261,Ich,jon
+gdc,v1sm.0,106680,107708,jon,107296,107300,Mich,jon
+gdc,v1sm.0,106680,107708,jon,107351,107354,ich,jon
+gdc,v1sm.0,106680,107708,jon,107387,107390,Ich,jon
+gdc,v1sm.0,106680,107708,jon,107396,107399,mir,jon
+gdc,v1sm.0,106680,107708,jon,107476,107480,mein,jon
+gdc,v1sm.0,106680,107708,jon,107494,107498,mein,jon
+gdc,v1sm.0,106680,107708,jon,107542,107545,ich,jon
+gdc,v1sm.0,106680,107708,jon,107565,107571,meines,jon
+gdc,v1sm.0,106680,107708,jon,107647,107650,mir,jon
+gdc,v1sm.0,106680,107708,jon,107674,107678,mich,jon
+gdc,v1sm.0,107714,107939,priesterin,107723,107727,Mein,priesterin
+gdc,v1sm.0,108050,109494,apollo,108069,108072,ich,apollo
+gdc,v1sm.0,108050,109494,apollo,108108,108112,mich,apollo
+gdc,v1sm.0,108050,109494,apollo,108197,108201,Mein,apollo
+gdc,v1sm.0,108050,109494,apollo,108223,108226,ich,apollo
+gdc,v1sm.0,108050,109494,apollo,108260,108266,meiner,apollo
+gdc,v1sm.0,108050,109494,apollo,108330,108333,mir,apollo
+gdc,v1sm.0,108050,109494,apollo,108579,108583,mich,apollo
+gdc,v1sm.0,108050,109494,apollo,108805,108811,meiner,apollo
+gdc,v1sm.0,108050,109494,apollo,109361,109364,mir,apollo

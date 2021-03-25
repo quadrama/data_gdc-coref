@@ -1,0 +1,1847 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,11g9w.0,832,1004,soest,888,891,mir,soest
+gdc,11g9w.0,832,1004,soest,978,981,ich,soest
+gdc,11g9w.0,1218,1419,buyck,1249,1252,ich,buyck
+gdc,11g9w.0,1218,1419,buyck,1303,1306,ich,buyck
+gdc,11g9w.0,1218,1419,buyck,1373,1376,ich,buyck
+gdc,11g9w.0,1424,1515,soest,1431,1434,Ich,soest
+gdc,11g9w.0,1424,1515,soest,1478,1481,ich,soest
+gdc,11g9w.0,1844,1870,ruysum,1856,1859,ich,ruysum
+gdc,11g9w.0,1904,1981,ruysum,1916,1919,ich,ruysum
+gdc,11g9w.0,1986,2393,buyck,2007,2010,ich,buyck
+gdc,11g9w.0,1986,2393,buyck,2203,2206,ich,buyck
+gdc,11g9w.0,1986,2393,buyck,2308,2313,meine,buyck
+gdc,11g9w.0,2451,2526,buyck,2458,2461,Ich,buyck
+gdc,11g9w.0,3384,3861,ruysum,3645,3649,mich,ruysum
+gdc,11g9w.0,3384,3861,ruysum,3795,3798,ich,ruysum
+gdc,11g9w.0,3384,3861,ruysum,3809,3813,mich,ruysum
+gdc,11g9w.0,4189,4282,jetter,4213,4216,ich,jetter
+gdc,11g9w.0,5019,5263,ruysum,5043,5048,meine,ruysum
+gdc,11g9w.0,5019,5263,ruysum,5066,5069,Ich,ruysum
+gdc,11g9w.0,5019,5263,ruysum,5137,5140,ich,ruysum
+gdc,11g9w.0,5019,5263,ruysum,5207,5210,ich,ruysum
+gdc,11g9w.0,5268,6782,buyck,5414,5417,ich,buyck
+gdc,11g9w.0,5268,6782,buyck,5418,5422,mein,buyck
+gdc,11g9w.0,6945,7065,soest,6980,6983,Ich,soest
+gdc,11g9w.0,6945,7065,soest,6990,6993,mir,soest
+gdc,11g9w.0,6945,7065,soest,7034,7037,mir,soest
+gdc,11g9w.0,7914,8280,jetter,8194,8197,Ich,jetter
+gdc,11g9w.0,7914,8280,jetter,8252,8255,ich,jetter
+gdc,11g9w.0,8285,8592,buyck,8292,8295,Ich,buyck
+gdc,11g9w.0,8661,9040,jetter,8944,8947,ich,jetter
+gdc,11g9w.0,8661,9040,jetter,8968,8971,ich,jetter
+gdc,11g9w.0,8661,9040,jetter,8991,8995,mich,jetter
+gdc,11g9w.0,8661,9040,jetter,9031,9034,ich,jetter
+gdc,11g9w.0,9242,9813,jetter,9307,9311,mein,jetter
+gdc,11g9w.0,9242,9813,jetter,9333,9336,ich,jetter
+gdc,11g9w.0,9242,9813,jetter,9345,9351,meiner,jetter
+gdc,11g9w.0,9242,9813,jetter,9448,9451,ich,jetter
+gdc,11g9w.0,9242,9813,jetter,9476,9479,mir,jetter
+gdc,11g9w.0,9242,9813,jetter,9509,9512,ich,jetter
+gdc,11g9w.0,9242,9813,jetter,9552,9555,ich,jetter
+gdc,11g9w.0,9242,9813,jetter,9718,9721,ich,jetter
+gdc,11g9w.0,9242,9813,jetter,9754,9760,meinen,jetter
+gdc,11g9w.0,9818,10247,soest,9852,9855,ich,soest
+gdc,11g9w.0,10252,10390,jetter,10292,10295,Ich,jetter
+gdc,11g9w.0,10252,10390,jetter,10353,10356,Mir,jetter
+gdc,11g9w.0,10443,10507,soest,10460,10463,ich,soest
+gdc,11g9w.0,11107,11843,jetter,11263,11266,ich,jetter
+gdc,11g9w.0,11912,12022,jetter,11975,11978,ich,jetter
+gdc,11g9w.0,11912,12022,jetter,12009,12012,ich,jetter
+gdc,11g9w.0,12027,12059,buyck,12044,12047,ich,buyck
+gdc,11g9w.0,13084,14556,regentin,13119,13122,ich,regentin
+gdc,11g9w.0,13084,14556,regentin,13178,13181,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,13259,13262,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,13287,13291,mich,regentin
+gdc,11g9w.0,13084,14556,regentin,13309,13313,mich,regentin
+gdc,11g9w.0,13084,14556,regentin,13368,13371,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,13421,13427,meiner,regentin
+gdc,11g9w.0,13084,14556,regentin,13434,13440,meiner,regentin
+gdc,11g9w.0,13084,14556,regentin,13466,13469,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,13470,13474,mein,regentin
+gdc,11g9w.0,13084,14556,regentin,13551,13554,ich,regentin
+gdc,11g9w.0,13084,14556,regentin,13630,13633,Ich,regentin
+gdc,11g9w.0,13084,14556,regentin,13703,13706,ich,regentin
+gdc,11g9w.0,13084,14556,regentin,13707,13710,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,13728,13731,ich,regentin
+gdc,11g9w.0,13084,14556,regentin,13756,13760,mich,regentin
+gdc,11g9w.0,13084,14556,regentin,13765,13768,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,13794,13798,mein,regentin
+gdc,11g9w.0,13084,14556,regentin,14152,14155,ich,regentin
+gdc,11g9w.0,13084,14556,regentin,14224,14227,mir,regentin
+gdc,11g9w.0,13084,14556,regentin,14329,14332,Ich,regentin
+gdc,11g9w.0,14747,15738,machiavell,14812,14815,Ich,machiavell
+gdc,11g9w.0,15743,15937,regentin,15771,15775,mich,regentin
+gdc,11g9w.0,15743,15937,regentin,15907,15910,mir,regentin
+gdc,11g9w.0,15942,16350,machiavell,15977,15982,meine,machiavell
+gdc,11g9w.0,15942,16350,machiavell,16046,16052,meinen,machiavell
+gdc,11g9w.0,15942,16350,machiavell,16099,16105,meinem,machiavell
+gdc,11g9w.0,15942,16350,machiavell,16274,16277,ich,machiavell
+gdc,11g9w.0,15942,16350,machiavell,16320,16323,ich,machiavell
+gdc,11g9w.0,16355,16417,regentin,16365,16368,Ich,regentin
+gdc,11g9w.0,16750,17500,regentin,16799,16803,mein,regentin
+gdc,11g9w.0,16750,17500,regentin,16896,16899,mir,regentin
+gdc,11g9w.0,16750,17500,regentin,17357,17360,ich,regentin
+gdc,11g9w.0,16750,17500,regentin,17379,17382,ich,regentin
+gdc,11g9w.0,16750,17500,regentin,17441,17444,ich,regentin
+gdc,11g9w.0,17505,18075,machiavell,17517,17520,Ich,machiavell
+gdc,11g9w.0,18080,18566,regentin,18117,18120,Ich,regentin
+gdc,11g9w.0,18572,18623,machiavell,18619,18622,mir,machiavell
+gdc,11g9w.0,18628,18886,regentin,18638,18641,Ich,regentin
+gdc,11g9w.0,18628,18886,regentin,18858,18861,ich,regentin
+gdc,11g9w.0,18891,18926,machiavell,18922,18925,mir,machiavell
+gdc,11g9w.0,18931,19031,regentin,18941,18944,Ich,regentin
+gdc,11g9w.0,18931,19031,regentin,18967,18970,mir,regentin
+gdc,11g9w.0,19076,19450,regentin,19150,19153,Ich,regentin
+gdc,11g9w.0,19076,19450,regentin,19199,19202,ich,regentin
+gdc,11g9w.0,19076,19450,regentin,19255,19258,Ich,regentin
+gdc,11g9w.0,19076,19450,regentin,19265,19271,meinen,regentin
+gdc,11g9w.0,19076,19450,regentin,19299,19303,mich,regentin
+gdc,11g9w.0,19076,19450,regentin,19325,19328,ich,regentin
+gdc,11g9w.0,19076,19450,regentin,19329,19333,mich,regentin
+gdc,11g9w.0,20525,20633,machiavell,20577,20580,ich,machiavell
+gdc,11g9w.0,20639,20910,regentin,20683,20686,ich,regentin
+gdc,11g9w.0,20639,20910,regentin,20699,20704,meine,regentin
+gdc,11g9w.0,20639,20910,regentin,20847,20851,mich,regentin
+gdc,11g9w.0,20954,21238,regentin,20969,20972,ich,regentin
+gdc,11g9w.0,20954,21238,regentin,20991,20994,ich,regentin
+gdc,11g9w.0,20954,21238,regentin,21016,21019,ich,regentin
+gdc,11g9w.0,21928,21989,machiavell,21940,21943,Ich,machiavell
+gdc,11g9w.0,22577,22628,machiavell,22589,22592,Ich,machiavell
+gdc,11g9w.0,22634,23163,regentin,22663,22666,ich,regentin
+gdc,11g9w.0,22634,23163,regentin,22992,22995,ich,regentin
+gdc,11g9w.0,22634,23163,regentin,23002,23006,mich,regentin
+gdc,11g9w.0,22634,23163,regentin,23062,23065,Ich,regentin
+gdc,11g9w.0,22634,23163,regentin,23116,23120,mich,regentin
+gdc,11g9w.0,23168,23236,machiavell,23191,23194,mir,machiavell
+gdc,11g9w.0,23545,23709,machiavell,23557,23560,Ich,machiavell
+gdc,11g9w.0,23714,24422,regentin,23724,23727,Ich,regentin
+gdc,11g9w.0,23714,24422,regentin,23745,23748,Ich,regentin
+gdc,11g9w.0,23714,24422,regentin,23797,23800,ich,regentin
+gdc,11g9w.0,23714,24422,regentin,24240,24244,mich,regentin
+gdc,11g9w.0,23714,24422,regentin,24254,24257,ich,regentin
+gdc,11g9w.0,23714,24422,regentin,24318,24321,ich,regentin
+gdc,11g9w.0,23714,24422,regentin,24365,24368,ich,regentin
+gdc,11g9w.0,24504,25004,regentin,24514,24517,Ich,regentin
+gdc,11g9w.0,24504,25004,regentin,24556,24559,Ich,regentin
+gdc,11g9w.0,24504,25004,regentin,24639,24642,mir,regentin
+gdc,11g9w.0,24504,25004,regentin,24763,24766,mir,regentin
+gdc,11g9w.0,24504,25004,regentin,24872,24876,mein,regentin
+gdc,11g9w.0,24504,25004,regentin,24956,24959,Ich,regentin
+gdc,11g9w.0,25131,25187,klare_klaerchen,25148,25151,mir,klare_klaerchen
+gdc,11g9w.0,25192,25245,brackenburg,25205,25208,Ich,brackenburg
+gdc,11g9w.0,25192,25245,brackenburg,25230,25234,mich,brackenburg
+gdc,11g9w.0,25250,25328,klare_klaerchen,25296,25299,mir,klare_klaerchen
+gdc,11g9w.0,25333,25436,brackenburg,25356,25360,mich,brackenburg
+gdc,11g9w.0,25333,25436,brackenburg,25397,25400,ich,brackenburg
+gdc,11g9w.0,25479,25615,mutter,25585,25588,ich,mutter
+gdc,11g9w.0,25706,26631,klare_klaerchen,25776,25780,mein,klare_klaerchen
+gdc,11g9w.0,25706,26631,klare_klaerchen,25886,25890,Mein,klare_klaerchen
+gdc,11g9w.0,25706,26631,klare_klaerchen,25989,25992,mir,klare_klaerchen
+gdc,11g9w.0,25706,26631,klare_klaerchen,26015,26018,mir,klare_klaerchen
+gdc,11g9w.0,25706,26631,klare_klaerchen,26037,26040,ich,klare_klaerchen
+gdc,11g9w.0,25706,26631,klare_klaerchen,26076,26079,Ich,klare_klaerchen
+gdc,11g9w.0,26636,26704,mutter,26683,26686,Ich,mutter
+gdc,11g9w.0,26761,27062,klare_klaerchen,27045,27048,mir,klare_klaerchen
+gdc,11g9w.0,27067,27173,brackenburg,27080,27083,Ich,brackenburg
+gdc,11g9w.0,27067,27173,brackenburg,27090,27093,Ich,brackenburg
+gdc,11g9w.0,27224,27486,klare_klaerchen,27231,27234,Ich,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27269,27272,mir,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27302,27305,mir,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27311,27314,Ich,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27337,27340,ich,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27341,27345,mich,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27371,27374,Ich,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27403,27407,mich,klare_klaerchen
+gdc,11g9w.0,27224,27486,klare_klaerchen,27462,27465,ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27540,27543,Ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27570,27573,ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27603,27608,Meine,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27661,27665,mich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27697,27700,Ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27707,27710,mir,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27725,27728,ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27746,27749,ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27800,27803,Ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27830,27833,ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27852,27855,Ich,klare_klaerchen
+gdc,11g9w.0,27533,27935,klare_klaerchen,27892,27895,ich,klare_klaerchen
+gdc,11g9w.0,27972,28110,klare_klaerchen,27979,27982,Ich,klare_klaerchen
+gdc,11g9w.0,27972,28110,klare_klaerchen,28040,28043,Ich,klare_klaerchen
+gdc,11g9w.0,27972,28110,klare_klaerchen,28082,28085,ich,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28291,28294,Ich,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28332,28335,ich,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28376,28379,ich,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28420,28423,ich,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28456,28459,mir,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28493,28496,mir,klare_klaerchen
+gdc,11g9w.0,28284,28653,klare_klaerchen,28578,28581,ich,klare_klaerchen
+gdc,11g9w.0,28704,28790,klare_klaerchen,28716,28719,ich,klare_klaerchen
+gdc,11g9w.0,28704,28790,klare_klaerchen,28737,28741,mich,klare_klaerchen
+gdc,11g9w.0,28704,28790,klare_klaerchen,28759,28763,mich,klare_klaerchen
+gdc,11g9w.0,28795,28984,mutter,28959,28963,mich,mutter
+gdc,11g9w.0,29040,29088,mutter,29059,29062,ich,mutter
+gdc,11g9w.0,29093,29332,klare_klaerchen,29127,29130,ich,klare_klaerchen
+gdc,11g9w.0,29093,29332,klare_klaerchen,29162,29166,mich,klare_klaerchen
+gdc,11g9w.0,29093,29332,klare_klaerchen,29245,29249,mich,klare_klaerchen
+gdc,11g9w.0,29337,29369,mutter,29351,29354,mir,mutter
+gdc,11g9w.0,29374,29607,klare_klaerchen,29545,29549,mich,klare_klaerchen
+gdc,11g9w.0,29374,29607,klare_klaerchen,29559,29562,ich,klare_klaerchen
+gdc,11g9w.0,29612,29661,mutter,29627,29630,ich,mutter
+gdc,11g9w.0,29666,29902,klare_klaerchen,29840,29843,ich,klare_klaerchen
+gdc,11g9w.0,29666,29902,klare_klaerchen,29848,29854,meinem,klare_klaerchen
+gdc,11g9w.0,29908,30056,mutter,29927,29930,ich,mutter
+gdc,11g9w.0,29908,30056,mutter,30014,30017,Ich,mutter
+gdc,11g9w.0,29908,30056,mutter,30041,30046,meine,mutter
+gdc,11g9w.0,30061,30158,klare_klaerchen,30140,30144,mich,klare_klaerchen
+gdc,11g9w.0,30163,30327,mutter,30201,30205,mich,mutter
+gdc,11g9w.0,30163,30327,mutter,30246,30249,mir,mutter
+gdc,11g9w.0,30163,30327,mutter,30276,30281,meine,mutter
+gdc,11g9w.0,30332,30696,klare_klaerchen,30489,30494,meine,klare_klaerchen
+gdc,11g9w.0,30794,31063,klare_klaerchen,30898,30901,mir,klare_klaerchen
+gdc,11g9w.0,30794,31063,klare_klaerchen,30944,30947,mir,klare_klaerchen
+gdc,11g9w.0,30794,31063,klare_klaerchen,31005,31009,mich,klare_klaerchen
+gdc,11g9w.0,31101,31472,klare_klaerchen,31117,31121,mich,klare_klaerchen
+gdc,11g9w.0,31101,31472,klare_klaerchen,31184,31187,ich,klare_klaerchen
+gdc,11g9w.0,31101,31472,klare_klaerchen,31228,31231,ich,klare_klaerchen
+gdc,11g9w.0,31101,31472,klare_klaerchen,31281,31284,ich,klare_klaerchen
+gdc,11g9w.0,31101,31472,klare_klaerchen,31333,31336,ich,klare_klaerchen
+gdc,11g9w.0,31101,31472,klare_klaerchen,31351,31354,ich,klare_klaerchen
+gdc,11g9w.0,31626,31948,klare_klaerchen,31658,31661,ich,klare_klaerchen
+gdc,11g9w.0,31626,31948,klare_klaerchen,31820,31823,ich,klare_klaerchen
+gdc,11g9w.0,31626,31948,klare_klaerchen,31856,31859,mir,klare_klaerchen
+gdc,11g9w.0,31626,31948,klare_klaerchen,31879,31882,Ich,klare_klaerchen
+gdc,11g9w.0,31626,31948,klare_klaerchen,31918,31921,ich,klare_klaerchen
+gdc,11g9w.0,31626,31948,klare_klaerchen,31922,31926,mich,klare_klaerchen
+gdc,11g9w.0,31954,32205,mutter,32187,32190,Ich,mutter
+gdc,11g9w.0,32210,32878,klare_klaerchen,32222,32225,ich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32290,32293,ich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32446,32450,Mich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32481,32484,ich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32632,32635,ich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32636,32640,mich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32664,32667,ich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32668,32671,mir,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32713,32716,ich,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32717,32720,mir,klare_klaerchen
+gdc,11g9w.0,32210,32878,klare_klaerchen,32843,32846,mir,klare_klaerchen
+gdc,11g9w.0,32907,33229,brackenburg,33166,33169,Ich,brackenburg
+gdc,11g9w.0,32907,33229,brackenburg,33190,33196,meinem,brackenburg
+gdc,11g9w.0,33234,33462,klare_klaerchen,33264,33267,Ich,klare_klaerchen
+gdc,11g9w.0,33234,33462,klare_klaerchen,33273,33277,mich,klare_klaerchen
+gdc,11g9w.0,33234,33462,klare_klaerchen,33320,33323,ich,klare_klaerchen
+gdc,11g9w.0,33234,33462,klare_klaerchen,33358,33361,mir,klare_klaerchen
+gdc,11g9w.0,33234,33462,klare_klaerchen,33434,33437,mir,klare_klaerchen
+gdc,11g9w.0,33614,36268,brackenburg,33634,33637,Ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,33644,33647,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,33720,33724,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,33743,33746,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,33944,33947,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34261,34264,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34265,34269,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34309,34312,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34345,34349,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34397,34401,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34469,34472,Ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34524,34527,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34621,34625,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34786,34789,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34817,34821,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34837,34841,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34876,34879,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34899,34902,Ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34909,34912,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34943,34947,mein,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,34997,35000,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35035,35038,Ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35099,35102,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35146,35150,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35169,35173,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35278,35281,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35313,35316,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35317,35321,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35334,35337,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35384,35387,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35400,35403,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35434,35438,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35463,35466,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35496,35500,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35509,35513,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35544,35547,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35601,35604,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35667,35670,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35843,35847,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35900,35904,mich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35929,35932,mir,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,35941,35944,ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,36073,36076,Ich,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,36105,36111,meines,brackenburg
+gdc,11g9w.0,33614,36268,brackenburg,36178,36181,mir,brackenburg
+gdc,11g9w.0,36313,36358,_stage,36313,36319,Jetter,jetter
+gdc,11g9w.0,36313,36358,_stage,36324,36341,ein Zimmermeister,zimmermeister
+gdc,11g9w.0,36360,36474,zimmermeister,36380,36383,ich,zimmermeister
+gdc,11g9w.0,36360,36474,zimmermeister,36439,36442,ich,zimmermeister
+gdc,11g9w.0,36479,36553,jetter,36508,36511,sie,Calvinisten
+gdc,11g9w.0,36558,36966,zimmermeister,36611,36614,sie,Calvinisten
+gdc,11g9w.0,36558,36966,zimmermeister,36677,36680,sie,Calvinisten
+gdc,11g9w.0,36558,36966,zimmermeister,36703,36717,Lumpengesindel,Calvinisten
+gdc,11g9w.0,36558,36966,zimmermeister,36759,36762,Wir,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36807,36813,unsere,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36826,36838,der Regentin,regentin
+gdc,11g9w.0,36558,36966,zimmermeister,36880,36883,wir,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36902,36905,wir,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36906,36909,uns,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36926,36928,es,es
+gdc,11g9w.0,36558,36966,zimmermeister,36930,36965,wir gesellen uns zu den Aufwieglern,es
+gdc,11g9w.0,36558,36966,zimmermeister,36930,36933,wir,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36943,36946,uns,Das-Volk
+gdc,11g9w.0,36558,36966,zimmermeister,36950,36965,den Aufwieglern,den-Aufwieglern
+gdc,11g9w.0,36971,37086,jetter,37017,37019,du,zimmermeister
+gdc,11g9w.0,36971,37086,jetter,37024,37030,deiner,zimmermeister
+gdc,11g9w.0,37091,37334,zimmermeister,37106,37109,Mir,zimmermeister
+gdc,11g9w.0,37091,37334,zimmermeister,37143,37151,dem Pack,den-Aufwieglern
+gdc,11g9w.0,37091,37334,zimmermeister,37177,37185,dem Volk,dem-Volk
+gdc,11g9w.0,37091,37334,zimmermeister,37187,37214,das nichts zu verlieren hat,dem-Volk
+gdc,11g9w.0,37091,37334,zimmermeister,37216,37219,Die,den-Aufwieglern
+gdc,11g9w.0,37091,37334,zimmermeister,37254,37257,wir,Das-Volk
+gdc,11g9w.0,37091,37334,zimmermeister,37258,37261,uns,Das-Volk
+gdc,11g9w.0,37317,37334,_stage,37317,37322,Soest,soest
+gdc,11g9w.0,37338,37452,soest,37401,37418,die Bilderstürmer,Calvinisten
+gdc,11g9w.0,37338,37452,soest,37434,37439,ihren,Calvinisten
+gdc,11g9w.0,37457,37504,zimmermeister,37484,37487,sie,Calvinisten
+gdc,11g9w.0,37509,37823,soest,37524,37534,ein Soldat,ein-Soldat
+gdc,11g9w.0,37509,37823,soest,37539,37542,mir,soest
+gdc,11g9w.0,37509,37823,soest,37565,37568,den,ein-Soldat
+gdc,11g9w.0,37509,37823,soest,37575,37578,ich,soest
+gdc,11g9w.0,37509,37823,soest,37584,37596,Die Regentin,regentin
+gdc,11g9w.0,37509,37823,soest,37598,37623,so eine wackre kluge Frau,regentin
+gdc,11g9w.0,37509,37823,soest,37624,37627,sie,regentin
+gdc,11g9w.0,37509,37823,soest,37648,37651,sie,regentin
+gdc,11g9w.0,37509,37823,soest,37693,37696,sie,regentin
+gdc,11g9w.0,37509,37823,soest,37697,37701,sich,regentin
+gdc,11g9w.0,37509,37823,soest,37721,37725,ihre,regentin
+gdc,11g9w.0,37509,37823,soest,37790,37793,sie,regentin
+gdc,11g9w.0,37509,37823,soest,37804,37813,der Stadt,Brüssel
+gdc,11g9w.0,37828,38093,zimmermeister,37855,37858,sie,regentin
+gdc,11g9w.0,37828,38093,zimmermeister,37866,37870,Ihre,regentin
+gdc,11g9w.0,37828,38093,zimmermeister,37891,37894,uns,Das-Volk
+gdc,11g9w.0,37828,38093,zimmermeister,37900,37903,wir,Das-Volk
+gdc,11g9w.0,37828,38093,zimmermeister,37911,37914,ihr,regentin
+gdc,11g9w.0,37828,38093,zimmermeister,37947,37951,ihre,regentin
+gdc,11g9w.0,37828,38093,zimmermeister,37973,37976,sie,regentin
+gdc,11g9w.0,37828,38093,zimmermeister,37977,37980,uns,Das-Volk
+gdc,11g9w.0,37828,38093,zimmermeister,37981,37987,unsere,Das-Volk
+gdc,11g9w.0,37828,38093,zimmermeister,38037,38040,wir,Das-Volk
+gdc,11g9w.0,37828,38093,zimmermeister,38041,38044,sie,regentin
+gdc,11g9w.0,38069,38093,_stage,38069,38081,Seifensieder,seifensieder
+gdc,11g9w.0,38097,38259,seifensieder,38186,38190,euch,zimmermeister-/-soest-+-1
+gdc,11g9w.0,38097,38259,seifensieder,38196,38199,ihr,zimmermeister-/-soest-+-1
+gdc,11g9w.0,38097,38259,seifensieder,38219,38222,man,Man
+gdc,11g9w.0,38097,38259,seifensieder,38223,38227,euch,zimmermeister-/-soest-+-1
+gdc,11g9w.0,38321,38602,seifensieder,38335,38338,Ich,seifensieder
+gdc,11g9w.0,38321,38602,seifensieder,38353,38358,viele,viele
+gdc,11g9w.0,38321,38602,seifensieder,38360,38461,"die es heimlich mit den Calvinisten halten, die auf die Bischöfe lästern, die den König nicht scheuen",viele
+gdc,11g9w.0,38321,38602,seifensieder,38380,38395,den Calvinisten,Calvinisten
+gdc,11g9w.0,38519,38602,_stage,38549,38562,allerlei Volk,Das-Volk
+gdc,11g9w.0,38519,38602,_stage,38566,38571,ihnen,zimmermeister-/-soest-+-1
+gdc,11g9w.0,38519,38602,_stage,38584,38590,Vansen,vansen
+gdc,11g9w.0,38606,38647,vansen,38624,38635,euch Herren,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,38652,38723,zimmermeister,38681,38684,dem,vansen
+gdc,11g9w.0,38652,38723,zimmermeister,38703,38722,ein schlechter Kerl,vansen
+gdc,11g9w.0,38728,38781,jetter,38749,38762,der Schreiber,vansen
+gdc,11g9w.0,38786,39062,zimmermeister,38801,38803,Er,vansen
+gdc,11g9w.0,38786,39062,zimmermeister,38844,38846,er,vansen
+gdc,11g9w.0,38786,39062,zimmermeister,38866,38869,ihn,vansen
+gdc,11g9w.0,38786,39062,zimmermeister,38939,38941,er,vansen
+gdc,11g9w.0,39013,39062,_stage,39027,39031,Volk,Das-Volk
+gdc,11g9w.0,39156,39177,soest,39163,39166,Ich,soest
+gdc,11g9w.0,39182,39330,vansen,39276,39279,wir,Das-Volk
+gdc,11g9w.0,39335,39405,soest,39342,39347,Herre,vansen
+gdc,11g9w.0,39335,39405,soest,39357,39360,Ihr,vansen
+gdc,11g9w.0,39335,39405,soest,39374,39377,Wir,Das-Volk
+gdc,11g9w.0,39335,39405,soest,39384,39393,dem König,Philipp-II.-
+gdc,11g9w.0,39410,39447,vansen,39422,39431,der König,Philipp-II.-
+gdc,11g9w.0,39410,39447,vansen,39432,39435,uns,Das-Volk
+gdc,11g9w.0,39452,39499,jetter,39486,39490,Eure,vansen
+gdc,11g9w.0,39504,39557,,39526,39529,der,vansen
+gdc,11g9w.0,39504,39557,,39542,39545,Der,vansen
+gdc,11g9w.0,39562,40162,vansen,39570,39573,Ich,vansen
+gdc,11g9w.0,39562,40162,vansen,39580,39598,einen alten Patron,Patron-des-Vansen
+gdc,11g9w.0,39562,40162,vansen,39600,39687,"der besaß Pergamente  und Briefe von uralten Stiftungen, Kontrakten und Gerechtigkeiten",Patron-des-Vansen
+gdc,11g9w.0,39562,40162,vansen,39689,39691,er,Patron-des-Vansen
+gdc,11g9w.0,39562,40162,vansen,39722,40162,"In einem stand unsere ganze Verfassung: wie uns Niederländer zuerst einzelne Fürsten regierten, alles nach hergebrachten Rechten, Privilegien und Gewohnheiten; wie unsre Vorfahren alle Ehrfurcht für ihren Fürsten gehabt, wenn er sie regiert, wie er sollte; und wie sie sich gleich vorsahen, wenn er über die Schnur hauen wollte. Die Staaten waren gleich hinterdrein: denn jede Provinz, so klein sie war, hatte ihre Staaten, ihre Landstände.","In-einem-stand-unsere-ganze-Verfassung:-wie-uns-Niederländer-zuerst-einzelne-Fürsten---------------regierten,-alles-nach-hergebrachten-Rechten,-Privilegien-und-Gewohnheiten;-wie-unsre---------------Vorfahren-alle-Ehrfurcht-für-ihren-Fürsten-gehabt,-wenn-er-sie-regiert,-wie-er-sollte;---------------und-wie-sie-sich-gleich-vorsahen,-wenn-er-über-die-Schnur-hauen-wollte.-Die-Staaten---------------waren-gleich-hinterdrein:-denn-jede-Provinz,-so-klein-sie-war,-hatte-ihre-Staaten,---------------ihre-Landstände."
+gdc,11g9w.0,39562,40162,vansen,39737,39760,unsere ganze Verfassung,Verfassung-der-Niederländer
+gdc,11g9w.0,39562,40162,vansen,39737,39743,unsere,Das-Volk
+gdc,11g9w.0,39562,40162,vansen,39766,39769,uns,Das-Volk
+gdc,11g9w.0,39562,40162,vansen,39770,39782,Niederländer,Das-Volk
+gdc,11g9w.0,39562,40162,vansen,39886,39901,unsre Vorfahren,unsre---------------Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39886,39891,unsre,Das-Volk
+gdc,11g9w.0,39562,40162,vansen,39921,39934,ihren Fürsten,Fürsten-der-Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39921,39926,ihren,unsre---------------Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39948,39950,er,Fürsten-der-Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39951,39954,sie,unsre---------------Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39968,39970,er,Fürsten-der-Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39987,39990,sie,unsre---------------Vorfahren
+gdc,11g9w.0,39562,40162,vansen,39991,39995,sich,unsre---------------Vorfahren
+gdc,11g9w.0,39562,40162,vansen,40018,40020,er,Fürsten-der-Vorfahren
+gdc,11g9w.0,40167,40308,zimmermeister,40220,40255,Ein jeder rechtschaffene Bürger ist,Ein-jeder-rechtschaffene-Bürger-ist
+gdc,11g9w.0,40167,40308,zimmermeister,40264,40266,er,Ein-jeder-rechtschaffene-Bürger-ist
+gdc,11g9w.0,40167,40308,zimmermeister,40280,40294,der Verfassung,Verfassung-der-Niederländer
+gdc,11g9w.0,40313,40366,jetter,40326,40329,ihn,vansen
+gdc,11g9w.0,40313,40366,jetter,40337,40340,man,Man
+gdc,11g9w.0,40371,40396,soest,40378,40380,Er,jetter
+gdc,11g9w.0,40401,40460,,40428,40459,So was hört man nicht alle Tage,"In-einem-stand-unsere-ganze-Verfassung:-wie-uns-Niederländer-zuerst-einzelne-Fürsten---------------regierten,-alles-nach-hergebrachten-Rechten,-Privilegien-und-Gewohnheiten;-wie-unsre---------------Vorfahren-alle-Ehrfurcht-für-ihren-Fürsten-gehabt,-wenn-er-sie-regiert,-wie-er-sollte;---------------und-wie-sie-sich-gleich-vorsahen,-wenn-er-über-die-Schnur-hauen-wollte.-Die-Staaten---------------waren-gleich-hinterdrein:-denn-jede-Provinz,-so-klein-sie-war,-hatte-ihre-Staaten,---------------ihre-Landstände."
+gdc,11g9w.0,40465,40836,vansen,40481,40484,ihr,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40485,40497,Bürgersleute,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40499,40502,Ihr,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40531,40756,"und wie ihr euer Gewerb von euern Eltern überkommen habt, so laßt ihr auch das Regiment über euch schalten und walten, wie es kann und mag. Ihr fragt nicht nach dem Herkommen, nach der Historie, nach dem Recht eines Regenten;",das-Versäumnis
+gdc,11g9w.0,40465,40836,vansen,40539,40542,ihr,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40543,40547,euer,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40559,40564,euern,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40597,40600,ihr,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40606,40618,das Regiment,das-Regiment
+gdc,11g9w.0,40465,40836,vansen,40624,40628,euch,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40654,40656,es,das-Regiment
+gdc,11g9w.0,40465,40836,vansen,40671,40674,Ihr,Das-Volk
+gdc,11g9w.0,40465,40836,vansen,40766,40780,das Versäumnis,das-Versäumnis
+gdc,11g9w.0,40994,41223,vansen,41002,41005,Ich,vansen
+gdc,11g9w.0,40994,41223,vansen,41010,41012,es,es2
+gdc,11g9w.0,40994,41223,vansen,41025,41034,Der König,Philipp-II.-
+gdc,11g9w.0,40994,41223,vansen,41047,41205,"der die Provinzen durch gut Glück zusammen besitzt, darf doch nicht drin schalten und walten, anders als die kleinen Fürsten, die sie ehemals einzeln besaßen.",
+gdc,11g9w.0,40994,41223,vansen,41215,41218,ihr,Das-Volk
+gdc,11g9w.0,41228,41250,jetter,41246,41249,uns,Das-Volk
+gdc,11g9w.0,41255,41364,vansen,41298,41301,ihr,Das-Volk
+gdc,11g9w.0,41255,41364,vansen,41313,41318,euern,Das-Volk
+gdc,11g9w.0,41548,41743,vansen,41566,41571,ihr's,Das-Volk
+gdc,11g9w.0,41548,41743,vansen,41677,41692,Karl der Fünfte,Karl-V.-
+gdc,11g9w.0,41548,41743,vansen,41720,41727,Philipp,Philipp-II.-
+gdc,11g9w.0,41548,41743,vansen,41734,41742,ein Weib,regentin
+gdc,11g9w.0,41813,42219,vansen,41833,41849,Unsere Vorfahren,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,41833,41839,Unsere,Das-Volk
+gdc,11g9w.0,41813,42219,vansen,41866,41869,sie,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,41870,41881,einem Herrn,einem-Herrn
+gdc,11g9w.0,41813,42219,vansen,41902,41905,sie,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,41906,41909,ihm,einem-Herrn
+gdc,11g9w.0,41813,42219,vansen,41915,41926,seinen Sohn,seinen-Sohn
+gdc,11g9w.0,41813,42219,vansen,41915,41921,seinen,einem-Herrn
+gdc,11g9w.0,41813,42219,vansen,41950,41953,ihn,einem-Herrn
+gdc,11g9w.0,41813,42219,vansen,41958,41962,sich,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,41973,41976,ihn,seinen-Sohn
+gdc,11g9w.0,41813,42219,vansen,42016,42028,Unsere Väter,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,42016,42022,Unsere,Das-Volk
+gdc,11g9w.0,41813,42219,vansen,42035,42040,Leute,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,42042,42045,Die,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,42058,42063,ihnen,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,42074,42077,Die,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,42119,42132,Rechte Männer,unsre---------------Vorfahren
+gdc,11g9w.0,41813,42219,vansen,42155,42173,unsere Privilegien,unsere-Privilegien
+gdc,11g9w.0,41813,42219,vansen,42155,42161,unsere,Das-Volk
+gdc,11g9w.0,41813,42219,vansen,42187,42204,unsere Freiheiten,unsere-Freiheiten
+gdc,11g9w.0,41813,42219,vansen,42187,42193,unsere,Das-Volk
+gdc,11g9w.0,42224,42269,seifensieder,42250,42253,Ihr,vansen
+gdc,11g9w.0,42224,42269,seifensieder,42258,42268,Freiheiten,unsere-Freiheiten
+gdc,11g9w.0,42274,42371,,42288,42305,unsern Freiheiten,unsere-Freiheiten
+gdc,11g9w.0,42274,42371,,42288,42294,unsern,Das-Volk
+gdc,11g9w.0,42274,42371,,42311,42329,unsern Privilegien,unsere-Privilegien
+gdc,11g9w.0,42274,42371,,42311,42317,unsern,Das-Volk
+gdc,11g9w.0,42274,42371,,42352,42371,unsern Privilegien!,unsere-Privilegien
+gdc,11g9w.0,42274,42371,,42352,42358,unsern,Das-Volk
+gdc,11g9w.0,42376,42512,vansen,42384,42397,Wir Brabanter,Wir-Brabanter
+gdc,11g9w.0,42376,42512,vansen,42418,42432,alle Provinzen,alle-Provinzen
+gdc,11g9w.0,42376,42512,vansen,42433,42437,ihre,alle-Provinzen
+gdc,11g9w.0,42376,42512,vansen,42454,42457,wir,Wir-Brabanter
+gdc,11g9w.0,42376,42512,vansen,42489,42492,Ich,vansen
+gdc,11g9w.0,42561,42587,ein_buerger_b,42573,42576,Ich,ein_buerger_b
+gdc,11g9w.0,42561,42587,ein_buerger_b,42582,42586,Euch,vansen
+gdc,11g9w.0,42592,42687,vansen,42622,42644,Der Herzog von Brabant,Der-Herzog-von-Brabant
+gdc,11g9w.0,42592,42687,vansen,42650,42653,uns,Das-Volk
+gdc,11g9w.0,42592,42687,vansen,42658,42687,guter und getreuer Herr sein.,Der-Herzog-von-Brabant
+gdc,11g9w.0,42756,42950,vansen,42768,42771,ich,vansen
+gdc,11g9w.0,42756,42950,vansen,42772,42776,euch,Das-Volk
+gdc,11g9w.0,42756,42950,vansen,42783,42785,Er,Der-Herzog-von-Brabant
+gdc,11g9w.0,42756,42950,vansen,42790,42793,uns,Das-Volk
+gdc,11g9w.0,42756,42950,vansen,42812,42815,wir,Das-Volk
+gdc,11g9w.0,42756,42950,vansen,42816,42819,ihm,Der-Herzog-von-Brabant
+gdc,11g9w.0,42756,42950,vansen,42831,42833,Er,Der-Herzog-von-Brabant
+gdc,11g9w.0,42756,42950,vansen,42873,42876,uns,Das-Volk
+gdc,11g9w.0,43029,43140,ein_anderer_b,43042,43073,Und nicht gedenken zu gestatten,der-Hauptpunkt
+gdc,11g9w.0,43029,43140,ein_anderer_b,43083,43097,der Hauptpunkt,der-Hauptpunkt
+gdc,11g9w.0,43184,43213,jetter,43200,43203,uns,Das-Volk
+gdc,11g9w.0,43184,43213,jetter,43204,43212,das Buch,Verfassung-der-Niederländer
+gdc,11g9w.0,43218,43253,ein_buerger_c,43234,43237,wir,Das-Volk
+gdc,11g9w.0,43258,43285,,43266,43274,Das Buch,Verfassung-der-Niederländer
+gdc,11g9w.0,43258,43285,,43276,43284,das Buch,Verfassung-der-Niederländer
+gdc,11g9w.0,43291,43351,ein_anderer_c,43304,43307,Wir,Das-Volk
+gdc,11g9w.0,43291,43351,ein_anderer_c,43318,43330,der Regentin,regentin
+gdc,11g9w.0,43291,43351,ein_anderer_c,43341,43351,dem Buche.,Verfassung-der-Niederländer
+gdc,11g9w.0,43356,43408,ein_anderer_d,43396,43407,Herr Doktor,vansen
+gdc,11g9w.0,43445,43478,,43468,43477,dem Buche,Verfassung-der-Niederländer
+gdc,11g9w.0,43483,43563,seifensieder,43497,43500,Ich,seifensieder
+gdc,11g9w.0,43483,43563,seifensieder,43509,43512,ihm,vansen
+gdc,11g9w.0,43483,43563,seifensieder,43541,43543,er,vansen
+gdc,11g9w.0,43568,43681,,43578,43581,Wir,Das-Volk
+gdc,11g9w.0,43568,43681,,43600,43603,ihm,vansen
+gdc,11g9w.0,43568,43681,,43620,43623,uns,Das-Volk
+gdc,11g9w.0,43568,43681,,43632,43647,den Privilegien,unsere-Privilegien
+gdc,11g9w.0,43568,43681,,43655,43658,wir,Das-Volk
+gdc,11g9w.0,43568,43681,,43664,43680,mehr Privilegien,unsere-Privilegien
+gdc,11g9w.0,43686,43919,vansen,43694,43735,"Mancherlei, und sehr gute, sehr heilsame.",unsere-Privilegien
+gdc,11g9w.0,43947,44026,vansen,43955,43958,Ich,vansen
+gdc,11g9w.0,43947,44026,vansen,43966,43970,euch,Das-Volk
+gdc,11g9w.0,44031,44122,buerger_d,44043,44046,wir,Bürger
+gdc,11g9w.0,44031,44122,buerger_d,44087,44090,uns,Bürger
+gdc,11g9w.0,44031,44122,buerger_d,44101,44104,wir,Bürger
+gdc,11g9w.0,44127,44194,,44139,44142,wir,Bürger
+gdc,11g9w.0,44127,44194,,44150,44153,uns,Bürger
+gdc,11g9w.0,44199,44227,vansen,44215,44219,eure,Bürger
+gdc,11g9w.0,44232,44307,,44242,44245,Wir,Das-Volk
+gdc,11g9w.0,44232,44307,,44257,44263,Egmont,egmont
+gdc,11g9w.0,44232,44307,,44270,44277,Oranien,oranien
+gdc,11g9w.0,44232,44307,,44279,44282,Die,egmont-/-oranien
+gdc,11g9w.0,44232,44307,,44294,44299,unser,Das-Volk
+gdc,11g9w.0,44312,44375,vansen,44320,44324,Eure,Das-Volk
+gdc,11g9w.0,44380,44418,seifensieder,44394,44401,Du Hund,vansen
+gdc,11g9w.0,44380,44418,seifensieder,44403,44405,Er,seifensieder
+gdc,11g9w.0,44380,44418,seifensieder,44414,44417,ihn,vansen
+gdc,11g9w.0,44430,44457,_stage,44442,44446,sich,ANDERE
+gdc,11g9w.0,44423,44483,,44463,44465,du,seifensieder
+gdc,11g9w.0,44488,44520,ein_anderer_e,44506,44519,den Ehrenmann,vansen
+gdc,11g9w.0,44525,44585,ein_anderer_f,44538,44551,Den Gelahrten,vansen
+gdc,11g9w.0,44554,44585,_stage,44565,44581,den Seifensieder,seifensieder
+gdc,11g9w.0,44589,44877,zimmermeister,44631,44637,Andere,Andere-2
+gdc,11g9w.0,44589,44877,zimmermeister,44646,44650,sich,Andere-2
+gdc,11g9w.0,44589,44877,zimmermeister,44666,44672,Bürger,Bürger
+gdc,11g9w.0,44689,44877,_stage,44741,44747,Bürger,Bürger
+gdc,11g9w.0,44689,44877,_stage,44766,44770,Volk,Das-Volk
+gdc,11g9w.0,44881,44973,,44889,44897,Freiheit,Freiheit
+gdc,11g9w.0,44881,44973,,44902,44913,Privilegien,Privilegien
+gdc,11g9w.0,44881,44973,,44915,44926,Privilegien,Privilegien
+gdc,11g9w.0,44881,44973,,44931,44939,Freiheit,Freiheit
+gdc,11g9w.0,44881,44973,,44941,44947,Egmont,egmont
+gdc,11g9w.0,44979,45049,egmont,45001,45006,Leute,In-den-Streit-verwickelte
+gdc,11g9w.0,44979,45049,egmont,45033,45036,sie,In-den-Streit-verwickelte
+gdc,11g9w.0,45054,45186,zimmermeister,45069,45082,Gnädiger Herr,egmont
+gdc,11g9w.0,45054,45186,zimmermeister,45084,45087,Ihr,egmont
+gdc,11g9w.0,45054,45186,zimmermeister,45134,45137,ihr,egmont
+gdc,11g9w.0,45054,45186,zimmermeister,45146,45158,Graf Egmont!,egmont
+gdc,11g9w.0,45054,45186,zimmermeister,45159,45186,Dem Grafen Egmont Reverenz!,egmont
+gdc,11g9w.0,45191,45500,egmont,45220,45223,ihr,Bürger
+gdc,11g9w.0,45191,45500,egmont,45228,45234,Bürger,Bürger
+gdc,11g9w.0,45191,45500,egmont,45241,45247,Bürger,Bürger
+gdc,11g9w.0,45191,45500,egmont,45269,45296,unsrer königlichen Regentin,regentin
+gdc,11g9w.0,45191,45500,egmont,45269,45275,unsrer,Bürger
+gdc,11g9w.0,45191,45500,egmont,45297,45310,diesen Unsinn,Der-Tumult
+gdc,11g9w.0,45191,45500,egmont,45351,45355,euer,Bürger
+gdc,11g9w.0,45191,45500,egmont,45396,45399,ihr,Bürger
+gdc,11g9w.0,45433,45500,_stage,45433,45443,Der Tumult,Der-Tumult
+gdc,11g9w.0,45433,45500,_stage,45451,45455,sich,Der-Tumult
+gdc,11g9w.0,45433,45500,_stage,45490,45493,ihn,Der-Tumult
+gdc,11g9w.0,45504,45557,zimmermeister,45519,45522,Sie,In-den-Streit-verwickelte
+gdc,11g9w.0,45504,45557,zimmermeister,45532,45536,sich,In-den-Streit-verwickelte
+gdc,11g9w.0,45504,45557,zimmermeister,45540,45556,ihre Privilegien,unsere-Privilegien
+gdc,11g9w.0,45504,45557,zimmermeister,45540,45544,ihre,In-den-Streit-verwickelte
+gdc,11g9w.0,45562,45665,egmont,45570,45573,Die,unsere-Privilegien
+gdc,11g9w.0,45562,45665,egmont,45574,45577,sie,In-den-Streit-verwickelte
+gdc,11g9w.0,45562,45665,egmont,45627,45630,Ihr,zimmermeister
+gdc,11g9w.0,45562,45665,egmont,45632,45635,Ihr,zimmermeister
+gdc,11g9w.0,45562,45665,egmont,45644,45647,mir,egmont
+gdc,11g9w.0,45562,45665,egmont,45648,45664,rechtliche Leute,zimmermeister-/-jetter-+-22
+gdc,11g9w.0,45670,45709,zimmermeister,45693,45698,unser,zimmermeister-/-jetter-+-22
+gdc,11g9w.0,45714,45737,egmont,45722,45727,Eures,zimmermeister
+gdc,11g9w.0,45742,45785,zimmermeister,45757,45767,Zimmermann,zimmermeister
+gdc,11g9w.0,45742,45785,zimmermeister,45772,45784,Zunftmeister,zimmermeister
+gdc,11g9w.0,45790,45806,egmont,45802,45805,Ihr,soest
+gdc,11g9w.0,45811,45825,soest,45818,45824,Krämer,soest
+gdc,11g9w.0,45830,45842,egmont,45838,45841,Ihr,jetter
+gdc,11g9w.0,45847,45865,jetter,45855,45865,Schneider.,jetter
+gdc,11g9w.0,45870,45974,egmont,45878,45881,Ich,egmont
+gdc,11g9w.0,45870,45974,egmont,45891,45895,mich,egmont
+gdc,11g9w.0,45870,45974,egmont,45897,45900,Ihr,jetter
+gdc,11g9w.0,45870,45974,egmont,45929,45934,meine,egmont
+gdc,11g9w.0,45870,45974,egmont,45953,45974,Euer Name ist Jetter.,jetter
+gdc,11g9w.0,45979,46023,jetter,45998,46001,Ihr,egmont
+gdc,11g9w.0,45979,46023,jetter,46002,46006,Euch,egmont
+gdc,11g9w.0,46028,46374,egmont,46036,46039,Ich,egmont
+gdc,11g9w.0,46028,46374,egmont,46071,46074,ich,egmont
+gdc,11g9w.0,46028,46374,egmont,46120,46124,euch,jetter
+gdc,11g9w.0,46028,46374,egmont,46148,46153,Leute,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46028,46374,egmont,46164,46167,ihr,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46028,46374,egmont,46205,46214,den König,Philipp-II.-
+gdc,11g9w.0,46028,46374,egmont,46227,46229,er,Philipp-II.-
+gdc,11g9w.0,46028,46374,egmont,46269,46292,Ein ordentlicher Bürger,Ein-ordentlicher---------------Bürger
+gdc,11g9w.0,46028,46374,egmont,46294,46374,"der sich ehrlich und fleißig nährt, hat überall soviel Freiheit, als er braucht.",Ein-ordentlicher---------------Bürger
+gdc,11g9w.0,46379,46865,zimmermeister,46417,46422,unsre,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46379,46865,zimmermeister,46428,46468,"Die Tagdiebe, die Söffer, die Faulenzer,","Die-Tagdiebe,-die-Söffer,-die-Faulenzer,"
+gdc,11g9w.0,46379,46865,zimmermeister,46473,46484,Euer Gnaden,egmont
+gdc,11g9w.0,46379,46865,zimmermeister,46758,46761,Wir,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46379,46865,zimmermeister,46769,46774,unsre,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46379,46865,zimmermeister,46821,46824,sie,"Die-Tagdiebe,-die-Söffer,-die-Faulenzer,"
+gdc,11g9w.0,46379,46865,zimmermeister,46830,46833,uns,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46871,47212,egmont,46900,46903,ihr,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,46871,47212,egmont,47098,47101,sie,"Die-Tagdiebe,-die-Söffer,-die-Faulenzer,"
+gdc,11g9w.0,46871,47212,egmont,47102,47106,sich,"Die-Tagdiebe,-die-Söffer,-die-Faulenzer,"
+gdc,11g9w.0,47167,47212,_stage,47180,47184,sich,der-größte-Haufe
+gdc,11g9w.0,47167,47212,_stage,47185,47201,der größte Haufe,der-größte-Haufe
+gdc,11g9w.0,47216,47387,zimmermeister,47238,47252,Euer Exzellenz,egmont
+gdc,11g9w.0,47216,47387,zimmermeister,47297,47300,uns,zimmermeister-/-jetter-+-22
+gdc,11g9w.0,47216,47387,zimmermeister,47308,47314,Egmont,egmont
+gdc,11g9w.0,47216,47387,zimmermeister,47319,47336,Ein gnädiger Herr,egmont
+gdc,11g9w.0,47216,47387,zimmermeister,47338,47360,der echte Niederländer,egmont
+gdc,11g9w.0,47392,47454,jetter,47407,47410,wir,zimmermeister-/-jetter-+-2
+gdc,11g9w.0,47392,47454,jetter,47411,47414,ihn,egmont
+gdc,11g9w.0,47392,47454,jetter,47444,47447,ihm,egmont
+gdc,11g9w.0,47459,47540,soest,47475,47484,der König,Philipp-II.-
+gdc,11g9w.0,47545,47635,jetter,47561,47570,das Kleid,das-Kleid
+gdc,11g9w.0,47545,47635,jetter,47580,47583,Das,das-Kleid
+gdc,11g9w.0,47640,47672,zimmermeister,47655,47671,Ein schöner Herr,egmont
+gdc,11g9w.0,47677,47743,jetter,47685,47689,Sein,egmont
+gdc,11g9w.0,47748,47787,soest,47760,47762,du,jetter
+gdc,11g9w.0,47748,47787,soest,47779,47782,dir,jetter
+gdc,11g9w.0,47792,48450,jetter,47850,47853,mir,jetter
+gdc,11g9w.0,47792,48450,jetter,47867,47870,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,47871,47896,einen schönen langen Hals,einen-schönen---------------langen-Hals
+gdc,11g9w.0,47792,48450,jetter,47907,47910,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,47939,47942,Der,einen-schönen---------------langen-Hals
+gdc,11g9w.0,47792,48450,jetter,47961,47989,Die verfluchten Exekutionen!,Die---------------verfluchten-Exekutionen!
+gdc,11g9w.0,47792,48450,jetter,47990,47993,man,Man
+gdc,11g9w.0,47792,48450,jetter,48001,48004,sie,Die---------------verfluchten-Exekutionen!
+gdc,11g9w.0,47792,48450,jetter,48031,48042,die Bursche,die-Bursche
+gdc,11g9w.0,47792,48450,jetter,48057,48060,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,48101,48104,sie,die-Bursche
+gdc,11g9w.0,47792,48450,jetter,48105,48108,mir,jetter
+gdc,11g9w.0,47792,48450,jetter,48127,48130,die,die-Bursche
+gdc,11g9w.0,47792,48450,jetter,48131,48134,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,48176,48179,mir,jetter
+gdc,11g9w.0,47792,48450,jetter,48180,48197,ein rechter Wanst,ein-rechter-Wanst
+gdc,11g9w.0,47792,48450,jetter,48199,48203,mein,jetter
+gdc,11g9w.0,47792,48450,jetter,48204,48207,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,48209,48243,den säh ich schon am Pfahl braten.,ein-rechter-Wanst
+gdc,11g9w.0,47792,48450,jetter,48217,48220,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,48272,48276,mich,jetter
+gdc,11g9w.0,47792,48450,jetter,48298,48301,man,Man
+gdc,11g9w.0,47792,48450,jetter,48364,48367,ich,jetter
+gdc,11g9w.0,47792,48450,jetter,48418,48421,mir,jetter
+gdc,11g9w.0,48475,48535,_stage,48475,48483,Sekretär,sekretaer
+gdc,11g9w.0,48475,48535,_stage,48514,48516,er,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48547,48549,Er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,48573,48576,ich,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48642,48645,mir,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48668,48671,ich,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48704,48707,mir,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48726,48729,Ich,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48794,48796,er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,48797,48800,mir,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48811,48813,er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,48833,48835,er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,48866,48869,ich,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48921,48923,er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,48972,48975,ich,sekretaer
+gdc,11g9w.0,48537,49195,sekretaer,48991,48993,er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,49056,49059,Man,Man
+gdc,11g9w.0,48537,49195,sekretaer,49088,49100,der Regentin,regentin
+gdc,11g9w.0,48537,49195,sekretaer,49105,49107,er,egmont
+gdc,11g9w.0,48537,49195,sekretaer,49150,49152,er,egmont
+gdc,11g9w.0,49228,49276,sekretaer,49238,49241,Ich,sekretaer
+gdc,11g9w.0,49228,49276,sekretaer,49258,49268,drei Boten,drei-Boten
+gdc,11g9w.0,49281,49360,egmont,49289,49292,Ich,egmont
+gdc,11g9w.0,49281,49360,egmont,49297,49300,dir,sekretaer
+gdc,11g9w.0,49281,49360,egmont,49325,49327,du,sekretaer
+gdc,11g9w.0,49365,49446,sekretaer,49375,49380,Eurem,egmont
+gdc,11g9w.0,49365,49446,sekretaer,49407,49410,ich,sekretaer
+gdc,11g9w.0,49365,49446,sekretaer,49434,49445,die Papiere,die-Papiere
+gdc,11g9w.0,49451,49543,egmont,49459,49471,Donna Elvira,Donna-Elvira
+gdc,11g9w.0,49451,49543,egmont,49486,49490,mich,egmont
+gdc,11g9w.0,49451,49543,egmont,49504,49507,sie,Donna-Elvira
+gdc,11g9w.0,49451,49543,egmont,49518,49521,ich,egmont
+gdc,11g9w.0,49451,49543,egmont,49522,49526,dich,sekretaer
+gdc,11g9w.0,49548,49570,sekretaer,49558,49561,Ihr,egmont
+gdc,11g9w.0,49575,49755,egmont,49602,49606,dich,sekretaer
+gdc,11g9w.0,49575,49755,egmont,49614,49616,Du,sekretaer
+gdc,11g9w.0,49575,49755,egmont,49647,49650,Sie,Donna-Elvira
+gdc,11g9w.0,49575,49755,egmont,49667,49669,es,es3
+gdc,11g9w.0,49575,49755,egmont,49674,49677,mir,egmont
+gdc,11g9w.0,49575,49755,egmont,49690,49732,daß du auf dem Schlosse eine Freundin hast,es3
+gdc,11g9w.0,49575,49755,egmont,49744,49755,die Briefe?,die-Papiere
+gdc,11g9w.0,49810,49931,egmont,49838,49848,die Freude,die-Freude
+gdc,11g9w.0,49810,49931,egmont,49868,49871,sie,die-Freude
+gdc,11g9w.0,49936,49975,sekretaer,49957,49967,drei Boten,drei-Boten
+gdc,11g9w.0,50097,50242,sekretaer,50107,50122,Hauptmann Breda,Hauptmann-Breda
+gdc,11g9w.0,50097,50242,sekretaer,50204,50214,Der Tumult,Der-Tumult2
+gdc,11g9w.0,50097,50242,sekretaer,50219,50223,sich,Der-Tumult2
+gdc,11g9w.0,50247,50326,egmont,50255,50257,Er,Hauptmann-Breda
+gdc,11g9w.0,50376,50405,egmont,50394,50398,mich,egmont
+gdc,11g9w.0,50410,50567,sekretaer,50425,50430,sechs,sechs
+gdc,11g9w.0,50410,50567,sekretaer,50455,50486,die bei  Verwich das Marienbild,sechs
+gdc,11g9w.0,50410,50567,sekretaer,50505,50507,Er,Hauptmann-Breda
+gdc,11g9w.0,50410,50567,sekretaer,50521,50523,er,Hauptmann-Breda
+gdc,11g9w.0,50410,50567,sekretaer,50524,50527,sie,sechs
+gdc,11g9w.0,50572,50655,egmont,50580,50583,Ich,egmont
+gdc,11g9w.0,50572,50655,egmont,50606,50609,Man,Man
+gdc,11g9w.0,50572,50655,egmont,50615,50618,sie,sechs
+gdc,11g9w.0,50572,50655,egmont,50639,50642,sie,sechs
+gdc,11g9w.0,50660,50729,sekretaer,50678,50689,zwei Weiber,zwei-Weiber
+gdc,11g9w.0,50660,50729,sekretaer,50702,50704,er,Hauptmann-Breda
+gdc,11g9w.0,50660,50729,sekretaer,50705,50708,die,zwei-Weiber
+gdc,11g9w.0,50734,50781,egmont,50742,50745,Die,zwei-Weiber
+gdc,11g9w.0,50734,50781,egmont,50750,50752,er,Hauptmann-Breda
+gdc,11g9w.0,50786,51045,sekretaer,50796,50812,Brink von Bredas,Hauptmann-Breda
+gdc,11g9w.0,50786,51045,sekretaer,50838,50851,Der Hauptmann,Hauptmann-Breda
+gdc,11g9w.0,50786,51045,sekretaer,50859,50862,Ihr,egmont
+gdc,11g9w.0,50786,51045,sekretaer,50872,50875,ihm,Hauptmann-Breda
+gdc,11g9w.0,50786,51045,sekretaer,50937,50939,er,Hauptmann-Breda
+gdc,11g9w.0,51050,51307,egmont,51090,51114,ein schöner junger Kerl;,Hauptmann-Breda
+gdc,11g9w.0,51050,51307,egmont,51115,51117,er,Hauptmann-Breda
+gdc,11g9w.0,51050,51307,egmont,51122,51126,mich,egmont
+gdc,11g9w.0,51050,51307,egmont,51149,51152,ich,egmont
+gdc,11g9w.0,51050,51307,egmont,51214,51217,mir,egmont
+gdc,11g9w.0,51050,51307,egmont,51225,51242,den armen Teufeln,den-armen-Teufeln
+gdc,11g9w.0,51050,51307,egmont,51244,51307,"die ohnedies geplagt genug sind, ihren besten Spaß zu versagen.",den-armen-Teufeln
+gdc,11g9w.0,51312,51490,sekretaer,51322,51343,Zwei von Euern Leuten,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51312,51490,sekretaer,51331,51336,Euern,egmont
+gdc,11g9w.0,51312,51490,sekretaer,51345,51359,Seter und Hart,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51312,51490,sekretaer,51367,51378,einem Mädel,einem-Mädel
+gdc,11g9w.0,51312,51490,sekretaer,51380,51398,einer Wirtstochter,einem-Mädel
+gdc,11g9w.0,51312,51490,sekretaer,51418,51421,Sie,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51312,51490,sekretaer,51431,51434,sie,einem-Mädel
+gdc,11g9w.0,51312,51490,sekretaer,51447,51456,die Dirne,einem-Mädel
+gdc,11g9w.0,51312,51490,sekretaer,51464,51468,sich,einem-Mädel
+gdc,11g9w.0,51312,51490,sekretaer,51469,51474,ihrer,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51495,51752,egmont,51511,51530,ein ehrlich Mädchen,einem-Mädel
+gdc,11g9w.0,51495,51752,egmont,51540,51543,sie,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51495,51752,egmont,51576,51578,er,Hauptmann-Breda
+gdc,11g9w.0,51495,51752,egmont,51579,51582,sie,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51495,51752,egmont,51645,51648,sie,Zwei-von-Euern-Leuten
+gdc,11g9w.0,51495,51752,egmont,51670,51672,er,Hauptmann-Breda
+gdc,11g9w.0,51495,51752,egmont,51702,51713,dem Mädchen,einem-Mädel
+gdc,11g9w.0,51757,51953,sekretaer,51767,51796,Einer von den fremden Lehrern,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,51757,51953,sekretaer,51854,51856,Er,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,51757,51953,sekretaer,51866,51868,er,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,51757,51953,sekretaer,51932,51934,er,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,51958,52077,egmont,51977,51980,ihn,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,51958,52077,egmont,52021,52024,ihm,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,51958,52077,egmont,52041,52043,er,Einer-von-den-fremden-Lehrern
+gdc,11g9w.0,52082,52280,sekretaer,52106,52111,Euerm,egmont
+gdc,11g9w.0,52082,52280,sekretaer,52112,52121,Einnehmer,Einnehmer
+gdc,11g9w.0,52082,52280,sekretaer,52123,52125,Er,Einnehmer
+gdc,11g9w.0,52082,52280,sekretaer,52161,52163,er,Einnehmer
+gdc,11g9w.0,52082,52280,sekretaer,52184,52203,die verlangte Summe,die-verlangte-Summe
+gdc,11g9w.0,52285,52353,egmont,52293,52301,Das Geld,die-verlangte-Summe
+gdc,11g9w.0,52285,52353,egmont,52314,52316,er,Einnehmer
+gdc,11g9w.0,52285,52353,egmont,52332,52334,er,Einnehmer
+gdc,11g9w.0,52285,52353,egmont,52335,52337,es,die-verlangte-Summe
+gdc,11g9w.0,52359,52511,sekretaer,52369,52371,Er,Einnehmer
+gdc,11g9w.0,52359,52511,sekretaer,52378,52380,er,Einnehmer
+gdc,11g9w.0,52359,52511,sekretaer,52387,52391,sein,Einnehmer
+gdc,11g9w.0,52359,52511,sekretaer,52427,52438,den Raymond,den-Raymond
+gdc,11g9w.0,52359,52511,sekretaer,52440,52511,"der Euch so lange schuldig ist, verklagen und in Verhaft nehmen lassen.",den-Raymond
+gdc,11g9w.0,52359,52511,sekretaer,52444,52448,Euch,egmont
+gdc,11g9w.0,52516,52559,egmont,52524,52527,Der,den-Raymond
+gdc,11g9w.0,52564,52625,sekretaer,52596,52598,er,den-Raymond
+gdc,11g9w.0,52564,52625,sekretaer,52599,52603,sich,den-Raymond
+gdc,11g9w.0,52630,52710,egmont,52646,52649,man,Man
+gdc,11g9w.0,52630,52710,egmont,52650,52653,ihm,den-Raymond
+gdc,11g9w.0,52630,52710,egmont,52687,52689,er,Einnehmer
+gdc,11g9w.0,52630,52710,egmont,52696,52699,ihn,den-Raymond
+gdc,11g9w.0,52715,53062,sekretaer,52725,52728,Ihr,egmont
+gdc,11g9w.0,52715,53062,sekretaer,52784,52786,Er,den-Raymond
+gdc,11g9w.0,52715,53062,sekretaer,52811,52813,er,den-Raymond
+gdc,11g9w.0,52715,53062,sekretaer,52821,52824,Ihr,egmont
+gdc,11g9w.0,52715,53062,sekretaer,52852,52865,der Einnehmer,Einnehmer
+gdc,11g9w.0,52715,53062,sekretaer,52867,52869,er,Einnehmer
+gdc,11g9w.0,52715,53062,sekretaer,52876,52925,"den alten Soldaten, den Witwen und einigen andern","den-alten-Soldaten,---------------den-Witwen-und-einigen-andern"
+gdc,11g9w.0,52715,53062,sekretaer,52927,52999,"denen Ihr Gnadengehalte gebt, die Gebühr einen halben Monat zurückhalten","den-alten-Soldaten,---------------den-Witwen-und-einigen-andern"
+gdc,11g9w.0,52715,53062,sekretaer,52933,52936,Ihr,egmont
+gdc,11g9w.0,52715,53062,sekretaer,52957,52967,die Gebühr,die-verlangte-Summe
+gdc,11g9w.0,52715,53062,sekretaer,53001,53062,man könne indessen Rat schaffen; sie möchten sich einrichten.,man-könne-indessen-Rat-schaffen;-sie-möchten-sich-einrichten.
+gdc,11g9w.0,52715,53062,sekretaer,53001,53004,man,Man
+gdc,11g9w.0,52715,53062,sekretaer,53034,53037,sie,"den-alten-Soldaten,---------------den-Witwen-und-einigen-andern"
+gdc,11g9w.0,53067,53172,egmont,53100,53109,Die Leute,"den-alten-Soldaten,---------------den-Witwen-und-einigen-andern"
+gdc,11g9w.0,53067,53172,egmont,53140,53143,ich,egmont
+gdc,11g9w.0,53067,53172,egmont,53145,53148,Das,man-könne-indessen-Rat-schaffen;-sie-möchten-sich-einrichten.
+gdc,11g9w.0,53067,53172,egmont,53154,53156,er,Einnehmer
+gdc,11g9w.0,53177,53239,sekretaer,53201,53204,Ihr,egmont
+gdc,11g9w.0,53177,53239,sekretaer,53215,53217,er,Einnehmer
+gdc,11g9w.0,53177,53239,sekretaer,53218,53226,das Geld,die-verlangte-Summe
+gdc,11g9w.0,53244,53316,egmont,53263,53265,er,Einnehmer
+gdc,11g9w.0,53244,53316,egmont,53281,53284,ihm,Einnehmer
+gdc,11g9w.0,53321,53362,sekretaer,53344,53346,er,Einnehmer
+gdc,11g9w.0,53321,53362,sekretaer,53347,53361,die Vorschläge,die-Vorschläge
+gdc,11g9w.0,53367,53509,egmont,53375,53378,Die,die-Vorschläge
+gdc,11g9w.0,53367,53509,egmont,53393,53395,Er,Einnehmer
+gdc,11g9w.0,53367,53509,egmont,53424,53426,Er,Einnehmer
+gdc,11g9w.0,53367,53509,egmont,53432,53442,Vorschläge,die-Vorschläge
+gdc,11g9w.0,53367,53509,egmont,53448,53467,die annehmlich sind,die-Vorschläge
+gdc,11g9w.0,53367,53509,egmont,53488,53490,er,Einnehmer
+gdc,11g9w.0,53367,53509,egmont,53491,53499,das Geld,die-verlangte-Summe
+gdc,11g9w.0,53514,53757,sekretaer,53524,53527,Ich,sekretaer
+gdc,11g9w.0,53514,53757,sekretaer,53533,53559,den Brief des Grafen Oliva,den-Brief-des-Grafen-Oliva
+gdc,11g9w.0,53514,53757,sekretaer,53547,53559,Grafen Oliva,Grafen-Oliva
+gdc,11g9w.0,53514,53757,sekretaer,53596,53599,ich,sekretaer
+gdc,11g9w.0,53514,53757,sekretaer,53600,53604,Euch,egmont
+gdc,11g9w.0,53514,53757,sekretaer,53621,53634,Der alte Herr,Grafen-Oliva
+gdc,11g9w.0,53514,53757,sekretaer,53688,53691,Ihr,egmont
+gdc,11g9w.0,53514,53757,sekretaer,53700,53703,ihm,Grafen-Oliva
+gdc,11g9w.0,53514,53757,sekretaer,53729,53731,er,Grafen-Oliva
+gdc,11g9w.0,53514,53757,sekretaer,53738,53742,Euch,egmont
+gdc,11g9w.0,53514,53757,sekretaer,53743,53756,wie ein Vater,Grafen-Oliva
+gdc,11g9w.0,53762,54060,egmont,53770,53773,Ich,egmont
+gdc,11g9w.0,53762,54060,egmont,53823,53826,mir,egmont
+gdc,11g9w.0,53762,54060,egmont,53827,53840,das Schreiben,den-Brief-des-Grafen-Oliva
+gdc,11g9w.0,53762,54060,egmont,53858,53860,Du,sekretaer
+gdc,11g9w.0,53762,54060,egmont,53868,53873,meine,egmont
+gdc,11g9w.0,53762,54060,egmont,53906,53912,meinem,egmont
+gdc,11g9w.0,53762,54060,egmont,53920,53923,Ich,egmont
+gdc,11g9w.0,53762,54060,egmont,53932,53939,Oranien,oranien
+gdc,11g9w.0,53762,54060,egmont,53941,53944,Ich,egmont
+gdc,11g9w.0,53762,54060,egmont,53988,53991,ihm,Grafen-Oliva
+gdc,11g9w.0,53762,54060,egmont,53996,54001,seine,Grafen-Oliva
+gdc,11g9w.0,54065,54247,sekretaer,54080,54083,mir,sekretaer
+gdc,11g9w.0,54065,54247,sekretaer,54097,54101,Eure,egmont
+gdc,11g9w.0,54065,54247,sekretaer,54111,54114,ich,sekretaer
+gdc,11g9w.0,54065,54247,sekretaer,54120,54131,die Antwort,die-Antwort
+gdc,11g9w.0,54065,54247,sekretaer,54152,54155,sie,die-Antwort
+gdc,11g9w.0,54065,54247,sekretaer,54156,54160,Euch,egmont
+gdc,11g9w.0,54065,54247,sekretaer,54189,54192,sie,die-Antwort
+gdc,11g9w.0,54065,54247,sekretaer,54205,54208,sie,die-Antwort
+gdc,11g9w.0,54065,54247,sekretaer,54225,54229,Eure,egmont
+gdc,11g9w.0,54252,54798,egmont,54264,54267,mir,egmont
+gdc,11g9w.0,54252,54798,egmont,54268,54277,den Brief,den-Brief-des-Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54287,54289,er,egmont
+gdc,11g9w.0,54252,54798,egmont,54305,54327,Guter ehrlicher Alter!,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54334,54336,du,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54340,54346,deiner,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54388,54390,du,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54415,54417,du,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54473,54494,"Der Treue, Sorgliche!",Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54495,54497,Er,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54503,54507,mein,egmont
+gdc,11g9w.0,54252,54798,egmont,54518,54522,mein,egmont
+gdc,11g9w.0,54252,54798,egmont,54551,54553,er,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54569,54572,der,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54576,54582,seiner,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54617,54620,ihm,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54622,54624,er,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54646,54649,ich,egmont
+gdc,11g9w.0,54252,54798,egmont,54662,54665,ich,egmont
+gdc,11g9w.0,54252,54798,egmont,54672,54675,ich,egmont
+gdc,11g9w.0,54252,54798,egmont,54682,54686,mich,egmont
+gdc,11g9w.0,54252,54798,egmont,54701,54705,sein,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54727,54729,er,Grafen-Oliva
+gdc,11g9w.0,54252,54798,egmont,54733,54739,meinen,egmont
+gdc,11g9w.0,54252,54798,egmont,54761,54767,meines,egmont
+gdc,11g9w.0,54803,54848,sekretaer,54831,54833,er,Grafen-Oliva
+gdc,11g9w.0,54853,55501,egmont,54870,54873,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,54893,54895,du,sekretaer
+gdc,11g9w.0,54853,55501,egmont,54930,54933,dir,sekretaer
+gdc,11g9w.0,54853,55501,egmont,54958,54973,den einen Punkt,den-einen-Punkt
+gdc,11g9w.0,54853,55501,egmont,54975,55014,"ich soll leben, wie ich nicht leben mag",den-einen-Punkt
+gdc,11g9w.0,54853,55501,egmont,54975,54978,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,54995,54998,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,55020,55023,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,55083,55087,mein,egmont
+gdc,11g9w.0,54853,55501,egmont,55099,55102,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,55164,55167,Ich,egmont
+gdc,11g9w.0,54853,55501,egmont,55233,55239,meinen,egmont
+gdc,11g9w.0,54853,55501,egmont,55259,55264,meine,egmont
+gdc,11g9w.0,54853,55501,egmont,55327,55330,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,55366,55369,ich,egmont
+gdc,11g9w.0,54853,55501,egmont,55421,55424,ich,egmont
+gdc,11g9w.0,55506,55743,sekretaer,55516,55519,Ich,sekretaer
+gdc,11g9w.0,55506,55743,sekretaer,55525,55529,Euch,egmont
+gdc,11g9w.0,55506,55743,sekretaer,55531,55535,Herr,egmont
+gdc,11g9w.0,55506,55743,sekretaer,55573,55587,den guten Mann,Grafen-Oliva
+gdc,11g9w.0,55506,55743,sekretaer,55589,55592,Ihr,egmont
+gdc,11g9w.0,55506,55743,sekretaer,55635,55638,mir,sekretaer
+gdc,11g9w.0,55506,55743,sekretaer,55639,55656,ein gefällig Wort,ein-gefällig-Wort
+gdc,11g9w.0,55506,55743,sekretaer,55658,55687,das den edeln Freund beruhige,ein-gefällig-Wort
+gdc,11g9w.0,55506,55743,sekretaer,55662,55678,den edeln Freund,Grafen-Oliva
+gdc,11g9w.0,55506,55743,sekretaer,55710,55712,er,Grafen-Oliva
+gdc,11g9w.0,55506,55743,sekretaer,55727,55729,er,Grafen-Oliva
+gdc,11g9w.0,55506,55743,sekretaer,55730,55734,Euch,egmont
+gdc,11g9w.0,55748,56135,egmont,55773,55775,er,Grafen-Oliva
+gdc,11g9w.0,55748,56135,egmont,55795,55797,Er,Grafen-Oliva
+gdc,11g9w.0,55748,56135,egmont,55831,55834,mir,egmont
+gdc,11g9w.0,55748,56135,egmont,55835,55852,diese Ermahnungen,diese---------------Ermahnungen
+gdc,11g9w.0,55748,56135,egmont,55859,55862,sie,diese---------------Ermahnungen
+gdc,11g9w.0,55748,56135,egmont,55880,55883,sie,diese---------------Ermahnungen
+gdc,11g9w.0,55748,56135,egmont,55908,55911,ich,egmont
+gdc,11g9w.0,55748,56135,egmont,56016,56020,mich,egmont
+gdc,11g9w.0,55748,56135,egmont,56045,56049,mich,egmont
+gdc,11g9w.0,55748,56135,egmont,56116,56118,er,Grafen-Oliva
+gdc,11g9w.0,56140,56213,sekretaer,56159,56163,Euch,egmont
+gdc,11g9w.0,56140,56213,sekretaer,56191,56195,Euch,egmont
+gdc,11g9w.0,56226,56246,_stage,56229,56238,den Brief,den-Brief-des-Grafen-Oliva
+gdc,11g9w.0,56219,58023,egmont,56257,56259,er,Grafen-Oliva
+gdc,11g9w.0,56219,58023,egmont,56294,56297,wir,wir
+gdc,11g9w.0,56219,58023,egmont,56398,56401,man,Man
+gdc,11g9w.0,56219,58023,egmont,56487,57578,"Nun gut, wir haben Schellenkappen, Narrenkutten auf unsrer Diener Ärmel sticken lassen, und haben diese tolle Zierde nachher in ein Bündel Pfeile verwandelt; ein noch gefährlicher Symbol für alle, die deuten wollen, wo nichts zu deuten ist. Wir haben die und jene Torheit in einem lustigen Augenblick empfangen gleich und geboren; sind schuld, daß eine ganze edle Schar mit Bettelsäcken und mit einem selbstgewählten Unnamen dem Könige seine Pflicht mit spottender Demut ins Gedächtnis rief; sind schuld – was ist's nun weiter? Ist ein Faßnachtsspiel gleich Hochverrat? Sind uns die kurzen bunten Lumpen zu mißgönnen, die ein jugendlicher Mut, eine angefrischte Phantasie um unsers Lebens arme Blöße hängen mag? Wenn ihr das Leben gar zu ernsthaft nehmt, was ist denn dran? Wenn uns der Morgen nicht zu neuen Freuden weckt, am Abend uns keine Lust zu hoffen übrig bleibt, ist's wohl des An- und Ausziehens wert? Scheint mir die Sonne heut, um das zu überlegen, was gestern war? und um zu raten, zu verbinden, was nicht zu erraten, nicht zu verbinden ist, das Schicksal eines kommenden Tages?","Nun-gut,-wir-haben---------------Schellenkappen,-Narrenkutten-auf-unsrer-Diener-Ärmel-sticken-lassen,-und-haben-diese---------------tolle-Zierde-nachher-in-ein-Bündel-Pfeile-verwandelt;-ein-noch-gefährlicher-Symbol-für---------------alle,-die-deuten-wollen,-wo-nichts-zu-deuten-ist.-Wir-haben-die-und-jene-Torheit-in---------------einem-lustigen-Augenblick-empfangen-gleich-und-geboren;-sind-schuld,-daß-eine-ganze---------------edle-Schar-mit-Bettelsäcken-und-mit-einem-selbstgewählten-Unnamen-dem-Könige-seine---------------Pflicht-mit-spottender-Demut-ins-Gedächtnis-rief;-sind-schuld-–-was-ist's-nun-weiter?---------------Ist-ein-Faßnachtsspiel-gleich-Hochverrat?-Sind-uns-die-kurzen-bunten-Lumpen-zu---------------mißgönnen,-die-ein-jugendlicher-Mut,-eine-angefrischte-Phantasie-um-unsers-Lebens-arme---------------Blöße-hängen-mag?-Wenn-ihr-das-Leben-gar-zu-ernsthaft-nehmt,-was-ist-denn-dran?-Wenn---------------uns-der-Morgen-nicht-zu-neuen-Freuden-weckt,-am-Abend-uns-keine-Lust-zu-hoffen-übrig---------------bleibt,-ist's-wohl-des-An--und-Ausziehens-wert?-Scheint-mir-die-Sonne-heut,-um-das-zu---------------überlegen,-was-gestern-war?-und-um-zu-raten,-zu-verbinden,-was-nicht-zu-erraten,-nicht---------------zu-verbinden-ist,-das-Schicksal-eines-kommenden-Tages?"
+gdc,11g9w.0,56219,58023,egmont,56496,56573,"wir haben Schellenkappen, Narrenkutten auf unsrer Diener Ärmel sticken lassen","wir-haben---------------Schellenkappen,-Narrenkutten-auf-unsrer-Diener-Ärmel-sticken-lassen"
+gdc,11g9w.0,56219,58023,egmont,56496,56499,wir,wir
+gdc,11g9w.0,56219,58023,egmont,56539,56545,unsrer,wir
+gdc,11g9w.0,56219,58023,egmont,56585,56603,diese tolle Zierde,"wir-haben---------------Schellenkappen,-Narrenkutten-auf-unsrer-Diener-Ärmel-sticken-lassen"
+gdc,11g9w.0,56219,58023,egmont,56728,56731,Wir,wir
+gdc,11g9w.0,56219,58023,egmont,56912,56922,dem Könige,Philipp-II.-
+gdc,11g9w.0,56219,58023,egmont,56923,56928,seine,Philipp-II.-
+gdc,11g9w.0,56219,58023,egmont,57062,57065,uns,wir
+gdc,11g9w.0,56219,58023,egmont,57162,57168,unsers,wir
+gdc,11g9w.0,56219,58023,egmont,57204,57207,ihr,sekretaer
+gdc,11g9w.0,56219,58023,egmont,57266,57269,uns,wir
+gdc,11g9w.0,56219,58023,egmont,57320,57323,uns,wir
+gdc,11g9w.0,56219,58023,egmont,57407,57410,mir,egmont
+gdc,11g9w.0,56219,58023,egmont,57587,57590,mir,egmont
+gdc,11g9w.0,56219,58023,egmont,57591,57610,diese Betrachtungen,"Nun-gut,-wir-haben---------------Schellenkappen,-Narrenkutten-auf-unsrer-Diener-Ärmel-sticken-lassen,-und-haben-diese---------------tolle-Zierde-nachher-in-ein-Bündel-Pfeile-verwandelt;-ein-noch-gefährlicher-Symbol-für---------------alle,-die-deuten-wollen,-wo-nichts-zu-deuten-ist.-Wir-haben-die-und-jene-Torheit-in---------------einem-lustigen-Augenblick-empfangen-gleich-und-geboren;-sind-schuld,-daß-eine-ganze---------------edle-Schar-mit-Bettelsäcken-und-mit-einem-selbstgewählten-Unnamen-dem-Könige-seine---------------Pflicht-mit-spottender-Demut-ins-Gedächtnis-rief;-sind-schuld-–-was-ist's-nun-weiter?---------------Ist-ein-Faßnachtsspiel-gleich-Hochverrat?-Sind-uns-die-kurzen-bunten-Lumpen-zu---------------mißgönnen,-die-ein-jugendlicher-Mut,-eine-angefrischte-Phantasie-um-unsers-Lebens-arme---------------Blöße-hängen-mag?-Wenn-ihr-das-Leben-gar-zu-ernsthaft-nehmt,-was-ist-denn-dran?-Wenn---------------uns-der-Morgen-nicht-zu-neuen-Freuden-weckt,-am-Abend-uns-keine-Lust-zu-hoffen-übrig---------------bleibt,-ist's-wohl-des-An--und-Ausziehens-wert?-Scheint-mir-die-Sonne-heut,-um-das-zu---------------überlegen,-was-gestern-war?-und-um-zu-raten,-zu-verbinden,-was-nicht-zu-erraten,-nicht---------------zu-verbinden-ist,-das-Schicksal-eines-kommenden-Tages?"
+gdc,11g9w.0,56219,58023,egmont,57612,57615,wir,wir
+gdc,11g9w.0,56219,58023,egmont,57623,57626,sie,"Nun-gut,-wir-haben---------------Schellenkappen,-Narrenkutten-auf-unsrer-Diener-Ärmel-sticken-lassen,-und-haben-diese---------------tolle-Zierde-nachher-in-ein-Bündel-Pfeile-verwandelt;-ein-noch-gefährlicher-Symbol-für---------------alle,-die-deuten-wollen,-wo-nichts-zu-deuten-ist.-Wir-haben-die-und-jene-Torheit-in---------------einem-lustigen-Augenblick-empfangen-gleich-und-geboren;-sind-schuld,-daß-eine-ganze---------------edle-Schar-mit-Bettelsäcken-und-mit-einem-selbstgewählten-Unnamen-dem-Könige-seine---------------Pflicht-mit-spottender-Demut-ins-Gedächtnis-rief;-sind-schuld-–-was-ist's-nun-weiter?---------------Ist-ein-Faßnachtsspiel-gleich-Hochverrat?-Sind-uns-die-kurzen-bunten-Lumpen-zu---------------mißgönnen,-die-ein-jugendlicher-Mut,-eine-angefrischte-Phantasie-um-unsers-Lebens-arme---------------Blöße-hängen-mag?-Wenn-ihr-das-Leben-gar-zu-ernsthaft-nehmt,-was-ist-denn-dran?-Wenn---------------uns-der-Morgen-nicht-zu-neuen-Freuden-weckt,-am-Abend-uns-keine-Lust-zu-hoffen-übrig---------------bleibt,-ist's-wohl-des-An--und-Ausziehens-wert?-Scheint-mir-die-Sonne-heut,-um-das-zu---------------überlegen,-was-gestern-war?-und-um-zu-raten,-zu-verbinden,-was-nicht-zu-erraten,-nicht---------------zu-verbinden-ist,-das-Schicksal-eines-kommenden-Tages?"
+gdc,11g9w.0,56219,58023,egmont,57627,57649,Schülern und Höflingen,Schülern-und-Höflingen
+gdc,11g9w.0,56219,58023,egmont,57662,57665,Die,Schülern-und-Höflingen
+gdc,11g9w.0,56219,58023,egmont,57734,57737,sie,Schülern-und-Höflingen
+gdc,11g9w.0,56219,58023,egmont,57764,57767,sie,Schülern-und-Höflingen
+gdc,11g9w.0,56219,58023,egmont,57785,57787,du,sekretaer
+gdc,11g9w.0,56219,58023,egmont,57792,57804,allem diesem,"Nun-gut,-wir-haben---------------Schellenkappen,-Narrenkutten-auf-unsrer-Diener-Ärmel-sticken-lassen,-und-haben-diese---------------tolle-Zierde-nachher-in-ein-Bündel-Pfeile-verwandelt;-ein-noch-gefährlicher-Symbol-für---------------alle,-die-deuten-wollen,-wo-nichts-zu-deuten-ist.-Wir-haben-die-und-jene-Torheit-in---------------einem-lustigen-Augenblick-empfangen-gleich-und-geboren;-sind-schuld,-daß-eine-ganze---------------edle-Schar-mit-Bettelsäcken-und-mit-einem-selbstgewählten-Unnamen-dem-Könige-seine---------------Pflicht-mit-spottender-Demut-ins-Gedächtnis-rief;-sind-schuld-–-was-ist's-nun-weiter?---------------Ist-ein-Faßnachtsspiel-gleich-Hochverrat?-Sind-uns-die-kurzen-bunten-Lumpen-zu---------------mißgönnen,-die-ein-jugendlicher-Mut,-eine-angefrischte-Phantasie-um-unsers-Lebens-arme---------------Blöße-hängen-mag?-Wenn-ihr-das-Leben-gar-zu-ernsthaft-nehmt,-was-ist-denn-dran?-Wenn---------------uns-der-Morgen-nicht-zu-neuen-Freuden-weckt,-am-Abend-uns-keine-Lust-zu-hoffen-übrig---------------bleibt,-ist's-wohl-des-An--und-Ausziehens-wert?-Scheint-mir-die-Sonne-heut,-um-das-zu---------------überlegen,-was-gestern-war?-und-um-zu-raten,-zu-verbinden,-was-nicht-zu-erraten,-nicht---------------zu-verbinden-ist,-das-Schicksal-eines-kommenden-Tages?"
+gdc,11g9w.0,56219,58023,egmont,57862,57865,mir,egmont
+gdc,11g9w.0,56219,58023,egmont,57875,57890,Dem guten Alten,Grafen-Oliva
+gdc,11g9w.0,56219,58023,egmont,57932,57942,ein Freund,ein---------------Freund
+gdc,11g9w.0,56219,58023,egmont,57944,58023,"der lang unsre Hand gehalten, sie stärker noch einmal, wenn er sie lassen will.",ein---------------Freund
+gdc,11g9w.0,56219,58023,egmont,57953,57963,unsre Hand,unsre-Hand
+gdc,11g9w.0,56219,58023,egmont,57974,57977,sie,unsre-Hand
+gdc,11g9w.0,56219,58023,egmont,58004,58006,er,ein---------------Freund
+gdc,11g9w.0,56219,58023,egmont,58007,58010,sie,unsre-Hand
+gdc,11g9w.0,58028,58139,sekretaer,58047,58050,mir,sekretaer
+gdc,11g9w.0,58028,58139,sekretaer,58060,58073,dem Fußgänger,dem-Fußgänger
+gdc,11g9w.0,58028,58139,sekretaer,58086,58139,der einen Mann mit rasselnder Eile daherfahren sieht.,dem-Fußgänger
+gdc,11g9w.0,58144,58514,egmont,58152,58157,Kind!,sekretaer
+gdc,11g9w.0,58144,58514,egmont,58158,58163,Kind!,sekretaer
+gdc,11g9w.0,58144,58514,egmont,58482,58484,er,dem-Fußgänger
+gdc,11g9w.0,58144,58514,egmont,58507,58509,er,dem-Fußgänger
+gdc,11g9w.0,58519,58540,sekretaer,58529,58534,Herr!,egmont
+gdc,11g9w.0,58519,58540,sekretaer,58535,58540,Herr!,egmont
+gdc,11g9w.0,58545,59098,egmont,58553,58556,Ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58605,58608,ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58615,58618,mir,egmont
+gdc,11g9w.0,58545,59098,egmont,58653,58656,ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58657,58663,meines,egmont
+gdc,11g9w.0,58545,59098,egmont,58706,58709,ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58732,58735,ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58770,58773,ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58855,58859,mich,egmont
+gdc,11g9w.0,58545,59098,egmont,58898,58901,ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58922,58925,Ich,egmont
+gdc,11g9w.0,58545,59098,egmont,58951,58957,meinen,egmont
+gdc,11g9w.0,58545,59098,egmont,59035,59038,ich,egmont
+gdc,11g9w.0,59103,59181,sekretaer,59115,59120,Herr!,egmont
+gdc,11g9w.0,59103,59181,sekretaer,59121,59124,Ihr,egmont
+gdc,11g9w.0,59103,59181,sekretaer,59151,59154,Ihr,egmont
+gdc,11g9w.0,59103,59181,sekretaer,59176,59180,Euch,egmont
+gdc,11g9w.0,59186,59574,egmont,59199,59212,deine Papiere,die-Papiere
+gdc,11g9w.0,59186,59574,egmont,59199,59204,deine,sekretaer
+gdc,11g9w.0,59186,59574,egmont,59223,59230,Oranien,oranien
+gdc,11g9w.0,59186,59574,egmont,59277,59286,die Boten,drei-Boten
+gdc,11g9w.0,59186,59574,egmont,59365,59375,den Grafen,Grafen-Oliva
+gdc,11g9w.0,59186,59574,egmont,59408,59415,Elviren,Donna-Elvira
+gdc,11g9w.0,59186,59574,egmont,59439,59442,sie,Donna-Elvira
+gdc,11g9w.0,59186,59574,egmont,59447,59450,mir,egmont
+gdc,11g9w.0,59186,59574,egmont,59466,59470,sich,regentin
+gdc,11g9w.0,59186,59574,egmont,59471,59483,die Regentin,regentin
+gdc,11g9w.0,59186,59574,egmont,59494,59497,sie,regentin
+gdc,11g9w.0,59186,59574,egmont,59523,59528,sie's,regentin
+gdc,11g9w.0,59186,59574,egmont,59546,59554,Sekretär,sekretaer
+gdc,11g9w.0,59560,59574,_stage,59560,59567,Oranien,oranien
+gdc,11g9w.0,59578,59639,egmont,59598,59605,Oranien,oranien
+gdc,11g9w.0,59578,59639,egmont,59607,59610,Ihr,oranien
+gdc,11g9w.0,59578,59639,egmont,59619,59622,mir,egmont
+gdc,11g9w.0,59644,59706,oranien,59662,59665,Ihr,egmont
+gdc,11g9w.0,59644,59706,oranien,59669,59675,unsrer,egmont-/-oranien
+gdc,11g9w.0,59644,59706,oranien,59693,59705,der Regentin,regentin
+gdc,11g9w.0,59711,59853,egmont,59719,59722,Ich,egmont
+gdc,11g9w.0,59711,59853,egmont,59731,59736,ihrer,regentin
+gdc,11g9w.0,59711,59853,egmont,59742,59745,uns,egmont-/-oranien
+gdc,11g9w.0,59711,59853,egmont,59785,59788,Ich,egmont
+gdc,11g9w.0,59711,59853,egmont,59794,59797,sie,regentin
+gdc,11g9w.0,59711,59853,egmont,59822,59825,Sie,regentin
+gdc,11g9w.0,59711,59853,egmont,59833,59836,mir,egmont
+gdc,11g9w.0,59858,60429,oranien,59875,59878,Ihr,egmont
+gdc,11g9w.0,59858,60429,oranien,59890,59893,sie,regentin
+gdc,11g9w.0,59858,60429,oranien,59927,59930,sie,regentin
+gdc,11g9w.0,59858,60429,oranien,59931,59936,unser,egmont-/-oranien
+gdc,11g9w.0,59858,60429,oranien,60013,60016,sie,regentin
+gdc,11g9w.0,59858,60429,oranien,60115,60148,ihrem alten gewöhnlichen Diskurs:,ihrem---------------alten-gewöhnlichen-Diskurs:
+gdc,11g9w.0,59858,60429,oranien,60115,60120,ihrem,regentin
+gdc,11g9w.0,59858,60429,oranien,60149,60408,"daß man ihre liebevolle, gute Art, ihre Freundschaft zu uns Niederländern nie genug erkannt, zu leicht behandelt habe, daß nichts einen erwünschten Ausgang  nehmen wolle, daß sie am Ende wohl müde werden, der König sich zu andern Maßregeln entschließen müsse.",ihrem---------------alten-gewöhnlichen-Diskurs:
+gdc,11g9w.0,59858,60429,oranien,60157,60161,ihre,regentin
+gdc,11g9w.0,59858,60429,oranien,60414,60417,Ihr,egmont
+gdc,11g9w.0,59858,60429,oranien,60418,60421,das,ihrem---------------alten-gewöhnlichen-Diskurs:
+gdc,11g9w.0,60434,61193,egmont,60455,60458,ich,egmont
+gdc,11g9w.0,60434,61193,egmont,60493,60496,Sie,regentin
+gdc,11g9w.0,60434,61193,egmont,60501,60509,ein Weib,ein-Weib
+gdc,11g9w.0,60434,61193,egmont,60511,60524,guter Oranien,oranien
+gdc,11g9w.0,60434,61193,egmont,60530,60533,die,ein-Weib
+gdc,11g9w.0,60434,61193,egmont,60558,60562,sich,alles
+gdc,11g9w.0,60434,61193,egmont,60563,60568,alles,alles
+gdc,11g9w.0,60434,61193,egmont,60575,60578,ihr,ein-Weib
+gdc,11g9w.0,60434,61193,egmont,60657,60662,ihren,ein-Weib
+gdc,11g9w.0,60434,61193,egmont,60694,60697,sie,ein-Weib
+gdc,11g9w.0,60434,61193,egmont,60757,60815,"der Sturm, den mächtige Nebenbuhler gegen einander erregen","der-Sturm,-den-mächtige---------------Nebenbuhler-gegen-einander-erregen"
+gdc,11g9w.0,60434,61193,egmont,60817,60821,sich,"der-Sturm,-den-mächtige---------------Nebenbuhler-gegen-einander-erregen"
+gdc,11g9w.0,60434,61193,egmont,60868,60891,die widrigsten Elemente,die-widrigsten-Elemente
+gdc,11g9w.0,60434,61193,egmont,60892,60896,sich,die-widrigsten-Elemente
+gdc,11g9w.0,60434,61193,egmont,60900,60905,ihren,ein-Weib
+gdc,11g9w.0,60434,61193,egmont,60954,60957,ihr,regentin
+gdc,11g9w.0,60434,61193,egmont,60964,61193,"und da sie es dahin nicht bringen kann, so hat sie keinen Weg, als launisch zu werden, sich über Undankbarkeit, Unweisheit zu beklagen, mit schrecklichen Aussichten in die Zukunft zu drohen, und zu drohen – daß sie fortgehn will.",Der-Entschluss-der-Regentin-zu-gehen
+gdc,11g9w.0,60434,61193,egmont,60971,60974,sie,regentin
+gdc,11g9w.0,60434,61193,egmont,61011,61014,sie,regentin
+gdc,11g9w.0,60434,61193,egmont,61051,61055,sich,regentin
+gdc,11g9w.0,60434,61193,egmont,61175,61178,sie,regentin
+gdc,11g9w.0,61198,61261,oranien,61214,61217,Ihr,egmont
+gdc,11g9w.0,61198,61261,oranien,61236,61239,sie,regentin
+gdc,11g9w.0,61198,61261,oranien,61240,61252,ihre Drohung,Der-Entschluss-der-Regentin-zu-gehen
+gdc,11g9w.0,61198,61261,oranien,61240,61244,ihre,regentin
+gdc,11g9w.0,61266,61562,egmont,61299,61302,ich,egmont
+gdc,11g9w.0,61266,61562,egmont,61303,61306,sie,regentin
+gdc,11g9w.0,61266,61562,egmont,61341,61344,sie,regentin
+gdc,11g9w.0,61266,61562,egmont,61392,61394,du,oranien
+gdc,11g9w.0,61266,61562,egmont,61400,61403,sie,regentin
+gdc,11g9w.0,61266,61562,egmont,61404,61406,es,es4
+gdc,11g9w.0,61266,61562,egmont,61425,61562,am Hofe ihres Bruders unbedeutende Tage abzuhaspeln? oder nach Italien zu gehen und sich in alten Familienverhältnissen herumzuschleppen?,es4
+gdc,11g9w.0,61567,61829,oranien,61576,61579,Man,Man
+gdc,11g9w.0,61567,61829,oranien,61585,61588,sie,regentin
+gdc,11g9w.0,61567,61829,oranien,61589,61609,dieser Entschließung,Der-Entschluss-der-Regentin-zu-gehen
+gdc,11g9w.0,61567,61829,oranien,61628,61631,ihr,egmont
+gdc,11g9w.0,61567,61829,oranien,61632,61635,sie,regentin
+gdc,11g9w.0,61567,61829,oranien,61655,61658,ihr,egmont
+gdc,11g9w.0,61567,61829,oranien,61659,61662,sie,regentin
+gdc,11g9w.0,61567,61829,oranien,61711,61714,ihr,regentin
+gdc,11g9w.0,61567,61829,oranien,61738,61741,sie,regentin
+gdc,11g9w.0,61567,61829,oranien,61745,61776,dem lang verzögerten Entschluß.,Der-Entschluss-der-Regentin-zu-gehen
+gdc,11g9w.0,61567,61829,oranien,61782,61785,sie,regentin
+gdc,11g9w.0,61567,61829,oranien,61797,61806,der König,Philipp-II.-
+gdc,11g9w.0,61567,61829,oranien,61816,61829,einen andern!,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,61847,61850,der,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,61948,61950,er,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,61963,61965,er,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,62287,62290,ihm,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,62383,62385,er,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,62472,62474,er,einen---------------andern!
+gdc,11g9w.0,61834,62520,egmont,62475,62479,sein,einen---------------andern!
+gdc,11g9w.0,62525,62585,oranien,62539,62542,man,Man
+gdc,11g9w.0,62525,62585,oranien,62552,62561,dem König,Philipp-II.-
+gdc,11g9w.0,62525,62585,oranien,62565,62578,einem Versuch,einem-Versuch
+gdc,11g9w.0,62590,62607,egmont,62598,62601,Der,einem-Versuch
+gdc,11g9w.0,62612,62664,oranien,62621,62664,"Zu sehen, was der Rumpf ohne Haupt anfinge.",einem-Versuch
+gdc,11g9w.0,62686,63277,oranien,62695,62701,Egmont,egmont
+gdc,11g9w.0,62686,63277,oranien,62703,62706,ich,oranien
+gdc,11g9w.0,62686,63277,oranien,62764,62767,ich,oranien
+gdc,11g9w.0,62686,63277,oranien,62866,62906,müßige Menschen mit der größten Sorgfalt,müßige-Menschen-mit-der-größten-Sorgfalt
+gdc,11g9w.0,62686,63277,oranien,62907,62911,sich,müßige-Menschen-mit-der-größten-Sorgfalt
+gdc,11g9w.0,62686,63277,oranien,62960,62963,ich,oranien
+gdc,11g9w.0,62686,63277,oranien,62964,62966,es,es5
+gdc,11g9w.0,62686,63277,oranien,62967,63062,"für Pflicht, für Beruf eines Fürsten, die Gesinnungen, die Ratschläge aller Parteien zu kennen.",es5
+gdc,11g9w.0,62686,63277,oranien,63063,63066,Ich,oranien
+gdc,11g9w.0,62686,63277,oranien,63110,63119,Der König,Philipp-II.-
+gdc,11g9w.0,62686,63277,oranien,63167,63169,er,Philipp-II.-
+gdc,11g9w.0,62686,63277,oranien,63181,63183,er,Philipp-II.-
+gdc,11g9w.0,62686,63277,oranien,63240,63242,er,Philipp-II.-
+gdc,11g9w.0,63282,63437,egmont,63290,63293,Ich,egmont
+gdc,11g9w.0,63282,63437,egmont,63314,63317,man,Man
+gdc,11g9w.0,63282,63437,egmont,63405,63408,man,Man
+gdc,11g9w.0,63442,63483,oranien,63460,63462,er,Philipp-II.-
+gdc,11g9w.0,63505,63563,oranien,63514,63563,Das Volk zu schonen und die Fürsten zu verderben.,Das-Volk-zu-schonen-und-die-Fürsten-zu-verderben.
+gdc,11g9w.0,63505,63563,oranien,63514,63522,Das Volk,Das-Volk
+gdc,11g9w.0,63568,63639,egmont,63592,63595,das,Das-Volk-zu-schonen-und-die-Fürsten-zu-verderben.
+gdc,11g9w.0,63644,63734,oranien,63690,63693,mir,oranien
+gdc,11g9w.0,63739,63788,egmont,63755,63764,der König,Philipp-II.-
+gdc,11g9w.0,63739,63788,egmont,63765,63779,treuere Diener,egmont-/-oranien
+gdc,11g9w.0,63739,63788,egmont,63784,63787,uns,egmont-/-oranien
+gdc,11g9w.0,63793,63937,oranien,63802,63805,Wir,egmont-/-oranien
+gdc,11g9w.0,63793,63937,oranien,63813,63816,ihm,Philipp-II.-
+gdc,11g9w.0,63793,63937,oranien,63821,63826,unsre,egmont-/-oranien
+gdc,11g9w.0,63793,63937,oranien,63858,63861,wir,egmont-/-oranien
+gdc,11g9w.0,63793,63937,oranien,63876,63879,wir,egmont-/-oranien
+gdc,11g9w.0,63793,63937,oranien,63880,63890,des Königs,Philipp-II.-
+gdc,11g9w.0,63793,63937,oranien,63902,63914,die unsrigen,die-unsrigen-Rechte
+gdc,11g9w.0,63942,64027,egmont,63967,63970,Wir,egmont-/-oranien
+gdc,11g9w.0,63942,64027,egmont,63976,63979,ihm,Philipp-II.-
+gdc,11g9w.0,63942,64027,egmont,64015,64018,ihm,Philipp-II.-
+gdc,11g9w.0,64032,64147,oranien,64046,64048,er,Philipp-II.-
+gdc,11g9w.0,64032,64147,oranien,64049,64053,sich,Philipp-II.-
+gdc,11g9w.0,64032,64147,oranien,64111,64114,wir,wir
+gdc,11g9w.0,64032,64147,oranien,64127,64139,unsre Rechte,die-unsrigen-Rechte
+gdc,11g9w.0,64152,64266,egmont,64160,64163,Wir,wir
+gdc,11g9w.0,64152,64266,egmont,64171,64174,uns,wir
+gdc,11g9w.0,64152,64266,egmont,64195,64197,Er,Philipp-II.-
+gdc,11g9w.0,64152,64266,egmont,64236,64239,wir,wir
+gdc,11g9w.0,64152,64266,egmont,64247,64250,uns,wir
+gdc,11g9w.0,64358,64492,egmont,64392,64396,sich,Philipp-II.-
+gdc,11g9w.0,64358,64492,egmont,64397,64404,Philipp,Philipp-II.-
+gdc,11g9w.0,64358,64492,egmont,64453,64456,ich,egmont
+gdc,11g9w.0,64358,64492,egmont,64457,64460,ihm,Philipp-II.-
+gdc,11g9w.0,64358,64492,egmont,64465,64477,seinen Räten,Räte-des-Königs
+gdc,11g9w.0,64358,64492,egmont,64465,64471,seinen,Philipp-II.-
+gdc,11g9w.0,64497,64551,oranien,64506,64551,Und wenn sie nun ungerecht und töricht wären?,Und-wenn-sie-nun-ungerecht-und-töricht-wären?
+gdc,11g9w.0,64497,64551,oranien,64515,64518,sie,Räte-des-Königs
+gdc,11g9w.0,64556,65180,egmont,64570,64577,Oranien,oranien
+gdc,11g9w.0,64556,65180,egmont,64579,64581,es,Und-wenn-sie-nun-ungerecht-und-töricht-wären?
+gdc,11g9w.0,64556,65180,egmont,64627,64630,uns,egmont-/-oranien
+gdc,11g9w.0,64556,65180,egmont,64643,64665,Uns gefangen zu nehmen,Uns---------------gefangen-zu-nehmen
+gdc,11g9w.0,64556,65180,egmont,64643,64646,Uns,egmont-/-oranien
+gdc,11g9w.0,64556,65180,egmont,64720,64723,sie,Räte-des-Königs
+gdc,11g9w.0,64556,65180,egmont,64802,64817,diese Nachricht,Uns---------------gefangen-zu-nehmen
+gdc,11g9w.0,64556,65180,egmont,64903,64906,sie,Räte-des-Königs
+gdc,11g9w.0,64556,65180,egmont,64941,64950,der König,Philipp-II.-
+gdc,11g9w.0,64556,65180,egmont,64971,64974,sie,Räte-des-Königs
+gdc,11g9w.0,64556,65180,egmont,64996,65001,unser,egmont-/-oranien
+gdc,11g9w.0,64556,65180,egmont,65011,65014,Sie,Räte-des-Königs
+gdc,11g9w.0,64556,65180,egmont,65085,65093,das Volk,Das-Volk
+gdc,11g9w.0,64556,65180,egmont,65106,65128,Haß und ewige Trennung,Haß-und-ewige-Trennung
+gdc,11g9w.0,64556,65180,egmont,65156,65160,sich,Haß-und-ewige-Trennung
+gdc,11g9w.0,65185,65315,oranien,65249,65262,unsrer Feinde,unsrer-Feinde
+gdc,11g9w.0,65185,65315,oranien,65249,65255,unsrer,wir
+gdc,11g9w.0,65185,65315,oranien,65296,65299,uns,egmont-/-oranien
+gdc,11g9w.0,65185,65315,oranien,65308,65314,Egmont,egmont
+gdc,11g9w.0,65320,65349,egmont,65340,65343,sie,unsrer-Feinde
+gdc,11g9w.0,65354,65382,oranien,65363,65381,Alba ist unterwegs,Alba-ist-unterwegs
+gdc,11g9w.0,65354,65382,oranien,65363,65367,Alba,alba
+gdc,11g9w.0,65387,65413,egmont,65395,65398,Ich,egmont
+gdc,11g9w.0,65418,65439,oranien,65427,65430,Ich,oranien
+gdc,11g9w.0,65418,65439,oranien,65436,65438,es,Alba-ist-unterwegs
+gdc,11g9w.0,65444,65486,egmont,65452,65464,Die Regentin,regentin
+gdc,11g9w.0,65491,65622,oranien,65518,65521,ich,oranien
+gdc,11g9w.0,65491,65622,oranien,65533,65545,Die Regentin,regentin
+gdc,11g9w.0,65491,65622,oranien,65551,65554,ihm,alba
+gdc,11g9w.0,65491,65622,oranien,65569,65575,Seinen,alba
+gdc,11g9w.0,65491,65622,oranien,65590,65593,ich,oranien
+gdc,11g9w.0,65491,65622,oranien,65615,65617,er,alba
+gdc,11g9w.0,65627,65712,egmont,65674,65682,Das Volk,Das-Volk
+gdc,11g9w.0,65717,65763,oranien,65726,65729,Man,Man
+gdc,11g9w.0,65792,65908,oranien,65805,65808,uns,egmont-/-oranien
+gdc,11g9w.0,65792,65908,oranien,65852,65855,wir,egmont-/-oranien
+gdc,11g9w.0,65792,65908,oranien,65856,65859,uns,egmont-/-oranien
+gdc,11g9w.0,65792,65908,oranien,65896,65898,er,alba
+gdc,11g9w.0,65914,65967,egmont,65929,65932,wir,egmont-/-oranien
+gdc,11g9w.0,65914,65967,egmont,65933,65936,ihn,alba
+gdc,11g9w.0,65914,65967,egmont,65958,65960,er,alba
+gdc,11g9w.0,65972,65992,oranien,65981,65984,Wir,egmont-/-oranien
+gdc,11g9w.0,65997,66068,egmont,66014,66016,er,alba
+gdc,11g9w.0,65997,66068,egmont,66017,66020,uns,egmont-/-oranien
+gdc,11g9w.0,65997,66068,egmont,66030,66040,des Königs,Philipp-II.-
+gdc,11g9w.0,65997,66068,egmont,66045,66051,seiner,alba
+gdc,11g9w.0,66073,66104,oranien,66089,66092,wir,egmont-/-oranien
+gdc,11g9w.0,66109,66136,egmont,66126,66128,er,alba
+gdc,11g9w.0,66141,66172,oranien,66164,66167,wir,egmont-/-oranien
+gdc,11g9w.0,66141,66172,oranien,66168,66171,uns,egmont-/-oranien
+gdc,11g9w.0,66177,66211,egmont,66194,66196,er,alba
+gdc,11g9w.0,66216,66250,oranien,66232,66235,wir,egmont-/-oranien
+gdc,11g9w.0,66255,66434,egmont,66267,66276,der Krieg,der-Krieg
+gdc,11g9w.0,66255,66434,egmont,66294,66297,wir,egmont-/-oranien
+gdc,11g9w.0,66255,66434,egmont,66317,66324,Oranien,oranien
+gdc,11g9w.0,66255,66434,egmont,66330,66334,dich,oranien
+gdc,11g9w.0,66255,66434,egmont,66367,66370,ich,egmont
+gdc,11g9w.0,66255,66434,egmont,66388,66392,dich,oranien
+gdc,11g9w.0,66255,66434,egmont,66422,66434,den Schritt!,den---------------Schritt!
+gdc,11g9w.0,66439,66468,oranien,66448,66451,Ich,oranien
+gdc,11g9w.0,66439,66468,oranien,66456,66459,ihn,den---------------Schritt!
+gdc,11g9w.0,66473,67413,egmont,66495,66497,du,oranien
+gdc,11g9w.0,66473,67413,egmont,66498,66502,dich,oranien
+gdc,11g9w.0,66473,67413,egmont,66516,66518,du,oranien
+gdc,11g9w.0,66473,67413,egmont,66535,66561,dem verderblichsten Kriege,der-Krieg
+gdc,11g9w.0,66473,67413,egmont,66563,66593,der je ein Land verwüstet hat.,der-Krieg
+gdc,11g9w.0,66473,67413,egmont,66594,66606,Dein Weigern,Dein-Weigern
+gdc,11g9w.0,66473,67413,egmont,66594,66598,Dein,oranien
+gdc,11g9w.0,66473,67413,egmont,66611,66621,das Signal,Dein-Weigern
+gdc,11g9w.0,66473,67413,egmont,66623,66764,"das die Provinzen mit einmal zu den Waffen ruft, das jede Grausamkeit rechtfertigt, wozu Spanien von jeher nur gern den Vorwand gehascht hat.",Dein-Weigern
+gdc,11g9w.0,66473,67413,egmont,66769,66772,wir,egmont-/-oranien
+gdc,11g9w.0,66473,67413,egmont,66810,66812,du,oranien
+gdc,11g9w.0,66473,67413,egmont,66902,66910,das Volk,Das-Volk
+gdc,11g9w.0,66473,67413,egmont,67005,67015,der Soldat,der-Soldat
+gdc,11g9w.0,66473,67413,egmont,67030,67036,seinen,der-Soldat
+gdc,11g9w.0,66473,67413,egmont,67053,67057,sich,der-Soldat
+gdc,11g9w.0,66473,67413,egmont,67099,67102,dir,oranien
+gdc,11g9w.0,66473,67413,egmont,67177,67179,du,oranien
+gdc,11g9w.0,66473,67413,egmont,67238,67240,du,oranien
+gdc,11g9w.0,66473,67413,egmont,67257,67260,die,die
+gdc,11g9w.0,66473,67413,egmont,67281,67286,deren,die
+gdc,11g9w.0,66473,67413,egmont,67299,67309,die Waffen,die-Waffen
+gdc,11g9w.0,66473,67413,egmont,67336,67339,dir,oranien
+gdc,11g9w.0,66473,67413,egmont,67351,67353,du,oranien
+gdc,11g9w.0,66473,67413,egmont,67354,67357,dir,oranien
+gdc,11g9w.0,66473,67413,egmont,67380,67385,meine,
+gdc,11g9w.0,66473,67413,egmont,67405,67408,ich,egmont
+gdc,11g9w.0,66473,67413,egmont,67409,67412,sie,die-Waffen
+gdc,11g9w.0,67418,67564,oranien,67427,67430,Wir,egmont-/-oranien
+gdc,11g9w.0,67418,67564,oranien,67461,67467,Egmont,egmont
+gdc,11g9w.0,67418,67564,oranien,67475,67477,es,es6
+gdc,11g9w.0,67418,67564,oranien,67478,67482,sich,es6
+gdc,11g9w.0,67418,67564,oranien,67484,67487,uns,egmont-/-oranien
+gdc,11g9w.0,67418,67564,oranien,67522,67524,es,es7
+gdc,11g9w.0,67418,67564,oranien,67536,67563,uns für Tausende zu schonen,es7
+gdc,11g9w.0,67418,67564,oranien,67536,67539,uns,egmont-/-oranien
+gdc,11g9w.0,67700,67763,egmont,67708,67716,Das Übel,Das-Übel
+gdc,11g9w.0,67700,67763,egmont,67718,67762,"das du fürchtest, wird gewiß durch deine Tat",Das-Übel
+gdc,11g9w.0,67700,67763,egmont,67722,67724,du,oranien
+gdc,11g9w.0,67700,67763,egmont,67753,67758,deine,oranien
+gdc,11g9w.0,67769,67840,oranien,67778,67780,Es,Es
+gdc,11g9w.0,67769,67840,oranien,67800,67839,dem unvermeidlichen Übel entgegenzugehn,Es
+gdc,11g9w.0,67921,68016,oranien,67930,67933,Wir,egmont-/-oranien
+gdc,11g9w.0,67921,68016,oranien,68012,68015,uns,egmont-/-oranien
+gdc,11g9w.0,68021,68072,egmont,68033,68043,des Königs,Philipp-II.-
+gdc,11g9w.0,68124,68264,egmont,68142,68145,man,Man
+gdc,11g9w.0,68124,68264,egmont,68150,68153,ihm,Philipp-II.-
+gdc,11g9w.0,68124,68264,egmont,68163,68166,Ich,egmont
+gdc,11g9w.0,68124,68264,egmont,68189,68192,man,Man
+gdc,11g9w.0,68124,68264,egmont,68206,68209,ihm,Philipp-II.-
+gdc,11g9w.0,68124,68264,egmont,68217,68219,Er,Philipp-II.-
+gdc,11g9w.0,68124,68264,egmont,68224,68234,Karls Sohn,Philipp-II.-
+gdc,11g9w.0,68124,68264,egmont,68224,68229,Karls,Karl-V.-
+gdc,11g9w.0,68315,68352,egmont,68323,68351,Man sollte ihn kennen lernen,Man-sollte-ihn-kennen-lernen
+gdc,11g9w.0,68315,68352,egmont,68323,68326,Man,Man
+gdc,11g9w.0,68315,68352,egmont,68334,68337,ihn,Philipp-II.-
+gdc,11g9w.0,68357,68435,oranien,68371,68385,diese Kenntnis,Man-sollte-ihn-kennen-lernen
+gdc,11g9w.0,68357,68435,oranien,68390,68393,uns,egmont-/-oranien
+gdc,11g9w.0,68500,68538,oranien,68509,68511,Du,egmont
+gdc,11g9w.0,68500,68538,oranien,68531,68537,Egmont,egmont
+gdc,11g9w.0,68543,68582,egmont,68551,68554,Ich,egmont
+gdc,11g9w.0,68543,68582,egmont,68563,68569,meinen,egmont
+gdc,11g9w.0,68587,69283,oranien,68650,68652,du,egmont
+gdc,11g9w.0,68587,69283,oranien,68677,68679,du,egmont
+gdc,11g9w.0,68587,69283,oranien,68681,68683,du,egmont
+gdc,11g9w.0,68587,69283,oranien,68692,68695,Ich,oranien
+gdc,11g9w.0,68587,69283,oranien,68708,68710,du,egmont
+gdc,11g9w.0,68587,69283,oranien,68711,68716,Albas,alba
+gdc,11g9w.0,68587,69283,oranien,68746,68749,dir,egmont
+gdc,11g9w.0,68587,69283,oranien,68769,68773,dich,egmont
+gdc,11g9w.0,68587,69283,oranien,68774,68778,mein,oranien
+gdc,11g9w.0,68587,69283,oranien,68804,68814,der Drache,alba
+gdc,11g9w.0,68587,69283,oranien,68845,68847,er,alba
+gdc,11g9w.0,68587,69283,oranien,68848,68851,uns,egmont-/-oranien
+gdc,11g9w.0,68587,69283,oranien,68906,68908,er,alba
+gdc,11g9w.0,68587,69283,oranien,68913,68919,seinen,alba
+gdc,11g9w.0,68587,69283,oranien,68984,68986,du,egmont
+gdc,11g9w.0,68587,69283,oranien,69063,69067,dich,egmont
+gdc,11g9w.0,68587,69283,oranien,69087,69093,deiner,egmont
+gdc,11g9w.0,68587,69283,oranien,69145,69147,er,alba
+gdc,11g9w.0,68587,69283,oranien,69163,69165,er,alba
+gdc,11g9w.0,68587,69283,oranien,69166,69175,die Stadt,Brüssel
+gdc,11g9w.0,68587,69283,oranien,69199,69211,die Regentin,regentin
+gdc,11g9w.0,68587,69283,oranien,69224,69229,deine,egmont
+gdc,11g9w.0,68587,69283,oranien,69255,69258,mir,oranien
+gdc,11g9w.0,68587,69283,oranien,69275,69281,Egmont,egmont
+gdc,11g9w.0,69288,69310,egmont,69307,69309,du,oranien
+gdc,11g9w.0,69323,69348,_stage,69323,69326,ihn,egmont
+gdc,11g9w.0,69315,69378,oranien,69353,69357,dich,egmont
+gdc,11g9w.0,69383,69412,egmont,69404,69411,Oranien,oranien
+gdc,11g9w.0,69417,69473,oranien,69426,69441,Einen Verlornen,egmont
+gdc,11g9w.0,69478,69510,egmont,69486,69488,Du,oranien
+gdc,11g9w.0,69478,69510,egmont,69496,69500,mich,egmont
+gdc,11g9w.0,69515,69590,oranien,69524,69526,Du,egmont
+gdc,11g9w.0,69515,69590,oranien,69544,69547,Dir,egmont
+gdc,11g9w.0,69596,69946,egmont,69671,69674,Mir,egmont
+gdc,11g9w.0,69596,69946,egmont,69703,69714,dieser Mann,oranien
+gdc,11g9w.0,69596,69946,egmont,69721,69726,seine,oranien
+gdc,11g9w.0,69596,69946,egmont,69743,69747,mich,egmont
+gdc,11g9w.0,69596,69946,egmont,69774,69793,ein fremder Tropfen,ein-fremder-Tropfen
+gdc,11g9w.0,69596,69946,egmont,69797,69803,meinem,egmont
+gdc,11g9w.0,69596,69946,egmont,69828,69831,ihn,ein-fremder-Tropfen
+gdc,11g9w.0,69596,69946,egmont,69855,69861,meiner,egmont
+gdc,11g9w.0,69596,69946,egmont,69908,69910,es,es8
+gdc,11g9w.0,69596,69946,egmont,69924,69946,ein freundlich Mittel.,es8
+gdc,11g9w.0,70016,70454,regentin,70026,70029,Ich,regentin
+gdc,11g9w.0,70016,70454,regentin,70036,70039,mir,regentin
+gdc,11g9w.0,70016,70454,regentin,70247,70250,Ich,regentin
+gdc,11g9w.0,70016,70454,regentin,70280,70284,mich,regentin
+gdc,11g9w.0,70016,70454,regentin,70357,70360,Ich,regentin
+gdc,11g9w.0,70016,70454,regentin,70377,70381,mein,regentin
+gdc,11g9w.0,70016,70454,regentin,70404,70407,ich,regentin
+gdc,11g9w.0,70458,70539,regentin,70494,70497,Ich,regentin
+gdc,11g9w.0,70458,70539,regentin,70524,70530,meines,regentin
+gdc,11g9w.0,70544,70588,machiavell,70556,70559,Ich,machiavell
+gdc,11g9w.0,70593,71111,regentin,70640,70644,mich,regentin
+gdc,11g9w.0,70593,71111,regentin,70739,70742,ich,regentin
+gdc,11g9w.0,70593,71111,regentin,70824,70828,mich,regentin
+gdc,11g9w.0,70593,71111,regentin,70834,70837,mir,regentin
+gdc,11g9w.0,70593,71111,regentin,70905,70911,meiner,regentin
+gdc,11g9w.0,70593,71111,regentin,70965,70971,meines,regentin
+gdc,11g9w.0,70593,71111,regentin,71016,71019,ich,regentin
+gdc,11g9w.0,71274,71309,machiavell,71286,71289,Ich,machiavell
+gdc,11g9w.0,71315,71692,regentin,71422,71425,ich,regentin
+gdc,11g9w.0,72272,72331,regentin,72285,72291,meinen,regentin
+gdc,11g9w.0,72336,72380,machiavell,72348,72351,Ich,machiavell
+gdc,11g9w.0,72385,72600,regentin,72399,72402,ich,regentin
+gdc,11g9w.0,72385,72600,regentin,72410,72414,mich,regentin
+gdc,11g9w.0,72385,72600,regentin,72434,72437,mir,regentin
+gdc,11g9w.0,72385,72600,regentin,72469,72472,Ich,regentin
+gdc,11g9w.0,72385,72600,regentin,72488,72492,mein,regentin
+gdc,11g9w.0,72650,72939,regentin,72664,72667,ich,regentin
+gdc,11g9w.0,72650,72939,regentin,72857,72860,mir,regentin
+gdc,11g9w.0,72650,72939,regentin,72877,72880,ich,regentin
+gdc,11g9w.0,72972,73610,regentin,73544,73547,ich,regentin
+gdc,11g9w.0,73687,74680,regentin,73725,73731,meiner,regentin
+gdc,11g9w.0,73687,74680,regentin,73761,73764,ich,regentin
+gdc,11g9w.0,73687,74680,regentin,74071,74074,ich,regentin
+gdc,11g9w.0,74685,74779,machiavell,74709,74712,mir,machiavell
+gdc,11g9w.0,74784,75472,regentin,74803,74806,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,74844,74847,Ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75104,75107,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75108,75112,mich,regentin
+gdc,11g9w.0,74784,75472,regentin,75173,75176,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75201,75205,mich,regentin
+gdc,11g9w.0,74784,75472,regentin,75224,75227,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75251,75254,mir,regentin
+gdc,11g9w.0,74784,75472,regentin,75314,75317,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75318,75322,mich,regentin
+gdc,11g9w.0,74784,75472,regentin,75371,75374,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75404,75407,ich,regentin
+gdc,11g9w.0,74784,75472,regentin,75432,75435,ich,regentin
+gdc,11g9w.0,75477,75529,machiavell,75489,75492,Ich,machiavell
+gdc,11g9w.0,75477,75529,machiavell,75500,75503,ich,machiavell
+gdc,11g9w.0,75534,75741,regentin,75548,75551,ich,regentin
+gdc,11g9w.0,75534,75741,regentin,75642,75645,ich,regentin
+gdc,11g9w.0,75534,75741,regentin,75656,75662,meinen,regentin
+gdc,11g9w.0,75534,75741,regentin,75669,75673,mein,regentin
+gdc,11g9w.0,75786,75933,regentin,75815,75818,ich,regentin
+gdc,11g9w.0,75786,75933,regentin,75824,75828,mich,regentin
+gdc,11g9w.0,75786,75933,regentin,75865,75868,ich,regentin
+gdc,11g9w.0,75786,75933,regentin,75918,75922,mich,regentin
+gdc,11g9w.0,76402,76508,mutter,76445,76448,ich,mutter
+gdc,11g9w.0,76402,76508,mutter,76462,76465,ich,mutter
+gdc,11g9w.0,76640,76787,mutter,76693,76696,ich,mutter
+gdc,11g9w.0,77021,77145,klare_klaerchen,77040,77043,mir,klare_klaerchen
+gdc,11g9w.0,77021,77145,klare_klaerchen,77082,77085,ich,klare_klaerchen
+gdc,11g9w.0,77150,77348,mutter,77297,77300,ich,mutter
+gdc,11g9w.0,77610,77961,klare_klaerchen,77825,77828,ich,klare_klaerchen
+gdc,11g9w.0,78184,78340,mutter,78220,78225,Meine,mutter
+gdc,11g9w.0,78345,78386,egmont,78362,78365,mir,egmont
+gdc,11g9w.0,78445,78587,klare_klaerchen,78489,78492,ich,klare_klaerchen
+gdc,11g9w.0,78445,78587,klare_klaerchen,78532,78535,ich,klare_klaerchen
+gdc,11g9w.0,78445,78587,klare_klaerchen,78568,78572,mich,klare_klaerchen
+gdc,11g9w.0,78618,78775,klare_klaerchen,78654,78657,ich,klare_klaerchen
+gdc,11g9w.0,78618,78775,klare_klaerchen,78671,78674,mir,klare_klaerchen
+gdc,11g9w.0,78618,78775,klare_klaerchen,78684,78687,ich,klare_klaerchen
+gdc,11g9w.0,78618,78775,klare_klaerchen,78759,78762,ich,klare_klaerchen
+gdc,11g9w.0,78889,79104,klare_klaerchen,78936,78939,mir,klare_klaerchen
+gdc,11g9w.0,79334,79490,mutter,79400,79403,Ich,mutter
+gdc,11g9w.0,79556,79596,klare_klaerchen,79584,79589,meine,klare_klaerchen
+gdc,11g9w.0,79799,79847,egmont,79815,79818,ich,egmont
+gdc,11g9w.0,79852,79951,klare_klaerchen,79927,79930,ich,klare_klaerchen
+gdc,11g9w.0,79956,80028,egmont,79983,79986,Ich,egmont
+gdc,11g9w.0,80033,80140,klare_klaerchen,80043,80046,Ich,klare_klaerchen
+gdc,11g9w.0,80033,80140,klare_klaerchen,80081,80084,ich,klare_klaerchen
+gdc,11g9w.0,80225,80448,egmont,80316,80319,Ich,egmont
+gdc,11g9w.0,80225,80448,egmont,80358,80363,meine,egmont
+gdc,11g9w.0,80674,80953,klare_klaerchen,80720,80723,mir,klare_klaerchen
+gdc,11g9w.0,80674,80953,klare_klaerchen,80868,80871,ich,klare_klaerchen
+gdc,11g9w.0,80674,80953,klare_klaerchen,80907,80910,Ich,klare_klaerchen
+gdc,11g9w.0,81069,81141,klare_klaerchen,81079,81082,Ich,klare_klaerchen
+gdc,11g9w.0,81440,81550,egmont,81453,81456,ich,egmont
+gdc,11g9w.0,81440,81550,egmont,81488,81491,ich,egmont
+gdc,11g9w.0,81440,81550,egmont,81535,81539,mich,egmont
+gdc,11g9w.0,81608,81632,egmont,81616,81619,Ich,egmont
+gdc,11g9w.0,81782,82084,egmont,81795,81798,ich,egmont
+gdc,11g9w.0,81782,82084,egmont,81976,81979,Ich,egmont
+gdc,11g9w.0,81782,82084,egmont,82024,82030,meinem,egmont
+gdc,11g9w.0,81782,82084,egmont,82069,82072,ich,egmont
+gdc,11g9w.0,82569,82623,klare_klaerchen,82589,82592,ich,klare_klaerchen
+gdc,11g9w.0,82716,82905,klare_klaerchen,82726,82729,Ich,klare_klaerchen
+gdc,11g9w.0,82716,82905,klare_klaerchen,82737,82741,mich,klare_klaerchen
+gdc,11g9w.0,83143,83214,klare_klaerchen,83178,83181,Ich,klare_klaerchen
+gdc,11g9w.0,83143,83214,klare_klaerchen,83190,83194,mich,klare_klaerchen
+gdc,11g9w.0,83396,83491,egmont,83404,83407,Ich,egmont
+gdc,11g9w.0,83496,83848,klare_klaerchen,83510,83514,mich,klare_klaerchen
+gdc,11g9w.0,83496,83848,klare_klaerchen,83530,83534,mich,klare_klaerchen
+gdc,11g9w.0,83496,83848,klare_klaerchen,83552,83556,mich,klare_klaerchen
+gdc,11g9w.0,83496,83848,klare_klaerchen,83679,83682,mir,klare_klaerchen
+gdc,11g9w.0,83496,83848,klare_klaerchen,83690,83693,ich,klare_klaerchen
+gdc,11g9w.0,83853,83895,egmont,83885,83888,ich,egmont
+gdc,11g9w.0,83919,84886,egmont,83954,83958,mich,egmont
+gdc,11g9w.0,83919,84886,egmont,84616,84620,mich,egmont
+gdc,11g9w.0,84891,84959,klare_klaerchen,84908,84912,mich,klare_klaerchen
+gdc,11g9w.0,86131,86370,jetter,86155,86158,mir,jetter
+gdc,11g9w.0,86131,86370,jetter,86229,86232,mir,jetter
+gdc,11g9w.0,86512,87157,jetter,86913,86916,mir,jetter
+gdc,11g9w.0,87247,87281,jetter,87255,87258,Ich,jetter
+gdc,11g9w.0,87915,88061,jetter,87964,87967,Ich,jetter
+gdc,11g9w.0,88313,88383,vansen,88326,88329,ich,vansen
+gdc,11g9w.0,88591,88720,vansen,88645,88648,ich,vansen
+gdc,11g9w.0,88591,88720,vansen,88707,88710,mir,vansen
+gdc,11g9w.0,89214,89747,vansen,89462,89465,mir,vansen
+gdc,11g9w.0,89214,89747,vansen,89721,89724,ich,vansen
+gdc,11g9w.0,89752,89893,zimmermeister,89811,89814,ich,zimmermeister
+gdc,11g9w.0,89752,89893,zimmermeister,89818,89824,meinem,zimmermeister
+gdc,11g9w.0,89752,89893,zimmermeister,89860,89863,ich,zimmermeister
+gdc,11g9w.0,89752,89893,zimmermeister,89864,89868,mich,zimmermeister
+gdc,11g9w.0,90021,90130,vansen,90029,90032,Ich,vansen
+gdc,11g9w.0,90181,90213,vansen,90204,90208,mein,vansen
+gdc,11g9w.0,90181,90213,vansen,90209,90212,ich,vansen
+gdc,11g9w.0,90261,90483,vansen,90269,90272,Ich,vansen
+gdc,11g9w.0,90261,90483,vansen,90388,90391,mir,vansen
+gdc,11g9w.0,90261,90483,vansen,90442,90448,meinen,vansen
+gdc,11g9w.0,90791,90958,vansen,90809,90812,ich,vansen
+gdc,11g9w.0,91468,91584,jetter,91476,91479,Ich,jetter
+gdc,11g9w.0,91589,91948,vansen,91764,91767,Ich,vansen
+gdc,11g9w.0,92066,93217,vansen,92770,92773,ich,vansen
+gdc,11g9w.0,93861,94428,vansen,93874,93877,ich,vansen
+gdc,11g9w.0,93861,94428,vansen,93894,93897,Mir,vansen
+gdc,11g9w.0,93861,94428,vansen,93955,93961,meiner,vansen
+gdc,11g9w.0,93861,94428,vansen,94089,94092,Ich,vansen
+gdc,11g9w.0,93861,94428,vansen,94122,94125,ich,vansen
+gdc,11g9w.0,93861,94428,vansen,94279,94282,Ich,vansen
+gdc,11g9w.0,94586,95020,gomez,94704,94707,ich,gomez
+gdc,11g9w.0,95025,95179,silva,95032,95035,Ich,silva
+gdc,11g9w.0,95184,95834,gomez,95217,95220,mir,gomez
+gdc,11g9w.0,95184,95834,gomez,95315,95318,Mir,gomez
+gdc,11g9w.0,95184,95834,gomez,95342,95345,ich,gomez
+gdc,11g9w.0,95184,95834,gomez,95421,95424,ich,gomez
+gdc,11g9w.0,95184,95834,gomez,95440,95443,ich,gomez
+gdc,11g9w.0,95184,95834,gomez,95449,95452,mir,gomez
+gdc,11g9w.0,95184,95834,gomez,95562,95565,mir,gomez
+gdc,11g9w.0,95184,95834,gomez,95643,95646,ich,gomez
+gdc,11g9w.0,96506,96682,silva,96678,96681,ich,silva
+gdc,11g9w.0,97053,97085,gomez,97060,97064,Mich,gomez
+gdc,11g9w.0,97291,97335,ferdinand,97306,97310,mein,ferdinand
+gdc,11g9w.0,97485,97526,gomez,97507,97510,Ich,gomez
+gdc,11g9w.0,98003,98023,silva,98019,98022,ich,silva
+gdc,11g9w.0,98028,98146,alba,98045,98048,ich,alba
+gdc,11g9w.0,98151,98235,silva,98158,98161,Ich,silva
+gdc,11g9w.0,98151,98235,silva,98182,98185,mir,silva
+gdc,11g9w.0,98151,98235,silva,98218,98221,ich,silva
+gdc,11g9w.0,98240,98429,alba,98269,98272,mir,alba
+gdc,11g9w.0,99098,99565,silva,99105,99108,Ich,silva
+gdc,11g9w.0,99098,99565,silva,99515,99518,ich,silva
+gdc,11g9w.0,99570,100132,alba,99576,99579,Ich,alba
+gdc,11g9w.0,99570,100132,alba,99586,99590,mich,alba
+gdc,11g9w.0,99570,100132,alba,100075,100081,meinem,alba
+gdc,11g9w.0,99570,100132,alba,100096,100099,mir,alba
+gdc,11g9w.0,100137,100259,silva,100144,100147,Ich,silva
+gdc,11g9w.0,100263,100687,silva,100270,100273,Ich,silva
+gdc,11g9w.0,100263,100687,silva,100280,100283,mir,silva
+gdc,11g9w.0,100263,100687,silva,100308,100313,meine,silva
+gdc,11g9w.0,100263,100687,silva,100333,100336,Ich,silva
+gdc,11g9w.0,100263,100687,silva,100382,100385,Ich,silva
+gdc,11g9w.0,100263,100687,silva,100403,100406,mir,silva
+gdc,11g9w.0,100756,101111,ferdinand,100794,100797,Ich,ferdinand
+gdc,11g9w.0,101158,101474,ferdinand,101263,101266,ich,ferdinand
+gdc,11g9w.0,101158,101474,ferdinand,101359,101362,mir,ferdinand
+gdc,11g9w.0,101158,101474,ferdinand,101382,101386,mich,ferdinand
+gdc,11g9w.0,101514,101628,ferdinand,101550,101553,ich,ferdinand
+gdc,11g9w.0,101514,101628,ferdinand,101577,101580,mir,ferdinand
+gdc,11g9w.0,101633,101857,alba,101702,101705,ich,alba
+gdc,11g9w.0,101633,101857,alba,101747,101750,mir,alba
+gdc,11g9w.0,101862,101904,ferdinand,101891,101895,mich,ferdinand
+gdc,11g9w.0,101909,102104,alba,101915,101918,Ich,alba
+gdc,11g9w.0,101909,102104,alba,102044,102047,ich,alba
+gdc,11g9w.0,101909,102104,alba,102078,102081,ich,alba
+gdc,11g9w.0,102109,102181,ferdinand,102129,102133,mich,ferdinand
+gdc,11g9w.0,102109,102181,ferdinand,102146,102150,mich,ferdinand
+gdc,11g9w.0,102186,102219,alba,102209,102213,Mein,alba
+gdc,11g9w.0,102224,102246,ferdinand,102235,102239,Mein,ferdinand
+gdc,11g9w.0,102251,102426,alba,102337,102340,ich,alba
+gdc,11g9w.0,102461,103162,alba,102666,102669,ich,alba
+gdc,11g9w.0,102461,103162,alba,102764,102767,mir,alba
+gdc,11g9w.0,102461,103162,alba,102798,102801,ich,alba
+gdc,11g9w.0,102461,103162,alba,102863,102866,ich,alba
+gdc,11g9w.0,102461,103162,alba,102945,102948,ich,alba
+gdc,11g9w.0,102461,103162,alba,103074,103077,ich,alba
+gdc,11g9w.0,103167,103295,ferdinand,103187,103190,ich,ferdinand
+gdc,11g9w.0,103167,103295,ferdinand,103234,103237,mir,ferdinand
+gdc,11g9w.0,103300,104042,alba,103706,103709,mir,alba
+gdc,11g9w.0,103300,104042,alba,103849,103852,ich,alba
+gdc,11g9w.0,103300,104042,alba,103879,103882,ich,alba
+gdc,11g9w.0,103300,104042,alba,104020,104023,ich,alba
+gdc,11g9w.0,104047,104136,ferdinand,104058,104061,Ich,ferdinand
+gdc,11g9w.0,104047,104136,ferdinand,104072,104076,mein,ferdinand
+gdc,11g9w.0,104141,104231,alba,104147,104150,Ich,alba
+gdc,11g9w.0,104340,104373,silva,104353,104356,mir,silva
+gdc,11g9w.0,104378,106307,alba,104400,104404,mein,alba
+gdc,11g9w.0,104378,106307,alba,104929,104932,ich,alba
+gdc,11g9w.0,104378,106307,alba,104962,104965,mir,alba
+gdc,11g9w.0,104378,106307,alba,104992,104995,mir,alba
+gdc,11g9w.0,104378,106307,alba,105080,105083,ich,alba
+gdc,11g9w.0,104378,106307,alba,105084,105087,mir,alba
+gdc,11g9w.0,104378,106307,alba,105122,105125,mir,alba
+gdc,11g9w.0,104378,106307,alba,105209,105212,mir,alba
+gdc,11g9w.0,104378,106307,alba,105231,105234,ich,alba
+gdc,11g9w.0,104378,106307,alba,105342,105348,meinen,alba
+gdc,11g9w.0,104378,106307,alba,106145,106148,mir,alba
+gdc,11g9w.0,106311,106735,alba,106330,106333,ich,alba
+gdc,11g9w.0,106311,106735,alba,106342,106345,ich,alba
+gdc,11g9w.0,106311,106735,alba,106352,106358,meinen,alba
+gdc,11g9w.0,106311,106735,alba,106373,106376,Ich,alba
+gdc,11g9w.0,106311,106735,alba,106421,106424,mir,alba
+gdc,11g9w.0,106739,106879,egmont,106747,106750,Ich,egmont
+gdc,11g9w.0,106943,107019,egmont,106996,106999,Ich,egmont
+gdc,11g9w.0,107024,107311,alba,107030,107033,Mir,alba
+gdc,11g9w.0,107316,107506,egmont,107352,107355,ich,egmont
+gdc,11g9w.0,107511,107649,alba,107592,107596,mich,alba
+gdc,11g9w.0,107654,108229,egmont,107811,107816,meine,egmont
+gdc,11g9w.0,108234,108605,alba,108240,108243,Ich,alba
+gdc,11g9w.0,109784,110033,alba,109995,109998,ich,alba
+gdc,11g9w.0,111806,111838,alba,111820,111823,ich,alba
+gdc,11g9w.0,111843,112067,egmont,111857,111862,meine,egmont
+gdc,11g9w.0,113171,113637,egmont,113256,113259,ich,egmont
+gdc,11g9w.0,113171,113637,egmont,113345,113348,Ich,egmont
+gdc,11g9w.0,113171,113637,egmont,113355,113360,meine,egmont
+gdc,11g9w.0,113750,113931,egmont,113780,113784,mich,egmont
+gdc,11g9w.0,113750,113931,egmont,113859,113862,mir,egmont
+gdc,11g9w.0,113750,113931,egmont,113883,113886,mir,egmont
+gdc,11g9w.0,113936,113982,alba,113965,113968,ich,alba
+gdc,11g9w.0,113987,114474,egmont,113995,113998,Ich,egmont
+gdc,11g9w.0,114479,115111,alba,114900,114903,Ich,alba
+gdc,11g9w.0,116727,116794,alba,116742,116745,mir,alba
+gdc,11g9w.0,116727,116794,alba,116751,116754,ich,alba
+gdc,11g9w.0,116727,116794,alba,116780,116783,ich,alba
+gdc,11g9w.0,116800,116864,egmont,116812,116815,ich,egmont
+gdc,11g9w.0,116800,116864,egmont,116843,116846,ich,egmont
+gdc,11g9w.0,116800,116864,egmont,116858,116863,meine,egmont
+gdc,11g9w.0,116869,117569,alba,116896,116899,ich,alba
+gdc,11g9w.0,116869,117569,alba,116944,116948,mich,alba
+gdc,11g9w.0,116869,117569,alba,116967,116970,ich,alba
+gdc,11g9w.0,116869,117569,alba,117462,117465,ich,alba
+gdc,11g9w.0,116869,117569,alba,117490,117493,ich,alba
+gdc,11g9w.0,118260,118685,alba,118491,118494,Ich,alba
+gdc,11g9w.0,118260,118685,alba,118578,118581,ich,alba
+gdc,11g9w.0,118690,118970,egmont,118875,118878,ich,egmont
+gdc,11g9w.0,118690,118970,egmont,118912,118915,ich,egmont
+gdc,11g9w.0,118974,119096,ferdinand,118999,119002,ich,ferdinand
+gdc,11g9w.0,119101,119169,alba,119115,119118,mir,alba
+gdc,11g9w.0,119101,119169,alba,119124,119127,ich,alba
+gdc,11g9w.0,119272,119427,egmont,119309,119312,Ich,egmont
+gdc,11g9w.0,119272,119427,egmont,119338,119341,ich,egmont
+gdc,11g9w.0,119532,119611,egmont,119559,119563,mich,egmont
+gdc,11g9w.0,119532,119611,egmont,119570,119573,ich,egmont
+gdc,11g9w.0,119842,120368,egmont,119871,119875,mich,egmont
+gdc,11g9w.0,119842,120368,egmont,119883,119886,ich,egmont
+gdc,11g9w.0,119842,120368,egmont,119893,119897,mich,egmont
+gdc,11g9w.0,119842,120368,egmont,119926,119929,ich,egmont
+gdc,11g9w.0,119842,120368,egmont,120026,120029,ich,egmont
+gdc,11g9w.0,119842,120368,egmont,120359,120362,ich,egmont
+gdc,11g9w.0,119842,120368,egmont,120363,120367,mich,egmont
+gdc,11g9w.0,120559,120735,egmont,120638,120642,mich,egmont
+gdc,11g9w.0,120559,120735,egmont,120718,120721,ich,egmont
+gdc,11g9w.0,120740,120845,alba,120776,120780,mein,alba
+gdc,11g9w.0,121321,121969,klare_klaerchen,121463,121466,ich,klare_klaerchen
+gdc,11g9w.0,122075,122287,klare_klaerchen,122097,122100,mir,klare_klaerchen
+gdc,11g9w.0,122349,123204,klare_klaerchen,122610,122613,ich,klare_klaerchen
+gdc,11g9w.0,122349,123204,klare_klaerchen,122627,122630,Ich,klare_klaerchen
+gdc,11g9w.0,123250,123334,klare_klaerchen,123270,123274,mich,klare_klaerchen
+gdc,11g9w.0,123250,123334,klare_klaerchen,123306,123309,ich,klare_klaerchen
+gdc,11g9w.0,123250,123334,klare_klaerchen,123311,123314,Ich,klare_klaerchen
+gdc,11g9w.0,123390,124108,klare_klaerchen,123539,123542,ich,klare_klaerchen
+gdc,11g9w.0,123390,124108,klare_klaerchen,123675,123679,mich,klare_klaerchen
+gdc,11g9w.0,123390,124108,klare_klaerchen,123758,123761,Ich,klare_klaerchen
+gdc,11g9w.0,123390,124108,klare_klaerchen,123805,123810,meine,klare_klaerchen
+gdc,11g9w.0,123390,124108,klare_klaerchen,124062,124065,mir,klare_klaerchen
+gdc,11g9w.0,125220,126075,klare_klaerchen,125241,125244,ich,klare_klaerchen
+gdc,11g9w.0,125220,126075,klare_klaerchen,125345,125349,mich,klare_klaerchen
+gdc,11g9w.0,125220,126075,klare_klaerchen,125387,125391,mich,klare_klaerchen
+gdc,11g9w.0,125220,126075,klare_klaerchen,125420,125423,ich,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126130,126133,ich,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126180,126183,ich,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126254,126258,mein,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126286,126289,ich,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126293,126299,meinen,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126369,126372,ich,klare_klaerchen
+gdc,11g9w.0,126116,126583,klare_klaerchen,126457,126461,mein,klare_klaerchen
+gdc,11g9w.0,126588,126645,jetter,126628,126632,mich,jetter
+gdc,11g9w.0,126706,127445,klare_klaerchen,126976,126979,ich,klare_klaerchen
+gdc,11g9w.0,126706,127445,klare_klaerchen,127426,127429,mir,klare_klaerchen
+gdc,11g9w.0,127514,127821,brackenburg,127548,127551,ich,brackenburg
+gdc,11g9w.0,127514,127821,brackenburg,127631,127635,mich,brackenburg
+gdc,11g9w.0,127514,127821,brackenburg,127668,127671,ich,brackenburg
+gdc,11g9w.0,127514,127821,brackenburg,127730,127733,ich,brackenburg
+gdc,11g9w.0,127826,128282,klare_klaerchen,127842,127845,mir,klare_klaerchen
+gdc,11g9w.0,127826,128282,klare_klaerchen,128011,128014,ich,klare_klaerchen
+gdc,11g9w.0,127826,128282,klare_klaerchen,128018,128024,meinem,klare_klaerchen
+gdc,11g9w.0,127826,128282,klare_klaerchen,128069,128073,mich,klare_klaerchen
+gdc,11g9w.0,127826,128282,klare_klaerchen,128105,128108,mir,klare_klaerchen
+gdc,11g9w.0,127826,128282,klare_klaerchen,128145,128148,mir,klare_klaerchen
+gdc,11g9w.0,128347,128698,brackenburg,128533,128536,ich,brackenburg
+gdc,11g9w.0,128347,128698,brackenburg,128575,128579,mich,brackenburg
+gdc,11g9w.0,128703,128812,klare_klaerchen,128729,128732,ich,klare_klaerchen
+gdc,11g9w.0,128703,128812,klare_klaerchen,128741,128745,mich,klare_klaerchen
+gdc,11g9w.0,128703,128812,klare_klaerchen,128791,128796,meine,klare_klaerchen
+gdc,11g9w.0,128883,133111,egmont,128946,128950,mich,egmont
+gdc,11g9w.0,128883,133111,egmont,129013,129017,mein,egmont
+gdc,11g9w.0,128883,133111,egmont,129093,129098,meine,egmont
+gdc,11g9w.0,128883,133111,egmont,129159,129162,ich,egmont
+gdc,11g9w.0,128883,133111,egmont,129424,129427,Ich,egmont
+gdc,11g9w.0,128883,133111,egmont,129473,129479,meiner,egmont
+gdc,11g9w.0,128883,133111,egmont,129505,129508,ich,egmont
+gdc,11g9w.0,128883,133111,egmont,129553,129557,mich,egmont
+gdc,11g9w.0,128883,133111,egmont,130251,130254,mir,egmont
+gdc,11g9w.0,128883,133111,egmont,130267,130273,meinem,egmont
+gdc,11g9w.0,128883,133111,egmont,130475,130479,mich,egmont
+gdc,11g9w.0,128883,133111,egmont,130500,130503,ich,egmont
+gdc,11g9w.0,128883,133111,egmont,131374,131377,ich,egmont
+gdc,11g9w.0,128883,133111,egmont,131600,131604,mich,egmont
+gdc,11g9w.0,128883,133111,egmont,132341,132345,mich,egmont
+gdc,11g9w.0,128883,133111,egmont,132409,132412,mir,egmont
+gdc,11g9w.0,128883,133111,egmont,132437,132443,meinen,egmont
+gdc,11g9w.0,128883,133111,egmont,132511,132517,meines,egmont
+gdc,11g9w.0,128883,133111,egmont,132581,132584,mir,egmont
+gdc,11g9w.0,128883,133111,egmont,132683,132689,meiner,egmont
+gdc,11g9w.0,128883,133111,egmont,132729,132732,ich,egmont
+gdc,11g9w.0,128883,133111,egmont,132965,132969,mich,egmont
+gdc,11g9w.0,128883,133111,egmont,133017,133020,ich,egmont
+gdc,11g9w.0,135200,135352,brackenburg,135244,135247,ich,brackenburg
+gdc,11g9w.0,135200,135352,brackenburg,135326,135329,ich,brackenburg
+gdc,11g9w.0,135200,135352,brackenburg,135330,135334,mich,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135438,135442,mich,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135451,135454,Ich,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135558,135561,Ich,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135594,135598,mich,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135644,135648,mein,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135659,135662,mir,brackenburg
+gdc,11g9w.0,135390,135712,brackenburg,135698,135701,ich,brackenburg
+gdc,11g9w.0,135717,135822,klare_klaerchen,135779,135782,mir,klare_klaerchen
+gdc,11g9w.0,135827,135873,brackenburg,135850,135853,Ich,brackenburg
+gdc,11g9w.0,135942,136296,klare_klaerchen,136273,136277,mich,klare_klaerchen
+gdc,11g9w.0,136523,136719,klare_klaerchen,136569,136573,mein,klare_klaerchen
+gdc,11g9w.0,136523,136719,klare_klaerchen,136591,136594,Ich,klare_klaerchen
+gdc,11g9w.0,136523,136719,klare_klaerchen,136646,136649,mir,klare_klaerchen
+gdc,11g9w.0,136724,137813,brackenburg,136737,136740,Ich,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,136880,136883,Ich,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,136937,136943,meines,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,137085,137088,Ich,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,137098,137102,mein,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,137145,137148,mir,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,137196,137199,mir,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,137403,137406,ich,brackenburg
+gdc,11g9w.0,136724,137813,brackenburg,137594,137597,Ich,brackenburg
+gdc,11g9w.0,137818,138441,klare_klaerchen,137879,137885,meiner,klare_klaerchen
+gdc,11g9w.0,137818,138441,klare_klaerchen,138380,138384,mein,klare_klaerchen
+gdc,11g9w.0,138446,138505,brackenburg,138474,138478,Mein,brackenburg
+gdc,11g9w.0,138510,138730,klare_klaerchen,138629,138632,Ich,klare_klaerchen
+gdc,11g9w.0,138510,138730,klare_klaerchen,138717,138721,mein,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,138815,138819,mein,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,138836,138839,mir,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,138903,138906,mir,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,138939,138942,ich,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139002,139005,ich,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139048,139051,ich,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139075,139078,ich,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139095,139099,Mein,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139113,139116,mir,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139134,139137,ich,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139210,139214,mich,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139288,139291,mir,klare_klaerchen
+gdc,11g9w.0,138777,139519,klare_klaerchen,139310,139314,mich,klare_klaerchen
+gdc,11g9w.0,139524,139618,brackenburg,139544,139548,mich,brackenburg
+gdc,11g9w.0,139623,140170,klare_klaerchen,139681,139687,meiner,klare_klaerchen
+gdc,11g9w.0,139623,140170,klare_klaerchen,139758,139761,ich,klare_klaerchen
+gdc,11g9w.0,139623,140170,klare_klaerchen,139815,139819,mich,klare_klaerchen
+gdc,11g9w.0,139623,140170,klare_klaerchen,140117,140121,mein,klare_klaerchen
+gdc,11g9w.0,140175,140463,brackenburg,140436,140439,Ich,brackenburg
+gdc,11g9w.0,140175,140463,brackenburg,140458,140462,mein,brackenburg
+gdc,11g9w.0,140468,140578,klare_klaerchen,140561,140564,mir,klare_klaerchen
+gdc,11g9w.0,140707,140770,klare_klaerchen,140717,140720,Ich,klare_klaerchen
+gdc,11g9w.0,140707,140770,klare_klaerchen,140741,140745,mich,klare_klaerchen
+gdc,11g9w.0,140906,141625,klare_klaerchen,140979,140985,meinem,klare_klaerchen
+gdc,11g9w.0,140906,141625,klare_klaerchen,141513,141517,mich,klare_klaerchen
+gdc,11g9w.0,141661,142011,klare_klaerchen,141732,141735,Ich,klare_klaerchen
+gdc,11g9w.0,141661,142011,klare_klaerchen,141831,141834,ich,klare_klaerchen
+gdc,11g9w.0,141661,142011,klare_klaerchen,141916,141921,meine,klare_klaerchen
+gdc,11g9w.0,141661,142011,klare_klaerchen,141979,141983,mein,klare_klaerchen
+gdc,11g9w.0,142016,142857,brackenburg,142038,142042,mich,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142157,142161,mich,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142169,142172,mir,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142214,142217,mir,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142330,142333,mir,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142364,142368,mich,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142405,142409,mich,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142436,142440,mich,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142607,142610,ich,brackenburg
+gdc,11g9w.0,142016,142857,brackenburg,142740,142744,mich,brackenburg
+gdc,11g9w.0,143384,143624,egmont,143414,143417,mir,egmont
+gdc,11g9w.0,143384,143624,egmont,143511,143514,mir,egmont
+gdc,11g9w.0,143818,144124,egmont,144059,144063,mein,egmont
+gdc,11g9w.0,145428,147582,egmont,145641,145645,mein,egmont
+gdc,11g9w.0,145428,147582,egmont,145657,145661,mein,egmont
+gdc,11g9w.0,145428,147582,egmont,145781,145784,ich,egmont
+gdc,11g9w.0,145428,147582,egmont,145844,145848,mich,egmont
+gdc,11g9w.0,145428,147582,egmont,146331,146334,ich,egmont
+gdc,11g9w.0,145428,147582,egmont,146408,146411,ich,egmont
+gdc,11g9w.0,145428,147582,egmont,146425,146428,ich,egmont
+gdc,11g9w.0,145428,147582,egmont,146497,146501,mich,egmont
+gdc,11g9w.0,145428,147582,egmont,146533,146537,mich,egmont
+gdc,11g9w.0,145428,147582,egmont,146710,146713,mir,egmont
+gdc,11g9w.0,145428,147582,egmont,146819,146823,mein,egmont
+gdc,11g9w.0,145428,147582,egmont,146869,146872,ich,egmont
+gdc,11g9w.0,145428,147582,egmont,146873,146877,mich,egmont
+gdc,11g9w.0,145428,147582,egmont,147028,147032,mich,egmont
+gdc,11g9w.0,145428,147582,egmont,147121,147124,Ich,egmont
+gdc,11g9w.0,145428,147582,egmont,147162,147167,meine,egmont
+gdc,11g9w.0,145428,147582,egmont,147244,147248,mich,egmont
+gdc,11g9w.0,145428,147582,egmont,147276,147279,ich,egmont
+gdc,11g9w.0,145428,147582,egmont,147292,147295,ich,egmont
+gdc,11g9w.0,147587,147966,ferdinand,147598,147601,Ich,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147697,147700,ich,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147731,147734,ich,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147761,147765,mich,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147781,147785,mich,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147805,147808,mir,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147833,147836,mir,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147862,147865,mir,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147902,147905,ich,ferdinand
+gdc,11g9w.0,147587,147966,ferdinand,147953,147956,ich,ferdinand
+gdc,11g9w.0,147971,148577,egmont,148214,148218,mich,egmont
+gdc,11g9w.0,147971,148577,egmont,148227,148230,ich,egmont
+gdc,11g9w.0,147971,148577,egmont,148245,148248,ich,egmont
+gdc,11g9w.0,147971,148577,egmont,148328,148332,mich,egmont
+gdc,11g9w.0,147971,148577,egmont,148480,148483,mir,egmont
+gdc,11g9w.0,147971,148577,egmont,148524,148527,ich,egmont
+gdc,11g9w.0,147971,148577,egmont,148528,148532,mich,egmont
+gdc,11g9w.0,148582,149040,ferdinand,148602,148605,ich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148617,148620,Ich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148676,148680,mich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148693,148696,ich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148697,148701,mich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148722,148725,ich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148747,148750,ich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148813,148816,ich,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148923,148926,mir,ferdinand
+gdc,11g9w.0,148582,149040,ferdinand,148962,148965,ich,ferdinand
+gdc,11g9w.0,149045,149296,egmont,149117,149120,mir,egmont
+gdc,11g9w.0,149045,149296,egmont,149155,149161,meines,egmont
+gdc,11g9w.0,149045,149296,egmont,149170,149176,meines,egmont
+gdc,11g9w.0,149045,149296,egmont,149213,149217,mich,egmont
+gdc,11g9w.0,149045,149296,egmont,149239,149245,meinen,egmont
+gdc,11g9w.0,149045,149296,egmont,149280,149283,ich,egmont
+gdc,11g9w.0,149301,149764,ferdinand,149333,149336,ich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149381,149385,mein,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149392,149397,meine,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149470,149474,Mich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149509,149513,mich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149627,149631,mich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149637,149640,ich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149676,149679,ich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149712,149715,ich,ferdinand
+gdc,11g9w.0,149301,149764,ferdinand,149749,149752,mir,ferdinand
+gdc,11g9w.0,149769,149828,egmont,149777,149780,Ich,egmont
+gdc,11g9w.0,149833,150075,ferdinand,149850,149853,ich,ferdinand
+gdc,11g9w.0,149833,150075,ferdinand,149877,149880,mir,ferdinand
+gdc,11g9w.0,149833,150075,ferdinand,149935,149938,mir,ferdinand
+gdc,11g9w.0,149833,150075,ferdinand,149982,149986,mich,ferdinand
+gdc,11g9w.0,149833,150075,ferdinand,150024,150027,ich,ferdinand
+gdc,11g9w.0,149833,150075,ferdinand,150045,150048,ich,ferdinand
+gdc,11g9w.0,150123,150410,ferdinand,150168,150172,mich,ferdinand
+gdc,11g9w.0,150123,150410,ferdinand,150193,150196,Ich,ferdinand
+gdc,11g9w.0,150123,150410,ferdinand,150242,150245,mir,ferdinand
+gdc,11g9w.0,150123,150410,ferdinand,150272,150275,ich,ferdinand
+gdc,11g9w.0,150123,150410,ferdinand,150328,150332,mich,ferdinand
+gdc,11g9w.0,150123,150410,ferdinand,150354,150358,mich,ferdinand
+gdc,11g9w.0,150415,150446,egmont,150428,150431,mir,egmont
+gdc,11g9w.0,150554,151220,ferdinand,150586,150589,mir,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150624,150627,mir,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150631,150637,meiner,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150714,150717,ich,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150823,150826,mir,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150873,150876,ich,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150938,150941,ich,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,150983,150987,mein,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,151022,151025,ich,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,151026,151029,mir,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,151071,151074,ich,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,151095,151098,ich,ferdinand
+gdc,11g9w.0,150554,151220,ferdinand,151201,151204,ich,ferdinand
+gdc,11g9w.0,151225,151488,egmont,151233,151237,Mein,egmont
+gdc,11g9w.0,151225,151488,egmont,151324,151328,mein,egmont
+gdc,11g9w.0,151225,151488,egmont,151361,151365,mich,egmont
+gdc,11g9w.0,151225,151488,egmont,151421,151424,mir,egmont
+gdc,11g9w.0,151225,151488,egmont,151474,151478,mich,egmont
+gdc,11g9w.0,151518,151705,egmont,151575,151579,mich,egmont
+gdc,11g9w.0,151518,151705,egmont,151631,151635,mich,egmont
+gdc,11g9w.0,151518,151705,egmont,151682,151686,mich,egmont
+gdc,11g9w.0,151710,152020,ferdinand,151765,151768,ich,ferdinand
+gdc,11g9w.0,151710,152020,ferdinand,151769,151772,mir,ferdinand
+gdc,11g9w.0,151710,152020,ferdinand,151829,151832,ich,ferdinand
+gdc,11g9w.0,151710,152020,ferdinand,151924,151927,ich,ferdinand
+gdc,11g9w.0,151710,152020,ferdinand,151936,151940,mich,ferdinand
+gdc,11g9w.0,151710,152020,ferdinand,151957,151960,mir,ferdinand
+gdc,11g9w.0,152025,152787,egmont,152041,152045,mich,egmont
+gdc,11g9w.0,152025,152787,egmont,152085,152089,mich,egmont
+gdc,11g9w.0,152025,152787,egmont,152141,152145,mich,egmont
+gdc,11g9w.0,152025,152787,egmont,152171,152175,mich,egmont
+gdc,11g9w.0,152025,152787,egmont,152281,152284,Ich,egmont
+gdc,11g9w.0,152025,152787,egmont,152391,152395,mich,egmont
+gdc,11g9w.0,152025,152787,egmont,152400,152406,meinen,egmont
+gdc,11g9w.0,152025,152787,egmont,152442,152446,mich,egmont
+gdc,11g9w.0,152025,152787,egmont,152507,152512,meine,egmont
+gdc,11g9w.0,152025,152787,egmont,152705,152708,mir,egmont
+gdc,11g9w.0,152792,153409,ferdinand,152853,152858,meine,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,152931,152935,mich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,152957,152960,mir,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,152987,152990,Ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153029,153032,ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153067,153070,ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153133,153136,ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153143,153147,mich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153194,153197,ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153212,153215,ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153259,153262,ich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153305,153309,mich,ferdinand
+gdc,11g9w.0,152792,153409,ferdinand,153364,153367,mir,ferdinand
+gdc,11g9w.0,153467,154016,egmont,153598,153601,ich,egmont
+gdc,11g9w.0,153467,154016,egmont,153738,153741,mir,egmont
+gdc,11g9w.0,153467,154016,egmont,153848,153851,Ich,egmont
+gdc,11g9w.0,153467,154016,egmont,153967,153971,mich,egmont
+gdc,11g9w.0,154021,154206,ferdinand,154036,154039,ich,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154367,154370,ich,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154381,154384,ich,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154437,154440,ich,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154459,154463,mich,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154501,154504,ich,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154505,154509,mein,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154542,154547,meine,ferdinand
+gdc,11g9w.0,154235,154611,ferdinand,154595,154598,mir,ferdinand
+gdc,11g9w.0,154616,155441,egmont,154643,154646,ich,egmont
+gdc,11g9w.0,154616,155441,egmont,154718,154722,mich,egmont
+gdc,11g9w.0,154616,155441,egmont,154757,154761,mich,egmont
+gdc,11g9w.0,154616,155441,egmont,154775,154779,mich,egmont
+gdc,11g9w.0,154616,155441,egmont,154820,154824,mich,egmont
+gdc,11g9w.0,154616,155441,egmont,154840,154844,mein,egmont
+gdc,11g9w.0,154616,155441,egmont,154919,154923,mein,egmont
+gdc,11g9w.0,154616,155441,egmont,155039,155042,Ich,egmont
+gdc,11g9w.0,154616,155441,egmont,155062,155065,mir,egmont
+gdc,11g9w.0,154616,155441,egmont,155102,155105,ich,egmont
+gdc,11g9w.0,154616,155441,egmont,155106,155110,mich,egmont
+gdc,11g9w.0,154616,155441,egmont,155154,155159,meine,egmont
+gdc,11g9w.0,154616,155441,egmont,155180,155184,mein,egmont
+gdc,11g9w.0,154616,155441,egmont,155194,155197,mir,egmont
+gdc,11g9w.0,154616,155441,egmont,155323,155326,Ich,egmont
+gdc,11g9w.0,154616,155441,egmont,155351,155354,ich,egmont
+gdc,11g9w.0,154616,155441,egmont,155384,155388,mein,egmont
+gdc,11g9w.0,155446,155850,ferdinand,155553,155556,ich,ferdinand
+gdc,11g9w.0,155446,155850,ferdinand,155792,155795,ich,ferdinand
+gdc,11g9w.0,155855,155879,egmont,155863,155866,Ich,egmont
+gdc,11g9w.0,155884,156082,ferdinand,155903,155906,ich,ferdinand
+gdc,11g9w.0,156087,156706,egmont,156315,156318,ich,egmont
+gdc,11g9w.0,156087,156706,egmont,156319,156323,mich,egmont
+gdc,11g9w.0,156087,156706,egmont,156409,156413,mein,egmont
+gdc,11g9w.0,156087,156706,egmont,156438,156444,meinem,egmont
+gdc,11g9w.0,156711,156742,ferdinand,156722,156725,Ich,ferdinand
+gdc,11g9w.0,156747,156929,egmont,156759,156764,meine,egmont
+gdc,11g9w.0,156747,156929,egmont,156802,156805,Ich,egmont
+gdc,11g9w.0,157035,157648,egmont,157087,157090,ich,egmont
+gdc,11g9w.0,157035,157648,egmont,157434,157437,Ich,egmont
+gdc,11g9w.0,157035,157648,egmont,157496,157500,mein,egmont
+gdc,11g9w.0,157035,157648,egmont,157510,157513,ich,egmont
+gdc,11g9w.0,157035,157648,egmont,157538,157541,ich,egmont
+gdc,11g9w.0,157035,157648,egmont,157618,157622,mein,egmont
+gdc,11g9w.0,157928,157954,ferdinand,157939,157942,Ich,ferdinand
+gdc,11g9w.0,158007,158034,ferdinand,158024,158028,mich,ferdinand
+gdc,11g9w.0,158191,162140,egmont,158245,158248,mir,egmont
+gdc,11g9w.0,158191,162140,egmont,158308,158311,ich,egmont
+gdc,11g9w.0,158191,162140,egmont,158505,158509,mich,egmont
+gdc,11g9w.0,158191,162140,egmont,158522,158528,meinem,egmont
+gdc,11g9w.0,158191,162140,egmont,158598,158603,meine,egmont
+gdc,11g9w.0,158191,162140,egmont,160350,160356,meines,egmont
+gdc,11g9w.0,158191,162140,egmont,160394,160400,meiner,egmont
+gdc,11g9w.0,158191,162140,egmont,160621,160624,mir,egmont
+gdc,11g9w.0,158191,162140,egmont,160687,160691,mein,egmont
+gdc,11g9w.0,158191,162140,egmont,161029,161033,mich,egmont
+gdc,11g9w.0,158191,162140,egmont,161184,161187,ich,egmont
+gdc,11g9w.0,158191,162140,egmont,161248,161251,ich,egmont
+gdc,11g9w.0,158191,162140,egmont,161285,161288,ich,egmont
+gdc,11g9w.0,158191,162140,egmont,161314,161317,ich,egmont
+gdc,11g9w.0,158191,162140,egmont,161318,161322,mich,egmont
+gdc,11g9w.0,158191,162140,egmont,161502,161506,mich,egmont
+gdc,11g9w.0,158191,162140,egmont,161514,161517,Ich,egmont
+gdc,11g9w.0,158191,162140,egmont,161957,161960,ich,egmont

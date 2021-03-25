@@ -1,0 +1,2079 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc,sj6v.0,393,408,_stage,393,399,Bolzau,bolzau
+gdc,sj6v.0,393,408,_stage,401,407,Bertha,bertha
+gdc,sj6v.0,411,547,bolzau,461,470,Dein Mann,scheffler
+gdc,sj6v.0,411,547,bolzau,461,465,Dein,bertha
+gdc,sj6v.0,411,547,bolzau,518,523,Meine,bolzau
+gdc,sj6v.0,561,672,_stage,591,599,der Hand,Berthas-Hand
+gdc,sj6v.0,553,760,bertha,679,682,ich,bertha
+gdc,sj6v.0,553,760,bertha,692,694,Du,bolzau
+gdc,sj6v.0,553,760,bertha,717,720,uns,scheffler-und-bertha
+gdc,sj6v.0,553,760,bertha,730,742,lieber Onkel,bolzau
+gdc,sj6v.0,553,760,bertha,751,753,Du,bolzau
+gdc,sj6v.0,765,982,bolzau,786,795,mein Kind,bertha
+gdc,sj6v.0,765,982,bolzau,786,790,mein,bolzau
+gdc,sj6v.0,765,982,bolzau,798,809,Deine Tante,wilhelmine
+gdc,sj6v.0,765,982,bolzau,798,803,Deine,bertha
+gdc,sj6v.0,765,982,bolzau,819,823,mich,bolzau
+gdc,sj6v.0,765,982,bolzau,843,846,ich,bolzau
+gdc,sj6v.0,765,982,bolzau,877,879,Du,bertha
+gdc,sj6v.0,765,982,bolzau,896,899,man,man
+gdc,sj6v.0,765,982,bolzau,960,964,Euch,scheffler-und-bertha
+gdc,sj6v.0,987,1052,bertha,1005,1014,Onkelchen,bolzau
+gdc,sj6v.0,987,1052,bertha,1024,1026,Du,bolzau
+gdc,sj6v.0,987,1052,bertha,1027,1030,mir,bertha
+gdc,sj6v.0,1080,1118,bertha,1094,1117,einen neuen Flederwisch,einen-neuen-Flederwisch
+gdc,sj6v.0,1123,1459,bolzau,1132,1149,Einen Flederwisch,einen-neuen-Flederwisch
+gdc,sj6v.0,1123,1459,bolzau,1171,1180,mein Kind,bertha
+gdc,sj6v.0,1123,1459,bolzau,1171,1175,mein,bolzau
+gdc,sj6v.0,1123,1459,bolzau,1233,1236,mir,bolzau
+gdc,sj6v.0,1123,1459,bolzau,1263,1274,Deine Tante,wilhelmine
+gdc,sj6v.0,1123,1459,bolzau,1263,1268,Deine,bertha
+gdc,sj6v.0,1123,1459,bolzau,1288,1302,einen Landauer,einen-Landauer
+gdc,sj6v.0,1123,1459,bolzau,1331,1335,sich,einen-Landauer
+gdc,sj6v.0,1123,1459,bolzau,1336,1339,das,einen-Landauer
+gdc,sj6v.0,1123,1459,bolzau,1376,1378,Du,bertha
+gdc,sj6v.0,1123,1459,bolzau,1391,1409,Deinen Flederwisch,einen-neuen-Flederwisch
+gdc,sj6v.0,1123,1459,bolzau,1391,1397,Deinen,bertha
+gdc,sj6v.0,1123,1459,bolzau,1429,1438,mein Kind,bertha
+gdc,sj6v.0,1123,1459,bolzau,1429,1433,mein,bolzau
+gdc,sj6v.0,1123,1459,bolzau,1449,1458,die Mitte,die-Mitte
+gdc,sj6v.0,1506,2265,bertha,1531,1534,ich,bertha
+gdc,sj6v.0,1506,2265,bertha,1558,1574,den Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,1506,2265,bertha,1607,1623,den Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,1506,2265,bertha,1777,1780,Ich,bertha
+gdc,sj6v.0,1506,2265,bertha,1810,1820,die Männer,die-Männer
+gdc,sj6v.0,1506,2265,bertha,1833,1836,wir,die-Frauen
+gdc,sj6v.0,1506,2265,bertha,1894,1897,sie,die-Männer
+gdc,sj6v.0,1506,2265,bertha,1941,1944,ich,bertha
+gdc,sj6v.0,1506,2265,bertha,1988,1991,ich,bertha
+gdc,sj6v.0,1506,2265,bertha,1992,2005,dies Kistchen,dies-Kistchen
+gdc,sj6v.0,1506,2265,bertha,2021,2024,mir,bertha
+gdc,sj6v.0,1506,2265,bertha,2041,2061,ein kleines Kistchen,dies-Kistchen
+gdc,sj6v.0,1506,2265,bertha,2065,2073,die Hand,Berthas-Hand
+gdc,sj6v.0,1506,2265,bertha,2075,2094,Häßliche Erinnerung,dies-Kistchen
+gdc,sj6v.0,1506,2265,bertha,2116,2127,unserer Ehe,unserer-Ehe
+gdc,sj6v.0,1506,2265,bertha,2116,2123,unserer,scheffler-und-bertha
+gdc,sj6v.0,1506,2265,bertha,2137,2141,Dich,dies-Kistchen
+gdc,sj6v.0,1506,2265,bertha,2146,2149,ich,bertha
+gdc,sj6v.0,1506,2265,bertha,2182,2184,es,dies-Kistchen
+gdc,sj6v.0,1506,2265,bertha,2193,2196,ich,bertha
+gdc,sj6v.0,1506,2265,bertha,2206,2210,Dich,dies-Kistchen
+gdc,sj6v.0,2311,2327,_stage,2311,2318,Schnake,schuake
+gdc,sj6v.0,2311,2327,_stage,2320,2326,Bertha,bertha
+gdc,sj6v.0,2339,2370,_stage,2346,2354,den Kopf,den-Kopf
+gdc,sj6v.0,2330,2450,schuake,2373,2388,Der Herr Doctor,scheffler
+gdc,sj6v.0,2330,2450,schuake,2436,2449,Frau Doctorin,bertha
+gdc,sj6v.0,2455,2544,bertha,2464,2473,Mein Mann,scheffler
+gdc,sj6v.0,2455,2544,bertha,2464,2468,Mein,bertha
+gdc,sj6v.0,2455,2544,bertha,2506,2509,Sie,schuake
+gdc,sj6v.0,2455,2544,bertha,2510,2515,etwas,etwas
+gdc,sj6v.0,2455,2544,bertha,2520,2523,ihn,scheffler
+gdc,sj6v.0,2558,2578,_stage,2558,2563,seine,schuake
+gdc,sj6v.0,2549,2784,schuake,2584,2587,ich,schuake
+gdc,sj6v.0,2549,2784,schuake,2588,2593,etwas,etwas
+gdc,sj6v.0,2549,2784,schuake,2598,2601,ihn,scheffler
+gdc,sj6v.0,2549,2784,schuake,2636,2639,Sie,bertha
+gdc,sj6v.0,2549,2784,schuake,2645,2656,Frau Doctor,bertha
+gdc,sj6v.0,2549,2784,schuake,2772,2783,unserm Fest,unserm-Fest
+gdc,sj6v.0,2549,2784,schuake,2772,2778,unserm,Sängerbund
+gdc,sj6v.0,2790,2837,bertha,2799,2803,Fest,unserm-Fest
+gdc,sj6v.0,2790,2837,bertha,2810,2822,welchem Fest,unserm-Fest
+gdc,sj6v.0,2790,2837,bertha,2824,2836,Herr Schnake,schuake
+gdc,sj6v.0,2843,2933,schuake,2858,2869,Frau Doctor,bertha
+gdc,sj6v.0,2843,2933,schuake,2879,2882,Sie,bertha
+gdc,sj6v.0,2843,2933,schuake,2912,2932,unserm Stiftungsfest,unserm-Fest
+gdc,sj6v.0,2843,2933,schuake,2912,2918,unserm,Sängerbund
+gdc,sj6v.0,2938,2969,bertha,2947,2968,Welches Stiftungsfest,unserm-Fest
+gdc,sj6v.0,2974,3031,schuake,2984,3030,Das Stiftungsfest des allgemeinen Sängerbundes,unserm-Fest
+gdc,sj6v.0,2974,3031,schuake,3002,3030,des allgemeinen Sängerbundes,Sängerbund
+gdc,sj6v.0,3100,3232,schuake,3135,3138,Sie,bertha
+gdc,sj6v.0,3100,3232,schuake,3155,3166,Frau Doctor,bertha
+gdc,sj6v.0,3100,3232,schuake,3200,3217,ein Stiftungsfest,unserm-Fest
+gdc,sj6v.0,3237,3300,bertha,3257,3260,Ich,bertha
+gdc,sj6v.0,3237,3300,bertha,3274,3298,Ihr ganzes Stiftungsfest,unserm-Fest
+gdc,sj6v.0,3237,3300,bertha,3274,3277,Ihr,Sängerbund
+gdc,sj6v.0,3305,3352,schuake,3328,3341,Hochdieselben,bertha
+gdc,sj6v.0,3357,3423,bertha,3384,3387,ich,bertha
+gdc,sj6v.0,3357,3423,bertha,3407,3422,der Sängerfeste,der-Sängerfeste
+gdc,sj6v.0,3428,3718,schuake,3438,3449,Frau Doctor,bertha
+gdc,sj6v.0,3428,3718,schuake,3487,3490,Sie,bertha
+gdc,sj6v.0,3428,3718,schuake,3517,3547,den verschiedenen Sängerfesten,der-Sängerfeste
+gdc,sj6v.0,3428,3718,schuake,3624,3635,Sängerfeste,der-Sängerfeste
+gdc,sj6v.0,3428,3718,schuake,3674,3693,unser Stiftungsfest,unserm-Fest
+gdc,sj6v.0,3428,3718,schuake,3674,3679,unser,Sängerbund
+gdc,sj6v.0,3428,3718,schuake,3696,3699,das,ALLE.
+gdc,sj6v.0,3723,3837,bertha,3732,3734,Es,unserm-Fest
+gdc,sj6v.0,3723,3837,bertha,3767,3778,die übrigen,der-Sängerfeste
+gdc,sj6v.0,3723,3837,bertha,3780,3783,Ich,bertha
+gdc,sj6v.0,3723,3837,bertha,3804,3836,wozu ein solches Fest nöthig ist,wozu-ein-solches-Fest-nöthig-ist
+gdc,sj6v.0,3723,3837,bertha,3809,3825,ein solches Fest,der-Sängerfeste
+gdc,sj6v.0,3842,4465,schuake,3857,3868,Frau Doctor,bertha
+gdc,sj6v.0,3842,4465,schuake,3878,3881,Sie,bertha
+gdc,sj6v.0,3842,4465,schuake,3882,3886,sich,bertha
+gdc,sj6v.0,3842,4465,schuake,3887,3890,das,wozu-ein-solches-Fest-nöthig-ist
+gdc,sj6v.0,3842,4465,schuake,3911,3923,unsrer Stadt,unsrer-Stadt
+gdc,sj6v.0,3842,4465,schuake,3939,3971,verschiedene Männergesangvereine,verschiedene-Männergesangvereine
+gdc,sj6v.0,3842,4465,schuake,3997,4011,die Polihymnia,ein-Mitglied-der-Polihymnia
+gdc,sj6v.0,3842,4465,schuake,4014,4025,die Euterpe,die-Euterpe
+gdc,sj6v.0,3842,4465,schuake,4027,4032,Jeder,Jeder
+gdc,sj6v.0,3842,4465,schuake,4039,4043,sich,Jeder
+gdc,sj6v.0,3842,4465,schuake,4149,4154,ihnen,verschiedene-Männergesangvereine
+gdc,sj6v.0,3842,4465,schuake,4165,4180,der Herr Doctor,scheffler
+gdc,sj6v.0,3842,4465,schuake,4202,4213,die Vereine,verschiedene-Männergesangvereine
+gdc,sj6v.0,3842,4465,schuake,4217,4222,einem,Sängerbund
+gdc,sj6v.0,3842,4465,schuake,4258,4270,vorigen Jahr,vorigen-Jahr
+gdc,sj6v.0,3842,4465,schuake,4271,4296,der allgemeine Sängerbund,Sängerbund
+gdc,sj6v.0,3842,4465,schuake,4305,4314,dies Jahr,dies-Jahr
+gdc,sj6v.0,3842,4465,schuake,4315,4328,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,3842,4465,schuake,4348,4364,großes Festessen,großes-Festessen
+gdc,sj6v.0,3842,4465,schuake,4366,4375,Unsereins,Unsereins
+gdc,sj6v.0,3842,4465,schuake,4382,4386,sich,Unsereins
+gdc,sj6v.0,3842,4465,schuake,4413,4428,der Herr Doctor,scheffler
+gdc,sj6v.0,4470,4575,bertha,4479,4488,Mein Mann,scheffler
+gdc,sj6v.0,4470,4575,bertha,4479,4483,Mein,bertha
+gdc,sj6v.0,4470,4575,bertha,4537,4546,mein Mann,scheffler
+gdc,sj6v.0,4470,4575,bertha,4537,4541,mein,bertha
+gdc,sj6v.0,4470,4575,bertha,4551,4564,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,4581,4731,schuake,4596,4607,Frau Doctor,bertha
+gdc,sj6v.0,4581,4731,schuake,4640,4643,ich,schuake
+gdc,sj6v.0,4581,4731,schuake,4653,4656,der,scheffler
+gdc,sj6v.0,4581,4731,schuake,4682,4685,den,scheffler
+gdc,sj6v.0,4581,4731,schuake,4692,4694,es,unserm-Fest
+gdc,sj6v.0,4581,4731,schuake,4707,4710,der,scheffler
+gdc,sj6v.0,4767,4901,schuake,4791,4793,er,scheffler
+gdc,sj6v.0,4767,4901,schuake,4794,4816,die ganze Gesellschaft,Sängerbund
+gdc,sj6v.0,4767,4901,schuake,4833,4835,es,scheffler
+gdc,sj6v.0,4767,4901,schuake,4885,4900,der Herr Doctor,scheffler
+gdc,sj6v.0,4906,4972,bertha,4963,4971,dem Fest,unserm-Fest
+gdc,sj6v.0,4977,5222,schuake,5009,5012,Sie,bertha
+gdc,sj6v.0,4977,5222,schuake,5028,5039,Frau Doctor,bertha
+gdc,sj6v.0,4977,5222,schuake,5068,5077,die Gäste,die-Gäste
+gdc,sj6v.0,4977,5222,schuake,5199,5221,einem großen Frühstück,einem-großen-Frühstück
+gdc,sj6v.0,5305,5475,schuake,5325,5336,Frau Doctor,bertha
+gdc,sj6v.0,5305,5475,schuake,5339,5346,manchem,manchem
+gdc,sj6v.0,5305,5475,schuake,5400,5403,ihm,manchem
+gdc,sj6v.0,5305,5475,schuake,5447,5450,Sie,bertha
+gdc,sj6v.0,5488,5511,_stage,5506,5510,sich,bertha
+gdc,sj6v.0,5480,5545,bertha,5522,5525,ich,bertha
+gdc,sj6v.0,5684,5852,schuake,5754,5768,die Hauptsache,großes-Festessen
+gdc,sj6v.0,5684,5852,schuake,5793,5821,gemeinschaftliches Festessen,großes-Festessen
+gdc,sj6v.0,5894,6207,schuake,5913,5925,Frau Doctorn,bertha
+gdc,sj6v.0,5894,6207,schuake,5939,5942,sie,die-Gäste
+gdc,sj6v.0,5894,6207,schuake,6034,6045,Frau Doctor,bertha
+gdc,sj6v.0,5894,6207,schuake,6052,6055,sie,die-Gäste
+gdc,sj6v.0,5894,6207,schuake,6083,6110,die vielen langen Gesichter,die-Gäste
+gdc,sj6v.0,5894,6207,schuake,6145,6148,sie,die-Gäste
+gdc,sj6v.0,5894,6207,schuake,6174,6177,sie,die-Gäste
+gdc,sj6v.0,5894,6207,schuake,6178,6196,das Katerfrühstück,einem-großen-Frühstück
+gdc,sj6v.0,6213,6264,bertha,6234,6248,Katerfrühstück,einem-großen-Frühstück
+gdc,sj6v.0,6269,6472,schuake,6353,6373,die ganze Geschichte,die-ganze-Geschichte
+gdc,sj6v.0,6269,6472,schuake,6375,6390,Der Herr Doctor,scheffler
+gdc,sj6v.0,6269,6472,schuake,6395,6400,Ihnen,bertha
+gdc,sj6v.0,6269,6472,schuake,6447,6450,ich,schuake
+gdc,sj6v.0,6477,6595,bertha,6486,6489,Man,man
+gdc,sj6v.0,6477,6595,bertha,6498,6503,etwas,die-ganze-Geschichte
+gdc,sj6v.0,6477,6595,bertha,6536,6539,ich,bertha
+gdc,sj6v.0,6477,6595,bertha,6546,6551,Ihnen,schuake
+gdc,sj6v.0,6477,6595,bertha,6556,6578,Ihre treue Schilderung,die-ganze-Geschichte
+gdc,sj6v.0,6477,6595,bertha,6556,6560,Ihre,schuake
+gdc,sj6v.0,6477,6595,bertha,6580,6594,lieber Schnake,schuake
+gdc,sj6v.0,6600,6803,schuake,6639,6642,ich,schuake
+gdc,sj6v.0,6600,6803,schuake,6656,6659,ich,schuake
+gdc,sj6v.0,6600,6803,schuake,6715,6727,der Festrede,der-Festrede
+gdc,sj6v.0,6600,6803,schuake,6735,6737,es,der-Festrede
+gdc,sj6v.0,6600,6803,schuake,6738,6753,der Herr Doctor,scheffler
+gdc,sj6v.0,6600,6803,schuake,6779,6782,Sie,bertha
+gdc,sj6v.0,6808,6852,bertha,6817,6826,Mein Mann,scheffler
+gdc,sj6v.0,6808,6852,bertha,6817,6821,Mein,bertha
+gdc,sj6v.0,6808,6852,bertha,6832,6844,die Festrede,der-Festrede
+gdc,sj6v.0,6857,7182,schuake,6888,6890,er,scheffler
+gdc,sj6v.0,6857,7182,schuake,6895,6907,voriges Jahr,vorigen-Jahr
+gdc,sj6v.0,6857,7182,schuake,6948,6965,Herr Krempelmeier,Herr-Krempelmeier
+gdc,sj6v.0,6857,7182,schuake,6966,6975,die Reden,der-Festrede
+gdc,sj6v.0,6857,7182,schuake,6978,6981,der,Herr-Krempelmeier
+gdc,sj6v.0,6857,7182,schuake,7006,7009,Sie,bertha
+gdc,sj6v.0,6857,7182,schuake,7012,7014,er,Herr-Krempelmeier
+gdc,sj6v.0,6857,7182,schuake,7036,7075,"der Johannisberger, der aus ihm spräche","der-Johannisberger,-der-aus-ihm-spräche"
+gdc,sj6v.0,6857,7182,schuake,7056,7059,der,"der-Johannisberger,-der-aus-ihm-spräche"
+gdc,sj6v.0,6857,7182,schuake,7064,7067,ihm,scheffler
+gdc,sj6v.0,6857,7182,schuake,7078,7090,blasser Neid,blasser-Neid
+gdc,sj6v.0,6857,7182,schuake,7097,7109,blasser Neid,blasser-Neid
+gdc,sj6v.0,6857,7182,schuake,7111,7114,wir,Sängerbund
+gdc,sj6v.0,6857,7182,schuake,7128,7180,ein paar Gläser hatte der Herr Doctor zwar getrunken,ein-paar-Gläser-hatte-der-Herr-Doctor-zwar-getrunken
+gdc,sj6v.0,6857,7182,schuake,7150,7165,der Herr Doctor,scheffler
+gdc,sj6v.0,7187,7224,bertha,7208,7211,Das,ein-paar-Gläser-hatte-der-Herr-Doctor-zwar-getrunken
+gdc,sj6v.0,7187,7224,bertha,7219,7222,ich,bertha
+gdc,sj6v.0,7229,7413,schuake,7244,7246,er,scheffler
+gdc,sj6v.0,7229,7413,schuake,7286,7290,Kopf,den-Kopf
+gdc,sj6v.0,7229,7413,schuake,7320,7335,die Frau Doctor,bertha
+gdc,sj6v.0,7229,7413,schuake,7354,7357,ich,schuake
+gdc,sj6v.0,7229,7413,schuake,7364,7368,mich,schuake
+gdc,sj6v.0,7229,7413,schuake,7403,7412,die Mitte,die-Mitte
+gdc,sj6v.0,7460,8202,bertha,7474,7477,das,unserm-Fest
+gdc,sj6v.0,7460,8202,bertha,7484,7487,man,man
+gdc,sj6v.0,7460,8202,bertha,7508,7511,ich,bertha
+gdc,sj6v.0,7460,8202,bertha,7520,7523,mir,bertha
+gdc,sj6v.0,7460,8202,bertha,7538,7547,mein Mann,scheffler
+gdc,sj6v.0,7460,8202,bertha,7538,7542,mein,bertha
+gdc,sj6v.0,7460,8202,bertha,7605,7619,dieser Schnake,schuake
+gdc,sj6v.0,7460,8202,bertha,7623,7625,Es,unserm-Fest
+gdc,sj6v.0,7460,8202,bertha,7631,7634,ihm,scheffler
+gdc,sj6v.0,7460,8202,bertha,7638,7644,seiner,scheffler
+gdc,sj6v.0,7460,8202,bertha,7671,7676,meine,bertha
+gdc,sj6v.0,7460,8202,bertha,7686,7689,ihn,scheffler
+gdc,sj6v.0,7460,8202,bertha,7710,7713,ihn,scheffler
+gdc,sj6v.0,7460,8202,bertha,7732,7737,Meine,bertha
+gdc,sj6v.0,7460,8202,bertha,7798,7811,vorigen Jahre,vorigen-Jahr
+gdc,sj6v.0,7460,8202,bertha,7850,7862,das Kästchen,dies-Kistchen
+gdc,sj6v.0,7460,8202,bertha,7865,7867,es,dies-Kistchen
+gdc,sj6v.0,7460,8202,bertha,7876,7906,Schleifen – Bänder – Medaillen,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,7460,8202,bertha,7909,7912,die,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,7460,8202,bertha,7913,7915,er,scheffler
+gdc,sj6v.0,7460,8202,bertha,7949,7951,er,scheffler
+gdc,sj6v.0,7460,8202,bertha,7952,7954,es,dies-Kistchen
+gdc,sj6v.0,7460,8202,bertha,8006,8016,den Kasten,dies-Kistchen
+gdc,sj6v.0,7460,8202,bertha,8044,8050,meinem,bertha
+gdc,sj6v.0,7460,8202,bertha,8068,8071,ich,bertha
+gdc,sj6v.0,7460,8202,bertha,8090,8093,mir,bertha
+gdc,sj6v.0,7460,8202,bertha,8107,8120,dies Kästchen,dies-Kistchen
+gdc,sj6v.0,7460,8202,bertha,8125,8145,seinem ganzen Inhalt,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,7460,8202,bertha,8125,8131,seinem,dies-Kistchen
+gdc,sj6v.0,7460,8202,bertha,8148,8150,es,dies-Kistchen
+gdc,sj6v.0,8249,8272,_stage,8249,8258,Scheffler,scheffler
+gdc,sj6v.0,8249,8272,_stage,8265,8271,Bertha,bertha
+gdc,sj6v.0,8286,8323,_stage,8292,8301,die Mitte,die-Mitte
+gdc,sj6v.0,8275,8773,scheffler,8390,8393,Ich,scheffler
+gdc,sj6v.0,8275,8773,scheffler,8444,8455,meiner Rede,meiner-Rede
+gdc,sj6v.0,8275,8773,scheffler,8444,8450,meiner,scheffler
+gdc,sj6v.0,8275,8773,scheffler,8477,8481,sich,scheffler
+gdc,sj6v.0,8275,8773,scheffler,8485,8501,den Arbeitstisch,den-Schreibtisch
+gdc,sj6v.0,8275,8773,scheffler,8538,8541,man,man
+gdc,sj6v.0,8275,8773,scheffler,8575,8588,meiner Bertha,bertha
+gdc,sj6v.0,8275,8773,scheffler,8575,8581,meiner,scheffler
+gdc,sj6v.0,8275,8773,scheffler,8614,8619,Feder,Feder
+gdc,sj6v.0,8275,8773,scheffler,8644,8654,meine Rede,meiner-Rede
+gdc,sj6v.0,8275,8773,scheffler,8644,8649,meine,scheffler
+gdc,sj6v.0,8275,8773,scheffler,8668,8688,Geehrte Festgenossen,die-Gäste
+gdc,sj6v.0,8778,8825,bertha,8818,8823,Bruno,scheffler
+gdc,sj6v.0,8841,8881,_stage,8853,8858,Feder,Feder
+gdc,sj6v.0,8830,9008,scheffler,8884,8902,Meine liebe Bertha,bertha
+gdc,sj6v.0,8830,9008,scheffler,8884,8889,Meine,scheffler
+gdc,sj6v.0,8830,9008,scheffler,8907,8910,mir,scheffler
+gdc,sj6v.0,8830,9008,scheffler,8936,8939,ich,scheffler
+gdc,sj6v.0,8830,9008,scheffler,8964,8966,Du,bertha
+gdc,sj6v.0,8830,9008,scheffler,8980,9007,meine kleine Langschläferin,bertha
+gdc,sj6v.0,8830,9008,scheffler,8980,8985,meine,scheffler
+gdc,sj6v.0,9013,9054,bertha,9031,9033,Du,scheffler
+gdc,sj6v.0,9013,9054,bertha,9034,9038,mich,bertha
+gdc,sj6v.0,9059,9128,scheffler,9110,9113,ich,scheffler
+gdc,sj6v.0,9156,9223,scheffler,9184,9187,mir,scheffler
+gdc,sj6v.0,9156,9223,scheffler,9194,9196,Du,bertha
+gdc,sj6v.0,9228,9283,bertha,9237,9240,Ich,bertha
+gdc,sj6v.0,9228,9283,bertha,9248,9251,mir,bertha
+gdc,sj6v.0,9228,9283,bertha,9262,9271,die Augen,die-Augen
+gdc,sj6v.0,9228,9283,bertha,9277,9282,Bruno,scheffler
+gdc,sj6v.0,9289,9381,scheffler,9301,9320,Diese schönen Augen,die-Augen
+gdc,sj6v.0,9289,9381,scheffler,9329,9332,sie,die-Augen
+gdc,sj6v.0,9289,9381,scheffler,9377,9380,sie,bertha
+gdc,sj6v.0,9387,9491,bertha,9396,9412,Mein lieber Mann,scheffler
+gdc,sj6v.0,9387,9491,bertha,9396,9400,Mein,bertha
+gdc,sj6v.0,9387,9491,bertha,9428,9431,ich,bertha
+gdc,sj6v.0,9387,9491,bertha,9445,9454,die Feder,Feder
+gdc,sj6v.0,9387,9491,bertha,9458,9464,Deiner,scheffler
+gdc,sj6v.0,9387,9491,bertha,9472,9490,die garstige Feder,Feder
+gdc,sj6v.0,9496,9712,scheffler,9536,9545,mein Kind,bertha
+gdc,sj6v.0,9496,9712,scheffler,9536,9540,mein,scheffler
+gdc,sj6v.0,9496,9712,scheffler,9556,9572,den Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,9496,9712,scheffler,9621,9623,Du,bertha
+gdc,sj6v.0,9496,9712,scheffler,9633,9636,mir,scheffler
+gdc,sj6v.0,9496,9712,scheffler,9669,9685,dem Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,9717,9798,bertha,9738,9740,Er,scheffler
+gdc,sj6v.0,9717,9798,bertha,9747,9759,das Kästchen,dies-Kistchen
+gdc,sj6v.0,9717,9798,bertha,9775,9778,ich,bertha
+gdc,sj6v.0,9717,9798,bertha,9779,9783,Dich,scheffler
+gdc,sj6v.0,9803,9856,scheffler,9815,9817,Du,bertha
+gdc,sj6v.0,9862,9922,bertha,9871,9874,Ich,bertha
+gdc,sj6v.0,9862,9922,bertha,9880,9884,Dich,scheffler
+gdc,sj6v.0,9928,9984,scheffler,9956,9959,Ich,scheffler
+gdc,sj6v.0,9928,9984,scheffler,9977,9983,Bertha,bertha
+gdc,sj6v.0,9989,10023,bertha,10010,10022,Lieber Bruno,scheffler
+gdc,sj6v.0,10028,10252,scheffler,10040,10043,Ich,scheffler
+gdc,sj6v.0,10028,10252,scheffler,10055,10083,ein kleines braunes Kästchen,dies-Kistchen
+gdc,sj6v.0,10028,10252,scheffler,10085,10087,es,dies-Kistchen
+gdc,sj6v.0,10028,10252,scheffler,10097,10128,Andenken aus meiner Studienzeit,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,10028,10252,scheffler,10110,10116,meiner,scheffler
+gdc,sj6v.0,10028,10252,scheffler,10131,10188,einige Bänder und Schleifen vom vorjährigen Stiftungsfest,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,10028,10252,scheffler,10163,10188,vorjährigen Stiftungsfest,vorjährigen-Stiftungsfest
+gdc,sj6v.0,10028,10252,scheffler,10202,10204,es,dies-Kistchen
+gdc,sj6v.0,10028,10252,scheffler,10239,10243,sich,scheffler
+gdc,sj6v.0,10258,10314,bertha,10279,10282,Wir,scheffler-und-bertha
+gdc,sj6v.0,10319,10362,scheffler,10337,10339,Du,bertha
+gdc,sj6v.0,10319,10362,scheffler,10355,10357,es,dies-Kistchen
+gdc,sj6v.0,10367,10403,bertha,10391,10394,ich,bertha
+gdc,sj6v.0,10449,10491,bertha,10472,10475,ich,bertha
+gdc,sj6v.0,10449,10491,bertha,10484,10486,es,dies-Kistchen
+gdc,sj6v.0,10496,10529,scheffler,10522,10524,es,dies-Kistchen
+gdc,sj6v.0,10534,10652,bertha,10551,10553,es,dies-Kistchen
+gdc,sj6v.0,10534,10652,bertha,10565,10568,ich,bertha
+gdc,sj6v.0,10534,10652,bertha,10573,10576,ich,bertha
+gdc,sj6v.0,10534,10652,bertha,10582,10599,den ganzen Kasten,dies-Kistchen
+gdc,sj6v.0,10668,10694,_stage,10674,10678,sich,scheffler
+gdc,sj6v.0,10657,10717,scheffler,10714,10716,Du,bertha
+gdc,sj6v.0,10746,10830,scheffler,10783,10795,liebe Bertha,bertha
+gdc,sj6v.0,10896,11087,scheffler,10929,11046,"all' meine alten Erinnerungszeichen, die mich so manchen wackern Mannes – die mich so schöner Stunden gedenken ließen",Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,10896,11087,scheffler,10934,10939,meine,scheffler
+gdc,sj6v.0,10896,11087,scheffler,10966,10969,die,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,10896,11087,scheffler,10970,10974,mich,scheffler
+gdc,sj6v.0,10896,11087,scheffler,11003,11006,die,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,10896,11087,scheffler,11007,11011,mich,scheffler
+gdc,sj6v.0,10896,11087,scheffler,11053,11056,ich,scheffler
+gdc,sj6v.0,10896,11087,scheffler,11080,11086,Bertha,bertha
+gdc,sj6v.0,11092,11133,bertha,11106,11108,Du,scheffler
+gdc,sj6v.0,11092,11133,bertha,11109,11112,sie,Schleifen-–-Bänder-–-Medaillen
+gdc,sj6v.0,11138,11190,scheffler,11176,11189,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,11195,11234,bertha,11218,11220,Du,scheffler
+gdc,sj6v.0,11239,11270,scheffler,11261,11263,Du,bertha
+gdc,sj6v.0,11275,11336,bertha,11294,11297,ich,bertha
+gdc,sj6v.0,11275,11336,bertha,11304,11308,Dich,scheffler
+gdc,sj6v.0,11341,11569,scheffler,11369,11371,Du,bertha
+gdc,sj6v.0,11341,11569,scheffler,11372,11385,meinen Kasten,dies-Kistchen
+gdc,sj6v.0,11341,11569,scheffler,11372,11378,meinen,scheffler
+gdc,sj6v.0,11341,11569,scheffler,11463,11466,ich,scheffler
+gdc,sj6v.0,11341,11569,scheffler,11473,11476,ich,scheffler
+gdc,sj6v.0,11341,11569,scheffler,11504,11521,das Stiftungsfest,unserm-Fest
+gdc,sj6v.0,11341,11569,scheffler,11533,11536,wir,scheffler-und-bertha
+gdc,sj6v.0,11574,11610,bertha,11583,11588,Bruno,scheffler
+gdc,sj6v.0,11574,11610,bertha,11601,11603,Du,scheffler
+gdc,sj6v.0,11615,11677,scheffler,11640,11643,ich,scheffler
+gdc,sj6v.0,11615,11677,scheffler,11650,11667,das Stiftungsfest,unserm-Fest
+gdc,sj6v.0,11732,11790,scheffler,11762,11764,Du,bertha
+gdc,sj6v.0,11732,11790,scheffler,11765,11769,mich,scheffler
+gdc,sj6v.0,11795,12090,bertha,11828,11831,ich,bertha
+gdc,sj6v.0,11795,12090,bertha,11848,11852,Dich,scheffler
+gdc,sj6v.0,11795,12090,bertha,11889,11892,ich,bertha
+gdc,sj6v.0,11795,12090,bertha,11911,11917,meiner,bertha
+gdc,sj6v.0,11795,12090,bertha,11935,11938,wir,scheffler-und-bertha
+gdc,sj6v.0,11795,12090,bertha,11971,11975,Dich,scheffler
+gdc,sj6v.0,11795,12090,bertha,12002,12006,sich,bertha
+gdc,sj6v.0,11795,12090,bertha,12027,12031,Dich,scheffler
+gdc,sj6v.0,11795,12090,bertha,12052,12055,mir,bertha
+gdc,sj6v.0,11795,12090,bertha,12061,12070,den Stuhl,den-Stuhl
+gdc,sj6v.0,11795,12090,bertha,12077,12081,sich,bertha
+gdc,sj6v.0,12107,12171,_stage,12116,12135,seinen Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,12107,12171,_stage,12116,12122,seinen,scheffler
+gdc,sj6v.0,12107,12171,_stage,12149,12153,sich,scheffler
+gdc,sj6v.0,12107,12171,_stage,12167,12170,ihr,bertha
+gdc,sj6v.0,12096,12190,scheffler,12174,12177,Ich,scheffler
+gdc,sj6v.0,12195,12317,bertha,12204,12206,Du,scheffler
+gdc,sj6v.0,12195,12317,bertha,12217,12221,Dich,scheffler
+gdc,sj6v.0,12195,12317,bertha,12264,12282,Euer Stiftungsfest,unserm-Fest
+gdc,sj6v.0,12195,12317,bertha,12264,12268,Euer,Sängerbund
+gdc,sj6v.0,12195,12317,bertha,12288,12290,Du,scheffler
+gdc,sj6v.0,12195,12317,bertha,12291,12293,es,unserm-Fest
+gdc,sj6v.0,12322,12414,scheffler,12372,12376,sich,scheffler
+gdc,sj6v.0,12322,12414,scheffler,12393,12396,wir,scheffler-und-bertha
+gdc,sj6v.0,12520,12562,_stage,12526,12535,den Stuhl,den-Stuhl
+gdc,sj6v.0,12520,12562,_stage,12555,12561,Bertha,bertha
+gdc,sj6v.0,12568,12672,bertha,12603,12605,Du,scheffler
+gdc,sj6v.0,12568,12672,bertha,12606,12609,mir,bertha
+gdc,sj6v.0,12568,12672,bertha,12639,12641,Du,scheffler
+gdc,sj6v.0,12677,12731,scheffler,12717,12720,ich,scheffler
+gdc,sj6v.0,12736,12897,bertha,12745,12748,Wir,scheffler-und-bertha
+gdc,sj6v.0,12736,12897,bertha,12775,12778,ich,bertha
+gdc,sj6v.0,12736,12897,bertha,12820,12822,Du,scheffler
+gdc,sj6v.0,12736,12897,bertha,12831,12834,mir,bertha
+gdc,sj6v.0,12736,12897,bertha,12837,12839,Du,scheffler
+gdc,sj6v.0,12736,12897,bertha,12878,12881,Ich,bertha
+gdc,sj6v.0,12902,12972,scheffler,12914,12916,Du,bertha
+gdc,sj6v.0,12902,12972,scheffler,12952,12956,Dich,bertha
+gdc,sj6v.0,12977,13343,bertha,12991,12994,man,man
+gdc,sj6v.0,12977,13343,bertha,13005,13008,man,man
+gdc,sj6v.0,12977,13343,bertha,13009,13015,seinen,man
+gdc,sj6v.0,12977,13343,bertha,13081,13084,ich,bertha
+gdc,sj6v.0,12977,13343,bertha,13102,13104,Du,scheffler
+gdc,sj6v.0,12977,13343,bertha,13156,13159,mir,bertha
+gdc,sj6v.0,12977,13343,bertha,13177,13180,Dir,scheffler
+gdc,sj6v.0,12977,13343,bertha,13202,13204,Du,scheffler
+gdc,sj6v.0,12977,13343,bertha,13275,13278,ich,bertha
+gdc,sj6v.0,12977,13343,bertha,13279,13283,Dich,scheffler
+gdc,sj6v.0,13415,14133,bertha,13424,13436,Meine Furcht,Meine-Furcht
+gdc,sj6v.0,13415,14133,bertha,13424,13429,Meine,bertha
+gdc,sj6v.0,13415,14133,bertha,13472,13483,meine Angst,Meine-Furcht
+gdc,sj6v.0,13415,14133,bertha,13472,13477,meine,bertha
+gdc,sj6v.0,13415,14133,bertha,13503,13506,ich,bertha
+gdc,sj6v.0,13415,14133,bertha,13530,13534,Dich,scheffler
+gdc,sj6v.0,13415,14133,bertha,13557,13560,ich,bertha
+gdc,sj6v.0,13415,14133,bertha,13579,13582,ich,bertha
+gdc,sj6v.0,13415,14133,bertha,13623,13639,ein Trupp Männer,ein-Trupp-Männer
+gdc,sj6v.0,13415,14133,bertha,13686,13691,ihnen,ein-Trupp-Männer
+gdc,sj6v.0,13415,14133,bertha,13692,13701,mein Mann,scheffler
+gdc,sj6v.0,13415,14133,bertha,13692,13696,mein,bertha
+gdc,sj6v.0,13415,14133,bertha,13704,13706,er,scheffler
+gdc,sj6v.0,13415,14133,bertha,13716,13728,die Hausthür,die-Hausthür
+gdc,sj6v.0,13415,14133,bertha,13747,13761,seine Genossen,ein-Trupp-Männer
+gdc,sj6v.0,13415,14133,bertha,13747,13752,seine,scheffler
+gdc,sj6v.0,13415,14133,bertha,13762,13765,ihm,scheffler
+gdc,sj6v.0,13415,14133,bertha,13783,13785,er,scheffler
+gdc,sj6v.0,13415,14133,bertha,13792,13796,mich,bertha
+gdc,sj6v.0,13415,14133,bertha,13802,13804,er,scheffler
+gdc,sj6v.0,13415,14133,bertha,13811,13822,meine Angst,Meine-Furcht
+gdc,sj6v.0,13415,14133,bertha,13811,13816,meine,bertha
+gdc,sj6v.0,13415,14133,bertha,13825,13827,er,scheffler
+gdc,sj6v.0,13415,14133,bertha,13844,13849,meine,bertha
+gdc,sj6v.0,13415,14133,bertha,13875,13886,sein Lachen,sein-Lachen
+gdc,sj6v.0,13415,14133,bertha,13875,13879,sein,scheffler
+gdc,sj6v.0,13415,14133,bertha,13901,13906,meine,bertha
+gdc,sj6v.0,13415,14133,bertha,13921,13923,er,scheffler
+gdc,sj6v.0,13415,14133,bertha,13927,13930,Ich,bertha
+gdc,sj6v.0,13415,14133,bertha,13955,13960,meine,bertha
+gdc,sj6v.0,13415,14133,bertha,14032,14035,ich,bertha
+gdc,sj6v.0,13415,14133,bertha,14036,14047,meinen Mann,scheffler
+gdc,sj6v.0,13415,14133,bertha,14036,14042,meinen,bertha
+gdc,sj6v.0,14139,14312,scheffler,14172,14175,ich,scheffler
+gdc,sj6v.0,14139,14312,scheffler,14185,14189,mich,scheffler
+gdc,sj6v.0,14139,14312,scheffler,14192,14195,ich,scheffler
+gdc,sj6v.0,14139,14312,scheffler,14231,14234,ich,scheffler
+gdc,sj6v.0,14139,14312,scheffler,14251,14260,Dein Wohl,die-Gesundheit-Deiner-Frau
+gdc,sj6v.0,14139,14312,scheffler,14251,14255,Dein,bertha
+gdc,sj6v.0,14139,14312,scheffler,14278,14290,liebe Bertha,bertha
+gdc,sj6v.0,14318,14687,bertha,14384,14389,meine,bertha
+gdc,sj6v.0,14318,14687,bertha,14430,14433,ich,bertha
+gdc,sj6v.0,14318,14687,bertha,14475,14478,ich,bertha
+gdc,sj6v.0,14318,14687,bertha,14479,14482,mir,bertha
+gdc,sj6v.0,14318,14687,bertha,14506,14530,dies entsetzliche Lachen,sein-Lachen
+gdc,sj6v.0,14318,14687,bertha,14536,14539,ich,bertha
+gdc,sj6v.0,14318,14687,bertha,14573,14576,ich,bertha
+gdc,sj6v.0,14318,14687,bertha,14594,14597,ich,bertha
+gdc,sj6v.0,14318,14687,bertha,14603,14605,Du,scheffler
+gdc,sj6v.0,14318,14687,bertha,14624,14641,das Stiftungsfest,unserm-Fest
+gdc,sj6v.0,14318,14687,bertha,14667,14686,Du bleibst zu Hause,Du-bleibst-zu-Hause
+gdc,sj6v.0,14318,14687,bertha,14667,14669,Du,scheffler
+gdc,sj6v.0,14692,14730,scheffler,14704,14707,Das,Du-bleibst-zu-Hause
+gdc,sj6v.0,14692,14730,scheffler,14713,14716,ich,scheffler
+gdc,sj6v.0,14735,14760,bertha,14744,14746,Du,scheffler
+gdc,sj6v.0,14765,14811,scheffler,14791,14803,die Festrede,der-Festrede
+gdc,sj6v.0,14816,14897,bertha,14837,14841,mich,bertha
+gdc,sj6v.0,14816,14897,bertha,14842,14854,die Festrede,der-Festrede
+gdc,sj6v.0,14816,14897,bertha,14857,14859,Du,scheffler
+gdc,sj6v.0,14816,14897,bertha,14870,14896,Pflichten gegen Deine Frau,Pflichten-gegen-Deine-Frau
+gdc,sj6v.0,14816,14897,bertha,14886,14896,Deine Frau,bertha
+gdc,sj6v.0,14816,14897,bertha,14886,14891,Deine,scheffler
+gdc,sj6v.0,14902,15150,scheffler,14929,14931,Du,bertha
+gdc,sj6v.0,14902,15150,scheffler,14942,14946,mich,scheffler
+gdc,sj6v.0,14902,15150,scheffler,14950,14965,meine Pflichten,Pflichten-gegen-Deine-Frau
+gdc,sj6v.0,14902,15150,scheffler,14950,14955,meine,scheffler
+gdc,sj6v.0,14902,15150,scheffler,14971,14977,Bertha,bertha
+gdc,sj6v.0,14902,15150,scheffler,14979,14982,ich,scheffler
+gdc,sj6v.0,14902,15150,scheffler,14988,14997,Pflichten,Pflichten-gegen-Deine-Frau
+gdc,sj6v.0,14902,15150,scheffler,15004,15008,Dich,bertha
+gdc,sj6v.0,14902,15150,scheffler,15016,15020,mich,scheffler
+gdc,sj6v.0,14902,15150,scheffler,15029,15034,unser,scheffler-und-bertha
+gdc,sj6v.0,14902,15150,scheffler,15067,15070,ich,scheffler
+gdc,sj6v.0,14902,15150,scheffler,15096,15099,Ich,scheffler
+gdc,sj6v.0,14902,15150,scheffler,15122,15149,ich werde das Fest besuchen,ich-werde-das-Fest-besuchen
+gdc,sj6v.0,14902,15150,scheffler,15122,15125,ich,scheffler
+gdc,sj6v.0,14902,15150,scheffler,15132,15140,das Fest,unserm-Fest
+gdc,sj6v.0,15155,15201,bertha,15175,15178,ich,bertha
+gdc,sj6v.0,15155,15201,bertha,15185,15187,es,ich-werde-das-Fest-besuchen
+gdc,sj6v.0,15206,15243,scheffler,15223,15229,Bertha,bertha
+gdc,sj6v.0,15206,15243,scheffler,15231,15242,welcher Ton,welcher-Ton
+gdc,sj6v.0,15248,15297,bertha,15257,15277,Der Ton meiner Liebe,welcher-Ton
+gdc,sj6v.0,15248,15297,bertha,15265,15277,meiner Liebe,meine-Liebe
+gdc,sj6v.0,15248,15297,bertha,15265,15271,meiner,bertha
+gdc,sj6v.0,15248,15297,bertha,15280,15296,meiner Besorgniß,meiner-Besorgniß
+gdc,sj6v.0,15248,15297,bertha,15280,15286,meiner,bertha
+gdc,sj6v.0,15302,15372,scheffler,15314,15317,Mir,scheffler
+gdc,sj6v.0,15302,15372,scheffler,15324,15331,der Ton,welcher-Ton
+gdc,sj6v.0,15302,15372,scheffler,15359,15371,Rechthaberei,Rechthaberei
+gdc,sj6v.0,15377,15551,bertha,15386,15398,Rechthaberei,Rechthaberei
+gdc,sj6v.0,15377,15551,bertha,15423,15425,Du,scheffler
+gdc,sj6v.0,15377,15551,bertha,15428,15430,Du,scheffler
+gdc,sj6v.0,15377,15551,bertha,15450,15452,Du,scheffler
+gdc,sj6v.0,15377,15551,bertha,15475,15479,mich,bertha
+gdc,sj6v.0,15377,15551,bertha,15517,15519,Du,scheffler
+gdc,sj6v.0,15556,15584,scheffler,15568,15570,Du,bertha
+gdc,sj6v.0,15556,15584,scheffler,15579,15583,mich,scheffler
+gdc,sj6v.0,15589,15630,bertha,15604,15615,meine Liebe,meine-Liebe
+gdc,sj6v.0,15589,15630,bertha,15604,15609,meine,bertha
+gdc,sj6v.0,15589,15630,bertha,15620,15629,Besorgniß,meiner-Besorgniß
+gdc,sj6v.0,15635,15745,scheffler,15647,15660,Die Besorgniß,meiner-Besorgniß
+gdc,sj6v.0,15635,15745,scheffler,15675,15678,ich,scheffler
+gdc,sj6v.0,15635,15745,scheffler,15688,15692,Kind,Kind
+gdc,sj6v.0,15635,15745,scheffler,15699,15702,das,Kind
+gdc,sj6v.0,15635,15745,scheffler,15703,15706,man,man
+gdc,sj6v.0,15750,16003,bertha,15764,15768,mich,bertha
+gdc,sj6v.0,15750,16003,bertha,15778,15780,Du,scheffler
+gdc,sj6v.0,15750,16003,bertha,15785,15812,"ein Kind, das nur gehorchen","ein-Kind,-das-nur-gehorchen"
+gdc,sj6v.0,15750,16003,bertha,15795,15798,das,"ein-Kind,-das-nur-gehorchen"
+gdc,sj6v.0,15750,16003,bertha,15815,15818,das,"ein-Kind,-das-nur-gehorchen"
+gdc,sj6v.0,15750,16003,bertha,15852,15855,Ich,bertha
+gdc,sj6v.0,15750,16003,bertha,15860,15865,Deine,scheffler
+gdc,sj6v.0,15750,16003,bertha,15878,15883,Deine,scheffler
+gdc,sj6v.0,15750,16003,bertha,15907,15910,ich,bertha
+gdc,sj6v.0,15750,16003,bertha,15926,15929,ich,bertha
+gdc,sj6v.0,15750,16003,bertha,15935,15939,mein,bertha
+gdc,sj6v.0,15750,16003,bertha,15961,15963,Du,scheffler
+gdc,sj6v.0,15750,16003,bertha,15976,15993,das Stiftungsfest,unserm-Fest
+gdc,sj6v.0,16009,16063,scheffler,16021,16062,Aber ich kann nicht anders – ich muß gehn,Aber-ich-kann-nicht-anders-–-ich-muß-gehn
+gdc,sj6v.0,16009,16063,scheffler,16026,16029,ich,scheffler
+gdc,sj6v.0,16009,16063,scheffler,16050,16053,ich,scheffler
+gdc,sj6v.0,16068,16103,bertha,16081,16084,das,Aber-ich-kann-nicht-anders-–-ich-muß-gehn
+gdc,sj6v.0,16143,16178,bertha,16156,16159,das,Aber-ich-kann-nicht-anders-–-ich-muß-gehn
+gdc,sj6v.0,16225,16342,bertha,16245,16249,mein,bertha
+gdc,sj6v.0,16225,16342,bertha,16272,16275,ich,bertha
+gdc,sj6v.0,16225,16342,bertha,16323,16326,ich,bertha
+gdc,sj6v.0,16347,16384,scheffler,16370,16372,Du,bertha
+gdc,sj6v.0,16429,16636,bertha,16447,16450,Dir,scheffler
+gdc,sj6v.0,16429,16636,bertha,16481,16487,meiner,bertha
+gdc,sj6v.0,16429,16636,bertha,16518,16531,meinem Bruder,meinem-Bruder
+gdc,sj6v.0,16429,16636,bertha,16518,16524,meinem,bertha
+gdc,sj6v.0,16429,16636,bertha,16537,16546,Rosendorf,Rosendorf
+gdc,sj6v.0,16429,16636,bertha,16578,16581,ich,bertha
+gdc,sj6v.0,16429,16636,bertha,16582,16586,Dich,scheffler
+gdc,sj6v.0,16683,17195,scheffler,16695,16701,Bertha,bertha
+gdc,sj6v.0,16683,17195,scheffler,16704,16710,Bertha,bertha
+gdc,sj6v.0,16683,17195,scheffler,16713,16716,sie,bertha
+gdc,sj6v.0,16683,17195,scheffler,16737,16740,ich,scheffler
+gdc,sj6v.0,16683,17195,scheffler,16741,16744,sie,bertha
+gdc,sj6v.0,16683,17195,scheffler,16769,16772,ich,scheffler
+gdc,sj6v.0,16683,17195,scheffler,16833,16836,Sie,bertha
+gdc,sj6v.0,16683,17195,scheffler,16868,16871,ihr,bertha
+gdc,sj6v.0,16683,17195,scheffler,16903,16906,mir,scheffler
+gdc,sj6v.0,16683,17195,scheffler,16954,16957,ich,scheffler
+gdc,sj6v.0,16683,17195,scheffler,16958,16970,die Festrede,der-Festrede
+gdc,sj6v.0,16683,17195,scheffler,16990,16994,sich,scheffler
+gdc,sj6v.0,16683,17195,scheffler,16996,17016,Geehrte Festgenossen,die-Gäste
+gdc,sj6v.0,16683,17195,scheffler,17055,17083,wenn sie nun aber doch ginge,wenn-sie-nun-aber-doch-ginge
+gdc,sj6v.0,16683,17195,scheffler,17060,17063,sie,bertha
+gdc,sj6v.0,16683,17195,scheffler,17096,17099,das,wenn-sie-nun-aber-doch-ginge
+gdc,sj6v.0,16683,17195,scheffler,17105,17108,sie,bertha
+gdc,sj6v.0,16683,17195,scheffler,17118,17157,Der Jahrestag des freudigen Ereignisses,Der-Jahrestag-des-freudigen-Ereignisses
+gdc,sj6v.0,16683,17195,scheffler,17132,17157,des freudigen Ereignisses,des-freudigen-Ereignisses
+gdc,sj6v.0,16683,17195,scheffler,17173,17183,ihr Bruder,meinem-Bruder
+gdc,sj6v.0,16683,17195,scheffler,17173,17176,ihr,bertha
+gdc,sj6v.0,17241,17260,_stage,17241,17248,Schnake,schuake
+gdc,sj6v.0,17241,17260,_stage,17250,17259,Scheffler,scheffler
+gdc,sj6v.0,17263,17318,schuake,17306,17317,Herr Doctor,scheffler
+gdc,sj6v.0,17323,17359,scheffler,17346,17349,Sie,schuake
+gdc,sj6v.0,17323,17359,scheffler,17351,17358,Schnake,schuake
+gdc,sj6v.0,17365,17471,schuake,17384,17387,Sie,scheffler
+gdc,sj6v.0,17365,17471,schuake,17393,17408,die Rednerbühne,die-Rednerbühne
+gdc,sj6v.0,17365,17471,schuake,17412,17427,Ende des Saales,Ende-des-Saales
+gdc,sj6v.0,17365,17471,schuake,17417,17427,des Saales,des-Saales
+gdc,sj6v.0,17365,17471,schuake,17436,17453,der breiten Seite,der-breiten-Seite
+gdc,sj6v.0,17476,17509,scheffler,17492,17495,mir,scheffler
+gdc,sj6v.0,17514,17668,schuake,17533,17536,Sie,scheffler
+gdc,sj6v.0,17514,17668,schuake,17542,17559,der breiten Seite,der-breiten-Seite
+gdc,sj6v.0,17514,17668,schuake,17571,17574,Sie,scheffler
+gdc,sj6v.0,17673,17696,scheffler,17685,17691,Meinen,scheffler
+gdc,sj6v.0,17673,17696,scheffler,17692,17695,Sie,schuake
+gdc,sj6v.0,17701,18018,schuake,17748,17751,Sie,scheffler
+gdc,sj6v.0,17701,18018,schuake,17755,17770,Ende des Saales,Ende-des-Saales
+gdc,sj6v.0,17701,18018,schuake,17760,17770,des Saales,des-Saales
+gdc,sj6v.0,17701,18018,schuake,17802,17812,Schefflers,scheffler
+gdc,sj6v.0,17701,18018,schuake,17843,17863,Geehrte Festgenossen,die-Gäste
+gdc,sj6v.0,17701,18018,schuake,17885,17888,Sie,scheffler
+gdc,sj6v.0,17701,18018,schuake,17897,17914,der breiten Seite,der-breiten-Seite
+gdc,sj6v.0,17701,18018,schuake,17946,17966,Geehrte Festgenossen,die-Gäste
+gdc,sj6v.0,17701,18018,schuake,17977,18016,der Jahrestag des freudigen Ereignisses,Der-Jahrestag-des-freudigen-Ereignisses
+gdc,sj6v.0,17701,18018,schuake,17991,18016,des freudigen Ereignisses,des-freudigen-Ereignisses
+gdc,sj6v.0,18023,18094,scheffler,18048,18051,Sie,schuake
+gdc,sj6v.0,18023,18094,scheffler,18057,18067,meine Rede,meiner-Rede
+gdc,sj6v.0,18023,18094,scheffler,18057,18062,meine,scheffler
+gdc,sj6v.0,18023,18094,scheffler,18078,18081,ich,scheffler
+gdc,sj6v.0,18099,18293,schuake,18117,18128,Herr Doctor,scheffler
+gdc,sj6v.0,18099,18293,schuake,18140,18143,man,man
+gdc,sj6v.0,18099,18293,schuake,18146,18149,ich,schuake
+gdc,sj6v.0,18099,18293,schuake,18161,18176,viele Festreden,viele-Festreden
+gdc,sj6v.0,18099,18293,schuake,18196,18199,sie,viele-Festreden
+gdc,sj6v.0,18329,18634,schuake,18398,18401,Sie,scheffler
+gdc,sj6v.0,18329,18634,schuake,18406,18422,die breite Seite,der-breiten-Seite
+gdc,sj6v.0,18329,18634,schuake,18424,18435,Herr Doctor,scheffler
+gdc,sj6v.0,18329,18634,schuake,18438,18441,ich,schuake
+gdc,sj6v.0,18329,18634,schuake,18478,18489,die Tribüne,die-Rednerbühne
+gdc,sj6v.0,18329,18634,schuake,18508,18511,Sie,scheffler
+gdc,sj6v.0,18329,18634,schuake,18537,18540,Ich,schuake
+gdc,sj6v.0,18329,18634,schuake,18546,18549,Sie,scheffler
+gdc,sj6v.0,18639,18697,scheffler,18689,18696,Schnake,schuake
+gdc,sj6v.0,18702,19273,schuake,18717,18733,die breite Seite,der-breiten-Seite
+gdc,sj6v.0,18702,19273,schuake,18763,18774,Herr Doctor,scheffler
+gdc,sj6v.0,18702,19273,schuake,18808,18811,Sie,scheffler
+gdc,sj6v.0,18702,19273,schuake,18817,18844,ein Mitglied der Polihymnia,ein-Mitglied-der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,18830,18844,der Polihymnia,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,18849,18853,sich,ein-Mitglied-der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,18880,18885,ihnen,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,18906,18909,Sie,scheffler
+gdc,sj6v.0,18702,19273,schuake,18915,18929,die Polihymnia,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,18939,18944,ihren,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,19012,19015,ihr,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,19104,19107,sie,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,19138,19141,sie,der-Polihymnia
+gdc,sj6v.0,18702,19273,schuake,19254,19257,ich,schuake
+gdc,sj6v.0,19278,19312,scheffler,19304,19311,Schnake,schuake
+gdc,sj6v.0,19317,19401,schuake,19354,19365,Herr Doctor,scheffler
+gdc,sj6v.0,19449,19538,schuake,19465,19488,den aufgeführten Gästen,die-Gäste
+gdc,sj6v.0,19449,19538,schuake,19500,19512,Herr Hartwig,hartwig
+gdc,sj6v.0,19449,19538,schuake,19518,19523,Ihnen,scheffler
+gdc,sj6v.0,19543,19577,scheffler,19568,19575,Hartwig,hartwig
+gdc,sj6v.0,19582,19675,schuake,19635,19638,ich,schuake
+gdc,sj6v.0,19582,19675,schuake,19639,19649,die Karten,die-Karten
+gdc,sj6v.0,19582,19675,schuake,19654,19657,ihn,hartwig
+gdc,sj6v.0,19680,19768,scheffler,19713,19716,Sie,schuake
+gdc,sj6v.0,19680,19768,scheffler,19717,19720,sie,die-Karten
+gdc,sj6v.0,19680,19768,scheffler,19755,19757,er,hartwig
+gdc,sj6v.0,19773,19891,schuake,19798,19801,ich,schuake
+gdc,sj6v.0,19773,19891,schuake,19829,19833,Mich,schuake
+gdc,sj6v.0,19773,19891,schuake,19859,19870,Herr Doctor,scheffler
+gdc,sj6v.0,19773,19891,schuake,19881,19890,die Mitte,die-Mitte
+gdc,sj6v.0,19938,20207,scheffler,19962,19969,Hartwig,hartwig
+gdc,sj6v.0,19938,20207,scheffler,19972,19975,den,hartwig
+gdc,sj6v.0,19938,20207,scheffler,19982,19985,ich,scheffler
+gdc,sj6v.0,19938,20207,scheffler,20022,20025,ich,scheffler
+gdc,sj6v.0,19938,20207,scheffler,20026,20029,ihn,hartwig
+gdc,sj6v.0,19938,20207,scheffler,20054,20080,meine Frau in der Stimmung,meine-Frau-in-der-Stimmung
+gdc,sj6v.0,19938,20207,scheffler,20054,20064,meine Frau,bertha
+gdc,sj6v.0,19938,20207,scheffler,20054,20059,meine,scheffler
+gdc,sj6v.0,19938,20207,scheffler,20083,20085,er,hartwig
+gdc,sj6v.0,19938,20207,scheffler,20092,20094,es,meine-Frau-in-der-Stimmung
+gdc,sj6v.0,19938,20207,scheffler,20108,20114,seiner,hartwig
+gdc,sj6v.0,19938,20207,scheffler,20133,20166,würde es die ganze Stadt erfahren,würde-es-die-ganze-Stadt-erfahren
+gdc,sj6v.0,19938,20207,scheffler,20139,20141,es,meine-Frau-in-der-Stimmung
+gdc,sj6v.0,19938,20207,scheffler,20142,20157,die ganze Stadt,unsrer-Stadt
+gdc,sj6v.0,19938,20207,scheffler,20168,20171,Das,würde-es-die-ganze-Stadt-erfahren
+gdc,sj6v.0,19938,20207,scheffler,20185,20188,ich,scheffler
+gdc,sj6v.0,19938,20207,scheffler,20193,20195,es,würde-es-die-ganze-Stadt-erfahren
+gdc,sj6v.0,20253,20284,_stage,20253,20262,Scheffler,scheffler
+gdc,sj6v.0,20253,20284,_stage,20264,20271,Hartwig,hartwig
+gdc,sj6v.0,20253,20284,_stage,20273,20283,Steinkirch,steinkirch
+gdc,sj6v.0,20287,20363,_stage,20287,20294,Hartwig,hartwig
+gdc,sj6v.0,20287,20363,_stage,20323,20333,Steinkirch,steinkirch
+gdc,sj6v.0,20287,20363,_stage,20338,20362,einem kleinen Handkoffer,Reisetasche
+gdc,sj6v.0,20366,20444,hartwig,20376,20385,Scheffler,scheffler
+gdc,sj6v.0,20366,20444,hartwig,20388,20393,Bruno,scheffler
+gdc,sj6v.0,20366,20444,hartwig,20396,20406,altes Haus,scheffler
+gdc,sj6v.0,20366,20444,hartwig,20434,20443,Scheffler,scheffler
+gdc,sj6v.0,20451,20507,scheffler,20476,20489,Lieber Freund,hartwig
+gdc,sj6v.0,20512,20871,hartwig,20572,20575,mir,hartwig
+gdc,sj6v.0,20512,20871,hartwig,20581,20584,wir,scheffler-und-hartwig
+gdc,sj6v.0,20512,20871,hartwig,20643,20645,Du,scheffler
+gdc,sj6v.0,20512,20871,hartwig,20653,20656,ich,hartwig
+gdc,sj6v.0,20512,20871,hartwig,20713,20716,man,man
+gdc,sj6v.0,20512,20871,hartwig,20748,20751,man,man
+gdc,sj6v.0,20512,20871,hartwig,20752,20756,sich,man
+gdc,sj6v.0,20876,20913,scheffler,20901,20903,Du,hartwig
+gdc,sj6v.0,20918,21038,hartwig,20992,20995,ich,hartwig
+gdc,sj6v.0,20918,21038,hartwig,21008,21011,Dir,scheffler
+gdc,sj6v.0,20918,21038,hartwig,21029,21032,ich,hartwig
+gdc,sj6v.0,21054,21077,_stage,21058,21068,Steinkirch,steinkirch
+gdc,sj6v.0,21098,21313,hartwig,21119,21156,"Ein Fremder, den ich mitgebracht habe",steinkirch
+gdc,sj6v.0,21098,21313,hartwig,21132,21135,den,steinkirch
+gdc,sj6v.0,21098,21313,hartwig,21136,21139,ich,hartwig
+gdc,sj6v.0,21098,21313,hartwig,21158,21161,den,steinkirch
+gdc,sj6v.0,21098,21313,hartwig,21162,21164,Du,scheffler
+gdc,sj6v.0,21098,21313,hartwig,21188,21191,ich,hartwig
+gdc,sj6v.0,21098,21313,hartwig,21198,21201,ihn,steinkirch
+gdc,sj6v.0,21098,21313,hartwig,21202,21205,Dir,scheffler
+gdc,sj6v.0,21098,21313,hartwig,21290,21292,Du,scheffler
+gdc,sj6v.0,21098,21313,hartwig,21303,21307,Dich,scheffler
+gdc,sj6v.0,21338,21712,hartwig,21360,21364,mich,hartwig
+gdc,sj6v.0,21338,21712,hartwig,21373,21375,Du,scheffler
+gdc,sj6v.0,21338,21712,hartwig,21406,21409,ich,hartwig
+gdc,sj6v.0,21338,21712,hartwig,21410,21413,Dir,scheffler
+gdc,sj6v.0,21338,21712,hartwig,21437,21440,ich,hartwig
+gdc,sj6v.0,21338,21712,hartwig,21449,21453,mich,hartwig
+gdc,sj6v.0,21338,21712,hartwig,21576,21579,ich,hartwig
+gdc,sj6v.0,21338,21712,hartwig,21580,21583,mir,hartwig
+gdc,sj6v.0,21338,21712,hartwig,21584,21598,eine Erkältung,eine-Erkältung
+gdc,sj6v.0,21338,21712,hartwig,21642,21646,sich,eine-Erkältung
+gdc,sj6v.0,21338,21712,hartwig,21691,21710,unser Stiftungsfest,unserm-Fest
+gdc,sj6v.0,21338,21712,hartwig,21691,21696,unser,Sängerbund
+gdc,sj6v.0,21750,21948,hartwig,21785,21787,Du,scheffler
+gdc,sj6v.0,21750,21948,hartwig,21838,21840,Du,scheffler
+gdc,sj6v.0,21750,21948,hartwig,21846,21850,mich,hartwig
+gdc,sj6v.0,21750,21948,hartwig,21855,21868,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,21750,21948,hartwig,21887,21890,mir,hartwig
+gdc,sj6v.0,21750,21948,hartwig,21891,21901,ein Zimmer,ein-Zimmer
+gdc,sj6v.0,21750,21948,hartwig,21913,21916,ich,hartwig
+gdc,sj6v.0,21982,22064,hartwig,21992,21995,Ich,hartwig
+gdc,sj6v.0,21982,22064,hartwig,22036,22039,ich,hartwig
+gdc,sj6v.0,22101,22232,hartwig,22111,22114,Ich,hartwig
+gdc,sj6v.0,22101,22232,hartwig,22125,22127,Du,scheffler
+gdc,sj6v.0,22101,22232,hartwig,22179,22191,alter Freund,scheffler
+gdc,sj6v.0,22101,22232,hartwig,22194,22197,ich,hartwig
+gdc,sj6v.0,22101,22232,hartwig,22206,22224,meiner alten Tante,meiner-alten-Tante
+gdc,sj6v.0,22101,22232,hartwig,22206,22212,meiner,hartwig
+gdc,sj6v.0,22280,22666,hartwig,22290,22293,Sie,meiner-alten-Tante
+gdc,sj6v.0,22280,22666,hartwig,22304,22310,meiner,hartwig
+gdc,sj6v.0,22280,22666,hartwig,22367,22369,es,meiner-alten-Tante
+gdc,sj6v.0,22280,22666,hartwig,22408,22411,ich,hartwig
+gdc,sj6v.0,22280,22666,hartwig,22422,22477,"Jemand, der noch nicht weiß, wo er Quartier finden soll","Jemand,-der-noch-nicht-weiß,-wo-er-Quartier-finden-soll"
+gdc,sj6v.0,22280,22666,hartwig,22430,22433,der,"Jemand,-der-noch-nicht-weiß,-wo-er-Quartier-finden-soll"
+gdc,sj6v.0,22280,22666,hartwig,22454,22456,er,"Jemand,-der-noch-nicht-weiß,-wo-er-Quartier-finden-soll"
+gdc,sj6v.0,22280,22666,hartwig,22491,22494,ich,hartwig
+gdc,sj6v.0,22280,22666,hartwig,22525,22534,dem Manne,"Jemand,-der-noch-nicht-weiß,-wo-er-Quartier-finden-soll"
+gdc,sj6v.0,22280,22666,hartwig,22570,22573,ich,hartwig
+gdc,sj6v.0,22280,22666,hartwig,22574,22577,Dir,scheffler
+gdc,sj6v.0,22280,22666,hartwig,22583,22600,einen andern Gast,"Jemand,-der-noch-nicht-weiß,-wo-er-Quartier-finden-soll"
+gdc,sj6v.0,22280,22666,hartwig,22612,22614,Du,scheffler
+gdc,sj6v.0,22280,22666,hartwig,22615,22633,Dein Fremdenzimmer,ein-Zimmer
+gdc,sj6v.0,22280,22666,hartwig,22615,22619,Dein,scheffler
+gdc,sj6v.0,22671,22698,scheffler,22683,22696,Lieber Freund,hartwig
+gdc,sj6v.0,22703,22980,hartwig,22743,22765,Herr Doctor Steinkirch,steinkirch
+gdc,sj6v.0,22703,22980,hartwig,22865,22868,Sie,steinkirch
+gdc,sj6v.0,22703,22980,hartwig,22869,22873,sich,steinkirch
+gdc,sj6v.0,22703,22980,hartwig,22885,22887,Du,scheffler
+gdc,sj6v.0,22703,22980,hartwig,22888,22892,Dich,scheffler
+gdc,sj6v.0,22703,22980,hartwig,22966,22969,Dir,scheffler
+gdc,sj6v.0,22985,23011,scheffler,23006,23009,mir,scheffler
+gdc,sj6v.0,23016,23165,hartwig,23062,23065,Ihr,hartwig-und-steinkirch
+gdc,sj6v.0,23016,23165,hartwig,23066,23071,beide,hartwig-und-steinkirch
+gdc,sj6v.0,23016,23165,hartwig,23092,23094,Du,scheffler
+gdc,sj6v.0,23016,23165,hartwig,23103,23106,Ich,hartwig
+gdc,sj6v.0,23016,23165,hartwig,23151,23163,die Erbtante,meiner-alten-Tante
+gdc,sj6v.0,23182,23195,_stage,23185,23194,Scheffler,scheffler
+gdc,sj6v.0,23170,23249,steinkirch,23198,23201,Sie,scheffler
+gdc,sj6v.0,23254,23676,hartwig,23280,23283,man,man
+gdc,sj6v.0,23254,23676,hartwig,23284,23288,Euch,scheffler-und-steinkirch
+gdc,sj6v.0,23254,23676,hartwig,23316,23319,man,man
+gdc,sj6v.0,23254,23676,hartwig,23320,23324,Euch,scheffler-und-steinkirch
+gdc,sj6v.0,23254,23676,hartwig,23395,23398,Ich,hartwig
+gdc,sj6v.0,23254,23676,hartwig,23421,23424,wir,scheffler-und-hartwig
+gdc,sj6v.0,23254,23676,hartwig,23446,23448,Du,scheffler
+gdc,sj6v.0,23254,23676,hartwig,23541,23543,Du,scheffler
+gdc,sj6v.0,23254,23676,hartwig,23579,23582,ich,hartwig
+gdc,sj6v.0,23254,23676,hartwig,23602,23604,Du,scheffler
+gdc,sj6v.0,23254,23676,hartwig,23617,23630,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,23682,23728,scheffler,23706,23709,man,man
+gdc,sj6v.0,23682,23728,scheffler,23714,23718,mich,scheffler
+gdc,sj6v.0,23733,24429,hartwig,23758,23761,ich,hartwig
+gdc,sj6v.0,23733,24429,hartwig,23789,23792,ich,hartwig
+gdc,sj6v.0,23733,24429,hartwig,23823,23834,die Euterpe,die-Euterpe
+gdc,sj6v.0,23733,24429,hartwig,23864,23875,Die Euterpe,die-Euterpe
+gdc,sj6v.0,23733,24429,hartwig,23904,23922,die andern Vereine,die-andern-Vereine
+gdc,sj6v.0,23733,24429,hartwig,23985,23995,Steinkirch,steinkirch
+gdc,sj6v.0,23733,24429,hartwig,24035,24038,sie,die-Euterpe
+gdc,sj6v.0,23733,24429,hartwig,24070,24088,die andern Vereine,die-andern-Vereine
+gdc,sj6v.0,23733,24429,hartwig,24116,24119,sie,die-andern-Vereine
+gdc,sj6v.0,23733,24429,hartwig,24128,24134,Jemand,Jemand
+gdc,sj6v.0,23733,24429,hartwig,24142,24145,der,Jemand
+gdc,sj6v.0,23733,24429,hartwig,24268,24271,Sie,steinkirch
+gdc,sj6v.0,23733,24429,hartwig,24293,24295,Du,scheffler
+gdc,sj6v.0,23733,24429,hartwig,24301,24327,einen liebenswürdigen Gast,steinkirch
+gdc,sj6v.0,23733,24429,hartwig,24348,24351,wir,scheffler-und-hartwig
+gdc,sj6v.0,23733,24429,hartwig,24352,24355,uns,scheffler-und-hartwig
+gdc,sj6v.0,23733,24429,hartwig,24389,24395,Beiden,scheffler-und-steinkirch
+gdc,sj6v.0,24435,24478,steinkirch,24461,24464,ich,steinkirch
+gdc,sj6v.0,24435,24478,steinkirch,24465,24470,Ihnen,scheffler
+gdc,sj6v.0,24483,24708,hartwig,24529,24531,Du,scheffler
+gdc,sj6v.0,24483,24708,hartwig,24532,24536,Dich,scheffler
+gdc,sj6v.0,24483,24708,hartwig,24551,24554,Ich,hartwig
+gdc,sj6v.0,24483,24708,hartwig,24560,24586,die Gesundheit Deiner Frau,die-Gesundheit-Deiner-Frau
+gdc,sj6v.0,24483,24708,hartwig,24575,24586,Deiner Frau,bertha
+gdc,sj6v.0,24483,24708,hartwig,24575,24581,Deiner,scheffler
+gdc,sj6v.0,24483,24708,hartwig,24597,24618,vorigen Stiftungsfest,vorjährigen-Stiftungsfest
+gdc,sj6v.0,24483,24708,hartwig,24639,24642,sie,bertha
+gdc,sj6v.0,24483,24708,hartwig,24675,24677,Du,scheffler
+gdc,sj6v.0,24483,24708,hartwig,24697,24707,Deiner Ehe,unserer-Ehe
+gdc,sj6v.0,24483,24708,hartwig,24697,24703,Deiner,scheffler
+gdc,sj6v.0,24765,25109,hartwig,24850,24908,"eine Umschreibung, die mir das Gegentheil zu sagen scheint","eine-Umschreibung,-die-mir-das-Gegentheil-zu-sagen-scheint"
+gdc,sj6v.0,24765,25109,hartwig,24869,24872,die,"eine-Umschreibung,-die-mir-das-Gegentheil-zu-sagen-scheint"
+gdc,sj6v.0,24765,25109,hartwig,24873,24876,mir,hartwig
+gdc,sj6v.0,24765,25109,hartwig,24910,24912,Du,scheffler
+gdc,sj6v.0,24765,25109,hartwig,24920,24923,mir,hartwig
+gdc,sj6v.0,24765,25109,hartwig,25006,25009,ich,hartwig
+gdc,sj6v.0,24765,25109,hartwig,25045,25048,ich,hartwig
+gdc,sj6v.0,24765,25109,hartwig,25059,25062,ich,hartwig
+gdc,sj6v.0,24765,25109,hartwig,25081,25084,ich,hartwig
+gdc,sj6v.0,25204,25257,steinkirch,25217,25219,Er,hartwig
+gdc,sj6v.0,25262,25295,scheffler,25274,25277,Ich,scheffler
+gdc,sj6v.0,25262,25295,scheffler,25285,25288,ich,scheffler
+gdc,sj6v.0,25300,25332,hartwig,25310,25313,Ich,hartwig
+gdc,sj6v.0,25337,25396,scheffler,25349,25361,Alter Freund,hartwig
+gdc,sj6v.0,25337,25396,scheffler,25364,25366,Du,hartwig
+gdc,sj6v.0,25337,25396,scheffler,25372,25375,Dir,hartwig
+gdc,sj6v.0,25506,25533,hartwig,25523,25526,ich,hartwig
+gdc,sj6v.0,25550,25563,_stage,25553,25562,Scheffler,scheffler
+gdc,sj6v.0,25538,25603,steinkirch,25566,25568,Er,hartwig
+gdc,sj6v.0,25635,25696,scheffler,25688,25690,Du,hartwig
+gdc,sj6v.0,25635,25696,scheffler,25691,25695,Dich,hartwig
+gdc,sj6v.0,25701,25731,hartwig,25715,25718,Ihr,scheffler-und-steinkirch
+gdc,sj6v.0,25701,25731,hartwig,25719,25723,Alle,scheffler-und-steinkirch
+gdc,sj6v.0,25736,25771,scheffler,25752,25754,er,hartwig
+gdc,sj6v.0,25776,25818,hartwig,25786,25789,Ich,hartwig
+gdc,sj6v.0,25823,25887,steinkirch,25836,25839,Ich,steinkirch
+gdc,sj6v.0,25913,25968,steinkirch,25939,25941,er,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26083,26086,ich,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26110,26113,Ihr,scheffler-und-steinkirch
+gdc,sj6v.0,26068,26526,hartwig,26168,26171,Ihr,scheffler-und-steinkirch
+gdc,sj6v.0,26068,26526,hartwig,26184,26187,ich,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26217,26220,ich,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26244,26247,Ihr,scheffler-und-steinkirch
+gdc,sj6v.0,26068,26526,hartwig,26248,26251,mir,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26318,26321,ich,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26356,26359,ich,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26414,26417,ich,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26423,26429,meinen,hartwig
+gdc,sj6v.0,26068,26526,hartwig,26459,26463,Euer,scheffler-und-steinkirch
+gdc,sj6v.0,26068,26526,hartwig,26516,26525,die Mitte,die-Mitte
+gdc,sj6v.0,26532,26661,steinkirch,26545,26548,Ich,steinkirch
+gdc,sj6v.0,26532,26661,steinkirch,26555,26560,Ihnen,scheffler
+gdc,sj6v.0,26532,26661,steinkirch,26584,26588,Haus,meinem-Hause
+gdc,sj6v.0,26532,26661,steinkirch,26590,26601,Herr Doctor,scheffler
+gdc,sj6v.0,26532,26661,steinkirch,26609,26612,ich,steinkirch
+gdc,sj6v.0,26532,26661,steinkirch,26613,26618,Ihnen,scheffler
+gdc,sj6v.0,26709,26797,steinkirch,26722,26725,Ich,steinkirch
+gdc,sj6v.0,26709,26797,steinkirch,26752,26759,Hartwig,hartwig
+gdc,sj6v.0,26709,26797,steinkirch,26772,26783,sein Zimmer,ein-Zimmer
+gdc,sj6v.0,26709,26797,steinkirch,26772,26776,sein,hartwig
+gdc,sj6v.0,26802,26905,scheffler,26832,26835,Sie,steinkirch
+gdc,sj6v.0,26911,27023,steinkirch,26924,26927,Sie,scheffler
+gdc,sj6v.0,26911,27023,steinkirch,26955,26958,Sie,scheffler
+gdc,sj6v.0,26911,27023,steinkirch,26973,26976,ich,steinkirch
+gdc,sj6v.0,26911,27023,steinkirch,26977,26980,mir,steinkirch
+gdc,sj6v.0,27028,27165,scheffler,27097,27100,Sie,steinkirch
+gdc,sj6v.0,27028,27165,scheffler,27141,27156,die Thür rechts,die-Thür-rechts
+gdc,sj6v.0,27171,27282,steinkirch,27189,27192,Sie,scheffler
+gdc,sj6v.0,27171,27282,steinkirch,27204,27207,ich,steinkirch
+gdc,sj6v.0,27171,27282,steinkirch,27230,27241,Reisetasche,Reisetasche
+gdc,sj6v.0,27171,27282,steinkirch,27251,27259,der Thür,die-Thür-rechts
+gdc,sj6v.0,27288,27705,scheffler,27315,27318,Ich,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27393,27396,mir,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27447,27457,meine Frau,bertha
+gdc,sj6v.0,27288,27705,scheffler,27447,27452,meine,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27504,27514,ein Zimmer,ein-Zimmer2
+gdc,sj6v.0,27288,27705,scheffler,27535,27538,ich,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27539,27542,das,ein-Zimmer2
+gdc,sj6v.0,27288,27705,scheffler,27556,27558,es,ein-Zimmer2
+gdc,sj6v.0,27288,27705,scheffler,27563,27567,mein,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27593,27596,ich,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27601,27612,meiner Frau,bertha
+gdc,sj6v.0,27288,27705,scheffler,27601,27607,meiner,scheffler
+gdc,sj6v.0,27288,27705,scheffler,27644,27655,Der Gedanke,Der-Gedanke
+gdc,sj6v.0,27288,27705,scheffler,27679,27682,ihn,Der-Gedanke
+gdc,sj6v.0,27754,27772,_stage,27754,27760,Bertha,bertha
+gdc,sj6v.0,27754,27772,_stage,27762,27771,Scheffler,scheffler
+gdc,sj6v.0,27829,27870,scheffler,27851,27854,ich,scheffler
+gdc,sj6v.0,27875,27983,bertha,27888,27891,ich,bertha
+gdc,sj6v.0,27875,27983,bertha,27914,27917,ich,bertha
+gdc,sj6v.0,28000,28009,_stage,28004,28008,sich,scheffler
+gdc,sj6v.0,27989,28187,scheffler,28047,28049,er,scheffler
+gdc,sj6v.0,27989,28187,scheffler,28050,28053,sie,bertha
+gdc,sj6v.0,27989,28187,scheffler,28079,28082,sie,bertha
+gdc,sj6v.0,27989,28187,scheffler,28158,28161,ich,scheffler
+gdc,sj6v.0,27989,28187,scheffler,28162,28165,ihr,bertha
+gdc,sj6v.0,28200,28209,_stage,28204,28208,sich,bertha
+gdc,sj6v.0,28192,28291,bertha,28212,28215,Ich,bertha
+gdc,sj6v.0,28192,28291,bertha,28224,28226,er,scheffler
+gdc,sj6v.0,28192,28291,bertha,28233,28236,mir,bertha
+gdc,sj6v.0,28192,28291,bertha,28259,28261,er,scheffler
+gdc,sj6v.0,28307,28316,_stage,28311,28315,sich,scheffler
+gdc,sj6v.0,28296,28418,scheffler,28331,28349,der Unglücksmensch,steinkirch
+gdc,sj6v.0,28296,28418,scheffler,28353,28364,Nebenzimmer,Nebenzimmer
+gdc,sj6v.0,28296,28418,scheffler,28367,28385,wenn er herauskäme,wenn-er-herauskäme
+gdc,sj6v.0,28296,28418,scheffler,28372,28374,er,steinkirch
+gdc,sj6v.0,28296,28418,scheffler,28388,28390,es,wenn-er-herauskäme
+gdc,sj6v.0,28296,28418,scheffler,28397,28400,sie,bertha
+gdc,sj6v.0,28423,28560,bertha,28432,28434,Er,scheffler
+gdc,sj6v.0,28423,28560,bertha,28441,28445,sich,scheffler
+gdc,sj6v.0,28423,28560,bertha,28465,28468,ich,bertha
+gdc,sj6v.0,28423,28560,bertha,28505,28535,die Reisetasche von Steinkirch,Reisetasche
+gdc,sj6v.0,28423,28560,bertha,28525,28535,Steinkirch,steinkirch
+gdc,sj6v.0,28423,28560,bertha,28550,28553,das,Reisetasche
+gdc,sj6v.0,28566,28610,scheffler,28586,28589,Das,Reisetasche
+gdc,sj6v.0,28566,28610,scheffler,28593,28609,Eine Reisetasche,Reisetasche
+gdc,sj6v.0,28615,28649,bertha,28631,28633,Du,scheffler
+gdc,sj6v.0,28654,28753,scheffler,28700,28703,ich,scheffler
+gdc,sj6v.0,28654,28753,scheffler,28714,28716,es,Reisetasche
+gdc,sj6v.0,28654,28753,scheffler,28723,28726,ich,scheffler
+gdc,sj6v.0,28654,28753,scheffler,28740,28751,Nebenzimmer,Nebenzimmer
+gdc,sj6v.0,28758,28807,bertha,28767,28770,Ich,bertha
+gdc,sj6v.0,28758,28807,bertha,28791,28793,Du,scheffler
+gdc,sj6v.0,28812,28915,scheffler,28824,28827,Ich,scheffler
+gdc,sj6v.0,28812,28915,scheffler,28836,28839,Dir,bertha
+gdc,sj6v.0,28812,28915,scheffler,28855,28858,ich,scheffler
+gdc,sj6v.0,28812,28915,scheffler,28859,28880,einen neuen Schreiber,steinkirch
+gdc,sj6v.0,28812,28915,scheffler,28897,28899,er,steinkirch
+gdc,sj6v.0,28949,28982,scheffler,28961,28963,Er,steinkirch
+gdc,sj6v.0,28987,29032,bertha,29014,29017,ihn,scheffler
+gdc,sj6v.0,29038,29214,scheffler,29066,29069,mir,scheffler
+gdc,sj6v.0,29038,29214,scheffler,29104,29107,ihn,steinkirch
+gdc,sj6v.0,29038,29214,scheffler,29108,29118,eine Stube,ein-Zimmer2
+gdc,sj6v.0,29038,29214,scheffler,29132,29135,ich,scheffler
+gdc,sj6v.0,29038,29214,scheffler,29157,29165,dieselbe,ein-Zimmer2
+gdc,sj6v.0,29038,29214,scheffler,29170,29173,ihn,steinkirch
+gdc,sj6v.0,29038,29214,scheffler,29199,29203,sich,scheffler
+gdc,sj6v.0,29220,29253,bertha,29233,29237,Dich,scheffler
+gdc,sj6v.0,29258,29367,scheffler,29357,29366,die Mitte,die-Mitte
+gdc,sj6v.0,29373,29694,bertha,29406,29412,meinen,bertha
+gdc,sj6v.0,29373,29694,bertha,29421,29427,meinen,bertha
+gdc,sj6v.0,29373,29694,bertha,29442,29444,er,scheffler
+gdc,sj6v.0,29373,29694,bertha,29458,29489,das Zimmer für seinen Schreiber,ein-Zimmer2
+gdc,sj6v.0,29373,29694,bertha,29473,29489,seinen Schreiber,steinkirch
+gdc,sj6v.0,29373,29694,bertha,29473,29479,seinen,scheffler
+gdc,sj6v.0,29373,29694,bertha,29492,29495,das,ein-Zimmer2
+gdc,sj6v.0,29373,29694,bertha,29504,29507,ihm,scheffler
+gdc,sj6v.0,29373,29694,bertha,29542,29545,sie,die-Männer
+gdc,sj6v.0,29373,29694,bertha,29566,29578,diese Männer,die-Männer
+gdc,sj6v.0,29373,29694,bertha,29584,29587,wir,die-Frauen
+gdc,sj6v.0,29373,29694,bertha,29588,29594,unsere,die-Frauen
+gdc,sj6v.0,29373,29694,bertha,29604,29607,sie,die-Männer
+gdc,sj6v.0,29373,29694,bertha,29655,29668,den Schreiber,steinkirch
+gdc,sj6v.0,29743,29762,_stage,29743,29753,Steinkirch,steinkirch
+gdc,sj6v.0,29743,29762,_stage,29755,29761,Bertha,bertha
+gdc,sj6v.0,29765,29869,steinkirch,29794,29803,eine Dame,bertha
+gdc,sj6v.0,29765,29869,steinkirch,29812,29815,ich,steinkirch
+gdc,sj6v.0,29765,29869,steinkirch,29838,29856,die Frau vom Hause,bertha
+gdc,sj6v.0,29765,29869,steinkirch,29851,29856,Hause,meinem-Hause
+gdc,sj6v.0,29906,30006,steinkirch,29919,29922,Ich,steinkirch
+gdc,sj6v.0,29906,30006,steinkirch,29940,29957,meine Anwesenheit,meine-Anwesenheit
+gdc,sj6v.0,29906,30006,steinkirch,29940,29945,meine,steinkirch
+gdc,sj6v.0,29906,30006,steinkirch,29958,29963,Ihnen,bertha
+gdc,sj6v.0,30012,30091,bertha,30021,30037,Ihre Anwesenheit,meine-Anwesenheit
+gdc,sj6v.0,30012,30091,bertha,30038,30041,mir,bertha
+gdc,sj6v.0,30012,30091,bertha,30054,30057,ich,bertha
+gdc,sj6v.0,30108,30117,_stage,30112,30116,sich,steinkirch
+gdc,sj6v.0,30096,30150,steinkirch,30140,30143,sie,scheffler
+gdc,sj6v.0,30155,30198,bertha,30164,30181,Ein dreister Herr,steinkirch
+gdc,sj6v.0,30155,30198,bertha,30184,30197,der Schreiber,steinkirch
+gdc,sj6v.0,30203,30307,steinkirch,30238,30248,Der Himmel,Der-Himmel
+gdc,sj6v.0,30203,30307,steinkirch,30257,30262,seine,Der-Himmel
+gdc,sj6v.0,30312,30332,bertha,30321,30331,Der Himmel,Der-Himmel
+gdc,sj6v.0,30337,30461,steinkirch,30358,30360,er,Der-Himmel
+gdc,sj6v.0,30337,30461,steinkirch,30431,30435,sich,der-Sommer
+gdc,sj6v.0,30337,30461,steinkirch,30436,30446,der Sommer,der-Sommer
+gdc,sj6v.0,30466,30574,bertha,30489,30492,Sie,steinkirch
+gdc,sj6v.0,30466,30574,bertha,30525,30529,Herr,steinkirch
+gdc,sj6v.0,30466,30574,bertha,30530,30539,mein Mann,scheffler
+gdc,sj6v.0,30466,30574,bertha,30530,30534,mein,bertha
+gdc,sj6v.0,30466,30574,bertha,30544,30547,mir,bertha
+gdc,sj6v.0,30466,30574,bertha,30548,30553,Ihren,steinkirch
+gdc,sj6v.0,30579,30612,steinkirch,30592,30602,Steinkirch,steinkirch
+gdc,sj6v.0,30579,30612,steinkirch,30608,30611,ich,steinkirch
+gdc,sj6v.0,30617,30666,bertha,30635,30665,der Schreibtisch meines Mannes,den-Schreibtisch
+gdc,sj6v.0,30617,30666,bertha,30652,30665,meines Mannes,scheffler
+gdc,sj6v.0,30617,30666,bertha,30652,30658,meines,bertha
+gdc,sj6v.0,30683,30697,_stage,30683,30687,sich,steinkirch
+gdc,sj6v.0,30671,30845,steinkirch,30700,30712,Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,30671,30845,steinkirch,30715,30745,ein sehr hübscher Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,30671,30845,steinkirch,30832,30835,ich,steinkirch
+gdc,sj6v.0,30858,30876,_stage,30858,30861,ihn,steinkirch
+gdc,sj6v.0,30850,30938,bertha,30886,30889,Sie,steinkirch
+gdc,sj6v.0,30850,30938,bertha,30890,30913,die Akten meines Mannes,die-Akten-meines-Mannes
+gdc,sj6v.0,30850,30938,bertha,30900,30913,meines Mannes,scheffler
+gdc,sj6v.0,30850,30938,bertha,30900,30906,meines,bertha
+gdc,sj6v.0,30943,31050,steinkirch,30956,30961,Akten,die-Akten-meines-Mannes
+gdc,sj6v.0,30943,31050,steinkirch,30971,30994,sehr interessante Akten,die-Akten-meines-Mannes
+gdc,sj6v.0,30943,31050,steinkirch,31001,31004,ich,steinkirch
+gdc,sj6v.0,30943,31050,steinkirch,31011,31014,mir,steinkirch
+gdc,sj6v.0,30943,31050,steinkirch,31033,31038,Ihrer,bertha
+gdc,sj6v.0,31055,31126,bertha,31071,31074,Sie,steinkirch
+gdc,sj6v.0,31055,31126,bertha,31075,31079,sich,steinkirch
+gdc,sj6v.0,31055,31126,bertha,31086,31091,meine,bertha
+gdc,sj6v.0,31131,31285,steinkirch,31156,31159,ich,steinkirch
+gdc,sj6v.0,31131,31285,steinkirch,31166,31171,meine,steinkirch
+gdc,sj6v.0,31131,31285,steinkirch,31188,31234,Das Stiftungsfest des allgemeinen Sängerbundes,unserm-Fest
+gdc,sj6v.0,31131,31285,steinkirch,31206,31234,des allgemeinen Sängerbundes,Sängerbund
+gdc,sj6v.0,31131,31285,steinkirch,31243,31254,diesem Jahr,dies-Jahr
+gdc,sj6v.0,31290,31387,bertha,31317,31319,er,steinkirch
+gdc,sj6v.0,31290,31387,bertha,31356,31386,der Schreibtisch meines Mannes,den-Schreibtisch
+gdc,sj6v.0,31290,31387,bertha,31373,31386,meines Mannes,scheffler
+gdc,sj6v.0,31290,31387,bertha,31373,31379,meines,bertha
+gdc,sj6v.0,31404,31418,_stage,31404,31408,sich,steinkirch
+gdc,sj6v.0,31392,31533,steinkirch,31430,31433,sie,bertha
+gdc,sj6v.0,31392,31533,steinkirch,31448,31464,dem Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,31392,31533,steinkirch,31497,31505,dem Fest,unserm-Fest
+gdc,sj6v.0,31710,31878,bertha,31731,31751,Zudringlicher Mensch,steinkirch
+gdc,sj6v.0,31710,31878,bertha,31768,31798,der Schreibtisch meines Mannes,den-Schreibtisch
+gdc,sj6v.0,31710,31878,bertha,31785,31798,meines Mannes,scheffler
+gdc,sj6v.0,31710,31878,bertha,31785,31791,meines,bertha
+gdc,sj6v.0,31710,31878,bertha,31822,31824,er,steinkirch
+gdc,sj6v.0,31710,31878,bertha,31838,31843,seine,steinkirch
+gdc,sj6v.0,31896,31922,_stage,31902,31905,ihr,bertha
+gdc,sj6v.0,31884,32354,steinkirch,31925,31933,Die Frau,bertha
+gdc,sj6v.0,31884,32354,steinkirch,31957,31973,dem Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,31884,32354,steinkirch,31993,31996,ich,steinkirch
+gdc,sj6v.0,31884,32354,steinkirch,32027,32032,Hause,meinem-Hause
+gdc,sj6v.0,31884,32354,steinkirch,32039,32046,Hartwig,hartwig
+gdc,sj6v.0,31884,32354,steinkirch,32059,32062,ich,steinkirch
+gdc,sj6v.0,31884,32354,steinkirch,32107,32116,Scheffler,scheffler
+gdc,sj6v.0,31884,32354,steinkirch,32124,32127,mir,steinkirch
+gdc,sj6v.0,31884,32354,steinkirch,32156,32164,die Frau,bertha
+gdc,sj6v.0,31884,32354,steinkirch,32169,32187,ihrem Schreibtisch,den-Schreibtisch
+gdc,sj6v.0,31884,32354,steinkirch,32169,32174,ihrem,bertha
+gdc,sj6v.0,31884,32354,steinkirch,32241,32258,meine Reisetasche,Reisetasche
+gdc,sj6v.0,31884,32354,steinkirch,32241,32246,meine,steinkirch
+gdc,sj6v.0,31884,32354,steinkirch,32308,32311,ich,steinkirch
+gdc,sj6v.0,31884,32354,steinkirch,32321,32328,Gasthof,Gasthof
+gdc,sj6v.0,32403,32432,_stage,32403,32411,Ludmilla,ludmilla
+gdc,sj6v.0,32403,32432,_stage,32413,32423,Steinkirch,steinkirch
+gdc,sj6v.0,32403,32432,_stage,32425,32431,Diener,diener
+gdc,sj6v.0,32443,32459,_stage,32449,32458,die Mitte,die-Mitte
+gdc,sj6v.0,32435,32522,diener,32462,32465,Ich,diener
+gdc,sj6v.0,32435,32522,diener,32471,32488,der Frau Doctorin,bertha
+gdc,sj6v.0,32435,32522,diener,32500,32503,Sie,steinkirch
+gdc,sj6v.0,32538,32549,_stage,32542,32548,Diener,diener
+gdc,sj6v.0,32528,32595,ludmilla,32578,32581,ich,ludmilla
+gdc,sj6v.0,32528,32595,ludmilla,32582,32585,sie,diener
+gdc,sj6v.0,32631,32671,ludmilla,32649,32653,Herr,steinkirch
+gdc,sj6v.0,32631,32671,ludmilla,32661,32664,ich,ludmilla
+gdc,sj6v.0,32676,32715,steinkirch,32698,32702,mich,steinkirch
+gdc,sj6v.0,32676,32715,steinkirch,32703,32708,meine,steinkirch
+gdc,sj6v.0,32720,32754,ludmilla,32731,32753,Herr Doctor Steinkirch,steinkirch
+gdc,sj6v.0,32759,32800,steinkirch,32782,32799,Fräulein Ludmilla,ludmilla
+gdc,sj6v.0,32805,32845,ludmilla,32816,32819,Sie,steinkirch
+gdc,sj6v.0,32805,32845,ludmilla,32827,32839,meinen Namen,einen-schönen-Vornamen
+gdc,sj6v.0,32805,32845,ludmilla,32827,32833,meinen,ludmilla
+gdc,sj6v.0,32850,32961,steinkirch,32878,32900,einen schönen Vornamen,einen-schönen-Vornamen
+gdc,sj6v.0,32850,32961,steinkirch,32903,32906,der,einen-schönen-Vornamen
+gdc,sj6v.0,32850,32961,steinkirch,32907,32910,mir,steinkirch
+gdc,sj6v.0,32996,33175,steinkirch,33014,33017,Sie,ludmilla
+gdc,sj6v.0,32996,33175,steinkirch,33018,33021,mir,steinkirch
+gdc,sj6v.0,32996,33175,steinkirch,33066,33069,ich,steinkirch
+gdc,sj6v.0,32996,33175,steinkirch,33086,33089,Sie,ludmilla
+gdc,sj6v.0,32996,33175,steinkirch,33099,33102,Sie,ludmilla
+gdc,sj6v.0,32996,33175,steinkirch,33117,33120,ich,steinkirch
+gdc,sj6v.0,32996,33175,steinkirch,33132,33137,Ihnen,ludmilla
+gdc,sj6v.0,32996,33175,steinkirch,33148,33151,Sie,ludmilla
+gdc,sj6v.0,33180,33294,ludmilla,33207,33210,Sie,steinkirch
+gdc,sj6v.0,33180,33294,ludmilla,33211,33236,ein unbedeutendes Mädchen,ludmilla
+gdc,sj6v.0,33180,33294,ludmilla,33249,33252,das,ludmilla
+gdc,sj6v.0,33180,33294,ludmilla,33269,33274,Ihren,steinkirch
+gdc,sj6v.0,33299,33521,steinkirch,33345,33348,Ich,steinkirch
+gdc,sj6v.0,33299,33521,steinkirch,33388,33441,"ein junges Mädchen, das verlegen an einem Bache steht",ludmilla
+gdc,sj6v.0,33299,33521,steinkirch,33408,33411,das,ludmilla
+gdc,sj6v.0,33299,33521,steinkirch,33445,33448,Ich,steinkirch
+gdc,sj6v.0,33299,33521,steinkirch,33461,33464,ich,steinkirch
+gdc,sj6v.0,33299,33521,steinkirch,33471,33474,ihr,ludmilla
+gdc,sj6v.0,33299,33521,steinkirch,33480,33490,die Steine,die-Steine
+gdc,sj6v.0,33299,33521,steinkirch,33493,33496,die,die-Steine
+gdc,sj6v.0,33526,33571,ludmilla,33537,33540,Sie,steinkirch
+gdc,sj6v.0,33576,33659,steinkirch,33589,33592,Ich,steinkirch
+gdc,sj6v.0,33576,33659,steinkirch,33606,33609,Sie,ludmilla
+gdc,sj6v.0,33576,33659,steinkirch,33618,33621,mir,steinkirch
+gdc,sj6v.0,33576,33659,steinkirch,33623,33626,sie,ludmilla
+gdc,sj6v.0,33576,33659,steinkirch,33627,33645,eine kurze Strecke,eine-kurze-Strecke
+gdc,sj6v.0,33664,33707,ludmilla,33675,33677,Es,eine-kurze-Strecke
+gdc,sj6v.0,33712,34096,steinkirch,33725,33728,Sie,ludmilla
+gdc,sj6v.0,33712,34096,steinkirch,33781,33792,Das Mädchen,ludmilla
+gdc,sj6v.0,33712,34096,steinkirch,33798,33801,mir,steinkirch
+gdc,sj6v.0,33712,34096,steinkirch,33807,33810,sie,ludmilla
+gdc,sj6v.0,33712,34096,steinkirch,33819,33829,diesen Weg,eine-kurze-Strecke
+gdc,sj6v.0,33712,34096,steinkirch,33839,33842,ich,steinkirch
+gdc,sj6v.0,33712,34096,steinkirch,33881,33884,Sie,ludmilla
+gdc,sj6v.0,33712,34096,steinkirch,33896,33899,sie,ludmilla
+gdc,sj6v.0,33712,34096,steinkirch,33943,33946,ich,steinkirch
+gdc,sj6v.0,33712,34096,steinkirch,34007,34010,sie,ludmilla
+gdc,sj6v.0,33712,34096,steinkirch,34073,34076,Sie,ludmilla
+gdc,sj6v.0,34147,34220,steinkirch,34164,34167,ich,steinkirch
+gdc,sj6v.0,34147,34220,steinkirch,34174,34177,ihr,ludmilla
+gdc,sj6v.0,34225,34301,ludmilla,34236,34239,Ich,ludmilla
+gdc,sj6v.0,34306,34392,steinkirch,34327,34330,ich,steinkirch
+gdc,sj6v.0,34306,34392,steinkirch,34331,34334,Sie,ludmilla
+gdc,sj6v.0,34306,34392,steinkirch,34360,34363,Sie,ludmilla
+gdc,sj6v.0,34306,34392,steinkirch,34364,34367,mir,steinkirch
+gdc,sj6v.0,34306,34392,steinkirch,34372,34375,ich,steinkirch
+gdc,sj6v.0,34306,34392,steinkirch,34376,34379,Sie,ludmilla
+gdc,sj6v.0,34397,34462,ludmilla,34408,34411,Ich,ludmilla
+gdc,sj6v.0,34397,34462,ludmilla,34422,34434,meinem Oheim,bolzau
+gdc,sj6v.0,34397,34462,ludmilla,34422,34428,meinem,ludmilla
+gdc,sj6v.0,34397,34462,ludmilla,34436,34461,dem Commerzienrath Bolzau,bolzau
+gdc,sj6v.0,34467,34498,steinkirch,34483,34497,hiesiger Stadt,unsrer-Stadt
+gdc,sj6v.0,34523,34620,steinkirch,34536,34557,Commerzienrath Bolzau,bolzau
+gdc,sj6v.0,34523,34620,steinkirch,34562,34576,hiesiger Stadt,unsrer-Stadt
+gdc,sj6v.0,34523,34620,steinkirch,34589,34592,ich,steinkirch
+gdc,sj6v.0,34523,34620,steinkirch,34593,34598,Ihnen,ludmilla
+gdc,sj6v.0,34523,34620,steinkirch,34599,34605,meinen,steinkirch
+gdc,sj6v.0,34625,34773,ludmilla,34664,34675,Meine Tante,wilhelmine
+gdc,sj6v.0,34625,34773,ludmilla,34664,34669,Meine,ludmilla
+gdc,sj6v.0,34625,34773,ludmilla,34682,34686,mich,ludmilla
+gdc,sj6v.0,34625,34773,ludmilla,34721,34724,ich,ludmilla
+gdc,sj6v.0,34821,34836,_stage,34821,34827,Diener,diener
+gdc,sj6v.0,34839,34925,diener,34899,34910,Frau Doctor,bertha
+gdc,sj6v.0,34994,35080,ludmilla,35047,35056,mein Herr,steinkirch
+gdc,sj6v.0,34994,35080,ludmilla,35047,35051,mein,ludmilla
+gdc,sj6v.0,35094,35113,_stage,35103,35112,die Mitte,die-Mitte
+gdc,sj6v.0,35118,35190,steinkirch,35131,35134,Das,Das
+gdc,sj6v.0,35118,35190,steinkirch,35173,35175,es,Das
+gdc,sj6v.0,35238,35263,_stage,35238,35248,Steinkirch,steinkirch
+gdc,sj6v.0,35238,35263,_stage,35255,35262,Hartwig,hartwig
+gdc,sj6v.0,35275,35291,_stage,35281,35290,die Mitte,die-Mitte
+gdc,sj6v.0,35266,35351,hartwig,35298,35308,Steinkirch,steinkirch
+gdc,sj6v.0,35266,35351,hartwig,35320,35323,ich,hartwig
+gdc,sj6v.0,35266,35351,hartwig,35324,35328,Dich,steinkirch
+gdc,sj6v.0,35402,35442,_stage,35402,35405,ihn,steinkirch
+gdc,sj6v.0,35393,35527,hartwig,35454,35457,das,ludmilla
+gdc,sj6v.0,35532,35567,steinkirch,35559,35561,Du,hartwig
+gdc,sj6v.0,35572,35640,hartwig,35612,35627,eine junge Dame,ludmilla
+gdc,sj6v.0,35645,35711,steinkirch,35669,35684,Eine junge Dame,ludmilla
+gdc,sj6v.0,35716,35790,hartwig,35744,35747,ich,hartwig
+gdc,sj6v.0,35809,35824,_stage,35809,35812,ihn,hartwig
+gdc,sj6v.0,35797,35865,steinkirch,35852,35855,Dir,hartwig
+gdc,sj6v.0,35870,36067,hartwig,35880,35882,Du,steinkirch
+gdc,sj6v.0,35870,36067,hartwig,35917,35920,Ich,hartwig
+gdc,sj6v.0,35870,36067,hartwig,35949,35952,ich,hartwig
+gdc,sj6v.0,35870,36067,hartwig,35953,35956,mir,hartwig
+gdc,sj6v.0,35870,36067,hartwig,35972,35987,eine junge Dame,ludmilla
+gdc,sj6v.0,35870,36067,hartwig,36045,36048,mir,hartwig
+gdc,sj6v.0,36072,36102,steinkirch,36085,36100,Eine junge Dame,ludmilla
+gdc,sj6v.0,36107,36237,hartwig,36127,36130,ich,hartwig
+gdc,sj6v.0,36107,36237,hartwig,36152,36162,Die Grazie,ludmilla
+gdc,sj6v.0,36107,36237,hartwig,36186,36188,es,ludmilla
+gdc,sj6v.0,36107,36237,hartwig,36207,36224,ein höheres Wesen,ludmilla
+gdc,sj6v.0,36107,36237,hartwig,36227,36236,ein Engel,ludmilla
+gdc,sj6v.0,36242,36281,steinkirch,36255,36257,Du,hartwig
+gdc,sj6v.0,36286,36580,hartwig,36296,36299,Ich,hartwig
+gdc,sj6v.0,36286,36580,hartwig,36320,36323,sie,ludmilla
+gdc,sj6v.0,36286,36580,hartwig,36362,36367,ihren,ludmilla
+gdc,sj6v.0,36286,36580,hartwig,36420,36423,sie,ludmilla
+gdc,sj6v.0,36286,36580,hartwig,36463,36479,die Rosenkönigin,die-Rosenkönigin
+gdc,sj6v.0,36286,36580,hartwig,36480,36483,ihr,die-Rosenkönigin
+gdc,sj6v.0,36286,36580,hartwig,36553,36563,Steinkirch,steinkirch
+gdc,sj6v.0,36620,36753,hartwig,36641,36644,sie,ludmilla
+gdc,sj6v.0,36620,36753,hartwig,36660,36663,Ich,hartwig
+gdc,sj6v.0,36620,36753,hartwig,36741,36744,ich,hartwig
+gdc,sj6v.0,36758,36793,steinkirch,36776,36778,Du,hartwig
+gdc,sj6v.0,36798,36954,hartwig,36808,36811,Ich,hartwig
+gdc,sj6v.0,36798,36954,hartwig,36829,36831,Du,steinkirch
+gdc,sj6v.0,36798,36954,hartwig,36865,36868,ich,hartwig
+gdc,sj6v.0,36798,36954,hartwig,36879,36882,mir,hartwig
+gdc,sj6v.0,36798,36954,hartwig,36894,36897,sie,ludmilla
+gdc,sj6v.0,36798,36954,hartwig,36908,36911,ich,hartwig
+gdc,sj6v.0,36798,36954,hartwig,36917,36920,ihr,ludmilla
+gdc,sj6v.0,36798,36954,hartwig,36928,36931,sie,ludmilla
+gdc,sj6v.0,36798,36954,hartwig,36941,36952,dieses Haus,meinem-Hause
+gdc,sj6v.0,36959,36993,steinkirch,36984,36992,Ludmilla,ludmilla
+gdc,sj6v.0,36998,37095,hartwig,37023,37026,sie,ludmilla
+gdc,sj6v.0,36998,37095,hartwig,37062,37065,ich,hartwig
+gdc,sj6v.0,36998,37095,hartwig,37082,37094,die Hausthür,die-Hausthür
+gdc,sj6v.0,37100,37337,steinkirch,37161,37164,sie,ludmilla
+gdc,sj6v.0,37100,37337,steinkirch,37173,37186,dritten Stock,dritten-Stock
+gdc,sj6v.0,37100,37337,steinkirch,37204,37207,ich,steinkirch
+gdc,sj6v.0,37100,37337,steinkirch,37250,37252,Du,hartwig
+gdc,sj6v.0,37100,37337,steinkirch,37315,37318,sie,ludmilla
+gdc,sj6v.0,37100,37337,steinkirch,37319,37322,Dir,hartwig
+gdc,sj6v.0,37342,37401,hartwig,37367,37370,ich,hartwig
+gdc,sj6v.0,37406,37466,steinkirch,37440,37443,ich,steinkirch
+gdc,sj6v.0,37406,37466,steinkirch,37444,37448,mich,steinkirch
+gdc,sj6v.0,37471,37532,hartwig,37489,37501,alter Freund,steinkirch
+gdc,sj6v.0,37471,37532,hartwig,37504,37507,wir,hartwig-und-steinkirch
+gdc,sj6v.0,37471,37532,hartwig,37515,37518,sie,ludmilla
+gdc,sj6v.0,37537,37604,steinkirch,37550,37553,Wir,hartwig-und-steinkirch
+gdc,sj6v.0,37537,37604,steinkirch,37561,37564,sie,ludmilla
+gdc,sj6v.0,37537,37604,steinkirch,37579,37584,Beide,hartwig-und-steinkirch
+gdc,sj6v.0,37537,37604,steinkirch,37594,37603,die Mitte,die-Mitte
+gdc,sj6v.0,37653,37670,_stage,37653,37659,Bertha,bertha
+gdc,sj6v.0,37653,37670,_stage,37661,37669,Ludmilla,ludmilla
+gdc,sj6v.0,37673,37783,bertha,37699,37701,Du,ludmilla
+gdc,sj6v.0,37673,37783,bertha,37734,37742,Ludmilla,ludmilla
+gdc,sj6v.0,37788,37939,ludmilla,37821,37823,Du,bertha
+gdc,sj6v.0,37788,37939,ludmilla,37834,37843,die Tante,wilhelmine
+gdc,sj6v.0,37788,37939,ludmilla,37846,37849,ich,ludmilla
+gdc,sj6v.0,37788,37939,ludmilla,37900,37903,ich,ludmilla
+gdc,sj6v.0,37944,37998,bertha,37953,37955,Du,ludmilla
+gdc,sj6v.0,38004,38114,ludmilla,38033,38035,Du,bertha
+gdc,sj6v.0,38004,38114,ludmilla,38036,38039,mir,ludmilla
+gdc,sj6v.0,38004,38114,ludmilla,38074,38076,Du,bertha
+gdc,sj6v.0,38119,38201,bertha,38128,38131,Ich,bertha
+gdc,sj6v.0,38119,38201,bertha,38160,38185,Kleine Wirthschaftssorgen,Kleine-Wirthschaftssorgen
+gdc,sj6v.0,38206,38316,ludmilla,38234,38236,Du,bertha
+gdc,sj6v.0,38206,38316,ludmilla,38264,38270,Bertha,bertha
+gdc,sj6v.0,38206,38316,ludmilla,38278,38281,ihr,bertha
+gdc,sj6v.0,38206,38316,ludmilla,38306,38315,die Mitte,die-Mitte
+gdc,sj6v.0,38322,38517,bertha,38356,38381,Kleine Wirthschaftssorgen,Kleine-Wirthschaftssorgen
+gdc,sj6v.0,38322,38517,bertha,38384,38387,das,Kleine-Wirthschaftssorgen
+gdc,sj6v.0,38322,38517,bertha,38393,38396,ich,bertha
+gdc,sj6v.0,38322,38517,bertha,38418,38422,mein,bertha
+gdc,sj6v.0,38322,38517,bertha,38445,38447,es,mein-Lebensglück
+gdc,sj6v.0,38322,38517,bertha,38448,38452,sich,mein-Lebensglück
+gdc,sj6v.0,38322,38517,bertha,38456,38472,mein Lebensglück,mein-Lebensglück
+gdc,sj6v.0,38322,38517,bertha,38456,38460,mein,bertha
+gdc,sj6v.0,38322,38517,bertha,38489,38508,meine ganze Zukunft,mein-Lebensglück
+gdc,sj6v.0,38322,38517,bertha,38489,38494,meine,bertha
+gdc,sj6v.0,38566,38585,_stage,38566,38576,Brimborius,brimborius
+gdc,sj6v.0,38566,38585,_stage,38578,38584,Bertha,bertha
+gdc,sj6v.0,38600,38616,_stage,38606,38615,die Mitte,die-Mitte
+gdc,sj6v.0,38588,38809,brimborius,38636,38646,Der Diener,diener
+gdc,sj6v.0,38588,38809,brimborius,38653,38656,mir,brimborius
+gdc,sj6v.0,38588,38809,brimborius,38662,38677,der Herr Doctor,scheffler
+gdc,sj6v.0,38588,38809,brimborius,38693,38702,mein Name,mein-Name
+gdc,sj6v.0,38588,38809,brimborius,38693,38697,mein,brimborius
+gdc,sj6v.0,38588,38809,brimborius,38707,38717,Brimborius,brimborius
+gdc,sj6v.0,38588,38809,brimborius,38719,38722,Ich,brimborius
+gdc,sj6v.0,38588,38809,brimborius,38744,38757,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,38588,38809,brimborius,38760,38763,Sie,bertha
+gdc,sj6v.0,38588,38809,brimborius,38782,38794,meinen Namen,mein-Name
+gdc,sj6v.0,38588,38809,brimborius,38782,38788,meinen,brimborius
+gdc,sj6v.0,38814,38842,bertha,38830,38833,Ich,bertha
+gdc,sj6v.0,38847,39138,brimborius,38860,38863,Ich,brimborius
+gdc,sj6v.0,38847,39138,brimborius,38871,38889,Ihren Herrn Gemahl,scheffler
+gdc,sj6v.0,38847,39138,brimborius,38871,38876,Ihren,bertha
+gdc,sj6v.0,38847,39138,brimborius,38926,38937,seiner Rede,meiner-Rede
+gdc,sj6v.0,38847,39138,brimborius,38926,38932,seiner,scheffler
+gdc,sj6v.0,38847,39138,brimborius,38953,38955,er,scheffler
+gdc,sj6v.0,38847,39138,brimborius,38965,39051,daß bei irgend einer Stelle einige Böllerschüsse oder Kanonenschläge im Garten losgehn,daß-bei-irgend-einer-Stelle-einige-Böllerschüsse-oder-Kanonenschläge-im-Garten-losgehn
+gdc,sj6v.0,38847,39138,brimborius,39019,39033,Kanonenschläge,Kanonenschläge
+gdc,sj6v.0,38847,39138,brimborius,39054,39057,das,daß-bei-irgend-einer-Stelle-einige-Böllerschüsse-oder-Kanonenschläge-im-Garten-losgehn
+gdc,sj6v.0,38847,39138,brimborius,39064,39068,sich,daß-bei-irgend-einer-Stelle-einige-Böllerschüsse-oder-Kanonenschläge-im-Garten-losgehn
+gdc,sj6v.0,38847,39138,brimborius,39102,39105,Sie,bertha
+gdc,sj6v.0,38847,39138,brimborius,39106,39109,mir,brimborius
+gdc,sj6v.0,38847,39138,brimborius,39121,39123,er,scheffler
+gdc,sj6v.0,39143,39212,bertha,39175,39178,Ich,bertha
+gdc,sj6v.0,39143,39212,bertha,39189,39207,die Kanonenschläge,Kanonenschläge
+gdc,sj6v.0,39217,39598,brimborius,39234,39237,Sie,bertha
+gdc,sj6v.0,39217,39598,brimborius,39247,39265,die Kanonenschläge,Kanonenschläge
+gdc,sj6v.0,39217,39598,brimborius,39276,39279,mir,brimborius
+gdc,sj6v.0,39217,39598,brimborius,39298,39301,ich,brimborius
+gdc,sj6v.0,39217,39598,brimborius,39302,39305,ihn,scheffler
+gdc,sj6v.0,39217,39598,brimborius,39341,39344,Sie,bertha
+gdc,sj6v.0,39217,39598,brimborius,39345,39349,sich,bertha
+gdc,sj6v.0,39217,39598,brimborius,39358,39369,Frau Doctor,bertha
+gdc,sj6v.0,39217,39598,brimborius,39376,39384,Ihr Mann,scheffler
+gdc,sj6v.0,39217,39598,brimborius,39376,39379,Ihr,bertha
+gdc,sj6v.0,39217,39598,brimborius,39385,39395,seine Rede,meiner-Rede
+gdc,sj6v.0,39217,39598,brimborius,39385,39390,seine,scheffler
+gdc,sj6v.0,39217,39598,brimborius,39408,39421,eine Kanonade,eine-Kanonade
+gdc,sj6v.0,39217,39598,brimborius,39439,39442,sie,eine-Kanonade
+gdc,sj6v.0,39217,39598,brimborius,39493,39496,Sie,bertha
+gdc,sj6v.0,39217,39598,brimborius,39497,39501,sich,bertha
+gdc,sj6v.0,39217,39598,brimborius,39506,39510,mich,brimborius
+gdc,sj6v.0,39217,39598,brimborius,39566,39577,Frau Doctor,bertha
+gdc,sj6v.0,39217,39598,brimborius,39588,39597,die Mitte,die-Mitte
+gdc,sj6v.0,39647,39670,_stage,39647,39653,Bertha,bertha
+gdc,sj6v.0,39647,39670,_stage,39660,39669,Scheffler,scheffler
+gdc,sj6v.0,39673,40018,bertha,39694,39709,die ganze Stadt,unsrer-Stadt
+gdc,sj6v.0,39673,40018,bertha,39737,39766,Dieses unselige Stiftungsfest,unserm-Fest
+gdc,sj6v.0,39673,40018,bertha,39769,39771,es,unserm-Fest
+gdc,sj6v.0,39673,40018,bertha,39800,39804,mein,bertha
+gdc,sj6v.0,39673,40018,bertha,39829,39832,ich,bertha
+gdc,sj6v.0,39673,40018,bertha,39870,39874,mich,bertha
+gdc,sj6v.0,39673,40018,bertha,39907,39910,ich,bertha
+gdc,sj6v.0,39673,40018,bertha,39924,39929,meine,bertha
+gdc,sj6v.0,39673,40018,bertha,39979,39988,Mein Mann,scheffler
+gdc,sj6v.0,39673,40018,bertha,39979,39983,Mein,bertha
+gdc,sj6v.0,39673,40018,bertha,40004,40017,Stiftungsfest,unserm-Fest
+gdc,sj6v.0,40034,40050,_stage,40040,40049,die Mitte,die-Mitte
+gdc,sj6v.0,40114,40185,scheffler,40126,40153,Das Zimmer im dritten Stock,ein-Zimmer2
+gdc,sj6v.0,40114,40185,scheffler,40140,40153,dritten Stock,dritten-Stock
+gdc,sj6v.0,40190,40273,bertha,40212,40232,Dein neuer Schreiber,steinkirch
+gdc,sj6v.0,40190,40273,bertha,40212,40216,Dein,scheffler
+gdc,sj6v.0,40190,40273,bertha,40250,40257,Gasthof,Gasthof
+gdc,sj6v.0,40278,40423,scheffler,40293,40300,Gasthof,Gasthof
+gdc,sj6v.0,40278,40423,scheffler,40322,40329,Gasthof,Gasthof
+gdc,sj6v.0,40278,40423,scheffler,40350,40369,des Stiftungsfestes,unserm-Fest
+gdc,sj6v.0,40278,40423,scheffler,40374,40377,ich,scheffler
+gdc,sj6v.0,40278,40423,scheffler,40392,40394,er,steinkirch
+gdc,sj6v.0,40278,40423,scheffler,40404,40407,uns,scheffler-und-bertha
+gdc,sj6v.0,40428,40563,bertha,40450,40453,ich,bertha
+gdc,sj6v.0,40428,40563,bertha,40471,40474,ich,bertha
+gdc,sj6v.0,40428,40563,bertha,40480,40484,Dich,scheffler
+gdc,sj6v.0,40428,40563,bertha,40501,40504,ich,bertha
+gdc,sj6v.0,40428,40563,bertha,40511,40514,Dir,scheffler
+gdc,sj6v.0,40428,40563,bertha,40540,40562,Deines Stiftungsfestes,unserm-Fest
+gdc,sj6v.0,40428,40563,bertha,40540,40546,Deines,scheffler
+gdc,sj6v.0,40579,40597,_stage,40583,40586,sie,bertha
+gdc,sj6v.0,40568,40613,scheffler,40605,40611,Bertha,bertha
+gdc,sj6v.0,40626,40645,_stage,40626,40629,ihn,scheffler
+gdc,sj6v.0,40618,40773,bertha,40655,40659,mein,bertha
+gdc,sj6v.0,40618,40773,bertha,40683,40686,ich,bertha
+gdc,sj6v.0,40618,40773,bertha,40695,40708,meinem Bruder,meinem-Bruder
+gdc,sj6v.0,40618,40773,bertha,40695,40701,meinem,bertha
+gdc,sj6v.0,40618,40773,bertha,40714,40723,Rosendorf,Rosendorf
+gdc,sj6v.0,40618,40773,bertha,40732,40735,Dir,scheffler
+gdc,sj6v.0,40779,40910,scheffler,40791,40832,Eine Frau das Haus ihres Mannes verlassen,Eine-Frau-das-Haus-ihres-Mannes-verlassen
+gdc,sj6v.0,40779,40910,scheffler,40791,40800,Eine Frau,bertha
+gdc,sj6v.0,40779,40910,scheffler,40801,40809,das Haus,meinem-Hause
+gdc,sj6v.0,40779,40910,scheffler,40810,40822,ihres Mannes,scheffler
+gdc,sj6v.0,40779,40910,scheffler,40810,40815,ihres,bertha
+gdc,sj6v.0,40779,40910,scheffler,40873,40876,sie,bertha
+gdc,sj6v.0,40779,40910,scheffler,40882,40884,es,Eine-Frau-das-Haus-ihres-Mannes-verlassen
+gdc,sj6v.0,40958,40980,_stage,40958,40968,Steinkirch,steinkirch
+gdc,sj6v.0,40958,40980,_stage,40970,40979,Scheffler,scheffler
+gdc,sj6v.0,40995,41011,_stage,41001,41010,die Mitte,die-Mitte
+gdc,sj6v.0,40983,41157,steinkirch,41013,41016,Sie,bertha
+gdc,sj6v.0,40983,41157,steinkirch,41031,41033,er,scheffler
+gdc,sj6v.0,40983,41157,steinkirch,41062,41079,seine Reisetasche,Reisetasche
+gdc,sj6v.0,40983,41157,steinkirch,41082,41085,die,Reisetasche
+gdc,sj6v.0,40983,41157,steinkirch,41095,41103,der Thür,die-Thür-rechts
+gdc,sj6v.0,40983,41157,steinkirch,41127,41138,Herr Doctor,scheffler
+gdc,sj6v.0,40983,41157,steinkirch,41141,41144,Sie,scheffler
+gdc,sj6v.0,41162,41246,scheffler,41174,41177,Ich,scheffler
+gdc,sj6v.0,41162,41246,scheffler,41202,41205,ich,scheffler
+gdc,sj6v.0,41162,41246,scheffler,41238,41241,Sie,steinkirch
+gdc,sj6v.0,41264,41304,_stage,41264,41274,die Tasche,Reisetasche
+gdc,sj6v.0,41252,41448,steinkirch,41324,41327,ich,steinkirch
+gdc,sj6v.0,41252,41448,steinkirch,41349,41367,Ihre Frau Gemahlin,bertha
+gdc,sj6v.0,41252,41448,steinkirch,41349,41353,Ihre,scheffler
+gdc,sj6v.0,41252,41448,steinkirch,41392,41395,ihr,bertha
+gdc,sj6v.0,41252,41448,steinkirch,41412,41425,einen Fremden,steinkirch
+gdc,sj6v.0,41453,41504,scheffler,41493,41496,Sie,steinkirch
+gdc,sj6v.0,41509,41602,steinkirch,41534,41537,Ich,steinkirch
+gdc,sj6v.0,41509,41602,steinkirch,41548,41551,mir,steinkirch
+gdc,sj6v.0,41509,41602,steinkirch,41583,41601,des Schreibtisches,den-Schreibtisch
+gdc,sj6v.0,41607,41756,scheffler,41652,41655,Ich,scheffler
+gdc,sj6v.0,41607,41756,scheffler,41660,41665,Ihnen,steinkirch
+gdc,sj6v.0,41607,41756,scheffler,41681,41691,meine Frau,bertha
+gdc,sj6v.0,41607,41756,scheffler,41681,41686,meine,scheffler
+gdc,sj6v.0,41607,41756,scheffler,41734,41746,ihrem Bruder,meinem-Bruder
+gdc,sj6v.0,41607,41756,scheffler,41734,41739,ihrem,bertha
+gdc,sj6v.0,41773,41787,_stage,41782,41786,sich,steinkirch
+gdc,sj6v.0,41828,41871,scheffler,41840,41843,Sie,bertha
+gdc,sj6v.0,41828,41871,scheffler,41860,41863,ihm,meinem-Bruder
+gdc,sj6v.0,41876,41960,steinkirch,41910,41913,ich,steinkirch
+gdc,sj6v.0,41876,41960,steinkirch,41937,41948,den Gasthof,Gasthof
+gdc,sj6v.0,41977,41989,_stage,41977,41980,ihn,steinkirch
+gdc,sj6v.0,41966,42070,scheffler,42013,42016,ich,scheffler
+gdc,sj6v.0,41966,42070,scheffler,42025,42028,Sie,steinkirch
+gdc,sj6v.0,41966,42070,scheffler,42034,42038,mein,scheffler
+gdc,sj6v.0,41966,42070,scheffler,42046,42049,ich,scheffler
+gdc,sj6v.0,41966,42070,scheffler,42058,42061,Sie,steinkirch
+gdc,sj6v.0,42105,42222,scheffler,42144,42155,meiner Frau,bertha
+gdc,sj6v.0,42105,42222,scheffler,42144,42150,meiner,scheffler
+gdc,sj6v.0,42105,42222,scheffler,42161,42164,ich,scheffler
+gdc,sj6v.0,42105,42222,scheffler,42165,42170,Ihnen,steinkirch
+gdc,sj6v.0,42105,42222,scheffler,42174,42186,meinem Hause,meinem-Hause
+gdc,sj6v.0,42105,42222,scheffler,42174,42180,meinem,scheffler
+gdc,sj6v.0,42227,42287,steinkirch,42252,42255,Sie,scheffler
+gdc,sj6v.0,42227,42287,steinkirch,42256,42260,mich,steinkirch
+gdc,sj6v.0,42227,42287,steinkirch,42264,42275,den Gasthof,Gasthof
+gdc,sj6v.0,42304,42319,_stage,42304,42307,ihn,steinkirch
+gdc,sj6v.0,42293,42383,scheffler,42353,42356,Ich,scheffler
+gdc,sj6v.0,42293,42383,scheffler,42363,42366,Sie,steinkirch
+gdc,sj6v.0,42293,42383,scheffler,42370,42382,meinem Oheim,bolzau
+gdc,sj6v.0,42293,42383,scheffler,42370,42376,meinem,scheffler
+gdc,sj6v.0,42388,42463,steinkirch,42404,42415,Ihrem Oheim,bolzau
+gdc,sj6v.0,42388,42463,steinkirch,42404,42409,Ihrem,scheffler
+gdc,sj6v.0,42388,42463,steinkirch,42434,42445,dessen Frau,wilhelmine
+gdc,sj6v.0,42388,42463,steinkirch,42434,42440,dessen,bolzau
+gdc,sj6v.0,42468,42525,scheffler,42480,42483,Sie,steinkirch
+gdc,sj6v.0,42530,42574,steinkirch,42543,42546,Ich,steinkirch
+gdc,sj6v.0,42580,42653,scheffler,42601,42626,des Commerzienrath Bolzau,bolzau
+gdc,sj6v.0,42658,42701,steinkirch,42691,42700,Ihr Oheim,bolzau
+gdc,sj6v.0,42658,42701,steinkirch,42691,42694,Ihr,scheffler
+gdc,sj6v.0,42706,42740,scheffler,42718,42739,Commerzienrath Bolzau,bolzau
+gdc,sj6v.0,42745,42778,steinkirch,42758,42760,Er,bolzau
+gdc,sj6v.0,42745,42778,steinkirch,42765,42776,eine Nichte,ludmilla
+gdc,sj6v.0,42812,42940,steinkirch,42849,42852,Ich,steinkirch
+gdc,sj6v.0,42812,42940,steinkirch,42859,42862,Ihr,scheffler
+gdc,sj6v.0,42812,42940,steinkirch,42878,42881,wir,scheffler-und-steinkirch
+gdc,sj6v.0,42812,42940,steinkirch,42890,42901,Ihrem Oheim,bolzau
+gdc,sj6v.0,42812,42940,steinkirch,42890,42895,Ihrem,scheffler
+gdc,sj6v.0,42812,42940,steinkirch,42919,42922,Sie,scheffler
+gdc,sj6v.0,42812,42940,steinkirch,42923,42926,uns,scheffler-und-steinkirch
+gdc,sj6v.0,42945,43074,scheffler,43021,43031,Meine Frau,bertha
+gdc,sj6v.0,42945,43074,scheffler,43021,43026,Meine,scheffler
+gdc,sj6v.0,42945,43074,scheffler,43055,43058,sie,bertha
+gdc,sj6v.0,43079,43111,steinkirch,43102,43105,Sie,scheffler
+gdc,sj6v.0,43116,43188,scheffler,43148,43151,Sie,steinkirch
+gdc,sj6v.0,43116,43188,scheffler,43153,43164,Herr Doctor,steinkirch
+gdc,sj6v.0,43116,43188,scheffler,43167,43187,sie fährt wahrhaftig,sie-fährt-wahrhaftig
+gdc,sj6v.0,43116,43188,scheffler,43167,43170,sie,bertha
+gdc,sj6v.0,43193,43220,steinkirch,43211,43214,ich,steinkirch
+gdc,sj6v.0,43225,43413,scheffler,43260,43263,mir,scheffler
+gdc,sj6v.0,43225,43413,scheffler,43274,43277,Sie,steinkirch
+gdc,sj6v.0,43225,43413,scheffler,43278,43280,es,sie-fährt-wahrhaftig
+gdc,sj6v.0,43225,43413,scheffler,43299,43302,sie,bertha
+gdc,sj6v.0,43225,43413,scheffler,43320,43324,sich,scheffler
+gdc,sj6v.0,43225,43413,scheffler,43343,43346,sie,bertha
+gdc,sj6v.0,43225,43413,scheffler,43351,43355,mich,scheffler
+gdc,sj6v.0,43225,43413,scheffler,43392,43395,Sie,bertha
+gdc,sj6v.0,43418,43502,steinkirch,43440,43443,sie,bertha
+gdc,sj6v.0,43418,43502,steinkirch,43480,43483,Sie,scheffler
+gdc,sj6v.0,43507,43653,scheffler,43531,43535,Sich,scheffler
+gdc,sj6v.0,43507,43653,scheffler,43570,43573,ich,scheffler
+gdc,sj6v.0,43658,43709,steinkirch,43679,43682,wir,scheffler-und-steinkirch
+gdc,sj6v.0,43658,43709,steinkirch,43692,43703,Ihrem Oheim,bolzau
+gdc,sj6v.0,43658,43709,steinkirch,43692,43697,Ihrem,scheffler
+gdc,sj6v.0,43714,43837,scheffler,43781,43786,Onkel,bolzau
+gdc,sj6v.0,43714,43837,scheffler,43788,43793,Beide,scheffler-und-steinkirch
+gdc,sj6v.0,43714,43837,scheffler,43801,43805,sich,scheffler-und-steinkirch
+gdc,sj6v.0,43921,44202,bolzau,44016,44019,Ich,bolzau
+gdc,sj6v.0,44294,44348,bolzau,44312,44316,mein,bolzau
+gdc,sj6v.0,44294,44348,bolzau,44328,44333,meine,bolzau
+gdc,sj6v.0,44412,44675,bolzau,44603,44607,mein,bolzau
+gdc,sj6v.0,44412,44675,bolzau,44639,44645,meiner,bolzau
+gdc,sj6v.0,44680,44732,wilhelmine,44693,44696,Ich,wilhelmine
+gdc,sj6v.0,45262,45328,wilhelmine,45279,45282,ich,wilhelmine
+gdc,sj6v.0,45708,45758,bolzau,45734,45737,ich,bolzau
+gdc,sj6v.0,45835,45900,bolzau,45885,45889,mich,bolzau
+gdc,sj6v.0,45905,46091,wilhelmine,45998,46001,ich,wilhelmine
+gdc,sj6v.0,46172,46312,wilhelmine,46185,46188,Ich,wilhelmine
+gdc,sj6v.0,46172,46312,wilhelmine,46196,46200,mich,wilhelmine
+gdc,sj6v.0,46172,46312,wilhelmine,46207,46210,ich,wilhelmine
+gdc,sj6v.0,46172,46312,wilhelmine,46296,46299,ich,wilhelmine
+gdc,sj6v.0,46745,46816,bolzau,46788,46791,ich,bolzau
+gdc,sj6v.0,46885,47018,bolzau,46931,46934,mir,bolzau
+gdc,sj6v.0,47301,47577,bolzau,47392,47395,ich,bolzau
+gdc,sj6v.0,47301,47577,bolzau,47507,47510,ich,bolzau
+gdc,sj6v.0,47583,47681,wilhelmine,47620,47624,mein,wilhelmine
+gdc,sj6v.0,47583,47681,wilhelmine,47664,47667,mir,wilhelmine
+gdc,sj6v.0,47804,47896,wilhelmine,47863,47866,mir,wilhelmine
+gdc,sj6v.0,47932,48055,wilhelmine,47955,47958,ich,wilhelmine
+gdc,sj6v.0,48150,48433,wilhelmine,48174,48179,meine,wilhelmine
+gdc,sj6v.0,48150,48433,wilhelmine,48214,48217,ich,wilhelmine
+gdc,sj6v.0,48150,48433,wilhelmine,48228,48231,ich,wilhelmine
+gdc,sj6v.0,48150,48433,wilhelmine,48347,48350,Ich,wilhelmine
+gdc,sj6v.0,48150,48433,wilhelmine,48400,48405,meine,wilhelmine
+gdc,sj6v.0,48550,48701,wilhelmine,48572,48575,Ich,wilhelmine
+gdc,sj6v.0,48550,48701,wilhelmine,48611,48615,mein,wilhelmine
+gdc,sj6v.0,48550,48701,wilhelmine,48682,48685,mir,wilhelmine
+gdc,sj6v.0,48706,48915,bolzau,48742,48745,Ich,bolzau
+gdc,sj6v.0,48706,48915,bolzau,48846,48849,ich,bolzau
+gdc,sj6v.0,48957,49016,bolzau,48989,48992,ich,bolzau
+gdc,sj6v.0,49231,49317,ludmilla,49277,49280,ich,ludmilla
+gdc,sj6v.0,49385,49501,ludmilla,49396,49399,Ich,ludmilla
+gdc,sj6v.0,49385,49501,ludmilla,49485,49488,ich,ludmilla
+gdc,sj6v.0,49789,49854,ludmilla,49836,49839,mir,ludmilla
+gdc,sj6v.0,49932,50131,bolzau,50000,50004,mein,bolzau
+gdc,sj6v.0,49932,50131,bolzau,50039,50044,meine,bolzau
+gdc,sj6v.0,49932,50131,bolzau,50053,50057,mein,bolzau
+gdc,sj6v.0,50136,50242,wilhelmine,50222,50227,meine,wilhelmine
+gdc,sj6v.0,50247,50338,bolzau,50261,50264,mir,bolzau
+gdc,sj6v.0,50834,50879,bolzau,50850,50853,Ich,bolzau
+gdc,sj6v.0,51111,51215,bolzau,51125,51128,ich,bolzau
+gdc,sj6v.0,51614,51669,bolzau,51643,51646,ich,bolzau
+gdc,sj6v.0,51675,52006,schuake,51736,51739,ich,schuake
+gdc,sj6v.0,51675,52006,schuake,51870,51873,ich,schuake
+gdc,sj6v.0,51675,52006,schuake,51990,51993,ich,schuake
+gdc,sj6v.0,52011,52069,bolzau,52041,52044,Ich,bolzau
+gdc,sj6v.0,52011,52069,bolzau,52054,52059,meine,bolzau
+gdc,sj6v.0,52383,52433,bolzau,52403,52406,ich,bolzau
+gdc,sj6v.0,52464,52541,wilhelmine,52524,52527,ich,wilhelmine
+gdc,sj6v.0,52803,53046,schuake,52843,52846,ich,schuake
+gdc,sj6v.0,52803,53046,schuake,52883,52886,mir,schuake
+gdc,sj6v.0,53285,53536,bolzau,53302,53305,mir,bolzau
+gdc,sj6v.0,53285,53536,bolzau,53436,53439,mir,bolzau
+gdc,sj6v.0,53542,53695,wilhelmine,53555,53558,Ich,wilhelmine
+gdc,sj6v.0,53542,53695,wilhelmine,53581,53584,ich,wilhelmine
+gdc,sj6v.0,53542,53695,wilhelmine,53595,53599,mich,wilhelmine
+gdc,sj6v.0,53700,53776,ludmilla,53715,53718,ich,ludmilla
+gdc,sj6v.0,53700,53776,ludmilla,53725,53729,mich,ludmilla
+gdc,sj6v.0,54097,54199,brimborius,54159,54164,Meine,brimborius
+gdc,sj6v.0,54097,54199,brimborius,54173,54177,mich,brimborius
+gdc,sj6v.0,54288,54327,brimborius,54301,54304,Ich,brimborius
+gdc,sj6v.0,54377,54487,brimborius,54398,54401,ich,brimborius
+gdc,sj6v.0,54492,54505,bolzau,54501,54504,Ich,bolzau
+gdc,sj6v.0,54510,54581,brimborius,54543,54546,ich,brimborius
+gdc,sj6v.0,54586,54683,bolzau,54639,54643,mich,bolzau
+gdc,sj6v.0,54586,54683,bolzau,54660,54663,ich,bolzau
+gdc,sj6v.0,54869,55057,bolzau,54882,54885,ich,bolzau
+gdc,sj6v.0,54869,55057,bolzau,55035,55038,Ich,bolzau
+gdc,sj6v.0,55226,55250,bolzau,55235,55238,Ich,bolzau
+gdc,sj6v.0,55255,55315,brimborius,55287,55290,ich,brimborius
+gdc,sj6v.0,55412,55649,bolzau,55454,55457,ich,bolzau
+gdc,sj6v.0,55412,55649,bolzau,55504,55507,mir,bolzau
+gdc,sj6v.0,55412,55649,bolzau,55569,55572,ich,bolzau
+gdc,sj6v.0,55687,55762,brimborius,55715,55720,meine,brimborius
+gdc,sj6v.0,55862,55970,bolzau,55932,55935,ich,bolzau
+gdc,sj6v.0,56246,56324,brimborius,56272,56275,ich,brimborius
+gdc,sj6v.0,56329,56391,bolzau,56358,56361,mir,bolzau
+gdc,sj6v.0,56551,56635,bolzau,56609,56613,mich,bolzau
+gdc,sj6v.0,56551,56635,bolzau,56618,56621,Ich,bolzau
+gdc,sj6v.0,56723,56814,bolzau,56754,56757,ich,bolzau
+gdc,sj6v.0,57180,57351,bolzau,57221,57224,Ich,bolzau
+gdc,sj6v.0,57180,57351,bolzau,57233,57237,mein,bolzau
+gdc,sj6v.0,57180,57351,bolzau,57257,57260,mir,bolzau
+gdc,sj6v.0,57518,57702,bolzau,57569,57573,mich,bolzau
+gdc,sj6v.0,57518,57702,bolzau,57600,57603,ich,bolzau
+gdc,sj6v.0,57860,57947,bolzau,57908,57913,Meine,bolzau
+gdc,sj6v.0,57983,58023,bertha,58000,58003,ich,bertha
+gdc,sj6v.0,58104,58196,bertha,58125,58128,Ich,bertha
+gdc,sj6v.0,58104,58196,bertha,58158,58162,mich,bertha
+gdc,sj6v.0,58201,58246,bolzau,58228,58232,mein,bolzau
+gdc,sj6v.0,58251,58323,bertha,58287,58290,ich,bertha
+gdc,sj6v.0,58251,58323,bertha,58297,58303,meinen,bertha
+gdc,sj6v.0,58360,58419,bertha,58388,58393,meine,bertha
+gdc,sj6v.0,58449,58528,bertha,58472,58475,ich,bertha
+gdc,sj6v.0,58449,58528,bertha,58501,58504,ich,bertha
+gdc,sj6v.0,58600,58692,bertha,58609,58613,Mein,bertha
+gdc,sj6v.0,58748,58832,bertha,58771,58777,meinen,bertha
+gdc,sj6v.0,58748,58832,bertha,58798,58801,mir,bertha
+gdc,sj6v.0,58837,59085,bolzau,58900,58905,meine,bolzau
+gdc,sj6v.0,58837,59085,bolzau,58997,59000,mir,bolzau
+gdc,sj6v.0,59090,59178,bertha,59133,59136,mir,bertha
+gdc,sj6v.0,59393,59558,bolzau,59498,59501,ich,bolzau
+gdc,sj6v.0,59770,59924,scheffler,59813,59816,ich,scheffler
+gdc,sj6v.0,59770,59924,scheffler,59880,59883,Ich,scheffler
+gdc,sj6v.0,60048,60178,scheffler,60092,60098,meinen,scheffler
+gdc,sj6v.0,60048,60178,scheffler,60117,60121,mich,scheffler
+gdc,sj6v.0,60242,61007,scheffler,60257,60260,ich,scheffler
+gdc,sj6v.0,60242,61007,scheffler,60302,60308,meiner,scheffler
+gdc,sj6v.0,60242,61007,scheffler,60352,60355,Ich,scheffler
+gdc,sj6v.0,60242,61007,scheffler,60836,60841,meine,scheffler
+gdc,sj6v.0,60242,61007,scheffler,60891,60894,mir,scheffler
+gdc,sj6v.0,60242,61007,scheffler,60941,60944,ich,scheffler
+gdc,sj6v.0,61148,61295,bolzau,61266,61269,mir,bolzau
+gdc,sj6v.0,61350,61431,bolzau,61392,61395,ich,bolzau
+gdc,sj6v.0,61350,61431,bolzau,61410,61413,ich,bolzau
+gdc,sj6v.0,61436,61549,scheffler,61448,61451,Ich,scheffler
+gdc,sj6v.0,61554,61601,bolzau,61584,61587,mir,bolzau
+gdc,sj6v.0,61606,61677,scheffler,61665,61668,mir,scheffler
+gdc,sj6v.0,61682,61717,bolzau,61695,61698,mir,bolzau
+gdc,sj6v.0,61861,61925,bolzau,61870,61873,Ich,bolzau
+gdc,sj6v.0,61931,62017,scheffler,61985,61990,meine,scheffler
+gdc,sj6v.0,62333,62454,scheffler,62360,62366,meiner,scheffler
+gdc,sj6v.0,62333,62454,scheffler,62377,62380,ich,scheffler
+gdc,sj6v.0,62333,62454,scheffler,62408,62411,mir,scheffler
+gdc,sj6v.0,62333,62454,scheffler,62437,62440,ich,scheffler
+gdc,sj6v.0,62459,62512,bolzau,62476,62479,mir,bolzau
+gdc,sj6v.0,62517,62616,scheffler,62549,62552,Ich,scheffler
+gdc,sj6v.0,62517,62616,scheffler,62601,62604,ich,scheffler
+gdc,sj6v.0,62621,62698,bolzau,62686,62689,mir,bolzau
+gdc,sj6v.0,62703,62751,scheffler,62715,62720,Meine,scheffler
+gdc,sj6v.0,62756,62835,bolzau,62765,62768,Ich,bolzau
+gdc,sj6v.0,62840,62864,scheffler,62852,62858,Meinen,scheffler
+gdc,sj6v.0,62992,63278,bolzau,63051,63054,ich,bolzau
+gdc,sj6v.0,62992,63278,bolzau,63176,63179,ich,bolzau
+gdc,sj6v.0,62992,63278,bolzau,63244,63248,mein,bolzau
+gdc,sj6v.0,63284,63446,scheffler,63326,63329,ich,scheffler
+gdc,sj6v.0,63284,63446,scheffler,63382,63385,ich,scheffler
+gdc,sj6v.0,63284,63446,scheffler,63399,63404,meine,scheffler
+gdc,sj6v.0,63516,63593,hartwig,63538,63542,mein,hartwig
+gdc,sj6v.0,63718,63760,scheffler,63751,63754,ich,scheffler
+gdc,sj6v.0,64242,64310,scheffler,64269,64272,ich,scheffler
+gdc,sj6v.0,64315,64490,hartwig,64330,64333,ich,hartwig
+gdc,sj6v.0,64315,64490,hartwig,64339,64345,meinen,hartwig
+gdc,sj6v.0,64315,64490,hartwig,64374,64377,ich,hartwig
+gdc,sj6v.0,64315,64490,hartwig,64433,64437,Mein,hartwig
+gdc,sj6v.0,64625,64837,hartwig,64635,64638,Ich,hartwig
+gdc,sj6v.0,64625,64837,hartwig,64681,64684,ich,hartwig
+gdc,sj6v.0,64625,64837,hartwig,64788,64793,Meine,hartwig
+gdc,sj6v.0,64874,65051,hartwig,64892,64896,mich,hartwig
+gdc,sj6v.0,64874,65051,hartwig,64979,64982,ich,hartwig
+gdc,sj6v.0,64874,65051,hartwig,64988,64994,meinen,hartwig
+gdc,sj6v.0,64874,65051,hartwig,65011,65014,ich,hartwig
+gdc,sj6v.0,65097,65385,hartwig,65128,65131,ich,hartwig
+gdc,sj6v.0,65097,65385,hartwig,65258,65262,mich,hartwig
+gdc,sj6v.0,65097,65385,hartwig,65287,65290,ich,hartwig
+gdc,sj6v.0,65097,65385,hartwig,65369,65372,ich,hartwig
+gdc,sj6v.0,65419,65546,hartwig,65462,65465,ich,hartwig
+gdc,sj6v.0,65551,65607,scheffler,65584,65587,ich,scheffler
+gdc,sj6v.0,65612,66189,hartwig,65637,65640,Ich,hartwig
+gdc,sj6v.0,65612,66189,hartwig,65854,65857,ich,hartwig
+gdc,sj6v.0,65612,66189,hartwig,65871,65874,ich,hartwig
+gdc,sj6v.0,65612,66189,hartwig,65940,65946,meinen,hartwig
+gdc,sj6v.0,65612,66189,hartwig,65977,65980,ich,hartwig
+gdc,sj6v.0,65612,66189,hartwig,65981,65987,meiner,hartwig
+gdc,sj6v.0,65612,66189,hartwig,65995,66001,meinem,hartwig
+gdc,sj6v.0,65612,66189,hartwig,66065,66068,ich,hartwig
+gdc,sj6v.0,65612,66189,hartwig,66163,66166,mir,hartwig
+gdc,sj6v.0,66415,66450,schuake,66439,66442,ich,schuake
+gdc,sj6v.0,66591,66738,schuake,66630,66633,ich,schuake
+gdc,sj6v.0,66591,66738,schuake,66634,66638,mich,schuake
+gdc,sj6v.0,66782,66931,schuake,66870,66873,ich,schuake
+gdc,sj6v.0,66968,67073,schuake,67036,67039,ich,schuake
+gdc,sj6v.0,67103,67304,schuake,67135,67138,ich,schuake
+gdc,sj6v.0,67103,67304,schuake,67279,67282,ich,schuake
+gdc,sj6v.0,67379,67635,schuake,67548,67551,ich,schuake
+gdc,sj6v.0,67661,67813,schuake,67671,67674,Ich,schuake
+gdc,sj6v.0,67818,67838,hartwig,67828,67831,Ich,hartwig
+gdc,sj6v.0,67843,67976,schuake,67870,67873,ich,schuake
+gdc,sj6v.0,68031,68394,schuake,68106,68109,mir,schuake
+gdc,sj6v.0,68031,68394,schuake,68261,68264,ich,schuake
+gdc,sj6v.0,68031,68394,schuake,68265,68269,mich,schuake
+gdc,sj6v.0,68031,68394,schuake,68332,68336,mich,schuake
+gdc,sj6v.0,68031,68394,schuake,68346,68351,meine,schuake
+gdc,sj6v.0,68031,68394,schuake,68369,68373,mich,schuake
+gdc,sj6v.0,68400,68546,hartwig,68516,68520,mich,hartwig
+gdc,sj6v.0,68632,68684,scheffler,68654,68657,mir,scheffler
+gdc,sj6v.0,68748,68766,hartwig,68762,68765,mir,hartwig
+gdc,sj6v.0,68771,68844,scheffler,68783,68786,Ich,scheffler
+gdc,sj6v.0,68850,69178,hartwig,68897,68900,ich,hartwig
+gdc,sj6v.0,68850,69178,hartwig,69037,69040,Ich,hartwig
+gdc,sj6v.0,69284,69457,bolzau,69390,69395,meine,bolzau
+gdc,sj6v.0,69578,69967,hartwig,69607,69610,ich,hartwig
+gdc,sj6v.0,69578,69967,hartwig,69665,69668,ich,hartwig
+gdc,sj6v.0,69578,69967,hartwig,69745,69748,ich,hartwig
+gdc,sj6v.0,69578,69967,hartwig,69792,69796,mich,hartwig
+gdc,sj6v.0,69973,70081,bolzau,70061,70066,meine,bolzau
+gdc,sj6v.0,70086,70153,hartwig,70102,70106,mich,hartwig
+gdc,sj6v.0,70158,70198,bolzau,70176,70181,meine,bolzau
+gdc,sj6v.0,70430,70521,wilhelmine,70453,70456,mir,wilhelmine
+gdc,sj6v.0,70758,70789,bolzau,70779,70783,mein,bolzau
+gdc,sj6v.0,70868,70959,wilhelmine,70881,70884,Ich,wilhelmine
+gdc,sj6v.0,71725,71935,bolzau,71789,71792,ich,bolzau
+gdc,sj6v.0,71941,72057,hartwig,72018,72021,ich,hartwig
+gdc,sj6v.0,72095,72232,hartwig,72162,72165,Ich,hartwig
+gdc,sj6v.0,72268,72558,hartwig,72360,72363,ich,hartwig
+gdc,sj6v.0,72268,72558,hartwig,72393,72396,ich,hartwig
+gdc,sj6v.0,72563,72612,bolzau,72599,72602,ich,bolzau
+gdc,sj6v.0,72617,73524,hartwig,72881,72884,Ich,hartwig
+gdc,sj6v.0,72617,73524,hartwig,72891,72894,mir,hartwig
+gdc,sj6v.0,72617,73524,hartwig,72954,72957,ich,hartwig
+gdc,sj6v.0,72617,73524,hartwig,73096,73099,ich,hartwig
+gdc,sj6v.0,72617,73524,hartwig,73196,73199,ich,hartwig
+gdc,sj6v.0,72617,73524,hartwig,73307,73310,Ich,hartwig
+gdc,sj6v.0,72617,73524,hartwig,73340,73343,ich,hartwig
+gdc,sj6v.0,74129,74210,bolzau,74138,74141,Ich,bolzau
+gdc,sj6v.0,74129,74210,bolzau,74172,74175,ich,bolzau
+gdc,sj6v.0,74216,74369,wilhelmine,74263,74266,ich,wilhelmine
+gdc,sj6v.0,74216,74369,wilhelmine,74280,74283,ich,wilhelmine
+gdc,sj6v.0,74374,74632,bolzau,74408,74412,mein,bolzau
+gdc,sj6v.0,74374,74632,bolzau,74480,74483,Ich,bolzau
+gdc,sj6v.0,74374,74632,bolzau,74524,74530,meiner,bolzau
+gdc,sj6v.0,74857,75222,hartwig,74927,74932,Meine,hartwig
+gdc,sj6v.0,74857,75222,hartwig,74965,74969,mich,hartwig
+gdc,sj6v.0,74857,75222,hartwig,75024,75027,ich,hartwig
+gdc,sj6v.0,75286,75392,hartwig,75378,75382,mein,hartwig
+gdc,sj6v.0,75397,75492,ludmilla,75457,75461,mein,ludmilla
+gdc,sj6v.0,75616,75652,hartwig,75638,75642,mein,hartwig
+gdc,sj6v.0,75721,75951,hartwig,75731,75734,Ich,hartwig
+gdc,sj6v.0,75721,75951,hartwig,75783,75788,meine,hartwig
+gdc,sj6v.0,75721,75951,hartwig,75802,75805,ich,hartwig
+gdc,sj6v.0,75721,75951,hartwig,75880,75883,ich,hartwig
+gdc,sj6v.0,76046,76116,hartwig,76084,76087,mir,hartwig
+gdc,sj6v.0,76151,76241,hartwig,76161,76165,Mein,hartwig
+gdc,sj6v.0,76151,76241,hartwig,76212,76215,mir,hartwig
+gdc,sj6v.0,76280,76379,hartwig,76330,76333,ich,hartwig
+gdc,sj6v.0,76574,76801,hartwig,76584,76587,Ich,hartwig
+gdc,sj6v.0,76574,76801,hartwig,76633,76638,meine,hartwig
+gdc,sj6v.0,76862,77035,hartwig,76924,76928,mein,hartwig
+gdc,sj6v.0,76862,77035,hartwig,76984,76987,Ich,hartwig
+gdc,sj6v.0,77246,77352,hartwig,77288,77291,ich,hartwig
+gdc,sj6v.0,77246,77352,hartwig,77331,77334,ich,hartwig
+gdc,sj6v.0,77246,77352,hartwig,77335,77339,mich,hartwig
+gdc,sj6v.0,77357,77448,ludmilla,77382,77385,Ich,ludmilla
+gdc,sj6v.0,77454,77529,hartwig,77515,77518,mir,hartwig
+gdc,sj6v.0,77675,77735,hartwig,77688,77691,ich,hartwig
+gdc,sj6v.0,77806,78010,hartwig,77829,77833,mein,hartwig
+gdc,sj6v.0,78120,78526,bertha,78133,78136,ich,bertha
+gdc,sj6v.0,78120,78526,bertha,78142,78145,mir,bertha
+gdc,sj6v.0,78593,78630,bertha,78602,78605,Ich,bertha
+gdc,sj6v.0,78693,78864,bertha,78702,78705,Mir,bertha
+gdc,sj6v.0,78869,79005,hartwig,78882,78886,mein,hartwig
+gdc,sj6v.0,79010,79100,bertha,79039,79042,ich,bertha
+gdc,sj6v.0,79010,79100,bertha,79081,79087,meiner,bertha
+gdc,sj6v.0,79344,79468,bertha,79353,79356,Ich,bertha
+gdc,sj6v.0,79344,79468,bertha,79370,79373,mir,bertha
+gdc,sj6v.0,79344,79468,bertha,79390,79393,ich,bertha
+gdc,sj6v.0,79344,79468,bertha,79454,79457,mir,bertha
+gdc,sj6v.0,79569,79608,hartwig,79591,79594,Ich,hartwig
+gdc,sj6v.0,79613,79662,bertha,79638,79641,ich,bertha
+gdc,sj6v.0,79667,79715,hartwig,79697,79702,meine,hartwig
+gdc,sj6v.0,79785,79854,hartwig,79807,79811,Mein,hartwig
+gdc,sj6v.0,79860,79929,bertha,79880,79883,ich,bertha
+gdc,sj6v.0,79860,79929,bertha,79918,79922,mich,bertha
+gdc,sj6v.0,79978,80062,bertha,79996,79999,mir,bertha
+gdc,sj6v.0,79978,80062,bertha,80018,80024,meinem,bertha
+gdc,sj6v.0,80067,80706,hartwig,80188,80191,ich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80193,80197,mein,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80239,80243,mein,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80269,80272,ich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80312,80316,mich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80354,80358,mich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80403,80407,mich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80432,80435,ich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80473,80476,ich,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80483,80488,meine,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80643,80647,mein,hartwig
+gdc,sj6v.0,80067,80706,hartwig,80684,80688,mich,hartwig
+gdc,sj6v.0,80749,80798,hartwig,80772,80775,mir,hartwig
+gdc,sj6v.0,80803,80971,bertha,80837,80841,mein,bertha
+gdc,sj6v.0,80803,80971,bertha,80860,80863,ich,bertha
+gdc,sj6v.0,80977,81189,hartwig,81034,81037,mir,hartwig
+gdc,sj6v.0,80977,81189,hartwig,81082,81085,ich,hartwig
+gdc,sj6v.0,80977,81189,hartwig,81155,81158,ich,hartwig
+gdc,sj6v.0,81334,81405,hartwig,81380,81383,ich,hartwig
+gdc,sj6v.0,81570,81753,hartwig,81681,81684,ich,hartwig
+gdc,sj6v.0,81570,81753,hartwig,81728,81732,mich,hartwig
+gdc,sj6v.0,81938,82242,wilhelmine,82073,82076,ich,wilhelmine
+gdc,sj6v.0,82248,82777,bolzau,82294,82298,mich,bolzau
+gdc,sj6v.0,82248,82777,bolzau,82490,82493,ich,bolzau
+gdc,sj6v.0,82248,82777,bolzau,82533,82537,mein,bolzau
+gdc,sj6v.0,82848,82963,scheffler,82922,82925,ich,scheffler
+gdc,sj6v.0,82969,83073,bolzau,82978,82982,Mich,bolzau
+gdc,sj6v.0,82969,83073,bolzau,83030,83033,Ich,bolzau
+gdc,sj6v.0,83078,83122,scheffler,83090,83093,Ich,scheffler
+gdc,sj6v.0,83176,83297,scheffler,83243,83246,ich,scheffler
+gdc,sj6v.0,83302,83413,bolzau,83330,83333,ich,bolzau
+gdc,sj6v.0,83302,83413,bolzau,83368,83371,ich,bolzau
+gdc,sj6v.0,83418,83462,scheffler,83430,83433,Ich,scheffler
+gdc,sj6v.0,83467,83542,bolzau,83484,83487,ich,bolzau
+gdc,sj6v.0,83467,83542,bolzau,83527,83530,mir,bolzau
+gdc,sj6v.0,83547,83673,scheffler,83568,83571,ich,scheffler
+gdc,sj6v.0,83547,83673,scheffler,83576,83582,meiner,scheffler
+gdc,sj6v.0,83547,83673,scheffler,83597,83600,mir,scheffler
+gdc,sj6v.0,83547,83673,scheffler,83656,83659,ich,scheffler
+gdc,sj6v.0,84336,84533,brimborius,84430,84433,Ich,brimborius
+gdc,sj6v.0,84808,84879,bolzau,84842,84845,ich,bolzau
+gdc,sj6v.0,85273,85377,scheffler,85322,85327,meine,scheffler
+gdc,sj6v.0,85545,85735,bolzau,85565,85568,ich,bolzau
+gdc,sj6v.0,85545,85735,bolzau,85646,85649,Ich,bolzau
+gdc,sj6v.0,85545,85735,bolzau,85656,85660,mich,bolzau
+gdc,sj6v.0,85545,85735,bolzau,85664,85668,mein,bolzau
+gdc,sj6v.0,85545,85735,bolzau,85706,85710,mich,bolzau
+gdc,sj6v.0,85897,85910,bolzau,85906,85909,Ich,bolzau
+gdc,sj6v.0,86064,86102,bolzau,86077,86080,mir,bolzau
+gdc,sj6v.0,86202,86261,bolzau,86211,86215,Mein,bolzau
+gdc,sj6v.0,86266,86466,wilhelmine,86295,86298,Ich,wilhelmine
+gdc,sj6v.0,86471,86549,bolzau,86503,86506,ich,bolzau
+gdc,sj6v.0,86611,86735,bolzau,86666,86669,ich,bolzau
+gdc,sj6v.0,86740,87063,wilhelmine,86753,86756,Ich,wilhelmine
+gdc,sj6v.0,86740,87063,wilhelmine,86804,86807,ich,wilhelmine
+gdc,sj6v.0,86740,87063,wilhelmine,86810,86813,ich,wilhelmine
+gdc,sj6v.0,86740,87063,wilhelmine,86867,86870,ich,wilhelmine
+gdc,sj6v.0,86740,87063,wilhelmine,86965,86968,ich,wilhelmine
+gdc,sj6v.0,86740,87063,wilhelmine,86993,86997,mich,wilhelmine
+gdc,sj6v.0,87068,87105,bolzau,87089,87092,ich,bolzau
+gdc,sj6v.0,87194,87309,wilhelmine,87207,87210,Ich,wilhelmine
+gdc,sj6v.0,87194,87309,wilhelmine,87217,87221,mich,wilhelmine
+gdc,sj6v.0,87194,87309,wilhelmine,87253,87256,ich,wilhelmine
+gdc,sj6v.0,87341,87455,wilhelmine,87376,87379,mir,wilhelmine
+gdc,sj6v.0,87687,87733,bolzau,87705,87708,mir,bolzau
+gdc,sj6v.0,87738,87870,steinkirch,87751,87754,Ich,steinkirch
+gdc,sj6v.0,87738,87870,steinkirch,87783,87787,mich,steinkirch
+gdc,sj6v.0,87738,87870,steinkirch,87840,87843,ich,steinkirch
+gdc,sj6v.0,87956,88012,steinkirch,87980,87984,mich,steinkirch
+gdc,sj6v.0,88017,88174,ludmilla,88060,88063,ich,ludmilla
+gdc,sj6v.0,88180,88227,steinkirch,88213,88217,mein,steinkirch
+gdc,sj6v.0,88327,88405,bolzau,88353,88358,meine,bolzau
+gdc,sj6v.0,88410,88518,steinkirch,88504,88508,mein,steinkirch
+gdc,sj6v.0,88636,88718,bolzau,88678,88681,ich,bolzau
+gdc,sj6v.0,88880,89047,wilhelmine,88959,88962,ich,wilhelmine
+gdc,sj6v.0,89155,89319,bolzau,89240,89243,ich,bolzau
+gdc,sj6v.0,89627,89698,wilhelmine,89640,89643,Ich,wilhelmine
+gdc,sj6v.0,90096,90145,ludmilla,90107,90110,Ich,ludmilla
+gdc,sj6v.0,90192,90247,bolzau,90209,90212,ich,bolzau
+gdc,sj6v.0,90417,90514,ludmilla,90456,90459,Ich,ludmilla
+gdc,sj6v.0,90519,90641,steinkirch,90606,90610,mich,steinkirch
+gdc,sj6v.0,90519,90641,steinkirch,90615,90618,ich,steinkirch
+gdc,sj6v.0,90679,90827,steinkirch,90702,90705,mir,steinkirch
+gdc,sj6v.0,90679,90827,steinkirch,90734,90737,ich,steinkirch
+gdc,sj6v.0,90679,90827,steinkirch,90790,90793,mir,steinkirch
+gdc,sj6v.0,90856,91023,steinkirch,90935,90938,Ich,steinkirch
+gdc,sj6v.0,91373,91470,steinkirch,91454,91457,Ich,steinkirch
+gdc,sj6v.0,91592,91669,steinkirch,91651,91657,meines,steinkirch
+gdc,sj6v.0,91674,91739,ludmilla,91699,91702,mir,ludmilla
+gdc,sj6v.0,91744,91902,steinkirch,91774,91777,mir,steinkirch
+gdc,sj6v.0,91744,91902,steinkirch,91802,91806,mich,steinkirch
+gdc,sj6v.0,91907,91961,ludmilla,91927,91930,ich,ludmilla
+gdc,sj6v.0,92147,92174,ludmilla,92158,92161,Ich,ludmilla
+gdc,sj6v.0,92147,92174,ludmilla,92170,92173,ich,ludmilla
+gdc,sj6v.0,92179,92201,steinkirch,92197,92200,ich,steinkirch
+gdc,sj6v.0,92366,92408,steinkirch,92379,92382,Ich,steinkirch
+gdc,sj6v.0,92491,92609,steinkirch,92561,92564,ich,steinkirch
+gdc,sj6v.0,92840,92888,steinkirch,92857,92860,mir,steinkirch
+gdc,sj6v.0,92893,92955,ludmilla,92929,92932,ich,ludmilla
+gdc,sj6v.0,92961,93049,steinkirch,92983,92986,Mir,steinkirch
+gdc,sj6v.0,92961,93049,steinkirch,93022,93025,ich,steinkirch
+gdc,sj6v.0,93054,93092,ludmilla,93065,93069,Mein,ludmilla
+gdc,sj6v.0,93097,93402,steinkirch,93152,93155,mir,steinkirch
+gdc,sj6v.0,93097,93402,steinkirch,93177,93183,meines,steinkirch
+gdc,sj6v.0,93097,93402,steinkirch,93217,93220,ich,steinkirch
+gdc,sj6v.0,93097,93402,steinkirch,93287,93290,ich,steinkirch
+gdc,sj6v.0,93097,93402,steinkirch,93310,93313,ich,steinkirch
+gdc,sj6v.0,93097,93402,steinkirch,93329,93332,mir,steinkirch
+gdc,sj6v.0,93408,93497,ludmilla,93461,93465,Mein,ludmilla
+gdc,sj6v.0,94004,94204,steinkirch,94072,94075,ich,steinkirch
+gdc,sj6v.0,94004,94204,steinkirch,94111,94116,meine,steinkirch
+gdc,sj6v.0,94004,94204,steinkirch,94134,94137,ich,steinkirch
+gdc,sj6v.0,94004,94204,steinkirch,94171,94177,meiner,steinkirch
+gdc,sj6v.0,94209,94312,bolzau,94276,94279,mir,bolzau
+gdc,sj6v.0,94317,94376,steinkirch,94339,94342,ich,steinkirch
+gdc,sj6v.0,94381,94493,bolzau,94478,94483,meine,bolzau
+gdc,sj6v.0,94498,94602,steinkirch,94511,94514,Ich,steinkirch
+gdc,sj6v.0,94498,94602,steinkirch,94521,94524,ich,steinkirch
+gdc,sj6v.0,94607,94703,bolzau,94667,94670,ich,bolzau
+gdc,sj6v.0,94708,94805,steinkirch,94725,94728,ich,steinkirch
+gdc,sj6v.0,94708,94805,steinkirch,94739,94742,ich,steinkirch
+gdc,sj6v.0,94810,94962,bolzau,94838,94841,ich,bolzau
+gdc,sj6v.0,94810,94962,bolzau,94849,94853,mein,bolzau
+gdc,sj6v.0,94810,94962,bolzau,94899,94902,ich,bolzau
+gdc,sj6v.0,94810,94962,bolzau,94942,94945,ich,bolzau
+gdc,sj6v.0,94967,95068,steinkirch,95009,95012,ich,steinkirch
+gdc,sj6v.0,95073,95327,bolzau,95235,95238,Ich,bolzau
+gdc,sj6v.0,95073,95327,bolzau,95261,95264,ich,bolzau
+gdc,sj6v.0,95073,95327,bolzau,95280,95283,ich,bolzau
+gdc,sj6v.0,95375,95775,bolzau,95457,95462,meine,bolzau
+gdc,sj6v.0,95375,95775,bolzau,95573,95576,ich,bolzau
+gdc,sj6v.0,95375,95775,bolzau,95600,95603,mir,bolzau
+gdc,sj6v.0,95375,95775,bolzau,95667,95671,mich,bolzau
+gdc,sj6v.0,95375,95775,bolzau,95727,95732,meine,bolzau
+gdc,sj6v.0,95375,95775,bolzau,95759,95762,ich,bolzau
+gdc,sj6v.0,95780,95865,steinkirch,95809,95812,ich,steinkirch
+gdc,sj6v.0,95780,95865,steinkirch,95848,95851,ich,steinkirch
+gdc,sj6v.0,95994,96090,bolzau,96073,96078,meine,bolzau
+gdc,sj6v.0,96095,96141,steinkirch,96108,96111,Ich,steinkirch
+gdc,sj6v.0,96235,96346,steinkirch,96266,96269,ich,steinkirch
+gdc,sj6v.0,96369,96493,steinkirch,96399,96403,mich,steinkirch
+gdc,sj6v.0,96500,96906,bolzau,96641,96646,meine,bolzau
+gdc,sj6v.0,96500,96906,bolzau,96682,96688,meiner,bolzau
+gdc,sj6v.0,96500,96906,bolzau,96803,96806,ich,bolzau
+gdc,sj6v.0,96500,96906,bolzau,96827,96830,ich,bolzau
+gdc,sj6v.0,96500,96906,bolzau,96881,96884,ich,bolzau
+gdc,sj6v.0,96500,96906,bolzau,96893,96898,meine,bolzau
+gdc,sj6v.0,97133,97289,bolzau,97218,97221,mir,bolzau
+gdc,sj6v.0,97133,97289,bolzau,97236,97239,ich,bolzau
+gdc,sj6v.0,97360,97678,bolzau,97447,97450,mir,bolzau
+gdc,sj6v.0,97360,97678,bolzau,97552,97555,mir,bolzau
+gdc,sj6v.0,97684,97772,wilhelmine,97752,97756,mich,wilhelmine
+gdc,sj6v.0,97777,97823,bertha,97799,97802,mir,bertha
+gdc,sj6v.0,98066,98135,bertha,98091,98094,ich,bertha
+gdc,sj6v.0,98066,98135,bertha,98100,98104,mein,bertha
+gdc,sj6v.0,98140,98282,wilhelmine,98192,98196,mein,wilhelmine
+gdc,sj6v.0,98309,98477,wilhelmine,98322,98326,Mein,wilhelmine
+gdc,sj6v.0,98482,98526,bertha,98505,98508,Ich,bertha
+gdc,sj6v.0,98557,98631,bertha,98566,98569,Ich,bertha
+gdc,sj6v.0,98636,98708,wilhelmine,98675,98678,ich,wilhelmine
+gdc,sj6v.0,98713,98745,bertha,98735,98738,ich,bertha
+gdc,sj6v.0,98868,98953,wilhelmine,98881,98885,Mein,wilhelmine
+gdc,sj6v.0,99021,99263,wilhelmine,99126,99129,ich,wilhelmine
+gdc,sj6v.0,99021,99263,wilhelmine,99174,99177,ich,wilhelmine
+gdc,sj6v.0,99021,99263,wilhelmine,99224,99227,ich,wilhelmine
+gdc,sj6v.0,99021,99263,wilhelmine,99228,99234,meinen,wilhelmine
+gdc,sj6v.0,99021,99263,wilhelmine,99245,99248,ich,wilhelmine
+gdc,sj6v.0,99530,99634,bertha,99569,99572,ich,bertha
+gdc,sj6v.0,99530,99634,bertha,99573,99577,mich,bertha
+gdc,sj6v.0,99530,99634,bertha,99588,99591,ich,bertha
+gdc,sj6v.0,99530,99634,bertha,99600,99606,meinem,bertha
+gdc,sj6v.0,99691,99733,bertha,99700,99703,Ich,bertha
+gdc,sj6v.0,99738,99822,wilhelmine,99756,99759,mir,wilhelmine
+gdc,sj6v.0,99738,99822,wilhelmine,99791,99797,meinen,wilhelmine
+gdc,sj6v.0,99827,99884,bertha,99861,99864,ich,bertha
+gdc,sj6v.0,100015,100106,ludmilla,100066,100069,Ich,ludmilla
+gdc,sj6v.0,100015,100106,ludmilla,100079,100083,mich,ludmilla
+gdc,sj6v.0,100156,100255,wilhelmine,100202,100205,ich,wilhelmine
+gdc,sj6v.0,100463,100559,wilhelmine,100489,100492,ich,wilhelmine
+gdc,sj6v.0,100748,100807,bolzau,100784,100787,ich,bolzau
+gdc,sj6v.0,100852,100951,bolzau,100940,100944,mich,bolzau
+gdc,sj6v.0,101133,101242,bolzau,101161,101165,mich,bolzau
+gdc,sj6v.0,101133,101242,bolzau,101194,101197,ich,bolzau
+gdc,sj6v.0,101247,101320,wilhelmine,101310,101313,ich,wilhelmine
+gdc,sj6v.0,101325,101381,bolzau,101344,101347,ich,bolzau
+gdc,sj6v.0,101386,101449,wilhelmine,101399,101402,Ich,wilhelmine
+gdc,sj6v.0,101386,101449,wilhelmine,101429,101434,meine,wilhelmine
+gdc,sj6v.0,101454,101521,bolzau,101463,101466,Ich,bolzau
+gdc,sj6v.0,101526,101717,wilhelmine,101612,101616,Mein,wilhelmine
+gdc,sj6v.0,101526,101717,wilhelmine,101636,101639,ich,wilhelmine
+gdc,sj6v.0,102026,102165,wilhelmine,102073,102079,meinem,wilhelmine
+gdc,sj6v.0,102469,102557,bolzau,102496,102499,mir,bolzau
+gdc,sj6v.0,102625,102874,bolzau,102773,102776,mir,bolzau
+gdc,sj6v.0,103034,103083,wilhelmine,103055,103058,ich,wilhelmine
+gdc,sj6v.0,103089,103152,bolzau,103147,103150,mir,bolzau
+gdc,sj6v.0,103390,103461,wilhelmine,103440,103443,ich,wilhelmine
+gdc,sj6v.0,103841,103948,wilhelmine,103902,103905,mir,wilhelmine
+gdc,sj6v.0,103983,104161,wilhelmine,104043,104048,meine,wilhelmine
+gdc,sj6v.0,103983,104161,wilhelmine,104067,104070,ich,wilhelmine
+gdc,sj6v.0,103983,104161,wilhelmine,104111,104114,Ich,wilhelmine
+gdc,sj6v.0,104432,104476,steinkirch,104465,104468,ich,steinkirch
+gdc,sj6v.0,104724,104775,steinkirch,104751,104755,mich,steinkirch
+gdc,sj6v.0,104781,104983,bolzau,104855,104858,mir,bolzau
+gdc,sj6v.0,104781,104983,bolzau,104937,104940,ich,bolzau
+gdc,sj6v.0,105199,105321,bolzau,105231,105236,meine,bolzau
+gdc,sj6v.0,105199,105321,bolzau,105265,105268,ich,bolzau
+gdc,sj6v.0,105199,105321,bolzau,105292,105295,ich,bolzau
+gdc,sj6v.0,105445,105492,brimborius,105458,105461,Ich,brimborius
+gdc,sj6v.0,105497,105538,bolzau,105525,105530,meine,bolzau
+gdc,sj6v.0,105732,105809,hartwig,105760,105763,Ich,hartwig
+gdc,sj6v.0,105850,105914,hartwig,105860,105863,Ich,hartwig
+gdc,sj6v.0,105956,105991,hartwig,105986,105989,mir,hartwig
+gdc,sj6v.0,106123,106227,bolzau,106137,106142,meine,bolzau
+gdc,sj6v.0,106123,106227,bolzau,106160,106163,ich,bolzau
+gdc,sj6v.0,106494,106804,hartwig,106504,106508,Mein,hartwig
+gdc,sj6v.0,106494,106804,hartwig,106662,106666,Mein,hartwig
+gdc,sj6v.0,106809,106962,brimborius,106822,106825,Ich,brimborius
+gdc,sj6v.0,107389,107605,bolzau,107405,107410,meine,bolzau
+gdc,sj6v.0,107389,107605,bolzau,107537,107540,ich,bolzau
+gdc,sj6v.0,107389,107605,bolzau,107581,107586,meine,bolzau
+gdc,sj6v.0,107389,107605,bolzau,107594,107599,meine,bolzau
+gdc,sj6v.0,107610,107649,brimborius,107629,107632,ich,brimborius
+gdc,sj6v.0,107895,107979,hartwig,107926,107929,ich,hartwig
+gdc,sj6v.0,107895,107979,hartwig,107930,107935,meine,hartwig
+gdc,sj6v.0,108215,108391,schuake,108320,108323,ich,schuake
+gdc,sj6v.0,108215,108391,schuake,108378,108383,meine,schuake
+gdc,sj6v.0,108769,109089,schuake,108779,108782,Ich,schuake
+gdc,sj6v.0,108769,109089,schuake,108788,108791,mir,schuake
+gdc,sj6v.0,109953,110060,bolzau,109962,109965,Ich,bolzau
+gdc,sj6v.0,110339,110424,hartwig,110376,110379,ich,hartwig
+gdc,sj6v.0,110463,110651,hartwig,110479,110482,ich,hartwig
+gdc,sj6v.0,110917,111092,hartwig,110941,110944,mir,hartwig
+gdc,sj6v.0,110917,111092,hartwig,110963,110966,ich,hartwig
+gdc,sj6v.0,111183,111305,hartwig,111221,111224,ich,hartwig
+gdc,sj6v.0,111183,111305,hartwig,111277,111283,meinen,hartwig
+gdc,sj6v.0,111331,111555,hartwig,111388,111393,meine,hartwig
+gdc,sj6v.0,111331,111555,hartwig,111406,111409,ich,hartwig
+gdc,sj6v.0,111331,111555,hartwig,111410,111414,mich,hartwig
+gdc,sj6v.0,112096,112179,hartwig,112114,112118,mich,hartwig
+gdc,sj6v.0,112096,112179,hartwig,112126,112129,ich,hartwig
+gdc,sj6v.0,112096,112179,hartwig,112165,112169,mich,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112319,112322,ich,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112327,112331,mich,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112393,112396,ich,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112418,112422,mein,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112442,112445,ich,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112499,112503,mein,hartwig
+gdc,sj6v.0,112217,112650,hartwig,112571,112577,meinen,hartwig
+gdc,sj6v.0,112655,112722,schuake,112693,112697,Mich,schuake
+gdc,sj6v.0,112727,112962,hartwig,112787,112792,meine,hartwig
+gdc,sj6v.0,113118,113258,hartwig,113197,113200,ich,hartwig
+gdc,sj6v.0,113326,113384,scheffler,113362,113366,Mein,scheffler
+gdc,sj6v.0,113527,113625,hartwig,113601,113607,meinen,hartwig
+gdc,sj6v.0,113630,113656,scheffler,113646,113650,mich,scheffler
+gdc,sj6v.0,113739,113764,scheffler,113760,113763,ich,scheffler
+gdc,sj6v.0,113769,113855,hartwig,113779,113782,Ich,hartwig
+gdc,sj6v.0,113769,113855,hartwig,113842,113846,mich,hartwig
+gdc,sj6v.0,113900,113970,hartwig,113910,113913,Ich,hartwig
+gdc,sj6v.0,113900,113970,hartwig,113936,113939,ich,hartwig
+gdc,sj6v.0,113995,114097,hartwig,114005,114008,Ich,hartwig
+gdc,sj6v.0,114169,114201,hartwig,114184,114187,ich,hartwig
+gdc,sj6v.0,114237,114284,hartwig,114253,114256,ich,hartwig
+gdc,sj6v.0,114635,114735,hartwig,114645,114648,Ich,hartwig
+gdc,sj6v.0,114976,115153,hartwig,114990,114994,mein,hartwig
+gdc,sj6v.0,114976,115153,hartwig,115018,115021,ich,hartwig
+gdc,sj6v.0,115221,115270,hartwig,115240,115243,mir,hartwig
+gdc,sj6v.0,115275,115328,scheffler,115302,115305,ich,scheffler
+gdc,sj6v.0,115545,115603,brimborius,115563,115567,mich,brimborius
+gdc,sj6v.0,116084,116147,bolzau,116122,116125,ich,bolzau
+gdc,sj6v.0,116216,116475,bolzau,116296,116299,ich,bolzau
+gdc,sj6v.0,116216,116475,bolzau,116355,116358,ich,bolzau
+gdc,sj6v.0,116216,116475,bolzau,116383,116389,meinem,bolzau
+gdc,sj6v.0,116216,116475,bolzau,116456,116459,mir,bolzau
+gdc,sj6v.0,116544,116636,steinkirch,116624,116627,ich,steinkirch
+gdc,sj6v.0,116641,116746,bolzau,116700,116703,mir,bolzau
+gdc,sj6v.0,116641,116746,bolzau,116717,116723,meinen,bolzau
+gdc,sj6v.0,116801,116865,bolzau,116825,116828,ich,bolzau
+gdc,sj6v.0,116971,117069,bertha,116992,116997,Meine,bertha
+gdc,sj6v.0,116971,117069,bertha,117036,117039,ich,bertha
+gdc,sj6v.0,116971,117069,bertha,117040,117044,mich,bertha
+gdc,sj6v.0,117074,117218,bolzau,117107,117110,mir,bolzau
+gdc,sj6v.0,117074,117218,bolzau,117133,117136,mir,bolzau
+gdc,sj6v.0,117252,117392,bolzau,117325,117328,ich,bolzau
+gdc,sj6v.0,117397,117429,bertha,117419,117423,Mein,bertha
+gdc,sj6v.0,117488,117539,bertha,117515,117518,ich,bertha
+gdc,sj6v.0,117753,117842,bertha,117801,117805,mich,bertha
+gdc,sj6v.0,117847,117900,bolzau,117890,117894,mein,bolzau
+gdc,sj6v.0,117905,117966,bertha,117940,117943,ich,bertha
+gdc,sj6v.0,117998,118062,bertha,118017,118020,Ich,bertha
+gdc,sj6v.0,118105,118140,bertha,118114,118117,Ich,bertha
+gdc,sj6v.0,118174,118251,bertha,118188,118191,ich,bertha
+gdc,sj6v.0,118603,118712,bertha,118653,118656,ich,bertha
+gdc,sj6v.0,118603,118712,bertha,118665,118669,mein,bertha
+gdc,sj6v.0,118603,118712,bertha,118693,118696,ich,bertha
+gdc,sj6v.0,118717,118737,bolzau,118731,118734,ich,bolzau
+gdc,sj6v.0,118896,119076,bertha,118929,118932,ich,bertha
+gdc,sj6v.0,118896,119076,bertha,118969,118973,mein,bertha
+gdc,sj6v.0,118896,119076,bertha,119025,119028,ich,bertha
+gdc,sj6v.0,119081,119273,bolzau,119134,119137,ich,bolzau
+gdc,sj6v.0,119081,119273,bolzau,119151,119156,meine,bolzau
+gdc,sj6v.0,119318,119547,bolzau,119349,119353,mich,bolzau
+gdc,sj6v.0,119318,119547,bolzau,119370,119373,ich,bolzau
+gdc,sj6v.0,119318,119547,bolzau,119423,119427,mein,bolzau
+gdc,sj6v.0,119318,119547,bolzau,119481,119484,ich,bolzau
+gdc,sj6v.0,119736,119838,bertha,119795,119801,meines,bertha
+gdc,sj6v.0,120019,120095,steinkirch,120064,120067,Ich,steinkirch
+gdc,sj6v.0,120283,120414,steinkirch,120315,120318,ich,steinkirch
+gdc,sj6v.0,120283,120414,steinkirch,120337,120340,ich,steinkirch
+gdc,sj6v.0,120283,120414,steinkirch,120356,120359,mir,steinkirch
+gdc,sj6v.0,120485,120556,bolzau,120494,120497,Ich,bolzau
+gdc,sj6v.0,120652,120675,scheffler,120664,120669,Meine,scheffler
+gdc,sj6v.0,120680,120738,bolzau,120700,120703,mir,bolzau
+gdc,sj6v.0,121453,121488,scheffler,121484,121487,ich,scheffler
+gdc,sj6v.0,121609,121764,scheffler,121669,121673,mich,scheffler
+gdc,sj6v.0,121609,121764,scheffler,121734,121737,ich,scheffler
+gdc,sj6v.0,121892,121948,bolzau,121940,121943,ich,bolzau
+gdc,sj6v.0,122014,122172,bolzau,122093,122096,ich,bolzau
+gdc,sj6v.0,122401,122467,bolzau,122433,122436,ich,bolzau
+gdc,sj6v.0,122544,122605,bertha,122583,122586,Ich,bertha
+gdc,sj6v.0,122846,122980,bolzau,122936,122941,Meine,bolzau
+gdc,sj6v.0,123020,123059,bertha,123039,123042,mir,bertha
+gdc,sj6v.0,123146,123289,bertha,123155,123158,Ich,bertha
+gdc,sj6v.0,123146,123289,bertha,123186,123189,ich,bertha
+gdc,sj6v.0,123146,123289,bertha,123232,123235,ich,bertha
+gdc,sj6v.0,123294,123364,scheffler,123306,123311,Meine,scheffler
+gdc,sj6v.0,123370,123454,steinkirch,123437,123440,ich,steinkirch
+gdc,sj6v.0,123693,123751,bolzau,123730,123733,Ich,bolzau
+gdc,sj6v.0,123882,123991,bolzau,123891,123894,Ich,bolzau
+gdc,sj6v.0,123882,123991,bolzau,123953,123956,ich,bolzau
+gdc,sj6v.0,124403,124505,bolzau,124412,124415,Ich,bolzau
+gdc,sj6v.0,124403,124505,bolzau,124453,124456,ich,bolzau
+gdc,sj6v.0,124510,124565,wilhelmine,124531,124534,ich,wilhelmine
+gdc,sj6v.0,124708,124778,bolzau,124743,124746,ich,bolzau
+gdc,sj6v.0,124808,124910,bolzau,124854,124858,mein,bolzau
+gdc,sj6v.0,124808,124910,bolzau,124873,124876,Ich,bolzau
+gdc,sj6v.0,124808,124910,bolzau,124894,124897,mir,bolzau
+gdc,sj6v.0,124915,124957,wilhelmine,124939,124942,ich,wilhelmine
+gdc,sj6v.0,125252,125320,wilhelmine,125288,125291,ich,wilhelmine
+gdc,sj6v.0,125366,125452,wilhelmine,125406,125409,ich,wilhelmine
+gdc,sj6v.0,125366,125452,wilhelmine,125427,125430,ich,wilhelmine
+gdc,sj6v.0,125492,125636,wilhelmine,125531,125534,ich,wilhelmine
+gdc,sj6v.0,125705,125823,wilhelmine,125757,125760,ich,wilhelmine
+gdc,sj6v.0,125705,125823,wilhelmine,125795,125798,ich,wilhelmine
+gdc,sj6v.0,125855,125982,wilhelmine,125955,125958,ich,wilhelmine
+gdc,sj6v.0,126014,126103,wilhelmine,126033,126036,mir,wilhelmine
+gdc,sj6v.0,126257,126368,bolzau,126291,126294,Ich,bolzau
+gdc,sj6v.0,126373,126467,wilhelmine,126413,126416,ich,wilhelmine
+gdc,sj6v.0,126633,126670,wilhelmine,126662,126665,ich,wilhelmine
+gdc,sj6v.0,126741,126799,wilhelmine,126788,126791,mir,wilhelmine
+gdc,sj6v.0,126804,126946,bolzau,126817,126820,ich,bolzau
+gdc,sj6v.0,126804,126946,bolzau,126828,126833,meine,bolzau
+gdc,sj6v.0,126804,126946,bolzau,126868,126871,ich,bolzau
+gdc,sj6v.0,126951,127033,wilhelmine,126999,127002,ich,wilhelmine
+gdc,sj6v.0,126951,127033,wilhelmine,127019,127025,meinem,wilhelmine
+gdc,sj6v.0,127038,127146,bolzau,127119,127125,meinen,bolzau
+gdc,sj6v.0,127153,127355,wilhelmine,127273,127277,mein,wilhelmine
+gdc,sj6v.0,127426,127540,hartwig,127473,127476,ich,hartwig
+gdc,sj6v.0,127426,127540,hartwig,127522,127525,ich,hartwig
+gdc,sj6v.0,127545,127587,wilhelmine,127575,127581,meinen,wilhelmine
+gdc,sj6v.0,127592,127701,hartwig,127625,127628,ich,hartwig
+gdc,sj6v.0,127592,127701,hartwig,127657,127660,mir,hartwig
+gdc,sj6v.0,127959,128077,hartwig,128032,128036,mich,hartwig
+gdc,sj6v.0,128117,128243,hartwig,128167,128170,ich,hartwig
+gdc,sj6v.0,128117,128243,hartwig,128171,128174,mir,hartwig
+gdc,sj6v.0,128345,128440,hartwig,128425,128428,ich,hartwig
+gdc,sj6v.0,128445,128582,wilhelmine,128509,128512,ich,wilhelmine
+gdc,sj6v.0,128445,128582,wilhelmine,128537,128540,ich,wilhelmine
+gdc,sj6v.0,128631,128921,wilhelmine,128644,128647,Ich,wilhelmine
+gdc,sj6v.0,128631,128921,wilhelmine,128720,128726,meiner,wilhelmine
+gdc,sj6v.0,128631,128921,wilhelmine,128906,128911,meine,wilhelmine
+gdc,sj6v.0,128926,129002,hartwig,128961,128964,Ich,hartwig
+gdc,sj6v.0,129031,129086,hartwig,129048,129051,ich,hartwig
+gdc,sj6v.0,129091,129260,wilhelmine,129174,129180,meinem,wilhelmine
+gdc,sj6v.0,129519,129564,hartwig,129538,129543,meine,hartwig
+gdc,sj6v.0,129590,129646,hartwig,129641,129645,mich,hartwig
+gdc,sj6v.0,129710,129774,scheffler,129764,129767,mir,scheffler
+gdc,sj6v.0,130101,130169,scheffler,130136,130141,meine,scheffler
+gdc,sj6v.0,130197,130337,bertha,130246,130250,mein,bertha
+gdc,sj6v.0,130197,130337,bertha,130274,130277,Ich,bertha
+gdc,sj6v.0,130343,130434,hartwig,130384,130387,ich,hartwig
+gdc,sj6v.0,130343,130434,hartwig,130391,130397,meinem,hartwig
+gdc,sj6v.0,130490,130556,hartwig,130500,130503,Ich,hartwig
+gdc,sj6v.0,130561,130652,scheffler,130606,130609,ich,scheffler
+gdc,sj6v.0,130561,130652,scheffler,130635,130641,meinen,scheffler
+gdc,sj6v.0,130727,130815,bolzau,130803,130806,ich,bolzau
+gdc,sj6v.0,130820,131132,schuake,130922,130927,Meine,schuake
+gdc,sj6v.0,130820,131132,schuake,130972,130975,Ich,schuake
+gdc,sj6v.0,131138,131191,bolzau,131166,131171,meine,bolzau
+gdc,sj6v.0,131233,131272,wilhelmine,131261,131264,ich,wilhelmine
+gdc,sj6v.0,131312,131417,bolzau,131321,131326,Meine,bolzau
+gdc,sj6v.0,131459,131534,wilhelmine,131514,131517,ich,wilhelmine
+gdc,sj6v.0,131539,131632,bolzau,131548,131551,Ich,bolzau
+gdc,sj6v.0,131877,131975,bolzau,131903,131906,mir,bolzau
+gdc,sj6v.0,132167,132261,wilhelmine,132202,132206,mein,wilhelmine
+gdc,sj6v.0,132365,132402,ludmilla,132376,132379,Ich,ludmilla
+gdc,sj6v.0,132407,132447,steinkirch,132420,132423,Ich,steinkirch
+gdc,sj6v.0,132452,132494,bolzau,132470,132473,ich,bolzau
+gdc,sj6v.0,132634,132717,wilhelmine,132657,132660,ich,wilhelmine
+gdc,sj6v.0,132634,132717,wilhelmine,132666,132671,meine,wilhelmine
+gdc,sj6v.0,132738,133015,wilhelmine,132764,132767,ich,wilhelmine
+gdc,sj6v.0,132738,133015,wilhelmine,132902,132905,ich,wilhelmine
+gdc,sj6v.0,133035,133221,ludmilla,133082,133085,ich,ludmilla
+gdc,sj6v.0,133035,133221,ludmilla,133113,133117,mein,ludmilla
+gdc,sj6v.0,133035,133221,ludmilla,133132,133135,mir,ludmilla
+gdc,sj6v.0,133035,133221,ludmilla,133189,133193,mich,ludmilla
+gdc,sj6v.0,133281,133485,ludmilla,133299,133303,mich,ludmilla
+gdc,sj6v.0,133281,133485,ludmilla,133334,133337,Ich,ludmilla
+gdc,sj6v.0,133281,133485,ludmilla,133393,133396,ich,ludmilla
+gdc,sj6v.0,133281,133485,ludmilla,133427,133430,mir,ludmilla
+gdc,sj6v.0,133519,133658,bolzau,133557,133560,ich,bolzau
+gdc,sj6v.0,133663,133723,wilhelmine,133711,133715,mein,wilhelmine
+gdc,sj6v.0,133982,134237,bolzau,134041,134045,mein,bolzau
+gdc,sj6v.0,134304,134330,ludmilla,134326,134329,ich,ludmilla
+gdc,sj6v.0,134644,134922,bolzau,134838,134843,Meine,bolzau
+gdc,sj6v.0,135019,135151,bolzau,135119,135122,ich,bolzau
+gdc,sj6v.0,135019,135151,bolzau,135137,135143,meinen,bolzau
+gdc,sj6v.0,135156,135229,wilhelmine,135177,135180,ich,wilhelmine
+gdc,sj6v.0,135234,135414,bolzau,135293,135296,ich,bolzau
+gdc,sj6v.0,135618,135695,schuake,135675,135680,meine,schuake
+gdc,sj6v.0,136355,136403,bolzau,136383,136386,ich,bolzau
+gdc,sj6v.0,136473,136583,hartwig,136487,136490,ich,hartwig
+gdc,sj6v.0,136473,136583,hartwig,136544,136549,Meine,hartwig
