@@ -161,6 +161,7 @@ gdc-coref,ndtw.0,3780,4802,evander,4473,4475,Er,evander
 gdc-coref,ndtw.0,3780,4802,evander,4520,4522,Du,diesen-Baum-von-so-glatter-Rinde
 gdc-coref,ndtw.0,3780,4802,evander,4530,4541,ihren Namen,ihren-Namen
 gdc-coref,ndtw.0,3780,4802,evander,4530,4535,ihren,alcimna
+gdc-coref,ndtw.0,3780,4802,evander,4558,4564,meinen,evander
 gdc-coref,ndtw.0,3780,4802,evander,4588,4592,dich,diesen-Baum-von-so-glatter-Rinde
 gdc-coref,ndtw.0,3780,4802,evander,4618,4629,dieser Baum,diesen-Baum-von-so-glatter-Rinde
 gdc-coref,ndtw.0,3780,4802,evander,4685,4687,er,evander
@@ -295,7 +296,6 @@ gdc-coref,ndtw.0,7571,8117,alcimna,7718,7732,mein Geliebter,evander
 gdc-coref,ndtw.0,7571,8117,alcimna,7718,7722,mein,alcimna
 gdc-coref,ndtw.0,7571,8117,alcimna,7734,7737,dir,evander
 gdc-coref,ndtw.0,7571,8117,alcimna,7760,7766,deiner,evander
-gdc-coref,ndtw.0,7571,8117,alcimna,7777,7781,mich,alcimna
 gdc-coref,ndtw.0,7571,8117,alcimna,7805,7815,die Zeisig,die-Zeisig
 gdc-coref,ndtw.0,7571,8117,alcimna,7819,7831,ihren Jungen,ihren-Jungen
 gdc-coref,ndtw.0,7571,8117,alcimna,7819,7824,ihren,die-Zeisig
@@ -389,7 +389,6 @@ gdc-coref,ndtw.0,9589,9706,alcimna,9648,9651,das,was
 gdc-coref,ndtw.0,9589,9706,alcimna,9652,9654,du,evander
 gdc-coref,ndtw.0,9589,9706,alcimna,9687,9691,mich,alcimna
 gdc-coref,ndtw.0,9711,9767,evander,9721,9724,Ich,evander
-gdc-coref,ndtw.0,9711,9767,evander,9731,9734,Ich,evander
 gdc-coref,ndtw.0,9711,9767,evander,9754,9755,s,was
 gdc-coref,ndtw.0,9772,9830,alcimna,9782,9785,Ich,alcimna
 gdc-coref,ndtw.0,9772,9830,alcimna,9816,9817,s,was
@@ -650,7 +649,6 @@ gdc-coref,ndtw.0,20732,20902,pyrhus,20823,20829,meinen,pyrhus
 gdc-coref,ndtw.0,20908,21040,evander,20943,20947,mein,evander
 gdc-coref,ndtw.0,20908,21040,evander,20964,20967,Ich,evander
 gdc-coref,ndtw.0,20908,21040,evander,21011,21015,mich,evander
-gdc-coref,ndtw.0,21045,21232,pyrhus,21085,21091,meinen,pyrhus
 gdc-coref,ndtw.0,21045,21232,pyrhus,21126,21129,mir,pyrhus
 gdc-coref,ndtw.0,21045,21232,pyrhus,21156,21160,mein,pyrhus
 gdc-coref,ndtw.0,21045,21232,pyrhus,21178,21181,ich,pyrhus

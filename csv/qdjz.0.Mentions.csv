@@ -47,7 +47,6 @@ gdc-coref,qdjz.0,1896,2465,octavian,2256,2262,deiner,marschallin
 gdc-coref,qdjz.0,1896,2465,octavian,2322,2325,ich,octavian
 gdc-coref,qdjz.0,1896,2465,octavian,2339,2342,dir,marschallin
 gdc-coref,qdjz.0,1896,2465,octavian,2350,2357,das Ich,octavian
-gdc-coref,qdjz.0,1896,2465,octavian,2354,2357,Ich,octavian
 gdc-coref,qdjz.0,1896,2465,octavian,2369,2375,dem Du,das-»du«
 gdc-coref,qdjz.0,1896,2465,octavian,2379,2382,ich,octavian
 gdc-coref,qdjz.0,1896,2465,octavian,2387,2395,dein Bub,octavian
@@ -168,7 +167,6 @@ gdc-coref,qdjz.0,5028,5218,octavian,5208,5217,ein Glück,ein-Glück
 gdc-coref,qdjz.0,5237,5280,_stage,5261,5264,ihr,marschallin
 gdc-coref,qdjz.0,5224,5343,marschallin,5287,5289,Er,octavian
 gdc-coref,qdjz.0,5224,5343,marschallin,5290,5307,den Feldmarschall,Der-Feldmarschall
-gdc-coref,qdjz.0,5224,5343,marschallin,5318,5321,Mir,marschallin
 gdc-coref,qdjz.0,5224,5343,marschallin,5330,5333,ihm,Der-Feldmarschall
 gdc-coref,qdjz.0,5349,5407,octavian,5374,5377,dir,marschallin
 gdc-coref,qdjz.0,5349,5407,octavian,5382,5385,ihm,Der-Feldmarschall
@@ -630,6 +628,7 @@ gdc-coref,qdjz.0,18497,18516,_stage,18501,18515,Haushofmeister,haushofmeister
 gdc-coref,qdjz.0,18484,18573,marschallin,18518,18525,Struhan,haushofmeister
 gdc-coref,qdjz.0,18484,18573,marschallin,18531,18534,ich,marschallin
 gdc-coref,qdjz.0,18484,18573,marschallin,18535,18548,meinen Notari,notar
+gdc-coref,qdjz.0,18484,18573,marschallin,18535,18541,meinen,marschallin
 gdc-coref,qdjz.0,18484,18573,marschallin,18552,18565,der Vorkammer,meinem-Vorzimmer
 gdc-coref,qdjz.0,18578,18781,haushofmeister,18595,18612,Fürstliche Gnaden,marschallin
 gdc-coref,qdjz.0,18578,18781,haushofmeister,18619,18629,den Notari,notar
@@ -2624,7 +2623,6 @@ gdc-coref,qdjz.0,81583,81714,_stage,81695,81700,ihrem,Die-Lerchenausche-Livree
 gdc-coref,qdjz.0,81719,81903,herr_von_faninal,81790,81793,Ich,herr_von_faninal
 gdc-coref,qdjz.0,81719,81903,herr_von_faninal,81800,81804,dich,sophie
 gdc-coref,qdjz.0,81719,81903,herr_von_faninal,81808,81819,ein Kloster,ein-Kloster
-gdc-coref,qdjz.0,81719,81903,herr_von_faninal,81842,81845,Mir,herr_von_faninal
 gdc-coref,qdjz.0,81719,81903,herr_von_faninal,81850,81855,meine,herr_von_faninal
 gdc-coref,qdjz.0,81719,81903,herr_von_faninal,81892,81902,Lebenszeit,Auf-Lebenszeit
 gdc-coref,qdjz.0,81909,82023,sophie,81932,81935,Ich,sophie
@@ -3366,7 +3364,6 @@ gdc-coref,qdjz.0,104439,104582,_stage,104518,104521,die,seine-Perücke
 gdc-coref,qdjz.0,104601,104658,_stage,104614,104630,die zwei Wächter,zwei-Wächter
 gdc-coref,qdjz.0,104601,104658,_stage,104645,104648,ihm,kommissarius
 gdc-coref,qdjz.0,104587,104676,kommissarius,104667,104675,der Wirt,wirt
-gdc-coref,qdjz.0,104681,104756,wirt,104695,104699,Mich,wirt
 gdc-coref,qdjz.0,104681,104756,wirt,104700,104726,dem Herrn Oberkommissarius,kommissarius
 gdc-coref,qdjz.0,104761,104840,kommissarius,104808,104811,Ihn,wirt
 gdc-coref,qdjz.0,104761,104840,kommissarius,104831,104833,Er,wirt
@@ -4137,7 +4134,6 @@ gdc-coref,qdjz.0,129306,129354,marschallin,129334,129337,Sie,sophie
 gdc-coref,qdjz.0,129306,129354,marschallin,129338,129341,ihn,octavian
 gdc-coref,qdjz.0,129359,129419,sophie,129367,129370,Ich,sophie
 gdc-coref,qdjz.0,129359,129419,sophie,129387,129398,Euer Gnaden,marschallin
-gdc-coref,qdjz.0,129359,129419,sophie,129399,129405,meinen,sophie
 gdc-coref,qdjz.0,129359,129419,sophie,129410,129418,der Frag,der-Frag
 gdc-coref,qdjz.0,129425,129491,marschallin,129438,129454,Ihr blaß Gesicht,Sophies-Gesicht
 gdc-coref,qdjz.0,129425,129491,marschallin,129438,129441,Ihr,sophie

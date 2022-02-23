@@ -1,7 +1,7 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
-gdc-coref,v1sm.0,XUTHUS,xuthus,,
-gdc-coref,v1sm.0,PYTHIA,priesterin,,
 gdc-coref,v1sm.0,JON,jon,,
-gdc-coref,v1sm.0,KREUSA,kreusa,,
-gdc-coref,v1sm.0,APOLLO,apollo,,
 gdc-coref,v1sm.0,PHORBAS,phorbas,,
+gdc-coref,v1sm.0,APOLLO,apollo,,
+gdc-coref,v1sm.0,KREUSA,kreusa,,
+gdc-coref,v1sm.0,PYTHIA,priesterin,,
+gdc-coref,v1sm.0,XUTHUS,xuthus,,

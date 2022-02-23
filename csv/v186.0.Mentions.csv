@@ -179,7 +179,6 @@ gdc-coref,v186.0,29279,29415,der_arzt,29313,29317,mein,der_arzt
 gdc-coref,v186.0,29279,29415,der_arzt,29333,29336,Sie,hanswurst
 gdc-coref,v186.0,29279,29415,der_arzt,29382,29385,man,man
 gdc-coref,v186.0,29279,29415,der_arzt,29386,29391,Ihnen,hanswurst
-gdc-coref,v186.0,29421,30108,hanswurst,29433,29436,Ich,hanswurst
 gdc-coref,v186.0,29421,30108,hanswurst,29458,29461,ich,hanswurst
 gdc-coref,v186.0,29421,30108,hanswurst,29473,29483,Der Teufel,dem-Teufel
 gdc-coref,v186.0,29421,30108,hanswurst,29510,29521,Ihr Bestien,Ihr-Bestien
@@ -242,7 +241,6 @@ gdc-coref,v186.0,31236,31486,der_arzt,31455,31461,unsern,
 gdc-coref,v186.0,31492,31661,hanswurst,31513,31516,Ihr,der_arzt
 gdc-coref,v186.0,31492,31661,hanswurst,31522,31525,ich,hanswurst
 gdc-coref,v186.0,31492,31661,hanswurst,31560,31574,die Menschheit,die-halbe-Menschheit
-gdc-coref,v186.0,31492,31661,hanswurst,31575,31579,mein,hanswurst
 gdc-coref,v186.0,31492,31661,hanswurst,31629,31632,ich,hanswurst
 gdc-coref,v186.0,31492,31661,hanswurst,31633,31636,mir,hanswurst
 gdc-coref,v186.0,31668,31915,der_arzt,31697,31700,Ihr,hanswurst
@@ -328,7 +326,6 @@ gdc-coref,v186.0,35380,35539,der_sultan,35412,35426,Er Schwäzer Er,hanswurst
 gdc-coref,v186.0,35380,35539,der_sultan,35434,35436,Er,hanswurst
 gdc-coref,v186.0,35380,35539,der_sultan,35440,35448,Sein Amt,Euer-neu-Amt
 gdc-coref,v186.0,35380,35539,der_sultan,35440,35444,Sein,hanswurst
-gdc-coref,v186.0,35380,35539,der_sultan,35467,35470,Mir,der_sultan
 gdc-coref,v186.0,35380,35539,der_sultan,35471,35482,mein Serail,mein-Serail
 gdc-coref,v186.0,35380,35539,der_sultan,35471,35475,mein,der_sultan
 gdc-coref,v186.0,35380,35539,der_sultan,35484,35494,Dein Mädel,das_mädel
@@ -361,7 +358,6 @@ gdc-coref,v186.0,36804,36826,_stage,36804,36814,Der Sultan,der_sultan
 gdc-coref,v186.0,36804,36826,_stage,36816,36825,das Mädel,das_mädel
 gdc-coref,v186.0,36829,39085,der_sultan,36850,36853,ich,der_sultan
 gdc-coref,v186.0,36829,39085,der_sultan,36866,36885,geliebtes  Schäzgen,das_mädel
-gdc-coref,v186.0,36829,39085,der_sultan,36887,36891,mein,der_sultan
 gdc-coref,v186.0,36829,39085,der_sultan,36894,36898,Dich,das_mädel
 gdc-coref,v186.0,36829,39085,der_sultan,36914,36917,mir,der_sultan
 gdc-coref,v186.0,36829,39085,der_sultan,36919,36935,in's weiche Bett,in's-weiche-Bett
@@ -611,7 +607,6 @@ gdc-coref,v186.0,43032,44285,frau_knips,44047,44053,meinem,frau_knips
 gdc-coref,v186.0,43032,44285,frau_knips,44099,44108,mein Herr,der_sultan
 gdc-coref,v186.0,43032,44285,frau_knips,44099,44103,mein,frau_knips
 gdc-coref,v186.0,43032,44285,frau_knips,44130,44141,meinen Leib,ganzem-Leib
-gdc-coref,v186.0,43032,44285,frau_knips,44130,44136,meinen,frau_knips
 gdc-coref,v186.0,43032,44285,frau_knips,44142,44151,kein Mann,eines-Mannes
 gdc-coref,v186.0,43032,44285,frau_knips,44195,44206,meinem Mann,hanswurst
 gdc-coref,v186.0,43032,44285,frau_knips,44195,44201,meinem,frau_knips
@@ -1239,7 +1234,6 @@ gdc-coref,v186.0,66927,67539,hanswurst,67170,67174,mich,hanswurst
 gdc-coref,v186.0,66927,67539,hanswurst,67204,67207,mir,hanswurst
 gdc-coref,v186.0,66927,67539,hanswurst,67247,67253,meinen,hanswurst
 gdc-coref,v186.0,66927,67539,hanswurst,67282,67285,ich,hanswurst
-gdc-coref,v186.0,66927,67539,hanswurst,67338,67341,Mir,hanswurst
 gdc-coref,v186.0,66927,67539,hanswurst,67389,67392,ich,hanswurst
 gdc-coref,v186.0,66927,67539,hanswurst,67442,67446,mich,hanswurst
 gdc-coref,v186.0,66927,67539,hanswurst,67471,67474,ich,hanswurst
@@ -1255,7 +1249,6 @@ gdc-coref,v186.0,69314,69779,hanswurst,69411,69414,ich,hanswurst
 gdc-coref,v186.0,69314,69779,hanswurst,69415,69419,mein,hanswurst
 gdc-coref,v186.0,69314,69779,hanswurst,69705,69708,Ich,hanswurst
 gdc-coref,v186.0,69314,69779,hanswurst,69723,69726,ich,hanswurst
-gdc-coref,v186.0,69314,69779,hanswurst,69741,69744,Mir,hanswurst
 gdc-coref,v186.0,69314,69779,hanswurst,69760,69763,ich,hanswurst
 gdc-coref,v186.0,69786,70742,die_dame,69884,69887,mir,die_dame
 gdc-coref,v186.0,69786,70742,die_dame,69922,69925,mir,die_dame
@@ -1268,7 +1261,6 @@ gdc-coref,v186.0,71992,76682,die_dame,72091,72094,ich,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,72169,72172,mir,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,72416,72420,Mein,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,72462,72466,mein,die_dame
-gdc-coref,v186.0,71992,76682,die_dame,72562,72566,mein,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,72608,72612,mein,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,72759,72762,Ich,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,72776,72780,mein,die_dame
@@ -1288,7 +1280,6 @@ gdc-coref,v186.0,71992,76682,die_dame,73732,73735,ich,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,73773,73776,mir,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,73793,73796,mir,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,73844,73848,Mein,die_dame
-gdc-coref,v186.0,71992,76682,die_dame,74197,74200,Mir,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,74237,74240,ich,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,74293,74297,mein,die_dame
 gdc-coref,v186.0,71992,76682,die_dame,74383,74386,ich,die_dame
@@ -1361,7 +1352,6 @@ gdc-coref,v186.0,78281,83929,die_dame,80515,80519,mich,die_dame
 gdc-coref,v186.0,78281,83929,die_dame,80543,80547,mich,die_dame
 gdc-coref,v186.0,78281,83929,die_dame,80781,80784,mir,die_dame
 gdc-coref,v186.0,78281,83929,die_dame,80815,80820,meine,die_dame
-gdc-coref,v186.0,78281,83929,die_dame,80910,80913,Mir,die_dame
 gdc-coref,v186.0,78281,83929,die_dame,80931,80934,ich,die_dame
 gdc-coref,v186.0,78281,83929,die_dame,80975,80979,mein,die_dame
 gdc-coref,v186.0,78281,83929,die_dame,81070,81073,mir,die_dame

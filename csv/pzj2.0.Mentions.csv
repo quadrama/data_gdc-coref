@@ -248,7 +248,6 @@ gdc-coref,pzj2.0,33131,33277,jeriel,33150,33154,mich,jeriel
 gdc-coref,pzj2.0,33131,33277,jeriel,33179,33182,ich,jeriel
 gdc-coref,pzj2.0,33282,33374,käsperle,33321,33324,mir,käsperle
 gdc-coref,pzj2.0,33379,33473,jeriel,33423,33426,Ich,jeriel
-gdc-coref,pzj2.0,33379,33473,jeriel,33437,33442,meine,jeriel
 gdc-coref,pzj2.0,33517,33642,jeriel,33589,33593,mein,jeriel
 gdc-coref,pzj2.0,33647,33828,käsperle,33738,33741,mir,käsperle
 gdc-coref,pzj2.0,33647,33828,käsperle,33801,33805,mein,käsperle
@@ -278,7 +277,6 @@ gdc-coref,pzj2.0,38601,38836,mathilde,38714,38718,mich,mathilde
 gdc-coref,pzj2.0,38601,38836,mathilde,38762,38765,ich,mathilde
 gdc-coref,pzj2.0,38842,39015,hans,38967,38973,meinen,hans
 gdc-coref,pzj2.0,39145,39193,hanns_von_stauffen,39160,39165,meine,hanns_von_stauffen
-gdc-coref,pzj2.0,39238,39384,hanns_von_stauffen,39266,39272,meinen,hanns_von_stauffen
 gdc-coref,pzj2.0,39622,39664,hanns_von_stauffen,39650,39655,meine,hanns_von_stauffen
 gdc-coref,pzj2.0,39669,39790,otto,39736,39742,meinen,otto
 gdc-coref,pzj2.0,39943,40103,otto,40033,40039,meinem,otto
@@ -505,7 +503,6 @@ gdc-coref,pzj2.0,66566,66766,käsperle,66743,66746,mir,käsperle
 gdc-coref,pzj2.0,66832,67001,käsperle,66880,66883,ich,käsperle
 gdc-coref,pzj2.0,66832,67001,käsperle,66944,66947,ich,käsperle
 gdc-coref,pzj2.0,66832,67001,käsperle,66971,66974,ich,käsperle
-gdc-coref,pzj2.0,67049,67123,käsperle,67068,67074,meinen,käsperle
 gdc-coref,pzj2.0,67166,67285,käsperle,67194,67197,ich,käsperle
 gdc-coref,pzj2.0,67166,67285,käsperle,67281,67284,ich,käsperle
 gdc-coref,pzj2.0,67430,67560,käsperle,67479,67482,ich,käsperle
@@ -674,7 +671,6 @@ gdc-coref,pzj2.0,81233,81352,frowald,81254,81266,euren Ritter,günther
 gdc-coref,pzj2.0,81233,81352,frowald,81254,81259,euren,käsperle
 gdc-coref,pzj2.0,81233,81352,frowald,81284,81296,guter Freund,käsperle
 gdc-coref,pzj2.0,81233,81352,frowald,81314,81317,ihm,günther
-gdc-coref,pzj2.0,81357,81491,käsperle,81373,81379,meinen,käsperle
 gdc-coref,pzj2.0,81357,81491,käsperle,81402,81405,ich,käsperle
 gdc-coref,pzj2.0,81357,81491,käsperle,81412,81427,die Akzidenzeln,die-Akzidenzeln
 gdc-coref,pzj2.0,81357,81491,käsperle,81442,81445,die,die-Akzidenzeln
@@ -1159,7 +1155,6 @@ gdc-coref,pzj2.0,97482,97651,jeriel,97543,97546,ich,jeriel
 gdc-coref,pzj2.0,97482,97651,jeriel,97560,97562,er,meinen-Hiesel
 gdc-coref,pzj2.0,97482,97651,jeriel,97579,97582,ich,jeriel
 gdc-coref,pzj2.0,97482,97651,jeriel,97625,97627,er,meinen-Hiesel
-gdc-coref,pzj2.0,97482,97651,jeriel,97628,97632,mich,jeriel
 gdc-coref,pzj2.0,97656,97726,käsperle,97672,97674,Du,jeriel
 gdc-coref,pzj2.0,97656,97726,käsperle,97696,97725,"einen Buben, den du lieb hast",meinen-Hiesel
 gdc-coref,pzj2.0,97656,97726,käsperle,97709,97712,den,meinen-Hiesel
@@ -1272,7 +1267,6 @@ gdc-coref,pzj2.0,100416,100515,günther,100440,100443,mir,günther
 gdc-coref,pzj2.0,100416,100515,günther,100448,100466,dieser Mörderhöhle,Unterirdische-Höhle
 gdc-coref,pzj2.0,100416,100515,günther,100491,100502,des Geistes,geist
 gdc-coref,pzj2.0,100520,100723,kilian,100535,100552,meinen Wohlthäter,geist
-gdc-coref,pzj2.0,100520,100723,kilian,100535,100541,meinen,kilian
 gdc-coref,pzj2.0,100520,100723,kilian,100559,100562,ich,kilian
 gdc-coref,pzj2.0,100520,100723,kilian,100601,100604,ihm,geist
 gdc-coref,pzj2.0,100520,100723,kilian,100617,100620,ich,kilian

@@ -253,6 +253,7 @@ gdc-coref,rjg0.0,27856,27930,henriette,27904,27907,ich,henriette
 gdc-coref,rjg0.0,27935,28145,lisette,27945,27948,Ich,lisette
 gdc-coref,rjg0.0,27935,28145,lisette,28058,28061,ich,lisette
 gdc-coref,rjg0.0,28150,28224,henriette,28186,28192,meiner,henriette
+gdc-coref,rjg0.0,28150,28224,henriette,28218,28223,meine,henriette
 gdc-coref,rjg0.0,28259,28324,lisette,28291,28294,Ich,lisette
 gdc-coref,rjg0.0,28387,28524,lisette,28432,28435,mir,lisette
 gdc-coref,rjg0.0,28387,28524,lisette,28484,28487,ich,lisette
@@ -483,7 +484,6 @@ gdc-coref,rjg0.0,55179,55331,martin,55238,55241,Ich,martin
 gdc-coref,rjg0.0,55179,55331,martin,55289,55293,mich,martin
 gdc-coref,rjg0.0,55336,55425,lisette,55357,55360,mir,lisette
 gdc-coref,rjg0.0,55336,55425,lisette,55367,55370,Ich,lisette
-gdc-coref,rjg0.0,55336,55425,lisette,55391,55397,meinen,lisette
 gdc-coref,rjg0.0,55430,55532,martin,55447,55450,ich,martin
 gdc-coref,rjg0.0,55430,55532,martin,55451,55457,meinem,martin
 gdc-coref,rjg0.0,55598,55615,_stage,55598,55606,Theophan,theophan
@@ -902,7 +902,6 @@ gdc-coref,rjg0.0,66181,66250,johann,66228,66231,Ich,johann
 gdc-coref,rjg0.0,66181,66250,johann,66232,66237,meine,johann
 gdc-coref,rjg0.0,66181,66250,johann,66238,66245,Araspen,araspe
 gdc-coref,rjg0.0,66255,66283,adrast,66264,66267,Den,araspe
-gdc-coref,rjg0.0,66255,66283,adrast,66268,66273,meine,adrast
 gdc-coref,rjg0.0,66255,66283,adrast,66274,66277,ich,adrast
 gdc-coref,rjg0.0,66310,66451,adrast,66331,66333,du,johann
 gdc-coref,rjg0.0,66310,66451,adrast,66350,66353,ich,adrast
@@ -936,7 +935,6 @@ gdc-coref,rjg0.0,66655,67197,adrast,66923,66926,ihm,araspe
 gdc-coref,rjg0.0,66655,67197,adrast,66941,66947,meinen,adrast
 gdc-coref,rjg0.0,66655,67197,adrast,66975,66977,er,theophan
 gdc-coref,rjg0.0,66655,67197,adrast,66978,66981,ihn,araspe
-gdc-coref,rjg0.0,66655,67197,adrast,67087,67093,meinen,adrast
 gdc-coref,rjg0.0,66655,67197,adrast,67126,67129,mir,adrast
 gdc-coref,rjg0.0,66655,67197,adrast,67138,67157,die letzte Zuflucht,die-letzte-Zuflucht
 gdc-coref,rjg0.0,66655,67197,adrast,67159,67181,die Gunst des Lisidors,die-letzte-Zuflucht
@@ -1165,6 +1163,7 @@ gdc-coref,rjg0.0,72620,73416,theophan,72681,72684,Sie,adrast
 gdc-coref,rjg0.0,72620,73416,theophan,72723,72728,Ihrer,adrast
 gdc-coref,rjg0.0,72620,73416,theophan,72762,72765,Sie,adrast
 gdc-coref,rjg0.0,72620,73416,theophan,72766,72779,meinen Vetter,araspe
+gdc-coref,rjg0.0,72620,73416,theophan,72766,72772,meinen,theophan
 gdc-coref,rjg0.0,72620,73416,theophan,72801,72803,er,theophan
 gdc-coref,rjg0.0,72620,73416,theophan,72804,72815,die Wechsel,die-Wechsel
 gdc-coref,rjg0.0,72620,73416,theophan,72842,72845,Sie,adrast
@@ -1609,7 +1608,6 @@ gdc-coref,rjg0.0,92134,92643,adrast,92532,92537,meine,adrast
 gdc-coref,rjg0.0,92134,92643,adrast,92575,92578,ich,adrast
 gdc-coref,rjg0.0,92698,93268,adrast,92763,92766,ich,adrast
 gdc-coref,rjg0.0,92698,93268,adrast,92839,92842,mir,adrast
-gdc-coref,rjg0.0,93553,94761,adrast,94545,94550,meine,adrast
 gdc-coref,rjg0.0,93553,94761,adrast,94551,94554,ich,adrast
 gdc-coref,rjg0.0,94766,96056,juliane,94809,94815,meinem,juliane
 gdc-coref,rjg0.0,94766,96056,juliane,95769,95772,ich,juliane
@@ -1772,6 +1770,7 @@ gdc-coref,rjg0.0,110050,110207,theophan,110189,110193,mich,theophan
 gdc-coref,rjg0.0,110050,110207,theophan,110195,110199,mein,theophan
 gdc-coref,rjg0.0,110212,110295,der_wechsler,110262,110265,ich,der_wechsler
 gdc-coref,rjg0.0,110325,110393,der_wechsler,110358,110361,ich,der_wechsler
+gdc-coref,rjg0.0,110398,110537,theophan,110525,110532,meinige,theophan
 gdc-coref,rjg0.0,110576,110793,theophan,110612,110616,mich,theophan
 gdc-coref,rjg0.0,110576,110793,theophan,110621,110626,meine,theophan
 gdc-coref,rjg0.0,110576,110793,theophan,110647,110650,Ich,theophan
@@ -1829,7 +1828,6 @@ gdc-coref,rjg0.0,114562,114730,adrast,114702,114705,ich,adrast
 gdc-coref,rjg0.0,114735,114871,der_wechsler,114778,114781,ich,der_wechsler
 gdc-coref,rjg0.0,114735,114871,der_wechsler,114808,114812,Mein,der_wechsler
 gdc-coref,rjg0.0,114876,114894,adrast,114885,114888,Ich,adrast
-gdc-coref,rjg0.0,114876,114894,adrast,114889,114893,mich,adrast
 gdc-coref,rjg0.0,114899,115239,der_wechsler,114989,114992,Ich,der_wechsler
 gdc-coref,rjg0.0,114899,115239,der_wechsler,115006,115010,mein,der_wechsler
 gdc-coref,rjg0.0,114899,115239,der_wechsler,115058,115061,Ich,der_wechsler
@@ -2004,7 +2002,6 @@ gdc-coref,rjg0.0,132815,132907,lisidor,132843,132846,ich,lisidor
 gdc-coref,rjg0.0,132912,132980,adrast,132921,132924,Ich,adrast
 gdc-coref,rjg0.0,132912,132980,adrast,132953,132956,ich,adrast
 gdc-coref,rjg0.0,132985,133272,lisidor,133192,133195,mir,lisidor
-gdc-coref,rjg0.0,133305,133540,lisidor,133359,133364,meine,lisidor
 gdc-coref,rjg0.0,133305,133540,lisidor,133466,133469,ich,lisidor
 gdc-coref,rjg0.0,133545,133653,theophan,133588,133591,ich,theophan
 gdc-coref,rjg0.0,133658,133726,adrast,133691,133694,ich,adrast

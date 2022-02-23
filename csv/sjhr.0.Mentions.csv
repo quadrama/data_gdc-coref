@@ -1900,7 +1900,6 @@ gdc-coref,sjhr.0,142473,142570,frau_schenk,142520,142524,Mein,frau_schenk
 gdc-coref,sjhr.0,142575,142683,tessendorff,142589,142592,Ich,tessendorff
 gdc-coref,sjhr.0,142575,142683,tessendorff,142601,142607,meinem,tessendorff
 gdc-coref,sjhr.0,142575,142683,tessendorff,142657,142660,ich,tessendorff
-gdc-coref,sjhr.0,142575,142683,tessendorff,142661,142666,meine,tessendorff
 gdc-coref,sjhr.0,142575,142683,tessendorff,142668,142672,mein,tessendorff
 gdc-coref,sjhr.0,142852,142889,schenk,142878,142881,mir,schenk
 gdc-coref,sjhr.0,142894,142960,tessendorff,142926,142929,ich,tessendorff
@@ -1997,7 +1996,6 @@ gdc-coref,sjhr.0,153737,153804,schenk,153780,153783,ich,schenk
 gdc-coref,sjhr.0,153809,153888,tessendorff,153864,153867,ich,tessendorff
 gdc-coref,sjhr.0,153894,154014,schenk,153926,153929,mir,schenk
 gdc-coref,sjhr.0,154091,154168,schenk,154110,154113,ich,schenk
-gdc-coref,sjhr.0,154465,154604,schenk,154590,154596,meinen,schenk
 gdc-coref,sjhr.0,154713,154798,schenk,154726,154729,ich,schenk
 gdc-coref,sjhr.0,154713,154798,schenk,154766,154769,Mir,schenk
 gdc-coref,sjhr.0,154868,154973,schenk,154914,154918,mich,schenk
@@ -2196,7 +2194,6 @@ gdc-coref,sjhr.0,187266,187346,schenk,187300,187303,Ich,schenk
 gdc-coref,sjhr.0,187266,187346,schenk,187324,187327,Ich,schenk
 gdc-coref,sjhr.0,187428,187516,schenk,187494,187497,ich,schenk
 gdc-coref,sjhr.0,187521,187613,frau_schenk,187564,187567,Ich,frau_schenk
-gdc-coref,sjhr.0,187521,187613,frau_schenk,187568,187573,meine,frau_schenk
 gdc-coref,sjhr.0,187618,187750,schenk,187638,187641,ich,schenk
 gdc-coref,sjhr.0,187618,187750,schenk,187660,187663,ich,schenk
 gdc-coref,sjhr.0,187618,187750,schenk,187735,187738,ich,schenk

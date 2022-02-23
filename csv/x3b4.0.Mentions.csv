@@ -867,7 +867,6 @@ gdc-coref,x3b4.0,25624,25897,könig_pietro,25797,25801,mich,könig_pietro
 gdc-coref,x3b4.0,25624,25897,könig_pietro,25828,25831,uns,
 gdc-coref,x3b4.0,25624,25897,könig_pietro,25841,25844,ich,könig_pietro
 gdc-coref,x3b4.0,25624,25897,könig_pietro,25845,25848,dir,alma
-gdc-coref,x3b4.0,25624,25897,könig_pietro,25849,25855,meinen,könig_pietro
 gdc-coref,x3b4.0,25624,25897,könig_pietro,25868,25880,seinem Dache,mein-Haus
 gdc-coref,x3b4.0,25624,25897,könig_pietro,25868,25874,seinem,der_gutsbesitzer
 gdc-coref,x3b4.0,25902,26007,alma,25939,25942,Ihr,könig_nicolo
@@ -2309,13 +2308,11 @@ gdc-coref,x3b4.0,98650,99561,alma,98740,98744,mein,alma
 gdc-coref,x3b4.0,98650,99561,alma,98870,98873,ich,alma
 gdc-coref,x3b4.0,98650,99561,alma,98980,98983,Mir,alma
 gdc-coref,x3b4.0,99567,99871,könig_pietro,99651,99655,mein,könig_pietro
-gdc-coref,x3b4.0,99567,99871,könig_pietro,99702,99706,mich,könig_pietro
 gdc-coref,x3b4.0,99567,99871,könig_pietro,99748,99751,ich,könig_pietro
 gdc-coref,x3b4.0,99876,99980,prinz_filipo,99960,99964,mein,prinz_filipo
 gdc-coref,x3b4.0,99985,100094,könig_pietro,100000,100003,Ich,könig_pietro
 gdc-coref,x3b4.0,99985,100094,könig_pietro,100049,100053,mein,könig_pietro
 gdc-coref,x3b4.0,100099,100578,könig_pietro,100111,100115,Mein,könig_pietro
-gdc-coref,x3b4.0,100099,100578,könig_pietro,100164,100168,Mich,könig_pietro
 gdc-coref,x3b4.0,100099,100578,könig_pietro,100189,100194,meine,könig_pietro
 gdc-coref,x3b4.0,100099,100578,könig_pietro,100225,100228,ich,könig_pietro
 gdc-coref,x3b4.0,100099,100578,könig_pietro,100309,100315,meinem,könig_pietro
@@ -2354,7 +2351,6 @@ gdc-coref,x3b4.0,103932,104064,könig_pietro,104008,104011,ich,könig_pietro
 gdc-coref,x3b4.0,103932,104064,könig_pietro,104012,104015,mir,könig_pietro
 gdc-coref,x3b4.0,103932,104064,könig_pietro,104059,104063,mich,könig_pietro
 gdc-coref,x3b4.0,104181,104213,könig_pietro,104201,104204,ich,könig_pietro
-gdc-coref,x3b4.0,104239,104282,könig_pietro,104267,104270,Mir,könig_pietro
 gdc-coref,x3b4.0,104455,104552,alma,104500,104503,ich,alma
 gdc-coref,x3b4.0,104603,104674,alma,104646,104649,mir,alma
 gdc-coref,x3b4.0,104680,104781,könig_pietro,104726,104731,meine,könig_pietro
@@ -2485,7 +2481,6 @@ gdc-coref,x3b4.0,116256,116328,könig_pietro,116291,116294,ich,könig_pietro
 gdc-coref,x3b4.0,116372,116614,könig_pietro,116384,116387,Ich,könig_pietro
 gdc-coref,x3b4.0,116372,116614,könig_pietro,116487,116490,ich,könig_pietro
 gdc-coref,x3b4.0,116372,116614,könig_pietro,116526,116529,Ich,könig_pietro
-gdc-coref,x3b4.0,116372,116614,könig_pietro,116570,116576,meinen,könig_pietro
 gdc-coref,x3b4.0,116372,116614,könig_pietro,116602,116608,meinen,könig_pietro
 gdc-coref,x3b4.0,116619,116674,könig_pietro,116662,116667,meine,könig_pietro
 gdc-coref,x3b4.0,116679,116992,könig_pietro,116711,116715,mein,könig_pietro

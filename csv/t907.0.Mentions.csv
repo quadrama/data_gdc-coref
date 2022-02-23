@@ -129,6 +129,7 @@ gdc-coref,t907.0,26932,27155,herr_gotthart,26948,26951,Ich,herr_gotthart
 gdc-coref,t907.0,27160,27360,heinrich,27175,27179,mein,heinrich
 gdc-coref,t907.0,27160,27360,heinrich,27275,27278,ich,heinrich
 gdc-coref,t907.0,27160,27360,heinrich,27288,27291,ich,heinrich
+gdc-coref,t907.0,27160,27360,heinrich,27308,27314,meinen,heinrich
 gdc-coref,t907.0,27365,27535,herr_gotthart,27395,27398,ich,herr_gotthart
 gdc-coref,t907.0,27540,27605,heinrich,27551,27554,Ich,heinrich
 gdc-coref,t907.0,27610,27681,herr_gotthart,27626,27629,Ich,herr_gotthart
@@ -407,7 +408,6 @@ gdc-coref,t907.0,54651,55111,herr_gotthart,54671,54674,mir,herr_gotthart
 gdc-coref,t907.0,54651,55111,herr_gotthart,55040,55044,mein,herr_gotthart
 gdc-coref,t907.0,54651,55111,herr_gotthart,55085,55088,ich,herr_gotthart
 gdc-coref,t907.0,55585,55709,herr_gotthart,55674,55680,meinem,herr_gotthart
-gdc-coref,t907.0,55908,55965,herr_gotthart,55924,55927,Ich,herr_gotthart
 gdc-coref,t907.0,55908,55965,herr_gotthart,55949,55952,ich,herr_gotthart
 gdc-coref,t907.0,56097,56164,herr_gotthart,56118,56121,ich,herr_gotthart
 gdc-coref,t907.0,56097,56164,herr_gotthart,56127,56131,mich,herr_gotthart
@@ -1755,7 +1755,6 @@ gdc-coref,t907.0,136451,136594,ernst_gotthart,136585,136589,mich,ernst_gotthart
 gdc-coref,t907.0,136639,136772,ernst_gotthart,136685,136688,mir,ernst_gotthart
 gdc-coref,t907.0,136778,136817,heinrich,136808,136811,mir,heinrich
 gdc-coref,t907.0,136952,137033,ernst_gotthart,137010,137013,ich,ernst_gotthart
-gdc-coref,t907.0,137287,137383,ernst_gotthart,137364,137367,Ich,ernst_gotthart
 gdc-coref,t907.0,137457,137528,ernst_gotthart,137474,137477,Ich,ernst_gotthart
 gdc-coref,t907.0,137591,137669,ernst_gotthart,137616,137619,ich,ernst_gotthart
 gdc-coref,t907.0,137591,137669,ernst_gotthart,137624,137628,mich,ernst_gotthart

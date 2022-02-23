@@ -58,6 +58,7 @@ gdc-coref,m0br.0,5258,5513,herr_orgon,5395,5398,Ich,herr_orgon
 gdc-coref,m0br.0,6372,6781,philipp,6466,6472,meinem,philipp
 gdc-coref,m0br.0,6372,6781,philipp,6691,6695,mein,philipp
 gdc-coref,m0br.0,6786,6925,herr_orgon,6819,6822,mir,herr_orgon
+gdc-coref,m0br.0,6786,6925,herr_orgon,6823,6829,meinen,herr_orgon
 gdc-coref,m0br.0,6786,6925,herr_orgon,6884,6890,meiner,herr_orgon
 gdc-coref,m0br.0,6930,7064,philipp,6949,6952,ich,philipp
 gdc-coref,m0br.0,6930,7064,philipp,7031,7034,ich,philipp
@@ -136,6 +137,7 @@ gdc-coref,m0br.0,12175,12595,lisette,12585,12588,ich,lisette
 gdc-coref,m0br.0,12600,12712,philipp,12645,12649,mein,philipp
 gdc-coref,m0br.0,12717,12990,lisette,12878,12881,ich,lisette
 gdc-coref,m0br.0,12717,12990,lisette,12935,12938,ich,lisette
+gdc-coref,m0br.0,13136,13159,philipp,13146,13152,Meines,philipp
 gdc-coref,m0br.0,13267,13736,philipp,13283,13289,meinen,philipp
 gdc-coref,m0br.0,13267,13736,philipp,13328,13331,Ich,philipp
 gdc-coref,m0br.0,13267,13736,philipp,13461,13467,meinem,philipp
@@ -328,7 +330,6 @@ gdc-coref,m0br.0,27421,27761,timant,27570,27574,mich,timant
 gdc-coref,m0br.0,27421,27761,timant,27706,27710,mein,timant
 gdc-coref,m0br.0,27421,27761,timant,27736,27739,ich,timant
 gdc-coref,m0br.0,27919,28018,timant,27949,27952,mir,timant
-gdc-coref,m0br.0,27919,28018,timant,27953,27959,meinen,timant
 gdc-coref,m0br.0,27919,28018,timant,28013,28017,mich,timant
 gdc-coref,m0br.0,28023,28354,damon,28042,28045,ich,damon
 gdc-coref,m0br.0,28023,28354,damon,28083,28086,Ich,damon
@@ -1020,6 +1021,7 @@ gdc-coref,m0br.0,45385,45492,timant,45480,45486,meiner,timant
 gdc-coref,m0br.0,45498,45640,climene,45517,45520,ich,climene
 gdc-coref,m0br.0,45498,45640,climene,45526,45529,Sie,timant
 gdc-coref,m0br.0,45498,45640,climene,45530,45534,sich,timant
+gdc-coref,m0br.0,45498,45640,climene,45548,45555,meinige,climene
 gdc-coref,m0br.0,45569,45640,_stage,45569,45575,Timant,timant
 gdc-coref,m0br.0,45569,45640,_stage,45580,45587,Climene,climene
 gdc-coref,m0br.0,45569,45640,_stage,45613,45622,ein jeder,
@@ -1177,6 +1179,7 @@ gdc-coref,m0br.0,49307,49435,timant,49343,49356,diesem Zettel,ein-Papier
 gdc-coref,m0br.0,49307,49435,timant,49384,49393,eine List,eine-List
 gdc-coref,m0br.0,49307,49435,timant,49406,49409,die,eine-List
 gdc-coref,m0br.0,49307,49435,timant,49415,49420,meine,timant
+gdc-coref,m0br.0,49441,49493,philipp,49461,49469,meinigen,philipp
 gdc-coref,m0br.0,49441,49493,philipp,49475,49478,sie,eine-List
 gdc-coref,m0br.0,49498,49559,timant,49520,49523,mir,timant
 gdc-coref,m0br.0,49498,49559,timant,49549,49558,ein Licht,ein-Licht
@@ -1563,7 +1566,6 @@ gdc-coref,m0br.0,59289,59487,climene,59356,59359,mir,climene
 gdc-coref,m0br.0,59289,59487,climene,59382,59386,mich,climene
 gdc-coref,m0br.0,59492,59837,geronte,59823,59829,meinem,geronte
 gdc-coref,m0br.0,59842,60120,climene,59852,59855,Ich,climene
-gdc-coref,m0br.0,59842,60120,climene,59857,59861,Mich,climene
 gdc-coref,m0br.0,59842,60120,climene,59950,59954,mein,climene
 gdc-coref,m0br.0,59842,60120,climene,59978,59981,Ich,climene
 gdc-coref,m0br.0,59842,60120,climene,59998,60001,ich,climene
@@ -1994,7 +1996,6 @@ gdc-coref,m0br.0,89896,90988,timant,90083,90086,ich,timant
 gdc-coref,m0br.0,89896,90988,timant,90276,90279,ich,timant
 gdc-coref,m0br.0,89896,90988,timant,90345,90348,ich,timant
 gdc-coref,m0br.0,89896,90988,timant,90372,90375,ich,timant
-gdc-coref,m0br.0,89896,90988,timant,90457,90462,meine,timant
 gdc-coref,m0br.0,89896,90988,timant,90517,90520,Ich,timant
 gdc-coref,m0br.0,89896,90988,timant,90546,90550,mich,timant
 gdc-coref,m0br.0,89896,90988,timant,90573,90577,mein,timant
@@ -2365,7 +2366,6 @@ gdc-coref,m0br.0,114661,114853,climene,114772,114775,Ich,climene
 gdc-coref,m0br.0,114859,115036,damon,114871,114874,ich,damon
 gdc-coref,m0br.0,114859,115036,damon,114890,114893,ich,damon
 gdc-coref,m0br.0,114859,115036,damon,114992,114995,ich,damon
-gdc-coref,m0br.0,114859,115036,damon,114996,115002,meinen,damon
 gdc-coref,m0br.0,115219,115575,damon,115255,115258,ich,damon
 gdc-coref,m0br.0,115219,115575,damon,115274,115277,ich,damon
 gdc-coref,m0br.0,115219,115575,damon,115307,115310,ich,damon
@@ -2453,7 +2453,6 @@ gdc-coref,m0br.0,120239,120336,timant,120296,120300,mich,timant
 gdc-coref,m0br.0,120239,120336,timant,120313,120316,ich,timant
 gdc-coref,m0br.0,120445,120534,timant,120458,120461,ich,timant
 gdc-coref,m0br.0,120445,120534,timant,120485,120491,meinem,timant
-gdc-coref,m0br.0,120445,120534,timant,120505,120511,meinen,timant
 gdc-coref,m0br.0,120646,121047,geronte,120681,120684,Ich,geronte
 gdc-coref,m0br.0,120646,121047,geronte,120767,120770,ich,geronte
 gdc-coref,m0br.0,120646,121047,geronte,120854,120857,ich,geronte
@@ -2701,6 +2700,7 @@ gdc-coref,m0br.0,138555,138834,climene,138657,138662,meine,climene
 gdc-coref,m0br.0,138555,138834,climene,138681,138684,Ich,climene
 gdc-coref,m0br.0,138555,138834,climene,138704,138708,mich,climene
 gdc-coref,m0br.0,138555,138834,climene,138783,138787,mich,climene
+gdc-coref,m0br.0,138555,138834,climene,138825,138833,meinigen,climene
 gdc-coref,m0br.0,139012,139064,climene,139031,139034,ich,climene
 gdc-coref,m0br.0,139069,139247,damon,139091,139094,ich,damon
 gdc-coref,m0br.0,139069,139247,damon,139126,139132,meinem,damon
@@ -2767,7 +2767,6 @@ gdc-coref,m0br.0,142608,143669,herr_orgon,142971,142974,mir,herr_orgon
 gdc-coref,m0br.0,142608,143669,herr_orgon,142987,142990,ich,herr_orgon
 gdc-coref,m0br.0,142608,143669,herr_orgon,143047,143050,Ich,herr_orgon
 gdc-coref,m0br.0,142608,143669,herr_orgon,143065,143069,mein,herr_orgon
-gdc-coref,m0br.0,142608,143669,herr_orgon,143133,143139,meinen,herr_orgon
 gdc-coref,m0br.0,142608,143669,herr_orgon,143461,143464,ich,herr_orgon
 gdc-coref,m0br.0,142608,143669,herr_orgon,143482,143487,meine,herr_orgon
 gdc-coref,m0br.0,142608,143669,herr_orgon,143501,143506,meine,herr_orgon
@@ -2833,7 +2832,6 @@ gdc-coref,m0br.0,146668,146880,timant,146826,146829,mir,timant
 gdc-coref,m0br.0,146668,146880,timant,146849,146852,Ich,timant
 gdc-coref,m0br.0,147010,147173,timant,147078,147081,ich,timant
 gdc-coref,m0br.0,147010,147173,timant,147106,147109,Ich,timant
-gdc-coref,m0br.0,147010,147173,timant,147137,147140,Ich,timant
 gdc-coref,m0br.0,147178,147339,philipp,147240,147244,Mein,philipp
 gdc-coref,m0br.0,147409,147842,climene,147487,147490,ich,climene
 gdc-coref,m0br.0,147409,147842,climene,147501,147504,mir,climene

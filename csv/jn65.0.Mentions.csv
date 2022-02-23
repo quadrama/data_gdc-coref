@@ -1128,7 +1128,7 @@ gdc-coref,jn65.0,28299,28600,mirzl,28553,28555,er,Mei'-Schatz
 gdc-coref,jn65.0,28299,28600,mirzl,28585,28592,a andre,a-andre
 gdc-coref,jn65.0,28299,28600,mirzl,28597,28599,mi,Mei'
 gdc-coref,jn65.0,28612,28671,_stage,28629,28636,Muckerl,muckerl
-gdc-coref,jn65.0,28688,28818,burgei,28697,28700,Mir,
+gdc-coref,jn65.0,28688,28818,burgei,28697,28700,Mir,Mei'
 gdc-coref,jn65.0,28688,28818,burgei,28710,28714,mein,
 gdc-coref,jn65.0,28688,28818,burgei,28738,28742,mein,
 gdc-coref,jn65.0,28688,28818,burgei,28754,28757,ich,
@@ -1374,7 +1374,6 @@ gdc-coref,jn65.0,35649,36309,levy,35872,35875,Ihr,lies
 gdc-coref,jn65.0,35649,36309,levy,35897,35906,Euer Wein,ein-Glas-Wein
 gdc-coref,jn65.0,35649,36309,levy,35897,35901,Euer,lies
 gdc-coref,jn65.0,35649,36309,levy,35928,35938,Wirtschaft,ihr'-Schenkwirtschaft-»Zur-Grenz'«
-gdc-coref,jn65.0,35649,36309,levy,35956,35960,Mein,levy
 gdc-coref,jn65.0,35649,36309,levy,35962,35965,mir,levy
 gdc-coref,jn65.0,35649,36309,levy,35992,35995,ich,levy
 gdc-coref,jn65.0,35649,36309,levy,36027,36031,Euch,lies
@@ -1408,7 +1407,6 @@ gdc-coref,jn65.0,36504,36948,levy,36743,36746,Ihr,lies
 gdc-coref,jn65.0,36504,36948,levy,36747,36750,ihm,einer2
 gdc-coref,jn65.0,36504,36948,levy,36775,36780,Alles,
 gdc-coref,jn65.0,36504,36948,levy,36794,36797,mer,
-gdc-coref,jn65.0,36504,36948,levy,36930,36934,Mein,levy
 gdc-coref,jn65.0,36953,37230,lies,36975,36986,mein' Vroni,deine-Mutter
 gdc-coref,jn65.0,36953,37230,lies,36975,36979,mein,lies
 gdc-coref,jn65.0,36953,37230,lies,36998,37013,die jung' Leut',
@@ -2270,7 +2268,6 @@ gdc-coref,jn65.0,73543,79804,ferner,78960,78963,Ich,ferner
 gdc-coref,jn65.0,73543,79804,ferner,78984,78987,ich,ferner
 gdc-coref,jn65.0,73543,79804,ferner,78999,79002,ich,ferner
 gdc-coref,jn65.0,73543,79804,ferner,79029,79032,ich,ferner
-gdc-coref,jn65.0,73543,79804,ferner,79039,79042,Mir,ferner
 gdc-coref,jn65.0,73543,79804,ferner,79093,79096,mir,ferner
 gdc-coref,jn65.0,73543,79804,ferner,79103,79106,Ich,ferner
 gdc-coref,jn65.0,73543,79804,ferner,79218,79221,mir,ferner
@@ -2350,7 +2347,6 @@ gdc-coref,jn65.0,87939,88070,vroni,87974,87978,mich,vroni
 gdc-coref,jn65.0,87939,88070,vroni,88048,88051,mir,vroni
 gdc-coref,jn65.0,88076,88114,toni,88090,88093,ich,toni
 gdc-coref,jn65.0,88119,88282,vroni,88133,88136,Ich,vroni
-gdc-coref,jn65.0,88119,88282,vroni,88255,88259,mich,vroni
 gdc-coref,jn65.0,88287,88362,toni,88305,88308,ich,toni
 gdc-coref,jn65.0,88367,88419,vroni,88389,88392,ich,vroni
 gdc-coref,jn65.0,88424,88601,toni,88438,88441,ich,toni
@@ -2547,7 +2543,6 @@ gdc-coref,jn65.0,108834,109173,ferner,109061,109064,ich,ferner
 gdc-coref,jn65.0,108834,109173,ferner,109112,109115,ich,ferner
 gdc-coref,jn65.0,108834,109173,ferner,109122,109126,mich,ferner
 gdc-coref,jn65.0,109178,109301,franz,109264,109267,ich,franz
-gdc-coref,jn65.0,109306,109422,ferner,109349,109352,Mir,ferner
 gdc-coref,jn65.0,109427,109586,franz,109440,109444,mich,franz
 gdc-coref,jn65.0,109427,109586,franz,109450,109453,ich,franz
 gdc-coref,jn65.0,109427,109586,franz,109456,109459,ich,franz
@@ -2598,7 +2593,6 @@ gdc-coref,jn65.0,119121,120484,mahm,120145,120148,mir,mahm
 gdc-coref,jn65.0,119121,120484,mahm,120235,120238,ich,mahm
 gdc-coref,jn65.0,119121,120484,mahm,120354,120357,ich,mahm
 gdc-coref,jn65.0,119121,120484,mahm,120463,120466,ich,mahm
-gdc-coref,jn65.0,120602,121018,mahm,120712,120716,mein,mahm
 gdc-coref,jn65.0,120602,121018,mahm,120718,120722,mein,mahm
 gdc-coref,jn65.0,120602,121018,mahm,120761,120765,mein,mahm
 gdc-coref,jn65.0,120602,121018,mahm,120788,120791,Ich,mahm

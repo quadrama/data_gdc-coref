@@ -23,7 +23,7 @@ gdc-coref,v0fv.0,11069,11100,FRANZ,franz,Tasche,NN,tasche,49528,,
 gdc-coref,v0fv.0,11069,11100,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,11465,11471,FRANZ,franz,liest,VVFIN,lesen,49528,,
 gdc-coref,v0fv.0,11465,11471,FRANZ,franz,.,$.,--,49528,,
-gdc-coref,v0fv.0,13528,13545,DER ALTE MOOR,der_alte,weint,ADJD,weinen,49528,,
+gdc-coref,v0fv.0,13528,13545,DER ALTE MOOR,der_alte,weint,VVFIN,weinen,49528,,
 gdc-coref,v0fv.0,13528,13545,DER ALTE MOOR,der_alte,bitterlich,ADJD,bitterlich,49528,,
 gdc-coref,v0fv.0,13528,13545,DER ALTE MOOR,der_alte,.,$.,--,49528,,
 gdc-coref,v0fv.0,13591,13613,FRANZ,franz,fällt,VVFIN,fallen,49528,,
@@ -104,13 +104,13 @@ gdc-coref,v0fv.0,40028,40038,MOOR,karl_von_moor,zerstreut,VVPP,zerstreuen,49528,
 gdc-coref,v0fv.0,40028,40038,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,40725,40734,SPIEGELBERG,spiegelberg,hitziger,ADJD,hitziger,49528,,
 gdc-coref,v0fv.0,40725,40734,SPIEGELBERG,spiegelberg,.,$.,--,49528,,
-gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Schweizer,ADJA,schweizer,49528,,(125)
+gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Schweizer,NN,schweizer,49528,,(125)
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,",","$,",--,49528,,
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Grimm,NE,grimm,49528,,(126)
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,",","$,",--,49528,,
-gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Roller,NN,roller,49528,,(127)
+gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Roller,NE,roller,49528,,(127)
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,",","$,",--,49528,,
-gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Schufterle,NN,schufterle,49528,,(128)
+gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Schufterle,NE,schufterle,49528,,(128)
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,",","$,",--,49528,,
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,Razmann,NE,razmann,49528,,(129)
 gdc-coref,v0fv.0,41928,41985,MOOR,karl_von_moor,treten,VVFIN,treten,49528,,
@@ -137,12 +137,12 @@ gdc-coref,v0fv.0,42704,42748,SCHWARZ,schwarz,.,$.,--,49528,,
 gdc-coref,v0fv.0,43108,43122,GRIMM,grimm,schüttelt,VVFIN,schütteln,49528,,
 gdc-coref,v0fv.0,43108,43122,GRIMM,grimm,ihn,PPER,ihn,49528,,(92)
 gdc-coref,v0fv.0,43108,43122,GRIMM,grimm,.,$.,--,49528,,
-gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,der,ART,der,49528,,
+gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,der,PRELS,der,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,sich,PRF,sich,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,die,ART,der,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,ganze,ADJA,ganz,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,Zeit,NN,zeit,49528,,
-gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,über,ADV,über,49528,,
+gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,über,APPR,über,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,mit,APPR,mit,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,den,ART,der,49528,,
 gdc-coref,v0fv.0,43168,43285,SPIEGELBERG,spiegelberg,Pantomimen,NN,pantomim,49528,,
@@ -169,7 +169,7 @@ gdc-coref,v0fv.0,43655,43694,ROLLER,roller,Erde,NN,erde,49528,,
 gdc-coref,v0fv.0,43655,43694,ROLLER,roller,und,KON,und,49528,,
 gdc-coref,v0fv.0,43655,43694,ROLLER,roller,liest,VVFIN,lesen,49528,,
 gdc-coref,v0fv.0,43655,43694,ROLLER,roller,.,$.,--,49528,,
-gdc-coref,v0fv.0,44424,44449,SPIEGELBERG,spiegelberg,sachte,ADJA,sachen,49528,,
+gdc-coref,v0fv.0,44424,44449,SPIEGELBERG,spiegelberg,sachte,VVFIN,sachen,49528,,
 gdc-coref,v0fv.0,44424,44449,SPIEGELBERG,spiegelberg,herbeischleichend,ADJD,herbeischleichend,49528,,
 gdc-coref,v0fv.0,44424,44449,SPIEGELBERG,spiegelberg,.,$.,--,49528,,
 gdc-coref,v0fv.0,44953,44981,SPIEGELBERG,spiegelberg,mit,APPR,mit,49528,,
@@ -262,13 +262,13 @@ gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,Moorischen,ADJA,moorisch,49528,,
 gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,Schloß,NN,schloß,49528,,
 gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,",","$,",--,49528,,
 gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,Amaliens,NE,amalien,49528,,
-gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,Zimmer,NN,zimmer,49528,,
+gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,Zimmer,NE,zimmer,49528,,
 gdc-coref,v0fv.0,59159,59197,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,59200,59214,_Stage,_Stage,Franz,NE,franz,49528,,(25)
 gdc-coref,v0fv.0,59200,59214,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,59200,59214,_Stage,_Stage,Amalia,NE,amalia,49528,,(52)
 gdc-coref,v0fv.0,59200,59214,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,61162,61169,AMALIA,amalia,bewegt,VVPP,bewegen,49528,,
+gdc-coref,v0fv.0,61162,61169,AMALIA,amalia,bewegt,VVFIN,bewegen,49528,,
 gdc-coref,v0fv.0,61162,61169,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,61370,61381,AMALIA,amalia,auffahrend,ADJD,auffahrend,49528,,
 gdc-coref,v0fv.0,61370,61381,AMALIA,amalia,.,$.,--,49528,,
@@ -367,7 +367,7 @@ gdc-coref,v0fv.0,79652,79704,_Stage,_Stage,Lehnsessel,NN,lehnsessel,49528,,
 gdc-coref,v0fv.0,79652,79704,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,79652,79704,_Stage,_Stage,Amalia,NE,amalia,49528,,(52)
 gdc-coref,v0fv.0,79652,79704,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,79715,79740,AMALIA,amalia,sachte,ADJA,sachen,49528,,
+gdc-coref,v0fv.0,79715,79740,AMALIA,amalia,sachte,VVFIN,sachen,49528,,
 gdc-coref,v0fv.0,79715,79740,AMALIA,amalia,herbeischleichend,ADJD,herbeischleichend,49528,,
 gdc-coref,v0fv.0,79715,79740,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,80046,80055,DER ALTE MOOR,der_alte,träumend,ADJD,träumend,49528,,
@@ -381,12 +381,12 @@ gdc-coref,v0fv.0,80336,80354,AMALIA,amalia,ihn,PPER,ihn,49528,,(26)
 gdc-coref,v0fv.0,80336,80354,AMALIA,amalia,schnell,ADJD,schnell,49528,,
 gdc-coref,v0fv.0,80336,80354,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,80429,80439,DER ALTE MOOR,der_alte,halb,ADJD,halb,49528,,
-gdc-coref,v0fv.0,80429,80439,DER ALTE MOOR,der_alte,wach,ADJD,wach,49528,,
+gdc-coref,v0fv.0,80429,80439,DER ALTE MOOR,der_alte,wach,PTKVZ,wach,49528,,
 gdc-coref,v0fv.0,80429,80439,DER ALTE MOOR,der_alte,.,$.,--,49528,,
 gdc-coref,v0fv.0,80603,80618,DER ALTE MOOR,der_alte,ermuntert,VVFIN,ermuntern,49528,,
 gdc-coref,v0fv.0,80603,80618,DER ALTE MOOR,der_alte,sich,PRF,sich,49528,,(26)
 gdc-coref,v0fv.0,80603,80618,DER ALTE MOOR,der_alte,.,$.,--,49528,,
-gdc-coref,v0fv.0,81185,81218,AMALIA,amalia,küßt,ADJD,küssen,49528,,
+gdc-coref,v0fv.0,81185,81218,AMALIA,amalia,küßt,VVFIN,küssen,49528,,
 gdc-coref,v0fv.0,81185,81218,AMALIA,amalia,seine,PPOSAT,sein,49528,,(26)
 gdc-coref,v0fv.0,81185,81218,AMALIA,amalia,Hand,NN,hand,49528,,
 gdc-coref,v0fv.0,81185,81218,AMALIA,amalia,mit,APPR,mit,49528,,
@@ -420,7 +420,7 @@ gdc-coref,v0fv.0,84865,84888,HERMANN,hermann,Stimme,NN,stimme,49528,,
 gdc-coref,v0fv.0,84865,84888,HERMANN,hermann,.,$.,--,49528,,
 gdc-coref,v0fv.0,85185,85196,AMALIA,amalia,auffahrend,ADJD,auffahrend,49528,,
 gdc-coref,v0fv.0,85185,85196,AMALIA,amalia,.,$.,--,49528,,
-gdc-coref,v0fv.0,86195,86229,DER ALTE MOOR,der_alte,verhüllt,VVPP,verhüllen,49528,,
+gdc-coref,v0fv.0,86195,86229,DER ALTE MOOR,der_alte,verhüllt,VVFIN,verhüllen,49528,,
 gdc-coref,v0fv.0,86195,86229,DER ALTE MOOR,der_alte,sein,PPOSAT,sein,49528,,(26)
 gdc-coref,v0fv.0,86195,86229,DER ALTE MOOR,der_alte,Haupt,NN,haupt,49528,,
 gdc-coref,v0fv.0,86195,86229,DER ALTE MOOR,der_alte,in,APPR,in,49528,,
@@ -435,7 +435,7 @@ gdc-coref,v0fv.0,87194,87221,FRANZ,franz,auf,APPR,auf,49528,,
 gdc-coref,v0fv.0,87194,87221,FRANZ,franz,Hermann,NE,hermann,49528,,(207)
 gdc-coref,v0fv.0,87194,87221,FRANZ,franz,losgehend,ADJD,losgehend,49528,,
 gdc-coref,v0fv.0,87194,87221,FRANZ,franz,.,$.,--,49528,,
-gdc-coref,v0fv.0,87705,87744,AMALIA,amalia,wie,KOKOM,wie,49528,,
+gdc-coref,v0fv.0,87705,87744,AMALIA,amalia,wie,PWAV,wie,49528,,
 gdc-coref,v0fv.0,87705,87744,AMALIA,amalia,aus,APPR,aus,49528,,
 gdc-coref,v0fv.0,87705,87744,AMALIA,amalia,einem,ART,ein,49528,,
 gdc-coref,v0fv.0,87705,87744,AMALIA,amalia,Todesschlummer,NN,todesschlummer,49528,,
@@ -453,8 +453,8 @@ gdc-coref,v0fv.0,87916,87938,FRANZ,franz,umherirrend,ADJD,umherirrend,49528,,
 gdc-coref,v0fv.0,87916,87938,FRANZ,franz,im,APPRART,in,49528,,
 gdc-coref,v0fv.0,87916,87938,FRANZ,franz,Zimmer,NN,zimmer,49528,,
 gdc-coref,v0fv.0,87916,87938,FRANZ,franz,.,$.,--,49528,,
-gdc-coref,v0fv.0,88246,88259,FRANZ,franz,wie,KOKOM,wie,49528,,
-gdc-coref,v0fv.0,88246,88259,FRANZ,franz,erstaunt,ADJD,erstaunen,49528,,
+gdc-coref,v0fv.0,88246,88259,FRANZ,franz,wie,PWAV,wie,49528,,
+gdc-coref,v0fv.0,88246,88259,FRANZ,franz,erstaunt,VVPP,erstaunen,49528,,
 gdc-coref,v0fv.0,88246,88259,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,88320,88349,AMALIA,amalia,heftig,ADJD,heftig,49528,,
 gdc-coref,v0fv.0,88320,88349,AMALIA,amalia,auf,APPR,auf,49528,,
@@ -516,7 +516,7 @@ gdc-coref,v0fv.0,95042,95067,DER ALTE MOOR,der_alte,aufs,APPRART,auf,49528,,
 gdc-coref,v0fv.0,95042,95067,DER ALTE MOOR,der_alte,Kissen,NN,kissen,49528,,
 gdc-coref,v0fv.0,95042,95067,DER ALTE MOOR,der_alte,zurück,PTKVZ,zurück,49528,,
 gdc-coref,v0fv.0,95042,95067,DER ALTE MOOR,der_alte,.,$.,--,49528,,
-gdc-coref,v0fv.0,95121,95134,AMALIA,amalia,liest,VVFIN,lesen,49528,,
+gdc-coref,v0fv.0,95121,95134,AMALIA,amalia,liest,ADJD,lesen,49528,,
 gdc-coref,v0fv.0,95121,95134,AMALIA,amalia,weiter,ADV,weiter,49528,,
 gdc-coref,v0fv.0,95121,95134,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,95477,95514,AMALIA,amalia,hinzuspringend,ADJD,hinzuspringend,49528,,
@@ -542,7 +542,7 @@ gdc-coref,v0fv.0,97577,97599,_Stage,_Stage,Wälder,NN,wald,49528,,
 gdc-coref,v0fv.0,97577,97599,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,Spiegelberg,NE,spiegelberg,49528,,(92)
 gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,",","$,",--,49528,,
-gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,Razmann,NE,razmann,49528,,(129)
+gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,Razmann,NN,razmann,49528,,(129)
 gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,",","$,",--,49528,,
 gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,Räuberhaufen,NN,räuberhaufen,49528,,(266)
 gdc-coref,v0fv.0,97602,97637,_Stage,_Stage,.,$.,--,49528,,
@@ -553,7 +553,7 @@ gdc-coref,v0fv.0,102345,102369,RAZMANN,razmann,den,ART,der,49528,,
 gdc-coref,v0fv.0,102345,102369,RAZMANN,razmann,Boden,NN,boden,49528,,
 gdc-coref,v0fv.0,102345,102369,RAZMANN,razmann,stampfend,ADJD,stampfend,49528,,
 gdc-coref,v0fv.0,102345,102369,RAZMANN,razmann,.,$.,--,49528,,
-gdc-coref,v0fv.0,111111,111134,RAZMANN,razmann,Schwarz,NE,schwarz,49528,,(130)
+gdc-coref,v0fv.0,111111,111134,RAZMANN,razmann,Schwarz,ADJD,schwarz,49528,,(130)
 gdc-coref,v0fv.0,111111,111134,RAZMANN,razmann,in,APPR,in,49528,,
 gdc-coref,v0fv.0,111111,111134,RAZMANN,razmann,vollem,ADJA,voll,49528,,
 gdc-coref,v0fv.0,111111,111134,RAZMANN,razmann,Lauf,NN,lauf,49528,,
@@ -565,25 +565,25 @@ gdc-coref,v0fv.0,113279,113305,RAZMANN,razmann,der,ART,der,49528,,
 gdc-coref,v0fv.0,113279,113305,RAZMANN,razmann,Szene,NN,szene,49528,,
 gdc-coref,v0fv.0,113279,113305,RAZMANN,razmann,gesungen,VVPP,singen,49528,,
 gdc-coref,v0fv.0,113279,113305,RAZMANN,razmann,.,$.,--,49528,,
-gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,zu,APPR,zu,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Pferd,NN,pferd,49528,,(312)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,",","$,",--,49528,,
-gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Schweizer,ADJA,schweizer,49528,,(125)
+gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Schweizer,NN,schweizer,49528,,(125)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,",","$,",--,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Roller,NN,roller,49528,,(127)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,",","$,",--,49528,,
-gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Grimm,NE,grimm,49528,,(126)
+gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Grimm,NN,grimm,49528,,(126)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,",","$,",--,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Schufterle,NN,schufterle,49528,,(128)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,",","$,",--,49528,,
-gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Räubertrupp,NE,räubertrupp,49528,,(553)
+gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Räubertrupp,NN,räubertrupp,49528,,(553)
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,mit,APPR,mit,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Kot,NN,kot,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,und,KON,und,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,Staub,NN,staub,49528,,
-gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,bedeckt,VVFIN,bedeckt,49528,,
+gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,bedeckt,ADJD,bedeckt,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,",","$,",--,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,treten,VVFIN,treten,49528,,
 gdc-coref,v0fv.0,113661,113771,RAZMANN,razmann,auf,PTKVZ,auf,49528,,
@@ -614,18 +614,18 @@ gdc-coref,v0fv.0,118952,118972,ROLLER,roller,.,$.,--,49528,,
 gdc-coref,v0fv.0,120833,120844,MOOR,karl_von_moor,sehr,ADV,sehr,49528,,
 gdc-coref,v0fv.0,120833,120844,MOOR,karl_von_moor,ernst,ADJD,ernst,49528,,
 gdc-coref,v0fv.0,120833,120844,MOOR,karl_von_moor,.,$.,--,49528,,
-gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,Moor,NE,moor,49528,,(29)
+gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,Moor,NN,moor,49528,,(29)
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,allein,ADV,allein,49528,,
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,",","$,",--,49528,,
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,heftig,ADJD,heftig,49528,,
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,auf,PTKVZ,auf,49528,,
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,und,KON,und,49528,,
-gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,ab,APPR,ab,49528,,
+gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,ab,ADV,ab,49528,,
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,gehend,ADJD,gehend,49528,,
 gdc-coref,v0fv.0,122668,122706,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,123613,123619,DIE RÄUBER,räuber,eilig,ADJD,eilig,49528,,
 gdc-coref,v0fv.0,123613,123619,DIE RÄUBER,räuber,.,$.,--,49528,,
-gdc-coref,v0fv.0,124124,124205,DIE RÄUBER,räuber,Schweizer,ADJA,schweizer,49528,,(125)
+gdc-coref,v0fv.0,124124,124205,DIE RÄUBER,räuber,Schweizer,NN,schweizer,49528,,(125)
 gdc-coref,v0fv.0,124124,124205,DIE RÄUBER,räuber,.,$.,--,49528,,
 gdc-coref,v0fv.0,124124,124205,DIE RÄUBER,räuber,Grimm,NE,grimm,49528,,(126)
 gdc-coref,v0fv.0,124124,124205,DIE RÄUBER,räuber,.,$.,--,49528,,
@@ -667,7 +667,7 @@ gdc-coref,v0fv.0,136240,136249,PATER,pater,vor,APPR,vor,49528,,
 gdc-coref,v0fv.0,136240,136249,PATER,pater,sich,PRF,sich,49528,,(340)
 gdc-coref,v0fv.0,136240,136249,PATER,pater,.,$.,--,49528,,
 gdc-coref,v0fv.0,138241,138258,PATER,pater,äußerst,ADV,äußerst,49528,,
-gdc-coref,v0fv.0,138241,138258,PATER,pater,erstaunt,VVPP,erstaunen,49528,,
+gdc-coref,v0fv.0,138241,138258,PATER,pater,erstaunt,VVFIN,erstaunen,49528,,
 gdc-coref,v0fv.0,138241,138258,PATER,pater,.,$.,--,49528,,
 gdc-coref,v0fv.0,139011,139030,ROLLER,roller,in,APPR,in,49528,,
 gdc-coref,v0fv.0,139011,139030,ROLLER,roller,wilder,ADJA,wild,49528,,
@@ -675,7 +675,7 @@ gdc-coref,v0fv.0,139011,139030,ROLLER,roller,Bewegung,NN,bewegung,49528,,
 gdc-coref,v0fv.0,139011,139030,ROLLER,roller,.,$.,--,49528,,
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,zerreißt,VVFIN,zerreißen,49528,,
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,den,ART,der,49528,,(360
-gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,Pardon,NE,pardon,49528,,360)
+gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,Pardon,NN,pardon,49528,,360)
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,und,KON,und,49528,,
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,wirft,VVFIN,werfen,49528,,
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,die,ART,der,49528,,
@@ -685,7 +685,7 @@ gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,Pater,NN,pater,49528,,340)
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,ins,APPRART,in,49528,,
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,Gesicht,NN,gesicht,49528,,
 gdc-coref,v0fv.0,139155,139218,SCHWEIZER,schweizer,.,$.,--,49528,,
-gdc-coref,v0fv.0,139398,139405,,,lärmen,VVFIN,lärmen,49528,,
+gdc-coref,v0fv.0,139398,139405,,,lärmen,VVINF,lärmen,49528,,
 gdc-coref,v0fv.0,139398,139405,,,.,$.,--,49528,,
 gdc-coref,v0fv.0,139456,139481,MOOR,karl_von_moor,sich,PRF,sich,49528,,(29)
 gdc-coref,v0fv.0,139456,139481,MOOR,karl_von_moor,losreißend,ADJD,losreißend,49528,,
@@ -699,11 +699,11 @@ gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,Angriff,NN,angriff,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,Lärm,NN,lärm,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,und,KON,und,49528,,
-gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,Getümmel,NE,getümmel,49528,,
+gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,Getümmel,NN,getümmel,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,Sie,PPER,sie,49528,,(298)
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,gehen,VVFIN,gehen,49528,,
-gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,ab,APPR,ab,49528,,
+gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,ab,PTKVZ,ab,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,mit,APPR,mit,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,gezogenem,ADJA,gezogen,49528,,
 gdc-coref,v0fv.0,139621,139696,MOOR,karl_von_moor,Degen,NN,degen,49528,,
@@ -769,11 +769,11 @@ gdc-coref,v0fv.0,146506,146528,AMALIA,amalia,ihn,PPER,ihn,49528,,(207)
 gdc-coref,v0fv.0,146506,146528,AMALIA,amalia,herstürzend,ADJD,herstürzend,49528,,
 gdc-coref,v0fv.0,146506,146528,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,146737,146764,AMALIA,amalia,steht,VVFIN,stehen,49528,,
-gdc-coref,v0fv.0,146737,146764,AMALIA,amalia,lang,ADV,lang,49528,,
+gdc-coref,v0fv.0,146737,146764,AMALIA,amalia,lang,ADJD,lang,49528,,
 gdc-coref,v0fv.0,146737,146764,AMALIA,amalia,wie,KOKOM,wie,49528,,
 gdc-coref,v0fv.0,146737,146764,AMALIA,amalia,versteinert,VVPP,versteinern,49528,,
 gdc-coref,v0fv.0,146737,146764,AMALIA,amalia,.,$.,--,49528,,
-gdc-coref,v0fv.0,146866,146886,_Stage,_Stage,Gegend,NN,gegend,49528,,
+gdc-coref,v0fv.0,146866,146886,_Stage,_Stage,Gegend,ADJD,gegend,49528,,
 gdc-coref,v0fv.0,146866,146886,_Stage,_Stage,an,APPR,an,49528,,
 gdc-coref,v0fv.0,146866,146886,_Stage,_Stage,der,ART,der,49528,,
 gdc-coref,v0fv.0,146866,146886,_Stage,_Stage,Donau,NE,donau,49528,,
@@ -810,10 +810,10 @@ gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,legt,VVFIN,legen,49528,,
 gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,sein,PPOSAT,sein,49528,,
 gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,Haupt,NN,haupt,49528,,
 gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,auf,APPR,auf,49528,,
-gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,Grimms,NN,grimm,49528,,(126)
+gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,Grimms,NE,grimm,49528,,(126)
 gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,Brust,NN,brust,49528,,
 gdc-coref,v0fv.0,149465,149498,MOOR,karl_von_moor,.,$.,--,49528,,
-gdc-coref,v0fv.0,149908,149923,MOOR,karl_von_moor,zurückgesunken,VVIZU,zurücksunken,49528,,
+gdc-coref,v0fv.0,149908,149923,MOOR,karl_von_moor,zurückgesunken,VVPP,zurücksunken,49528,,
 gdc-coref,v0fv.0,149908,149923,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,150874,150889,SCHWARZ,schwarz,zu,APPR,zu,49528,,
 gdc-coref,v0fv.0,150874,150889,SCHWARZ,schwarz,den,ART,der,49528,,(298
@@ -824,9 +824,9 @@ gdc-coref,v0fv.0,150945,150956,MOOR,karl_von_moor,Wehmut,NN,wehmut,49528,,
 gdc-coref,v0fv.0,150945,150956,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,151322,151336,GRIMM,grimm,zu,APPR,zu,49528,,
 gdc-coref,v0fv.0,151322,151336,GRIMM,grimm,den,ART,der,49528,,(298
-gdc-coref,v0fv.0,151322,151336,GRIMM,grimm,andern,VVINF,anderer,49528,,298)
+gdc-coref,v0fv.0,151322,151336,GRIMM,grimm,andern,PIS,anderer,49528,,298)
 gdc-coref,v0fv.0,151322,151336,GRIMM,grimm,.,$.,--,49528,,
-gdc-coref,v0fv.0,151828,151856,MOOR,karl_von_moor,Schweizer,ADJA,schweizer,49528,,(125)
+gdc-coref,v0fv.0,151828,151856,MOOR,karl_von_moor,Schweizer,NN,schweizer,49528,,(125)
 gdc-coref,v0fv.0,151828,151856,MOOR,karl_von_moor,mit,APPR,mit,49528,,
 gdc-coref,v0fv.0,151828,151856,MOOR,karl_von_moor,Wasser,NN,wasser,49528,,
 gdc-coref,v0fv.0,151828,151856,MOOR,karl_von_moor,im,APPRART,in,49528,,
@@ -870,7 +870,7 @@ gdc-coref,v0fv.0,155966,155983,SCHWEIZER,schweizer,.,$.,--,49528,,
 gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,unwillig,ADJD,unwillig,49528,,
 gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,auf,PTKVZ,auf,49528,,
 gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,und,KON,und,49528,,
-gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,ab,APPR,ab,49528,,
+gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,ab,ADV,ab,49528,,
 gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,gehend,ADJD,gehend,49528,,
 gdc-coref,v0fv.0,158267,158294,SPIEGELBERG,spiegelberg,.,$.,--,49528,,
 gdc-coref,v0fv.0,160776,160799,KOSINSKY,kosinsky,Moor,NE,moor,49528,,(29)
@@ -919,7 +919,7 @@ gdc-coref,v0fv.0,164307,164348,_Stage,_Stage,das,ART,der,49528,,(408
 gdc-coref,v0fv.0,164307,164348,_Stage,_Stage,Moorische,ADJA,moorisch,49528,,
 gdc-coref,v0fv.0,164307,164348,_Stage,_Stage,Schloß,NN,schloß,49528,,408)
 gdc-coref,v0fv.0,164307,164348,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,164351,164386,_Stage,_Stage,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,164351,164386,_Stage,_Stage,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,164351,164386,_Stage,_Stage,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,164351,164386,_Stage,_Stage,",","$,",--,49528,,
 gdc-coref,v0fv.0,164351,164386,_Stage,_Stage,Kosinsky,NE,kosinsky,49528,,(389)
@@ -931,7 +931,7 @@ gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,Galerie,NN,galerie,49528,,
 gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,im,APPRART,in,49528,,
 gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,Schloß,NN,schloß,49528,,(408)
 gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,",","$,",--,49528,,
 gdc-coref,v0fv.0,167193,167243,_Stage,_Stage,Amalia,NE,amalia,49528,,(52)
@@ -953,7 +953,7 @@ gdc-coref,v0fv.0,168014,168049,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,168146,168174,MOOR,karl_von_moor,in,APPR,in,49528,,
 gdc-coref,v0fv.0,168146,168174,MOOR,karl_von_moor,seinen,PPOSAT,sein,49528,,(26)
 gdc-coref,v0fv.0,168146,168174,MOOR,karl_von_moor,Anblick,NN,anblick,49528,,
-gdc-coref,v0fv.0,168146,168174,MOOR,karl_von_moor,versunken,VVPP,versunken,49528,,
+gdc-coref,v0fv.0,168146,168174,MOOR,karl_von_moor,versunken,VVINF,versunken,49528,,
 gdc-coref,v0fv.0,168146,168174,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,169345,169363,MOOR,karl_von_moor,Amalia,NE,amalia,49528,,(52)
 gdc-coref,v0fv.0,169345,169363,MOOR,karl_von_moor,schnell,ADJD,schnell,49528,,
@@ -966,7 +966,7 @@ gdc-coref,v0fv.0,169936,169955,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,172116,172129,FRANZ,franz,Daniel,NE,daniel,49528,,(228)
 gdc-coref,v0fv.0,172116,172129,FRANZ,franz,kommt,VVFIN,kommen,49528,,
 gdc-coref,v0fv.0,172116,172129,FRANZ,franz,.,$.,--,49528,,
-gdc-coref,v0fv.0,172548,172564,FRANZ,franz,Daniel,NE,daniel,49528,,(228)
+gdc-coref,v0fv.0,172548,172564,FRANZ,franz,Daniel,NN,daniel,49528,,(228)
 gdc-coref,v0fv.0,172548,172564,FRANZ,franz,mit,APPR,mit,49528,,
 gdc-coref,v0fv.0,172548,172564,FRANZ,franz,Wein,NN,wein,49528,,(428)
 gdc-coref,v0fv.0,172548,172564,FRANZ,franz,.,$.,--,49528,,
@@ -975,7 +975,7 @@ gdc-coref,v0fv.0,173176,173195,FRANZ,franz,ihn,PPER,ihn,49528,,(228)
 gdc-coref,v0fv.0,173176,173195,FRANZ,franz,hart,ADJD,hart,49528,,
 gdc-coref,v0fv.0,173176,173195,FRANZ,franz,an,PTKVZ,an,49528,,
 gdc-coref,v0fv.0,173176,173195,FRANZ,franz,.,$.,--,49528,,
-gdc-coref,v0fv.0,174955,174960,FRANZ,franz,blaß,ADJD,blaß,49528,,
+gdc-coref,v0fv.0,174955,174960,FRANZ,franz,blaß,VVFIN,blaß,49528,,
 gdc-coref,v0fv.0,174955,174960,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,175059,175069,DANIEL,daniel,betroffen,VVPP,betreffen,49528,,
 gdc-coref,v0fv.0,175059,175069,DANIEL,daniel,.,$.,--,49528,,
@@ -990,7 +990,7 @@ gdc-coref,v0fv.0,177319,177339,FRANZ,franz,zu,PTKZU,zu,49528,,
 gdc-coref,v0fv.0,177319,177339,FRANZ,franz,gehen,VVINF,gehen,49528,,
 gdc-coref,v0fv.0,177319,177339,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,179260,179284,DANIEL,daniel,nach,APPR,nach,49528,,
-gdc-coref,v0fv.0,179260,179284,DANIEL,daniel,einigem,ADJA,einig,49528,,
+gdc-coref,v0fv.0,179260,179284,DANIEL,daniel,einigem,PIAT,einig,49528,,
 gdc-coref,v0fv.0,179260,179284,DANIEL,daniel,Nachdenken,NN,nachdenken,49528,,
 gdc-coref,v0fv.0,179260,179284,DANIEL,daniel,.,$.,--,49528,,
 gdc-coref,v0fv.0,181757,181781,_Stage,_Stage,Andres,NE,andres,49528,,
@@ -998,7 +998,7 @@ gdc-coref,v0fv.0,181757,181781,_Stage,_Stage,Zimmer,NN,zimmer,49528,,
 gdc-coref,v0fv.0,181757,181781,_Stage,_Stage,im,APPRART,in,49528,,
 gdc-coref,v0fv.0,181757,181781,_Stage,_Stage,Schloß,NN,schloß,49528,,(408)
 gdc-coref,v0fv.0,181757,181781,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,von,APPR,von,49528,,
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,der,ART,der,49528,,
@@ -1008,7 +1008,7 @@ gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,",","$,",--,49528,,
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,Daniel,NE,daniel,49528,,(228)
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,von,APPR,von,49528,,
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,der,ART,der,49528,,
-gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,andern,NN,anderer,49528,,
+gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,andern,VVINF,anderer,49528,,
 gdc-coref,v0fv.0,181784,181839,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,181848,181855,MOOR,karl_von_moor,hastig,ADJD,hastig,49528,,
 gdc-coref,v0fv.0,181848,181855,MOOR,karl_von_moor,.,$.,--,49528,,
@@ -1053,7 +1053,7 @@ gdc-coref,v0fv.0,190671,190681,_Stage,_Stage,Garten,NN,garten,49528,,
 gdc-coref,v0fv.0,190671,190681,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,190684,190691,_Stage,_Stage,Amalia,NE,amalia,49528,,(52
 gdc-coref,v0fv.0,190684,190691,_Stage,_Stage,.,$.,--,49528,,52)
-gdc-coref,v0fv.0,191570,191604,AMALIA,amalia,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,191570,191604,AMALIA,amalia,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,191570,191604,AMALIA,amalia,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,191570,191604,AMALIA,amalia,öffnet,VVFIN,öffnen,49528,,
 gdc-coref,v0fv.0,191570,191604,AMALIA,amalia,die,ART,der,49528,,(470
@@ -1069,7 +1069,7 @@ gdc-coref,v0fv.0,192898,192918,AMALIA,amalia,sieht,VVFIN,sehen,49528,,
 gdc-coref,v0fv.0,192898,192918,AMALIA,amalia,zur,APPRART,zu,49528,,
 gdc-coref,v0fv.0,192898,192918,AMALIA,amalia,Erde,NN,erde,49528,,
 gdc-coref,v0fv.0,192898,192918,AMALIA,amalia,.,$.,--,49528,,
-gdc-coref,v0fv.0,194174,194179,AMALIA,amalia,blaß,ADJD,blaß,49528,,
+gdc-coref,v0fv.0,194174,194179,AMALIA,amalia,blaß,VVFIN,blaß,49528,,
 gdc-coref,v0fv.0,194174,194179,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,195322,195338,AMALIA,amalia,froh,ADJD,froh,49528,,
 gdc-coref,v0fv.0,195322,195338,AMALIA,amalia,aufhüpfend,ADJD,aufhüpfend,49528,,
@@ -1078,7 +1078,7 @@ gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,Moor,NE,moor,49528,,(29)
 gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,kehrt,VVFIN,kehren,49528,,
 gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,sich,PRF,sich,49528,,
 gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,schnell,ADJD,schnell,49528,,
-gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,ab,APPR,ab,49528,,
+gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,ab,PTKVZ,ab,49528,,
 gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,in,APPR,in,49528,,
 gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,ein,ART,ein,49528,,
 gdc-coref,v0fv.0,195607,195677,AMALIA,amalia,Gebüsch,NN,gebüsch,49528,,
@@ -1110,7 +1110,7 @@ gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,Laute,NN,laute,49528,,479)
 gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,weg,PTKVZ,weg,49528,,
 gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,und,KON,und,49528,,
 gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,flieht,VVFIN,fliehen,49528,,
-gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,davon,PROAV,davon,49528,,
+gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,davon,PTKVZ,davon,49528,,
 gdc-coref,v0fv.0,196102,196142,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,196185,196253,_Stage,_Stage,Nahgelegener,ADJA,nahgelegener,49528,,
 gdc-coref,v0fv.0,196185,196253,_Stage,_Stage,Wald,NN,wald,49528,,
@@ -1139,25 +1139,25 @@ gdc-coref,v0fv.0,197743,197766,SPIEGELBERG,spiegelberg,Razmann,NE,razmann,49528,
 gdc-coref,v0fv.0,197743,197766,SPIEGELBERG,spiegelberg,beiseite,ADV,beiseite,49528,,
 gdc-coref,v0fv.0,197743,197766,SPIEGELBERG,spiegelberg,.,$.,--,49528,,
 gdc-coref,v0fv.0,197804,197813,SCHWARZ,schwarz,zu,APPR,zu,49528,,
-gdc-coref,v0fv.0,197804,197813,SCHWARZ,schwarz,Grimm,NE,grimm,49528,,(126)
+gdc-coref,v0fv.0,197804,197813,SCHWARZ,schwarz,Grimm,NN,grimm,49528,,(126)
 gdc-coref,v0fv.0,197804,197813,SCHWARZ,schwarz,.,$.,--,49528,,
 gdc-coref,v0fv.0,198271,198292,RAZMANN,razmann,leise,ADJD,leise,49528,,
-gdc-coref,v0fv.0,198271,198292,RAZMANN,razmann,zu,PTKZU,zu,49528,,
-gdc-coref,v0fv.0,198271,198292,RAZMANN,razmann,Spiegelberg,VVINF,spiegelberg,49528,,(92)
+gdc-coref,v0fv.0,198271,198292,RAZMANN,razmann,zu,APPR,zu,49528,,
+gdc-coref,v0fv.0,198271,198292,RAZMANN,razmann,Spiegelberg,NE,spiegelberg,49528,,(92)
 gdc-coref,v0fv.0,198271,198292,RAZMANN,razmann,.,$.,--,49528,,
 gdc-coref,v0fv.0,198557,198566,SCHWEIZER,schweizer,zu,APPR,zu,49528,,
-gdc-coref,v0fv.0,198557,198566,SCHWEIZER,schweizer,Grimm,NE,grimm,49528,,(126)
+gdc-coref,v0fv.0,198557,198566,SCHWEIZER,schweizer,Grimm,NN,grimm,49528,,(126)
 gdc-coref,v0fv.0,198557,198566,SCHWEIZER,schweizer,.,$.,--,49528,,
 gdc-coref,v0fv.0,198632,198653,RAZMANN,razmann,leise,ADJD,leise,49528,,
-gdc-coref,v0fv.0,198632,198653,RAZMANN,razmann,zu,PTKZU,zu,49528,,
-gdc-coref,v0fv.0,198632,198653,RAZMANN,razmann,Spiegelberg,VVINF,spiegelberg,49528,,(92)
+gdc-coref,v0fv.0,198632,198653,RAZMANN,razmann,zu,APPR,zu,49528,,
+gdc-coref,v0fv.0,198632,198653,RAZMANN,razmann,Spiegelberg,NE,spiegelberg,49528,,(92)
 gdc-coref,v0fv.0,198632,198653,RAZMANN,razmann,.,$.,--,49528,,
 gdc-coref,v0fv.0,199187,199201,SCHWEIZER,schweizer,zu,APPR,zu,49528,,
 gdc-coref,v0fv.0,199187,199201,SCHWEIZER,schweizer,den,ART,der,49528,,
-gdc-coref,v0fv.0,199187,199201,SCHWEIZER,schweizer,andern,VVINF,anderer,49528,,
+gdc-coref,v0fv.0,199187,199201,SCHWEIZER,schweizer,andern,PIS,anderer,49528,,
 gdc-coref,v0fv.0,199187,199201,SCHWEIZER,schweizer,.,$.,--,49528,,
-gdc-coref,v0fv.0,199388,199399,SPIEGELBERG,spiegelberg,zu,PTKZU,zu,49528,,
-gdc-coref,v0fv.0,199388,199399,SPIEGELBERG,spiegelberg,Razmann,VVINF,razmann,49528,,
+gdc-coref,v0fv.0,199388,199399,SPIEGELBERG,spiegelberg,zu,APPR,zu,49528,,
+gdc-coref,v0fv.0,199388,199399,SPIEGELBERG,spiegelberg,Razmann,NE,razmann,49528,,
 gdc-coref,v0fv.0,199388,199399,SPIEGELBERG,spiegelberg,.,$.,--,49528,,
 gdc-coref,v0fv.0,200050,200075,SCHWEIZER,schweizer,zieht,VVFIN,ziehen,49528,,
 gdc-coref,v0fv.0,200050,200075,SCHWEIZER,schweizer,wütend,ADJD,wütend,49528,,
@@ -1190,7 +1190,7 @@ gdc-coref,v0fv.0,201914,201929,DIE RÄUBER,räuber,.,$.,--,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,in,APPR,in,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,den,ART,der,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,Anblick,NN,anblick,49528,,
-gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,versunken,VVPP,versinken,49528,,
+gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,versunken,VVFIN,versinken,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,",","$,",--,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,bricht,VVFIN,brechen,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,heftig,ADJD,heftig,49528,,
@@ -1198,7 +1198,7 @@ gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,aus,PTKVZ,aus,49528,,
 gdc-coref,v0fv.0,201962,202006,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,202362,202374,MOOR,karl_von_moor,nachdenkend,ADJD,nachdenkend,49528,,
 gdc-coref,v0fv.0,202362,202374,MOOR,karl_von_moor,.,$.,--,49528,,
-gdc-coref,v0fv.0,203446,203459,DIE RÄUBER,räuber,Tiefe,NN,tief,49528,,
+gdc-coref,v0fv.0,203446,203459,DIE RÄUBER,räuber,Tiefe,ADJA,tief,49528,,
 gdc-coref,v0fv.0,203446,203459,DIE RÄUBER,räuber,Stille,NN,stille,49528,,
 gdc-coref,v0fv.0,203446,203459,DIE RÄUBER,räuber,.,$.,--,49528,,
 gdc-coref,v0fv.0,203470,203497,MOOR,karl_von_moor,nimmt,VVFIN,nehmen,49528,,
@@ -1232,7 +1232,7 @@ gdc-coref,v0fv.0,208175,208209,MOOR,karl_von_moor,den,ART,der,49528,,
 gdc-coref,v0fv.0,208175,208209,MOOR,karl_von_moor,Wald,NN,wald,49528,,
 gdc-coref,v0fv.0,208175,208209,MOOR,karl_von_moor,kommt,VVFIN,kommen,49528,,
 gdc-coref,v0fv.0,208175,208209,MOOR,karl_von_moor,.,$.,--,49528,,
-gdc-coref,v0fv.0,208476,208497,MOOR,karl_von_moor,sachte,ADJA,sachen,49528,,
+gdc-coref,v0fv.0,208476,208497,MOOR,karl_von_moor,sachte,VVFIN,sachen,49528,,
 gdc-coref,v0fv.0,208476,208497,MOOR,karl_von_moor,zurücktretend,ADJD,zurücktretend,49528,,
 gdc-coref,v0fv.0,208476,208497,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,208540,208555,DER ALTE MOOR,der_alte,aus,APPR,aus,49528,,
@@ -1256,7 +1256,7 @@ gdc-coref,v0fv.0,210105,210120,DER ALTE MOOR,der_alte,dem,ART,der,49528,,
 gdc-coref,v0fv.0,210105,210120,DER ALTE MOOR,der_alte,Schloß,NN,schloß,49528,,
 gdc-coref,v0fv.0,210105,210120,DER ALTE MOOR,der_alte,.,$.,--,49528,,
 gdc-coref,v0fv.0,210795,210822,MOOR,karl_von_moor,springt,VVFIN,springen,49528,,
-gdc-coref,v0fv.0,210795,210822,MOOR,karl_von_moor,erschrocken,ADJA,erschrocken,49528,,
+gdc-coref,v0fv.0,210795,210822,MOOR,karl_von_moor,erschrocken,ADJD,erschrocken,49528,,
 gdc-coref,v0fv.0,210795,210822,MOOR,karl_von_moor,zurück,PTKVZ,zurück,49528,,
 gdc-coref,v0fv.0,210795,210822,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,213116,213141,MOOR,karl_von_moor,heftig,ADJD,heftig,49528,,
@@ -1267,7 +1267,7 @@ gdc-coref,v0fv.0,213116,213141,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,215532,215542,DIE RÄUBER,räuber,aufgejagt,VVPP,aufjagen,49528,,
 gdc-coref,v0fv.0,215532,215542,DIE RÄUBER,räuber,.,$.,--,49528,,
 gdc-coref,v0fv.0,216443,216482,DIE RÄUBER,räuber,springen,VVFIN,springen,49528,,
-gdc-coref,v0fv.0,216443,216482,DIE RÄUBER,räuber,herbei,PROAV,herbei,49528,,
+gdc-coref,v0fv.0,216443,216482,DIE RÄUBER,räuber,herbei,ADV,herbei,49528,,
 gdc-coref,v0fv.0,216443,216482,DIE RÄUBER,räuber,und,KON,und,49528,,
 gdc-coref,v0fv.0,216443,216482,DIE RÄUBER,räuber,umringen,VVFIN,umringen,49528,,
 gdc-coref,v0fv.0,216443,216482,DIE RÄUBER,räuber,den,ART,der,49528,,
@@ -1284,10 +1284,10 @@ gdc-coref,v0fv.0,216524,216570,SCHWEIZER,schweizer,nieder,PTKVZ,nieder,49528,,
 gdc-coref,v0fv.0,216524,216570,SCHWEIZER,schweizer,.,$.,--,49528,,
 gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,Aussicht,NN,aussicht,49528,,
 gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,von,APPR,von,49528,,
-gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,vielen,PIDAT,vieler,49528,,
+gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,vielen,PIAT,vieler,49528,,
 gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,Zimmern,NN,zimmer,49528,,
 gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,Finstre,NN,finstr,49528,,
+gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,Finstre,ADJA,finstr,49528,,
 gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,Nacht,NN,nacht,49528,,
 gdc-coref,v0fv.0,220386,220429,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,220432,220485,_Stage,_Stage,Daniel,NE,daniel,49528,,(228)
@@ -1339,7 +1339,7 @@ gdc-coref,v0fv.0,234593,234629,FRANZ,franz,im,APPRART,in,49528,,
 gdc-coref,v0fv.0,234593,234629,FRANZ,franz,Zimmer,NN,zimmer,49528,,
 gdc-coref,v0fv.0,234593,234629,FRANZ,franz,auf,PTKVZ,auf,49528,,
 gdc-coref,v0fv.0,234593,234629,FRANZ,franz,und,KON,und,49528,,
-gdc-coref,v0fv.0,234593,234629,FRANZ,franz,ab,APPR,ab,49528,,
+gdc-coref,v0fv.0,234593,234629,FRANZ,franz,ab,PTKVZ,ab,49528,,
 gdc-coref,v0fv.0,234593,234629,FRANZ,franz,gehend,ADJD,gehend,49528,,
 gdc-coref,v0fv.0,234593,234629,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,236090,236113,FRANZ,franz,wild,ADJD,wild,49528,,
@@ -1375,7 +1375,7 @@ gdc-coref,v0fv.0,238785,238808,BEDIENTER,bedienter,Daniel,NE,daniel,49528,,(228)
 gdc-coref,v0fv.0,238785,238808,BEDIENTER,bedienter,kommt,VVFIN,kommen,49528,,
 gdc-coref,v0fv.0,238785,238808,BEDIENTER,bedienter,ängstlich,ADJD,ängstlich,49528,,
 gdc-coref,v0fv.0,238785,238808,BEDIENTER,bedienter,.,$.,--,49528,,
-gdc-coref,v0fv.0,239993,240013,FRANZ,franz,umarmt,VVPP,umarmen,49528,,
+gdc-coref,v0fv.0,239993,240013,FRANZ,franz,umarmt,ADJD,umarmen,49528,,
 gdc-coref,v0fv.0,239993,240013,FRANZ,franz,ihn,PPER,ihn,49528,,(228)
 gdc-coref,v0fv.0,239993,240013,FRANZ,franz,ungestüm,ADJD,ungestüm,49528,,
 gdc-coref,v0fv.0,239993,240013,FRANZ,franz,.,$.,--,49528,,
@@ -1397,14 +1397,14 @@ gdc-coref,v0fv.0,240734,240754,SCHWEIZER,schweizer,.,$.,--,49528,,
 gdc-coref,v0fv.0,241052,241058,FRANZ,franz,betet,VVFIN,beten,49528,,
 gdc-coref,v0fv.0,241052,241058,FRANZ,franz,.,$.,--,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,ihm,PPER,ihm,49528,,(228)
-gdc-coref,v0fv.0,241925,241965,FRANZ,franz,graß,ADJD,graß,49528,,
+gdc-coref,v0fv.0,241925,241965,FRANZ,franz,graß,VVFIN,graß,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,nachstierend,ADJD,nachstierend,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,",","$,",--,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,nach,APPR,nach,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,einer,ART,ein,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,Pause,NN,pause,49528,,
 gdc-coref,v0fv.0,241925,241965,FRANZ,franz,.,$.,--,49528,,
-gdc-coref,v0fv.0,242349,242377,FRANZ,franz,Schweizer,ADJA,schweizer,49528,,(125)
+gdc-coref,v0fv.0,242349,242377,FRANZ,franz,Schweizer,NN,schweizer,49528,,(125)
 gdc-coref,v0fv.0,242349,242377,FRANZ,franz,mit,APPR,mit,49528,,
 gdc-coref,v0fv.0,242349,242377,FRANZ,franz,seinen,PPOSAT,sein,49528,,(544
 gdc-coref,v0fv.0,242349,242377,FRANZ,franz,Leuten,NN,leute,49528,,544)
@@ -1438,14 +1438,14 @@ gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,einem,ART,ein,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,Stein,NN,stein,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,sitzend,ADJD,sitzend,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,.,$.,--,49528,,
-gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,gegenüber,PTKVZ,gegenüber,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,.,$.,--,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,Räuber,NN,räuber,49528,,(625)
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,hin,ADV,hin,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,und,KON,und,49528,,
-gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,her,APZR,her,49528,,
+gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,her,ADV,her,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,im,APPRART,in,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,Wald,NN,wald,49528,,
 gdc-coref,v0fv.0,243218,243307,_Stage,_Stage,.,$.,--,49528,,
@@ -1453,7 +1453,7 @@ gdc-coref,v0fv.0,243708,243730,DER ALTE MOOR,der_alte,in,APPR,in,49528,,
 gdc-coref,v0fv.0,243708,243730,DER ALTE MOOR,der_alte,Tränen,NN,träne,49528,,
 gdc-coref,v0fv.0,243708,243730,DER ALTE MOOR,der_alte,ausbrechend,ADJD,ausbrechend,49528,,
 gdc-coref,v0fv.0,243708,243730,DER ALTE MOOR,der_alte,.,$.,--,49528,,
-gdc-coref,v0fv.0,243932,243944,MOOR,karl_von_moor,erschrocken,VVIZU,erschrocken,49528,,
+gdc-coref,v0fv.0,243932,243944,MOOR,karl_von_moor,erschrocken,VVINF,erschrocken,49528,,
 gdc-coref,v0fv.0,243932,243944,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,244429,244437,MOOR,karl_von_moor,schnell,ADJD,schnell,49528,,
 gdc-coref,v0fv.0,244429,244437,MOOR,karl_von_moor,.,$.,--,49528,,
@@ -1466,7 +1466,7 @@ gdc-coref,v0fv.0,245308,245330,MOOR,karl_von_moor,von,APPR,von,49528,,
 gdc-coref,v0fv.0,245308,245330,MOOR,karl_von_moor,ihm,PPER,ihm,49528,,(26)
 gdc-coref,v0fv.0,245308,245330,MOOR,karl_von_moor,weg,PTKVZ,weg,49528,,
 gdc-coref,v0fv.0,245308,245330,MOOR,karl_von_moor,.,$.,--,49528,,
-gdc-coref,v0fv.0,245625,245681,DER ALTE MOOR,der_alte,Räuber,NN,räuber,49528,,(29
+gdc-coref,v0fv.0,245625,245681,DER ALTE MOOR,der_alte,Räuber,NE,räuber,49528,,(29
 gdc-coref,v0fv.0,245625,245681,DER ALTE MOOR,der_alte,Moor,NE,moor,49528,,29)
 gdc-coref,v0fv.0,245625,245681,DER ALTE MOOR,der_alte,reicht,VVFIN,reichen,49528,,
 gdc-coref,v0fv.0,245625,245681,DER ALTE MOOR,der_alte,ihm,PPER,ihm,49528,,(26)
@@ -1495,7 +1495,7 @@ gdc-coref,v0fv.0,246956,246978,MOOR,karl_von_moor,ihm,PPER,ihm,49528,,(26)
 gdc-coref,v0fv.0,246956,246978,MOOR,karl_von_moor,nieder,PTKVZ,nieder,49528,,
 gdc-coref,v0fv.0,246956,246978,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,247061,247073,DER ALTE MOOR,der_alte,mit,APPR,mit,49528,,
-gdc-coref,v0fv.0,247061,247073,DER ALTE MOOR,der_alte,Schmerz,NN,schmerz,49528,,
+gdc-coref,v0fv.0,247061,247073,DER ALTE MOOR,der_alte,Schmerz,NE,schmerz,49528,,
 gdc-coref,v0fv.0,247061,247073,DER ALTE MOOR,der_alte,.,$.,--,49528,,
 gdc-coref,v0fv.0,247334,247357,MOOR,karl_von_moor,weichmütig,ADJD,weichmütig,49528,,
 gdc-coref,v0fv.0,247334,247357,MOOR,karl_von_moor,",","$,",--,49528,,
@@ -1507,7 +1507,7 @@ gdc-coref,v0fv.0,247912,247921,DER ALTE MOOR,der_alte,.,$.,--,49528,,
 gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,Schweizers,NE,schweizer,49528,,(544|(125)
 gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,Gefährten,NN,gefährte,49528,,544)
 gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,treten,VVFIN,treten,49528,,
-gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,auf,APPR,auf,49528,,
+gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,auf,PTKVZ,auf,49528,,
 gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,im,APPRART,in,49528,,
 gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,stummen,ADJA,stumm,49528,,
 gdc-coref,v0fv.0,248104,248206,MOOR,karl_von_moor,Trauerzug,NN,trauerzug,49528,,
@@ -1525,7 +1525,7 @@ gdc-coref,v0fv.0,248369,248387,GRIMM,grimm,.,$.,--,49528,,
 gdc-coref,v0fv.0,248592,248620,MOOR,karl_von_moor,ohne,APPR,ohne,49528,,
 gdc-coref,v0fv.0,248592,248620,MOOR,karl_von_moor,nach,APPR,nach,49528,,
 gdc-coref,v0fv.0,248592,248620,MOOR,karl_von_moor,ihnen,PPER,ihnen,49528,,(544)
-gdc-coref,v0fv.0,248592,248620,MOOR,karl_von_moor,hinzuschaun,VVINF,hinzuschaun,49528,,
+gdc-coref,v0fv.0,248592,248620,MOOR,karl_von_moor,hinzuschaun,VVIZU,hinzuschaun,49528,,
 gdc-coref,v0fv.0,248592,248620,MOOR,karl_von_moor,.,$.,--,49528,,
 gdc-coref,v0fv.0,248866,248879,MOOR,karl_von_moor,aufspringend,ADJD,aufspringend,49528,,
 gdc-coref,v0fv.0,248866,248879,MOOR,karl_von_moor,.,$.,--,49528,,
@@ -1555,7 +1555,7 @@ gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,zu,PTKVZ,zu,49528,,
 gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,und,KON,und,49528,,
 gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,umschlingt,VVFIN,umschlingen,49528,,
 gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,ihn,PPER,ihn,49528,,(29)
-gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,entzückt,VVPP,entzücken,49528,,
+gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,entzückt,VVFIN,entzücken,49528,,
 gdc-coref,v0fv.0,249570,249649,AMALIA,amalia,.,$.,--,49528,,
 gdc-coref,v0fv.0,249711,249743,MOOR,karl_von_moor,sich,PRF,sich,49528,,(29)
 gdc-coref,v0fv.0,249711,249743,MOOR,karl_von_moor,losreißend,ADJD,losreißend,49528,,
@@ -1618,7 +1618,7 @@ gdc-coref,v0fv.0,253303,253325,EIN RÄUBER,ein_räuber,hervortretend,ADJD,hervor
 gdc-coref,v0fv.0,253303,253325,EIN RÄUBER,ein_räuber,.,$.,--,49528,,
 gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,durcheinander,ADV,durcheinander,49528,,
 gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,",","$,",--,49528,,
-gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,reißen,VVINF,reißen,49528,,
+gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,reißen,VVFIN,reißen,49528,,
 gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,ihre,PPOSAT,ihr,49528,,(552)
 gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,Kleider,NN,kleid,49528,,
 gdc-coref,v0fv.0,254291,254330,DIE RÄUBER,räuber,auf,PTKVZ,auf,49528,,

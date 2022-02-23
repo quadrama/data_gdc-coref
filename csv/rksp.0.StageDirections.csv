@@ -3,23 +3,23 @@ gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,an,APPR,an,27896,,
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,einem,ART,ein,27896,,(13
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,Arbeitstische,NN,arbeitstische,27896,,13)
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,",","$,",--,27896,,
-gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,voller,ADJA,voll,27896,,
+gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,voller,APPR,voll,27896,,
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,Briefschaften,NN,briefschaft,27896,,(14
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,und,KON,und,27896,,
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,Papiere,NN,papier,27896,,
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,",","$,",--,27896,,
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,deren,PRELAT,der,27896,,
-gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,einige,PIAT,einiger,27896,,
+gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,einige,PIS,einiger,27896,,
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,er,PPER,er,27896,,(0)
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,durchläuft,VVFIN,durchlaufen,27896,,14)
 gdc-coref,rksp.0,437,522,DER PRINZ,der_prinz,.,$.,--,27896,,
-gdc-coref,rksp.0,1544,1571,DER KAMMERDIENER,der_kammerdiener,welcher,ADJA,welcher,27896,,
+gdc-coref,rksp.0,1544,1571,DER KAMMERDIENER,der_kammerdiener,welcher,PWAT,welcher,27896,,
 gdc-coref,rksp.0,1544,1571,DER KAMMERDIENER,der_kammerdiener,wieder,ADV,wieder,27896,,
 gdc-coref,rksp.0,1544,1571,DER KAMMERDIENER,der_kammerdiener,herein,PTKVZ,herein,27896,,
 gdc-coref,rksp.0,1544,1571,DER KAMMERDIENER,der_kammerdiener,tritt,VVFIN,treten,27896,,1)
 gdc-coref,rksp.0,2317,2342,DER KAMMERDIENER,der_kammerdiener,der,ART,der,27896,,
 gdc-coref,rksp.0,2317,2342,DER KAMMERDIENER,der_kammerdiener,nochmals,ADV,nochmals,27896,,
-gdc-coref,rksp.0,2317,2342,DER KAMMERDIENER,der_kammerdiener,herein,PTKVZ,herein,27896,,
+gdc-coref,rksp.0,2317,2342,DER KAMMERDIENER,der_kammerdiener,herein,ADV,herein,27896,,
 gdc-coref,rksp.0,2317,2342,DER KAMMERDIENER,der_kammerdiener,tritt,VVFIN,treten,27896,,1)
 gdc-coref,rksp.0,2561,2578,_Stage,_Stage,Conti,NE,conti,27896,,(2)
 gdc-coref,rksp.0,2561,2578,_Stage,_Stage,.,$.,--,27896,,
@@ -48,7 +48,7 @@ gdc-coref,rksp.0,4396,4484,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,4494,4530,CONTI,conti,indem,KOUS,indem,27896,,
 gdc-coref,rksp.0,4494,4530,CONTI,conti,er,PPER,er,27896,,(2)
 gdc-coref,rksp.0,4494,4530,CONTI,conti,das,ART,der,27896,,(31
-gdc-coref,rksp.0,4494,4530,CONTI,conti,andere,ADJA,anderer,27896,,31)
+gdc-coref,rksp.0,4494,4530,CONTI,conti,andere,PIS,anderer,27896,,31)
 gdc-coref,rksp.0,4494,4530,CONTI,conti,zurecht,ADV,zurecht,27896,,
 gdc-coref,rksp.0,4494,4530,CONTI,conti,stellet,VVFIN,stellen,27896,,
 gdc-coref,rksp.0,4494,4530,CONTI,conti,.,$.,--,27896,,
@@ -67,7 +67,7 @@ gdc-coref,rksp.0,7349,7402,CONTI,conti,holt,VVFIN,holen,27896,,
 gdc-coref,rksp.0,7349,7402,CONTI,conti,",","$,",--,27896,,
 gdc-coref,rksp.0,7349,7402,CONTI,conti,und,KON,und,27896,,
 gdc-coref,rksp.0,7349,7402,CONTI,conti,noch,ADV,noch,27896,,
-gdc-coref,rksp.0,7349,7402,CONTI,conti,verkehrt,VVPP,verkehren,27896,,
+gdc-coref,rksp.0,7349,7402,CONTI,conti,verkehrt,ADJD,verkehren,27896,,
 gdc-coref,rksp.0,7349,7402,CONTI,conti,in,APPR,in,27896,,
 gdc-coref,rksp.0,7349,7402,CONTI,conti,der,ART,der,27896,,
 gdc-coref,rksp.0,7349,7402,CONTI,conti,Hand,NN,hand,27896,,
@@ -80,7 +80,7 @@ gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,zu,PTKZU,zu,27896,,
 gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,fassen,VVINF,fassen,27896,,
 gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,sucht,VVFIN,suchen,27896,,
 gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,",","$,",--,27896,,
-gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,aber,KON,aber,27896,,
+gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,aber,ADV,aber,27896,,
 gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,ohne,APPR,ohne,27896,,
 gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,ein,ART,ein,27896,,
 gdc-coref,rksp.0,8081,8158,DER PRINZ,der_prinz,Auge,NN,auge,27896,,
@@ -109,7 +109,7 @@ gdc-coref,rksp.0,11106,11139,DER PRINZ,der_prinz,sich,PRF,sich,27896,,(0)
 gdc-coref,rksp.0,11106,11139,DER PRINZ,der_prinz,schnell,ADJD,schnell,27896,,
 gdc-coref,rksp.0,11106,11139,DER PRINZ,der_prinz,gegen,APPR,gegen,27896,,
 gdc-coref,rksp.0,11106,11139,DER PRINZ,der_prinz,ihn,PPER,ihn,27896,,(2)
-gdc-coref,rksp.0,11106,11139,DER PRINZ,der_prinz,kehret,ADJD,kehren,27896,,0)
+gdc-coref,rksp.0,11106,11139,DER PRINZ,der_prinz,kehret,VVFIN,kehren,27896,,0)
 gdc-coref,rksp.0,13123,13144,_Stage,_Stage,Marinelli,NE,marinelli,27896,,(3)
 gdc-coref,rksp.0,13123,13144,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,13123,13144,_Stage,_Stage,Der,ART,der,27896,,(0
@@ -117,7 +117,7 @@ gdc-coref,rksp.0,13123,13144,_Stage,_Stage,Prinz,NN,prinz,27896,,0)
 gdc-coref,rksp.0,13123,13144,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,der,ART,der,27896,,
 gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,sich,PRF,sich,27896,,(0)
-gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,voll,ADJD,voll,27896,,
+gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,voll,APPR,voll,27896,,
 gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,Verzweiflung,NN,verzweiflung,27896,,
 gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,in,APPR,in,27896,,
 gdc-coref,rksp.0,19552,19599,DER PRINZ,der_prinz,einen,ART,ein,27896,,
@@ -171,10 +171,10 @@ gdc-coref,rksp.0,26980,27003,_Stage,_Stage,Pirro,NE,pirro,27896,,(5)
 gdc-coref,rksp.0,26980,27003,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,im,APPRART,in,27896,,
 gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,Heraustreten,NN,heraustreten,27896,,
-gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,zu,PTKZU,zu,27896,,
-gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,Pirro,VVINF,pirro,27896,,(5
+gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,zu,APPR,zu,27896,,
+gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,Pirro,NE,pirro,27896,,(5
 gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,",","$,",--,27896,,
-gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,der,PRELS,der,27896,,
+gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,der,ART,der,27896,,
 gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,von,APPR,von,27896,,
 gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,der,ART,der,27896,,
 gdc-coref,rksp.0,27015,27078,CLAUDIA,claudia_galotti,andern,ADJA,anderer,27896,,
@@ -231,14 +231,14 @@ gdc-coref,rksp.0,36739,36766,_Stage,_Stage,und,KON,und,27896,,
 gdc-coref,rksp.0,36739,36766,_Stage,_Stage,Claudia,NE,claudia,27896,,(53
 gdc-coref,rksp.0,36739,36766,_Stage,_Stage,Galotti,NE,galotti,27896,,53)
 gdc-coref,rksp.0,36739,36766,_Stage,_Stage,.,$.,--,27896,,
-gdc-coref,rksp.0,36777,36824,EMILIA,emilia,stürzet,ADJD,stürzen,27896,,
+gdc-coref,rksp.0,36777,36824,EMILIA,emilia,stürzet,VVFIN,stürzen,27896,,
 gdc-coref,rksp.0,36777,36824,EMILIA,emilia,in,APPR,in,27896,,
 gdc-coref,rksp.0,36777,36824,EMILIA,emilia,einer,ART,ein,27896,,(159
 gdc-coref,rksp.0,36777,36824,EMILIA,emilia,ängstlichen,ADJA,ängstlich,27896,,
 gdc-coref,rksp.0,36777,36824,EMILIA,emilia,Verwirrung,NN,verwirrung,27896,,159)
 gdc-coref,rksp.0,36777,36824,EMILIA,emilia,herein,PTKVZ,herein,27896,,
 gdc-coref,rksp.0,36777,36824,EMILIA,emilia,.,$.,--,27896,,
-gdc-coref,rksp.0,44423,44449,_Stage,_Stage,Graf,NN,graf,27896,,(9
+gdc-coref,rksp.0,44423,44449,_Stage,_Stage,Graf,NE,graf,27896,,(9
 gdc-coref,rksp.0,44423,44449,_Stage,_Stage,Appiani,NE,appiani,27896,,9)
 gdc-coref,rksp.0,44423,44449,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,44423,44449,_Stage,_Stage,Die,ART,der,27896,,(475
@@ -257,7 +257,7 @@ gdc-coref,rksp.0,44461,44599,APPIANI,appiani,",","$,",--,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,und,KON,und,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,kömmt,VVFIN,kömmen,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,ihnen,PPER,ihnen,27896,,(475)
-gdc-coref,rksp.0,44461,44599,APPIANI,appiani,näher,PTKVZ,nah,27896,,
+gdc-coref,rksp.0,44461,44599,APPIANI,appiani,näher,ADJD,nah,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,",","$,",--,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,ohne,KOUI,ohne,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,sie,PPER,sie,27896,,(475)
@@ -267,14 +267,14 @@ gdc-coref,rksp.0,44461,44599,APPIANI,appiani,;,$.,--,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,bis,APPR,bis,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,Emilia,NE,emilia,27896,,(8)
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,ihm,PPER,ihm,27896,,(9)
-gdc-coref,rksp.0,44461,44599,APPIANI,appiani,entgegen,PTKVZ,entgegen,27896,,
+gdc-coref,rksp.0,44461,44599,APPIANI,appiani,entgegen,APPR,entgegen,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,springt,VVFIN,springen,27896,,
 gdc-coref,rksp.0,44461,44599,APPIANI,appiani,.,$.,--,27896,,
 gdc-coref,rksp.0,47610,47638,APPIANI,appiani,nackdenkend,ADJD,nackdenkend,27896,,
 gdc-coref,rksp.0,47610,47638,APPIANI,appiani,und,KON,und,27896,,
 gdc-coref,rksp.0,47610,47638,APPIANI,appiani,schwermütig,ADJD,schwermütig,27896,,
 gdc-coref,rksp.0,47610,47638,APPIANI,appiani,.,$.,--,27896,,
-gdc-coref,rksp.0,48552,48582,_Stage,_Stage,Graf,NN,graf,27896,,(9
+gdc-coref,rksp.0,48552,48582,_Stage,_Stage,Graf,NE,graf,27896,,(9
 gdc-coref,rksp.0,48552,48582,_Stage,_Stage,Appiani,NE,appiani,27896,,9)
 gdc-coref,rksp.0,48552,48582,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,48552,48582,_Stage,_Stage,Claudia,NE,claudia,27896,,(53
@@ -282,7 +282,7 @@ gdc-coref,rksp.0,48552,48582,_Stage,_Stage,Galotti,NE,galotti,27896,,53)
 gdc-coref,rksp.0,48552,48582,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,48594,48651,APPIANI,appiani,indem,KOUS,indem,27896,,
 gdc-coref,rksp.0,48594,48651,APPIANI,appiani,er,PPER,er,27896,,(9)
-gdc-coref,rksp.0,48594,48651,APPIANI,appiani,ihr,PPOSAT,ihr,27896,,(8)
+gdc-coref,rksp.0,48594,48651,APPIANI,appiani,ihr,PPER,ihr,27896,,(8)
 gdc-coref,rksp.0,48594,48651,APPIANI,appiani,mit,APPR,mit,27896,,
 gdc-coref,rksp.0,48594,48651,APPIANI,appiani,einer,ART,ein,27896,,
 gdc-coref,rksp.0,48594,48651,APPIANI,appiani,niedergeschlagnen,ADJA,niedergeschlagn,27896,,
@@ -320,7 +320,7 @@ gdc-coref,rksp.0,55987,56012,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,55987,56012,_Stage,_Stage,Claudia,NE,claudia,27896,,(53
 gdc-coref,rksp.0,55987,56012,_Stage,_Stage,Galotti,NE,galotti,27896,,53)
 gdc-coref,rksp.0,55987,56012,_Stage,_Stage,.,$.,--,27896,,
-gdc-coref,rksp.0,56153,56173,CLAUDIA,claudia_galotti,eiligst,ADV,eiligst,27896,,
+gdc-coref,rksp.0,56153,56173,CLAUDIA,claudia_galotti,eiligst,ADJD,eiligst,27896,,
 gdc-coref,rksp.0,56153,56173,CLAUDIA,claudia_galotti,und,KON,und,27896,,
 gdc-coref,rksp.0,56153,56173,CLAUDIA,claudia_galotti,besorgt,ADJD,besorgen,27896,,
 gdc-coref,rksp.0,56153,56173,CLAUDIA,claudia_galotti,.,$.,--,27896,,
@@ -358,12 +358,12 @@ gdc-coref,rksp.0,67152,67196,_Stage,_Stage,",","$,",--,27896,,
 gdc-coref,rksp.0,67152,67196,_Stage,_Stage,und,KON,und,27896,,
 gdc-coref,rksp.0,67152,67196,_Stage,_Stage,bald,ADV,bald,27896,,
 gdc-coref,rksp.0,67152,67196,_Stage,_Stage,darauf,PROAV,darauf,27896,,
-gdc-coref,rksp.0,67152,67196,_Stage,_Stage,dessen,PDAT,der,27896,,(10|(3)
+gdc-coref,rksp.0,67152,67196,_Stage,_Stage,dessen,PDS,der,27896,,(10|(3)
 gdc-coref,rksp.0,67152,67196,_Stage,_Stage,Bedienter,NN,bedienter,27896,,10)
 gdc-coref,rksp.0,67152,67196,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,67199,67220,_Stage,_Stage,Battista,NE,battista,27896,,(10)
 gdc-coref,rksp.0,67199,67220,_Stage,_Stage,mit,APPR,mit,27896,,
-gdc-coref,rksp.0,67199,67220,_Stage,_Stage,Emilien,NN,emilie,27896,,(8)
+gdc-coref,rksp.0,67199,67220,_Stage,_Stage,Emilien,NE,emilie,27896,,(8)
 gdc-coref,rksp.0,67199,67220,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,67525,67536,EMILIA,emilia,außer,APPR,außer,27896,,
 gdc-coref,rksp.0,67525,67536,EMILIA,emilia,Atem,NN,atem,27896,,
@@ -373,7 +373,7 @@ gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,plötzlich,ADJD,plötzlich,2789
 gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,herzu,PROAV,herzu,27896,,
 gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,tritt,VVFIN,treten,27896,,
 gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,",","$,",--,27896,,
-gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,als,KOUS,als,27896,,
+gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,als,KOKOM,als,27896,,
 gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,ob,KOUS,ob,27896,,
 gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,er,PPER,er,27896,,(3)
 gdc-coref,rksp.0,68140,68193,MARINELLI,marinelli,eben,ADV,eben,27896,,
@@ -423,7 +423,7 @@ gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,tritt,VVFIN,treten,27896,,
 gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,",","$,",--,27896,,
 gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,indem,KOUS,indem,27896,,
 gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,Battista,NE,battista,27896,,(10)
-gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,heraus,PTKVZ,heraus,27896,,
+gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,heraus,APZR,heraus,27896,,
 gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,gehen,VVINF,gehen,27896,,
 gdc-coref,rksp.0,75033,75088,CLAUDIA,claudia_galotti,will,VMFIN,wollen,27896,,53)
 gdc-coref,rksp.0,75652,75679,_Stage,_Stage,Claudia,NE,claudia,27896,,(53
@@ -442,7 +442,7 @@ gdc-coref,rksp.0,79814,79835,_Stage,_Stage,Prinz,NN,prinz,27896,,0)
 gdc-coref,rksp.0,79814,79835,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,79814,79835,_Stage,_Stage,Marinelli,NE,marinelli,27896,,(3)
 gdc-coref,rksp.0,79814,79835,_Stage,_Stage,.,$.,--,27896,,
-gdc-coref,rksp.0,79849,79888,DER PRINZ,der_prinz,als,KOKOM,als,27896,,
+gdc-coref,rksp.0,79849,79888,DER PRINZ,der_prinz,als,KOUS,als,27896,,
 gdc-coref,rksp.0,79849,79888,DER PRINZ,der_prinz,aus,APPR,aus,27896,,
 gdc-coref,rksp.0,79849,79888,DER PRINZ,der_prinz,dem,ART,der,27896,,(282
 gdc-coref,rksp.0,79849,79888,DER PRINZ,der_prinz,Zimmer,NN,zimmer,27896,,282)
@@ -491,7 +491,7 @@ gdc-coref,rksp.0,88062,88091,_Stage,_Stage,Marinelli,NE,marinelli,27896,,(3)
 gdc-coref,rksp.0,88062,88091,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,88102,88142,ORSINA,orsina,ohne,APPR,ohne,27896,,
 gdc-coref,rksp.0,88102,88142,ORSINA,orsina,den,ART,der,27896,,(3
-gdc-coref,rksp.0,88102,88142,ORSINA,orsina,Marinelli,NN,marinelli,27896,,3)
+gdc-coref,rksp.0,88102,88142,ORSINA,orsina,Marinelli,NE,marinelli,27896,,3)
 gdc-coref,rksp.0,88102,88142,ORSINA,orsina,anfangs,ADV,anfangs,27896,,
 gdc-coref,rksp.0,88102,88142,ORSINA,orsina,zu,PTKZU,zu,27896,,
 gdc-coref,rksp.0,88102,88142,ORSINA,orsina,erblicken,VVINF,erblicken,27896,,
@@ -531,7 +531,7 @@ gdc-coref,rksp.0,94783,94826,DER PRINZ,der_prinz,sich,PRF,sich,27896,,(0)
 gdc-coref,rksp.0,94783,94826,DER PRINZ,der_prinz,.,$.,--,27896,,
 gdc-coref,rksp.0,94871,94887,ORSINA,orsina,die,ART,der,27896,,
 gdc-coref,rksp.0,94871,94887,ORSINA,orsina,ihn,PPER,ihn,27896,,(0)
-gdc-coref,rksp.0,94871,94887,ORSINA,orsina,erblickt,VVPP,erblicken,27896,,11)
+gdc-coref,rksp.0,94871,94887,ORSINA,orsina,erblickt,VVFIN,erblicken,27896,,11)
 gdc-coref,rksp.0,94978,95075,DER PRINZ,der_prinz,geht,VVFIN,gehen,27896,,
 gdc-coref,rksp.0,94978,95075,DER PRINZ,der_prinz,quer,ADJD,quer,27896,,
 gdc-coref,rksp.0,94978,95075,DER PRINZ,der_prinz,über,APPR,über,27896,,
@@ -557,8 +557,8 @@ gdc-coref,rksp.0,95459,95477,_Stage,_Stage,Orsina,NE,orsina,27896,,(11)
 gdc-coref,rksp.0,95459,95477,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,95459,95477,_Stage,_Stage,Marinelli,NE,marinelli,27896,,(3)
 gdc-coref,rksp.0,95459,95477,_Stage,_Stage,.,$.,--,27896,,
-gdc-coref,rksp.0,95595,95607,ORSINA,orsina,wie,KOKOM,wie,27896,,
-gdc-coref,rksp.0,95595,95607,ORSINA,orsina,betäubt,ADJD,betäuben,27896,,
+gdc-coref,rksp.0,95595,95607,ORSINA,orsina,wie,PWAV,wie,27896,,
+gdc-coref,rksp.0,95595,95607,ORSINA,orsina,betäubt,VVPP,betäuben,27896,,
 gdc-coref,rksp.0,95595,95607,ORSINA,orsina,.,$.,--,27896,,
 gdc-coref,rksp.0,95677,95689,ORSINA,orsina,mit,APPR,mit,27896,,
 gdc-coref,rksp.0,95677,95689,ORSINA,orsina,Rührung,NN,rührung,27896,,
@@ -580,7 +580,7 @@ gdc-coref,rksp.0,101491,101530,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,indem,KOUS,indem,27896,,
 gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,er,PPER,er,27896,,(3)
 gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,ihn,PPER,ihn,27896,,(12)
-gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,erblicket,VVPP,erblicket,27896,,
+gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,erblicket,VVFIN,erblicket,27896,,
 gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,",","$,",--,27896,,
 gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,vor,APPR,vor,27896,,
 gdc-coref,rksp.0,101753,101786,MARINELLI,marinelli,sich,PRF,sich,27896,,(3)
@@ -596,7 +596,7 @@ gdc-coref,rksp.0,103129,103171,MARINELLI,marinelli,.,$.,--,27896,,
 gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,leise,ADJD,leise,27896,,
 gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,zu,APPR,zu,27896,,
 gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,dem,ART,der,27896,,(12
-gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,Obersten,ADJA,oberer,27896,,
+gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,Obersten,NN,oberer,27896,,
 gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,",","$,",--,27896,,
 gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,den,PRELS,der,27896,,
 gdc-coref,rksp.0,103674,103721,MARINELLI,marinelli,er,PPER,er,27896,,(3)
@@ -612,20 +612,20 @@ gdc-coref,rksp.0,104104,104139,_Stage,_Stage,Odoardo,NE,odoardo,27896,,(12
 gdc-coref,rksp.0,104104,104139,_Stage,_Stage,Galotti,NE,galotti,27896,,12)
 gdc-coref,rksp.0,104104,104139,_Stage,_Stage,.,$.,--,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,nach,APPR,nach,27896,,
-gdc-coref,rksp.0,104150,104280,ORSINA,orsina,einigem,ADJA,einig,27896,,(339
+gdc-coref,rksp.0,104150,104280,ORSINA,orsina,einigem,PIAT,einig,27896,,(339
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,Stillschweigen,NN,stillschweigen,27896,,339)
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,",","$,",--,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,unter,APPR,unter,27896,,
-gdc-coref,rksp.0,104150,104280,ORSINA,orsina,welchem,PWAT,welcher,27896,,(339)
+gdc-coref,rksp.0,104150,104280,ORSINA,orsina,welchem,PRELS,welcher,27896,,(339)
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,sie,PPER,sie,27896,,(11)
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,den,ART,der,27896,,(12
-gdc-coref,rksp.0,104150,104280,ORSINA,orsina,Obersten,ADJA,oberer,27896,,12)
+gdc-coref,rksp.0,104150,104280,ORSINA,orsina,Obersten,NN,oberer,27896,,12)
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,mit,APPR,mit,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,Mitleid,NN,mitleid,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,betrachtet,VVPP,betrachten,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,;,$.,--,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,so,ADV,so,27896,,
-gdc-coref,rksp.0,104150,104280,ORSINA,orsina,wie,PWAV,wie,27896,,
+gdc-coref,rksp.0,104150,104280,ORSINA,orsina,wie,KOKOM,wie,27896,,
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,er,PPER,er,27896,,(12)
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,sie,PPER,sie,27896,,(11)
 gdc-coref,rksp.0,104150,104280,ORSINA,orsina,",","$,",--,27896,,
@@ -652,8 +652,8 @@ gdc-coref,rksp.0,110046,110079,CLAUDIA,claudia_galotti,die,ART,der,27896,,
 gdc-coref,rksp.0,110046,110079,CLAUDIA,claudia_galotti,im,APPRART,in,27896,,
 gdc-coref,rksp.0,110046,110079,CLAUDIA,claudia_galotti,Hereintreten,NN,hereintreten,27896,,
 gdc-coref,rksp.0,110046,110079,CLAUDIA,claudia_galotti,sich,PRF,sich,27896,,(53)
-gdc-coref,rksp.0,110046,110079,CLAUDIA,claudia_galotti,umsiehet,ADJD,umsiehet,27896,,53)
-gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,der,ART,der,27896,,
+gdc-coref,rksp.0,110046,110079,CLAUDIA,claudia_galotti,umsiehet,VVFIN,umsiehet,27896,,53)
+gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,der,PRELS,der,27896,,
 gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,sich,PRF,sich,27896,,(12)
 gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,bei,APPR,bei,27896,,
 gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,Erblickung,NN,erblickung,27896,,
@@ -664,13 +664,13 @@ gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,fassen,VVINF,fassen,27896
 gdc-coref,rksp.0,110503,110560,ODOARDO GALOTTI,odoardo,gesucht,VVPP,suchen,27896,,12)
 gdc-coref,rksp.0,110973,110998,ODOARDO GALOTTI,odoardo,mit,APPR,mit,27896,,
 gdc-coref,rksp.0,110973,110998,ODOARDO GALOTTI,odoardo,einem,ART,ein,27896,,
-gdc-coref,rksp.0,110973,110998,ODOARDO GALOTTI,odoardo,bittern,ADJA,bittern,27896,,
+gdc-coref,rksp.0,110973,110998,ODOARDO GALOTTI,odoardo,bittern,ADV,bittern,27896,,
 gdc-coref,rksp.0,110973,110998,ODOARDO GALOTTI,odoardo,Lachen,NN,lachen,27896,,
 gdc-coref,rksp.0,110973,110998,ODOARDO GALOTTI,odoardo,.,$.,--,27896,,
 gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,wild,ADJD,wild,27896,,
-gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,hin,PTKVZ,hin,27896,,
+gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,hin,ADV,hin,27896,,
 gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,und,KON,und,27896,,
-gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,her,APZR,her,27896,,
+gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,her,ADV,her,27896,,
 gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,gehend,ADJD,gehend,27896,,
 gdc-coref,rksp.0,111103,111127,ODOARDO GALOTTI,odoardo,.,$.,--,27896,,
 gdc-coref,rksp.0,112800,112821,_Stage,_Stage,Marinelli,NE,marinelli,27896,,(3)
@@ -716,7 +716,7 @@ gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,die,ART,der,27896,,
 gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,Hand,NN,hand,27896,,
 gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,leer,ADJD,leer,27896,,
 gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,wieder,ADV,wieder,27896,,
-gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,heraus,PTKVZ,heraus,27896,,
+gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,heraus,ADV,heraus,27896,,
 gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,zieht,VVFIN,ziehen,27896,,
 gdc-coref,rksp.0,124990,125044,ODOARDO GALOTTI,odoardo,.,$.,--,27896,,
 gdc-coref,rksp.0,126994,127026,ODOARDO GALOTTI,odoardo,der,ART,der,27896,,
@@ -752,11 +752,11 @@ gdc-coref,rksp.0,134411,134432,DER PRINZ,der_prinz,näher,ADJD,nah,27896,,
 gdc-coref,rksp.0,134411,134432,DER PRINZ,der_prinz,kömmt,VVFIN,kömmen,27896,,
 gdc-coref,rksp.0,134411,134432,DER PRINZ,der_prinz,.,$.,--,27896,,
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,nach,APPR,nach,27896,,
-gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,einigem,ADJA,einig,27896,,(434
+gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,einigem,PIAT,einig,27896,,(434
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,Stillschweigen,NN,stillschweigen,27896,,434)
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,",","$,",--,27896,,
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,unter,APPR,unter,27896,,
-gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,welchem,PWAT,welcher,27896,,(434)
+gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,welchem,PRELS,welcher,27896,,(434)
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,er,PPER,er,27896,,(0)
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,den,ART,der,27896,,(8
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,Körper,NN,körper,27896,,8)
@@ -766,6 +766,6 @@ gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,und,KON,und,27896,,
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,Verzweiflung,NN,verzweiflung,27896,,
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,betrachtet,VVPP,betrachten,27896,,
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,",","$,",--,27896,,
-gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,zu,PTKZU,zu,27896,,
-gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,Marinelli,VVINF,marinelli,27896,,(3)
+gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,zu,APPR,zu,27896,,
+gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,Marinelli,NE,marinelli,27896,,(3)
 gdc-coref,rksp.0,135571,135684,DER PRINZ,der_prinz,.,$.,--,27896,,

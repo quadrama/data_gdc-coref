@@ -1,9 +1,9 @@
 corpus,drama,figure_surface,figure_id,Gender,Age
 gdc-coref,st5r.0,MONTAN,montan,,
-gdc-coref,st5r.0,DAMÖT,damöt,,
 gdc-coref,st5r.0,MOPS,mops,,
-gdc-coref,st5r.0,CHLOE,chloe,,
-gdc-coref,st5r.0,SILVANDER,silvander,,
 gdc-coref,st5r.0,SYLVIA,sylvia,,
+gdc-coref,st5r.0,CHLOE,chloe,,
+gdc-coref,st5r.0,DAMÖT,damöt,,
+gdc-coref,st5r.0,SILVANDER,silvander,,
 gdc-coref,st5r.0,DORIS,doris,,
 gdc-coref,st5r.0,CORYDON,corydon,,

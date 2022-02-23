@@ -560,7 +560,6 @@ gdc-coref,x4vf.0,88274,88484,madame_wölbing,88304,88307,ich,madame_wölbing
 gdc-coref,x4vf.0,88274,88484,madame_wölbing,88308,88313,meine,madame_wölbing
 gdc-coref,x4vf.0,88274,88484,madame_wölbing,88461,88467,meiner,madame_wölbing
 gdc-coref,x4vf.0,88524,89143,madame_wölbing,88546,88550,mein,madame_wölbing
-gdc-coref,x4vf.0,88524,89143,madame_wölbing,88827,88833,meinen,madame_wölbing
 gdc-coref,x4vf.0,88524,89143,madame_wölbing,88939,88945,meinem,madame_wölbing
 gdc-coref,x4vf.0,88524,89143,madame_wölbing,89058,89062,mein,madame_wölbing
 gdc-coref,x4vf.0,89466,89781,madame_wölbing,89641,89647,meines,madame_wölbing
@@ -582,7 +581,6 @@ gdc-coref,x4vf.0,93528,93688,albertine,93576,93580,mich,albertine
 gdc-coref,x4vf.0,93755,94084,albertine,93767,93770,Ich,albertine
 gdc-coref,x4vf.0,93755,94084,albertine,93827,93830,ich,albertine
 gdc-coref,x4vf.0,93755,94084,albertine,93837,93841,mich,albertine
-gdc-coref,x4vf.0,93755,94084,albertine,93994,93999,meine,albertine
 gdc-coref,x4vf.0,93755,94084,albertine,94023,94027,mich,albertine
 gdc-coref,x4vf.0,93755,94084,albertine,94051,94055,mein,albertine
 gdc-coref,x4vf.0,94089,94133,madame_wölbing,94123,94127,mein,madame_wölbing
@@ -640,7 +638,6 @@ gdc-coref,x4vf.0,99073,99244,emerike,99086,99090,mich,emerike
 gdc-coref,x4vf.0,99073,99244,emerike,99152,99156,mich,emerike
 gdc-coref,x4vf.0,99073,99244,emerike,99173,99176,ich,emerike
 gdc-coref,x4vf.0,99073,99244,emerike,99223,99227,mich,emerike
-gdc-coref,x4vf.0,99460,99737,emerike,99492,99496,mich,emerike
 gdc-coref,x4vf.0,99460,99737,emerike,99713,99717,mich,emerike
 gdc-coref,x4vf.0,100079,100187,kunigunde,100107,100110,mir,kunigunde
 gdc-coref,x4vf.0,100079,100187,kunigunde,100175,100178,mir,kunigunde

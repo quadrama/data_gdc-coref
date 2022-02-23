@@ -294,7 +294,6 @@ gdc-coref,rjmw.0,7156,7298,mellefont,7249,7253,dich,norton
 gdc-coref,rjmw.0,7156,7298,mellefont,7254,7271,seiner Verbrechen,verbrechen_mellefont
 gdc-coref,rjmw.0,7156,7298,mellefont,7254,7260,seiner,mellefont
 gdc-coref,rjmw.0,7303,7366,norton,7312,7315,Ich,norton
-gdc-coref,rjmw.0,7303,7366,norton,7316,7320,mich,norton
 gdc-coref,rjmw.0,7303,7366,norton,7321,7337,Ihrer Verbrechen,verbrechen_mellefont
 gdc-coref,rjmw.0,7303,7366,norton,7321,7326,Ihrer,mellefont
 gdc-coref,rjmw.0,7371,7416,mellefont,7396,7398,du,norton
@@ -617,7 +616,6 @@ gdc-coref,rjmw.0,14202,16571,sara,15014,15048,die Schrecken meiner vorigen Nacht
 gdc-coref,rjmw.0,14202,16571,sara,15028,15034,meiner,sara
 gdc-coref,rjmw.0,14202,16571,sara,15063,15066,ich,sara
 gdc-coref,rjmw.0,14202,16571,sara,15067,15070,sie,schrecken_sara
-gdc-coref,rjmw.0,14202,16571,sara,15110,15116,meinen,sara
 gdc-coref,rjmw.0,14202,16571,sara,15157,15160,ich,sara
 gdc-coref,rjmw.0,14202,16571,sara,15217,15226,Die Natur,Die-Natur
 gdc-coref,rjmw.0,14202,16571,sara,15234,15238,sich,Die-Natur
@@ -691,6 +689,7 @@ gdc-coref,rjmw.0,16576,16792,mellefont,16654,16728,"das Ende Ihres Lebens, welch
 gdc-coref,rjmw.0,16576,16792,mellefont,16663,16668,Ihres,sara
 gdc-coref,rjmw.0,16576,16792,mellefont,16677,16684,welches,dem_ende_des_lebens
 gdc-coref,rjmw.0,16576,16792,mellefont,16705,16717,des meinigen,Leben-Mellefont
+gdc-coref,rjmw.0,16576,16792,mellefont,16709,16717,meinigen,mellefont
 gdc-coref,rjmw.0,16576,16792,mellefont,16740,16743,Sie,sara
 gdc-coref,rjmw.0,16576,16792,mellefont,16744,16791,das schreckliche Gewebe eines sinnlosen Traumes,das_schreckliche_gewebe_eines_sinnlosen_traums
 gdc-coref,rjmw.0,16576,16792,mellefont,16768,16791,eines sinnlosen Traumes,eines-sinnlosen-Traumes
@@ -1198,7 +1197,6 @@ gdc-coref,rjmw.0,27567,27766,norton,27723,27750,das Unglück Ihrer armen Miß,un
 gdc-coref,rjmw.0,27567,27766,norton,27735,27750,Ihrer armen Miß,sara
 gdc-coref,rjmw.0,27567,27766,norton,27735,27740,Ihrer,mellefont
 gdc-coref,rjmw.0,27771,27934,mellefont,27783,27800,Ich Unglücklicher,mellefont
-gdc-coref,rjmw.0,27771,27934,mellefont,27783,27786,Ich,mellefont
 gdc-coref,rjmw.0,27771,27934,mellefont,27787,27800,Unglücklicher,mellefont
 gdc-coref,rjmw.0,27771,27934,mellefont,27810,27813,ich,mellefont
 gdc-coref,rjmw.0,27771,27934,mellefont,27818,27821,sie,marwood
@@ -1549,6 +1547,7 @@ gdc-coref,rjmw.0,35126,36646,marwood,35507,35509,du,mellefont
 gdc-coref,rjmw.0,35126,36646,marwood,35510,35513,mir,marwood
 gdc-coref,rjmw.0,35126,36646,marwood,35525,35545,kleiner Flattergeist,mellefont
 gdc-coref,rjmw.0,35126,36646,marwood,35551,35554,ich,marwood
+gdc-coref,rjmw.0,35126,36646,marwood,35618,35626,meinigen,marwood
 gdc-coref,rjmw.0,35126,36646,marwood,35628,35632,dich,mellefont
 gdc-coref,rjmw.0,35126,36646,marwood,35633,35636,mir,marwood
 gdc-coref,rjmw.0,35126,36646,marwood,35675,35678,Ich,marwood
@@ -2837,7 +2836,6 @@ gdc-coref,rjmw.0,64005,64965,sir_william,64216,64219,dir,aitwell
 gdc-coref,rjmw.0,64005,64965,sir_william,64246,64250,ihre,sara
 gdc-coref,rjmw.0,64005,64965,sir_william,64269,64272,sie,sara
 gdc-coref,rjmw.0,64005,64965,sir_william,64273,64285,meinen Brief,brief_sir_william
-gdc-coref,rjmw.0,64005,64965,sir_william,64273,64279,meinen,sir_william
 gdc-coref,rjmw.0,64005,64965,sir_william,64327,64337,der Tugend,tugend
 gdc-coref,rjmw.0,64005,64965,sir_william,64344,64347,sie,sara
 gdc-coref,rjmw.0,64005,64965,sir_william,64348,64363,die Verstellung,die_verstellung
@@ -3414,7 +3412,6 @@ gdc-coref,rjmw.0,76997,78439,waitwell,78018,78021,den,fehler_sara
 gdc-coref,rjmw.0,76997,78439,waitwell,78025,78041,Ihrer Einbildung,einbildung_sara
 gdc-coref,rjmw.0,76997,78439,waitwell,78025,78030,Ihrer,sara
 gdc-coref,rjmw.0,76997,78439,waitwell,78127,78130,ich,waitwell
-gdc-coref,rjmw.0,76997,78439,waitwell,78138,78144,meinen,waitwell
 gdc-coref,rjmw.0,76997,78439,waitwell,78146,78149,Sie,sara
 gdc-coref,rjmw.0,76997,78439,waitwell,78180,78183,Sie,sara
 gdc-coref,rjmw.0,76997,78439,waitwell,78184,78206,"das, was geschehen ist",fehler_sara
@@ -3815,6 +3812,7 @@ gdc-coref,rjmw.0,88389,88719,sara,88636,88659,die Liebe meines Vaters,liebe_sir_
 gdc-coref,rjmw.0,88389,88719,sara,88646,88659,meines Vaters,sir_william
 gdc-coref,rjmw.0,88389,88719,sara,88646,88652,meines,sara
 gdc-coref,rjmw.0,88389,88719,sara,88671,88684,Meines Vaters,sir_william
+gdc-coref,rjmw.0,88389,88719,sara,88671,88677,Meines,sara
 gdc-coref,rjmw.0,88389,88719,sara,88691,88693,er,sir_william
 gdc-coref,rjmw.0,88389,88719,sara,88707,88718,der seinige,sir_william
 gdc-coref,rjmw.0,88389,88719,sara,88711,88718,seinige,mellefont
@@ -4829,6 +4827,7 @@ gdc-coref,rjmw.0,115336,116793,marwood,115935,115939,mich,marwood
 gdc-coref,rjmw.0,115336,116793,marwood,115947,115953,meinem,marwood
 gdc-coref,rjmw.0,115336,116793,marwood,116002,116011,Mellefont,mellefont
 gdc-coref,rjmw.0,115336,116793,marwood,116057,116060,mir,marwood
+gdc-coref,rjmw.0,115336,116793,marwood,116061,116066,meine,marwood
 gdc-coref,rjmw.0,115336,116793,marwood,116085,116088,ich,marwood
 gdc-coref,rjmw.0,115336,116793,marwood,116093,116104,seiner Sara,sara
 gdc-coref,rjmw.0,115336,116793,marwood,116093,116099,seiner,mellefont
@@ -4957,7 +4956,6 @@ gdc-coref,rjmw.0,119616,120016,sara,119818,119821,Sie,mellefont
 gdc-coref,rjmw.0,119616,120016,sara,119822,119826,sich,mellefont
 gdc-coref,rjmw.0,119616,120016,sara,119845,119848,ich,sara
 gdc-coref,rjmw.0,119616,120016,sara,119878,119881,Sie,mellefont
-gdc-coref,rjmw.0,119616,120016,sara,119912,119916,mich,sara
 gdc-coref,rjmw.0,119616,120016,sara,119917,119932,einer Erbschaft,dieser_schimpflichen_erbschaft
 gdc-coref,rjmw.0,119616,120016,sara,119955,119958,ich,sara
 gdc-coref,rjmw.0,119616,120016,sara,119973,119976,Sie,mellefont
@@ -5736,7 +5734,6 @@ gdc-coref,rjmw.0,141367,142544,sara,142206,142209,sie,marwood
 gdc-coref,rjmw.0,141367,142544,sara,142272,142275,ich,sara
 gdc-coref,rjmw.0,141367,142544,sara,142276,142279,sie,marwood
 gdc-coref,rjmw.0,141367,142544,sara,142316,142319,mir,sara
-gdc-coref,rjmw.0,141367,142544,sara,142393,142397,mein,sara
 gdc-coref,rjmw.0,141367,142544,sara,142409,142412,ich,sara
 gdc-coref,rjmw.0,141367,142544,sara,142441,142444,ich,sara
 gdc-coref,rjmw.0,141367,142544,sara,142516,142521,Betty,betty
@@ -6428,6 +6425,7 @@ gdc-coref,rjmw.0,160014,162142,sir_william,160650,160653,ich,sir_william
 gdc-coref,rjmw.0,160014,162142,sir_william,160662,160668,deiner,sara
 gdc-coref,rjmw.0,160014,162142,sir_william,160712,160715,ich,sir_william
 gdc-coref,rjmw.0,160014,162142,sir_william,160716,160719,dir,sara
+gdc-coref,rjmw.0,160014,162142,sir_william,160724,160731,meinige,sir_william
 gdc-coref,rjmw.0,160014,162142,sir_william,160794,160797,wir,wir
 gdc-coref,rjmw.0,160014,162142,sir_william,160818,160821,uns,wir
 gdc-coref,rjmw.0,160014,162142,sir_william,160836,160840,mich,sir_william

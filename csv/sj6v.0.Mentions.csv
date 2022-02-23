@@ -483,7 +483,6 @@ gdc-coref,sj6v.0,15248,15297,bertha,15265,15277,meiner Liebe,meine-Liebe
 gdc-coref,sj6v.0,15248,15297,bertha,15265,15271,meiner,bertha
 gdc-coref,sj6v.0,15248,15297,bertha,15280,15296,meiner Besorgniß,meiner-Besorgniß
 gdc-coref,sj6v.0,15248,15297,bertha,15280,15286,meiner,bertha
-gdc-coref,sj6v.0,15302,15372,scheffler,15314,15317,Mir,scheffler
 gdc-coref,sj6v.0,15302,15372,scheffler,15324,15331,der Ton,welcher-Ton
 gdc-coref,sj6v.0,15302,15372,scheffler,15359,15371,Rechthaberei,Rechthaberei
 gdc-coref,sj6v.0,15377,15551,bertha,15386,15398,Rechthaberei,Rechthaberei
@@ -566,7 +565,6 @@ gdc-coref,sj6v.0,17476,17509,scheffler,17492,17495,mir,scheffler
 gdc-coref,sj6v.0,17514,17668,schuake,17533,17536,Sie,scheffler
 gdc-coref,sj6v.0,17514,17668,schuake,17542,17559,der breiten Seite,der-breiten-Seite
 gdc-coref,sj6v.0,17514,17668,schuake,17571,17574,Sie,scheffler
-gdc-coref,sj6v.0,17673,17696,scheffler,17685,17691,Meinen,scheffler
 gdc-coref,sj6v.0,17673,17696,scheffler,17692,17695,Sie,schuake
 gdc-coref,sj6v.0,17701,18018,schuake,17748,17751,Sie,scheffler
 gdc-coref,sj6v.0,17701,18018,schuake,17755,17770,Ende des Saales,Ende-des-Saales
@@ -1248,6 +1246,7 @@ gdc-coref,sj6v.0,39673,40018,bertha,39800,39804,mein,bertha
 gdc-coref,sj6v.0,39673,40018,bertha,39829,39832,ich,bertha
 gdc-coref,sj6v.0,39673,40018,bertha,39870,39874,mich,bertha
 gdc-coref,sj6v.0,39673,40018,bertha,39907,39910,ich,bertha
+gdc-coref,sj6v.0,39673,40018,bertha,39911,39917,meinen,bertha
 gdc-coref,sj6v.0,39673,40018,bertha,39924,39929,meine,bertha
 gdc-coref,sj6v.0,39673,40018,bertha,39979,39988,Mein Mann,scheffler
 gdc-coref,sj6v.0,39673,40018,bertha,39979,39983,Mein,bertha
@@ -1532,7 +1531,6 @@ gdc-coref,sj6v.0,63516,63593,hartwig,63538,63542,mein,hartwig
 gdc-coref,sj6v.0,63718,63760,scheffler,63751,63754,ich,scheffler
 gdc-coref,sj6v.0,64242,64310,scheffler,64269,64272,ich,scheffler
 gdc-coref,sj6v.0,64315,64490,hartwig,64330,64333,ich,hartwig
-gdc-coref,sj6v.0,64315,64490,hartwig,64339,64345,meinen,hartwig
 gdc-coref,sj6v.0,64315,64490,hartwig,64374,64377,ich,hartwig
 gdc-coref,sj6v.0,64315,64490,hartwig,64433,64437,Mein,hartwig
 gdc-coref,sj6v.0,64625,64837,hartwig,64635,64638,Ich,hartwig
@@ -1639,7 +1637,6 @@ gdc-coref,sj6v.0,77806,78010,hartwig,77829,77833,mein,hartwig
 gdc-coref,sj6v.0,78120,78526,bertha,78133,78136,ich,bertha
 gdc-coref,sj6v.0,78120,78526,bertha,78142,78145,mir,bertha
 gdc-coref,sj6v.0,78593,78630,bertha,78602,78605,Ich,bertha
-gdc-coref,sj6v.0,78693,78864,bertha,78702,78705,Mir,bertha
 gdc-coref,sj6v.0,78869,79005,hartwig,78882,78886,mein,hartwig
 gdc-coref,sj6v.0,79010,79100,bertha,79039,79042,ich,bertha
 gdc-coref,sj6v.0,79010,79100,bertha,79081,79087,meiner,bertha
@@ -1878,7 +1875,6 @@ gdc-coref,sj6v.0,107389,107605,bolzau,107581,107586,meine,bolzau
 gdc-coref,sj6v.0,107389,107605,bolzau,107594,107599,meine,bolzau
 gdc-coref,sj6v.0,107610,107649,brimborius,107629,107632,ich,brimborius
 gdc-coref,sj6v.0,107895,107979,hartwig,107926,107929,ich,hartwig
-gdc-coref,sj6v.0,107895,107979,hartwig,107930,107935,meine,hartwig
 gdc-coref,sj6v.0,108215,108391,schuake,108320,108323,ich,schuake
 gdc-coref,sj6v.0,108215,108391,schuake,108378,108383,meine,schuake
 gdc-coref,sj6v.0,108769,109089,schuake,108779,108782,Ich,schuake
@@ -2009,7 +2005,6 @@ gdc-coref,sj6v.0,126804,126946,bolzau,126828,126833,meine,bolzau
 gdc-coref,sj6v.0,126804,126946,bolzau,126868,126871,ich,bolzau
 gdc-coref,sj6v.0,126951,127033,wilhelmine,126999,127002,ich,wilhelmine
 gdc-coref,sj6v.0,126951,127033,wilhelmine,127019,127025,meinem,wilhelmine
-gdc-coref,sj6v.0,127038,127146,bolzau,127119,127125,meinen,bolzau
 gdc-coref,sj6v.0,127153,127355,wilhelmine,127273,127277,mein,wilhelmine
 gdc-coref,sj6v.0,127426,127540,hartwig,127473,127476,ich,hartwig
 gdc-coref,sj6v.0,127426,127540,hartwig,127522,127525,ich,hartwig

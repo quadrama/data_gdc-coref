@@ -120,7 +120,6 @@ gdc-coref,pkj2.0,15342,15488,breite,15428,15431,ich,breite
 gdc-coref,pkj2.0,15746,15879,joseph_schindler,15804,15807,Ich,joseph_schindler
 gdc-coref,pkj2.0,15746,15879,joseph_schindler,15815,15818,ich,joseph_schindler
 gdc-coref,pkj2.0,15746,15879,joseph_schindler,15828,15831,Ich,joseph_schindler
-gdc-coref,pkj2.0,15885,16232,breite,16137,16140,Mir,breite
 gdc-coref,pkj2.0,15885,16232,breite,16196,16199,ich,breite
 gdc-coref,pkj2.0,15885,16232,breite,16223,16226,mir,breite
 gdc-coref,pkj2.0,16664,16738,viehhändler,16703,16706,ich,viehhändler
@@ -164,7 +163,6 @@ gdc-coref,pkj2.0,21452,21694,bauer,21524,21527,ich,bauer
 gdc-coref,pkj2.0,21452,21694,bauer,21549,21552,Ich,bauer
 gdc-coref,pkj2.0,21699,21720,bäuerin,21709,21712,Ich,bäuerin
 gdc-coref,pkj2.0,21699,21720,bäuerin,21716,21719,Ich,bäuerin
-gdc-coref,pkj2.0,21725,21821,viehhändler,21739,21742,Mir,viehhändler
 gdc-coref,pkj2.0,21725,21821,viehhändler,21796,21799,Ich,viehhändler
 gdc-coref,pkj2.0,21944,22007,bauer,21973,21977,mich,bauer
 gdc-coref,pkj2.0,21944,22007,bauer,22000,22004,mich,bauer
@@ -195,8 +193,6 @@ gdc-coref,pkj2.0,29440,29843,blumig,29633,29636,Mir,blumig
 gdc-coref,pkj2.0,29903,30068,huhndorf,29927,29930,Ich,huhndorf
 gdc-coref,pkj2.0,30073,30371,franzel,30103,30106,mir,franzel
 gdc-coref,pkj2.0,30784,31153,blumig,30900,30903,ich,blumig
-gdc-coref,pkj2.0,30784,31153,blumig,31068,31071,Mir,blumig
-gdc-coref,pkj2.0,31159,31422,schindlern,31236,31239,Mir,schindlern
 gdc-coref,pkj2.0,31159,31422,schindlern,31303,31306,Ich,schindlern
 gdc-coref,pkj2.0,31159,31422,schindlern,31312,31317,meine,schindlern
 gdc-coref,pkj2.0,31159,31422,schindlern,31388,31391,ich,schindlern
@@ -256,7 +252,6 @@ gdc-coref,pkj2.0,39299,39382,bauer_hildebrandt,39367,39370,ich,bauer_hildebrandt
 gdc-coref,pkj2.0,39860,40092,ernsts_stimme,40002,40005,ich,ernsts_stimme
 gdc-coref,pkj2.0,40239,40302,franzel,40276,40280,mich,franzel
 gdc-coref,pkj2.0,40307,40403,blumig,40316,40319,Ich,blumig
-gdc-coref,pkj2.0,40307,40403,blumig,40393,40396,Mir,blumig
 gdc-coref,pkj2.0,40587,40683,blumig,40663,40667,mich,blumig
 gdc-coref,pkj2.0,40587,40683,blumig,40672,40675,Ich,blumig
 gdc-coref,pkj2.0,40902,41144,franzel,40993,40996,ich,franzel
@@ -294,7 +289,6 @@ gdc-coref,pkj2.0,44109,44285,wirtin,44201,44204,mir,wirtin
 gdc-coref,pkj2.0,44109,44285,wirtin,44266,44269,ich,wirtin
 gdc-coref,pkj2.0,44290,44408,bauer,44298,44301,Ich,bauer
 gdc-coref,pkj2.0,44290,44408,bauer,44313,44316,Ich,bauer
-gdc-coref,pkj2.0,44290,44408,bauer,44383,44386,Mir,bauer
 gdc-coref,pkj2.0,44413,44438,wirtin,44429,44432,mir,wirtin
 gdc-coref,pkj2.0,44443,44519,bauer,44456,44459,ich,bauer
 gdc-coref,pkj2.0,44524,44644,wirtin,44585,44588,Ich,wirtin
@@ -462,7 +456,6 @@ gdc-coref,pkj2.0,64729,65030,bauer,65000,65003,ich,bauer
 gdc-coref,pkj2.0,65244,65321,joseph_schindler,65292,65297,Meine,joseph_schindler
 gdc-coref,pkj2.0,65356,65450,joseph_schindler,65420,65423,mir,joseph_schindler
 gdc-coref,pkj2.0,65656,65909,bauer,65771,65774,mir,bauer
-gdc-coref,pkj2.0,65656,65909,bauer,65793,65796,Mir,bauer
 gdc-coref,pkj2.0,65964,66567,bauer,65996,65999,Ich,bauer
 gdc-coref,pkj2.0,65964,66567,bauer,66074,66077,ich,bauer
 gdc-coref,pkj2.0,65964,66567,bauer,66137,66140,Ich,bauer
@@ -557,7 +550,6 @@ gdc-coref,pkj2.0,74579,74649,breite,74606,74610,mich,breite
 gdc-coref,pkj2.0,74941,75145,breite,74950,74953,Ich,breite
 gdc-coref,pkj2.0,74941,75145,breite,75137,75140,ich,breite
 gdc-coref,pkj2.0,75150,75188,joseph_schindler,75166,75169,Ich,joseph_schindler
-gdc-coref,pkj2.0,75150,75188,joseph_schindler,75170,75175,meine,joseph_schindler
 gdc-coref,pkj2.0,75193,75223,breite,75211,75214,ich,breite
 gdc-coref,pkj2.0,75228,75242,joseph_schindler,75237,75241,Mich,joseph_schindler
 gdc-coref,pkj2.0,75247,75309,breite,75277,75281,mich,breite
@@ -593,7 +585,6 @@ gdc-coref,pkj2.0,79044,79103,breite,79071,79074,ich,breite
 gdc-coref,pkj2.0,79108,79234,bauer,79159,79162,Ich,bauer
 gdc-coref,pkj2.0,79108,79234,bauer,79189,79192,ich,bauer
 gdc-coref,pkj2.0,79108,79234,bauer,79221,79224,ich,bauer
-gdc-coref,pkj2.0,79368,79469,bäuerin,79413,79416,Mir,bäuerin
 gdc-coref,pkj2.0,79474,79811,bauer,79548,79551,ich,bauer
 gdc-coref,pkj2.0,79474,79811,bauer,79729,79733,mich,bauer
 gdc-coref,pkj2.0,79474,79811,bauer,79776,79779,ich,bauer
@@ -615,8 +606,6 @@ gdc-coref,pkj2.0,82097,82392,joseph_schindler,82235,82239,mich,joseph_schindler
 gdc-coref,pkj2.0,82097,82392,joseph_schindler,82343,82346,Ich,joseph_schindler
 gdc-coref,pkj2.0,82590,82934,bauer,82604,82607,mir,bauer
 gdc-coref,pkj2.0,82590,82934,bauer,82621,82624,ich,bauer
-gdc-coref,pkj2.0,82590,82934,bauer,82688,82691,Mir,bauer
-gdc-coref,pkj2.0,83064,83301,die_alte_mattern,83115,83118,Mir,die_alte_mattern
 gdc-coref,pkj2.0,83064,83301,die_alte_mattern,83219,83222,mir,die_alte_mattern
 gdc-coref,pkj2.0,83928,84041,bauer,83936,83939,Ich,bauer
 gdc-coref,pkj2.0,83928,84041,bauer,84001,84004,ich,bauer
@@ -626,7 +615,6 @@ gdc-coref,pkj2.0,84339,85108,die_alte_mattern,84842,84845,Mir,die_alte_mattern
 gdc-coref,pkj2.0,84339,85108,die_alte_mattern,84880,84884,mich,die_alte_mattern
 gdc-coref,pkj2.0,84339,85108,die_alte_mattern,84928,84931,ich,die_alte_mattern
 gdc-coref,pkj2.0,84339,85108,die_alte_mattern,85003,85007,mich,die_alte_mattern
-gdc-coref,pkj2.0,84339,85108,die_alte_mattern,85059,85063,mich,die_alte_mattern
 gdc-coref,pkj2.0,85209,85561,die_alte_mattern,85304,85307,mir,die_alte_mattern
 gdc-coref,pkj2.0,85209,85561,die_alte_mattern,85343,85346,ich,die_alte_mattern
 gdc-coref,pkj2.0,85209,85561,die_alte_mattern,85398,85401,ich,die_alte_mattern
@@ -1143,7 +1131,6 @@ gdc-coref,pkj2.0,114756,114930,tine,114910,114913,D'r,breite
 gdc-coref,pkj2.0,114935,115065,breite,114962,114965,Ich,breite
 gdc-coref,pkj2.0,114935,115065,breite,114980,114984,mich,breite
 gdc-coref,pkj2.0,114935,115065,breite,115006,115009,Ich,breite
-gdc-coref,pkj2.0,114935,115065,breite,115012,115015,Ich,breite
 gdc-coref,pkj2.0,114935,115065,breite,115035,115041,Tindla,tine
 gdc-coref,pkj2.0,115070,115105,tine,115082,115085,d'u,breite
 gdc-coref,pkj2.0,115110,115386,breite,115128,115131,ich,breite
@@ -1457,7 +1444,6 @@ gdc-coref,pkj2.0,123414,123516,bauer,123501,123511,mei' Madel,breite
 gdc-coref,pkj2.0,123566,123592,_stage,123583,123591,den Herd,den-Herd
 gdc-coref,pkj2.0,123560,123689,tine,123597,123602,Jeses,Jeses
 gdc-coref,pkj2.0,123560,123689,tine,123604,123609,Jeses,Jeses
-gdc-coref,pkj2.0,123560,123689,tine,123611,123614,Mir,tine
 gdc-coref,pkj2.0,123560,123689,tine,123634,123637,Ich,tine
 gdc-coref,pkj2.0,123560,123689,tine,123643,123645,'r,breite
 gdc-coref,pkj2.0,123560,123689,tine,123660,123663,Ich,tine

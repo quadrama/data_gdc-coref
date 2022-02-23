@@ -39,7 +39,6 @@ gdc-coref,pmj9.0,6834,7898,gyges,7823,7826,ich,gyges
 gdc-coref,pmj9.0,7904,8144,kandaules,8093,8096,ich,kandaules
 gdc-coref,pmj9.0,8268,8940,gyges,8321,8324,Ich,gyges
 gdc-coref,pmj9.0,8268,8940,gyges,8351,8355,mich,gyges
-gdc-coref,pmj9.0,8268,8940,gyges,8404,8407,Mir,gyges
 gdc-coref,pmj9.0,8268,8940,gyges,8433,8437,mich,gyges
 gdc-coref,pmj9.0,8268,8940,gyges,8452,8455,ich,gyges
 gdc-coref,pmj9.0,8268,8940,gyges,8690,8693,ich,gyges
@@ -110,7 +109,6 @@ gdc-coref,pmj9.0,12589,13278,gyges,13068,13071,ich,gyges
 gdc-coref,pmj9.0,12589,13278,gyges,13120,13123,ich,gyges
 gdc-coref,pmj9.0,12589,13278,gyges,13124,13127,mir,gyges
 gdc-coref,pmj9.0,12589,13278,gyges,13250,13256,meinen,gyges
-gdc-coref,pmj9.0,12589,13278,gyges,13273,13277,mein,gyges
 gdc-coref,pmj9.0,13442,13687,gyges,13456,13459,ich,gyges
 gdc-coref,pmj9.0,13442,13687,gyges,13578,13584,meinem,gyges
 gdc-coref,pmj9.0,13693,13725,kandaules,13712,13715,Ich,kandaules
@@ -157,6 +155,7 @@ gdc-coref,pmj9.0,17411,18237,kandaules,17871,17874,Ich,kandaules
 gdc-coref,pmj9.0,17411,18237,kandaules,18131,18134,ich,kandaules
 gdc-coref,pmj9.0,18274,18698,kandaules,18332,18335,mir,kandaules
 gdc-coref,pmj9.0,18274,18698,kandaules,18437,18440,Ich,kandaules
+gdc-coref,pmj9.0,18274,18698,kandaules,18441,18446,meine,kandaules
 gdc-coref,pmj9.0,18274,18698,kandaules,18481,18485,mich,kandaules
 gdc-coref,pmj9.0,18274,18698,kandaules,18502,18505,ich,kandaules
 gdc-coref,pmj9.0,18274,18698,kandaules,18521,18525,mich,kandaules
@@ -289,7 +288,6 @@ gdc-coref,pmj9.0,33250,33294,gyges,33272,33275,mir,gyges
 gdc-coref,pmj9.0,33386,33761,gyges,33399,33403,mich,gyges
 gdc-coref,pmj9.0,33386,33761,gyges,33418,33421,Ich,gyges
 gdc-coref,pmj9.0,33386,33761,gyges,33435,33439,Mein,gyges
-gdc-coref,pmj9.0,33386,33761,gyges,33509,33513,mein,gyges
 gdc-coref,pmj9.0,33386,33761,gyges,33604,33607,mir,gyges
 gdc-coref,pmj9.0,33386,33761,gyges,33613,33616,ich,gyges
 gdc-coref,pmj9.0,33386,33761,gyges,33648,33652,mich,gyges
@@ -298,7 +296,6 @@ gdc-coref,pmj9.0,33767,33847,kandaules,33799,33802,ich,kandaules
 gdc-coref,pmj9.0,33853,34527,gyges,34169,34172,Mir,gyges
 gdc-coref,pmj9.0,33853,34527,gyges,34199,34202,ich,gyges
 gdc-coref,pmj9.0,33853,34527,gyges,34217,34220,ich,gyges
-gdc-coref,pmj9.0,33853,34527,gyges,34410,34416,meinen,gyges
 gdc-coref,pmj9.0,34534,34719,kandaules,34582,34585,mir,kandaules
 gdc-coref,pmj9.0,34534,34719,kandaules,34602,34605,ich,kandaules
 gdc-coref,pmj9.0,34534,34719,kandaules,34680,34683,Ich,kandaules
@@ -366,6 +363,7 @@ gdc-coref,pmj9.0,41160,41213,lesbia,41168,41171,Ich,lesbia
 gdc-coref,pmj9.0,41160,41213,lesbia,41179,41182,ich,lesbia
 gdc-coref,pmj9.0,41160,41213,lesbia,41204,41207,ich,lesbia
 gdc-coref,pmj9.0,41524,41578,kandaules,41546,41549,ich,kandaules
+gdc-coref,pmj9.0,41583,42305,gyges,41685,41692,meinige,gyges
 gdc-coref,pmj9.0,41583,42305,gyges,41849,41855,meiner,gyges
 gdc-coref,pmj9.0,41583,42305,gyges,41959,41962,Ich,gyges
 gdc-coref,pmj9.0,41583,42305,gyges,41990,41993,ich,gyges
@@ -379,7 +377,6 @@ gdc-coref,pmj9.0,42310,42487,lesbia,42383,42386,ich,lesbia
 gdc-coref,pmj9.0,42310,42487,lesbia,42460,42463,ich,lesbia
 gdc-coref,pmj9.0,42310,42487,lesbia,42468,42473,meine,lesbia
 gdc-coref,pmj9.0,42529,42557,kandaules,42540,42543,Ich,kandaules
-gdc-coref,pmj9.0,42562,42752,gyges,42697,42702,meine,gyges
 gdc-coref,pmj9.0,42562,42752,gyges,42705,42708,Ich,gyges
 gdc-coref,pmj9.0,42562,42752,gyges,42739,42743,mein,gyges
 gdc-coref,pmj9.0,42811,42914,gyges,42825,42828,ich,gyges
@@ -536,7 +533,6 @@ gdc-coref,pmj9.0,59042,59378,rhodope,59062,59066,mein,rhodope
 gdc-coref,pmj9.0,59042,59378,rhodope,59084,59087,mir,rhodope
 gdc-coref,pmj9.0,59042,59378,rhodope,59126,59129,ich,rhodope
 gdc-coref,pmj9.0,59042,59378,rhodope,59139,59142,mir,rhodope
-gdc-coref,pmj9.0,59042,59378,rhodope,59159,59162,Mir,rhodope
 gdc-coref,pmj9.0,59042,59378,rhodope,59169,59172,ich,rhodope
 gdc-coref,pmj9.0,59042,59378,rhodope,59197,59200,ich,rhodope
 gdc-coref,pmj9.0,59042,59378,rhodope,59212,59216,mein,rhodope
@@ -892,7 +888,6 @@ gdc-coref,pmj9.0,70535,70713,gyges,70543,70556,Der Sterbende,Der-Sterbende
 gdc-coref,pmj9.0,70535,70713,gyges,70558,70560,er,Der-Sterbende
 gdc-coref,pmj9.0,70535,70713,gyges,70575,70577,er,Der-Sterbende
 gdc-coref,pmj9.0,70535,70713,gyges,70612,70614,Du,rhodope
-gdc-coref,pmj9.0,70535,70713,gyges,70622,70625,Mir,gyges
 gdc-coref,pmj9.0,70535,70713,gyges,70632,70663,mein armes Totenrecht verkürzen,mein-armes-Totenrecht-verkürzen
 gdc-coref,pmj9.0,70535,70713,gyges,70632,70636,mein,gyges
 gdc-coref,pmj9.0,70535,70713,gyges,70666,70669,Ich,gyges
@@ -1057,7 +1052,6 @@ gdc-coref,pmj9.0,74597,75404,gyges,74798,74806,"den Weg,","den-Weg,-------------
 gdc-coref,pmj9.0,74597,75404,gyges,74808,74811,Den,"den-Weg,-----------------Den-ich-wohl-nimmer-hätte-gehen-sollen"
 gdc-coref,pmj9.0,74597,75404,gyges,74812,74815,ich,gyges
 gdc-coref,pmj9.0,74597,75404,gyges,74859,74862,ich,gyges
-gdc-coref,pmj9.0,74597,75404,gyges,74875,74881,meinen,gyges
 gdc-coref,pmj9.0,74597,75404,gyges,74897,74900,Ich,gyges
 gdc-coref,pmj9.0,74597,75404,gyges,74916,74920,Tode,Tode2
 gdc-coref,pmj9.0,74597,75404,gyges,74927,74930,ich,gyges
@@ -1227,6 +1221,7 @@ gdc-coref,pmj9.0,79128,79324,rhodope,79154,79156,du,gyges
 gdc-coref,pmj9.0,79128,79324,rhodope,79157,79161,mich,rhodope
 gdc-coref,pmj9.0,79128,79324,rhodope,79189,79194,deine,gyges
 gdc-coref,pmj9.0,79128,79324,rhodope,79200,79211,die meinige,Die-Hand
+gdc-coref,pmj9.0,79128,79324,rhodope,79204,79211,meinige,rhodope
 gdc-coref,pmj9.0,79128,79324,rhodope,79257,79265,das Band,das-Band
 gdc-coref,pmj9.0,79128,79324,rhodope,79277,79280,das,das-Band
 gdc-coref,pmj9.0,79128,79324,rhodope,79281,79285,mich,rhodope
@@ -1294,7 +1289,6 @@ gdc-coref,pmj9.0,82819,82843,kandaules,82830,82833,Ich,kandaules
 gdc-coref,pmj9.0,82848,83477,thoas,82867,82871,Mich,thoas
 gdc-coref,pmj9.0,82848,83477,thoas,82907,82910,ich,thoas
 gdc-coref,pmj9.0,82848,83477,thoas,82938,82941,ich,thoas
-gdc-coref,pmj9.0,82848,83477,thoas,83003,83006,Mir,thoas
 gdc-coref,pmj9.0,82848,83477,thoas,83022,83026,mein,thoas
 gdc-coref,pmj9.0,82848,83477,thoas,83362,83365,Ich,thoas
 gdc-coref,pmj9.0,82848,83477,thoas,83417,83420,ich,thoas
@@ -1303,7 +1297,6 @@ gdc-coref,pmj9.0,83505,84063,thoas,83585,83589,mich,thoas
 gdc-coref,pmj9.0,83505,84063,thoas,83602,83605,Ich,thoas
 gdc-coref,pmj9.0,84095,84830,thoas,84103,84106,Ich,thoas
 gdc-coref,pmj9.0,84095,84830,thoas,84639,84642,ich,thoas
-gdc-coref,pmj9.0,84095,84830,thoas,84653,84658,meine,thoas
 gdc-coref,pmj9.0,84939,85128,thoas,85007,85010,mir,thoas
 gdc-coref,pmj9.0,85156,85343,thoas,85181,85184,ich,thoas
 gdc-coref,pmj9.0,85156,85343,thoas,85295,85298,mir,thoas
@@ -1380,7 +1373,6 @@ gdc-coref,pmj9.0,93342,93497,gyges,93374,93377,mir,gyges
 gdc-coref,pmj9.0,93342,93497,gyges,93379,93382,Ich,gyges
 gdc-coref,pmj9.0,93342,93497,gyges,93398,93401,ich,gyges
 gdc-coref,pmj9.0,93342,93497,gyges,93466,93469,ich,gyges
-gdc-coref,pmj9.0,93503,93665,kandaules,93523,93526,Mir,kandaules
 gdc-coref,pmj9.0,93503,93665,kandaules,93563,93567,mich,kandaules
 gdc-coref,pmj9.0,93503,93665,kandaules,93580,93583,ich,kandaules
 gdc-coref,pmj9.0,93670,93768,gyges,93733,93736,mir,gyges
@@ -1392,7 +1384,6 @@ gdc-coref,pmj9.0,94623,94777,hero,94638,94641,Ich,hero
 gdc-coref,pmj9.0,94623,94777,hero,94702,94705,mir,hero
 gdc-coref,pmj9.0,94803,94940,hero,94810,94813,Ich,hero
 gdc-coref,pmj9.0,94803,94940,hero,94870,94873,ich,hero
-gdc-coref,pmj9.0,94803,94940,hero,94875,94878,Mir,hero
 gdc-coref,pmj9.0,94803,94940,hero,94900,94903,ich,hero
 gdc-coref,pmj9.0,94803,94940,hero,94924,94927,mir,hero
 gdc-coref,pmj9.0,94975,95142,hero,94999,95003,mich,hero
@@ -1433,7 +1424,6 @@ gdc-coref,pmj9.0,98433,98837,rhodope,98524,98527,Ich,rhodope
 gdc-coref,pmj9.0,98433,98837,rhodope,98557,98560,ich,rhodope
 gdc-coref,pmj9.0,98433,98837,rhodope,98648,98651,Ich,rhodope
 gdc-coref,pmj9.0,98433,98837,rhodope,98664,98667,mir,rhodope
-gdc-coref,pmj9.0,98433,98837,rhodope,98800,98803,Mir,rhodope
 gdc-coref,pmj9.0,98897,99177,rhodope,99029,99032,ich,rhodope
 gdc-coref,pmj9.0,98897,99177,rhodope,99046,99049,Ich,rhodope
 gdc-coref,pmj9.0,98897,99177,rhodope,99081,99085,mich,rhodope

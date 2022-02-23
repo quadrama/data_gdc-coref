@@ -37,10 +37,8 @@ gdc-coref,wznr.0,6153,6876,langen,6721,6725,mein,langen
 gdc-coref,wznr.0,6153,6876,langen,6740,6743,ich,langen
 gdc-coref,wznr.0,6153,6876,langen,6773,6777,mein,langen
 gdc-coref,wznr.0,6882,6939,werner,6909,6912,mir,werner
-gdc-coref,wznr.0,6944,7406,langen,6957,6962,Meine,langen
 gdc-coref,wznr.0,6944,7406,langen,6969,6972,ich,langen
 gdc-coref,wznr.0,6944,7406,langen,6987,6990,ich,langen
-gdc-coref,wznr.0,6944,7406,langen,6995,7000,Meine,langen
 gdc-coref,wznr.0,6944,7406,langen,7013,7016,ich,langen
 gdc-coref,wznr.0,6944,7406,langen,7241,7244,ich,langen
 gdc-coref,wznr.0,6944,7406,langen,7307,7311,mich,langen
@@ -237,7 +235,6 @@ gdc-coref,wznr.0,25643,26162,justitzräthin,26067,26070,mir,justitzräthin
 gdc-coref,wznr.0,26167,26240,langen,26190,26193,mir,langen
 gdc-coref,wznr.0,26245,26303,justitzräthin,26280,26283,ich,justitzräthin
 gdc-coref,wznr.0,26340,26799,justitzräthin,26647,26650,mir,justitzräthin
-gdc-coref,wznr.0,26340,26799,justitzräthin,26710,26716,meinen,justitzräthin
 gdc-coref,wznr.0,26853,27115,justitzräthin,27019,27022,ich,justitzräthin
 gdc-coref,wznr.0,26853,27115,justitzräthin,27023,27027,mich,justitzräthin
 gdc-coref,wznr.0,26853,27115,justitzräthin,27068,27071,ich,justitzräthin
@@ -269,6 +266,7 @@ gdc-coref,wznr.0,29126,29529,justitzräthin,29216,29219,ich,justitzräthin
 gdc-coref,wznr.0,29126,29529,justitzräthin,29246,29249,ich,justitzräthin
 gdc-coref,wznr.0,29126,29529,justitzräthin,29290,29293,ich,justitzräthin
 gdc-coref,wznr.0,29126,29529,justitzräthin,29294,29299,meine,justitzräthin
+gdc-coref,wznr.0,29126,29529,justitzräthin,29336,29342,meinen,justitzräthin
 gdc-coref,wznr.0,29126,29529,justitzräthin,29378,29381,ich,justitzräthin
 gdc-coref,wznr.0,29126,29529,justitzräthin,29435,29440,meine,justitzräthin
 gdc-coref,wznr.0,29126,29529,justitzräthin,29482,29485,ich,justitzräthin
@@ -283,7 +281,6 @@ gdc-coref,wznr.0,31027,31315,lenchen,31176,31179,ich,lenchen
 gdc-coref,wznr.0,31027,31315,lenchen,31252,31255,ich,lenchen
 gdc-coref,wznr.0,31321,31396,fridericke,31334,31337,Ich,fridericke
 gdc-coref,wznr.0,31401,31466,lenchen,31421,31424,ich,lenchen
-gdc-coref,wznr.0,31471,31531,fridericke,31484,31488,Mich,fridericke
 gdc-coref,wznr.0,31631,31796,lenchen,31658,31661,ich,lenchen
 gdc-coref,wznr.0,31929,32081,lenchen,31944,31947,ich,lenchen
 gdc-coref,wznr.0,32340,32436,fridericke,32377,32380,ich,fridericke
@@ -328,7 +325,6 @@ gdc-coref,wznr.0,36367,36493,lenchen,36387,36392,meine,lenchen
 gdc-coref,wznr.0,36367,36493,lenchen,36479,36482,ich,lenchen
 gdc-coref,wznr.0,36516,36637,lenchen,36543,36549,meines,lenchen
 gdc-coref,wznr.0,36516,36637,lenchen,36606,36610,mich,lenchen
-gdc-coref,wznr.0,36814,37019,walz,36965,36971,meinen,walz
 gdc-coref,wznr.0,37141,38009,walz,37615,37618,Ich,walz
 gdc-coref,wznr.0,37141,38009,walz,37639,37643,mich,walz
 gdc-coref,wznr.0,37141,38009,walz,37685,37688,ich,walz
@@ -347,7 +343,6 @@ gdc-coref,wznr.0,38194,39158,walz,38510,38514,mein,walz
 gdc-coref,wznr.0,38194,39158,walz,38614,38618,mein,walz
 gdc-coref,wznr.0,38194,39158,walz,38631,38634,ich,walz
 gdc-coref,wznr.0,38194,39158,walz,38635,38638,mir,walz
-gdc-coref,wznr.0,38194,39158,walz,38662,38668,meinen,walz
 gdc-coref,wznr.0,38194,39158,walz,38755,38758,ich,walz
 gdc-coref,wznr.0,38194,39158,walz,38759,38764,meine,walz
 gdc-coref,wznr.0,38194,39158,walz,38807,38810,ich,walz
@@ -405,7 +400,6 @@ gdc-coref,wznr.0,43778,43914,langen,43787,43790,Ich,langen
 gdc-coref,wznr.0,43778,43914,langen,43822,43825,ich,langen
 gdc-coref,wznr.0,43778,43914,langen,43834,43839,meine,langen
 gdc-coref,wznr.0,43778,43914,langen,43909,43912,ich,langen
-gdc-coref,wznr.0,43963,44089,langen,44056,44061,Meine,langen
 gdc-coref,wznr.0,44299,44342,walz,44323,44326,mir,walz
 gdc-coref,wznr.0,44522,44645,fridericke,44568,44571,ich,fridericke
 gdc-coref,wznr.0,44522,44645,fridericke,44598,44601,ich,fridericke
@@ -633,7 +627,6 @@ gdc-coref,wznr.0,71406,71625,langen,71558,71561,mir,langen
 gdc-coref,wznr.0,71746,71850,langen,71802,71806,mich,langen
 gdc-coref,wznr.0,71746,71850,langen,71823,71826,ich,langen
 gdc-coref,wznr.0,72009,72084,langen,72029,72032,mir,langen
-gdc-coref,wznr.0,72534,72626,langen,72601,72606,Meine,langen
 gdc-coref,wznr.0,72655,72731,langen,72683,72686,ich,langen
 gdc-coref,wznr.0,72655,72731,langen,72722,72725,ich,langen
 gdc-coref,wznr.0,72736,72810,fridericke,72760,72763,ich,fridericke
@@ -853,6 +846,7 @@ gdc-coref,wznr.0,93072,93831,werner,93365,93368,ich,werner
 gdc-coref,wznr.0,93072,93831,werner,93451,93454,ich,werner
 gdc-coref,wznr.0,93072,93831,werner,93622,93626,mich,werner
 gdc-coref,wznr.0,93836,94086,fridericke,93871,93874,ich,fridericke
+gdc-coref,wznr.0,93836,94086,fridericke,93880,93886,meinen,fridericke
 gdc-coref,wznr.0,93836,94086,fridericke,93962,93965,ich,fridericke
 gdc-coref,wznr.0,93836,94086,fridericke,93966,93970,mich,fridericke
 gdc-coref,wznr.0,93836,94086,fridericke,93993,93996,ich,fridericke
@@ -861,8 +855,6 @@ gdc-coref,wznr.0,94091,94266,werner,94100,94103,Ich,werner
 gdc-coref,wznr.0,94091,94266,werner,94138,94141,ich,werner
 gdc-coref,wznr.0,94091,94266,werner,94216,94219,ich,werner
 gdc-coref,wznr.0,94376,94623,_stage,94376,94405,Ein großer öffentlicher Platz,Ein-großer-öffentlicher-Platz
-gdc-coref,wznr.0,94376,94623,_stage,94411,94422,jeder Seite,linker-Hand-/-rechter-Hand
-gdc-coref,wznr.0,94376,94623,_stage,94423,94441,zwo breite Straßen,der-vordersten-Straß-/-die-hinterste-Straße
 gdc-coref,wznr.0,94376,94623,_stage,94463,94467,eine,der-vordersten-Straß
 gdc-coref,wznr.0,94376,94623,_stage,94529,94540,des Platzes,Ein-großer-öffentlicher-Platz
 gdc-coref,wznr.0,94376,94623,_stage,94553,94559,Werner,werner
@@ -1131,7 +1123,6 @@ gdc-coref,wznr.0,100753,101262,langen,100837,100850,mein Rickchen,fridericke
 gdc-coref,wznr.0,100753,101262,langen,100837,100841,mein,langen
 gdc-coref,wznr.0,100753,101262,langen,100852,100873,mein Kutschersmädchen,fridericke
 gdc-coref,wznr.0,100753,101262,langen,100852,100856,mein,langen
-gdc-coref,wznr.0,100753,101262,langen,100878,100883,Meine,langen
 gdc-coref,wznr.0,100753,101262,langen,100902,100906,sich,die-ganze-Welt
 gdc-coref,wznr.0,100753,101262,langen,100907,100921,die ganze Welt,die-ganze-Welt
 gdc-coref,wznr.0,100753,101262,langen,100928,100932,mich,langen
@@ -1332,6 +1323,7 @@ gdc-coref,wznr.0,106787,106925,wilhelm,106901,106907,meinen,wilhelm
 gdc-coref,wznr.0,106930,107351,werner,106988,106991,ich,werner
 gdc-coref,wznr.0,107401,107497,justitzräthin,107417,107420,Ich,justitzräthin
 gdc-coref,wznr.0,107401,107497,justitzräthin,107467,107470,ich,justitzräthin
+gdc-coref,wznr.0,107401,107497,justitzräthin,107471,107477,meinen,justitzräthin
 gdc-coref,wznr.0,107633,107699,justitzräthin,107665,107668,mir,justitzräthin
 gdc-coref,wznr.0,107633,107699,justitzräthin,107678,107681,ich,justitzräthin
 gdc-coref,wznr.0,107704,107765,caroline,107745,107748,ich,caroline
@@ -1405,7 +1397,6 @@ gdc-coref,wznr.0,118516,119160,langen,118907,118910,mir,langen
 gdc-coref,wznr.0,118516,119160,langen,118911,118915,mein,langen
 gdc-coref,wznr.0,118516,119160,langen,119024,119029,Meine,langen
 gdc-coref,wznr.0,118516,119160,langen,119135,119138,ich,langen
-gdc-coref,wznr.0,119210,119448,langen,119319,119324,Meine,langen
 gdc-coref,wznr.0,119210,119448,langen,119369,119372,ich,langen
 gdc-coref,wznr.0,119210,119448,langen,119415,119418,ich,langen
 gdc-coref,wznr.0,119454,119648,walz,119496,119500,mich,walz
@@ -1467,6 +1458,7 @@ gdc-coref,wznr.0,126501,127133,justitzräthin,126595,126598,Ich,justitzräthin
 gdc-coref,wznr.0,126501,127133,justitzräthin,126641,126644,ich,justitzräthin
 gdc-coref,wznr.0,126501,127133,justitzräthin,126649,126653,mich,justitzräthin
 gdc-coref,wznr.0,126501,127133,justitzräthin,126740,126743,ich,justitzräthin
+gdc-coref,wznr.0,126501,127133,justitzräthin,126909,126915,meinen,justitzräthin
 gdc-coref,wznr.0,126501,127133,justitzräthin,126994,126997,ich,justitzräthin
 gdc-coref,wznr.0,126501,127133,justitzräthin,127016,127019,ich,justitzräthin
 gdc-coref,wznr.0,126501,127133,justitzräthin,127048,127053,meine,justitzräthin

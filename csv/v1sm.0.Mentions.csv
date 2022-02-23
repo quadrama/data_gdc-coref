@@ -81,10 +81,8 @@ gdc-coref,v1sm.0,12409,14394,phorbas,12540,12543,ich,phorbas
 gdc-coref,v1sm.0,12409,14394,phorbas,12920,12923,ich,phorbas
 gdc-coref,v1sm.0,12409,14394,phorbas,13189,13193,mein,phorbas
 gdc-coref,v1sm.0,12409,14394,phorbas,13948,13951,ich,phorbas
-gdc-coref,v1sm.0,14499,15816,phorbas,15563,15566,Mir,phorbas
 gdc-coref,v1sm.0,15822,16175,priesterin,15831,15835,Mein,priesterin
 gdc-coref,v1sm.0,15822,16175,priesterin,15920,15923,ich,priesterin
-gdc-coref,v1sm.0,15822,16175,priesterin,15931,15935,Mich,priesterin
 gdc-coref,v1sm.0,15822,16175,priesterin,15973,15976,Ich,priesterin
 gdc-coref,v1sm.0,15822,16175,priesterin,16113,16116,ich,priesterin
 gdc-coref,v1sm.0,16228,16641,jon,16260,16263,mir,jon
@@ -107,7 +105,6 @@ gdc-coref,v1sm.0,18276,18328,kreusa,18284,18287,Ich,kreusa
 gdc-coref,v1sm.0,18333,18420,jon,18360,18363,mir,jon
 gdc-coref,v1sm.0,18521,19080,jon,18540,18544,mich,jon
 gdc-coref,v1sm.0,18521,19080,jon,18563,18567,mich,jon
-gdc-coref,v1sm.0,18521,19080,jon,18613,18616,Mir,jon
 gdc-coref,v1sm.0,18521,19080,jon,18634,18637,ich,jon
 gdc-coref,v1sm.0,18521,19080,jon,18870,18873,mir,jon
 gdc-coref,v1sm.0,18521,19080,jon,18879,18882,ich,jon
@@ -122,7 +119,6 @@ gdc-coref,v1sm.0,19449,19492,kreusa,19484,19487,ich,kreusa
 gdc-coref,v1sm.0,19497,19785,jon,19592,19595,ich,jon
 gdc-coref,v1sm.0,19791,20045,kreusa,19805,19810,meine,kreusa
 gdc-coref,v1sm.0,19791,20045,kreusa,19868,19871,ich,kreusa
-gdc-coref,v1sm.0,19791,20045,kreusa,19904,19908,mich,kreusa
 gdc-coref,v1sm.0,21325,21371,kreusa,21347,21351,mich,kreusa
 gdc-coref,v1sm.0,21429,21482,kreusa,21449,21453,mein,kreusa
 gdc-coref,v1sm.0,21429,21482,kreusa,21471,21474,ich,kreusa
@@ -161,7 +157,6 @@ gdc-coref,v1sm.0,25489,26588,kreusa,26195,26198,ich,kreusa
 gdc-coref,v1sm.0,25489,26588,kreusa,26215,26218,mir,kreusa
 gdc-coref,v1sm.0,25489,26588,kreusa,26226,26230,mich,kreusa
 gdc-coref,v1sm.0,25489,26588,kreusa,26368,26372,mein,kreusa
-gdc-coref,v1sm.0,25489,26588,kreusa,26405,26408,Mir,kreusa
 gdc-coref,v1sm.0,25489,26588,kreusa,26536,26539,ich,kreusa
 gdc-coref,v1sm.0,26672,26760,xuthus,26681,26684,Ich,xuthus
 gdc-coref,v1sm.0,26672,26760,xuthus,26730,26734,mein,xuthus
@@ -252,7 +247,6 @@ gdc-coref,v1sm.0,36318,37744,xuthus,36551,36554,ich,xuthus
 gdc-coref,v1sm.0,36318,37744,xuthus,36579,36583,Mich,xuthus
 gdc-coref,v1sm.0,36318,37744,xuthus,36611,36614,mir,xuthus
 gdc-coref,v1sm.0,36318,37744,xuthus,36698,36702,mich,xuthus
-gdc-coref,v1sm.0,36318,37744,xuthus,36747,36753,meinen,xuthus
 gdc-coref,v1sm.0,36318,37744,xuthus,36804,36807,mir,xuthus
 gdc-coref,v1sm.0,36318,37744,xuthus,36814,36818,mich,xuthus
 gdc-coref,v1sm.0,36318,37744,xuthus,37073,37077,Mich,xuthus
@@ -281,7 +275,6 @@ gdc-coref,v1sm.0,38547,38637,jon,38557,38562,meine,jon
 gdc-coref,v1sm.0,38643,39029,xuthus,38679,38683,mein,xuthus
 gdc-coref,v1sm.0,38643,39029,xuthus,38740,38743,Ich,xuthus
 gdc-coref,v1sm.0,38643,39029,xuthus,38774,38777,mir,xuthus
-gdc-coref,v1sm.0,38643,39029,xuthus,38998,39001,Mir,xuthus
 gdc-coref,v1sm.0,39135,39447,xuthus,39322,39326,Mein,xuthus
 gdc-coref,v1sm.0,39453,39535,jon,39497,39500,Ich,jon
 gdc-coref,v1sm.0,39593,39892,jon,39609,39612,mir,jon
@@ -316,7 +309,6 @@ gdc-coref,v1sm.0,44411,45363,jon,44425,44428,ich,jon
 gdc-coref,v1sm.0,44411,45363,jon,44447,44451,mich,jon
 gdc-coref,v1sm.0,44411,45363,jon,44529,44533,mich,jon
 gdc-coref,v1sm.0,44411,45363,jon,44652,44658,meines,jon
-gdc-coref,v1sm.0,44411,45363,jon,44667,44671,Mich,jon
 gdc-coref,v1sm.0,44411,45363,jon,44975,44978,Ich,jon
 gdc-coref,v1sm.0,44411,45363,jon,45009,45013,mein,jon
 gdc-coref,v1sm.0,44411,45363,jon,45046,45049,mir,jon
@@ -337,11 +329,9 @@ gdc-coref,v1sm.0,46054,46104,kreusa,46062,46065,Ich,kreusa
 gdc-coref,v1sm.0,46109,46162,xuthus,46135,46138,ich,xuthus
 gdc-coref,v1sm.0,46109,46162,xuthus,46139,46143,mein,xuthus
 gdc-coref,v1sm.0,46206,46232,xuthus,46214,46217,Ich,xuthus
-gdc-coref,v1sm.0,46206,46232,xuthus,46227,46231,mein,xuthus
 gdc-coref,v1sm.0,46297,46738,xuthus,46334,46337,ich,xuthus
 gdc-coref,v1sm.0,46297,46738,xuthus,46442,46445,ich,xuthus
 gdc-coref,v1sm.0,46297,46738,xuthus,46467,46472,meine,xuthus
-gdc-coref,v1sm.0,46297,46738,xuthus,46520,46523,Mir,xuthus
 gdc-coref,v1sm.0,46297,46738,xuthus,46543,46546,ich,xuthus
 gdc-coref,v1sm.0,46297,46738,xuthus,46609,46613,mich,xuthus
 gdc-coref,v1sm.0,46297,46738,xuthus,46681,46684,mir,xuthus
@@ -365,6 +355,7 @@ gdc-coref,v1sm.0,48090,49091,jon,48553,48556,mir,jon
 gdc-coref,v1sm.0,48090,49091,jon,48610,48615,meine,jon
 gdc-coref,v1sm.0,48090,49091,jon,48649,48652,ich,jon
 gdc-coref,v1sm.0,48090,49091,jon,48674,48679,meine,jon
+gdc-coref,v1sm.0,49097,51007,xuthus,49157,49163,meinen,xuthus
 gdc-coref,v1sm.0,49097,51007,xuthus,49386,49389,mir,xuthus
 gdc-coref,v1sm.0,49097,51007,xuthus,49399,49403,mein,xuthus
 gdc-coref,v1sm.0,49097,51007,xuthus,49851,49857,meines,xuthus
@@ -403,7 +394,6 @@ gdc-coref,v1sm.0,57251,57296,kreusa,57281,57284,ich,kreusa
 gdc-coref,v1sm.0,57353,57403,kreusa,57382,57386,mich,kreusa
 gdc-coref,v1sm.0,57767,57815,kreusa,57811,57814,mir,kreusa
 gdc-coref,v1sm.0,58082,59189,phorbas,58124,58129,meine,phorbas
-gdc-coref,v1sm.0,58082,59189,phorbas,58687,58690,Mir,phorbas
 gdc-coref,v1sm.0,58082,59189,phorbas,58934,58938,Mich,phorbas
 gdc-coref,v1sm.0,58082,59189,phorbas,58946,58949,ich,phorbas
 gdc-coref,v1sm.0,58082,59189,phorbas,59023,59027,Mein,phorbas
@@ -997,7 +987,6 @@ gdc-coref,v1sm.0,88183,89827,jon,89776,89779,Ich,jon
 gdc-coref,v1sm.0,89833,90009,kreusa,89988,89992,Mein,kreusa
 gdc-coref,v1sm.0,89833,90009,kreusa,89999,90003,mein,kreusa
 gdc-coref,v1sm.0,90014,90043,jon,90027,90030,mir,jon
-gdc-coref,v1sm.0,90109,90139,kreusa,90117,90121,Mein,kreusa
 gdc-coref,v1sm.0,90231,90264,kreusa,90239,90242,Ich,kreusa
 gdc-coref,v1sm.0,90270,90298,jon,90280,90283,ich,jon
 gdc-coref,v1sm.0,90303,90352,kreusa,90322,90325,ich,kreusa
@@ -1043,7 +1032,6 @@ gdc-coref,v1sm.0,93828,94397,kreusa,94050,94053,mir,kreusa
 gdc-coref,v1sm.0,93828,94397,kreusa,94147,94150,ich,kreusa
 gdc-coref,v1sm.0,93828,94397,kreusa,94325,94328,ich,kreusa
 gdc-coref,v1sm.0,94404,94454,jon,94413,94416,mir,jon
-gdc-coref,v1sm.0,94404,94454,jon,94432,94436,mein,jon
 gdc-coref,v1sm.0,94459,94640,kreusa,94493,94497,mein,kreusa
 gdc-coref,v1sm.0,94459,94640,kreusa,94546,94550,mich,kreusa
 gdc-coref,v1sm.0,94459,94640,kreusa,94579,94582,mir,kreusa
@@ -1146,7 +1134,6 @@ gdc-coref,v1sm.0,106680,107708,jon,107171,107174,ich,jon
 gdc-coref,v1sm.0,106680,107708,jon,107215,107218,ich,jon
 gdc-coref,v1sm.0,106680,107708,jon,107219,107223,mich,jon
 gdc-coref,v1sm.0,106680,107708,jon,107258,107261,Ich,jon
-gdc-coref,v1sm.0,106680,107708,jon,107296,107300,Mich,jon
 gdc-coref,v1sm.0,106680,107708,jon,107351,107354,ich,jon
 gdc-coref,v1sm.0,106680,107708,jon,107387,107390,Ich,jon
 gdc-coref,v1sm.0,106680,107708,jon,107396,107399,mir,jon

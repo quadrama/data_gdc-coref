@@ -129,6 +129,7 @@ gdc-coref,v0fv.0,12312,13149,franz,12574,12580,seiner,KARL-VON-MOOR
 gdc-coref,v0fv.0,12312,13149,franz,12607,12610,ich,franz
 gdc-coref,v0fv.0,12312,13149,franz,12649,12651,er,KARL-VON-MOOR
 gdc-coref,v0fv.0,12312,13149,franz,12686,12690,sein,KARL-VON-MOOR
+gdc-coref,v0fv.0,12312,13149,franz,12701,12708,meinige,franz
 gdc-coref,v0fv.0,12312,13149,franz,12757,12759,er,KARL-VON-MOOR
 gdc-coref,v0fv.0,12312,13149,franz,12848,12853,Vater,DER-ALTE-MOOR
 gdc-coref,v0fv.0,12312,13149,franz,12866,12868,er,KARL-VON-MOOR
@@ -434,7 +435,6 @@ gdc-coref,v0fv.0,20968,21359,franz,21300,21304,Euch,DER-ALTE-MOOR
 gdc-coref,v0fv.0,20968,21359,franz,21306,21311,Vater,DER-ALTE-MOOR
 gdc-coref,v0fv.0,20968,21359,franz,21317,21321,Euch,DER-ALTE-MOOR
 gdc-coref,v0fv.0,20968,21359,franz,21327,21351,der Fluch der Verdammnis,den-Fluch
-gdc-coref,v0fv.0,21364,21432,der_alte,21405,21409,Mein,der_alte
 gdc-coref,v0fv.0,21364,21432,der_alte,21411,21415,mein,der_alte
 gdc-coref,v0fv.0,21437,22117,franz,21622,21659,ein Fingerzeig des göttlichen Willens,ein-Fingerzeig-des-göttlichen-Willens
 gdc-coref,v0fv.0,21437,22117,franz,21668,21671,ihn,ein-Fingerzeig-des-göttlichen-Willens
@@ -688,7 +688,6 @@ gdc-coref,v0fv.0,23623,29493,franz,29420,29423,ich,franz
 gdc-coref,v0fv.0,23623,29493,franz,29454,29457,mir,franz
 gdc-coref,v0fv.0,29537,29608,_stage,29573,29586,Karl von Moor,KARL-VON-MOOR
 gdc-coref,v0fv.0,29611,29641,_stage,29611,29622,Spiegelberg,SPIEGELBERG
-gdc-coref,v0fv.0,29644,29781,karl_von_moor,29680,29683,Mir,karl_von_moor
 gdc-coref,v0fv.0,29644,29781,karl_von_moor,29733,29736,ich,karl_von_moor
 gdc-coref,v0fv.0,29644,29781,karl_von_moor,29740,29746,meinem,karl_von_moor
 gdc-coref,v0fv.0,29799,29834,_stage,29806,29809,ihm,KARL-VON-MOOR
@@ -1723,7 +1722,6 @@ gdc-coref,v0fv.0,68355,68387,amalia,68364,68367,Ich,amalia
 gdc-coref,v0fv.0,68355,68387,amalia,68377,68381,dich,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,68392,68502,franz,68442,68444,du,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,68392,68502,franz,68449,68452,mir,franz
-gdc-coref,v0fv.0,68392,68502,franz,68462,68466,Mich,franz
 gdc-coref,v0fv.0,68508,69237,amalia,68522,68532,Lotterbube,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,68508,69237,amalia,68544,68547,ich,amalia
 gdc-coref,v0fv.0,68508,69237,amalia,68559,68564,Karln,KARL-VON-MOOR
@@ -2125,7 +2123,6 @@ gdc-coref,v0fv.0,80588,80662,der_alte,80648,80650,du,AMALIA
 gdc-coref,v0fv.0,80588,80662,der_alte,80655,80661,Amalia,AMALIA
 gdc-coref,v0fv.0,80667,80732,amalia,80684,80688,Euch,DER-ALTE-MOOR
 gdc-coref,v0fv.0,80667,80732,amalia,80690,80693,Ihr,DER-ALTE-MOOR
-gdc-coref,v0fv.0,80737,80873,der_alte,80753,80756,Mir,der_alte
 gdc-coref,v0fv.0,80737,80873,der_alte,80769,80780,meinem Sohn,KARL-VON-MOOR
 gdc-coref,v0fv.0,80737,80873,der_alte,80769,80775,meinem,der_alte
 gdc-coref,v0fv.0,80737,80873,der_alte,80792,80795,ich,der_alte
@@ -2419,7 +2416,6 @@ gdc-coref,v0fv.0,88002,88234,hermann,88212,88214,er,KARL-VON-MOOR
 gdc-coref,v0fv.0,88239,88307,franz,88262,88265,Mir,franz
 gdc-coref,v0fv.0,88239,88307,franz,88267,88282,Amalias Porträt,Porträt
 gdc-coref,v0fv.0,88239,88307,franz,88267,88274,Amalias,AMALIA
-gdc-coref,v0fv.0,88239,88307,franz,88284,88287,Mir,franz
 gdc-coref,v0fv.0,88239,88307,franz,88289,88293,Karl,KARL-VON-MOOR
 gdc-coref,v0fv.0,88239,88307,franz,88295,88301,Amalia,AMALIA
 gdc-coref,v0fv.0,88239,88307,franz,88303,88306,Mir,franz
@@ -2440,7 +2436,6 @@ gdc-coref,v0fv.0,88538,88601,franz,88591,88600,das deine,Porträt
 gdc-coref,v0fv.0,88538,88601,franz,88595,88600,deine,AMALIA
 gdc-coref,v0fv.0,88614,88639,_stage,88619,88622,ihm,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,88614,88639,_stage,88623,88631,das Bild,Porträt
-gdc-coref,v0fv.0,88606,88672,amalia,88642,88646,Mein,amalia
 gdc-coref,v0fv.0,88606,88672,amalia,88648,88652,mein,amalia
 gdc-coref,v0fv.0,88606,88672,amalia,88656,88662,Himmel,Himmel
 gdc-coref,v0fv.0,88606,88672,amalia,88667,88671,Erde,Erde
@@ -2512,7 +2507,6 @@ gdc-coref,v0fv.0,90288,90393,der_alte,90352,90357,Franz,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,90288,90393,der_alte,90359,90364,Franz,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,90288,90393,der_alte,90370,90373,mir,der_alte
 gdc-coref,v0fv.0,90288,90393,der_alte,90374,90385,meinen Sohn,KARL-VON-MOOR
-gdc-coref,v0fv.0,90288,90393,der_alte,90374,90380,meinen,der_alte
 gdc-coref,v0fv.0,90398,90612,franz,90420,90423,ihm,KARL-VON-MOOR
 gdc-coref,v0fv.0,90398,90612,franz,90424,90433,den Fluch,Fluch
 gdc-coref,v0fv.0,90398,90612,franz,90453,90464,seinen Sohn,KARL-VON-MOOR
@@ -2560,6 +2554,7 @@ gdc-coref,v0fv.0,91122,91300,der_alte,91272,91274,du,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,91122,91300,der_alte,91277,91288,Meinen Sohn,KARL-VON-MOOR
 gdc-coref,v0fv.0,91122,91300,der_alte,91277,91283,Meinen,der_alte
 gdc-coref,v0fv.0,91122,91300,der_alte,91289,91292,mir,der_alte
+gdc-coref,v0fv.0,91305,91365,franz,91319,91325,meinen,franz
 gdc-coref,v0fv.0,91305,91365,franz,91339,91342,Ich,franz
 gdc-coref,v0fv.0,91305,91365,franz,91350,91354,Euch,DER-ALTE-MOOR
 gdc-coref,v0fv.0,91305,91365,franz,91358,91362,Tode,Tod
@@ -2567,7 +2562,6 @@ gdc-coref,v0fv.0,91371,91520,der_alte,91387,91395,Scheusal,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,91371,91520,der_alte,91397,91405,Scheusal,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,91371,91520,der_alte,91414,91417,mir,der_alte
 gdc-coref,v0fv.0,91371,91520,der_alte,91418,91429,meinen Sohn,KARL-VON-MOOR
-gdc-coref,v0fv.0,91371,91520,der_alte,91418,91424,meinen,der_alte
 gdc-coref,v0fv.0,91371,91520,der_alte,91465,91472,Franzen,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,91371,91520,der_alte,91495,91498,der,FRANZ-VON-MOOR
 gdc-coref,v0fv.0,91371,91520,der_alte,91499,91502,ihn,DER-ALTE-MOOR
@@ -3132,6 +3126,7 @@ gdc-coref,v0fv.0,107954,108190,razmann,108117,108123,deinen,SPIEGELBERG
 gdc-coref,v0fv.0,107954,108190,razmann,108151,108153,er,KARL-VON-MOOR
 gdc-coref,v0fv.0,107954,108190,razmann,108169,108179,brave Kerl,brave-Kerl
 gdc-coref,v0fv.0,108195,108244,spiegelberg,108214,108217,die,brave-Kerl
+gdc-coref,v0fv.0,108195,108244,spiegelberg,108218,108224,meinen,spiegelberg
 gdc-coref,v0fv.0,108195,108244,spiegelberg,108226,108229,die,brave-Kerl
 gdc-coref,v0fv.0,108195,108244,spiegelberg,108230,108236,meinen,spiegelberg
 gdc-coref,v0fv.0,108249,108400,razmann,108267,108270,sie,brave-Kerl
@@ -3210,7 +3205,6 @@ gdc-coref,v0fv.0,109205,110816,razmann,110562,110573,der Advokat,seines-Advokate
 gdc-coref,v0fv.0,109205,110816,razmann,110588,110591,ihm,seines-Advokaten
 gdc-coref,v0fv.0,109205,110816,razmann,110634,110640,seinem,seines-Advokaten
 gdc-coref,v0fv.0,109205,110816,razmann,110679,110682,ich,
-gdc-coref,v0fv.0,109205,110816,razmann,110692,110697,Meine,razmann
 gdc-coref,v0fv.0,109205,110816,razmann,110710,110712,er,KARL-VON-MOOR
 gdc-coref,v0fv.0,109205,110816,razmann,110725,110729,sich,KARL-VON-MOOR
 gdc-coref,v0fv.0,109205,110816,razmann,110740,110743,uns,
@@ -3325,7 +3319,6 @@ gdc-coref,v0fv.0,113776,113967,karl_von_moor,113822,113830,Freiheit,die-Freiheit
 gdc-coref,v0fv.0,113776,113967,karl_von_moor,113836,113838,du,ROLLER
 gdc-coref,v0fv.0,113776,113967,karl_von_moor,113857,113863,Roller,ROLLER
 gdc-coref,v0fv.0,113776,113967,karl_von_moor,113872,113885,meinen Rappen,Pferd
-gdc-coref,v0fv.0,113776,113967,karl_von_moor,113872,113878,meinen,karl_von_moor
 gdc-coref,v0fv.0,113776,113967,karl_von_moor,113890,113899,Schweizer,SCHWEIZER
 gdc-coref,v0fv.0,113776,113967,karl_von_moor,113911,113914,ihn,Pferd
 gdc-coref,v0fv.0,113776,113967,karl_von_moor,113931,113935,sich,KARL-VON-MOOR
@@ -3474,7 +3467,6 @@ gdc-coref,v0fv.0,120029,120259,schweizer,120210,120212,du,
 gdc-coref,v0fv.0,120029,120259,schweizer,120214,120223,Spangeler,
 gdc-coref,v0fv.0,120029,120259,schweizer,120234,120236,du,
 gdc-coref,v0fv.0,120029,120259,schweizer,120237,120241,dein,
-gdc-coref,v0fv.0,120264,120364,ein_zweiter,120278,120281,Ich,ein_zweiter
 gdc-coref,v0fv.0,120264,120364,ein_zweiter,120286,120291,Bügel,EIN-DRITTER
 gdc-coref,v0fv.0,120264,120364,ein_zweiter,120346,120351,unser,DIE-RÄUBER
 gdc-coref,v0fv.0,120369,120462,ein_dritter,120409,120412,ich,ein_dritter
@@ -3789,7 +3781,6 @@ gdc-coref,v0fv.0,130769,130968,roller,130818,130827,Hauptmann,KARL-VON-MOOR
 gdc-coref,v0fv.0,130769,130968,roller,130835,130837,er,PATER
 gdc-coref,v0fv.0,130769,130968,roller,130887,130890,ich,roller
 gdc-coref,v0fv.0,130769,130968,roller,130891,130902,diesen Kerl,PATER
-gdc-coref,v0fv.0,130973,131098,schweizer,130985,130988,Mir,schweizer
 gdc-coref,v0fv.0,130973,131098,schweizer,130990,130993,mir,schweizer
 gdc-coref,v0fv.0,130973,131098,schweizer,130999,131003,mich,schweizer
 gdc-coref,v0fv.0,130973,131098,schweizer,131015,131018,dir,KARL-VON-MOOR
@@ -4034,7 +4025,6 @@ gdc-coref,v0fv.0,138332,138998,karl_von_moor,138423,138434,den Vertrag,den-Vertr
 gdc-coref,v0fv.0,138332,138998,karl_von_moor,138447,138450,der,den-Vertrag
 gdc-coref,v0fv.0,138332,138998,karl_von_moor,138487,138493,Kinder,DIE-RÄUBER
 gdc-coref,v0fv.0,138332,138998,karl_von_moor,138534,138537,ich,karl_von_moor
-gdc-coref,v0fv.0,138332,138998,karl_von_moor,138538,138544,meinen,karl_von_moor
 gdc-coref,v0fv.0,138332,138998,karl_von_moor,138560,138565,meine,karl_von_moor
 gdc-coref,v0fv.0,138332,138998,karl_von_moor,138609,138612,mir,karl_von_moor
 gdc-coref,v0fv.0,138332,138998,karl_von_moor,138638,138641,ich,karl_von_moor
@@ -4463,7 +4453,6 @@ gdc-coref,v0fv.0,153027,153135,schweizer,153039,153134,"Hundertundsechzig Husare
 gdc-coref,v0fv.0,153140,153333,karl_von_moor,153147,153158,Dreihundert,KARL-VON-MOOR
 gdc-coref,v0fv.0,153140,153333,karl_von_moor,153182,153186,euch,DIE-RÄUBER
 gdc-coref,v0fv.0,153140,153333,karl_von_moor,153252,153255,ich,karl_von_moor
-gdc-coref,v0fv.0,153140,153333,karl_von_moor,153256,153262,meinen,karl_von_moor
 gdc-coref,v0fv.0,153140,153333,karl_von_moor,153282,153287,meine,karl_von_moor
 gdc-coref,v0fv.0,153140,153333,karl_von_moor,153300,153303,Ich,karl_von_moor
 gdc-coref,v0fv.0,153140,153333,karl_von_moor,153309,153313,euch,DIE-RÄUBER
@@ -4719,7 +4708,6 @@ gdc-coref,v0fv.0,160804,161173,kosinsky,161147,161152,meine,kosinsky
 gdc-coref,v0fv.0,161178,161248,schweizer,161220,161223,Ich,schweizer
 gdc-coref,v0fv.0,161253,162067,kosinsky,161273,161276,ich,kosinsky
 gdc-coref,v0fv.0,161253,162067,kosinsky,161315,161318,mir,kosinsky
-gdc-coref,v0fv.0,161253,162067,kosinsky,161328,161331,Mir,kosinsky
 gdc-coref,v0fv.0,161253,162067,kosinsky,161343,161428,"meine Amalia, die meines Schicksals wegen jede Minute einen Tod würde zu leiden haben",Mädchen-Kosinsky
 gdc-coref,v0fv.0,161253,162067,kosinsky,161343,161348,meine,kosinsky
 gdc-coref,v0fv.0,161253,162067,kosinsky,161361,161367,meines,kosinsky
@@ -5003,7 +4991,6 @@ gdc-coref,v0fv.0,169368,169914,karl_von_moor,169878,169881,ich,karl_von_moor
 gdc-coref,v0fv.0,169368,169914,karl_von_moor,169886,169889,ihn,DER-ALTE-MOOR
 gdc-coref,v0fv.0,169368,169914,karl_von_moor,169899,169901,Er,KARL-VON-MOOR
 gdc-coref,v0fv.0,169920,172129,franz,170063,170071,der Graf,der-Graf-von-Brand
-gdc-coref,v0fv.0,169920,172129,franz,170136,170142,meinen,franz
 gdc-coref,v0fv.0,169920,172129,franz,170157,170160,Ich,franz
 gdc-coref,v0fv.0,169920,172129,franz,170167,170170,ihn,der-Graf-von-Brand
 gdc-coref,v0fv.0,169920,172129,franz,170265,170269,mich,franz
@@ -5694,6 +5681,7 @@ gdc-coref,v0fv.0,191609,192193,amalia,191809,191813,Gott,Gott
 gdc-coref,v0fv.0,191609,192193,amalia,191833,191835,du,Gott
 gdc-coref,v0fv.0,191609,192193,amalia,191843,191846,mir,amalia
 gdc-coref,v0fv.0,191609,192193,amalia,191847,191858,meinen Karl,KARL-VON-MOOR
+gdc-coref,v0fv.0,191609,192193,amalia,191847,191853,meinen,amalia
 gdc-coref,v0fv.0,191609,192193,amalia,191876,191887,Meine Seele,meiner-Seele2
 gdc-coref,v0fv.0,191609,192193,amalia,191876,191881,Meine,amalia
 gdc-coref,v0fv.0,191609,192193,amalia,191928,191931,ich,amalia
@@ -5754,7 +5742,6 @@ gdc-coref,v0fv.0,192923,193480,amalia,193344,193348,mich,amalia
 gdc-coref,v0fv.0,192923,193480,amalia,193366,193368,er,KARL-VON-MOOR
 gdc-coref,v0fv.0,192923,193480,amalia,193372,193378,meinem,amalia
 gdc-coref,v0fv.0,192923,193480,amalia,193394,193400,seinen,KARL-VON-MOOR
-gdc-coref,v0fv.0,192923,193480,amalia,193414,193420,meinen,amalia
 gdc-coref,v0fv.0,192923,193480,amalia,193456,193469,der Liebenden,
 gdc-coref,v0fv.0,193485,193510,karl_von_moor,193492,193494,Er,KARL-VON-MOOR
 gdc-coref,v0fv.0,193515,194095,amalia,193524,193526,Er,KARL-VON-MOOR
@@ -5978,7 +5965,6 @@ gdc-coref,v0fv.0,203464,208209,karl_von_moor,203735,203740,Meine,karl_von_moor
 gdc-coref,v0fv.0,203464,208209,karl_von_moor,203890,203895,meine,karl_von_moor
 gdc-coref,v0fv.0,203464,208209,karl_von_moor,203902,203905,mir,karl_von_moor
 gdc-coref,v0fv.0,203464,208209,karl_von_moor,204040,204043,ich,karl_von_moor
-gdc-coref,v0fv.0,203464,208209,karl_von_moor,204799,204803,Mich,karl_von_moor
 gdc-coref,v0fv.0,203464,208209,karl_von_moor,204907,204910,ich,karl_von_moor
 gdc-coref,v0fv.0,203464,208209,karl_von_moor,205135,205139,mich,karl_von_moor
 gdc-coref,v0fv.0,203464,208209,karl_von_moor,205223,205226,mir,karl_von_moor
@@ -6122,7 +6108,6 @@ gdc-coref,v0fv.0,218912,219006,schweizer,218940,218943,mir,schweizer
 gdc-coref,v0fv.0,218912,219006,schweizer,218967,218971,mich,schweizer
 gdc-coref,v0fv.0,218912,219006,schweizer,218982,218988,meinen,schweizer
 gdc-coref,v0fv.0,219011,219152,karl_von_moor,219034,219037,ich,karl_von_moor
-gdc-coref,v0fv.0,219011,219152,karl_von_moor,219118,219124,meinen,karl_von_moor
 gdc-coref,v0fv.0,219158,219282,schweizer,219201,219205,mich,schweizer
 gdc-coref,v0fv.0,219158,219282,schweizer,219265,219268,ich,schweizer
 gdc-coref,v0fv.0,219287,220090,karl_von_moor,219629,219632,ich,karl_von_moor
@@ -6519,7 +6504,6 @@ gdc-coref,v0fv.0,231819,232832,franz,231909,231912,mir,franz
 gdc-coref,v0fv.0,231819,232832,franz,231932,231936,mich,franz
 gdc-coref,v0fv.0,231819,232832,franz,231941,231948,Pfaffen,MOSER
 gdc-coref,v0fv.0,231819,232832,franz,231995,231997,du,MOSER
-gdc-coref,v0fv.0,231819,232832,franz,231998,232004,meinen,franz
 gdc-coref,v0fv.0,231819,232832,franz,232026,232029,Ich,franz
 gdc-coref,v0fv.0,231819,232832,franz,232045,232054,derjenige,die-Menschen
 gdc-coref,v0fv.0,231819,232832,franz,232075,232078,der,die-Menschen
@@ -7304,7 +7288,6 @@ gdc-coref,v0fv.0,254605,255258,karl_von_moor,254807,254824,ein großer Sünder,
 gdc-coref,v0fv.0,254605,255258,karl_von_moor,254840,254857,Ein großer Sünder,
 gdc-coref,v0fv.0,254605,255258,karl_von_moor,254893,254896,ich,karl_von_moor
 gdc-coref,v0fv.0,254605,255258,karl_von_moor,254930,254933,ich,karl_von_moor
-gdc-coref,v0fv.0,254605,255258,karl_von_moor,254981,254984,Ich,karl_von_moor
 gdc-coref,v0fv.0,254605,255258,karl_von_moor,255008,255010,er,Gott
 gdc-coref,v0fv.0,254605,255258,karl_von_moor,255011,255015,mich,karl_von_moor
 gdc-coref,v0fv.0,254605,255258,karl_von_moor,255033,255036,ich,karl_von_moor
@@ -7337,7 +7320,6 @@ gdc-coref,v0fv.0,255469,256059,amalia,255830,255833,Tod,Tod
 gdc-coref,v0fv.0,255469,256059,amalia,255838,255843,meine,amalia
 gdc-coref,v0fv.0,255469,256059,amalia,255861,255866,meine,amalia
 gdc-coref,v0fv.0,255469,256059,amalia,255881,255884,Ich,amalia
-gdc-coref,v0fv.0,255469,256059,amalia,255916,255919,Mir,amalia
 gdc-coref,v0fv.0,255469,256059,amalia,255956,255959,dir,KARL-VON-MOOR
 gdc-coref,v0fv.0,255469,256059,amalia,256023,256027,dein,KARL-VON-MOOR
 gdc-coref,v0fv.0,255469,256059,amalia,256041,256044,ich,amalia

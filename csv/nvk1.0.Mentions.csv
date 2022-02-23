@@ -98,7 +98,6 @@ gdc-coref,nvk1.0,13859,14261,gertrude,14239,14243,mich,gertrude
 gdc-coref,nvk1.0,14305,14545,gertrude,14373,14376,ich,gertrude
 gdc-coref,nvk1.0,14708,15196,gertrude,14922,14926,mich,gertrude
 gdc-coref,nvk1.0,14708,15196,gertrude,14939,14942,ich,gertrude
-gdc-coref,nvk1.0,14708,15196,gertrude,14982,14988,meinen,gertrude
 gdc-coref,nvk1.0,14708,15196,gertrude,14997,15000,mir,gertrude
 gdc-coref,nvk1.0,14708,15196,gertrude,15043,15046,Ich,gertrude
 gdc-coref,nvk1.0,15202,15234,könig,15209,15212,Ich,könig
@@ -116,7 +115,6 @@ gdc-coref,nvk1.0,17445,18156,gertrude,17494,17498,mich,gertrude
 gdc-coref,nvk1.0,17445,18156,gertrude,17550,17553,Ich,gertrude
 gdc-coref,nvk1.0,17445,18156,gertrude,17560,17563,ich,gertrude
 gdc-coref,nvk1.0,17445,18156,gertrude,17586,17590,mich,gertrude
-gdc-coref,nvk1.0,17445,18156,gertrude,17625,17631,meinen,gertrude
 gdc-coref,nvk1.0,17445,18156,gertrude,17639,17642,mir,gertrude
 gdc-coref,nvk1.0,17445,18156,gertrude,17689,17692,Ich,gertrude
 gdc-coref,nvk1.0,17445,18156,gertrude,17737,17740,ich,gertrude
@@ -134,7 +132,6 @@ gdc-coref,nvk1.0,18215,19192,gertrude,18396,18400,mein,gertrude
 gdc-coref,nvk1.0,18215,19192,gertrude,18448,18451,ich,gertrude
 gdc-coref,nvk1.0,18215,19192,gertrude,18482,18485,ich,gertrude
 gdc-coref,nvk1.0,18215,19192,gertrude,18507,18511,Mein,gertrude
-gdc-coref,nvk1.0,18215,19192,gertrude,18549,18553,Mein,gertrude
 gdc-coref,nvk1.0,18215,19192,gertrude,18594,18597,Ich,gertrude
 gdc-coref,nvk1.0,18215,19192,gertrude,18617,18620,ich,gertrude
 gdc-coref,nvk1.0,18215,19192,gertrude,18657,18660,ich,gertrude
@@ -230,7 +227,6 @@ gdc-coref,nvk1.0,29754,30742,königin,30224,30227,mir,königin
 gdc-coref,nvk1.0,29754,30742,königin,30298,30301,ich,königin
 gdc-coref,nvk1.0,29754,30742,königin,30314,30318,Mein,königin
 gdc-coref,nvk1.0,29754,30742,königin,30333,30336,ich,königin
-gdc-coref,nvk1.0,29754,30742,königin,30457,30461,Mich,königin
 gdc-coref,nvk1.0,29754,30742,königin,30485,30489,mein,königin
 gdc-coref,nvk1.0,29754,30742,königin,30515,30520,meine,königin
 gdc-coref,nvk1.0,29754,30742,königin,30599,30603,Mein,königin
@@ -337,7 +333,6 @@ gdc-coref,nvk1.0,44501,44827,erny,44799,44802,ich,erny
 gdc-coref,nvk1.0,44501,44827,erny,44809,44812,Ich,erny
 gdc-coref,nvk1.0,44832,44886,otto,44838,44841,Ich,otto
 gdc-coref,nvk1.0,44891,44942,erny,44897,44900,Ich,erny
-gdc-coref,nvk1.0,44947,45172,otto,45015,45018,Mir,otto
 gdc-coref,nvk1.0,44947,45172,otto,45047,45050,ich,otto
 gdc-coref,nvk1.0,44947,45172,otto,45123,45126,mir,otto
 gdc-coref,nvk1.0,45178,45205,erny,45193,45196,ich,erny
@@ -364,7 +359,6 @@ gdc-coref,nvk1.0,46075,46955,erny,46359,46362,ich,erny
 gdc-coref,nvk1.0,46075,46955,erny,46426,46429,Ich,erny
 gdc-coref,nvk1.0,46075,46955,erny,46476,46479,ich,erny
 gdc-coref,nvk1.0,46075,46955,erny,46481,46484,ich,erny
-gdc-coref,nvk1.0,46075,46955,erny,46724,46727,Mir,erny
 gdc-coref,nvk1.0,46075,46955,erny,46792,46795,ich,erny
 gdc-coref,nvk1.0,46075,46955,erny,46796,46800,mich,erny
 gdc-coref,nvk1.0,46960,47358,bancbanus,47305,47308,mir,bancbanus
@@ -522,7 +516,6 @@ gdc-coref,nvk1.0,65155,65418,königin,65199,65202,mir,königin
 gdc-coref,nvk1.0,65155,65418,königin,65207,65213,meines,königin
 gdc-coref,nvk1.0,65155,65418,königin,65233,65237,mich,königin
 gdc-coref,nvk1.0,65155,65418,königin,65323,65327,Mein,königin
-gdc-coref,nvk1.0,65155,65418,königin,65328,65331,Ich,königin
 gdc-coref,nvk1.0,65155,65418,königin,65333,65337,mein,königin
 gdc-coref,nvk1.0,65155,65418,königin,65346,65349,mir,königin
 gdc-coref,nvk1.0,65155,65418,königin,65362,65366,mein,königin
@@ -1201,7 +1194,6 @@ gdc-coref,nvk1.0,91616,92012,otto,91778,91787,Schwester,königin
 gdc-coref,nvk1.0,91616,92012,otto,91788,91790,du,königin
 gdc-coref,nvk1.0,91616,92012,otto,91840,91849,im Winkel,im-Winkel
 gdc-coref,nvk1.0,91616,92012,otto,91852,91867,Meine Schwester,königin
-gdc-coref,nvk1.0,91616,92012,otto,91852,91857,Meine,otto
 gdc-coref,nvk1.0,91616,92012,otto,91877,91884,Lichter,Lichter
 gdc-coref,nvk1.0,91616,92012,otto,91893,91902,im Winkel,im-Winkel
 gdc-coref,nvk1.0,91616,92012,otto,91916,91921,Licht,Lichter
@@ -1457,7 +1449,6 @@ gdc-coref,nvk1.0,98033,99031,königin,98459,98462,ich,königin
 gdc-coref,nvk1.0,98033,99031,königin,98463,98474,den Meutern,Pöbelhaufen
 gdc-coref,nvk1.0,98033,99031,königin,98475,98479,mich,königin
 gdc-coref,nvk1.0,98033,99031,königin,98517,98520,Sie,Pöbelhaufen
-gdc-coref,nvk1.0,98033,99031,königin,98529,98533,mein,königin
 gdc-coref,nvk1.0,98033,99031,königin,98543,98546,ihr,Pöbelhaufen
 gdc-coref,nvk1.0,98033,99031,königin,98570,98573,ich,königin
 gdc-coref,nvk1.0,98033,99031,königin,98574,98588,dieses Schwert,Otto's-Schwert
@@ -1748,7 +1739,6 @@ gdc-coref,nvk1.0,123393,123544,bancbanus,123477,123483,meiner,bancbanus
 gdc-coref,nvk1.0,123393,123544,bancbanus,123520,123524,mich,bancbanus
 gdc-coref,nvk1.0,123595,123991,simon,123638,123642,Mein,simon
 gdc-coref,nvk1.0,123595,123991,simon,123654,123658,mein,simon
-gdc-coref,nvk1.0,123595,123991,simon,123951,123954,Mir,simon
 gdc-coref,nvk1.0,124709,124773,bancbanus,124720,124724,Mein,bancbanus
 gdc-coref,nvk1.0,124709,124773,bancbanus,124731,124735,Mein,bancbanus
 gdc-coref,nvk1.0,124709,124773,bancbanus,124747,124751,mich,bancbanus

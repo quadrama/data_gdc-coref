@@ -19,8 +19,6 @@ gdc-coref,r2mn.0,3627,3981,sir_john,3921,3927,meinem,sir_john
 gdc-coref,r2mn.0,3986,4115,liddy,4068,4072,mein,liddy
 gdc-coref,r2mn.0,4121,4319,sir_john,4194,4197,mir,sir_john
 gdc-coref,r2mn.0,4121,4319,sir_john,4245,4251,meinen,sir_john
-gdc-coref,r2mn.0,4324,4358,liddy,4336,4342,meinen,liddy
-gdc-coref,r2mn.0,4390,4424,liddy,4402,4408,meinen,liddy
 gdc-coref,r2mn.0,4429,4460,sir_john,4440,4443,Ich,sir_john
 gdc-coref,r2mn.0,4566,4658,sir_john,4592,4595,ich,sir_john
 gdc-coref,r2mn.0,4726,5332,sir_john,4783,4787,mich,sir_john
@@ -354,6 +352,7 @@ gdc-coref,r2mn.0,50274,50369,mistriss_smith,50342,50345,mir,mistriss_smith
 gdc-coref,r2mn.0,50539,50669,mistriss_smith,50585,50589,Mein,mistriss_smith
 gdc-coref,r2mn.0,50674,50748,gurli,50723,50726,ich,gurli
 gdc-coref,r2mn.0,50753,50881,mistriss_smith,50781,50785,mich,mistriss_smith
+gdc-coref,r2mn.0,50753,50881,mistriss_smith,50838,50845,meinige,mistriss_smith
 gdc-coref,r2mn.0,51074,51308,mistriss_smith,51110,51115,Meine,mistriss_smith
 gdc-coref,r2mn.0,51074,51308,mistriss_smith,51223,51226,Ich,mistriss_smith
 gdc-coref,r2mn.0,51313,51402,gurli,51321,51324,Ich,gurli
@@ -394,7 +393,6 @@ gdc-coref,r2mn.0,57180,57456,liddy,57301,57304,ich,liddy
 gdc-coref,r2mn.0,57180,57456,liddy,57330,57333,ich,liddy
 gdc-coref,r2mn.0,57180,57456,liddy,57338,57342,mich,liddy
 gdc-coref,r2mn.0,57462,57726,kaberdar,57601,57604,ich,kaberdar
-gdc-coref,r2mn.0,58208,58280,kaberdar,58227,58233,meinen,kaberdar
 gdc-coref,r2mn.0,58344,58454,kaberdar,58398,58401,Ich,kaberdar
 gdc-coref,r2mn.0,58344,58454,kaberdar,58438,58442,mich,kaberdar
 gdc-coref,r2mn.0,58459,58514,liddy,58502,58506,mein,liddy
@@ -511,7 +509,6 @@ gdc-coref,r2mn.0,66618,67168,liddy,66959,66962,ich,liddy
 gdc-coref,r2mn.0,67255,67305,liddy,67286,67289,mir,liddy
 gdc-coref,r2mn.0,67336,67367,liddy,67353,67356,Ich,liddy
 gdc-coref,r2mn.0,67389,67515,liddy,67405,67408,ich,liddy
-gdc-coref,r2mn.0,67389,67515,liddy,67418,67424,meinen,liddy
 gdc-coref,r2mn.0,67521,67750,samuel,67711,67714,ich,samuel
 gdc-coref,r2mn.0,68091,68222,samuel,68174,68177,ich,samuel
 gdc-coref,r2mn.0,68457,68698,liddy,68485,68488,ich,liddy
@@ -554,7 +551,6 @@ gdc-coref,r2mn.0,73920,74040,gurli,73934,73937,ich,gurli
 gdc-coref,r2mn.0,73920,74040,gurli,74023,74027,mein,gurli
 gdc-coref,r2mn.0,74045,74391,samuel,74075,74078,ich,samuel
 gdc-coref,r2mn.0,74045,74391,samuel,74122,74125,ich,samuel
-gdc-coref,r2mn.0,74478,74507,liddy,74486,74489,Mir,liddy
 gdc-coref,r2mn.0,74513,74564,gurli,74533,74536,ich,gurli
 gdc-coref,r2mn.0,74569,74740,samuel,74618,74621,ich,samuel
 gdc-coref,r2mn.0,74745,74890,liddy,74753,74756,Ich,liddy
@@ -568,7 +564,6 @@ gdc-coref,r2mn.0,75715,75880,gurli,75796,75799,ich,gurli
 gdc-coref,r2mn.0,75715,75880,gurli,75855,75858,ich,gurli
 gdc-coref,r2mn.0,75950,76039,liddy,76004,76009,meine,liddy
 gdc-coref,r2mn.0,75950,76039,liddy,76025,76030,meine,liddy
-gdc-coref,r2mn.0,76083,76147,liddy,76099,76105,meinen,liddy
 gdc-coref,r2mn.0,76362,76534,liddy,76380,76383,ich,liddy
 gdc-coref,r2mn.0,76362,76534,liddy,76414,76417,ich,liddy
 gdc-coref,r2mn.0,76362,76534,liddy,76503,76506,mir,liddy
@@ -614,7 +609,6 @@ gdc-coref,r2mn.0,80773,81068,gurli,80971,80974,ich,gurli
 gdc-coref,r2mn.0,81074,81142,liddy,81109,81113,mich,liddy
 gdc-coref,r2mn.0,81147,81210,gurli,81165,81169,mein,gurli
 gdc-coref,r2mn.0,81258,81352,gurli,81274,81277,ich,gurli
-gdc-coref,r2mn.0,81357,81431,liddy,81377,81383,meinen,liddy
 gdc-coref,r2mn.0,81756,81901,liddy,81806,81809,mir,liddy
 gdc-coref,r2mn.0,82128,82474,gurli,82309,82312,ich,gurli
 gdc-coref,r2mn.0,82481,83034,jack,82488,82491,Ich,jack
@@ -790,7 +784,6 @@ gdc-coref,r2mn.0,99860,100059,mäster_staff,99914,99917,man,man
 gdc-coref,r2mn.0,99860,100059,mäster_staff,99918,99922,mich,mäster_staff
 gdc-coref,r2mn.0,99860,100059,mäster_staff,99927,99930,ich,mäster_staff
 gdc-coref,r2mn.0,99860,100059,mäster_staff,99931,99975,meinen vortrefflichen Freund Mäster Strussel,mäster_strussel
-gdc-coref,r2mn.0,99860,100059,mäster_staff,99931,99937,meinen,mäster_staff
 gdc-coref,r2mn.0,99860,100059,mäster_staff,100014,100019,Ihnen,mäster_strussel
 gdc-coref,r2mn.0,99860,100059,mäster_staff,100031,100040,Jacobchen,Jacobchen
 gdc-coref,r2mn.0,99860,100059,mäster_staff,100041,100058,mein kleiner Pate,Jacobchen
@@ -1713,6 +1706,7 @@ gdc-coref,r2mn.0,128284,128633,visitator,128310,128314,mich,visitator
 gdc-coref,r2mn.0,128284,128633,visitator,128322,128325,Sir,robert
 gdc-coref,r2mn.0,128284,128633,visitator,128344,128365,meinen Amtsgeschäften,Amtsgeschäften
 gdc-coref,r2mn.0,128284,128633,visitator,128344,128350,meinen,visitator
+gdc-coref,r2mn.0,128284,128633,visitator,128367,128373,meinen,visitator
 gdc-coref,r2mn.0,128284,128633,visitator,128392,128415,den Mäster Samuel Smith,samuel
 gdc-coref,r2mn.0,128284,128633,visitator,128469,128472,ich,visitator
 gdc-coref,r2mn.0,128284,128633,visitator,128473,128477,mich,visitator
@@ -1956,7 +1950,6 @@ gdc-coref,r2mn.0,134996,135248,robert,135078,135081,ich,robert
 gdc-coref,r2mn.0,134996,135248,robert,135082,135086,dich,jack
 gdc-coref,r2mn.0,134996,135248,robert,135131,135133,du,jack
 gdc-coref,r2mn.0,134996,135248,robert,135153,135156,ich,robert
-gdc-coref,r2mn.0,134996,135248,robert,135171,135177,meinen,robert
 gdc-coref,r2mn.0,134996,135248,robert,135212,135215,ich,robert
 gdc-coref,r2mn.0,135331,135351,_stage,135331,135336,Fazir,fazir
 gdc-coref,r2mn.0,135331,135351,_stage,135339,135350,Die Vorigen,jack-und-robert
@@ -2272,7 +2265,6 @@ gdc-coref,r2mn.0,143539,144601,fazir,143866,143879,dieses Schiff,Ein-fremdes-Sch
 gdc-coref,r2mn.0,143539,144601,fazir,143886,143890,mich,fazir
 gdc-coref,r2mn.0,143539,144601,fazir,143943,143946,Ich,fazir
 gdc-coref,r2mn.0,143539,144601,fazir,143963,143976,meinen Turban,meinen-Turban
-gdc-coref,r2mn.0,143539,144601,fazir,143963,143969,meinen,fazir
 gdc-coref,r2mn.0,143539,144601,fazir,143990,143993,ich,fazir
 gdc-coref,r2mn.0,143539,144601,fazir,143999,144011,den Musselin,meinen-Turban
 gdc-coref,r2mn.0,143539,144601,fazir,144065,144068,ich,fazir

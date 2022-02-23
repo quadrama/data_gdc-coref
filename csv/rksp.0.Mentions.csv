@@ -284,7 +284,6 @@ gdc-coref,rksp.0,8070,8578,der_prinz,8424,8428,mein,der_prinz
 gdc-coref,rksp.0,8070,8578,der_prinz,8443,8445,Er,odoardo
 gdc-coref,rksp.0,8070,8578,der_prinz,8454,8457,der,odoardo
 gdc-coref,rksp.0,8070,8578,der_prinz,8458,8462,sich,odoardo
-gdc-coref,rksp.0,8070,8578,der_prinz,8463,8469,meinen,der_prinz
 gdc-coref,rksp.0,8070,8578,der_prinz,8485,8495,Sabionetta,Sabionetta
 gdc-coref,rksp.0,8070,8578,der_prinz,8522,8537,Ein alter Degen,odoardo
 gdc-coref,rksp.0,8583,8638,conti,8591,8600,Der Vater,odoardo
@@ -325,8 +324,6 @@ gdc-coref,rksp.0,8862,9703,conti,9448,9454,diesem,"das-Porträt,-welches-Sie-mir
 gdc-coref,rksp.0,8862,9703,conti,9460,9463,ich,conti
 gdc-coref,rksp.0,8862,9703,conti,9473,9489,ein großer Maler,ein-großer-Maler
 gdc-coref,rksp.0,8862,9703,conti,9499,9501,es,ein-großer-Maler
-gdc-coref,rksp.0,8862,9703,conti,9507,9512,meine,conti
-gdc-coref,rksp.0,8862,9703,conti,9546,9552,meinen,conti
 gdc-coref,rksp.0,8862,9703,conti,9553,9563,"Sie, Prinz",der_prinz
 gdc-coref,rksp.0,8862,9703,conti,9569,9576,Raphael,Raphael
 gdc-coref,rksp.0,8862,9703,conti,9630,9632,er,Raphael
@@ -716,7 +713,6 @@ gdc-coref,rksp.0,19706,20316,der_prinz,19881,19965,"alle ihr, denen ich der toll
 gdc-coref,rksp.0,19706,20316,der_prinz,19897,19900,ich,der_prinz
 gdc-coref,rksp.0,19706,20316,der_prinz,19901,19918,der tollen Orsina,orsina
 gdc-coref,rksp.0,19706,20316,der_prinz,19977,20054,"Sie, Marinelli, der Sie so oft mich Ihrer innigsten Freundschaft versicherten",marinelli
-gdc-coref,rksp.0,19706,20316,der_prinz,20008,20012,mich,der_prinz
 gdc-coref,rksp.0,19706,20316,der_prinz,20013,20018,Ihrer,marinelli
 gdc-coref,rksp.0,19706,20316,der_prinz,20059,20068,ein Fürst,der_prinz
 gdc-coref,rksp.0,19706,20316,der_prinz,20073,20086,keinen Freund,keinen-Freund
@@ -1166,7 +1162,6 @@ gdc-coref,rksp.0,32442,32543,pirro,32458,32462,dich,angelo
 gdc-coref,rksp.0,32442,32543,pirro,32463,32473,den Teufel,den-Teufel
 gdc-coref,rksp.0,32442,32543,pirro,32502,32504,du,angelo
 gdc-coref,rksp.0,32442,32543,pirro,32510,32514,sein,den-Teufel
-gdc-coref,rksp.0,32442,32543,pirro,32525,32528,Ich,pirro
 gdc-coref,rksp.0,32593,32628,_stage,32593,32600,Odoardo,odoardo
 gdc-coref,rksp.0,32593,32628,_stage,32605,32620,Claudia Galotti,claudia
 gdc-coref,rksp.0,32593,32628,_stage,32622,32627,Pirro,pirro
@@ -2077,7 +2072,6 @@ gdc-coref,rksp.0,54673,54714,marinelli,54685,54696,Der Tochter,emilia
 gdc-coref,rksp.0,54673,54714,marinelli,54701,54713,diesem Hause,das-Haus
 gdc-coref,rksp.0,54719,54746,appiani,54733,54745,diesem Hause,das-Haus
 gdc-coref,rksp.0,54802,54939,marinelli,54814,54817,Ich,marinelli
-gdc-coref,rksp.0,54802,54939,marinelli,54825,54831,meinen,marinelli
 gdc-coref,rksp.0,54802,54939,marinelli,54888,54901,die Zeremonie,Die-Trauung
 gdc-coref,rksp.0,54802,54939,marinelli,54909,54914,Ihrer,appiani
 gdc-coref,rksp.0,54944,54987,appiani,54954,54967,Die Zeremonie,Die-Trauung
@@ -3246,7 +3240,6 @@ gdc-coref,rksp.0,84882,85103,marinelli,85009,85028,dem Meisterstreiche,dem-Meist
 gdc-coref,rksp.0,84882,85103,marinelli,85040,85043,den,dem-Meisterstreiche
 gdc-coref,rksp.0,84882,85103,marinelli,85044,85046,er,der_prinz
 gdc-coref,rksp.0,84882,85103,marinelli,85054,85070,meinen Anstalten,"Ihren-weisen,-wunderbaren-Anstalten"
-gdc-coref,rksp.0,84882,85103,marinelli,85054,85060,meinen,marinelli
 gdc-coref,rksp.0,85108,85124,der_prinz,85120,85123,Ich,der_prinz
 gdc-coref,rksp.0,85129,85369,marinelli,85141,85143,Er,der_prinz
 gdc-coref,rksp.0,85129,85369,marinelli,85152,85155,mir,marinelli
@@ -3550,7 +3543,6 @@ gdc-coref,rksp.0,92414,93421,orsina,93047,93049,er,der_prinz
 gdc-coref,rksp.0,92414,93421,orsina,93060,93066,Dosalo,Dosalo
 gdc-coref,rksp.0,92414,93421,orsina,93079,93088,der Prinz,der_prinz
 gdc-coref,rksp.0,92414,93421,orsina,93089,93101,meinen Brief,ein-Brief
-gdc-coref,rksp.0,92414,93421,orsina,93089,93095,meinen,orsina
 gdc-coref,rksp.0,92414,93421,orsina,93124,93126,er,der_prinz
 gdc-coref,rksp.0,92414,93421,orsina,93137,93143,Dosalo,Dosalo
 gdc-coref,rksp.0,92414,93421,orsina,93172,93194,ein sonderbarer Zufall,Ein-sonderbarer-Zufall
@@ -4604,7 +4596,6 @@ gdc-coref,rksp.0,117707,117958,marinelli,117936,117939,Ich,marinelli
 gdc-coref,rksp.0,117707,117958,marinelli,117954,117957,ihn,der_prinz
 gdc-coref,rksp.0,118008,118919,odoardo,118047,118050,Mir,odoardo
 gdc-coref,rksp.0,118008,118919,odoardo,118068,118071,sie,emilia
-gdc-coref,rksp.0,118008,118919,odoardo,118084,118087,Mir,odoardo
 gdc-coref,rksp.0,118008,118919,odoardo,118088,118091,sie,emilia
 gdc-coref,rksp.0,118008,118919,odoardo,118108,118111,Wer,der_prinz
 gdc-coref,rksp.0,118008,118919,odoardo,118122,118125,Wer,der_prinz
@@ -4920,7 +4911,6 @@ gdc-coref,rksp.0,125265,125857,der_prinz,125765,125768,Sie,marinelli
 gdc-coref,rksp.0,125265,125857,der_prinz,125787,125790,Sie,odoardo
 gdc-coref,rksp.0,125265,125857,der_prinz,125804,125811,Galotti,odoardo
 gdc-coref,rksp.0,125265,125857,der_prinz,125813,125836,meinen Kanzler Grimaldi,meines-Kanzlers
-gdc-coref,rksp.0,125265,125857,der_prinz,125813,125819,meinen,der_prinz
 gdc-coref,rksp.0,125265,125857,der_prinz,125842,125856,seine Gemahlin,seine-Gemahlin
 gdc-coref,rksp.0,125265,125857,der_prinz,125842,125847,seine,meines-Kanzlers
 gdc-coref,rksp.0,125862,126331,odoardo,125883,125886,ich,odoardo

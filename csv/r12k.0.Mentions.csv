@@ -162,7 +162,6 @@ gdc-coref,r12k.0,14098,14480,berkley,14211,14214,ich,berkley
 gdc-coref,r12k.0,14098,14480,berkley,14269,14275,meinen,berkley
 gdc-coref,r12k.0,14098,14480,berkley,14366,14369,mir,berkley
 gdc-coref,r12k.0,14530,14640,berkley,14550,14553,Ich,berkley
-gdc-coref,r12k.0,14645,14853,caroline,14819,14825,meinen,caroline
 gdc-coref,r12k.0,14645,14853,caroline,14848,14852,mich,caroline
 gdc-coref,r12k.0,14893,14972,caroline,14913,14917,mein,caroline
 gdc-coref,r12k.0,14977,15333,berkley,15002,15005,ich,berkley
@@ -549,7 +548,6 @@ gdc-coref,r12k.0,46583,46724,berkley,46621,46624,mir,berkley
 gdc-coref,r12k.0,46583,46724,berkley,46659,46662,Ich,berkley
 gdc-coref,r12k.0,46583,46724,berkley,46706,46709,mir,berkley
 gdc-coref,r12k.0,46729,46820,wild,46748,46751,ich,wild
-gdc-coref,r12k.0,46729,46820,wild,46759,46765,meinen,wild
 gdc-coref,r12k.0,46729,46820,wild,46799,46802,ich,wild
 gdc-coref,r12k.0,46825,47311,berkley,46872,46875,mir,berkley
 gdc-coref,r12k.0,46825,47311,berkley,46917,46920,mir,berkley
@@ -736,8 +734,6 @@ gdc-coref,r12k.0,62782,62855,la_feu,62796,62799,ich,la_feu
 gdc-coref,r12k.0,62782,62855,la_feu,62802,62806,mich,la_feu
 gdc-coref,r12k.0,62896,63037,la_feu,62909,62912,ich,la_feu
 gdc-coref,r12k.0,62896,63037,la_feu,62942,62945,Ich,la_feu
-gdc-coref,r12k.0,62896,63037,la_feu,62946,62950,mein,la_feu
-gdc-coref,r12k.0,62896,63037,la_feu,63005,63008,Mir,la_feu
 gdc-coref,r12k.0,62896,63037,la_feu,63024,63027,ich,la_feu
 gdc-coref,r12k.0,63074,63147,la_feu,63101,63104,ich,la_feu
 gdc-coref,r12k.0,63074,63147,la_feu,63142,63145,ich,la_feu
@@ -763,7 +759,6 @@ gdc-coref,r12k.0,64837,65576,caroline,65076,65079,ich,caroline
 gdc-coref,r12k.0,64837,65576,caroline,65159,65162,mir,caroline
 gdc-coref,r12k.0,64837,65576,caroline,65291,65296,meine,caroline
 gdc-coref,r12k.0,64837,65576,caroline,65304,65307,mir,caroline
-gdc-coref,r12k.0,64837,65576,caroline,65356,65362,meinen,caroline
 gdc-coref,r12k.0,64837,65576,caroline,65419,65422,mir,caroline
 gdc-coref,r12k.0,65581,65606,wild,65595,65599,mein,wild
 gdc-coref,r12k.0,65611,65644,caroline,65629,65635,meines,caroline
@@ -889,7 +884,6 @@ gdc-coref,r12k.0,75199,76013,kapitän,75437,75440,mir,kapitän
 gdc-coref,r12k.0,75199,76013,kapitän,75465,75469,mich,kapitän
 gdc-coref,r12k.0,75199,76013,kapitän,75552,75555,ich,kapitän
 gdc-coref,r12k.0,75199,76013,kapitän,75678,75681,ich,kapitän
-gdc-coref,r12k.0,75199,76013,kapitän,75682,75688,meinen,kapitän
 gdc-coref,r12k.0,75199,76013,kapitän,75731,75737,meinem,kapitän
 gdc-coref,r12k.0,75199,76013,kapitän,75819,75822,ich,kapitän
 gdc-coref,r12k.0,75199,76013,kapitän,75876,75880,mich,kapitän
@@ -914,7 +908,6 @@ gdc-coref,r12k.0,77877,78007,kapitän,77911,77915,mein,kapitän
 gdc-coref,r12k.0,77877,78007,kapitän,77956,77960,mich,kapitän
 gdc-coref,r12k.0,78012,78148,wild,78019,78022,Ich,wild
 gdc-coref,r12k.0,78012,78148,wild,78071,78074,mir,wild
-gdc-coref,r12k.0,78012,78148,wild,78103,78107,mein,wild
 gdc-coref,r12k.0,78153,78356,berkley,78221,78227,meinen,berkley
 gdc-coref,r12k.0,78153,78356,berkley,78244,78247,ich,berkley
 gdc-coref,r12k.0,78153,78356,berkley,78331,78334,ich,berkley
@@ -1088,7 +1081,6 @@ gdc-coref,r12k.0,87272,87619,mohr,87298,87301,ich,mohr
 gdc-coref,r12k.0,87272,87619,mohr,87317,87320,mir,mohr
 gdc-coref,r12k.0,87272,87619,mohr,87343,87346,ich,mohr
 gdc-coref,r12k.0,87272,87619,mohr,87368,87380,meinen Vater,den-Zuckai
-gdc-coref,r12k.0,87272,87619,mohr,87368,87374,meinen,mohr
 gdc-coref,r12k.0,87272,87619,mohr,87382,87392,den Zuckai,den-Zuckai
 gdc-coref,r12k.0,87272,87619,mohr,87398,87410,meine Mutter,meine-Mutter
 gdc-coref,r12k.0,87272,87619,mohr,87398,87403,meine,mohr

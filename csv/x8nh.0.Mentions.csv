@@ -10,7 +10,6 @@ gdc-coref,x8nh.0,3944,4156,hans_sturz,4004,4009,meine,hans_sturz
 gdc-coref,x8nh.0,3944,4156,hans_sturz,4036,4039,ich,hans_sturz
 gdc-coref,x8nh.0,4481,4797,perwenitz,4632,4635,mir,perwenitz
 gdc-coref,x8nh.0,4902,4974,heinse_lang,4916,4919,Ich,heinse_lang
-gdc-coref,x8nh.0,5105,5336,perwenitz,5229,5235,meinen,perwenitz
 gdc-coref,x8nh.0,5816,5899,martin,5895,5898,mir,martin
 gdc-coref,x8nh.0,6220,6589,perwenitz,6256,6259,ich,perwenitz
 gdc-coref,x8nh.0,6594,6897,martin,6623,6626,mir,martin
@@ -98,7 +97,6 @@ gdc-coref,x8nh.0,28443,28899,köhne_finke,28711,28714,mir,köhne_finke
 gdc-coref,x8nh.0,28443,28899,köhne_finke,28772,28775,mir,köhne_finke
 gdc-coref,x8nh.0,28443,28899,köhne_finke,28800,28803,mir,köhne_finke
 gdc-coref,x8nh.0,28443,28899,köhne_finke,28880,28883,mir,köhne_finke
-gdc-coref,x8nh.0,29936,30359,köhne_finke,30197,30202,meine,köhne_finke
 gdc-coref,x8nh.0,29936,30359,köhne_finke,30213,30218,meine,köhne_finke
 gdc-coref,x8nh.0,30478,31039,köhne_finke,30647,30650,mir,köhne_finke
 gdc-coref,x8nh.0,30478,31039,köhne_finke,30669,30672,mir,köhne_finke
@@ -274,7 +272,6 @@ gdc-coref,x8nh.0,60102,60177,propst_ortwin,60144,60147,ich,propst_ortwin
 gdc-coref,x8nh.0,60183,60265,konrad_von_quitzow,60221,60224,Ich,konrad_von_quitzow
 gdc-coref,x8nh.0,60379,60737,sechelweg,60474,60478,mich,sechelweg
 gdc-coref,x8nh.0,60379,60737,sechelweg,60521,60524,ich,sechelweg
-gdc-coref,x8nh.0,61533,61603,die_straussberger,61552,61555,Mir,die_straussberger
 gdc-coref,x8nh.0,61754,61926,propst_ortwin,61916,61920,mein,propst_ortwin
 gdc-coref,x8nh.0,62120,62280,konrad_von_quitzow,62132,62135,ich,konrad_von_quitzow
 gdc-coref,x8nh.0,62285,62645,agnes,62477,62481,mich,agnes
@@ -287,7 +284,6 @@ gdc-coref,x8nh.0,63548,63616,agnes,63589,63593,mich,agnes
 gdc-coref,x8nh.0,63548,63616,agnes,63611,63615,mich,agnes
 gdc-coref,x8nh.0,63621,63768,wins,63685,63689,mein,wins
 gdc-coref,x8nh.0,63773,63904,konrad_von_quitzow,63814,63817,mir,konrad_von_quitzow
-gdc-coref,x8nh.0,63773,63904,konrad_von_quitzow,63832,63838,meinen,konrad_von_quitzow
 gdc-coref,x8nh.0,63909,63987,agnes,63970,63974,mein,agnes
 gdc-coref,x8nh.0,63993,64168,wins,64026,64030,mein,wins
 gdc-coref,x8nh.0,63993,64168,wins,64044,64047,ich,wins
@@ -321,7 +317,6 @@ gdc-coref,x8nh.0,66916,67102,konrad_von_quitzow,67093,67096,ich,konrad_von_quitz
 gdc-coref,x8nh.0,67108,67171,perwenitz,67151,67154,ich,perwenitz
 gdc-coref,x8nh.0,67176,67513,propst_ortwin,67238,67244,meinen,propst_ortwin
 gdc-coref,x8nh.0,68110,68409,konrad_von_quitzow,68285,68288,mir,konrad_von_quitzow
-gdc-coref,x8nh.0,68110,68409,konrad_von_quitzow,68322,68325,Mir,konrad_von_quitzow
 gdc-coref,x8nh.0,68110,68409,konrad_von_quitzow,68365,68368,Ich,konrad_von_quitzow
 gdc-coref,x8nh.0,68110,68409,konrad_von_quitzow,68394,68397,ich,konrad_von_quitzow
 gdc-coref,x8nh.0,68545,68653,konrad_von_quitzow,68591,68596,meine,konrad_von_quitzow
@@ -333,6 +328,7 @@ gdc-coref,x8nh.0,69908,69984,barbara,69947,69950,Ich,barbara
 gdc-coref,x8nh.0,70978,71062,barbara,70992,70995,ich,barbara
 gdc-coref,x8nh.0,70978,71062,barbara,71017,71021,mein,barbara
 gdc-coref,x8nh.0,71067,71153,kasimir,71077,71080,Ich,kasimir
+gdc-coref,x8nh.0,71067,71153,kasimir,71096,71102,meinen,kasimir
 gdc-coref,x8nh.0,71319,71395,barbara,71353,71356,ich,barbara
 gdc-coref,x8nh.0,71801,71904,barbara,71820,71823,ich,barbara
 gdc-coref,x8nh.0,72032,72056,otto,72051,72055,mich,otto
@@ -347,7 +343,6 @@ gdc-coref,x8nh.0,74243,74366,kasimir,74354,74357,mir,kasimir
 gdc-coref,x8nh.0,74372,74432,otto,74411,74414,ich,otto
 gdc-coref,x8nh.0,74517,74644,otto,74533,74536,Ich,otto
 gdc-coref,x8nh.0,74682,74777,schwerin,74708,74711,ich,schwerin
-gdc-coref,x8nh.0,74682,74777,schwerin,74712,74717,meine,schwerin
 gdc-coref,x8nh.0,75012,75147,otto,75042,75045,Ich,otto
 gdc-coref,x8nh.0,75564,75607,otto,75594,75597,Ich,otto
 gdc-coref,x8nh.0,75763,75913,dietrich,75783,75787,mich,dietrich
@@ -403,7 +398,6 @@ gdc-coref,x8nh.0,83237,83302,dietrich,83258,83264,Meiner,dietrich
 gdc-coref,x8nh.0,83308,83596,barbara,83466,83469,ich,barbara
 gdc-coref,x8nh.0,83308,83596,barbara,83527,83530,ich,barbara
 gdc-coref,x8nh.0,83714,83792,barbara,83733,83736,ich,barbara
-gdc-coref,x8nh.0,83714,83792,barbara,83747,83753,meinen,barbara
 gdc-coref,x8nh.0,83714,83792,barbara,83777,83781,mich,barbara
 gdc-coref,x8nh.0,83855,83978,barbara,83896,83899,mir,barbara
 gdc-coref,x8nh.0,83855,83978,barbara,83941,83945,mein,barbara
@@ -444,7 +438,6 @@ gdc-coref,x8nh.0,86742,86768,barbara,86751,86754,Ich,barbara
 gdc-coref,x8nh.0,86773,86959,dietrich,86879,86882,Mir,dietrich
 gdc-coref,x8nh.0,87058,87164,konrad_von_quitzow,87152,87156,mein,konrad_von_quitzow
 gdc-coref,x8nh.0,87247,87441,konrad_von_quitzow,87295,87298,ich,konrad_von_quitzow
-gdc-coref,x8nh.0,87247,87441,konrad_von_quitzow,87356,87359,Ich,konrad_von_quitzow
 gdc-coref,x8nh.0,87247,87441,konrad_von_quitzow,87421,87425,mein,konrad_von_quitzow
 gdc-coref,x8nh.0,87447,87532,dietrich,87489,87493,mich,dietrich
 gdc-coref,x8nh.0,87538,87752,konrad_von_quitzow,87598,87601,mir,konrad_von_quitzow
@@ -539,7 +532,6 @@ gdc-coref,x8nh.0,111013,111064,dietrich,111032,111035,ich,dietrich
 gdc-coref,x8nh.0,111589,111625,dietrich,111621,111624,ich,dietrich
 gdc-coref,x8nh.0,111669,111701,dietrich,111679,111682,Ich,dietrich
 gdc-coref,x8nh.0,112729,112803,ileburg,112769,112774,meine,ileburg
-gdc-coref,x8nh.0,112729,112803,ileburg,112782,112785,Mir,ileburg
 gdc-coref,x8nh.0,112809,112878,dietrich,112844,112847,ich,dietrich
 gdc-coref,x8nh.0,112884,112949,ileburg,112894,112897,Ich,ileburg
 gdc-coref,x8nh.0,112956,113041,dietrich,113001,113004,mir,dietrich
@@ -616,12 +608,10 @@ gdc-coref,x8nh.0,121462,121564,dietrich,121544,121548,mich,dietrich
 gdc-coref,x8nh.0,121655,121776,dietrich,121709,121712,ich,dietrich
 gdc-coref,x8nh.0,121655,121776,dietrich,121718,121722,mich,dietrich
 gdc-coref,x8nh.0,121957,122062,dietrich,122009,122012,mir,dietrich
-gdc-coref,x8nh.0,122208,122422,dietrich,122276,122282,meinen,dietrich
 gdc-coref,x8nh.0,122208,122422,dietrich,122312,122316,mein,dietrich
 gdc-coref,x8nh.0,122208,122422,dietrich,122347,122350,ich,dietrich
 gdc-coref,x8nh.0,122749,123182,dietrich,122780,122783,Ich,dietrich
 gdc-coref,x8nh.0,122749,123182,dietrich,122834,122838,mich,dietrich
-gdc-coref,x8nh.0,122749,123182,dietrich,122868,122872,Mein,dietrich
 gdc-coref,x8nh.0,122749,123182,dietrich,122902,122906,Mein,dietrich
 gdc-coref,x8nh.0,122749,123182,dietrich,122986,122989,ich,dietrich
 gdc-coref,x8nh.0,122749,123182,dietrich,123095,123098,ich,dietrich
@@ -742,6 +732,7 @@ gdc-coref,x8nh.0,138259,140303,friedrich,140027,140033,meinen,friedrich
 gdc-coref,x8nh.0,141043,141253,konrad_von_quitzow,141133,141139,meinem,konrad_von_quitzow
 gdc-coref,x8nh.0,141043,141253,konrad_von_quitzow,141228,141231,ich,konrad_von_quitzow
 gdc-coref,x8nh.0,141299,141320,konrad_von_quitzow,141312,141315,ich,konrad_von_quitzow
+gdc-coref,x8nh.0,141424,141543,konrad_von_quitzow,141525,141532,meinige,konrad_von_quitzow
 gdc-coref,x8nh.0,141840,141939,konrad_von_quitzow,141856,141859,Ich,konrad_von_quitzow
 gdc-coref,x8nh.0,141840,141939,konrad_von_quitzow,141868,141874,meiner,konrad_von_quitzow
 gdc-coref,x8nh.0,141945,142309,agnes,141993,141997,mich,agnes
@@ -867,7 +858,6 @@ gdc-coref,x8nh.0,163226,163334,friedrich,163318,163322,mein,friedrich
 gdc-coref,x8nh.0,163339,163846,konrad_von_quitzow,163435,163438,ich,konrad_von_quitzow
 gdc-coref,x8nh.0,163339,163846,konrad_von_quitzow,163579,163582,ich,konrad_von_quitzow
 gdc-coref,x8nh.0,163339,163846,konrad_von_quitzow,163622,163625,ich,konrad_von_quitzow
-gdc-coref,x8nh.0,163339,163846,konrad_von_quitzow,163697,163700,Mir,konrad_von_quitzow
 gdc-coref,x8nh.0,163339,163846,konrad_von_quitzow,163776,163779,mir,konrad_von_quitzow
 gdc-coref,x8nh.0,163913,164008,_stage,163913,163929,Henning Stroband,stroband
 gdc-coref,x8nh.0,163913,164008,_stage,163931,163943,Gertrud Wins,gertrud
@@ -1301,7 +1291,7 @@ gdc-coref,x8nh.0,175539,175673,köhne_finke,175564,175584,zur Mark Brandenburg,B
 gdc-coref,x8nh.0,175539,175673,köhne_finke,175598,175601,Ich,
 gdc-coref,x8nh.0,175539,175673,köhne_finke,175606,175610,dein,Brandenburg-Land
 gdc-coref,x8nh.0,175539,175673,köhne_finke,175616,175618,du,Brandenburg-Land
-gdc-coref,x8nh.0,175539,175673,köhne_finke,175624,175628,mein,
+gdc-coref,x8nh.0,175539,175673,köhne_finke,175624,175628,mein,friedrich
 gdc-coref,x8nh.0,175539,175673,köhne_finke,175635,175672,unseren schwarz und weißen Markgrafen,friedrich
 gdc-coref,x8nh.0,175539,175673,köhne_finke,175635,175642,unseren,
 gdc-coref,x8nh.0,175678,175784,stroband,175689,175698,PERWENITZ,perwenitz
@@ -1561,7 +1551,6 @@ gdc-coref,x8nh.0,182830,184226,dietrich,183574,183577,ich,dietrich
 gdc-coref,x8nh.0,182830,184226,dietrich,183592,183596,dich,Die-große-Donnerbüchse
 gdc-coref,x8nh.0,182830,184226,dietrich,183614,183617,ich,dietrich
 gdc-coref,x8nh.0,182830,184226,dietrich,183654,183656,Du,Die-große-Donnerbüchse
-gdc-coref,x8nh.0,182830,184226,dietrich,183657,183663,meinen,dietrich
 gdc-coref,x8nh.0,182830,184226,dietrich,183688,183692,dich,Die-große-Donnerbüchse
 gdc-coref,x8nh.0,182830,184226,dietrich,183694,183704,Du Ungetüm,Die-große-Donnerbüchse
 gdc-coref,x8nh.0,182830,184226,dietrich,183710,183716,deinem,Die-große-Donnerbüchse
@@ -1927,8 +1916,6 @@ gdc-coref,x8nh.0,193700,193795,barbara,193783,193787,Euer,konrad
 gdc-coref,x8nh.0,193808,193828,_stage,193814,193817,sie,barbara
 gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193837,193850,Slawenbastard,barbara
 gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193856,193859,mir,konrad_von_quitzow
-gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193860,193866,meinen,konrad_von_quitzow
-gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193876,193879,Mir,konrad_von_quitzow
 gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193892,193906,mein Vaterland,Brandenburg-Land
 gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193892,193896,mein,konrad_von_quitzow
 gdc-coref,x8nh.0,193800,193963,konrad_von_quitzow,193907,193910,mir,konrad_von_quitzow

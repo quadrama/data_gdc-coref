@@ -42,6 +42,7 @@ gdc-coref,tz6r.0,9395,9995,isolani,9652,9655,ich,isolani
 gdc-coref,tz6r.0,9395,9995,isolani,9715,9718,mir,isolani
 gdc-coref,tz6r.0,9395,9995,isolani,9737,9740,Ich,isolani
 gdc-coref,tz6r.0,9395,9995,isolani,9758,9764,meiner,isolani
+gdc-coref,tz6r.0,9395,9995,isolani,9819,9822,Ich,isolani
 gdc-coref,tz6r.0,9395,9995,isolani,9860,9863,Ich,isolani
 gdc-coref,tz6r.0,9395,9995,isolani,9933,9936,mir,isolani
 gdc-coref,tz6r.0,9395,9995,isolani,9957,9960,ich,isolani
@@ -82,7 +83,6 @@ gdc-coref,tz6r.0,18497,19284,octavio,18984,18987,ich,octavio
 gdc-coref,tz6r.0,18497,19284,octavio,19011,19014,ich,octavio
 gdc-coref,tz6r.0,18497,19284,octavio,19030,19034,mein,octavio
 gdc-coref,tz6r.0,18497,19284,octavio,19066,19070,mich,octavio
-gdc-coref,tz6r.0,18497,19284,octavio,19105,19108,Mir,octavio
 gdc-coref,tz6r.0,18497,19284,octavio,19221,19225,mich,octavio
 gdc-coref,tz6r.0,18497,19284,octavio,19271,19276,meine,octavio
 gdc-coref,tz6r.0,19471,19652,octavio,19481,19484,Ich,octavio
@@ -316,7 +316,6 @@ gdc-coref,tz6r.0,38171,38779,wallenstein,38198,38212,Das holde Kind,thekla
 gdc-coref,tz6r.0,38171,38779,wallenstein,38258,38261,ich,wallenstein
 gdc-coref,tz6r.0,38171,38779,wallenstein,38320,38326,meines,wallenstein
 gdc-coref,tz6r.0,38171,38779,wallenstein,38339,38345,meines,wallenstein
-gdc-coref,tz6r.0,38171,38779,wallenstein,38409,38413,Mein,wallenstein
 gdc-coref,tz6r.0,38171,38779,wallenstein,38457,38460,Ich,wallenstein
 gdc-coref,tz6r.0,38171,38779,wallenstein,38497,38503,dieses,thekla
 gdc-coref,tz6r.0,38171,38779,wallenstein,38538,38541,ich,wallenstein
@@ -388,7 +387,6 @@ gdc-coref,tz6r.0,40284,40687,max,40428,40431,ich,max
 gdc-coref,tz6r.0,40284,40687,max,40452,40481,diesem teuren Namen Friedland,diesem-teuren-Namen-Friedland
 gdc-coref,tz6r.0,40284,40687,max,40500,40503,ich,max
 gdc-coref,tz6r.0,40284,40687,max,40528,40540,diesem Namen,diesem-teuren-Namen-Friedland
-gdc-coref,tz6r.0,40284,40687,max,40562,40565,Mir,max
 gdc-coref,tz6r.0,40284,40687,max,40658,40662,mich,max
 gdc-coref,tz6r.0,40284,40687,max,40674,40686,diesem Namen,diesem-teuren-Namen-Friedland
 gdc-coref,tz6r.0,40700,40806,_stage,40719,40729,den Herzog,wallenstein
@@ -483,7 +481,6 @@ gdc-coref,tz6r.0,43105,43729,wallenstein,43399,43403,Mich,wallenstein
 gdc-coref,tz6r.0,43105,43729,wallenstein,43408,43427,des Reiches Fürsten,des-Reiches-Fürsten
 gdc-coref,tz6r.0,43105,43729,wallenstein,43408,43419,des Reiches,das-Reich
 gdc-coref,tz6r.0,43105,43729,wallenstein,43443,43445,Es,das-Reich
-gdc-coref,tz6r.0,43105,43729,wallenstein,43481,43484,Mir,wallenstein
 gdc-coref,tz6r.0,43105,43729,wallenstein,43518,43527,Die Goten,Die-Goten
 gdc-coref,tz6r.0,43105,43729,wallenstein,43584,43600,deutschen Landes,das-Reich
 gdc-coref,tz6r.0,43105,43729,wallenstein,43660,43663,sie,Die-Goten
@@ -812,7 +809,6 @@ gdc-coref,tz6r.0,56144,56588,wallenstein,56298,56300,er,des-bewährten-Feldherrn
 gdc-coref,tz6r.0,56144,56588,wallenstein,56354,56356,er,des-bewährten-Feldherrn
 gdc-coref,tz6r.0,56144,56588,wallenstein,56377,56380,Mir,wallenstein
 gdc-coref,tz6r.0,56144,56588,wallenstein,56404,56410,meines,wallenstein
-gdc-coref,tz6r.0,56144,56588,wallenstein,56419,56423,Mich,wallenstein
 gdc-coref,tz6r.0,56144,56588,wallenstein,56435,56442,Arnheim,Arnheim
 gdc-coref,tz6r.0,56144,56588,wallenstein,56469,56480,Deutschland,Deutschlands
 gdc-coref,tz6r.0,56144,56588,wallenstein,56481,56486,meine,wallenstein
@@ -1131,6 +1127,7 @@ gdc-coref,tz6r.0,72304,72497,graefin,72413,72416,ich,graefin
 gdc-coref,tz6r.0,72304,72497,graefin,72465,72468,ich,graefin
 gdc-coref,tz6r.0,72304,72497,graefin,72469,72473,mich,graefin
 gdc-coref,tz6r.0,72552,72706,graefin,72581,72586,meine,graefin
+gdc-coref,tz6r.0,72552,72706,graefin,72635,72641,meinen,graefin
 gdc-coref,tz6r.0,72712,73460,max,72820,72823,mir,max
 gdc-coref,tz6r.0,72712,73460,max,72902,72905,Ich,max
 gdc-coref,tz6r.0,72712,73460,max,72911,72915,mich,max
@@ -1190,7 +1187,6 @@ gdc-coref,tz6r.0,78513,78751,thekla,78539,78543,mich,thekla
 gdc-coref,tz6r.0,78513,78751,thekla,78550,78553,ich,thekla
 gdc-coref,tz6r.0,78513,78751,thekla,78576,78580,Mich,thekla
 gdc-coref,tz6r.0,78513,78751,thekla,78632,78635,mir,thekla
-gdc-coref,tz6r.0,78513,78751,thekla,78663,78666,Mir,thekla
 gdc-coref,tz6r.0,78513,78751,thekla,78710,78713,mir,thekla
 gdc-coref,tz6r.0,78757,79017,max,78763,78766,Mir,max
 gdc-coref,tz6r.0,78757,79017,max,78778,78782,mein,max
@@ -1219,11 +1215,9 @@ gdc-coref,tz6r.0,80403,81469,thekla,80831,80835,Mein,thekla
 gdc-coref,tz6r.0,81475,82524,max,81495,81498,ich,max
 gdc-coref,tz6r.0,81475,82524,max,81761,81767,meiner,max
 gdc-coref,tz6r.0,81475,82524,max,81928,81931,mir,max
-gdc-coref,tz6r.0,81475,82524,max,81943,81946,Mir,max
 gdc-coref,tz6r.0,82530,82789,thekla,82575,82578,ich,thekla
 gdc-coref,tz6r.0,82530,82789,thekla,82611,82615,mich,thekla
 gdc-coref,tz6r.0,84008,84185,graefin,84017,84020,Ich,graefin
-gdc-coref,tz6r.0,84236,84361,graefin,84277,84280,Mir,graefin
 gdc-coref,tz6r.0,84236,84361,graefin,84296,84299,ich,graefin
 gdc-coref,tz6r.0,84561,84639,thekla,84592,84595,mir,thekla
 gdc-coref,tz6r.0,84561,84639,thekla,84597,84600,Ich,thekla
@@ -1447,11 +1441,9 @@ gdc-coref,tz6r.0,126894,127098,octavio,126924,126927,mir,octavio
 gdc-coref,tz6r.0,126894,127098,octavio,126934,126937,ich,octavio
 gdc-coref,tz6r.0,127256,127476,octavio,127298,127301,mir,octavio
 gdc-coref,tz6r.0,127256,127476,octavio,127332,127336,mein,octavio
-gdc-coref,tz6r.0,127256,127476,octavio,127390,127393,Mir,octavio
 gdc-coref,tz6r.0,127482,127710,max,127696,127699,mir,max
 gdc-coref,tz6r.0,127717,127885,octavio,127736,127739,ich,octavio
 gdc-coref,tz6r.0,127717,127885,octavio,127740,127744,mein,octavio
-gdc-coref,tz6r.0,127717,127885,octavio,127820,127826,meinen,octavio
 gdc-coref,tz6r.0,127717,127885,octavio,127836,127841,meine,octavio
 gdc-coref,tz6r.0,127717,127885,octavio,127866,127869,ich,octavio
 gdc-coref,tz6r.0,127891,128087,max,127936,127942,meinem,max
@@ -1469,7 +1461,6 @@ gdc-coref,tz6r.0,128306,128907,octavio,128678,128682,mein,octavio
 gdc-coref,tz6r.0,128306,128907,octavio,128828,128832,mein,octavio
 gdc-coref,tz6r.0,128913,129197,max,128919,128922,Ich,max
 gdc-coref,tz6r.0,128913,129197,max,129111,129114,ich,max
-gdc-coref,tz6r.0,128913,129197,max,129150,129153,Mir,max
 gdc-coref,tz6r.0,128913,129197,max,129166,129170,mich,max
 gdc-coref,tz6r.0,129203,129614,octavio,129274,129278,mein,octavio
 gdc-coref,tz6r.0,129203,129614,octavio,129285,129288,Ich,octavio

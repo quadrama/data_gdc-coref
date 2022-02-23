@@ -92,7 +92,6 @@ gdc-coref,th0n.0,10990,11017,klotz,11005,11009,mein,klotz
 gdc-coref,th0n.0,11251,11312,klotz,11259,11262,Ich,klotz
 gdc-coref,th0n.0,11317,11499,der_gouverneur,11380,11384,mich,der_gouverneur
 gdc-coref,th0n.0,11317,11499,der_gouverneur,11397,11400,ich,der_gouverneur
-gdc-coref,th0n.0,11317,11499,der_gouverneur,11425,11431,meinen,der_gouverneur
 gdc-coref,th0n.0,11317,11499,der_gouverneur,11448,11451,ich,der_gouverneur
 gdc-coref,th0n.0,11317,11499,der_gouverneur,11474,11477,ich,der_gouverneur
 gdc-coref,th0n.0,11317,11499,der_gouverneur,11478,11484,meinen,der_gouverneur
@@ -437,8 +436,6 @@ gdc-coref,th0n.0,49231,49288,anna,49268,49271,Ich,anna
 gdc-coref,th0n.0,49913,49992,anna,49920,49924,Mein,anna
 gdc-coref,th0n.0,50729,50791,anna,50756,50760,Mein,anna
 gdc-coref,th0n.0,51445,51560,anna,51452,51456,Mein,anna
-gdc-coref,th0n.0,51925,52079,der_offizier,51948,51951,Ich,der_offizier
-gdc-coref,th0n.0,52443,52564,der_offizier,52458,52461,Ich,der_offizier
 gdc-coref,th0n.0,52443,52564,der_offizier,52470,52473,Ich,der_offizier
 gdc-coref,th0n.0,52443,52564,der_offizier,52501,52504,ich,der_offizier
 gdc-coref,th0n.0,52443,52564,der_offizier,52516,52519,mir,der_offizier
@@ -599,7 +596,6 @@ gdc-coref,th0n.0,69174,69265,der_erste_gefangener,69202,69205,ich,der_erste_gefa
 gdc-coref,th0n.0,69174,69265,der_erste_gefangener,69230,69233,Ich,der_erste_gefangener
 gdc-coref,th0n.0,69174,69265,der_erste_gefangener,69243,69247,Mein,der_erste_gefangener
 gdc-coref,th0n.0,69450,69481,nauke,69466,69469,Ich,nauke
-gdc-coref,th0n.0,70241,70340,anna,70253,70259,meinen,anna
 gdc-coref,th0n.0,70241,70340,anna,70277,70280,ich,anna
 gdc-coref,th0n.0,70345,70459,die_ffrau,70361,70365,mein,die_ffrau
 gdc-coref,th0n.0,70345,70459,die_ffrau,70415,70418,ich,die_ffrau
@@ -1427,7 +1423,6 @@ gdc-coref,th0n.0,142731,143961,nauke,143096,143100,mich,nauke
 gdc-coref,th0n.0,142731,143961,nauke,143123,143126,mir,nauke
 gdc-coref,th0n.0,142731,143961,nauke,143127,143131,mein,nauke
 gdc-coref,th0n.0,142731,143961,nauke,143157,143161,mich,nauke
-gdc-coref,th0n.0,142731,143961,nauke,143177,143180,Ich,nauke
 gdc-coref,th0n.0,142731,143961,nauke,143190,143193,Ihr,
 gdc-coref,th0n.0,142731,143961,nauke,143213,143216,Ihr,
 gdc-coref,th0n.0,142731,143961,nauke,143226,143229,mir,nauke

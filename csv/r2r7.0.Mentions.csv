@@ -95,6 +95,7 @@ gdc-coref,r2r7.0,10484,11380,herrmann,10785,10788,Ich,herrmann
 gdc-coref,r2r7.0,10484,11380,herrmann,10793,10797,mich,herrmann
 gdc-coref,r2r7.0,10484,11380,herrmann,10846,10850,mich,herrmann
 gdc-coref,r2r7.0,10484,11380,herrmann,10972,10975,mir,herrmann
+gdc-coref,r2r7.0,10484,11380,herrmann,11061,11069,meinigen,herrmann
 gdc-coref,r2r7.0,10484,11380,herrmann,11071,11074,Ich,herrmann
 gdc-coref,r2r7.0,10484,11380,herrmann,11083,11089,meiner,herrmann
 gdc-coref,r2r7.0,10484,11380,herrmann,11118,11122,mich,herrmann
@@ -114,6 +115,7 @@ gdc-coref,r2r7.0,11431,12778,caroline,12134,12137,mir,caroline
 gdc-coref,r2r7.0,11431,12778,caroline,12170,12173,ich,caroline
 gdc-coref,r2r7.0,11431,12778,caroline,12202,12207,meine,caroline
 gdc-coref,r2r7.0,11431,12778,caroline,12235,12238,ich,caroline
+gdc-coref,r2r7.0,11431,12778,caroline,12246,12252,meinen,caroline
 gdc-coref,r2r7.0,11431,12778,caroline,12318,12324,meines,caroline
 gdc-coref,r2r7.0,11431,12778,caroline,12440,12446,meiner,caroline
 gdc-coref,r2r7.0,11431,12778,caroline,12493,12499,meiner,caroline
@@ -228,7 +230,6 @@ gdc-coref,r2r7.0,20528,21241,arnold,21165,21168,mir,arnold
 gdc-coref,r2r7.0,20528,21241,arnold,21208,21211,ich,arnold
 gdc-coref,r2r7.0,21246,22730,herrmann,21352,21355,Ich,herrmann
 gdc-coref,r2r7.0,21246,22730,herrmann,21524,21527,mir,herrmann
-gdc-coref,r2r7.0,21246,22730,herrmann,21941,21947,meinen,herrmann
 gdc-coref,r2r7.0,21246,22730,herrmann,22570,22573,ich,herrmann
 gdc-coref,r2r7.0,22782,24849,arnold,23279,23285,meines,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23394,23398,Mein,arnold
@@ -239,7 +240,6 @@ gdc-coref,r2r7.0,22782,24849,arnold,23672,23675,mir,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23730,23733,ich,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23769,23774,meine,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23795,23798,ich,arnold
-gdc-coref,r2r7.0,22782,24849,arnold,23799,23805,meinen,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23818,23824,meiner,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23857,23860,mir,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,23925,23929,mich,arnold
@@ -250,7 +250,6 @@ gdc-coref,r2r7.0,22782,24849,arnold,24070,24073,mir,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,24111,24114,ich,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,24151,24156,meine,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,24178,24181,ich,arnold
-gdc-coref,r2r7.0,22782,24849,arnold,24272,24278,meinen,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,24300,24305,meine,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,24437,24443,meinen,arnold
 gdc-coref,r2r7.0,22782,24849,arnold,24507,24510,Ich,arnold
@@ -581,7 +580,6 @@ gdc-coref,r2r7.0,55131,55285,chrysander,55222,55225,ich,chrysander
 gdc-coref,r2r7.0,55290,55515,der_graf,55325,55328,mir,der_graf
 gdc-coref,r2r7.0,55290,55515,der_graf,55381,55386,meine,der_graf
 gdc-coref,r2r7.0,55290,55515,der_graf,55438,55441,ich,der_graf
-gdc-coref,r2r7.0,55290,55515,der_graf,55442,55447,meine,der_graf
 gdc-coref,r2r7.0,55290,55515,der_graf,55501,55506,meine,der_graf
 gdc-coref,r2r7.0,55563,55701,der_graf,55593,55596,ich,der_graf
 gdc-coref,r2r7.0,55706,55955,chrysander,55752,55755,ich,chrysander
@@ -883,7 +881,6 @@ gdc-coref,r2r7.0,81639,81781,der_graf,81734,81737,mir,der_graf
 gdc-coref,r2r7.0,81639,81781,der_graf,81768,81774,meinem,der_graf
 gdc-coref,r2r7.0,81786,82223,johann,81795,81798,Ich,johann
 gdc-coref,r2r7.0,81786,82223,johann,81848,81851,ich,johann
-gdc-coref,r2r7.0,81786,82223,johann,81925,81929,mich,johann
 gdc-coref,r2r7.0,81786,82223,johann,81972,81975,ich,johann
 gdc-coref,r2r7.0,81786,82223,johann,82014,82018,mich,johann
 gdc-coref,r2r7.0,81786,82223,johann,82043,82049,meines,johann
@@ -892,7 +889,6 @@ gdc-coref,r2r7.0,81786,82223,johann,82116,82119,ich,johann
 gdc-coref,r2r7.0,82297,82524,der_graf,82308,82311,Ich,der_graf
 gdc-coref,r2r7.0,82297,82524,der_graf,82351,82355,mich,der_graf
 gdc-coref,r2r7.0,82297,82524,der_graf,82419,82425,meiner,der_graf
-gdc-coref,r2r7.0,82628,82726,der_graf,82663,82666,Mir,der_graf
 gdc-coref,r2r7.0,82731,83089,arnold,82920,82923,ich,arnold
 gdc-coref,r2r7.0,82731,83089,arnold,83007,83010,ich,arnold
 gdc-coref,r2r7.0,83094,83216,der_graf,83118,83121,mir,der_graf
@@ -1161,7 +1157,6 @@ gdc-coref,r2r7.0,102238,102437,chrysander,102396,102400,Mein,chrysander
 gdc-coref,r2r7.0,102442,102500,johann,102473,102476,ich,johann
 gdc-coref,r2r7.0,102505,102594,chrysander,102530,102534,mich,chrysander
 gdc-coref,r2r7.0,102505,102594,chrysander,102542,102545,ich,chrysander
-gdc-coref,r2r7.0,102505,102594,chrysander,102546,102551,meine,chrysander
 gdc-coref,r2r7.0,102599,102726,johann,102625,102628,ich,johann
 gdc-coref,r2r7.0,102599,102726,johann,102661,102664,ich,johann
 gdc-coref,r2r7.0,102599,102726,johann,102704,102707,ich,johann
@@ -2485,6 +2480,7 @@ gdc-coref,r2r7.0,151620,151730,valer,151704,151709,ihnen,caroline
 gdc-coref,r2r7.0,151735,151808,caroline,151750,151759,mein Herz,mein-Herz2
 gdc-coref,r2r7.0,151735,151808,caroline,151750,151754,mein,caroline
 gdc-coref,r2r7.0,151735,151808,caroline,151780,151783,sie,valer
+gdc-coref,r2r7.0,151735,151808,caroline,151784,151790,meinen,caroline
 gdc-coref,r2r7.0,151813,152023,valer,151821,151829,Ihr Herz,mein-Herz2
 gdc-coref,r2r7.0,151813,152023,valer,151821,151824,Ihr,caroline
 gdc-coref,r2r7.0,151813,152023,valer,151835,151839,sich,mein-Herz2
@@ -2560,6 +2556,7 @@ gdc-coref,r2r7.0,153433,154123,valer,153727,153729,Er,meinem-Oheims
 gdc-coref,r2r7.0,153433,154123,valer,153735,153738,mir,valer
 gdc-coref,r2r7.0,153433,154123,valer,153751,153764,einer Wehmuth,einer-Wehmuth
 gdc-coref,r2r7.0,153433,154123,valer,153770,153776,welche,einer-Wehmuth
+gdc-coref,r2r7.0,153433,154123,valer,153781,153788,meinige,valer
 gdc-coref,r2r7.0,153433,154123,valer,153803,153806,ich,valer
 gdc-coref,r2r7.0,153433,154123,valer,153826,153829,ich,valer
 gdc-coref,r2r7.0,153433,154123,valer,153844,153872,meiner hier gespielten Rolle,meiner-hier-gespielten-Rolle
@@ -2628,7 +2625,6 @@ gdc-coref,r2r7.0,155152,155452,die_gräfinn,155219,155222,ich,die_gräfinn
 gdc-coref,r2r7.0,155152,155452,die_gräfinn,155226,155231,ihnen,valer
 gdc-coref,r2r7.0,155152,155452,die_gräfinn,155254,155257,Ich,die_gräfinn
 gdc-coref,r2r7.0,155152,155452,die_gräfinn,155277,155289,meinem Gemal,der_graf
-gdc-coref,r2r7.0,155152,155452,die_gräfinn,155277,155283,meinem,die_gräfinn
 gdc-coref,r2r7.0,155152,155452,die_gräfinn,155304,155306,er,der_graf
 gdc-coref,r2r7.0,155152,155452,die_gräfinn,155307,155313,meinen,die_gräfinn
 gdc-coref,r2r7.0,155152,155452,die_gräfinn,155360,155363,sie,valer
@@ -2665,6 +2661,7 @@ gdc-coref,r2r7.0,156013,156967,herrmann,156035,156048,ihre Großmuth,ihre-Großm
 gdc-coref,r2r7.0,156013,156967,herrmann,156035,156039,ihre,valer
 gdc-coref,r2r7.0,156013,156967,herrmann,156067,156070,sie,ihre-Großmuth
 gdc-coref,r2r7.0,156013,156967,herrmann,156091,156102,das meinige,das-meinige
+gdc-coref,r2r7.0,156013,156967,herrmann,156095,156102,meinige,herrmann
 gdc-coref,r2r7.0,156013,156967,herrmann,156146,156166,die Rathsherrnstelle,die-Rathsherrnstelle
 gdc-coref,r2r7.0,156013,156967,herrmann,156188,156191,ich,herrmann
 gdc-coref,r2r7.0,156013,156967,herrmann,156192,156197,ihnen,valer
@@ -2684,6 +2681,7 @@ gdc-coref,r2r7.0,156013,156967,herrmann,156510,156523,eines Herzens,eines-Herzen
 gdc-coref,r2r7.0,156013,156967,herrmann,156532,156535,das,eines-Herzens
 gdc-coref,r2r7.0,156013,156967,herrmann,156536,156539,sie,caroline
 gdc-coref,r2r7.0,156013,156967,herrmann,156567,156578,das meinige,das-meinige
+gdc-coref,r2r7.0,156013,156967,herrmann,156571,156578,meinige,herrmann
 gdc-coref,r2r7.0,156013,156967,herrmann,156580,156583,das,eines-Herzens
 gdc-coref,r2r7.0,156013,156967,herrmann,156584,156589,ihrer,caroline
 gdc-coref,r2r7.0,156013,156967,herrmann,156687,156704,gnädiges Fräulein,caroline

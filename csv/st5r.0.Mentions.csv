@@ -76,7 +76,6 @@ gdc-coref,st5r.0,4048,6587,montan,6083,6086,ich,montan
 gdc-coref,st5r.0,4048,6587,montan,6231,6234,ich,montan
 gdc-coref,st5r.0,4048,6587,montan,6235,6238,mir,montan
 gdc-coref,st5r.0,4048,6587,montan,6256,6262,meiner,montan
-gdc-coref,st5r.0,4048,6587,montan,6277,6280,Mir,montan
 gdc-coref,st5r.0,4048,6587,montan,6389,6392,ich,montan
 gdc-coref,st5r.0,4048,6587,montan,6448,6452,mich,montan
 gdc-coref,st5r.0,4048,6587,montan,6483,6486,ich,montan
@@ -295,7 +294,6 @@ gdc-coref,st5r.0,26842,27268,mops,26919,26923,mich,mops
 gdc-coref,st5r.0,26842,27268,mops,26982,26986,Mein,mops
 gdc-coref,st5r.0,26842,27268,mops,27193,27197,mich,mops
 gdc-coref,st5r.0,26842,27268,mops,27222,27225,mir,mops
-gdc-coref,st5r.0,27460,27519,chloe,27503,27507,mich,chloe
 gdc-coref,st5r.0,27627,27696,chloe,27640,27643,ich,chloe
 gdc-coref,st5r.0,27627,27696,chloe,27660,27663,Ich,chloe
 gdc-coref,st5r.0,27742,27848,chloe,27758,27761,ich,chloe
@@ -343,7 +341,6 @@ gdc-coref,st5r.0,31881,32151,silvander,31914,31917,mir,silvander
 gdc-coref,st5r.0,31881,32151,silvander,31953,31956,ich,silvander
 gdc-coref,st5r.0,31881,32151,silvander,32011,32014,ich,silvander
 gdc-coref,st5r.0,32422,32499,silvander,32442,32445,ich,silvander
-gdc-coref,st5r.0,32838,32973,silvander,32871,32875,Mich,silvander
 gdc-coref,st5r.0,33001,33372,chloe,33348,33351,ich,chloe
 gdc-coref,st5r.0,33377,33585,silvander,33495,33498,ich,silvander
 gdc-coref,st5r.0,33377,33585,silvander,33566,33569,ich,silvander
@@ -706,7 +703,6 @@ gdc-coref,st5r.0,57468,57499,montan,57490,57498,die Welt,die-Welt
 gdc-coref,st5r.0,57504,57919,corydon,57534,57537,mir,corydon
 gdc-coref,st5r.0,57504,57919,corydon,57592,57595,Ich,corydon
 gdc-coref,st5r.0,57504,57919,corydon,57616,57624,die Welt,die-Welt
-gdc-coref,st5r.0,57504,57919,corydon,57650,57653,Ich,corydon
 gdc-coref,st5r.0,57504,57919,corydon,57674,57678,mich,corydon
 gdc-coref,st5r.0,57504,57919,corydon,57781,57795,die ganze Welt,die-Welt
 gdc-coref,st5r.0,57504,57919,corydon,57819,57822,ich,corydon
@@ -1139,7 +1135,6 @@ gdc-coref,st5r.0,68399,68685,damöt,68597,68600,ich,damöt
 gdc-coref,st5r.0,68399,68685,damöt,68601,68604,ihm,montan
 gdc-coref,st5r.0,68399,68685,damöt,68610,68612,er,montan
 gdc-coref,st5r.0,68399,68685,damöt,68641,68653,meine Sylvia,sylvia
-gdc-coref,st5r.0,68399,68685,damöt,68641,68646,meine,damöt
 gdc-coref,st5r.0,68399,68685,damöt,68655,68659,dich,sylvia
 gdc-coref,st5r.0,68399,68685,damöt,68665,68667,er,montan
 gdc-coref,st5r.0,68399,68685,damöt,68668,68671,mir,damöt
@@ -1239,7 +1234,6 @@ gdc-coref,st5r.0,70656,70746,doris,70723,70726,ich,doris
 gdc-coref,st5r.0,70656,70746,doris,70737,70740,ihm,silvander
 gdc-coref,st5r.0,70752,70812,montan,70770,70784,die Schäferinn,doris
 gdc-coref,st5r.0,70752,70812,montan,70794,70798,dich,doris
-gdc-coref,st5r.0,70817,70849,doris,70824,70828,Mein,doris
 gdc-coref,st5r.0,70817,70849,doris,70833,70843,Silvanders,silvander
 gdc-coref,st5r.0,70854,70891,chloe,70861,70864,Ich,chloe
 gdc-coref,st5r.0,70854,70891,chloe,70878,70881,sie,doris

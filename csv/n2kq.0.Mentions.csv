@@ -51,7 +51,6 @@ gdc-coref,n2kq.0,6810,8047,waldemar,7187,7190,ich,waldemar
 gdc-coref,n2kq.0,6810,8047,waldemar,7226,7229,ich,waldemar
 gdc-coref,n2kq.0,6810,8047,waldemar,7242,7246,mein,waldemar
 gdc-coref,n2kq.0,6810,8047,waldemar,7301,7304,ich,waldemar
-gdc-coref,n2kq.0,6810,8047,waldemar,7415,7421,meinen,waldemar
 gdc-coref,n2kq.0,6810,8047,waldemar,7468,7473,meine,waldemar
 gdc-coref,n2kq.0,6810,8047,waldemar,7481,7486,meine,waldemar
 gdc-coref,n2kq.0,6810,8047,waldemar,7509,7512,ich,waldemar
@@ -255,7 +254,6 @@ gdc-coref,n2kq.0,27802,28002,waldemar,27972,27977,meine,waldemar
 gdc-coref,n2kq.0,28007,28293,box,28057,28060,mir,box
 gdc-coref,n2kq.0,28007,28293,box,28067,28070,ich,box
 gdc-coref,n2kq.0,28007,28293,box,28122,28125,mir,box
-gdc-coref,n2kq.0,28007,28293,box,28126,28132,meinen,box
 gdc-coref,n2kq.0,28007,28293,box,28167,28172,meine,box
 gdc-coref,n2kq.0,28299,28637,waldemar,28417,28420,ich,waldemar
 gdc-coref,n2kq.0,28299,28637,waldemar,28571,28575,mein,waldemar
@@ -752,6 +750,7 @@ gdc-coref,n2kq.0,76037,76176,waldemar,76072,76076,mich,waldemar
 gdc-coref,n2kq.0,76037,76176,waldemar,76121,76124,mir,waldemar
 gdc-coref,n2kq.0,76181,76383,gertrud,76298,76302,mein,gertrud
 gdc-coref,n2kq.0,76181,76383,gertrud,76337,76341,mein,gertrud
+gdc-coref,n2kq.0,76518,76904,georgine,76556,76562,meinen,georgine
 gdc-coref,n2kq.0,76518,76904,georgine,76656,76659,ich,georgine
 gdc-coref,n2kq.0,76518,76904,georgine,76700,76703,ich,georgine
 gdc-coref,n2kq.0,76518,76904,georgine,76855,76858,Ich,georgine
@@ -762,6 +761,7 @@ gdc-coref,n2kq.0,77046,77297,box,77218,77221,ich,box
 gdc-coref,n2kq.0,77046,77297,box,77228,77234,meinem,box
 gdc-coref,n2kq.0,77046,77297,box,77250,77253,mir,box
 gdc-coref,n2kq.0,77046,77297,box,77267,77270,ich,box
+gdc-coref,n2kq.0,77302,77374,georgine,77337,77343,meinen,georgine
 gdc-coref,n2kq.0,77379,77414,box,77395,77399,Mein,box
 gdc-coref,n2kq.0,77626,78602,box,77720,77724,mein,box
 gdc-coref,n2kq.0,77626,78602,box,77785,77789,mich,box
@@ -1164,7 +1164,6 @@ gdc-coref,n2kq.0,99787,100077,georgine,99880,99883,ich,georgine
 gdc-coref,n2kq.0,99787,100077,georgine,99884,99888,dich,gertrud
 gdc-coref,n2kq.0,99787,100077,georgine,99922,99924,du,gertrud
 gdc-coref,n2kq.0,99787,100077,georgine,99925,99936,meinen Sohn,hans
-gdc-coref,n2kq.0,99787,100077,georgine,99925,99931,meinen,georgine
 gdc-coref,n2kq.0,99787,100077,georgine,99940,99944,dein,gertrud
 gdc-coref,n2kq.0,99787,100077,georgine,99964,99967,ich,georgine
 gdc-coref,n2kq.0,99787,100077,georgine,99999,100001,er,hans
@@ -2516,7 +2515,6 @@ gdc-coref,n2kq.0,133884,134065,georgine,133984,133987,ich,georgine
 gdc-coref,n2kq.0,133884,134065,georgine,134035,134038,Ich,georgine
 gdc-coref,n2kq.0,133884,134065,georgine,134046,134050,mein,georgine
 gdc-coref,n2kq.0,134235,134369,georgine,134257,134260,ich,georgine
-gdc-coref,n2kq.0,134235,134369,georgine,134294,134298,mein,georgine
 gdc-coref,n2kq.0,134473,134539,gertrud,134526,134531,meine,gertrud
 gdc-coref,n2kq.0,134544,134640,georgine,134614,134618,mich,georgine
 gdc-coref,n2kq.0,134813,134972,georgine,134958,134964,meiner,georgine
@@ -2567,7 +2565,6 @@ gdc-coref,n2kq.0,137754,138995,waldemar,138822,138825,ich,waldemar
 gdc-coref,n2kq.0,137754,138995,waldemar,138830,138836,meinem,waldemar
 gdc-coref,n2kq.0,137754,138995,waldemar,138926,138929,ich,waldemar
 gdc-coref,n2kq.0,137754,138995,waldemar,138948,138951,ich,waldemar
-gdc-coref,n2kq.0,137754,138995,waldemar,138952,138957,meine,waldemar
 gdc-coref,n2kq.0,139000,139044,georgine,139011,139014,Ich,georgine
 gdc-coref,n2kq.0,139489,139902,waldemar,139626,139632,meines,waldemar
 gdc-coref,n2kq.0,139489,139902,waldemar,139676,139679,mir,waldemar

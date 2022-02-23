@@ -13,7 +13,6 @@ gdc-coref,kq6k.0,1539,1966,zunder,1694,1697,ich,zunder
 gdc-coref,kq6k.0,1539,1966,zunder,1722,1725,Ich,zunder
 gdc-coref,kq6k.0,1539,1966,zunder,1732,1736,mich,zunder
 gdc-coref,kq6k.0,1539,1966,zunder,1843,1846,mir,zunder
-gdc-coref,kq6k.0,1539,1966,zunder,1878,1881,Mir,zunder
 gdc-coref,kq6k.0,1972,2028,annchen,2008,2011,ich,annchen
 gdc-coref,kq6k.0,1972,2028,annchen,2012,2016,mein,annchen
 gdc-coref,kq6k.0,2347,2403,zunder,2355,2358,Ich,zunder
@@ -47,6 +46,7 @@ gdc-coref,kq6k.0,11212,11358,wagner,11221,11224,Ich,wagner
 gdc-coref,kq6k.0,11399,11521,geschrei_der_studenten,11511,11515,mein,geschrei_der_studenten
 gdc-coref,kq6k.0,11528,11707,wagner,11561,11564,ich,wagner
 gdc-coref,kq6k.0,11528,11707,wagner,11579,11582,ich,wagner
+gdc-coref,kq6k.0,11528,11707,wagner,11613,11619,Meinem,wagner
 gdc-coref,kq6k.0,11528,11707,wagner,11698,11701,ich,wagner
 gdc-coref,kq6k.0,11812,12024,wagner,11857,11861,Mein,wagner
 gdc-coref,kq6k.0,12064,12692,geschrei_der_studenten,12183,12186,ich,geschrei_der_studenten
@@ -275,7 +275,6 @@ gdc-coref,kq6k.0,41895,42236,mephistopheles,42142,42147,meine,mephistopheles
 gdc-coref,kq6k.0,41895,42236,mephistopheles,42202,42205,ich,mephistopheles
 gdc-coref,kq6k.0,42242,42401,faust,42285,42288,ich,faust
 gdc-coref,kq6k.0,42242,42401,faust,42299,42302,ich,faust
-gdc-coref,kq6k.0,42242,42401,faust,42311,42315,Mich,faust
 gdc-coref,kq6k.0,42242,42401,faust,42376,42380,mein,faust
 gdc-coref,kq6k.0,42242,42401,faust,42388,42391,Ich,faust
 gdc-coref,kq6k.0,42407,42552,mephistopheles,42424,42427,Ich,mephistopheles
@@ -350,11 +349,9 @@ gdc-coref,kq6k.0,52259,52822,faust,52369,52372,Ich,faust
 gdc-coref,kq6k.0,52259,52822,faust,52429,52432,Ich,faust
 gdc-coref,kq6k.0,52259,52822,faust,52486,52491,meine,faust
 gdc-coref,kq6k.0,52864,52975,faust,52872,52875,Ich,faust
-gdc-coref,kq6k.0,52864,52975,faust,52883,52886,Ich,faust
 gdc-coref,kq6k.0,53002,53082,faust,53016,53019,ich,faust
 gdc-coref,kq6k.0,53130,53232,bianca,53181,53184,ich,bianca
 gdc-coref,kq6k.0,53130,53232,bianca,53209,53213,mich,bianca
-gdc-coref,kq6k.0,53238,53296,faust,53259,53263,mein,faust
 gdc-coref,kq6k.0,53238,53296,faust,53270,53273,ich,faust
 gdc-coref,kq6k.0,53437,56723,mephistopheles,53503,53507,mich,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,53513,53516,ich,mephistopheles
@@ -369,7 +366,6 @@ gdc-coref,kq6k.0,53437,56723,mephistopheles,53842,53845,ich,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,53884,53887,mir,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,53913,53916,ich,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,53955,53958,ich,mephistopheles
-gdc-coref,kq6k.0,53437,56723,mephistopheles,54048,54052,mein,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,54062,54065,mir,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,54135,54139,mich,mephistopheles
 gdc-coref,kq6k.0,53437,56723,mephistopheles,54184,54188,mich,mephistopheles
@@ -422,7 +418,6 @@ gdc-coref,kq6k.0,59999,60856,crabe,60014,60018,mein,crabe
 gdc-coref,kq6k.0,59999,60856,crabe,60027,60030,ich,crabe
 gdc-coref,kq6k.0,59999,60856,crabe,60049,60052,Ich,crabe
 gdc-coref,kq6k.0,59999,60856,crabe,60059,60063,mich,crabe
-gdc-coref,kq6k.0,59999,60856,crabe,60124,60128,mich,crabe
 gdc-coref,kq6k.0,59999,60856,crabe,60235,60238,ich,crabe
 gdc-coref,kq6k.0,59999,60856,crabe,60256,60262,meinem,crabe
 gdc-coref,kq6k.0,59999,60856,crabe,60288,60291,ich,crabe
@@ -474,7 +469,6 @@ gdc-coref,kq6k.0,63692,64583,dujour,64286,64290,mein,dujour
 gdc-coref,kq6k.0,63692,64583,dujour,64345,64349,mich,dujour
 gdc-coref,kq6k.0,63692,64583,dujour,64365,64368,Ich,dujour
 gdc-coref,kq6k.0,63692,64583,dujour,64534,64537,Ich,dujour
-gdc-coref,kq6k.0,63692,64583,dujour,64569,64573,Mein,dujour
 gdc-coref,kq6k.0,64589,64875,le_doigt,64696,64699,mir,le_doigt
 gdc-coref,kq6k.0,64589,64875,le_doigt,64765,64768,Ich,le_doigt
 gdc-coref,kq6k.0,64589,64875,le_doigt,64822,64825,ich,le_doigt
@@ -519,8 +513,6 @@ gdc-coref,kq6k.0,69114,70064,mephistopheles,69488,69493,meine,mephistopheles
 gdc-coref,kq6k.0,69114,70064,mephistopheles,69715,69719,mein,mephistopheles
 gdc-coref,kq6k.0,69114,70064,mephistopheles,69867,69870,Ich,mephistopheles
 gdc-coref,kq6k.0,69114,70064,mephistopheles,69877,69881,mich,mephistopheles
-gdc-coref,kq6k.0,69114,70064,mephistopheles,69906,69909,Mir,mephistopheles
-gdc-coref,kq6k.0,70070,71495,faust,70117,70120,Mir,faust
 gdc-coref,kq6k.0,70070,71495,faust,70175,70178,ich,faust
 gdc-coref,kq6k.0,70070,71495,faust,70200,70203,Mir,faust
 gdc-coref,kq6k.0,70070,71495,faust,70249,70252,mir,faust
@@ -537,7 +529,6 @@ gdc-coref,kq6k.0,70070,71495,faust,70734,70737,ich,faust
 gdc-coref,kq6k.0,70070,71495,faust,70763,70766,ich,faust
 gdc-coref,kq6k.0,70070,71495,faust,70798,70801,ich,faust
 gdc-coref,kq6k.0,70070,71495,faust,70810,70814,mich,faust
-gdc-coref,kq6k.0,70070,71495,faust,70816,70820,Mein,faust
 gdc-coref,kq6k.0,70070,71495,faust,71062,71065,mir,faust
 gdc-coref,kq6k.0,70070,71495,faust,71253,71257,mein,faust
 gdc-coref,kq6k.0,70070,71495,faust,71448,71451,ich,faust
@@ -583,7 +574,6 @@ gdc-coref,kq6k.0,78749,78831,faust,78756,78760,Mein,faust
 gdc-coref,kq6k.0,78749,78831,faust,78771,78775,mein,faust
 gdc-coref,kq6k.0,78992,79279,faust,79187,79190,mir,faust
 gdc-coref,kq6k.0,79430,79691,faust,79597,79600,mir,faust
-gdc-coref,kq6k.0,79430,79691,faust,79637,79643,meinen,faust
 gdc-coref,kq6k.0,79430,79691,faust,79657,79662,meine,faust
 gdc-coref,kq6k.0,79975,80048,faust,80033,80038,meine,faust
 gdc-coref,kq6k.0,80170,80243,faust,80200,80204,mein,faust
@@ -790,7 +780,6 @@ gdc-coref,kq6k.0,86625,87902,faust,87862,87868,Bianca,bianca
 gdc-coref,kq6k.0,86625,87902,faust,87870,87873,dir,bianca
 gdc-coref,kq6k.0,86625,87902,faust,87888,87898,dem Himmel,dem-Himmel
 gdc-coref,kq6k.0,87908,88883,mephistopheles,87938,87941,Mir,mephistopheles
-gdc-coref,kq6k.0,87908,88883,mephistopheles,87948,87951,Mir,mephistopheles
 gdc-coref,kq6k.0,87908,88883,mephistopheles,87957,87960,ich,mephistopheles
 gdc-coref,kq6k.0,87908,88883,mephistopheles,87976,87979,dir,faust
 gdc-coref,kq6k.0,87908,88883,mephistopheles,87992,87997,Faust,faust
@@ -1028,6 +1017,7 @@ gdc-coref,kq6k.0,94582,94604,_stage,94590,94594,sich,robert
 gdc-coref,kq6k.0,94574,95854,robert,94641,94644,ich,robert
 gdc-coref,kq6k.0,94574,95854,robert,94656,94659,ich,robert
 gdc-coref,kq6k.0,94574,95854,robert,94756,94778,Meines kranken Geistes,Meines-kranken-Geistes
+gdc-coref,kq6k.0,94574,95854,robert,94756,94762,Meines,robert
 gdc-coref,kq6k.0,94574,95854,robert,94801,94817,ein schönes Wort,ein-schönes-Wort
 gdc-coref,kq6k.0,94574,95854,robert,94824,94826,es,ein-schönes-Wort
 gdc-coref,kq6k.0,94574,95854,robert,94848,94852,sich,ein-schönes-Wort
@@ -1037,7 +1027,6 @@ gdc-coref,kq6k.0,94574,95854,robert,95131,95133,du,bianca
 gdc-coref,kq6k.0,94574,95854,robert,95146,95149,mir,robert
 gdc-coref,kq6k.0,94574,95854,robert,95215,95218,ihm,faust
 gdc-coref,kq6k.0,94574,95854,robert,95274,95286,meinen Geist,Meines-kranken-Geistes
-gdc-coref,kq6k.0,94574,95854,robert,95274,95280,meinen,robert
 gdc-coref,kq6k.0,94574,95854,robert,95288,95299,den kranken,Meines-kranken-Geistes
 gdc-coref,kq6k.0,94574,95854,robert,95308,95311,ich,robert
 gdc-coref,kq6k.0,95333,95361,_stage,95339,95343,sich,robert
@@ -1237,7 +1226,6 @@ gdc-coref,kq6k.0,104259,104378,faust,104312,104315,ich,faust
 gdc-coref,kq6k.0,104259,104378,faust,104373,104376,mir,faust
 gdc-coref,kq6k.0,104384,104443,mephistopheles,104420,104423,Ich,mephistopheles
 gdc-coref,kq6k.0,104449,104651,faust,104471,104474,mir,faust
-gdc-coref,kq6k.0,105058,105650,faust,105172,105176,mich,faust
 gdc-coref,kq6k.0,105058,105650,faust,105204,105207,ich,faust
 gdc-coref,kq6k.0,105058,105650,faust,105300,105303,ich,faust
 gdc-coref,kq6k.0,105058,105650,faust,105406,105410,mich,faust
@@ -1368,11 +1356,9 @@ gdc-coref,kq6k.0,121157,121969,faust,121846,121849,ich,faust
 gdc-coref,kq6k.0,121157,121969,faust,121943,121946,mir,faust
 gdc-coref,kq6k.0,121975,122041,wagner,122007,122010,ich,wagner
 gdc-coref,kq6k.0,122047,122317,faust,122144,122147,ich,faust
-gdc-coref,kq6k.0,122047,122317,faust,122193,122197,mich,faust
 gdc-coref,kq6k.0,122047,122317,faust,122212,122216,Mein,faust
 gdc-coref,kq6k.0,122047,122317,faust,122268,122274,meinem,faust
 gdc-coref,kq6k.0,122323,122477,wagner,122366,122371,meine,wagner
-gdc-coref,kq6k.0,122323,122477,wagner,122387,122390,Mir,wagner
 gdc-coref,kq6k.0,122483,122647,faust,122507,122510,ich,faust
 gdc-coref,kq6k.0,122483,122647,faust,122555,122558,mir,faust
 gdc-coref,kq6k.0,122483,122647,faust,122637,122640,ich,faust

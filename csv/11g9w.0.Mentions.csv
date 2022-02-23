@@ -363,8 +363,8 @@ gdc-coref,11g9w.0,39335,39405,soest,39384,39393,dem König,Philipp-II.-
 gdc-coref,11g9w.0,39410,39447,vansen,39422,39431,der König,Philipp-II.-
 gdc-coref,11g9w.0,39410,39447,vansen,39432,39435,uns,Das-Volk
 gdc-coref,11g9w.0,39452,39499,jetter,39486,39490,Eure,vansen
-gdc-coref,11g9w.0,39504,39557,,39526,39529,der,vansen
-gdc-coref,11g9w.0,39504,39557,,39542,39545,Der,vansen
+gdc-coref,11g9w.0,39504,39557,einige_andere_mehrere_das_volk_andere,39526,39529,der,vansen
+gdc-coref,11g9w.0,39504,39557,einige_andere_mehrere_das_volk_andere,39542,39545,Der,vansen
 gdc-coref,11g9w.0,39562,40162,vansen,39570,39573,Ich,vansen
 gdc-coref,11g9w.0,39562,40162,vansen,39580,39598,einen alten Patron,Patron-des-Vansen
 gdc-coref,11g9w.0,39562,40162,vansen,39600,39687,"der besaß Pergamente  und Briefe von uralten Stiftungen, Kontrakten und Gerechtigkeiten",Patron-des-Vansen
@@ -390,7 +390,7 @@ gdc-coref,11g9w.0,40167,40308,zimmermeister,40280,40294,der Verfassung,Verfassun
 gdc-coref,11g9w.0,40313,40366,jetter,40326,40329,ihn,vansen
 gdc-coref,11g9w.0,40313,40366,jetter,40337,40340,man,Man
 gdc-coref,11g9w.0,40371,40396,soest,40378,40380,Er,jetter
-gdc-coref,11g9w.0,40401,40460,,40428,40459,So was hört man nicht alle Tage,"In-einem-stand-unsere-ganze-Verfassung:-wie-uns-Niederländer-zuerst-einzelne-Fürsten---------------regierten,-alles-nach-hergebrachten-Rechten,-Privilegien-und-Gewohnheiten;-wie-unsre---------------Vorfahren-alle-Ehrfurcht-für-ihren-Fürsten-gehabt,-wenn-er-sie-regiert,-wie-er-sollte;---------------und-wie-sie-sich-gleich-vorsahen,-wenn-er-über-die-Schnur-hauen-wollte.-Die-Staaten---------------waren-gleich-hinterdrein:-denn-jede-Provinz,-so-klein-sie-war,-hatte-ihre-Staaten,---------------ihre-Landstände."
+gdc-coref,11g9w.0,40401,40460,einige_andere_mehrere_das_volk_andere,40428,40459,So was hört man nicht alle Tage,"In-einem-stand-unsere-ganze-Verfassung:-wie-uns-Niederländer-zuerst-einzelne-Fürsten---------------regierten,-alles-nach-hergebrachten-Rechten,-Privilegien-und-Gewohnheiten;-wie-unsre---------------Vorfahren-alle-Ehrfurcht-für-ihren-Fürsten-gehabt,-wenn-er-sie-regiert,-wie-er-sollte;---------------und-wie-sie-sich-gleich-vorsahen,-wenn-er-über-die-Schnur-hauen-wollte.-Die-Staaten---------------waren-gleich-hinterdrein:-denn-jede-Provinz,-so-klein-sie-war,-hatte-ihre-Staaten,---------------ihre-Landstände."
 gdc-coref,11g9w.0,40465,40836,vansen,40481,40484,ihr,Das-Volk
 gdc-coref,11g9w.0,40465,40836,vansen,40485,40497,Bürgersleute,Das-Volk
 gdc-coref,11g9w.0,40465,40836,vansen,40499,40502,Ihr,Das-Volk
@@ -440,12 +440,12 @@ gdc-coref,11g9w.0,41813,42219,vansen,42187,42204,unsere Freiheiten,unsere-Freihe
 gdc-coref,11g9w.0,41813,42219,vansen,42187,42193,unsere,Das-Volk
 gdc-coref,11g9w.0,42224,42269,seifensieder,42250,42253,Ihr,vansen
 gdc-coref,11g9w.0,42224,42269,seifensieder,42258,42268,Freiheiten,unsere-Freiheiten
-gdc-coref,11g9w.0,42274,42371,,42288,42305,unsern Freiheiten,unsere-Freiheiten
-gdc-coref,11g9w.0,42274,42371,,42288,42294,unsern,Das-Volk
-gdc-coref,11g9w.0,42274,42371,,42311,42329,unsern Privilegien,unsere-Privilegien
-gdc-coref,11g9w.0,42274,42371,,42311,42317,unsern,Das-Volk
-gdc-coref,11g9w.0,42274,42371,,42352,42371,unsern Privilegien!,unsere-Privilegien
-gdc-coref,11g9w.0,42274,42371,,42352,42358,unsern,Das-Volk
+gdc-coref,11g9w.0,42274,42371,einige_andere_mehrere_das_volk_andere,42288,42305,unsern Freiheiten,unsere-Freiheiten
+gdc-coref,11g9w.0,42274,42371,einige_andere_mehrere_das_volk_andere,42288,42294,unsern,Das-Volk
+gdc-coref,11g9w.0,42274,42371,einige_andere_mehrere_das_volk_andere,42311,42329,unsern Privilegien,unsere-Privilegien
+gdc-coref,11g9w.0,42274,42371,einige_andere_mehrere_das_volk_andere,42311,42317,unsern,Das-Volk
+gdc-coref,11g9w.0,42274,42371,einige_andere_mehrere_das_volk_andere,42352,42371,unsern Privilegien!,unsere-Privilegien
+gdc-coref,11g9w.0,42274,42371,einige_andere_mehrere_das_volk_andere,42352,42358,unsern,Das-Volk
 gdc-coref,11g9w.0,42376,42512,vansen,42384,42397,Wir Brabanter,Wir-Brabanter
 gdc-coref,11g9w.0,42376,42512,vansen,42418,42432,alle Provinzen,alle-Provinzen
 gdc-coref,11g9w.0,42376,42512,vansen,42433,42437,ihre,alle-Provinzen
@@ -469,42 +469,42 @@ gdc-coref,11g9w.0,43029,43140,ein_anderer_b,43083,43097,der Hauptpunkt,der-Haupt
 gdc-coref,11g9w.0,43184,43213,jetter,43200,43203,uns,Das-Volk
 gdc-coref,11g9w.0,43184,43213,jetter,43204,43212,das Buch,Verfassung-der-Niederländer
 gdc-coref,11g9w.0,43218,43253,ein_buerger_c,43234,43237,wir,Das-Volk
-gdc-coref,11g9w.0,43258,43285,,43266,43274,Das Buch,Verfassung-der-Niederländer
-gdc-coref,11g9w.0,43258,43285,,43276,43284,das Buch,Verfassung-der-Niederländer
+gdc-coref,11g9w.0,43258,43285,einige_andere_mehrere_das_volk_andere,43266,43274,Das Buch,Verfassung-der-Niederländer
+gdc-coref,11g9w.0,43258,43285,einige_andere_mehrere_das_volk_andere,43276,43284,das Buch,Verfassung-der-Niederländer
 gdc-coref,11g9w.0,43291,43351,ein_anderer_c,43304,43307,Wir,Das-Volk
 gdc-coref,11g9w.0,43291,43351,ein_anderer_c,43318,43330,der Regentin,regentin
 gdc-coref,11g9w.0,43291,43351,ein_anderer_c,43341,43351,dem Buche.,Verfassung-der-Niederländer
 gdc-coref,11g9w.0,43356,43408,ein_anderer_d,43396,43407,Herr Doktor,vansen
-gdc-coref,11g9w.0,43445,43478,,43468,43477,dem Buche,Verfassung-der-Niederländer
+gdc-coref,11g9w.0,43445,43478,einige_andere_mehrere_das_volk_andere,43468,43477,dem Buche,Verfassung-der-Niederländer
 gdc-coref,11g9w.0,43483,43563,seifensieder,43497,43500,Ich,seifensieder
 gdc-coref,11g9w.0,43483,43563,seifensieder,43509,43512,ihm,vansen
 gdc-coref,11g9w.0,43483,43563,seifensieder,43541,43543,er,vansen
-gdc-coref,11g9w.0,43568,43681,,43578,43581,Wir,Das-Volk
-gdc-coref,11g9w.0,43568,43681,,43600,43603,ihm,vansen
-gdc-coref,11g9w.0,43568,43681,,43620,43623,uns,Das-Volk
-gdc-coref,11g9w.0,43568,43681,,43632,43647,den Privilegien,unsere-Privilegien
-gdc-coref,11g9w.0,43568,43681,,43655,43658,wir,Das-Volk
-gdc-coref,11g9w.0,43568,43681,,43664,43680,mehr Privilegien,unsere-Privilegien
+gdc-coref,11g9w.0,43568,43681,einige_andere_mehrere_das_volk_andere,43578,43581,Wir,Das-Volk
+gdc-coref,11g9w.0,43568,43681,einige_andere_mehrere_das_volk_andere,43600,43603,ihm,vansen
+gdc-coref,11g9w.0,43568,43681,einige_andere_mehrere_das_volk_andere,43620,43623,uns,Das-Volk
+gdc-coref,11g9w.0,43568,43681,einige_andere_mehrere_das_volk_andere,43632,43647,den Privilegien,unsere-Privilegien
+gdc-coref,11g9w.0,43568,43681,einige_andere_mehrere_das_volk_andere,43655,43658,wir,Das-Volk
+gdc-coref,11g9w.0,43568,43681,einige_andere_mehrere_das_volk_andere,43664,43680,mehr Privilegien,unsere-Privilegien
 gdc-coref,11g9w.0,43686,43919,vansen,43694,43735,"Mancherlei, und sehr gute, sehr heilsame.",unsere-Privilegien
 gdc-coref,11g9w.0,43947,44026,vansen,43955,43958,Ich,vansen
 gdc-coref,11g9w.0,43947,44026,vansen,43966,43970,euch,Das-Volk
 gdc-coref,11g9w.0,44031,44122,buerger_d,44043,44046,wir,Bürger
 gdc-coref,11g9w.0,44031,44122,buerger_d,44087,44090,uns,Bürger
 gdc-coref,11g9w.0,44031,44122,buerger_d,44101,44104,wir,Bürger
-gdc-coref,11g9w.0,44127,44194,,44139,44142,wir,Bürger
-gdc-coref,11g9w.0,44127,44194,,44150,44153,uns,Bürger
+gdc-coref,11g9w.0,44127,44194,einige_andere_mehrere_das_volk_andere,44139,44142,wir,Bürger
+gdc-coref,11g9w.0,44127,44194,einige_andere_mehrere_das_volk_andere,44150,44153,uns,Bürger
 gdc-coref,11g9w.0,44199,44227,vansen,44215,44219,eure,Bürger
-gdc-coref,11g9w.0,44232,44307,,44242,44245,Wir,Das-Volk
-gdc-coref,11g9w.0,44232,44307,,44257,44263,Egmont,egmont
-gdc-coref,11g9w.0,44232,44307,,44270,44277,Oranien,oranien
-gdc-coref,11g9w.0,44232,44307,,44279,44282,Die,egmont-/-oranien
-gdc-coref,11g9w.0,44232,44307,,44294,44299,unser,Das-Volk
+gdc-coref,11g9w.0,44232,44307,einige_andere_mehrere_das_volk_andere,44242,44245,Wir,Das-Volk
+gdc-coref,11g9w.0,44232,44307,einige_andere_mehrere_das_volk_andere,44257,44263,Egmont,egmont
+gdc-coref,11g9w.0,44232,44307,einige_andere_mehrere_das_volk_andere,44270,44277,Oranien,oranien
+gdc-coref,11g9w.0,44232,44307,einige_andere_mehrere_das_volk_andere,44279,44282,Die,egmont-/-oranien
+gdc-coref,11g9w.0,44232,44307,einige_andere_mehrere_das_volk_andere,44294,44299,unser,Das-Volk
 gdc-coref,11g9w.0,44312,44375,vansen,44320,44324,Eure,Das-Volk
 gdc-coref,11g9w.0,44380,44418,seifensieder,44394,44401,Du Hund,vansen
 gdc-coref,11g9w.0,44380,44418,seifensieder,44403,44405,Er,seifensieder
 gdc-coref,11g9w.0,44380,44418,seifensieder,44414,44417,ihn,vansen
 gdc-coref,11g9w.0,44430,44457,_stage,44442,44446,sich,ANDERE
-gdc-coref,11g9w.0,44423,44483,,44463,44465,du,seifensieder
+gdc-coref,11g9w.0,44423,44483,einige_andere_mehrere_das_volk_andere,44463,44465,du,seifensieder
 gdc-coref,11g9w.0,44488,44520,ein_anderer_e,44506,44519,den Ehrenmann,vansen
 gdc-coref,11g9w.0,44525,44585,ein_anderer_f,44538,44551,Den Gelahrten,vansen
 gdc-coref,11g9w.0,44554,44585,_stage,44565,44581,den Seifensieder,seifensieder
@@ -513,11 +513,11 @@ gdc-coref,11g9w.0,44589,44877,zimmermeister,44646,44650,sich,Andere-2
 gdc-coref,11g9w.0,44589,44877,zimmermeister,44666,44672,Bürger,Bürger
 gdc-coref,11g9w.0,44689,44877,_stage,44741,44747,Bürger,Bürger
 gdc-coref,11g9w.0,44689,44877,_stage,44766,44770,Volk,Das-Volk
-gdc-coref,11g9w.0,44881,44973,,44889,44897,Freiheit,Freiheit
-gdc-coref,11g9w.0,44881,44973,,44902,44913,Privilegien,Privilegien
-gdc-coref,11g9w.0,44881,44973,,44915,44926,Privilegien,Privilegien
-gdc-coref,11g9w.0,44881,44973,,44931,44939,Freiheit,Freiheit
-gdc-coref,11g9w.0,44881,44973,,44941,44947,Egmont,egmont
+gdc-coref,11g9w.0,44881,44973,einige_andere_mehrere_das_volk_andere,44889,44897,Freiheit,Freiheit
+gdc-coref,11g9w.0,44881,44973,einige_andere_mehrere_das_volk_andere,44902,44913,Privilegien,Privilegien
+gdc-coref,11g9w.0,44881,44973,einige_andere_mehrere_das_volk_andere,44915,44926,Privilegien,Privilegien
+gdc-coref,11g9w.0,44881,44973,einige_andere_mehrere_das_volk_andere,44931,44939,Freiheit,Freiheit
+gdc-coref,11g9w.0,44881,44973,einige_andere_mehrere_das_volk_andere,44941,44947,Egmont,egmont
 gdc-coref,11g9w.0,44979,45049,egmont,45001,45006,Leute,In-den-Streit-verwickelte
 gdc-coref,11g9w.0,44979,45049,egmont,45033,45036,sie,In-den-Streit-verwickelte
 gdc-coref,11g9w.0,45054,45186,zimmermeister,45069,45082,Gnädiger Herr,egmont
@@ -1372,7 +1372,6 @@ gdc-coref,11g9w.0,90181,90213,vansen,90204,90208,mein,vansen
 gdc-coref,11g9w.0,90181,90213,vansen,90209,90212,ich,vansen
 gdc-coref,11g9w.0,90261,90483,vansen,90269,90272,Ich,vansen
 gdc-coref,11g9w.0,90261,90483,vansen,90388,90391,mir,vansen
-gdc-coref,11g9w.0,90261,90483,vansen,90442,90448,meinen,vansen
 gdc-coref,11g9w.0,90791,90958,vansen,90809,90812,ich,vansen
 gdc-coref,11g9w.0,91468,91584,jetter,91476,91479,Ich,jetter
 gdc-coref,11g9w.0,91589,91948,vansen,91764,91767,Ich,vansen
@@ -1829,7 +1828,6 @@ gdc-coref,11g9w.0,157928,157954,ferdinand,157939,157942,Ich,ferdinand
 gdc-coref,11g9w.0,158007,158034,ferdinand,158024,158028,mich,ferdinand
 gdc-coref,11g9w.0,158191,162140,egmont,158245,158248,mir,egmont
 gdc-coref,11g9w.0,158191,162140,egmont,158308,158311,ich,egmont
-gdc-coref,11g9w.0,158191,162140,egmont,158505,158509,mich,egmont
 gdc-coref,11g9w.0,158191,162140,egmont,158522,158528,meinem,egmont
 gdc-coref,11g9w.0,158191,162140,egmont,158598,158603,meine,egmont
 gdc-coref,11g9w.0,158191,162140,egmont,160350,160356,meines,egmont
