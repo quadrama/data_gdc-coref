@@ -1,0 +1,1783 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,nv2j.0,2179,2235,melitta,2189,2192,Ich,melitta
+gdc-coref,nv2j.0,2620,2653,rhamnes,2629,2632,Ich,rhamnes
+gdc-coref,nv2j.0,2699,2950,rhamnes,2709,2712,Ich,rhamnes
+gdc-coref,nv2j.0,3491,4142,sappho,3556,3560,mich,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,3643,3646,ich,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,3801,3806,meine,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,3956,3962,meines,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,3973,3979,meines,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,4022,4028,meiner,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,4055,4058,mir,sappho
+gdc-coref,nv2j.0,3491,4142,sappho,4121,4124,mir,sappho
+gdc-coref,nv2j.0,4317,4384,rhamnes,4349,4352,mir,rhamnes
+gdc-coref,nv2j.0,4389,4684,sappho,4463,4467,Mein,sappho
+gdc-coref,nv2j.0,4389,4684,sappho,4679,4683,mein,sappho
+gdc-coref,nv2j.0,5242,5379,phaon,5308,5311,ich,phaon
+gdc-coref,nv2j.0,5439,5493,phaon,5446,5449,Ich,phaon
+gdc-coref,nv2j.0,5498,6140,sappho,5601,5606,meine,sappho
+gdc-coref,nv2j.0,5498,6140,sappho,5641,5644,Ich,sappho
+gdc-coref,nv2j.0,5498,6140,sappho,5669,5674,meine,sappho
+gdc-coref,nv2j.0,5498,6140,sappho,5871,5874,ich,sappho
+gdc-coref,nv2j.0,6201,6549,sappho,6224,6227,Ich,sappho
+gdc-coref,nv2j.0,6201,6549,sappho,6239,6244,meine,sappho
+gdc-coref,nv2j.0,6201,6549,sappho,6261,6267,meinem,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,6609,6613,mein,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,6746,6749,Ich,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,6879,6882,Ich,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,7144,7147,Ich,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,7247,7250,ich,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,7352,7355,ich,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,7426,7430,mein,sappho
+gdc-coref,nv2j.0,6589,7647,sappho,7587,7590,ich,sappho
+gdc-coref,nv2j.0,7748,8289,phaon,7761,7764,ich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,7780,7783,ich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,7797,7800,ich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,7812,7818,meines,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,7984,7987,ich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,8018,8021,ich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,8022,8026,mich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,8094,8097,ich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,8177,8181,mich,phaon
+gdc-coref,nv2j.0,7748,8289,phaon,8227,8230,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,9128,9131,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,9244,9247,mir,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,9255,9258,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,9296,9302,meiner,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,9346,9351,meine,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10038,10041,Mir,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10049,10052,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10108,10111,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10330,10333,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10520,10523,ich,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10557,10560,mir,phaon
+gdc-coref,nv2j.0,9112,10812,phaon,10748,10751,ich,phaon
+gdc-coref,nv2j.0,10818,10913,sappho,10841,10845,mich,sappho
+gdc-coref,nv2j.0,10919,12868,phaon,11177,11182,meine,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,11214,11217,ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,11249,11252,Ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,11375,11378,Ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,11428,11431,ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,11472,11475,Ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,11606,11612,meiner,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12307,12310,mir,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12357,12360,ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12402,12405,mir,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12608,12611,ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12627,12631,mich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12762,12765,ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12772,12775,ich,phaon
+gdc-coref,nv2j.0,10919,12868,phaon,12851,12854,ich,phaon
+gdc-coref,nv2j.0,12874,13152,sappho,13074,13077,Ich,sappho
+gdc-coref,nv2j.0,12874,13152,sappho,13111,13114,mir,sappho
+gdc-coref,nv2j.0,14310,15147,sappho,14342,14346,mein,sappho
+gdc-coref,nv2j.0,14310,15147,sappho,14879,14883,mein,sappho
+gdc-coref,nv2j.0,14310,15147,sappho,14960,14964,mich,sappho
+gdc-coref,nv2j.0,14310,15147,sappho,15037,15040,ich,sappho
+gdc-coref,nv2j.0,15153,15257,phaon,15179,15182,ich,phaon
+gdc-coref,nv2j.0,15153,15257,phaon,15239,15243,mich,phaon
+gdc-coref,nv2j.0,15153,15257,phaon,15244,15249,meine,phaon
+gdc-coref,nv2j.0,15575,16079,sappho,15685,15689,mein,sappho
+gdc-coref,nv2j.0,15575,16079,sappho,15827,15831,mich,sappho
+gdc-coref,nv2j.0,15575,16079,sappho,15837,15840,ich,sappho
+gdc-coref,nv2j.0,15575,16079,sappho,15879,15885,meinen,sappho
+gdc-coref,nv2j.0,15575,16079,sappho,15904,15908,mein,sappho
+gdc-coref,nv2j.0,15575,16079,sappho,15961,15964,ich,sappho
+gdc-coref,nv2j.0,16085,16311,phaon,16102,16105,ich,phaon
+gdc-coref,nv2j.0,16085,16311,phaon,16111,16115,mein,phaon
+gdc-coref,nv2j.0,16085,16311,phaon,16172,16175,mir,phaon
+gdc-coref,nv2j.0,16085,16311,phaon,16195,16198,mir,phaon
+gdc-coref,nv2j.0,16085,16311,phaon,16212,16215,mir,phaon
+gdc-coref,nv2j.0,16085,16311,phaon,16248,16251,ich,phaon
+gdc-coref,nv2j.0,16085,16311,phaon,16300,16303,ich,phaon
+gdc-coref,nv2j.0,16317,16393,sappho,16325,16328,Ich,sappho
+gdc-coref,nv2j.0,16527,16889,sappho,16851,16854,ich,sappho
+gdc-coref,nv2j.0,16893,17223,sappho,16973,16976,mir,sappho
+gdc-coref,nv2j.0,16893,17223,sappho,17011,17015,mich,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,17453,17457,Mein,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,17658,17661,ich,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,17681,17684,Ich,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,18180,18183,ich,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,18202,18205,ich,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,18409,18412,ich,sappho
+gdc-coref,nv2j.0,17372,18652,sappho,18612,18615,ich,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,18948,18951,ich,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19344,19347,ich,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19390,19393,mir,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19516,19519,ich,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19606,19610,mich,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19642,19645,ich,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19807,19813,meiner,sappho
+gdc-coref,nv2j.0,18930,19955,sappho,19868,19871,mir,sappho
+gdc-coref,nv2j.0,20014,20799,sappho,20031,20034,ich,sappho
+gdc-coref,nv2j.0,20014,20799,sappho,20087,20090,mir,sappho
+gdc-coref,nv2j.0,20014,20799,sappho,20113,20116,Ich,sappho
+gdc-coref,nv2j.0,20014,20799,sappho,20153,20157,Mein,sappho
+gdc-coref,nv2j.0,20014,20799,sappho,20186,20190,mein,sappho
+gdc-coref,nv2j.0,20904,21470,sappho,21214,21217,mir,sappho
+gdc-coref,nv2j.0,20904,21470,sappho,21219,21222,ich,sappho
+gdc-coref,nv2j.0,20904,21470,sappho,21281,21284,ich,sappho
+gdc-coref,nv2j.0,20904,21470,sappho,21316,21319,mir,sappho
+gdc-coref,nv2j.0,20904,21470,sappho,21417,21421,mich,sappho
+gdc-coref,nv2j.0,20904,21470,sappho,21455,21459,mich,sappho
+gdc-coref,nv2j.0,21500,21654,sappho,21533,21537,mein,sappho
+gdc-coref,nv2j.0,21500,21654,sappho,21622,21626,mich,sappho
+gdc-coref,nv2j.0,21680,22997,sappho,22852,22855,mir,sappho
+gdc-coref,nv2j.0,21680,22997,sappho,22888,22891,mir,sappho
+gdc-coref,nv2j.0,21680,22997,sappho,22911,22914,ich,sappho
+gdc-coref,nv2j.0,21680,22997,sappho,22927,22930,mir,sappho
+gdc-coref,nv2j.0,23096,25688,phaon,23115,23118,mir,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23401,23404,mir,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23422,23425,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23463,23468,meine,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23509,23512,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23649,23652,mir,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23770,23776,meinen,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23945,23948,mir,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,23979,23982,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24000,24004,mich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24065,24068,Ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24075,24079,mich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24278,24281,mir,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24449,24452,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24694,24697,mir,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24710,24716,meiner,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24771,24775,mich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24799,24802,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24846,24849,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24864,24868,mich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24910,24915,meine,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24929,24932,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24957,24961,mich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,24979,24982,ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,25043,25049,meinen,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,25334,25337,Ich,phaon
+gdc-coref,nv2j.0,23096,25688,phaon,25386,25390,mein,phaon
+gdc-coref,nv2j.0,26273,26318,melitta,26312,26315,Ich,melitta
+gdc-coref,nv2j.0,26323,26419,eucharis,26351,26354,mir,eucharis
+gdc-coref,nv2j.0,26425,26455,melitta,26434,26437,Ich,melitta
+gdc-coref,nv2j.0,26460,27247,eucharis,26471,26474,Ich,eucharis
+gdc-coref,nv2j.0,26460,27247,eucharis,26783,26786,ich,eucharis
+gdc-coref,nv2j.0,27253,27274,melitta,27269,27273,mich,melitta
+gdc-coref,nv2j.0,27279,27698,eucharis,27429,27432,Ich,eucharis
+gdc-coref,nv2j.0,27279,27698,eucharis,27510,27513,ich,eucharis
+gdc-coref,nv2j.0,27723,29581,melitta,27940,27943,mir,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,27990,27996,meiner,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28014,28017,ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28136,28139,ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28177,28180,mir,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28190,28193,ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28235,28239,mich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28251,28255,mein,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28274,28277,ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28340,28343,Mir,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28390,28395,meine,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28427,28430,Ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28511,28515,Mein,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,28636,28640,mich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29225,29229,mich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29276,29279,mir,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29296,29299,ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29356,29359,mir,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29389,29393,mich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29422,29425,ich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29518,29522,mich,melitta
+gdc-coref,nv2j.0,27723,29581,melitta,29540,29544,mich,melitta
+gdc-coref,nv2j.0,29899,30582,phaon,29907,29910,Ich,phaon
+gdc-coref,nv2j.0,29899,30582,phaon,30091,30094,ich,phaon
+gdc-coref,nv2j.0,29899,30582,phaon,30131,30135,mich,phaon
+gdc-coref,nv2j.0,29899,30582,phaon,30322,30325,mir,phaon
+gdc-coref,nv2j.0,29899,30582,phaon,30345,30348,ich,phaon
+gdc-coref,nv2j.0,29899,30582,phaon,30548,30552,mich,phaon
+gdc-coref,nv2j.0,30731,31163,phaon,30751,30754,ich,phaon
+gdc-coref,nv2j.0,30731,31163,phaon,30772,30776,mein,phaon
+gdc-coref,nv2j.0,30731,31163,phaon,30833,30836,mir,phaon
+gdc-coref,nv2j.0,30731,31163,phaon,30849,30852,ich,phaon
+gdc-coref,nv2j.0,30731,31163,phaon,30893,30896,ich,phaon
+gdc-coref,nv2j.0,30731,31163,phaon,31069,31072,ich,phaon
+gdc-coref,nv2j.0,31169,31219,melitta,31178,31181,Ich,melitta
+gdc-coref,nv2j.0,31264,31432,melitta,31391,31395,mich,melitta
+gdc-coref,nv2j.0,31437,31711,phaon,31644,31647,mir,phaon
+gdc-coref,nv2j.0,31760,31903,phaon,31774,31777,mir,phaon
+gdc-coref,nv2j.0,31909,31958,melitta,31926,31929,mir,melitta
+gdc-coref,nv2j.0,31909,31958,melitta,31943,31947,mein,melitta
+gdc-coref,nv2j.0,31994,32237,melitta,32035,32038,ich,melitta
+gdc-coref,nv2j.0,31994,32237,melitta,32158,32161,ich,melitta
+gdc-coref,nv2j.0,32279,32681,melitta,32331,32334,ich,melitta
+gdc-coref,nv2j.0,32279,32681,melitta,32498,32501,ich,melitta
+gdc-coref,nv2j.0,32279,32681,melitta,32552,32555,Ich,melitta
+gdc-coref,nv2j.0,32279,32681,melitta,32584,32587,mir,melitta
+gdc-coref,nv2j.0,32813,32845,melitta,32828,32831,Ich,melitta
+gdc-coref,nv2j.0,32850,32949,phaon,32858,32861,Ich,phaon
+gdc-coref,nv2j.0,32955,33837,melitta,33014,33017,ich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33076,33080,mein,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33115,33119,mich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33135,33139,mich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33175,33178,ich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33304,33307,mir,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33355,33358,Ich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33364,33368,mich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33481,33484,ich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33645,33648,ich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33757,33761,mich,melitta
+gdc-coref,nv2j.0,32955,33837,melitta,33783,33787,mich,melitta
+gdc-coref,nv2j.0,33901,34135,melitta,33928,33932,mich,melitta
+gdc-coref,nv2j.0,33901,34135,melitta,33982,33985,mir,melitta
+gdc-coref,nv2j.0,33901,34135,melitta,34023,34027,mich,melitta
+gdc-coref,nv2j.0,34199,34721,melitta,34214,34217,ich,melitta
+gdc-coref,nv2j.0,34199,34721,melitta,34304,34307,ich,melitta
+gdc-coref,nv2j.0,34199,34721,melitta,34361,34365,mich,melitta
+gdc-coref,nv2j.0,34199,34721,melitta,34423,34426,mir,melitta
+gdc-coref,nv2j.0,34199,34721,melitta,34708,34711,ich,melitta
+gdc-coref,nv2j.0,34787,34871,melitta,34808,34811,Ich,melitta
+gdc-coref,nv2j.0,35040,35116,phaon,35087,35090,mir,phaon
+gdc-coref,nv2j.0,35618,35641,melitta,35637,35640,mir,melitta
+gdc-coref,nv2j.0,35646,35675,phaon,35653,35656,Ich,phaon
+gdc-coref,nv2j.0,35680,35757,melitta,35741,35744,Ich,melitta
+gdc-coref,nv2j.0,35762,35836,phaon,35811,35816,meine,phaon
+gdc-coref,nv2j.0,35842,35893,melitta,35851,35854,Ich,melitta
+gdc-coref,nv2j.0,35842,35893,melitta,35879,35882,ich,melitta
+gdc-coref,nv2j.0,36192,36400,melitta,36383,36386,ich,melitta
+gdc-coref,nv2j.0,36406,36433,phaon,36413,36416,Ich,phaon
+gdc-coref,nv2j.0,36467,36527,phaon,36497,36500,ich,phaon
+gdc-coref,nv2j.0,36467,36527,phaon,36507,36513,meinen,phaon
+gdc-coref,nv2j.0,36533,36602,melitta,36578,36581,ich,melitta
+gdc-coref,nv2j.0,36833,36889,melitta,36861,36864,mir,melitta
+gdc-coref,nv2j.0,36833,36889,melitta,36866,36869,ich,melitta
+gdc-coref,nv2j.0,36833,36889,melitta,36879,36882,Ich,melitta
+gdc-coref,nv2j.0,36895,37052,phaon,36908,36911,ich,phaon
+gdc-coref,nv2j.0,37056,37076,melitta,37071,37075,mich,melitta
+gdc-coref,nv2j.0,37121,37153,melitta,37134,37137,mir,melitta
+gdc-coref,nv2j.0,37121,37153,melitta,37143,37147,mich,melitta
+gdc-coref,nv2j.0,37299,37370,sappho,37366,37369,ich,sappho
+gdc-coref,nv2j.0,37542,37569,melitta,37551,37554,Ich,melitta
+gdc-coref,nv2j.0,37760,37785,melitta,37774,37777,ich,melitta
+gdc-coref,nv2j.0,38001,38054,phaon,38024,38027,ich,phaon
+gdc-coref,nv2j.0,38129,38224,sappho,38138,38141,Ich,sappho
+gdc-coref,nv2j.0,38129,38224,sappho,38165,38168,ich,sappho
+gdc-coref,nv2j.0,38438,38665,sappho,38457,38460,ich,sappho
+gdc-coref,nv2j.0,38438,38665,sappho,38504,38508,mich,sappho
+gdc-coref,nv2j.0,38438,38665,sappho,38661,38664,ich,sappho
+gdc-coref,nv2j.0,38672,38693,phaon,38679,38682,Ich,phaon
+gdc-coref,nv2j.0,38720,38749,phaon,38738,38741,Ich,phaon
+gdc-coref,nv2j.0,38881,38967,sappho,38931,38934,Ich,sappho
+gdc-coref,nv2j.0,39094,39592,sappho,39115,39118,mir,sappho
+gdc-coref,nv2j.0,39094,39592,sappho,39123,39129,meinen,sappho
+gdc-coref,nv2j.0,39094,39592,sappho,39148,39154,meinen,sappho
+gdc-coref,nv2j.0,39094,39592,sappho,39169,39172,ich,sappho
+gdc-coref,nv2j.0,39094,39592,sappho,39186,39189,Ich,sappho
+gdc-coref,nv2j.0,39094,39592,sappho,39231,39234,ich,sappho
+gdc-coref,nv2j.0,39635,40352,sappho,39692,39695,mir,sappho
+gdc-coref,nv2j.0,39635,40352,sappho,39725,39728,mir,sappho
+gdc-coref,nv2j.0,39635,40352,sappho,39883,39886,mir,sappho
+gdc-coref,nv2j.0,40404,40756,sappho,40413,40416,Ich,sappho
+gdc-coref,nv2j.0,40404,40756,sappho,40443,40447,mein,sappho
+gdc-coref,nv2j.0,40404,40756,sappho,40463,40466,ich,sappho
+gdc-coref,nv2j.0,40404,40756,sappho,40629,40632,ich,sappho
+gdc-coref,nv2j.0,40404,40756,sappho,40742,40746,Mein,sappho
+gdc-coref,nv2j.0,40789,40817,sappho,40806,40810,mich,sappho
+gdc-coref,nv2j.0,40822,40851,phaon,40829,40832,Ich,phaon
+gdc-coref,nv2j.0,40856,40980,sappho,40883,40887,Mein,sappho
+gdc-coref,nv2j.0,41023,41262,sappho,41054,41057,Ich,sappho
+gdc-coref,nv2j.0,41023,41262,sappho,41140,41143,ich,sappho
+gdc-coref,nv2j.0,41023,41262,sappho,41213,41216,mir,sappho
+gdc-coref,nv2j.0,41023,41262,sappho,41228,41231,ich,sappho
+gdc-coref,nv2j.0,41429,41767,phaon,41550,41553,Ich,phaon
+gdc-coref,nv2j.0,41429,41767,phaon,41568,41572,mein,phaon
+gdc-coref,nv2j.0,41429,41767,phaon,41700,41703,ich,phaon
+gdc-coref,nv2j.0,41429,41767,phaon,41704,41708,mein,phaon
+gdc-coref,nv2j.0,41908,44865,sappho,42006,42009,mir,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42023,42026,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42041,42044,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42071,42074,mir,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42105,42108,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42340,42343,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42416,42419,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42440,42444,mich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,42769,42773,mich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,44444,44447,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,44489,44492,mir,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,44566,44569,ich,sappho
+gdc-coref,nv2j.0,41908,44865,sappho,44591,44594,ich,sappho
+gdc-coref,nv2j.0,44983,45799,phaon,45003,45007,mich,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45107,45110,Ich,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45137,45140,mir,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45238,45241,Ich,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45257,45260,mir,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45321,45324,mir,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45336,45339,Ich,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45688,45691,ich,phaon
+gdc-coref,nv2j.0,44983,45799,phaon,45738,45741,mir,phaon
+gdc-coref,nv2j.0,46336,46449,sappho,46375,46378,mir,sappho
+gdc-coref,nv2j.0,46336,46449,sappho,46427,46430,ich,sappho
+gdc-coref,nv2j.0,46455,46737,phaon,46512,46516,mich,phaon
+gdc-coref,nv2j.0,46455,46737,phaon,46560,46563,mir,phaon
+gdc-coref,nv2j.0,46455,46737,phaon,46565,46568,ich,phaon
+gdc-coref,nv2j.0,46743,46783,sappho,46766,46769,ich,sappho
+gdc-coref,nv2j.0,46788,47873,phaon,46811,46814,ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,46825,46828,ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,46885,46888,Ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,46894,46898,mich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,46949,46952,ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,47003,47006,Ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,47053,47057,mich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,47216,47219,ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,47229,47232,Ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,47279,47282,ich,phaon
+gdc-coref,nv2j.0,46788,47873,phaon,47839,47842,Mir,phaon
+gdc-coref,nv2j.0,47910,48082,phaon,47931,47935,mich,phaon
+gdc-coref,nv2j.0,47910,48082,phaon,47980,47983,Ich,phaon
+gdc-coref,nv2j.0,47910,48082,phaon,48030,48033,ich,phaon
+gdc-coref,nv2j.0,48086,48188,phaon,48110,48113,ich,phaon
+gdc-coref,nv2j.0,48086,48188,phaon,48130,48134,mich,phaon
+gdc-coref,nv2j.0,48192,48252,phaon,48222,48225,ich,phaon
+gdc-coref,nv2j.0,48192,48252,phaon,48238,48241,Ich,phaon
+gdc-coref,nv2j.0,48277,50463,sappho,48714,48717,ich,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,48971,48974,ich,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,49172,49176,mein,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,49227,49231,mich,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,49897,49900,Ich,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,49996,49999,ich,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,50019,50023,mein,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,50059,50062,mir,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,50339,50345,meinem,sappho
+gdc-coref,nv2j.0,48277,50463,sappho,50433,50436,ich,sappho
+gdc-coref,nv2j.0,50547,50587,sappho,50570,50573,ich,sappho
+gdc-coref,nv2j.0,50593,50634,eucharis,50630,50633,ich,eucharis
+gdc-coref,nv2j.0,50699,51024,eucharis,50710,50713,Ich,eucharis
+gdc-coref,nv2j.0,50699,51024,eucharis,50872,50875,ich,eucharis
+gdc-coref,nv2j.0,51090,51205,eucharis,51153,51156,ich,eucharis
+gdc-coref,nv2j.0,51090,51205,eucharis,51196,51199,ich,eucharis
+gdc-coref,nv2j.0,51279,51754,eucharis,51290,51293,Ich,eucharis
+gdc-coref,nv2j.0,51760,51808,sappho,51784,51787,ich,sappho
+gdc-coref,nv2j.0,51813,52265,eucharis,52020,52023,ich,eucharis
+gdc-coref,nv2j.0,51813,52265,eucharis,52175,52178,ich,eucharis
+gdc-coref,nv2j.0,51813,52265,eucharis,52196,52199,ich,eucharis
+gdc-coref,nv2j.0,52271,52344,sappho,52309,52312,ich,sappho
+gdc-coref,nv2j.0,52271,52344,sappho,52340,52343,mir,sappho
+gdc-coref,nv2j.0,52374,52538,sappho,52519,52522,mir,sappho
+gdc-coref,nv2j.0,52563,52783,sappho,52653,52656,Ich,sappho
+gdc-coref,nv2j.0,52563,52783,sappho,52688,52691,ich,sappho
+gdc-coref,nv2j.0,52563,52783,sappho,52730,52733,mir,sappho
+gdc-coref,nv2j.0,52824,53006,melitta,53002,53005,ich,melitta
+gdc-coref,nv2j.0,53170,53198,melitta,53194,53197,mir,melitta
+gdc-coref,nv2j.0,53203,53375,sappho,53300,53303,ich,sappho
+gdc-coref,nv2j.0,53203,53375,sappho,53304,53310,meinem,sappho
+gdc-coref,nv2j.0,53451,53755,melitta,53493,53496,ich,melitta
+gdc-coref,nv2j.0,53451,53755,melitta,53537,53541,mich,melitta
+gdc-coref,nv2j.0,53451,53755,melitta,53643,53646,mir,melitta
+gdc-coref,nv2j.0,53451,53755,melitta,53718,53721,ich,melitta
+gdc-coref,nv2j.0,53451,53755,melitta,53740,53744,mich,melitta
+gdc-coref,nv2j.0,53761,53810,sappho,53796,53799,ich,sappho
+gdc-coref,nv2j.0,53815,53917,melitta,53873,53876,ich,melitta
+gdc-coref,nv2j.0,53815,53917,melitta,53913,53916,ich,melitta
+gdc-coref,nv2j.0,54077,54276,melitta,54254,54257,ich,melitta
+gdc-coref,nv2j.0,54310,54323,melitta,54319,54322,Ich,melitta
+gdc-coref,nv2j.0,54469,55164,sappho,54624,54627,ich,sappho
+gdc-coref,nv2j.0,54469,55164,sappho,54726,54729,mir,sappho
+gdc-coref,nv2j.0,54469,55164,sappho,54822,54826,Mich,sappho
+gdc-coref,nv2j.0,54469,55164,sappho,54879,54883,mich,sappho
+gdc-coref,nv2j.0,54469,55164,sappho,54885,54888,ich,sappho
+gdc-coref,nv2j.0,54469,55164,sappho,55064,55070,meinen,sappho
+gdc-coref,nv2j.0,55170,55220,melitta,55187,55190,ich,melitta
+gdc-coref,nv2j.0,55535,55632,melitta,55576,55579,ich,melitta
+gdc-coref,nv2j.0,55535,55632,melitta,55591,55594,ich,melitta
+gdc-coref,nv2j.0,55638,56085,sappho,55668,55673,meine,sappho
+gdc-coref,nv2j.0,55638,56085,sappho,55691,55694,Ich,sappho
+gdc-coref,nv2j.0,55638,56085,sappho,55719,55723,mich,sappho
+gdc-coref,nv2j.0,55638,56085,sappho,55752,55756,mich,sappho
+gdc-coref,nv2j.0,56114,56156,sappho,56126,56129,ich,sappho
+gdc-coref,nv2j.0,56114,56156,sappho,56139,56143,mich,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,56334,56337,Ich,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,56411,56415,mein,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,56536,56539,ich,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,56592,56595,mir,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,56847,56850,ich,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,57030,57033,ich,sappho
+gdc-coref,nv2j.0,56265,57355,sappho,57351,57354,mir,sappho
+gdc-coref,nv2j.0,57361,57400,melitta,57370,57373,Ich,melitta
+gdc-coref,nv2j.0,57798,58038,sappho,57807,57810,Mir,sappho
+gdc-coref,nv2j.0,57798,58038,sappho,57844,57847,ich,sappho
+gdc-coref,nv2j.0,57798,58038,sappho,57921,57924,ich,sappho
+gdc-coref,nv2j.0,57798,58038,sappho,57941,57947,meines,sappho
+gdc-coref,nv2j.0,58236,58317,melitta,58306,58310,mein,melitta
+gdc-coref,nv2j.0,58322,58409,sappho,58355,58358,ich,sappho
+gdc-coref,nv2j.0,58322,58409,sappho,58396,58399,Mir,sappho
+gdc-coref,nv2j.0,58414,58479,melitta,58453,58457,mich,melitta
+gdc-coref,nv2j.0,58686,58763,melitta,58718,58721,Ich,melitta
+gdc-coref,nv2j.0,58769,59013,sappho,58877,58880,mir,sappho
+gdc-coref,nv2j.0,58769,59013,sappho,58890,58893,ich,sappho
+gdc-coref,nv2j.0,58769,59013,sappho,58964,58967,ich,sappho
+gdc-coref,nv2j.0,59019,60285,phaon,59122,59125,Ich,phaon
+gdc-coref,nv2j.0,59019,60285,phaon,59381,59387,meiner,phaon
+gdc-coref,nv2j.0,59019,60285,phaon,59767,59771,mich,phaon
+gdc-coref,nv2j.0,59019,60285,phaon,60071,60074,Mir,phaon
+gdc-coref,nv2j.0,59019,60285,phaon,60089,60092,Ich,phaon
+gdc-coref,nv2j.0,59019,60285,phaon,60162,60165,mir,phaon
+gdc-coref,nv2j.0,59019,60285,phaon,60273,60277,mich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60421,60424,mir,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60459,60462,ich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60532,60536,mich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60568,60572,mich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60593,60596,ich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60640,60644,mich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60675,60678,ich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60757,60760,ich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60815,60819,mich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60820,60823,mir,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60853,60856,ich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60857,60861,mich,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60890,60896,meinen,phaon
+gdc-coref,nv2j.0,60331,61006,phaon,60930,60933,ich,phaon
+gdc-coref,nv2j.0,61226,61275,melitta,61240,61243,ich,melitta
+gdc-coref,nv2j.0,61226,61275,melitta,61266,61269,mir,melitta
+gdc-coref,nv2j.0,61280,61393,phaon,61293,61297,mich,phaon
+gdc-coref,nv2j.0,61397,61431,melitta,61406,61409,Ich,melitta
+gdc-coref,nv2j.0,61436,61489,sappho,61485,61488,mir,sappho
+gdc-coref,nv2j.0,61494,61627,melitta,61539,61542,Ich,melitta
+gdc-coref,nv2j.0,61494,61627,melitta,61592,61596,Mein,melitta
+gdc-coref,nv2j.0,62011,64545,sappho,62099,62102,ich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,62248,62252,mich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,62405,62409,mich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,62575,62581,meines,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63190,63193,ich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63452,63456,mich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63474,63478,mich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63483,63486,mir,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63586,63589,ich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63604,63607,mir,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63657,63660,Ich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63869,63872,ich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,63925,63928,ich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,64166,64171,meine,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,64191,64195,mich,sappho
+gdc-coref,nv2j.0,62011,64545,sappho,64522,64525,Ich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,64643,64647,mein,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,64671,64675,mich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,64781,64784,ich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,64793,64796,mir,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,64831,64836,meine,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,64937,64940,ich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65121,65125,mich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65384,65387,mir,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65425,65428,ich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65442,65446,mein,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65536,65541,meine,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65576,65579,ich,sappho
+gdc-coref,nv2j.0,64626,65724,sappho,65580,65583,mir,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,65809,65812,ich,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,65827,65830,Ich,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,65873,65879,meinem,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,65923,65926,ich,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,65984,65987,mir,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66085,66088,ich,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66129,66135,meinem,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66141,66144,ich,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66157,66160,mir,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66193,66196,mir,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66282,66285,mir,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66300,66304,mich,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66434,66437,mir,sappho
+gdc-coref,nv2j.0,65778,66500,sappho,66468,66471,mir,sappho
+gdc-coref,nv2j.0,66671,66690,rhamnes,66680,66683,Ich,rhamnes
+gdc-coref,nv2j.0,67215,67249,sappho,67242,67248,meiner,sappho
+gdc-coref,nv2j.0,67254,67423,rhamnes,67280,67283,Ich,rhamnes
+gdc-coref,nv2j.0,67429,67502,sappho,67448,67454,meiner,sappho
+gdc-coref,nv2j.0,67429,67502,sappho,67486,67492,meiner,sappho
+gdc-coref,nv2j.0,67508,67608,rhamnes,67544,67547,ich,rhamnes
+gdc-coref,nv2j.0,67727,67802,sappho,67798,67801,mir,sappho
+gdc-coref,nv2j.0,67808,67829,rhamnes,67817,67820,Ich,rhamnes
+gdc-coref,nv2j.0,68024,68058,rhamnes,68048,68051,mir,rhamnes
+gdc-coref,nv2j.0,68089,68123,rhamnes,68117,68120,mir,rhamnes
+gdc-coref,nv2j.0,68128,68346,sappho,68224,68228,mich,sappho
+gdc-coref,nv2j.0,68622,68804,sappho,68693,68696,ich,sappho
+gdc-coref,nv2j.0,68622,68804,sappho,68750,68753,mir,sappho
+gdc-coref,nv2j.0,68810,68828,rhamnes,68819,68822,Ich,rhamnes
+gdc-coref,nv2j.0,69007,69418,sappho,69205,69208,mir,sappho
+gdc-coref,nv2j.0,69007,69418,sappho,69352,69355,Ich,sappho
+gdc-coref,nv2j.0,69007,69418,sappho,69379,69382,Ich,sappho
+gdc-coref,nv2j.0,69007,69418,sappho,69389,69392,ich,sappho
+gdc-coref,nv2j.0,69868,69980,rhamnes,69915,69918,mir,rhamnes
+gdc-coref,nv2j.0,69868,69980,rhamnes,69955,69958,ich,rhamnes
+gdc-coref,nv2j.0,69868,69980,rhamnes,69972,69975,ich,rhamnes
+gdc-coref,nv2j.0,69986,70258,melitta,70086,70089,mir,melitta
+gdc-coref,nv2j.0,69986,70258,melitta,70179,70182,mir,melitta
+gdc-coref,nv2j.0,69986,70258,melitta,70205,70208,ich,melitta
+gdc-coref,nv2j.0,69986,70258,melitta,70248,70252,mich,melitta
+gdc-coref,nv2j.0,70331,70356,rhamnes,70352,70355,mir,rhamnes
+gdc-coref,nv2j.0,70586,70660,melitta,70624,70627,ich,melitta
+gdc-coref,nv2j.0,70943,70994,melitta,70989,70993,mich,melitta
+gdc-coref,nv2j.0,71066,71147,rhamnes,71084,71087,ich,rhamnes
+gdc-coref,nv2j.0,71066,71147,rhamnes,71134,71137,ich,rhamnes
+gdc-coref,nv2j.0,71185,71308,rhamnes,71231,71237,meinen,rhamnes
+gdc-coref,nv2j.0,71314,71420,melitta,71334,71337,ich,melitta
+gdc-coref,nv2j.0,71314,71420,melitta,71399,71403,mich,melitta
+gdc-coref,nv2j.0,71426,71481,rhamnes,71462,71465,mir,rhamnes
+gdc-coref,nv2j.0,71486,71541,melitta,71534,71540,meiner,melitta
+gdc-coref,nv2j.0,71703,71934,phaon,71723,71727,mich,phaon
+gdc-coref,nv2j.0,71703,71934,phaon,71733,71738,meine,phaon
+gdc-coref,nv2j.0,71703,71934,phaon,71758,71761,ich,phaon
+gdc-coref,nv2j.0,71940,71992,rhamnes,71988,71991,ich,rhamnes
+gdc-coref,nv2j.0,71997,72305,phaon,72065,72068,Ich,phaon
+gdc-coref,nv2j.0,71997,72305,phaon,72172,72175,mir,phaon
+gdc-coref,nv2j.0,71997,72305,phaon,72202,72205,ich,phaon
+gdc-coref,nv2j.0,72311,72336,melitta,72323,72326,mir,melitta
+gdc-coref,nv2j.0,72341,72671,phaon,72484,72487,mir,phaon
+gdc-coref,nv2j.0,72341,72671,phaon,72538,72542,mich,phaon
+gdc-coref,nv2j.0,72729,72827,rhamnes,72764,72767,ich,rhamnes
+gdc-coref,nv2j.0,72729,72827,rhamnes,72777,72780,ich,rhamnes
+gdc-coref,nv2j.0,72729,72827,rhamnes,72817,72821,mich,rhamnes
+gdc-coref,nv2j.0,72833,72948,phaon,72887,72891,Mich,phaon
+gdc-coref,nv2j.0,73173,73375,phaon,73235,73238,mir,phaon
+gdc-coref,nv2j.0,73173,73375,phaon,73321,73325,mich,phaon
+gdc-coref,nv2j.0,73381,73432,melitta,73428,73431,ich,melitta
+gdc-coref,nv2j.0,73696,73783,rhamnes,73724,73728,mich,rhamnes
+gdc-coref,nv2j.0,73812,73887,melitta,73841,73844,ich,melitta
+gdc-coref,nv2j.0,73812,73887,melitta,73858,73862,mich,melitta
+gdc-coref,nv2j.0,73893,74285,phaon,73938,73941,Ich,phaon
+gdc-coref,nv2j.0,73893,74285,phaon,74001,74004,ich,phaon
+gdc-coref,nv2j.0,73893,74285,phaon,74159,74162,mir,phaon
+gdc-coref,nv2j.0,73893,74285,phaon,74179,74182,Ich,phaon
+gdc-coref,nv2j.0,73893,74285,phaon,74264,74267,mir,phaon
+gdc-coref,nv2j.0,73893,74285,phaon,74272,74278,meiner,phaon
+gdc-coref,nv2j.0,74666,74731,phaon,74719,74725,meiner,phaon
+gdc-coref,nv2j.0,74773,74827,phaon,74796,74800,mein,phaon
+gdc-coref,nv2j.0,74832,75037,rhamnes,75011,75014,mir,rhamnes
+gdc-coref,nv2j.0,75043,75145,phaon,75061,75065,mich,phaon
+gdc-coref,nv2j.0,75043,75145,phaon,75083,75086,ich,phaon
+gdc-coref,nv2j.0,75043,75145,phaon,75110,75113,ich,phaon
+gdc-coref,nv2j.0,75152,75171,rhamnes,75161,75164,Ich,rhamnes
+gdc-coref,nv2j.0,75176,75359,phaon,75218,75221,Ich,phaon
+gdc-coref,nv2j.0,75396,75456,phaon,75404,75407,Ich,phaon
+gdc-coref,nv2j.0,75396,75456,phaon,75419,75422,ich,phaon
+gdc-coref,nv2j.0,75396,75456,phaon,75429,75432,mir,phaon
+gdc-coref,nv2j.0,75965,76030,melitta,76026,76029,ich,melitta
+gdc-coref,nv2j.0,76035,76561,phaon,76497,76500,ich,phaon
+gdc-coref,nv2j.0,76763,76812,phaon,76794,76797,ich,phaon
+gdc-coref,nv2j.0,76892,77358,eucharis,76951,76954,ich,eucharis
+gdc-coref,nv2j.0,76892,77358,eucharis,76997,77000,Ich,eucharis
+gdc-coref,nv2j.0,76892,77358,eucharis,77010,77014,mich,eucharis
+gdc-coref,nv2j.0,76892,77358,eucharis,77209,77212,ich,eucharis
+gdc-coref,nv2j.0,77951,78276,rhamnes,77961,77964,Ich,rhamnes
+gdc-coref,nv2j.0,78316,78468,sappho,78464,78467,mir,sappho
+gdc-coref,nv2j.0,78474,78501,rhamnes,78483,78486,Ich,rhamnes
+gdc-coref,nv2j.0,78759,78903,rhamnes,78797,78801,mein,rhamnes
+gdc-coref,nv2j.0,78759,78903,rhamnes,78847,78850,mir,rhamnes
+gdc-coref,nv2j.0,78931,78970,rhamnes,78946,78949,ich,rhamnes
+gdc-coref,nv2j.0,78976,80404,sappho,79225,79229,mich,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,79631,79634,mir,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,79653,79658,meine,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,79694,79697,ich,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,79787,79790,mir,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,79890,79895,meine,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,79999,80002,ich,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80119,80122,mir,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80139,80142,mir,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80167,80170,ich,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80229,80232,ich,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80277,80281,mich,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80322,80325,mir,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80351,80355,mein,sappho
+gdc-coref,nv2j.0,78976,80404,sappho,80363,80367,Mein,sappho
+gdc-coref,nv2j.0,80459,80698,sappho,80467,80470,Ich,sappho
+gdc-coref,nv2j.0,80459,80698,sappho,80503,80507,Mein,sappho
+gdc-coref,nv2j.0,80459,80698,sappho,80546,80551,meine,sappho
+gdc-coref,nv2j.0,80459,80698,sappho,80586,80591,meine,sappho
+gdc-coref,nv2j.0,80702,80790,sappho,80760,80763,mir,sappho
+gdc-coref,nv2j.0,80702,80790,sappho,80781,80784,ich,sappho
+gdc-coref,nv2j.0,80920,80987,sappho,80953,80957,mich,sappho
+gdc-coref,nv2j.0,80920,80987,sappho,80982,80986,mich,sappho
+gdc-coref,nv2j.0,81098,81175,_stage,81098,81104,Sappho,sappho
+gdc-coref,nv2j.0,81098,81175,_stage,81127,81140,der Rasenbank,der-Rasenbank
+gdc-coref,nv2j.0,81098,81175,_stage,81158,81162,sich,sappho
+gdc-coref,nv2j.0,81176,81261,_stage,81204,81212,Eucharis,eucharis
+gdc-coref,nv2j.0,81176,81261,_stage,81228,81246,mehrere Sklavinnen,mehrere-Sklavinnen
+gdc-coref,nv2j.0,81176,81261,_stage,81248,81255,Rhamnes,rhamnes
+gdc-coref,nv2j.0,81272,81297,_stage,81287,81296,dem Munde,dem-Munde
+gdc-coref,nv2j.0,81316,81337,rhamnes,81333,81336,sie,sappho
+gdc-coref,nv2j.0,81342,81475,eucharis,81353,81362,Die Augen,Die-Augen
+gdc-coref,nv2j.0,81342,81475,eucharis,81378,81388,Der Körper,Der-Körper
+gdc-coref,nv2j.0,81342,81475,eucharis,81396,81405,ihr Geist,ihr-Geist
+gdc-coref,nv2j.0,81342,81475,eucharis,81396,81399,ihr,sappho
+gdc-coref,nv2j.0,81342,81475,eucharis,81441,81444,sie,sappho
+gdc-coref,nv2j.0,81481,81521,rhamnes,81490,81493,Ihr,eucharis
+gdc-coref,nv2j.0,81481,81521,rhamnes,81506,81514,ins Haus,ins-Haus
+gdc-coref,nv2j.0,81526,81596,eucharis,81537,81540,Ich,eucharis
+gdc-coref,nv2j.0,81526,81596,eucharis,81562,81565,sie,sappho
+gdc-coref,nv2j.0,81602,81711,rhamnes,81673,81686,einem Schiffe,einem-Schiffe
+gdc-coref,nv2j.0,81717,81749,sappho,81738,81744,Schiff,einem-Schiffe
+gdc-coref,nv2j.0,81754,81796,rhamnes,81763,81766,Wir,rhamnes-/-eucharis
+gdc-coref,nv2j.0,81754,81796,rhamnes,81785,81795,Gebieterin,sappho
+gdc-coref,nv2j.0,81856,81971,rhamnes,81906,81909,wir,rhamnes-/-eucharis
+gdc-coref,nv2j.0,81856,81971,rhamnes,81910,81914,dich,sappho
+gdc-coref,nv2j.0,81856,81971,rhamnes,81918,81929,dein Gemach,dein-Gemach
+gdc-coref,nv2j.0,81856,81971,rhamnes,81918,81922,dein,sappho
+gdc-coref,nv2j.0,81934,81971,_stage,81934,81940,Sappho,sappho
+gdc-coref,nv2j.0,81934,81971,_stage,81962,81970,den Kopf,den-Kopf
+gdc-coref,nv2j.0,81975,82053,rhamnes,81988,81992,dich,sappho
+gdc-coref,nv2j.0,81975,82053,rhamnes,82009,82012,mir,rhamnes
+gdc-coref,nv2j.0,81975,82053,rhamnes,82013,82021,ins Haus,ins-Haus
+gdc-coref,nv2j.0,82024,82053,_stage,82024,82030,Sappho,sappho
+gdc-coref,nv2j.0,82057,82129,rhamnes,82081,82083,Du,sappho
+gdc-coref,nv2j.0,82057,82129,rhamnes,82094,82097,Ihr,sappho
+gdc-coref,nv2j.0,82057,82129,rhamnes,82116,82119,mir,rhamnes
+gdc-coref,nv2j.0,82057,82129,rhamnes,82120,82128,ins Herz,ins-Herz
+gdc-coref,nv2j.0,82134,82183,eucharis,82164,82168,sich,das-Volk
+gdc-coref,nv2j.0,82134,82183,eucharis,82174,82182,das Volk,das-Volk
+gdc-coref,nv2j.0,82211,82267,eucharis,82221,82223,Es,das-Volk
+gdc-coref,nv2j.0,82211,82267,eucharis,82231,82239,dem Ufer,dem-Ufer
+gdc-coref,nv2j.0,82211,82267,eucharis,82244,82247,Mir,eucharis
+gdc-coref,nv2j.0,82211,82267,eucharis,82256,82259,sie,sie
+gdc-coref,nv2j.0,82298,82377,_stage,82326,82329,sie,sappho
+gdc-coref,nv2j.0,82381,82459,eucharis,82406,82416,den Felsen,den-Felsen
+gdc-coref,nv2j.0,82381,82459,eucharis,82455,82458,sie,sie
+gdc-coref,nv2j.0,82465,82531,rhamnes,82480,82483,ich,rhamnes
+gdc-coref,nv2j.0,82496,82531,_stage,82507,82530,eine Erhöhung des Ufers,den-Felsen
+gdc-coref,nv2j.0,82496,82531,_stage,82521,82530,des Ufers,dem-Ufer
+gdc-coref,nv2j.0,82535,82586,eucharis,82583,82585,du,rhamnes
+gdc-coref,nv2j.0,82591,82631,rhamnes,82606,82617,den Göttern,den-Göttern
+gdc-coref,nv2j.0,82591,82631,rhamnes,82620,82623,Sie,sie
+gdc-coref,nv2j.0,82653,82861,rhamnes,82710,82714,sich,"Die-waldbewachsne-Spitze,---------------Die-links-dort-weit-sich-ins-Gewässer-streckt"
+gdc-coref,nv2j.0,82653,82861,rhamnes,82715,82727,ins Gewässer,ins-Gewässer
+gdc-coref,nv2j.0,82653,82861,rhamnes,82746,82749,mir,rhamnes
+gdc-coref,nv2j.0,82653,82861,rhamnes,82782,82790,Ein Heer,Ein-Heer
+gdc-coref,nv2j.0,82653,82861,rhamnes,82795,82801,Kähnen,Kähnen
+gdc-coref,nv2j.0,82653,82861,rhamnes,82849,82857,dem Ufer,dem-Ufer
+gdc-coref,nv2j.0,82867,82918,eucharis,82881,82895,die Entwichnen,melitta-/-phaon
+gdc-coref,nv2j.0,82867,82918,eucharis,82902,82905,sie,melitta-/-phaon
+gdc-coref,nv2j.0,82867,82918,eucharis,82912,82917,ihnen,sie
+gdc-coref,nv2j.0,82923,83223,rhamnes,82933,82942,Die Sonne,Die-Sonne
+gdc-coref,nv2j.0,82923,83223,rhamnes,82952,82955,ich,rhamnes
+gdc-coref,nv2j.0,82923,83223,rhamnes,82993,83001,dem Ufer,dem-Ufer
+gdc-coref,nv2j.0,82923,83223,rhamnes,83008,83016,ein Kahn,ein-Kahn
+gdc-coref,nv2j.0,82923,83223,rhamnes,83038,83058,der frohen Botschaft,der-frohen-Botschaft
+gdc-coref,nv2j.0,82923,83223,rhamnes,83072,83074,er,ein-Kahn
+gdc-coref,nv2j.0,82923,83223,rhamnes,83081,83090,Der Hirte,ein_landmann
+gdc-coref,nv2j.0,82923,83223,rhamnes,83096,83103,vom Tal,vom-Tal
+gdc-coref,nv2j.0,82923,83223,rhamnes,83107,83109,Er,ein_landmann
+gdc-coref,nv2j.0,82923,83223,rhamnes,83119,83127,den Stab,den-Stab
+gdc-coref,nv2j.0,82923,83223,rhamnes,83138,83141,sie,melitta-/-phaon
+gdc-coref,nv2j.0,82923,83223,rhamnes,83167,83178,mein Freund,ein_landmann
+gdc-coref,nv2j.0,82923,83223,rhamnes,83167,83171,mein,rhamnes
+gdc-coref,nv2j.0,82923,83223,rhamnes,83191,83193,Er,ein_landmann
+gdc-coref,nv2j.0,83227,83271,eucharis,83237,83247,Gebieterin,sappho
+gdc-coref,nv2j.0,83297,83318,_stage,83297,83309,Ein Landmann,ein_landmann
+gdc-coref,nv2j.0,83297,83318,_stage,83311,83317,Vorige,sappho-/-rhamnes-+-1
+gdc-coref,nv2j.0,83320,83348,ein_landmann,83336,83342,Sappho,sappho
+gdc-coref,nv2j.0,83353,83379,eucharis,83367,83369,er,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83458,83461,Sie,melitta-/-phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83494,83496,er,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83535,83538,ich,ein_landmann
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83541,83544,Wir,Wir
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83567,83570,sie,melitta-/-phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83606,83615,hoher See,die-See
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83629,83632,Wir,Wir
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83633,83644,seinen Kahn,seinen-Kahn
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83633,83639,seinen,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83682,83684,er,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83717,83720,Wir,Wir
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83731,83734,ihn,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83748,83750,er,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83772,83784,sein Mädchen,melitta
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83772,83776,sein,phaon
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83789,83804,der linken Hand,der-linken-Hand
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83807,83823,Das blanke Eisen,Das-blanke-Eisen
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83827,83838,der Rechten,der-Rechten
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83862,83865,ihr,sappho
+gdc-coref,nv2j.0,83447,83917,ein_landmann,83871,83883,erhabne Frau,sappho
+gdc-coref,nv2j.0,83887,83917,_stage,83887,83893,Sappho,sappho
+gdc-coref,nv2j.0,83887,83917,_stage,83900,83903,ihm,ein_landmann
+gdc-coref,nv2j.0,83921,84117,ein_landmann,83956,83965,das Eisen,Das-blanke-Eisen
+gdc-coref,nv2j.0,83921,84117,ein_landmann,83980,83983,uns,Wir
+gdc-coref,nv2j.0,83921,84117,ein_landmann,84015,84018,ihm,phaon
+gdc-coref,nv2j.0,83921,84117,ein_landmann,84030,84048,Das kleine Mädchen,melitta
+gdc-coref,nv2j.0,83921,84117,ein_landmann,84052,84062,der Stirne,der-Stirne
+gdc-coref,nv2j.0,84073,84117,_stage,84073,84079,Sappho,sappho
+gdc-coref,nv2j.0,84073,84117,_stage,84089,84093,sich,sappho
+gdc-coref,nv2j.0,84073,84117,_stage,84094,84103,die Augen,Die-Augen
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84132,84135,Sie,melitta
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84143,84145,er,phaon
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84151,84154,sie,melitta
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84158,84166,die Arme,die-Arme
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84168,84171,wir,Wir
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84227,84230,ihn,phaon
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84243,84246,ihn,phaon
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84256,84259,Sie,melitta-/-phaon
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84274,84282,ans Land,ans-Land
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84289,84292,ihr,sappho
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84293,84303,die beiden,melitta-/-phaon
+gdc-coref,nv2j.0,84121,84344,ein_landmann,84306,84324,Das kleine Mädchen,melitta
+gdc-coref,nv2j.0,84384,84423,rhamnes,84406,84409,sie,melitta-/-phaon
+gdc-coref,nv2j.0,84428,84620,sappho,84448,84452,mich,sappho
+gdc-coref,nv2j.0,84428,84620,sappho,84457,84463,seinem,phaon
+gdc-coref,nv2j.0,84428,84620,sappho,84475,84482,Mädchen,mehrere-Sklavinnen
+gdc-coref,nv2j.0,84428,84620,sappho,84487,84489,Du,Aphrodite
+gdc-coref,nv2j.0,84428,84620,sappho,84491,84500,Aphrodite,Aphrodite
+gdc-coref,nv2j.0,84428,84620,sappho,84510,84515,deine,Aphrodite
+gdc-coref,nv2j.0,84524,84620,_stage,84524,84527,Sie,sappho
+gdc-coref,nv2j.0,84524,84620,_stage,84533,84549,dem Hintergrunde,dem-Hintergrunde
+gdc-coref,nv2j.0,84524,84620,_stage,84568,84577,den Altar,den-Altar
+gdc-coref,nv2j.0,84524,84620,_stage,84579,84595,ihre Dienerinnen,mehrere-Sklavinnen
+gdc-coref,nv2j.0,84524,84620,_stage,84612,84615,sie,sappho
+gdc-coref,nv2j.0,84645,84726,_stage,84645,84650,Phaon,phaon
+gdc-coref,nv2j.0,84645,84726,_stage,84652,84660,Melitten,melitta
+gdc-coref,nv2j.0,84645,84726,_stage,84670,84679,Landleute,Landleute
+gdc-coref,nv2j.0,84645,84726,_stage,84681,84687,Sappho,sappho
+gdc-coref,nv2j.0,84645,84726,_stage,84692,84709,ihren Dienerinnen,mehrere-Sklavinnen
+gdc-coref,nv2j.0,84645,84726,_stage,84692,84697,ihren,sappho
+gdc-coref,nv2j.0,84645,84726,_stage,84710,84725,im Hintergrunde,dem-Hintergrunde
+gdc-coref,nv2j.0,84728,85340,phaon,84755,84760,diese,melitta
+gdc-coref,nv2j.0,84728,85340,phaon,84793,84796,ich,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,84831,84836,ihrem,melitta
+gdc-coref,nv2j.0,84728,85340,phaon,84849,84860,diese Faust,diese-Faust
+gdc-coref,nv2j.0,84728,85340,phaon,84883,84897,meiner Glieder,meiner-Glieder
+gdc-coref,nv2j.0,84728,85340,phaon,84883,84889,meiner,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,84922,84929,Melitta,melitta
+gdc-coref,nv2j.0,84728,85340,phaon,84955,84958,Dir,melitta
+gdc-coref,nv2j.0,84728,85340,phaon,84990,84993,ich,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,85020,85023,ihr,Wir
+gdc-coref,nv2j.0,84728,85340,phaon,85024,85034,dies Haupt,dies-Haupt
+gdc-coref,nv2j.0,84728,85340,phaon,85047,85075,Das reine Haupt der Unschuld,dies-Haupt
+gdc-coref,nv2j.0,84728,85340,phaon,85063,85075,der Unschuld,der-Unschuld
+gdc-coref,nv2j.0,84728,85340,phaon,85112,85115,ich,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,85126,85129,mir,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,85130,85138,ein Weib,ein-Weib
+gdc-coref,nv2j.0,84728,85340,phaon,85141,85181,"Ein schwaches, feiges, aufgereiztes Weib",ein-Weib
+gdc-coref,nv2j.0,84728,85340,phaon,85184,85186,Du,ein_landmann
+gdc-coref,nv2j.0,84728,85340,phaon,85195,85198,der,ein_landmann
+gdc-coref,nv2j.0,84728,85340,phaon,85204,85207,ihr,melitta
+gdc-coref,nv2j.0,84728,85340,phaon,85216,85219,ich,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,85226,85230,dich,ein_landmann
+gdc-coref,nv2j.0,84728,85340,phaon,85243,85246,mir,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,85258,85261,ich,phaon
+gdc-coref,nv2j.0,84728,85340,phaon,85262,85277,die Rachegötter,die-Rachegötter
+gdc-coref,nv2j.0,84728,85340,phaon,85300,85310,ihren Raub,ihren-Raub
+gdc-coref,nv2j.0,84728,85340,phaon,85300,85305,ihren,die-Rachegötter
+gdc-coref,nv2j.0,84728,85340,phaon,85332,85334,du,melitta
+gdc-coref,nv2j.0,84728,85340,phaon,85335,85339,dich,melitta
+gdc-coref,nv2j.0,85365,85916,phaon,85376,85380,dein,melitta
+gdc-coref,nv2j.0,85365,85916,phaon,85412,85424,diese Blässe,diese-Blässe
+gdc-coref,nv2j.0,85365,85916,phaon,85438,85441,sie,diese-Blässe
+gdc-coref,nv2j.0,85365,85916,phaon,85443,85483,"Die erste Lüge, die dein Mund gesprochen","Die-erste-Lüge,-die-dein-Mund-gesprochen"
+gdc-coref,nv2j.0,85365,85916,phaon,85463,85472,dein Mund,dein-Mund
+gdc-coref,nv2j.0,85365,85916,phaon,85463,85467,dein,melitta
+gdc-coref,nv2j.0,85365,85916,phaon,85502,85511,den Grimm,den-Grimm
+gdc-coref,nv2j.0,85365,85916,phaon,85515,85518,mir,phaon
+gdc-coref,nv2j.0,85365,85916,phaon,85535,85545,neuer Glut,neuer-Glut
+gdc-coref,nv2j.0,85365,85916,phaon,85553,85555,du,melitta
+gdc-coref,nv2j.0,85365,85916,phaon,85556,85567,die Flammen,die-Flammen
+gdc-coref,nv2j.0,85365,85916,phaon,85584,85588,dich,melitta
+gdc-coref,nv2j.0,85365,85916,phaon,85593,85609,diesem Rasensitz,der-Rasenbank
+gdc-coref,nv2j.0,85365,85916,phaon,85621,85651,"dein mildes, himmelklares Auge","dein-mildes,-himmelklares-Auge"
+gdc-coref,nv2j.0,85365,85916,phaon,85621,85625,dein,melitta
+gdc-coref,nv2j.0,85365,85916,phaon,85668,85671,mir,phaon
+gdc-coref,nv2j.0,85365,85916,phaon,85697,85706,des Tages,des-Tages
+gdc-coref,nv2j.0,85365,85916,phaon,85729,85741,Des Schlafes,Des-Schlafes
+gdc-coref,nv2j.0,85365,85916,phaon,85759,85762,mir,phaon
+gdc-coref,nv2j.0,85365,85916,phaon,85774,85777,den,Des-Schlafes
+gdc-coref,nv2j.0,85365,85916,phaon,85778,85782,mich,phaon
+gdc-coref,nv2j.0,85365,85916,phaon,85783,85796,jene Zauberin,jene-Zauberin
+gdc-coref,nv2j.0,85365,85916,phaon,85817,85825,die Lieb,die-Lieb
+gdc-coref,nv2j.0,85365,85916,phaon,85826,85841,ihr holdes Werk,ihr-holdes-Werk
+gdc-coref,nv2j.0,85365,85916,phaon,85826,85829,ihr,die-Lieb
+gdc-coref,nv2j.0,85365,85916,phaon,85855,85868,dieser Stelle,der-Rasenbank
+gdc-coref,nv2j.0,85365,85916,phaon,85873,85875,es,ihr-holdes-Werk
+gdc-coref,nv2j.0,85365,85916,phaon,85909,85915,Sappho,sappho
+gdc-coref,nv2j.0,85922,85952,melitta,85931,85936,Phaon,phaon
+gdc-coref,nv2j.0,85922,85952,melitta,85942,85945,sie,sappho
+gdc-coref,nv2j.0,85957,86161,phaon,85980,85983,ich,phaon
+gdc-coref,nv2j.0,85957,86161,phaon,85990,86005,ein freier Mann,ein-freier-Mann
+gdc-coref,nv2j.0,85957,86161,phaon,86026,86029,ihr,sappho
+gdc-coref,nv2j.0,85957,86161,phaon,86086,86098,Griechenland,Griechenland
+gdc-coref,nv2j.0,85957,86161,phaon,86121,86131,die Stolze,sappho
+gdc-coref,nv2j.0,85957,86161,phaon,86150,86156,Sappho,sappho
+gdc-coref,nv2j.0,86167,86192,ein_landmann,86181,86183,Du,phaon
+gdc-coref,nv2j.0,86197,86223,phaon,86204,86207,Wer,ein_landmann
+gdc-coref,nv2j.0,86197,86223,phaon,86213,86217,mich,phaon
+gdc-coref,nv2j.0,86197,86223,phaon,86219,86222,Wer,ein_landmann
+gdc-coref,nv2j.0,86228,86252,ein_landmann,86238,86246,Wir alle,Wir-alle
+gdc-coref,nv2j.0,86257,86288,phaon,86264,86267,Ich,phaon
+gdc-coref,nv2j.0,86257,86288,phaon,86272,86287,ein freier Mann,ein-freier-Mann
+gdc-coref,nv2j.0,86293,86349,ein_landmann,86303,86305,Du,phaon
+gdc-coref,nv2j.0,86293,86349,ein_landmann,86311,86312,s,ein-freier-Mann
+gdc-coref,nv2j.0,86293,86349,ein_landmann,86325,86335,der Strafe,der-Strafe
+gdc-coref,nv2j.0,86293,86349,ein_landmann,86336,86338,du,phaon
+gdc-coref,nv2j.0,86354,86383,phaon,86361,86371,Der Strafe,der-Strafe
+gdc-coref,nv2j.0,86388,86454,ein_landmann,86399,86415,Der Sklavin Raub,ihren-Raub
+gdc-coref,nv2j.0,86388,86454,ein_landmann,86399,86410,Der Sklavin,melitta
+gdc-coref,nv2j.0,86388,86454,ein_landmann,86422,86432,das Gesetz,das-Gesetz
+gdc-coref,nv2j.0,86388,86454,ein_landmann,86433,86442,zur Rache,zur-Rache
+gdc-coref,nv2j.0,86388,86454,ein_landmann,86449,86453,dich,phaon
+gdc-coref,nv2j.0,86460,86548,phaon,86478,86484,Sappho,sappho
+gdc-coref,nv2j.0,86460,86548,phaon,86485,86493,Lösegeld,Lösegeld
+gdc-coref,nv2j.0,86460,86548,phaon,86498,86501,sie,melitta
+gdc-coref,nv2j.0,86460,86548,phaon,86523,86524,s,Lösegeld
+gdc-coref,nv2j.0,86460,86548,phaon,86533,86547,Krösus Schätze,Krösus-Schätze
+gdc-coref,nv2j.0,86460,86548,phaon,86533,86539,Krösus,Krösus
+gdc-coref,nv2j.0,86554,86611,ein_landmann,86564,86567,Ihr,sappho
+gdc-coref,nv2j.0,86554,86611,ein_landmann,86597,86600,dir,phaon
+gdc-coref,nv2j.0,86616,86792,phaon,86629,86632,ihr,Wir
+gdc-coref,nv2j.0,86616,86792,phaon,86675,86678,ihr,sappho
+gdc-coref,nv2j.0,86616,86792,phaon,86722,86731,der Liebe,die-Lieb
+gdc-coref,nv2j.0,86616,86792,phaon,86748,86751,Mir,phaon
+gdc-coref,nv2j.0,86616,86792,phaon,86769,86776,Unrecht,Unrecht
+gdc-coref,nv2j.0,86616,86792,phaon,86788,86791,mir,phaon
+gdc-coref,nv2j.0,86798,86855,ein_landmann,86811,86816,Recht,Recht
+gdc-coref,nv2j.0,86798,86855,ein_landmann,86821,86828,Unrecht,Unrecht
+gdc-coref,nv2j.0,86798,86855,ein_landmann,86830,86836,Sappho,sappho
+gdc-coref,nv2j.0,86860,87022,phaon,86880,86889,"du, Alter",ein_landmann
+gdc-coref,nv2j.0,86860,87022,phaon,86925,86931,Sappho,sappho
+gdc-coref,nv2j.0,86860,87022,phaon,86937,86939,du,ein_landmann
+gdc-coref,nv2j.0,86860,87022,phaon,86940,86944,ihre,sappho
+gdc-coref,nv2j.0,86860,87022,phaon,86972,86983,des Rechtes,Recht
+gdc-coref,nv2j.0,86860,87022,phaon,86995,86998,sie,sappho
+gdc-coref,nv2j.0,86860,87022,phaon,86999,87008,Gebietrin,Gebietrin
+gdc-coref,nv2j.0,86860,87022,phaon,87014,87021,im Land,Griechenland
+gdc-coref,nv2j.0,87028,87100,ein_landmann,87039,87042,Sie,sappho
+gdc-coref,nv2j.0,87028,87100,ein_landmann,87047,87049,es,Gebietrin
+gdc-coref,nv2j.0,87028,87100,ein_landmann,87068,87071,sie,sappho
+gdc-coref,nv2j.0,87028,87100,ein_landmann,87085,87088,wir,Wir
+gdc-coref,nv2j.0,87028,87100,ein_landmann,87089,87092,ihr,sappho
+gdc-coref,nv2j.0,87106,87239,phaon,87121,87124,sie,sappho
+gdc-coref,nv2j.0,87106,87239,phaon,87130,87139,euch alle,Wir
+gdc-coref,nv2j.0,87106,87239,phaon,87157,87160,Ich,phaon
+gdc-coref,nv2j.0,87106,87239,phaon,87186,87196,ihr Zauber,ihr-Zauber
+gdc-coref,nv2j.0,87106,87239,phaon,87186,87189,ihr,sappho
+gdc-coref,nv2j.0,87207,87231,_stage,87213,87221,das Haus,ins-Haus
+gdc-coref,nv2j.0,87106,87239,phaon,87235,87238,ihr,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87291,87294,ihr,Wir
+gdc-coref,nv2j.0,87266,87581,phaon,87297,87300,Ich,phaon
+gdc-coref,nv2j.0,87266,87581,phaon,87305,87308,sie,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87316,87322,Sappho,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87330,87334,dich,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87345,87347,du,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87363,87365,du,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87370,87373,mir,phaon
+gdc-coref,nv2j.0,87266,87581,phaon,87387,87415,am Altar ihrer Diener Reihen,den-Altar
+gdc-coref,nv2j.0,87266,87581,phaon,87396,87401,ihrer,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87418,87421,Sie,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87430,87432,du,sappho
+gdc-coref,nv2j.0,87266,87581,phaon,87442,87445,mir,phaon
+gdc-coref,nv2j.0,87266,87581,phaon,87458,87461,mir,phaon
+gdc-coref,nv2j.0,87465,87581,_stage,87493,87517,der Kreis der Sklavinnen,der-Kreis-der-Sklavinnen
+gdc-coref,nv2j.0,87465,87581,_stage,87503,87517,der Sklavinnen,mehrere-Sklavinnen
+gdc-coref,nv2j.0,87465,87581,_stage,87525,87529,sich,der-Kreis-der-Sklavinnen
+gdc-coref,nv2j.0,87465,87581,_stage,87531,87537,Sappho,sappho
+gdc-coref,nv2j.0,87465,87581,_stage,87559,87580,den Stufen des Altars,den-Stufen-des-Altars
+gdc-coref,nv2j.0,87465,87581,_stage,87570,87580,des Altars,den-Altar
+gdc-coref,nv2j.0,87585,87633,ein_landmann,87595,87597,Du,phaon
+gdc-coref,nv2j.0,87585,87633,ein_landmann,87608,87632,unbesonnen frecher Knabe,phaon
+gdc-coref,nv2j.0,87639,87870,phaon,87658,87660,du,sappho
+gdc-coref,nv2j.0,87639,87870,phaon,87664,87674,den Stufen,den-Stufen-des-Altars
+gdc-coref,nv2j.0,87639,87870,phaon,87680,87690,der Götter,den-Göttern
+gdc-coref,nv2j.0,87639,87870,phaon,87693,87696,Sie,den-Göttern
+gdc-coref,nv2j.0,87639,87870,phaon,87709,87720,der Bosheit,der-Bosheit
+gdc-coref,nv2j.0,87742,87870,_stage,87742,87744,Er,phaon
+gdc-coref,nv2j.0,87742,87870,_stage,87750,87753,sie,sappho
+gdc-coref,nv2j.0,87742,87870,_stage,87762,87768,seiner,phaon
+gdc-coref,nv2j.0,87742,87870,_stage,87785,87791,Sappho,sappho
+gdc-coref,nv2j.0,87742,87870,_stage,87838,87841,ihn,phaon
+gdc-coref,nv2j.0,87742,87870,_stage,87853,87866,dem Vorgrunde,dem-Vorgrunde
+gdc-coref,nv2j.0,87880,87892,_stage,87880,87883,ihr,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,87905,87907,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,87908,87911,mir,phaon
+gdc-coref,nv2j.0,87874,88275,phaon,87913,87915,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,87921,87924,mir,phaon
+gdc-coref,nv2j.0,87874,88275,phaon,87987,87989,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,87995,87997,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,88030,88032,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,88037,88041,mich,phaon
+gdc-coref,nv2j.0,87874,88275,phaon,88043,88047,mich,phaon
+gdc-coref,nv2j.0,87874,88275,phaon,88049,88067,"einen freien Mann,",ein-freier-Mann
+gdc-coref,nv2j.0,87874,88275,phaon,88092,88096,sich,ein-freier-Mann
+gdc-coref,nv2j.0,87874,88275,phaon,88154,88159,diese,diese
+gdc-coref,nv2j.0,87874,88275,phaon,88166,88184,ungewohnten Waffen,ungewohnten-Waffen
+gdc-coref,nv2j.0,87874,88275,phaon,88192,88194,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,88195,88198,sie,diese
+gdc-coref,nv2j.0,87874,88275,phaon,88216,88218,du,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,88219,88222,sie,diese
+gdc-coref,nv2j.0,87874,88275,phaon,88245,88257,der Dichtrin,sappho
+gdc-coref,nv2j.0,87874,88275,phaon,88258,88268,süße Lippe,süße-Lippe
+gdc-coref,nv2j.0,88281,88304,sappho,88289,88291,Es,Es
+gdc-coref,nv2j.0,88309,88460,phaon,88317,88326,Die Wange,Die-Wange
+gdc-coref,nv2j.0,88309,88460,phaon,88333,88337,sich,Die-Wange
+gdc-coref,nv2j.0,88309,88460,phaon,88414,88416,du,sappho
+gdc-coref,nv2j.0,88309,88460,phaon,88440,88459,heuchlerische Circe,sappho
+gdc-coref,nv2j.0,88466,88520,sappho,88474,88476,Es,Es
+gdc-coref,nv2j.0,88466,88520,sappho,88504,88519,"dich, mein Herz","dich,-mein-Herz"
+gdc-coref,nv2j.0,88466,88520,sappho,88510,88514,mein,sappho
+gdc-coref,nv2j.0,88525,88567,phaon,88547,88549,du,sappho
+gdc-coref,nv2j.0,88525,88567,phaon,88550,88555,diese,diese
+gdc-coref,nv2j.0,88579,88590,_stage,88582,88589,Rhamnes,rhamnes
+gdc-coref,nv2j.0,88572,88676,sappho,88608,88619,die Sklavin,melitta
+gdc-coref,nv2j.0,88572,88676,sappho,88620,88623,mir,sappho
+gdc-coref,nv2j.0,88572,88676,sappho,88637,88640,sie,melitta
+gdc-coref,nv2j.0,88572,88676,sappho,88665,88668,ich,sappho
+gdc-coref,nv2j.0,88682,88864,phaon,88715,88718,ihr,melitta
+gdc-coref,nv2j.0,88682,88864,phaon,88737,88745,Lösegeld,Lösegeld
+gdc-coref,nv2j.0,88682,88864,phaon,88747,88750,Ich,phaon
+gdc-coref,nv2j.0,88682,88864,phaon,88788,88791,mir,phaon
+gdc-coref,nv2j.0,88682,88864,phaon,88821,88831,Mein Glück,Mein-Glück
+gdc-coref,nv2j.0,88682,88864,phaon,88821,88825,Mein,phaon
+gdc-coref,nv2j.0,88682,88864,phaon,88836,88851,deiner Habsucht,deiner-Habsucht
+gdc-coref,nv2j.0,88682,88864,phaon,88836,88842,deiner,sappho
+gdc-coref,nv2j.0,88870,88948,sappho,88905,88909,Geld,Lösegeld
+gdc-coref,nv2j.0,88870,88948,sappho,88918,88921,ich,sappho
+gdc-coref,nv2j.0,88870,88948,sappho,88931,88935,mein,sappho
+gdc-coref,nv2j.0,88870,88948,sappho,88937,88940,Sie,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,88961,88964,Sie,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,88984,88997,allen Göttern,den-Göttern
+gdc-coref,nv2j.0,88953,89223,phaon,89006,89008,Du,sappho
+gdc-coref,nv2j.0,88953,89223,phaon,89021,89025,dein,sappho
+gdc-coref,nv2j.0,88953,89223,phaon,89036,89039,sie,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,89055,89057,du,sappho
+gdc-coref,nv2j.0,88953,89223,phaon,89058,89067,den Dolch,den-Dolch
+gdc-coref,nv2j.0,88953,89223,phaon,89072,89083,ihren Busen,ihren-Busen
+gdc-coref,nv2j.0,88953,89223,phaon,89072,89077,ihren,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,89095,89097,Du,sappho
+gdc-coref,nv2j.0,88953,89223,phaon,89107,89119,ihre Dienste,ihre-Dienste
+gdc-coref,nv2j.0,88953,89223,phaon,89107,89111,ihre,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,89127,89136,ihr Leben,ihr-Leben
+gdc-coref,nv2j.0,88953,89223,phaon,89127,89130,ihr,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,89147,89149,du,sappho
+gdc-coref,nv2j.0,88953,89223,phaon,89151,89154,ich,phaon
+gdc-coref,nv2j.0,88953,89223,phaon,89161,89164,sie,melitta
+gdc-coref,nv2j.0,88953,89223,phaon,89168,89179,deiner Hand,deiner-Hand
+gdc-coref,nv2j.0,88953,89223,phaon,89168,89174,deiner,sappho
+gdc-coref,nv2j.0,88953,89223,phaon,89202,89210,Lösegeld,Lösegeld
+gdc-coref,nv2j.0,88953,89223,phaon,89219,89222,sie,melitta
+gdc-coref,nv2j.0,89236,89247,_stage,89239,89246,Rhamnes,rhamnes
+gdc-coref,nv2j.0,89229,89276,sappho,89261,89264,ich,sappho
+gdc-coref,nv2j.0,89229,89276,sappho,89265,89268,dir,rhamnes
+gdc-coref,nv2j.0,89282,90554,phaon,89299,89301,Du,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89312,89322,deinen Tod,deinen-Tod
+gdc-coref,nv2j.0,89282,90554,phaon,89312,89318,deinen,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89333,89335,du,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89336,89339,sie,melitta
+gdc-coref,nv2j.0,89282,90554,phaon,89349,89359,dein Busen,dein-Busen
+gdc-coref,nv2j.0,89282,90554,phaon,89349,89353,dein,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89390,89392,er,dein-Busen
+gdc-coref,nv2j.0,89282,90554,phaon,89393,89397,sich,dein-Busen
+gdc-coref,nv2j.0,89282,90554,phaon,89444,89453,die Leier,die-Leier
+gdc-coref,nv2j.0,89282,90554,phaon,89455,89476,gifterfüllte Schlange,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89479,89488,Die Lippe,süße-Lippe
+gdc-coref,nv2j.0,89282,90554,phaon,89513,89515,Du,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89530,89542,der Dichtung,der-Dichtung
+gdc-coref,nv2j.0,89282,90554,phaon,89558,89567,Den Namen,Den-Namen
+gdc-coref,nv2j.0,89282,90554,phaon,89588,89597,der Kunst,der-Kunst
+gdc-coref,nv2j.0,89282,90554,phaon,89600,89609,Die Blume,Die-Blume
+gdc-coref,nv2j.0,89282,90554,phaon,89615,89618,sie,melitta
+gdc-coref,nv2j.0,89282,90554,phaon,89628,89650,dieses Lebens Blättern,dieses-Lebens-Blättern
+gdc-coref,nv2j.0,89282,90554,phaon,89653,89656,Die,Die-Blume
+gdc-coref,nv2j.0,89282,90554,phaon,89735,89746,Den Sternen,Den-Sternen
+gdc-coref,nv2j.0,89282,90554,phaon,89756,89761,denen,Den-Sternen
+gdc-coref,nv2j.0,89282,90554,phaon,89762,89765,sie,Die-Blume
+gdc-coref,nv2j.0,89282,90554,phaon,89777,89779,Du,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89808,89811,sie,melitta
+gdc-coref,nv2j.0,89282,90554,phaon,89827,89839,deine Feinde,deine-Feinde
+gdc-coref,nv2j.0,89282,90554,phaon,89827,89832,deine,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89879,89882,ich,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,89883,89886,mir,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,89888,89891,ich,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,89911,89918,Sapphon,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89964,89972,ihr Lied,ihr-Lied
+gdc-coref,nv2j.0,89282,90554,phaon,89964,89967,ihr,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,89978,89981,ihr,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90013,90021,ihr Herz,"dich,-mein-Herz"
+gdc-coref,nv2j.0,89282,90554,phaon,90013,90016,ihr,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90027,90031,ihre,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90041,90081,"Derselbe Wohllaut, der der Lipp entquoll","Derselbe-Wohllaut,-der-der-Lipp-entquoll"
+gdc-coref,nv2j.0,89282,90554,phaon,90064,90072,der Lipp,süße-Lippe
+gdc-coref,nv2j.0,89282,90554,phaon,90084,90086,Er,"Derselbe-Wohllaut,-der-der-Lipp-entquoll"
+gdc-coref,nv2j.0,89282,90554,phaon,90094,90098,sich,"Derselbe-Wohllaut,-der-der-Lipp-entquoll"
+gdc-coref,nv2j.0,89282,90554,phaon,90114,90123,der Brust,der-Brust
+gdc-coref,nv2j.0,89282,90554,phaon,90141,90144,mir,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,90145,90161,ihr ganzes Wesen,ihr-ganzes-Wesen
+gdc-coref,nv2j.0,89282,90554,phaon,90145,90148,ihr,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90172,90176,dich,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90228,90237,die Augen,Die-Augen
+gdc-coref,nv2j.0,89282,90554,phaon,90248,90251,mir,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,90254,90258,Mich,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,90274,90278,mich,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,90279,90291,dein Antlitz,dein-Antlitz
+gdc-coref,nv2j.0,89282,90554,phaon,90279,90283,dein,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90306,90309,ich,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,90322,90324,du,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90348,90381,"die Lippen, die mein Mund berührt","die-Lippen,-die-mein-Mund-berührt"
+gdc-coref,nv2j.0,89282,90554,phaon,90364,90373,mein Mund,mein-Mund
+gdc-coref,nv2j.0,89282,90554,phaon,90364,90368,mein,phaon
+gdc-coref,nv2j.0,89282,90554,phaon,90392,90423,"das Auge, das so mild gelächelt","das-Auge,-das-so-mild-gelächelt"
+gdc-coref,nv2j.0,89282,90554,phaon,90430,90436,Sappho,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90438,90440,du,sappho
+gdc-coref,nv2j.0,89282,90554,phaon,90441,90443,es,es
+gdc-coref,nv2j.0,89282,90554,phaon,90450,90459,du Sappho,sappho
+gdc-coref,nv2j.0,90463,90554,_stage,90463,90465,Er,phaon
+gdc-coref,nv2j.0,90463,90554,_stage,90471,90476,ihren,sappho
+gdc-coref,nv2j.0,90463,90554,_stage,90492,90495,sie,sappho
+gdc-coref,nv2j.0,90463,90554,_stage,90502,90506,sich,phaon
+gdc-coref,nv2j.0,90463,90554,_stage,90508,90511,Sie,sappho
+gdc-coref,nv2j.0,90463,90554,_stage,90526,90534,ihr Auge,"das-Auge,-das-so-mild-gelächelt"
+gdc-coref,nv2j.0,90463,90554,_stage,90526,90529,ihr,sappho
+gdc-coref,nv2j.0,90463,90554,_stage,90542,90553,das seinige,das-seinige
+gdc-coref,nv2j.0,90463,90554,_stage,90546,90553,seinige,phaon
+gdc-coref,nv2j.0,90558,90602,sappho,90598,90601,mir,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,90615,90617,Du,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,90623,90625,es,es
+gdc-coref,nv2j.0,90607,91165,phaon,90644,90658,Sapphos Stimme,Sapphos-Stimme
+gdc-coref,nv2j.0,90607,91165,phaon,90644,90651,Sapphos,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,90665,90668,ich,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,90677,90686,Die Winde,Die-Winde
+gdc-coref,nv2j.0,90607,91165,phaon,90693,90694,s,s
+gdc-coref,nv2j.0,90607,91165,phaon,90701,90703,Es,s
+gdc-coref,nv2j.0,90607,91165,phaon,90734,90744,dem Herzen,dem-Herzen
+gdc-coref,nv2j.0,90607,91165,phaon,90774,90780,meinem,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,90797,90806,die Sonne,Die-Sonne
+gdc-coref,nv2j.0,90607,91165,phaon,90812,90825,Gewittersturm,Gewittersturm
+gdc-coref,nv2j.0,90607,91165,phaon,90840,90853,der Gegenwart,der-Gegenwart
+gdc-coref,nv2j.0,90607,91165,phaon,90888,90905,die Vergangenheit,die-Vergangenheit
+gdc-coref,nv2j.0,90607,91165,phaon,90913,90916,mir,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,90926,90948,Erinnrung schöner Zeit,Erinnrung-schöner-Zeit
+gdc-coref,nv2j.0,90607,91165,phaon,90951,90953,Du,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,90959,90962,mir,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,90971,90974,was,was
+gdc-coref,nv2j.0,90607,91165,phaon,90975,90977,du,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,90984,90987,mir,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,90999,91002,ich,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,91003,91007,dich,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,91024,91037,ferner Heimat,ferner-Heimat
+gdc-coref,nv2j.0,90607,91165,phaon,91065,91068,ich,phaon
+gdc-coref,nv2j.0,90607,91165,phaon,91127,91131,dich,sappho
+gdc-coref,nv2j.0,90607,91165,phaon,91136,91142,Göttin,Göttin
+gdc-coref,nv2j.0,90607,91165,phaon,91151,91157,Sappho,sappho
+gdc-coref,nv2j.0,91171,91188,sappho,91179,91187,Betrüger,phaon
+gdc-coref,nv2j.0,91193,91578,phaon,91215,91218,ich,phaon
+gdc-coref,nv2j.0,91193,91578,phaon,91223,91225,es,phaon
+gdc-coref,nv2j.0,91193,91578,phaon,91239,91242,ich,phaon
+gdc-coref,nv2j.0,91193,91578,phaon,91243,91246,dir,sappho
+gdc-coref,nv2j.0,91193,91578,phaon,91247,91252,Liebe,meine-Liebe
+gdc-coref,nv2j.0,91193,91578,phaon,91286,91289,Ich,phaon
+gdc-coref,nv2j.0,91193,91578,phaon,91297,91301,dich,sappho
+gdc-coref,nv2j.0,91193,91578,phaon,91310,91313,man,man
+gdc-coref,nv2j.0,91193,91578,phaon,91314,91320,Götter,Höhern
+gdc-coref,nv2j.0,91193,91578,phaon,91332,91335,man,man
+gdc-coref,nv2j.0,91193,91578,phaon,91336,91344,das Gute,das-Gute
+gdc-coref,nv2j.0,91193,91578,phaon,91356,91366,das Schöne,das-Schöne
+gdc-coref,nv2j.0,91193,91578,phaon,91373,91379,Höhern,Höhern
+gdc-coref,nv2j.0,91193,91578,phaon,91381,91387,Sappho,sappho
+gdc-coref,nv2j.0,91193,91578,phaon,91395,91397,du,sappho
+gdc-coref,nv2j.0,91193,91578,phaon,91413,91416,Man,man
+gdc-coref,nv2j.0,91193,91578,phaon,91441,91456,vom Göttermahle,vom-Göttermahle
+gdc-coref,nv2j.0,91193,91578,phaon,91470,91495,den Kreis der Sterblichen,den-Kreis-der-Sterblichen
+gdc-coref,nv2j.0,91193,91578,phaon,91480,91495,der Sterblichen,der-Sterblichen
+gdc-coref,nv2j.0,91193,91578,phaon,91498,91505,Der Arm,Der-Arm
+gdc-coref,nv2j.0,91193,91578,phaon,91510,91513,dem,Der-Arm
+gdc-coref,nv2j.0,91193,91578,phaon,91514,91530,die goldne Leier,die-Leier
+gdc-coref,nv2j.0,91193,91578,phaon,91539,91541,Er,Der-Arm
+gdc-coref,nv2j.0,91193,91578,phaon,91555,91557,er,Der-Arm
+gdc-coref,nv2j.0,91193,91578,phaon,91564,91571,Niedres,Niedres
+gdc-coref,nv2j.0,91591,91615,_stage,91606,91610,sich,sappho
+gdc-coref,nv2j.0,91584,91698,sappho,91638,91654,die goldne Leier,die-Leier
+gdc-coref,nv2j.0,91584,91698,sappho,91662,91665,ihr,die-Leier
+gdc-coref,nv2j.0,91704,92484,phaon,91712,91715,Ich,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,91754,91757,mir,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,91766,91774,der Welt,der-Welt
+gdc-coref,nv2j.0,91704,92484,phaon,91811,91814,ich,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,91815,91826,die Gefühle,die-Gefühle
+gdc-coref,nv2j.0,91704,92484,phaon,91833,91836,Die,die-Gefühle
+gdc-coref,nv2j.0,91704,92484,phaon,91837,91840,ich,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,91865,91868,die,die-Gefühle
+gdc-coref,nv2j.0,91704,92484,phaon,91883,91885,Du,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,91898,91901,mir,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,91903,91925,ein unbegreiflich Bild,ein-unbegreiflich-Bild
+gdc-coref,nv2j.0,91704,92484,phaon,91931,91934,dem,ein-unbegreiflich-Bild
+gdc-coref,nv2j.0,91704,92484,phaon,91936,91940,mich,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,91950,91953,dem,ein-unbegreiflich-Bild
+gdc-coref,nv2j.0,91704,92484,phaon,91955,91959,mich,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,92005,92007,Du,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,92035,92039,dich,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,92040,92044,mein,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,92080,92084,dich,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,92091,92102,meine Liebe,meine-Liebe
+gdc-coref,nv2j.0,91704,92484,phaon,92091,92096,meine,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,92113,92124,das Gleiche,das-Gleiche
+gdc-coref,nv2j.0,91704,92484,phaon,92130,92134,sich,das-Gleiche
+gdc-coref,nv2j.0,91704,92484,phaon,92160,92163,ich,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,92164,92167,sie,melitta
+gdc-coref,nv2j.0,91704,92484,phaon,92182,92188,Himmel,Himmel
+gdc-coref,nv2j.0,91704,92484,phaon,92199,92217,Die tiefen Quellen,Die-tiefen-Quellen
+gdc-coref,nv2j.0,91704,92484,phaon,92223,92229,meines,phaon
+gdc-coref,nv2j.0,91704,92484,phaon,92239,92242,Die,Die-tiefen-Quellen
+gdc-coref,nv2j.0,91704,92484,phaon,92292,92301,Melittion,melitta
+gdc-coref,nv2j.0,91704,92484,phaon,92315,92318,ihr,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,92341,92344,sie,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,92374,92383,der Augen,Die-Augen
+gdc-coref,nv2j.0,91704,92484,phaon,92412,92415,sie,sappho
+gdc-coref,nv2j.0,91704,92484,phaon,92416,92419,dir,melitta
+gdc-coref,nv2j.0,91704,92484,phaon,92430,92446,die fromme Brust,die-fromme-Brust
+gdc-coref,nv2j.0,91704,92484,phaon,92471,92475,dich,melitta
+gdc-coref,nv2j.0,92490,92528,melitta,92517,92527,Gebieterin,sappho
+gdc-coref,nv2j.0,92541,92562,_stage,92541,92544,sie,melitta
+gdc-coref,nv2j.0,92541,92562,_stage,92549,92553,sich,sappho
+gdc-coref,nv2j.0,92534,92576,sappho,92572,92575,mir,sappho
+gdc-coref,nv2j.0,92581,92605,melitta,92595,92598,sie,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92625,92628,sie,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92639,92642,ich,phaon
+gdc-coref,nv2j.0,92610,92965,phaon,92674,92683,Melittion,melitta
+gdc-coref,nv2j.0,92610,92965,phaon,92688,92699,meine Seite,meine-Seite
+gdc-coref,nv2j.0,92610,92965,phaon,92688,92693,meine,phaon
+gdc-coref,nv2j.0,92610,92965,phaon,92702,92704,Du,melitta
+gdc-coref,nv2j.0,92610,92965,phaon,92721,92724,ihr,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92736,92748,meinen Augen,meinen-Augen
+gdc-coref,nv2j.0,92610,92965,phaon,92736,92742,meinen,phaon
+gdc-coref,nv2j.0,92610,92965,phaon,92755,92759,dich,melitta
+gdc-coref,nv2j.0,92610,92965,phaon,92760,92770,die Stolze,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92790,92792,Du,melitta
+gdc-coref,nv2j.0,92610,92965,phaon,92813,92816,Sie,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92829,92840,deinen Wert,deinen-Wert
+gdc-coref,nv2j.0,92610,92965,phaon,92829,92835,deinen,melitta
+gdc-coref,nv2j.0,92610,92965,phaon,92849,92854,ihren,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92865,92877,ihren Knieen,ihren-Knieen
+gdc-coref,nv2j.0,92610,92965,phaon,92865,92870,ihren,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92885,92888,Sie,sappho
+gdc-coref,nv2j.0,92610,92965,phaon,92907,92919,der Unschuld,der-Unschuld
+gdc-coref,nv2j.0,92610,92965,phaon,92927,92930,dir,melitta
+gdc-coref,nv2j.0,92610,92965,phaon,92952,92955,mir,phaon
+gdc-coref,nv2j.0,92971,93135,melitta,92991,92995,mich,melitta
+gdc-coref,nv2j.0,92971,93135,melitta,93014,93023,dem Kinde,dem-Kinde
+gdc-coref,nv2j.0,92971,93135,melitta,93034,93040,seiner,dem-Kinde
+gdc-coref,nv2j.0,92971,93135,melitta,93060,93063,ihr,sappho
+gdc-coref,nv2j.0,92971,93135,melitta,93064,93070,Strafe,der-Strafe
+gdc-coref,nv2j.0,92971,93135,melitta,93088,93091,sie,sappho
+gdc-coref,nv2j.0,92971,93135,melitta,93094,93097,Ich,melitta
+gdc-coref,nv2j.0,92971,93135,melitta,93122,93134,ihren Willen,ihren-Willen
+gdc-coref,nv2j.0,92971,93135,melitta,93122,93127,ihren,sappho
+gdc-coref,nv2j.0,93141,93321,phaon,93155,93158,dir,melitta
+gdc-coref,nv2j.0,93141,93321,phaon,93172,93175,mir,phaon
+gdc-coref,nv2j.0,93141,93321,phaon,93184,93186,du,melitta
+gdc-coref,nv2j.0,93141,93321,phaon,93196,93200,mich,phaon
+gdc-coref,nv2j.0,93141,93321,phaon,93213,93215,du,melitta
+gdc-coref,nv2j.0,93141,93321,phaon,93222,93233,diese Demut,diese-Demut
+gdc-coref,nv2j.0,93141,93321,phaon,93257,93260,das,das
+gdc-coref,nv2j.0,93141,93321,phaon,93261,93264,uns,melitta-/-phaon
+gdc-coref,nv2j.0,93141,93321,phaon,93280,93283,Was,das
+gdc-coref,nv2j.0,93141,93321,phaon,93284,93287,sie,sappho
+gdc-coref,nv2j.0,93141,93321,phaon,93288,93297,der Bitte,der-Bitte
+gdc-coref,nv2j.0,93327,93693,melitta,93353,93357,mich,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93368,93377,ihre Gabe,ihre-Gabe
+gdc-coref,nv2j.0,93327,93693,melitta,93368,93372,ihre,sappho
+gdc-coref,nv2j.0,93327,93693,melitta,93395,93398,mir,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93399,93416,das höchste Glück,das-höchste-Glück
+gdc-coref,nv2j.0,93327,93693,melitta,93438,93441,ich,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93453,93456,mir,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93535,93538,ich,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93578,93581,ich,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93603,93606,Sie,sappho
+gdc-coref,nv2j.0,93327,93693,melitta,93612,93616,mich,melitta
+gdc-coref,nv2j.0,93327,93693,melitta,93661,93670,dein Kind,dem-Kinde
+gdc-coref,nv2j.0,93327,93693,melitta,93661,93665,dein,sappho
+gdc-coref,nv2j.0,93327,93693,melitta,93682,93692,teure Frau,sappho
+gdc-coref,nv2j.0,93706,93755,_stage,93713,93724,das Gesicht,dein-Antlitz
+gdc-coref,nv2j.0,93706,93755,_stage,93729,93737,Eucharis,eucharis
+gdc-coref,nv2j.0,93759,93813,phaon,93773,93775,du,sappho
+gdc-coref,nv2j.0,93759,93813,phaon,93776,93779,sie,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,93828,93831,Sie,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,93871,93879,ihr Mund,ihr-Mund
+gdc-coref,nv2j.0,93818,94108,melitta,93871,93874,ihr,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,93882,93885,Ich,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,93891,93899,ihr Herz,"dich,-mein-Herz"
+gdc-coref,nv2j.0,93818,94108,melitta,93891,93894,ihr,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,93903,93916,meinem Herzen,meinem-Herzen
+gdc-coref,nv2j.0,93818,94108,melitta,93903,93909,meinem,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,93941,93947,Sappho,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,93958,93961,mir,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,93966,93969,ihm,phaon
+gdc-coref,nv2j.0,93818,94108,melitta,93977,93981,mich,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,93982,93985,ihm,phaon
+gdc-coref,nv2j.0,93818,94108,melitta,93997,94000,ich,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,94007,94010,ihm,phaon
+gdc-coref,nv2j.0,93818,94108,melitta,94018,94022,mich,melitta
+gdc-coref,nv2j.0,93818,94108,melitta,94023,94026,ihn,phaon
+gdc-coref,nv2j.0,93818,94108,melitta,94038,94044,Götter,den-Göttern
+gdc-coref,nv2j.0,93818,94108,melitta,94064,94066,Du,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,94079,94085,Sappho,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,94094,94096,du,sappho
+gdc-coref,nv2j.0,93818,94108,melitta,94097,94101,mich,melitta
+gdc-coref,nv2j.0,94120,94167,_stage,94120,94128,Melitten,melitta
+gdc-coref,nv2j.0,94114,94298,phaon,94169,94181,Den Menschen,der-Sterblichen
+gdc-coref,nv2j.0,94114,94298,phaon,94182,94187,Liebe,die-Lieb
+gdc-coref,nv2j.0,94114,94298,phaon,94192,94203,den Göttern,den-Göttern
+gdc-coref,nv2j.0,94114,94298,phaon,94204,94213,Ehrfurcht,Ehrfurcht
+gdc-coref,nv2j.0,94114,94298,phaon,94229,94234,unser,der-Sterblichen-/-phaon
+gdc-coref,nv2j.0,94114,94298,phaon,94254,94258,dein,sappho
+gdc-coref,nv2j.0,94114,94298,phaon,94274,94276,du,sappho
+gdc-coref,nv2j.0,94114,94298,phaon,94290,94292,du,sappho
+gdc-coref,nv2j.0,94312,94438,_stage,94358,94371,die Knieenden,melitta-/-phaon
+gdc-coref,nv2j.0,94312,94438,_stage,94408,94412,sich,sappho
+gdc-coref,nv2j.0,94442,94544,melitta,94455,94458,mir,melitta
+gdc-coref,nv2j.0,94442,94544,melitta,94460,94463,sie,sappho
+gdc-coref,nv2j.0,94442,94544,melitta,94472,94475,sie,sappho
+gdc-coref,nv2j.0,94442,94544,melitta,94480,94488,ihr Kind,dem-Kinde
+gdc-coref,nv2j.0,94442,94544,melitta,94480,94483,ihr,sappho
+gdc-coref,nv2j.0,94501,94544,_stage,94501,94507,Sappho,sappho
+gdc-coref,nv2j.0,94501,94544,_stage,94512,94520,Eucharis,eucharis
+gdc-coref,nv2j.0,94501,94544,_stage,94525,94536,Dienerinnen,mehrere-Sklavinnen
+gdc-coref,nv2j.0,94568,94600,_stage,94568,94574,Vorige,rhamnes-/-eucharis-+-3
+gdc-coref,nv2j.0,94568,94600,_stage,94580,94586,Sappho,sappho
+gdc-coref,nv2j.0,94568,94600,_stage,94591,94599,Eucharis,eucharis
+gdc-coref,nv2j.0,94602,94700,phaon,94620,94629,mein Kind,melitta
+gdc-coref,nv2j.0,94602,94700,phaon,94620,94624,mein,phaon
+gdc-coref,nv2j.0,94602,94700,phaon,94634,94642,Menschen,der-Sterblichen
+gdc-coref,nv2j.0,94602,94700,phaon,94670,94673,uns,melitta-/-phaon
+gdc-coref,nv2j.0,94602,94700,phaon,94674,94684,die Götter,den-Göttern
+gdc-coref,nv2j.0,94602,94700,phaon,94689,94692,wir,melitta-/-phaon
+gdc-coref,nv2j.0,94706,94929,melitta,94716,94719,Ich,melitta
+gdc-coref,nv2j.0,94706,94929,melitta,94743,94746,sie,sappho
+gdc-coref,nv2j.0,94706,94929,melitta,94747,94751,mich,melitta
+gdc-coref,nv2j.0,94706,94929,melitta,94763,94766,Ihr,sappho
+gdc-coref,nv2j.0,94706,94929,melitta,94786,94789,mir,melitta
+gdc-coref,nv2j.0,94706,94929,melitta,94790,94801,der Spiegel,der-Spiegel
+gdc-coref,nv2j.0,94706,94929,melitta,94808,94811,dem,der-Spiegel
+gdc-coref,nv2j.0,94706,94929,melitta,94812,94815,ich,melitta
+gdc-coref,nv2j.0,94706,94929,melitta,94820,94824,mein,melitta
+gdc-coref,nv2j.0,94706,94929,melitta,94849,94851,Er,der-Spiegel
+gdc-coref,nv2j.0,94706,94929,melitta,94858,94861,mir,melitta
+gdc-coref,nv2j.0,94706,94929,melitta,94898,94901,sie,sappho
+gdc-coref,nv2j.0,94706,94929,melitta,94910,94928,die gekränkte Frau,sappho
+gdc-coref,nv2j.0,94935,95025,phaon,94943,94945,Du,melitta
+gdc-coref,nv2j.0,94935,95025,phaon,94953,94956,ihr,sappho
+gdc-coref,nv2j.0,94935,95025,phaon,94957,94961,dein,melitta
+gdc-coref,nv2j.0,94935,95025,phaon,94970,94986,Ganz andre Wogen,Ganz-andre-Wogen
+gdc-coref,nv2j.0,94935,95025,phaon,94996,95000,sich,Ganz-andre-Wogen
+gdc-coref,nv2j.0,94935,95025,phaon,95004,95024,dieser Stolzen Brust,die-fromme-Brust
+gdc-coref,nv2j.0,95031,95217,melitta,95049,95052,sie,sappho
+gdc-coref,nv2j.0,95031,95217,melitta,95065,95068,mir,melitta
+gdc-coref,nv2j.0,95031,95217,melitta,95073,95076,sie,sappho
+gdc-coref,nv2j.0,95031,95217,melitta,95180,95183,mir,melitta
+gdc-coref,nv2j.0,95031,95217,melitta,95189,95192,ich,melitta
+gdc-coref,nv2j.0,95031,95217,melitta,95193,95196,das,das2
+gdc-coref,nv2j.0,95223,95273,rhamnes,95245,95248,dir,melitta
+gdc-coref,nv2j.0,95223,95273,rhamnes,95254,95256,du,melitta
+gdc-coref,nv2j.0,95223,95273,rhamnes,95257,95259,es,das2
+gdc-coref,nv2j.0,95278,95328,phaon,95297,95300,ihr,Wir
+gdc-coref,nv2j.0,95278,95328,phaon,95308,95311,ihr,Wir
+gdc-coref,nv2j.0,95278,95328,phaon,95312,95315,sie,sappho
+gdc-coref,nv2j.0,95333,95436,rhamnes,95343,95346,Sie,sappho
+gdc-coref,nv2j.0,95333,95436,rhamnes,95359,95362,sie,sappho
+gdc-coref,nv2j.0,95333,95436,rhamnes,95394,95404,ihre Liebe,ihre-Liebe
+gdc-coref,nv2j.0,95333,95436,rhamnes,95394,95398,ihre,sappho
+gdc-coref,nv2j.0,95333,95436,rhamnes,95410,95418,ihr Zorn,ihr-Zorn
+gdc-coref,nv2j.0,95333,95436,rhamnes,95410,95413,ihr,sappho
+gdc-coref,nv2j.0,95333,95436,rhamnes,95431,95435,euch,melitta-/-phaon
+gdc-coref,nv2j.0,95442,95468,phaon,95449,95452,Was,Der-flüchtgen-Sklavin-Tod
+gdc-coref,nv2j.0,95442,95468,phaon,95458,95461,sie,sappho
+gdc-coref,nv2j.0,95473,95508,rhamnes,95482,95507,Der flüchtgen Sklavin Tod,Der-flüchtgen-Sklavin-Tod
+gdc-coref,nv2j.0,95473,95508,rhamnes,95482,95503,Der flüchtgen Sklavin,melitta
+gdc-coref,nv2j.0,95538,95573,rhamnes,95547,95572,Die Gesetze dieses Landes,Die-Gesetze-dieses-Landes
+gdc-coref,nv2j.0,95538,95573,rhamnes,95559,95572,dieses Landes,Griechenland
+gdc-coref,nv2j.0,95578,95601,phaon,95585,95588,Ich,phaon
+gdc-coref,nv2j.0,95578,95601,phaon,95597,95600,sie,melitta
+gdc-coref,nv2j.0,95606,95641,rhamnes,95615,95617,Du,phaon
+gdc-coref,nv2j.0,95606,95641,rhamnes,95636,95640,dich,phaon
+gdc-coref,nv2j.0,95646,95898,phaon,95670,95678,die Erde,die-Erde
+gdc-coref,nv2j.0,95646,95898,phaon,95683,95686,mir,phaon
+gdc-coref,nv2j.0,95646,95898,phaon,95706,95713,die See,die-See
+gdc-coref,nv2j.0,95646,95898,phaon,95714,95718,mich,phaon
+gdc-coref,nv2j.0,95646,95898,phaon,95747,95750,sie,sappho
+gdc-coref,nv2j.0,95646,95898,phaon,95798,95802,mich,phaon
+gdc-coref,nv2j.0,95646,95898,phaon,95824,95827,ich,phaon
+gdc-coref,nv2j.0,95646,95898,phaon,95828,95833,diese,melitta
+gdc-coref,nv2j.0,95646,95898,phaon,95843,95854,ihres Zorns,ihr-Zorn
+gdc-coref,nv2j.0,95646,95898,phaon,95843,95848,ihres,sappho
+gdc-coref,nv2j.0,95646,95898,phaon,95857,95860,Sie,sappho
+gdc-coref,nv2j.0,95646,95898,phaon,95872,95886,ihre Drohungen,ihre-Drohungen
+gdc-coref,nv2j.0,95646,95898,phaon,95872,95876,ihre,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,95926,95933,Sapphon,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,95948,95950,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,95962,95964,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,95965,95974,dein Wort,dein-Wort
+gdc-coref,nv2j.0,95905,96831,rhamnes,95965,95969,dein,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,95984,95994,die Schale,die-Schale
+gdc-coref,nv2j.0,95905,96831,rhamnes,96006,96009,der,die-Schale
+gdc-coref,nv2j.0,95905,96831,rhamnes,96010,96024,die Menschheit,der-Sterblichen
+gdc-coref,nv2j.0,95905,96831,rhamnes,96025,96029,ihre,der-Sterblichen
+gdc-coref,nv2j.0,95905,96831,rhamnes,96067,96079,Griechenland,Griechenland
+gdc-coref,nv2j.0,95905,96831,rhamnes,96093,96118,"Blödsichtger, frevler Tor",phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96126,96129,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96130,96133,dir,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96162,96164,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96169,96174,ihren,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96189,96191,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96192,96203,das Kleinod,das-Kleinod
+gdc-coref,nv2j.0,95905,96831,rhamnes,96216,96218,es,das-Kleinod
+gdc-coref,nv2j.0,95905,96831,rhamnes,96219,96223,dein,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96235,96238,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96239,96243,dich,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96256,96259,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96275,96298,Die undankbare Schlange,melitta
+gdc-coref,nv2j.0,95905,96831,rhamnes,96302,96306,sich,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96313,96316,Die,melitta
+gdc-coref,nv2j.0,95905,96831,rhamnes,96338,96346,ihr Herz,"dich,-mein-Herz"
+gdc-coref,nv2j.0,95905,96831,rhamnes,96338,96341,ihr,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96365,96379,ihren Reichtum,ihren-Reichtum
+gdc-coref,nv2j.0,95905,96831,rhamnes,96365,96370,ihren,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96380,96383,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96387,96391,dich,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96404,96407,Der,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96424,96439,solcher Schätze,ihren-Reichtum
+gdc-coref,nv2j.0,95905,96831,rhamnes,96475,96486,ihrem Leben,ihrem-Leben
+gdc-coref,nv2j.0,95905,96831,rhamnes,96475,96480,ihrem,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96512,96515,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96523,96531,der Neid,der-Neid
+gdc-coref,nv2j.0,95905,96831,rhamnes,96555,96567,dieser Trotz,dieser-Trotz
+gdc-coref,nv2j.0,95905,96831,rhamnes,96572,96575,dem,dieser-Trotz
+gdc-coref,nv2j.0,95905,96831,rhamnes,96576,96578,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96584,96588,Dich,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96605,96608,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96610,96612,er,dieser-Trotz
+gdc-coref,nv2j.0,95905,96831,rhamnes,96623,96627,dein,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96642,96644,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96649,96667,deiner Niedrigkeit,deiner-Niedrigkeit
+gdc-coref,nv2j.0,95905,96831,rhamnes,96649,96655,deiner,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96730,96736,Hellas,Griechenland
+gdc-coref,nv2j.0,95905,96831,rhamnes,96751,96754,sie,sappho
+gdc-coref,nv2j.0,95905,96831,rhamnes,96755,96759,dich,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96776,96779,dir,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96780,96789,den Stolz,den-Stolz
+gdc-coref,nv2j.0,95905,96831,rhamnes,96796,96799,dem,den-Stolz
+gdc-coref,nv2j.0,95905,96831,rhamnes,96800,96802,du,phaon
+gdc-coref,nv2j.0,95905,96831,rhamnes,96811,96814,sie,sappho
+gdc-coref,nv2j.0,96837,96890,phaon,96844,96861,Der Dichtung Ruhm,Der-Dichtung-Ruhm
+gdc-coref,nv2j.0,96837,96890,phaon,96844,96856,Der Dichtung,der-Dichtung
+gdc-coref,nv2j.0,96837,96890,phaon,96872,96875,ich,phaon
+gdc-coref,nv2j.0,96837,96890,phaon,96876,96879,ihr,sappho
+gdc-coref,nv2j.0,96895,97643,rhamnes,96905,96907,Du,phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,96914,96916,es,es2
+gdc-coref,nv2j.0,96895,97643,rhamnes,96940,96942,du,phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,96942,96943,s,es2
+gdc-coref,nv2j.0,96895,97643,rhamnes,96963,96974,den Sternen,Den-Sternen
+gdc-coref,nv2j.0,96895,97643,rhamnes,96979,96982,sie,der-Dichtung
+gdc-coref,nv2j.0,96895,97643,rhamnes,96983,96994,ihren Namen,Den-Namen
+gdc-coref,nv2j.0,96895,97643,rhamnes,96983,96988,ihren,der-Dichtung
+gdc-coref,nv2j.0,96895,97643,rhamnes,97043,97054,den Sternen,Den-Sternen
+gdc-coref,nv2j.0,96895,97643,rhamnes,97064,97066,er,Den-Namen
+gdc-coref,nv2j.0,96895,97643,rhamnes,97178,97183,unsre,rhamnes2
+gdc-coref,nv2j.0,96895,97643,rhamnes,97214,97226,Sapphos Lied,ihr-Lied
+gdc-coref,nv2j.0,96895,97643,rhamnes,97214,97221,Sapphos,sappho
+gdc-coref,nv2j.0,96895,97643,rhamnes,97236,97246,den Lippen,"die-Lippen,-die-mein-Mund-berührt"
+gdc-coref,nv2j.0,96895,97643,rhamnes,97271,97279,ihr Name,ihr-Name
+gdc-coref,nv2j.0,96895,97643,rhamnes,97271,97274,ihr,sappho
+gdc-coref,nv2j.0,96895,97643,rhamnes,97286,97295,der deine,der-deine
+gdc-coref,nv2j.0,96895,97643,rhamnes,97290,97295,deine,phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,97298,97307,Der deine,der-deine
+gdc-coref,nv2j.0,96895,97643,rhamnes,97302,97307,deine,phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,97327,97347,"die Unsterblichkeit,","die-Unsterblichkeit,---------------Die-dir-der-Frevel-gibt-an-ihrem-Haupt"
+gdc-coref,nv2j.0,96895,97643,rhamnes,97353,97356,dir,phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,97357,97367,der Frevel,der-Frevel
+gdc-coref,nv2j.0,96895,97643,rhamnes,97376,97387,ihrem Haupt,den-Kopf
+gdc-coref,nv2j.0,96895,97643,rhamnes,97376,97381,ihrem,sappho
+gdc-coref,nv2j.0,96895,97643,rhamnes,97559,97565,Sappho,sappho
+gdc-coref,nv2j.0,96895,97643,rhamnes,97571,97600,"die, die dieses Lied gesungen",sappho
+gdc-coref,nv2j.0,96895,97643,rhamnes,97580,97591,dieses Lied,ihr-Lied
+gdc-coref,nv2j.0,96895,97643,rhamnes,97607,97612,Phaon,phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,97619,97642,"er, der sie hat getötet",phaon
+gdc-coref,nv2j.0,96895,97643,rhamnes,97627,97630,sie,sappho
+gdc-coref,nv2j.0,97649,97667,melitta,97660,97665,Phaon,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97707,97720,Armer Tröster,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97732,97734,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97764,97767,Sie,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,97774,97777,ihr,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,97804,97813,Die Rache,zur-Rache
+gdc-coref,nv2j.0,97697,99510,rhamnes,97834,97840,Sappho,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,97849,97851,Du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97858,97875,der Dichtung Ruhm,Der-Dichtung-Ruhm
+gdc-coref,nv2j.0,97697,99510,rhamnes,97858,97870,der Dichtung,der-Dichtung
+gdc-coref,nv2j.0,97697,99510,rhamnes,97876,97879,ihr,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,97929,97931,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97932,97935,ihr,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,97949,97951,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97957,97969,ihrem Herzen,"dich,-mein-Herz"
+gdc-coref,nv2j.0,97697,99510,rhamnes,97957,97962,ihrem,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,97989,97992,Der,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,97998,98000,er,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98010,98022,ihrem Herzen,"dich,-mein-Herz"
+gdc-coref,nv2j.0,97697,99510,rhamnes,98010,98015,ihrem,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98039,98043,dich,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98056,98068,kein einzger,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98076,98079,Dem,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98080,98083,sie,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98101,98104,der,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98114,98118,sich,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98158,98164,Seinen,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98170,98181,ihrer Milde,ihrer-Milde
+gdc-coref,nv2j.0,97697,99510,rhamnes,98170,98175,ihrer,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98210,98248,"einer, dessen Herz nicht höher schlüge",kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98256,98258,er,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98259,98263,sich,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98264,98273,Mytilenes,Mytilenes
+gdc-coref,nv2j.0,97697,99510,rhamnes,98288,98290,er,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98291,98295,sich,kein-einzger
+gdc-coref,nv2j.0,97697,99510,rhamnes,98296,98303,Sapphos,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98329,98341,jene Bebende,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,98345,98357,deiner Seite,meine-Seite
+gdc-coref,nv2j.0,97697,99510,rhamnes,98345,98351,deiner,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98360,98368,Genossin,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,98420,98424,sich,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98425,98435,die Herrin,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98436,98439,sie,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,98466,98477,die Sklavin,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,98478,98481,dir,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98499,98502,sie,melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,98503,98506,dir,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98529,98542,Sapphos Geist,ihr-Geist
+gdc-coref,nv2j.0,97697,99510,rhamnes,98529,98536,Sapphos,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98549,98584,"Sapphos milder, mütterlicher Geist,",ihr-Geist
+gdc-coref,nv2j.0,97697,99510,rhamnes,98549,98556,Sapphos,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98599,98603,dich,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98608,98613,ihres,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,98644,98653,die Stirn,die-Stirn
+gdc-coref,nv2j.0,97697,99510,rhamnes,98655,98657,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98678,98680,Du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98732,98734,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98783,98787,dich,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98792,98803,dieser Erde,die-Erde
+gdc-coref,nv2j.0,97697,99510,rhamnes,98854,98863,ein Feind,ein-Feind
+gdc-coref,nv2j.0,97697,99510,rhamnes,98864,98874,dem Feinde,dem-Feinde
+gdc-coref,nv2j.0,97697,99510,rhamnes,98875,98879,sich,ein-Feind
+gdc-coref,nv2j.0,97697,99510,rhamnes,98880,98891,des Schönen,das-Schöne
+gdc-coref,nv2j.0,97697,99510,rhamnes,98909,98916,der Ruf,der-Ruf
+gdc-coref,nv2j.0,97697,99510,rhamnes,98921,98927,deinen,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98958,98960,er,der-Ruf
+gdc-coref,nv2j.0,97697,99510,rhamnes,98964,98976,der Menschen,der-Sterblichen
+gdc-coref,nv2j.0,97697,99510,rhamnes,98988,99002,Sapphos Mörder,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,98988,98995,Sapphos,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,99009,99025,der Götter Feind,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99009,99019,der Götter,den-Göttern
+gdc-coref,nv2j.0,97697,99510,rhamnes,99048,99050,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99051,99059,das Land,Griechenland
+gdc-coref,nv2j.0,97697,99510,rhamnes,99076,99114,"ihr, der du Verderben gabst für Schutz",melitta
+gdc-coref,nv2j.0,97697,99510,rhamnes,99085,99087,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99117,99129,Kein Grieche,Kein-Grieche
+gdc-coref,nv2j.0,97697,99510,rhamnes,99137,99140,dir,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99141,99145,sein,Kein-Grieche
+gdc-coref,nv2j.0,97697,99510,rhamnes,99163,99172,Kein Gott,Kein-Gott
+gdc-coref,nv2j.0,97697,99510,rhamnes,99181,99184,dir,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99225,99227,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99307,99309,du,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99410,99414,dich,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99421,99424,Dir,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99425,99438,Sapphos Namen,ihr-Name
+gdc-coref,nv2j.0,97697,99510,rhamnes,99425,99432,Sapphos,sappho
+gdc-coref,nv2j.0,97697,99510,rhamnes,99468,99472,dich,phaon
+gdc-coref,nv2j.0,97697,99510,rhamnes,99473,99481,das Grab,das-Grab
+gdc-coref,nv2j.0,97697,99510,rhamnes,99496,99499,das,das-Grab
+gdc-coref,nv2j.0,97697,99510,rhamnes,99500,99502,du,phaon
+gdc-coref,nv2j.0,99549,99585,phaon,99563,99565,du,rhamnes
+gdc-coref,nv2j.0,99549,99585,phaon,99566,99570,mich,phaon
+gdc-coref,nv2j.0,99590,99687,rhamnes,99600,99602,Du,phaon
+gdc-coref,nv2j.0,99590,99687,rhamnes,99615,99617,du,phaon
+gdc-coref,nv2j.0,99590,99687,rhamnes,99618,99626,die Hohe,sappho
+gdc-coref,nv2j.0,99590,99687,rhamnes,99631,99634,dir,phaon
+gdc-coref,nv2j.0,99590,99687,rhamnes,99674,99676,du,phaon
+gdc-coref,nv2j.0,99693,99709,melitta,99705,99708,ihr,sappho
+gdc-coref,nv2j.0,99714,99753,phaon,99732,99736,mich,phaon
+gdc-coref,nv2j.0,99778,99794,_stage,99778,99786,Eucharis,eucharis
+gdc-coref,nv2j.0,99778,99794,_stage,99788,99794,Vorige,rhamnes-/-eucharis-+-3
+gdc-coref,nv2j.0,99796,99840,eucharis,99811,99813,du,rhamnes
+gdc-coref,nv2j.0,99796,99840,eucharis,99820,99827,Rhamnes,rhamnes
+gdc-coref,nv2j.0,99865,99886,eucharis,99878,99885,Sapphon,sappho
+gdc-coref,nv2j.0,99911,99948,eucharis,99921,99924,Ich,eucharis
+gdc-coref,nv2j.0,99911,99948,eucharis,99934,99937,sie,sappho
+gdc-coref,nv2j.0,99953,99984,rhamnes,99962,99972,Die Götter,den-Göttern
+gdc-coref,nv2j.0,99989,102109,eucharis,100000,100003,Ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,100011,100014,ihr,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100032,100048,zur großen Halle,zur-großen-Halle
+gdc-coref,nv2j.0,99989,102109,eucharis,100072,100075,ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,100080,100083,ihr,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100119,100122,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100171,100185,"die weite See,",die-See
+gdc-coref,nv2j.0,99989,102109,eucharis,100260,100263,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100280,100293,starren Augen,Die-Augen
+gdc-coref,nv2j.0,99989,102109,eucharis,100354,100367,ihresgleichen,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100388,100391,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100392,100396,sich,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100413,100419,Blumen,Blumen
+gdc-coref,nv2j.0,99989,102109,eucharis,100427,100431,Gold,Gold
+gdc-coref,nv2j.0,99989,102109,eucharis,100436,100443,Schmuck,Schmuck
+gdc-coref,nv2j.0,99989,102109,eucharis,100448,100451,was,was2
+gdc-coref,nv2j.0,99989,102109,eucharis,100452,100455,ihr,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100474,100480,wirfts,Schmuck-/-Gold-+-2
+gdc-coref,nv2j.0,99989,102109,eucharis,100493,100506,die laute See,die-See
+gdc-coref,nv2j.0,99989,102109,eucharis,100523,100543,sehnsuchtsvollem Aug,Die-Augen
+gdc-coref,nv2j.0,99989,102109,eucharis,100570,100573,ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,100588,100599,ein Klingen,ein-Klingen
+gdc-coref,nv2j.0,99989,102109,eucharis,100600,100613,durchs Gemach,dein-Gemach
+gdc-coref,nv2j.0,99989,102109,eucharis,100633,100635,es,ein-Klingen
+gdc-coref,nv2j.0,99989,102109,eucharis,100642,100658,ihr ganzes Wesen,ihr-ganzes-Wesen
+gdc-coref,nv2j.0,99989,102109,eucharis,100642,100645,ihr,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100661,100670,Die Leier,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,100705,100710,deren,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,100766,100769,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100834,100843,Die Augen,Die-Augen
+gdc-coref,nv2j.0,99989,102109,eucharis,100848,100857,die Leier,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,100883,100887,sich,die-toten-Züge
+gdc-coref,nv2j.0,99989,102109,eucharis,100897,100911,die toten Züge,die-toten-Züge
+gdc-coref,nv2j.0,99989,102109,eucharis,100943,100953,ihren Mund,ihr-Mund
+gdc-coref,nv2j.0,99989,102109,eucharis,100943,100948,ihren,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,100969,100973,sich,"die-Lippen,-die-mein-Mund-berührt"
+gdc-coref,nv2j.0,99989,102109,eucharis,100974,101002,die strenggeschloßnen Lippen,"die-Lippen,-die-mein-Mund-berührt"
+gdc-coref,nv2j.0,99989,102109,eucharis,101048,101061,Sapphos Munde,ihr-Mund
+gdc-coref,nv2j.0,99989,102109,eucharis,101048,101055,Sapphos,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101074,101081,Sapphos,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101096,101098,du,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101099,101102,mir,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,101112,101115,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101117,101125,Freundin,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101134,101136,du,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101137,101141,mich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,101147,101150,ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,101159,101163,dich,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101165,101173,Freundin,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101177,101185,der Wand,der-Wand
+gdc-coref,nv2j.0,99989,102109,eucharis,101188,101190,Du,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101198,101202,mich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,101239,101242,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101243,101251,die Wand,der-Wand
+gdc-coref,nv2j.0,99989,102109,eucharis,101269,101278,die Leier,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101305,101308,ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,101387,101390,ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,101396,101399,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101405,101420,das Saitenspiel,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101433,101435,es,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101439,101462,"die sturmbewegte Brust,","die-sturmbewegte-Brust,---------------Die-hörbar-laut-den-Atem-nahm-und-gab"
+gdc-coref,nv2j.0,99989,102109,eucharis,101504,101513,Den Kranz,Den-Kranz
+gdc-coref,nv2j.0,99989,102109,eucharis,101520,101546,den olympischen des Sieges,Den-Kranz
+gdc-coref,nv2j.0,99989,102109,eucharis,101536,101546,des Sieges,Sieg
+gdc-coref,nv2j.0,99989,102109,eucharis,101569,101582,dem Hausaltar,den-Altar
+gdc-coref,nv2j.0,99989,102109,eucharis,101594,101597,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101598,101607,ums Haupt,den-Kopf
+gdc-coref,nv2j.0,99989,102109,eucharis,101618,101634,den Purpurmantel,den-Purpurmantel
+gdc-coref,nv2j.0,99989,102109,eucharis,101657,101659,er,den-Purpurmantel
+gdc-coref,nv2j.0,99989,102109,eucharis,101664,101678,ihre Schultern,ihre-Schultern
+gdc-coref,nv2j.0,99989,102109,eucharis,101664,101668,ihre,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101686,101689,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101726,101737,des Altares,den-Altar
+gdc-coref,nv2j.0,99989,102109,eucharis,101738,101750,hohen Stufen,den-Stufen-des-Altars
+gdc-coref,nv2j.0,99989,102109,eucharis,101761,101770,Die Leier,die-Leier
+gdc-coref,nv2j.0,99989,102109,eucharis,101812,101816,ihre,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101863,101866,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101899,101901,er,Kein-Gott
+gdc-coref,nv2j.0,99989,102109,eucharis,101902,101905,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,101938,101957,die schwanken Kniee,die-schwanken-Kniee
+gdc-coref,nv2j.0,99989,102109,eucharis,101994,101997,sie,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,102010,102013,ich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,102027,102031,mich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,102054,102057,Ihr,sappho
+gdc-coref,nv2j.0,99989,102109,eucharis,102087,102091,mich,eucharis
+gdc-coref,nv2j.0,99989,102109,eucharis,102104,102107,ich,eucharis
+gdc-coref,nv2j.0,102115,102207,rhamnes,102140,102143,sie,sappho
+gdc-coref,nv2j.0,102115,102207,rhamnes,102150,102153,ihr,sappho
+gdc-coref,nv2j.0,102115,102207,rhamnes,102161,102164,sie,sappho
+gdc-coref,nv2j.0,102115,102207,rhamnes,102180,102183,Sie,sappho
+gdc-coref,nv2j.0,102115,102207,rhamnes,102190,102193,sie,sappho
+gdc-coref,nv2j.0,102235,102492,_stage,102235,102241,Sappho,sappho
+gdc-coref,nv2j.0,102235,102492,_stage,102282,102298,den Purpurmantel,den-Purpurmantel
+gdc-coref,nv2j.0,102235,102492,_stage,102302,102315,die Schultern,ihre-Schultern
+gdc-coref,nv2j.0,102235,102492,_stage,102317,102328,den Lorbeer,den-Lorbeer
+gdc-coref,nv2j.0,102235,102492,_stage,102333,102343,dem Haupte,den-Kopf
+gdc-coref,nv2j.0,102235,102492,_stage,102345,102361,die goldne Leier,die-Leier
+gdc-coref,nv2j.0,102235,102492,_stage,102390,102407,ihren Dienerinnen,ihren-------------Dienerinnen
+gdc-coref,nv2j.0,102235,102492,_stage,102390,102395,ihren,sappho
+gdc-coref,nv2j.0,102235,102492,_stage,102432,102448,des Säulenganges,des-Säulenganges
+gdc-coref,nv2j.0,102507,102539,melitta,102518,102524,Sappho,sappho
+gdc-coref,nv2j.0,102507,102539,melitta,102528,102538,Gebieterin,sappho
+gdc-coref,nv2j.0,102544,102582,sappho,102579,102581,du,melitta
+gdc-coref,nv2j.0,102587,102712,melitta,102620,102632,meiner Augen,meiner-Augen
+gdc-coref,nv2j.0,102587,102712,melitta,102620,102626,meiner,melitta
+gdc-coref,nv2j.0,102587,102712,melitta,102641,102645,mich,melitta
+gdc-coref,nv2j.0,102587,102712,melitta,102653,102658,deine,sappho
+gdc-coref,nv2j.0,102587,102712,melitta,102674,102677,Was,Was
+gdc-coref,nv2j.0,102587,102712,melitta,102678,102681,dir,sappho
+gdc-coref,nv2j.0,102587,102712,melitta,102697,102699,es,Was
+gdc-coref,nv2j.0,102718,102850,sappho,102735,102737,du,melitta
+gdc-coref,nv2j.0,102718,102850,sappho,102787,102793,deiner,melitta
+gdc-coref,nv2j.0,102718,102850,sappho,102808,102811,Was,Was
+gdc-coref,nv2j.0,102718,102850,sappho,102812,102815,mir,sappho
+gdc-coref,nv2j.0,102718,102850,sappho,102824,102826,es,Was
+gdc-coref,nv2j.0,102718,102850,sappho,102831,102834,mir,sappho
+gdc-coref,nv2j.0,102856,102879,phaon,102871,102877,Sappho,sappho
+gdc-coref,nv2j.0,102884,102941,sappho,102907,102911,mich,sappho
+gdc-coref,nv2j.0,102884,102941,sappho,102914,102917,Ich,sappho
+gdc-coref,nv2j.0,102884,102941,sappho,102922,102933,den Göttern,den-Göttern
+gdc-coref,nv2j.0,102947,103009,phaon,102960,102962,du,sappho
+gdc-coref,nv2j.0,102947,103009,phaon,102963,102967,mich,phaon
+gdc-coref,nv2j.0,102947,103009,phaon,102986,102992,Sappho,sappho
+gdc-coref,nv2j.0,103015,103196,sappho,103024,103026,Du,phaon
+gdc-coref,nv2j.0,103015,103196,sappho,103069,103072,Ich,sappho
+gdc-coref,nv2j.0,103015,103196,sappho,103080,103084,dich,phaon
+gdc-coref,nv2j.0,103015,103196,sappho,103094,103098,mich,sappho
+gdc-coref,nv2j.0,103015,103196,sappho,103110,103112,Du,phaon
+gdc-coref,nv2j.0,103015,103196,sappho,103127,103136,mein Herz,"dich,-mein-Herz"
+gdc-coref,nv2j.0,103015,103196,sappho,103127,103131,mein,sappho
+gdc-coref,nv2j.0,103015,103196,sappho,103175,103180,meine,sappho
+gdc-coref,nv2j.0,103202,103233,phaon,103220,103222,du,sappho
+gdc-coref,nv2j.0,103202,103233,phaon,103223,103227,mich,phaon
+gdc-coref,nv2j.0,103238,103636,sappho,103291,103293,Du,phaon
+gdc-coref,nv2j.0,103238,103636,sappho,103300,103303,mir,sappho
+gdc-coref,nv2j.0,103238,103636,sappho,103319,103321,es,es3
+gdc-coref,nv2j.0,103238,103636,sappho,103337,103341,mirs,es3
+gdc-coref,nv2j.0,103238,103636,sappho,103437,103450,unsern Nachen,unsern-Nachen
+gdc-coref,nv2j.0,103238,103636,sappho,103437,103443,unsern,Wir-/-sappho
+gdc-coref,nv2j.0,103238,103636,sappho,103496,103501,jeder,jeder
+gdc-coref,nv2j.0,103238,103636,sappho,103510,103516,seinen,jeder
+gdc-coref,nv2j.0,103238,103636,sappho,103594,103598,sich,jeder
+gdc-coref,nv2j.0,103613,103636,_stage,103613,103623,Die Stimme,Sapphos-Stimme
+gdc-coref,nv2j.0,103613,103636,_stage,103632,103635,ihr,sappho
+gdc-coref,nv2j.0,103640,103663,phaon,103656,103662,Sappho,sappho
+gdc-coref,nv2j.0,103668,104078,sappho,103687,103690,uns,sappho-/-phaon
+gdc-coref,nv2j.0,103710,103725,_stage,103713,103724,den übrigen,ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,103668,104078,sappho,103728,103763,"Ihr, die ihr Sapphon schwach gesehn",ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,103668,104078,sappho,103737,103740,ihr,ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,103668,104078,sappho,103776,103779,Ich,sappho
+gdc-coref,nv2j.0,103668,104078,sappho,103806,103810,euch,ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,103668,104078,sappho,103842,103851,der Bogen,der-Bogen
+gdc-coref,nv2j.0,103668,104078,sappho,103852,103857,seine,der-Bogen
+gdc-coref,nv2j.0,103867,103905,_stage,103871,103880,den Altar,den-Altar
+gdc-coref,nv2j.0,103668,104078,sappho,103907,103917,Die Flamme,Die-Flamme
+gdc-coref,nv2j.0,103668,104078,sappho,103925,103936,Aphroditens,Aphrodite
+gdc-coref,nv2j.0,103668,104078,sappho,103951,103954,sie,Die-Flamme
+gdc-coref,nv2j.0,103668,104078,sappho,103966,103979,das Morgenrot,das-Morgenrot
+gdc-coref,nv2j.0,103668,104078,sappho,104015,104019,euch,ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,103668,104078,sappho,104028,104032,mich,sappho
+gdc-coref,nv2j.0,103668,104078,sappho,104054,104064,den Meinen,den-Göttern
+gdc-coref,nv2j.0,103668,104078,sappho,104065,104069,mich,sappho
+gdc-coref,nv2j.0,104084,104160,rhamnes,104093,104096,Sie,sappho
+gdc-coref,nv2j.0,104084,104160,rhamnes,104109,104112,uns,ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,104084,104160,rhamnes,104130,104138,ihr alle,ein_landmann-/-ihren-------------Di…-+-3
+gdc-coref,nv2j.0,104141,104160,_stage,104148,104152,sich,ein_landmann-/-ihren-------------Di…-+-4
+gdc-coref,nv2j.0,104164,105987,sappho,104184,104206,"Erhabne, heilge Götter",den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104209,104212,Ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104222,104235,reichem Segen,reichem-Segen
+gdc-coref,nv2j.0,104164,105987,sappho,104236,104240,mich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104257,104267,meine Hand,deiner-Hand
+gdc-coref,nv2j.0,104164,105987,sappho,104257,104262,meine,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104273,104276,ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104277,104293,des Sanges Bogen,der-Bogen
+gdc-coref,nv2j.0,104164,105987,sappho,104296,104308,Der Dichtung,der-Dichtung
+gdc-coref,nv2j.0,104164,105987,sappho,104328,104331,ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104332,104335,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104338,104346,Ein Herz,"dich,-mein-Herz"
+gdc-coref,nv2j.0,104164,105987,sappho,104358,104369,einen Geist,ihr-Geist
+gdc-coref,nv2j.0,104164,105987,sappho,104408,104411,ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104412,104415,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104426,104429,Ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104439,104452,reichem Segen,reichem-Segen
+gdc-coref,nv2j.0,104164,105987,sappho,104453,104457,mich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104471,104474,Ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104480,104484,euch,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104489,104492,Ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104502,104506,Sieg,Sieg
+gdc-coref,nv2j.0,104164,105987,sappho,104507,104526,dies schwache Haupt,den-Kopf
+gdc-coref,nv2j.0,104164,105987,sappho,104624,104641,mein goldnes Lied,ihr-Lied
+gdc-coref,nv2j.0,104164,105987,sappho,104624,104628,mein,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104671,104679,der Erde,die-Erde
+gdc-coref,nv2j.0,104164,105987,sappho,104708,104711,Ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104717,104721,euch,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104726,104729,Ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104773,104786,dieses Lebens,ihrem-Leben
+gdc-coref,nv2j.0,104164,105987,sappho,104787,104807,süß umkränzten Kelch,ihn
+gdc-coref,nv2j.0,104164,105987,sappho,104861,104866,eurem,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104884,104887,ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104888,104891,ihn,ihn
+gdc-coref,nv2j.0,104164,105987,sappho,104897,104922,den süß umkränzten Becher,ihn
+gdc-coref,nv2j.0,104164,105987,sappho,104960,104963,ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,104969,104972,ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,104973,104976,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105001,105004,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105034,105038,euch,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105061,105073,die Schwäche,die-Schwäche
+gdc-coref,nv2j.0,104164,105987,sappho,105105,105108,sie,die-Schwäche
+gdc-coref,nv2j.0,104164,105987,sappho,105144,105149,ihres,die-Schwäche
+gdc-coref,nv2j.0,104164,105987,sappho,105171,105174,ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105175,105178,sie,die-Schwäche
+gdc-coref,nv2j.0,104164,105987,sappho,105195,105199,eure,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105217,105220,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105279,105283,eure,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105322,105327,eurer,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105347,105378,"des Toren, der sich weise dünkt","des-Toren,-der-sich-weise-dünkt"
+gdc-coref,nv2j.0,104164,105987,sappho,105362,105366,sich,"des-Toren,-der-sich-weise-dünkt"
+gdc-coref,nv2j.0,104164,105987,sappho,105381,105384,Ihr,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105434,105438,mich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105457,105460,ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105480,105483,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105529,105532,ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105533,105537,mich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105569,105572,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105592,105595,mir,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105622,105632,Die Flamme,Die-Flamme
+gdc-coref,nv2j.0,104164,105987,sappho,105644,105653,die Sonne,Die-Sonne
+gdc-coref,nv2j.0,104164,105987,sappho,105663,105666,Ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105674,105677,ich,sappho
+gdc-coref,nv2j.0,104164,105987,sappho,105701,105711,ihr Götter,den-Göttern
+gdc-coref,nv2j.0,104164,105987,sappho,105716,105724,Du Phaon,phaon
+gdc-coref,nv2j.0,104164,105987,sappho,105726,105736,Du Melitta,melitta
+gdc-coref,nv2j.0,105753,105782,_stage,105753,105758,Phaon,phaon
+gdc-coref,nv2j.0,105753,105782,_stage,105763,105773,die Stirne,die-Stirn
+gdc-coref,nv2j.0,104164,105987,sappho,105793,105797,dich,phaon
+gdc-coref,nv2j.0,105828,105846,_stage,105828,105836,Melitten,melitta
+gdc-coref,nv2j.0,104164,105987,sappho,105871,105874,dir,melitta
+gdc-coref,nv2j.0,104164,105987,sappho,105906,105922,der Liebesgöttin,Aphrodite
+gdc-coref,nv2j.0,104164,105987,sappho,105923,105928,Altar,den-Altar
+gdc-coref,nv2j.0,104164,105987,sappho,105938,105942,sich,dunkles-Los
+gdc-coref,nv2j.0,104164,105987,sappho,105943,105964,der Liebe dunkles Los,dunkles-Los
+gdc-coref,nv2j.0,104164,105987,sappho,105943,105952,der Liebe,die-Lieb
+gdc-coref,nv2j.0,105968,105987,_stage,105973,105983,dem Altare,den-Altar
+gdc-coref,nv2j.0,105991,106085,rhamnes,106012,106015,sie,sappho
+gdc-coref,nv2j.0,105991,106085,rhamnes,106030,106043,all ihr Wesen,ihr-ganzes-Wesen
+gdc-coref,nv2j.0,105991,106085,rhamnes,106034,106037,ihr,sappho
+gdc-coref,nv2j.0,105991,106085,rhamnes,106052,106069,der Unsterblichen,den-Göttern
+gdc-coref,nv2j.0,105991,106085,rhamnes,106081,106084,sie,sappho
+gdc-coref,nv2j.0,106098,106180,_stage,106102,106125,eine Erhöhung des Ufers,eine-Erhöhung-des-Ufers
+gdc-coref,nv2j.0,106098,106180,_stage,106116,106125,des Ufers,dem-Ufer
+gdc-coref,nv2j.0,106098,106180,_stage,106141,106150,die Hände,die-Hände
+gdc-coref,nv2j.0,106098,106180,_stage,106156,106166,die beiden,melitta-/-phaon
+gdc-coref,nv2j.0,106091,106394,sappho,106182,106194,Den Menschen,der-Sterblichen
+gdc-coref,nv2j.0,106091,106394,sappho,106195,106200,Liebe,die-Lieb
+gdc-coref,nv2j.0,106091,106394,sappho,106205,106216,den Göttern,den-Göttern
+gdc-coref,nv2j.0,106091,106394,sappho,106217,106226,Ehrfurcht,Ehrfurcht
+gdc-coref,nv2j.0,106091,106394,sappho,106243,106247,euch,melitta-/-phaon
+gdc-coref,nv2j.0,106091,106394,sappho,106266,106270,mein,sappho
+gdc-coref,nv2j.0,106091,106394,sappho,106282,106285,ich,sappho
+gdc-coref,nv2j.0,106091,106394,sappho,106304,106314,des Lebens,ihrem-Leben
+gdc-coref,nv2j.0,106091,106394,sappho,106317,106327,Ihr Götter,den-Göttern
+gdc-coref,nv2j.0,106091,106394,sappho,106336,106339,sie,melitta-/-phaon
+gdc-coref,nv2j.0,106091,106394,sappho,106350,106354,mich,sappho
+gdc-coref,nv2j.0,106362,106394,_stage,106369,106373,sich,sappho
+gdc-coref,nv2j.0,106362,106394,_stage,106374,106384,vom Felsen,eine-Erhöhung-des-Ufers
+gdc-coref,nv2j.0,106362,106394,_stage,106385,106393,ins Meer,die-See
+gdc-coref,nv2j.0,106398,106427,phaon,106420,106426,Sappho,sappho
+gdc-coref,nv2j.0,106432,106469,melitta,106446,106449,sie,sappho
+gdc-coref,nv2j.0,106432,106469,melitta,106458,106461,sie,sappho
+gdc-coref,nv2j.0,106480,106505,_stage,106484,106492,Melitten,melitta
+gdc-coref,nv2j.0,106474,106563,phaon,106526,106534,ans Ufer,dem-Ufer
+gdc-coref,nv2j.0,106576,106599,_stage,106580,106589,aufs Ufer,dem-Ufer
+gdc-coref,nv2j.0,106568,106739,rhamnes,106602,106612,Ihr Götter,den-Göttern
+gdc-coref,nv2j.0,106568,106739,rhamnes,106630,106641,jene Klippe,jene-Klippe
+gdc-coref,nv2j.0,106568,106739,rhamnes,106652,106655,sie,sappho
+gdc-coref,nv2j.0,106568,106739,rhamnes,106656,106659,die,jene-Klippe
+gdc-coref,nv2j.0,106568,106739,rhamnes,106665,106668,sie,sappho
+gdc-coref,nv2j.0,106568,106739,rhamnes,106705,106708,sie,sappho
+gdc-coref,nv2j.0,106745,106798,phaon,106767,106769,du,rhamnes
+gdc-coref,nv2j.0,106803,106959,rhamnes,106859,106862,ihr,sappho
+gdc-coref,nv2j.0,106803,106959,rhamnes,106878,106881,sie,sappho
+gdc-coref,nv2j.0,106803,106959,rhamnes,106896,106914,diese falsche Erde,die-Erde
+gdc-coref,nv2j.0,106803,106959,rhamnes,106925,106929,sich,sappho
+gdc-coref,nv2j.0,106803,106959,rhamnes,106933,106943,des Meeres,die-See
+gdc-coref,nv2j.0,106999,107031,phaon,107010,107013,mir,phaon
+gdc-coref,nv2j.0,107036,107208,rhamnes,107066,107077,der Lorbeer,den-Lorbeer
+gdc-coref,nv2j.0,107036,107208,rhamnes,107082,107097,das Saitenspiel,das-Saitenspiel
+gdc-coref,nv2j.0,107036,107208,rhamnes,107122,107127,Erden,die-Erde
+gdc-coref,nv2j.0,107036,107208,rhamnes,107128,107139,ihre Heimat,ihre-Heimat
+gdc-coref,nv2j.0,107036,107208,rhamnes,107128,107132,ihre,sappho
+gdc-coref,nv2j.0,107036,107208,rhamnes,107172,107175,Sie,sappho
+gdc-coref,nv2j.0,107036,107208,rhamnes,107198,107207,den Ihren,den-Göttern
+gdc-coref,nv2j.0,107036,107208,rhamnes,107202,107207,Ihren,sappho

@@ -1,0 +1,2295 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,str8.0,1123,1177,zangler,1132,1135,Ich,zangler
+gdc-coref,str8.0,1182,1230,sonders,1195,1198,ich,sonders
+gdc-coref,str8.0,1235,1290,zangler,1252,1257,meine,zangler
+gdc-coref,str8.0,1340,1384,zangler,1359,1362,ich,zangler
+gdc-coref,str8.0,1389,1450,sonders,1424,1427,ich,sonders
+gdc-coref,str8.0,1485,1572,sonders,1533,1537,mich,sonders
+gdc-coref,str8.0,1485,1572,sonders,1539,1544,Meine,sonders
+gdc-coref,str8.0,1602,1633,sonders,1611,1614,Ich,sonders
+gdc-coref,str8.0,1837,1962,sonders,1858,1861,ich,sonders
+gdc-coref,str8.0,1837,1962,sonders,1883,1886,ich,sonders
+gdc-coref,str8.0,1837,1962,sonders,1933,1939,meinem,sonders
+gdc-coref,str8.0,1967,2230,zangler,2130,2133,ich,zangler
+gdc-coref,str8.0,1967,2230,zangler,2183,2186,ich,zangler
+gdc-coref,str8.0,1967,2230,zangler,2187,2192,meine,zangler
+gdc-coref,str8.0,2236,2280,sonders,2256,2259,ich,sonders
+gdc-coref,str8.0,2285,2558,zangler,2483,2487,mein,zangler
+gdc-coref,str8.0,2285,2558,zangler,2494,2499,meine,zangler
+gdc-coref,str8.0,3356,3453,zangler,3368,3372,mein,zangler
+gdc-coref,str8.0,3356,3453,zangler,3428,3434,meiner,zangler
+gdc-coref,str8.0,3560,3694,zangler,3659,3662,ich,zangler
+gdc-coref,str8.0,3699,3732,gertrud,3717,3720,ich,gertrud
+gdc-coref,str8.0,3961,4001,gertrud,3970,3973,Ich,gertrud
+gdc-coref,str8.0,4006,4228,zangler,4041,4047,meiner,zangler
+gdc-coref,str8.0,4006,4228,zangler,4092,4095,ich,zangler
+gdc-coref,str8.0,4272,4795,zangler,4311,4314,ich,zangler
+gdc-coref,str8.0,4272,4795,zangler,4723,4728,meine,zangler
+gdc-coref,str8.0,4272,4795,zangler,4756,4759,mir,zangler
+gdc-coref,str8.0,4903,5279,zangler,5016,5020,mich,zangler
+gdc-coref,str8.0,4903,5279,zangler,5029,5032,Ich,zangler
+gdc-coref,str8.0,4903,5279,zangler,5254,5257,ich,zangler
+gdc-coref,str8.0,5553,5608,zangler,5562,5565,Ich,zangler
+gdc-coref,str8.0,5613,5825,kraps,5685,5688,Ich,kraps
+gdc-coref,str8.0,5613,5825,kraps,5789,5792,ich,kraps
+gdc-coref,str8.0,5613,5825,kraps,5796,5800,mein,kraps
+gdc-coref,str8.0,5858,5991,kraps,5865,5868,Ich,kraps
+gdc-coref,str8.0,5858,5991,kraps,5939,5943,mich,kraps
+gdc-coref,str8.0,5996,6096,zangler,6059,6062,ich,zangler
+gdc-coref,str8.0,5996,6096,zangler,6092,6095,mir,zangler
+gdc-coref,str8.0,6101,6343,kraps,6119,6122,Ich,kraps
+gdc-coref,str8.0,6101,6343,kraps,6197,6200,mir,kraps
+gdc-coref,str8.0,6101,6343,kraps,6257,6260,ich,kraps
+gdc-coref,str8.0,6101,6343,kraps,6266,6270,mich,kraps
+gdc-coref,str8.0,6348,6497,zangler,6371,6374,ich,zangler
+gdc-coref,str8.0,6348,6497,zangler,6389,6392,ich,zangler
+gdc-coref,str8.0,6348,6497,zangler,6407,6410,ich,zangler
+gdc-coref,str8.0,6348,6497,zangler,6450,6453,ich,zangler
+gdc-coref,str8.0,6348,6497,zangler,6476,6479,ich,zangler
+gdc-coref,str8.0,6348,6497,zangler,6480,6483,mir,zangler
+gdc-coref,str8.0,6585,6773,kraps,6611,6614,ich,kraps
+gdc-coref,str8.0,6585,6773,kraps,6659,6662,ich,kraps
+gdc-coref,str8.0,6585,6773,kraps,6704,6708,mich,kraps
+gdc-coref,str8.0,6585,6773,kraps,6722,6725,ich,kraps
+gdc-coref,str8.0,6777,6881,zangler,6873,6876,ich,zangler
+gdc-coref,str8.0,7074,7148,zangler,7096,7101,meine,zangler
+gdc-coref,str8.0,7074,7148,zangler,7137,7140,ich,zangler
+gdc-coref,str8.0,7205,7326,zangler,7305,7308,ich,zangler
+gdc-coref,str8.0,7331,7429,gertrud,7351,7354,ich,gertrud
+gdc-coref,str8.0,7433,7496,zangler,7485,7488,ich,zangler
+gdc-coref,str8.0,7501,7675,gertrud,7615,7618,ich,gertrud
+gdc-coref,str8.0,7986,8073,melchior,8028,8031,Ich,melchior
+gdc-coref,str8.0,8078,8227,zangler,8119,8122,ich,zangler
+gdc-coref,str8.0,8232,8351,melchior,8242,8245,Ich,melchior
+gdc-coref,str8.0,8356,8389,zangler,8365,8368,Ich,zangler
+gdc-coref,str8.0,8394,8483,melchior,8416,8419,ich,melchior
+gdc-coref,str8.0,8488,8587,zangler,8540,8543,ich,zangler
+gdc-coref,str8.0,8740,8784,zangler,8779,8782,mir,zangler
+gdc-coref,str8.0,8952,9077,melchior,9045,9048,ich,melchior
+gdc-coref,str8.0,9172,9317,melchior,9217,9220,ich,melchior
+gdc-coref,str8.0,9172,9317,melchior,9286,9289,ich,melchior
+gdc-coref,str8.0,9383,9428,melchior,9397,9402,meine,melchior
+gdc-coref,str8.0,9552,9579,melchior,9562,9565,Ich,melchior
+gdc-coref,str8.0,9645,9763,melchior,9744,9747,ich,melchior
+gdc-coref,str8.0,9768,9858,zangler,9781,9784,mir,zangler
+gdc-coref,str8.0,9863,9960,melchior,9925,9928,ich,melchior
+gdc-coref,str8.0,9965,10035,zangler,9986,9989,mir,zangler
+gdc-coref,str8.0,10158,10327,melchior,10234,10237,mir,melchior
+gdc-coref,str8.0,10158,10327,melchior,10277,10281,mich,melchior
+gdc-coref,str8.0,10475,10579,melchior,10539,10542,ich,melchior
+gdc-coref,str8.0,10723,10850,zangler,10745,10748,ich,zangler
+gdc-coref,str8.0,10723,10850,zangler,10770,10773,ich,zangler
+gdc-coref,str8.0,10855,10947,melchior,10903,10906,ich,melchior
+gdc-coref,str8.0,10855,10947,melchior,10907,10910,mir,melchior
+gdc-coref,str8.0,10855,10947,melchior,10925,10928,ich,melchior
+gdc-coref,str8.0,11240,11268,zangler,11259,11262,ich,zangler
+gdc-coref,str8.0,11273,11522,melchior,11283,11286,Ich,melchior
+gdc-coref,str8.0,11273,11522,melchior,11310,11315,meine,melchior
+gdc-coref,str8.0,11273,11522,melchior,11333,11336,ich,melchior
+gdc-coref,str8.0,11273,11522,melchior,11384,11387,ich,melchior
+gdc-coref,str8.0,11273,11522,melchior,11499,11502,ich,melchior
+gdc-coref,str8.0,11527,11653,zangler,11603,11606,mir,zangler
+gdc-coref,str8.0,11702,11751,hupfer,11717,11720,ich,hupfer
+gdc-coref,str8.0,11756,11853,zangler,11814,11818,mich,zangler
+gdc-coref,str8.0,12221,12424,hupfer,12389,12392,ich,hupfer
+gdc-coref,str8.0,12651,12724,melchior,12689,12692,ich,melchior
+gdc-coref,str8.0,12763,12973,melchior,12773,12776,Ich,melchior
+gdc-coref,str8.0,12763,12973,melchior,12832,12835,mir,melchior
+gdc-coref,str8.0,12978,13070,hupfer,13037,13040,ich,hupfer
+gdc-coref,str8.0,13075,13282,zangler,13277,13280,mir,zangler
+gdc-coref,str8.0,13529,13604,zangler,13577,13580,mir,zangler
+gdc-coref,str8.0,13609,13637,hupfer,13617,13620,Ich,hupfer
+gdc-coref,str8.0,13643,13688,zangler,13662,13665,mir,zangler
+gdc-coref,str8.0,13693,13827,melchior,13703,13707,Mein,melchior
+gdc-coref,str8.0,13832,13877,zangler,13869,13872,ich,zangler
+gdc-coref,str8.0,13882,13913,melchior,13892,13895,Ich,melchior
+gdc-coref,str8.0,13918,13969,zangler,13932,13935,ich,zangler
+gdc-coref,str8.0,13918,13969,zangler,13961,13964,ich,zangler
+gdc-coref,str8.0,14174,14252,zangler,14225,14228,mir,zangler
+gdc-coref,str8.0,14308,14338,zangler,14322,14325,ich,zangler
+gdc-coref,str8.0,14343,14559,hupfer,14532,14536,mich,hupfer
+gdc-coref,str8.0,14730,14772,zangler,14745,14749,mein,zangler
+gdc-coref,str8.0,14801,14874,zangler,14810,14814,Mein,zangler
+gdc-coref,str8.0,14879,14938,melchior,14894,14897,ich,melchior
+gdc-coref,str8.0,14879,14938,melchior,14921,14925,mich,melchior
+gdc-coref,str8.0,14943,15277,zangler,14967,14970,ich,zangler
+gdc-coref,str8.0,14943,15277,zangler,15090,15096,meinen,zangler
+gdc-coref,str8.0,14943,15277,zangler,15135,15139,mich,zangler
+gdc-coref,str8.0,14943,15277,zangler,15170,15174,mich,zangler
+gdc-coref,str8.0,15282,15411,melchior,15309,15312,ich,melchior
+gdc-coref,str8.0,15282,15411,melchior,15331,15337,meinen,melchior
+gdc-coref,str8.0,15463,15610,melchior,15485,15488,ich,melchior
+gdc-coref,str8.0,15762,15828,zangler,15787,15790,ich,zangler
+gdc-coref,str8.0,15833,15884,melchior,15848,15853,meine,melchior
+gdc-coref,str8.0,15925,16015,melchior,15943,15947,mein,melchior
+gdc-coref,str8.0,16019,16556,zangler,16099,16102,ich,zangler
+gdc-coref,str8.0,16019,16556,zangler,16144,16148,Mich,zangler
+gdc-coref,str8.0,16019,16556,zangler,16382,16385,ich,zangler
+gdc-coref,str8.0,16019,16556,zangler,16427,16430,ich,zangler
+gdc-coref,str8.0,16019,16556,zangler,16492,16495,ich,zangler
+gdc-coref,str8.0,16819,16920,zangler,16867,16872,meine,zangler
+gdc-coref,str8.0,16819,16920,zangler,16902,16905,ich,zangler
+gdc-coref,str8.0,16926,17316,gertrud,16953,16956,ich,gertrud
+gdc-coref,str8.0,16926,17316,gertrud,17025,17028,ich,gertrud
+gdc-coref,str8.0,16926,17316,gertrud,17055,17058,ich,gertrud
+gdc-coref,str8.0,16926,17316,gertrud,17127,17130,ich,gertrud
+gdc-coref,str8.0,16926,17316,gertrud,17171,17174,mir,gertrud
+gdc-coref,str8.0,16926,17316,gertrud,17214,17217,ich,gertrud
+gdc-coref,str8.0,16926,17316,gertrud,17267,17270,ich,gertrud
+gdc-coref,str8.0,20683,20733,christoph,20725,20729,mich,christoph
+gdc-coref,str8.0,20738,20828,weinberl,20762,20765,ich,weinberl
+gdc-coref,str8.0,20898,21057,weinberl,20919,20923,mich,weinberl
+gdc-coref,str8.0,20898,21057,weinberl,20955,20958,ich,weinberl
+gdc-coref,str8.0,21062,21105,christoph,21101,21104,mir,christoph
+gdc-coref,str8.0,21110,21259,weinberl,21203,21206,ich,weinberl
+gdc-coref,str8.0,21361,22680,weinberl,21386,21392,meiner,weinberl
+gdc-coref,str8.0,21361,22680,weinberl,22453,22456,ich,weinberl
+gdc-coref,str8.0,22685,22767,christoph,22707,22710,ich,christoph
+gdc-coref,str8.0,22685,22767,christoph,22763,22766,mir,christoph
+gdc-coref,str8.0,23193,23361,zangler,23202,23205,Ich,zangler
+gdc-coref,str8.0,23193,23361,zangler,23236,23240,mein,zangler
+gdc-coref,str8.0,23366,23417,christoph,23388,23391,Ich,christoph
+gdc-coref,str8.0,23652,23775,zangler,23691,23694,ich,zangler
+gdc-coref,str8.0,23652,23775,zangler,23722,23728,meinem,zangler
+gdc-coref,str8.0,23834,23999,zangler,23961,23964,ich,zangler
+gdc-coref,str8.0,24240,24311,zangler,24260,24263,ich,zangler
+gdc-coref,str8.0,24316,24516,weinberl,24358,24361,ich,weinberl
+gdc-coref,str8.0,24316,24516,weinberl,24419,24422,mir,weinberl
+gdc-coref,str8.0,24913,24978,weinberl,24949,24952,ich,weinberl
+gdc-coref,str8.0,25449,25649,zangler,25513,25517,mein,zangler
+gdc-coref,str8.0,25449,25649,zangler,25575,25581,meiner,zangler
+gdc-coref,str8.0,25449,25649,zangler,25627,25630,ich,zangler
+gdc-coref,str8.0,25449,25649,zangler,25634,25640,meinem,zangler
+gdc-coref,str8.0,25654,25695,weinberl,25683,25686,Ich,weinberl
+gdc-coref,str8.0,25700,26101,zangler,25713,25719,meiner,zangler
+gdc-coref,str8.0,25700,26101,zangler,25821,25824,Ich,zangler
+gdc-coref,str8.0,25700,26101,zangler,25862,25868,meiner,zangler
+gdc-coref,str8.0,25700,26101,zangler,25962,25965,ich,zangler
+gdc-coref,str8.0,26201,26451,zangler,26295,26298,ich,zangler
+gdc-coref,str8.0,26201,26451,zangler,26309,26312,ich,zangler
+gdc-coref,str8.0,26201,26451,zangler,26313,26317,mich,zangler
+gdc-coref,str8.0,26201,26451,zangler,26354,26357,ich,zangler
+gdc-coref,str8.0,26201,26451,zangler,26441,26444,ich,zangler
+gdc-coref,str8.0,26622,26819,zangler,26660,26664,mein,zangler
+gdc-coref,str8.0,26622,26819,zangler,26700,26706,meiner,zangler
+gdc-coref,str8.0,26622,26819,zangler,26723,26727,mein,zangler
+gdc-coref,str8.0,26622,26819,zangler,26766,26772,meiner,zangler
+gdc-coref,str8.0,26970,27107,weinberl,27091,27094,ich,weinberl
+gdc-coref,str8.0,27113,27259,christoph,27220,27223,ich,christoph
+gdc-coref,str8.0,27264,27432,weinberl,27316,27322,meiner,weinberl
+gdc-coref,str8.0,27437,27476,christoph,27448,27451,Ich,christoph
+gdc-coref,str8.0,27437,27476,christoph,27458,27463,meine,christoph
+gdc-coref,str8.0,27612,27788,weinberl,27691,27695,mich,weinberl
+gdc-coref,str8.0,27612,27788,weinberl,27707,27710,mir,weinberl
+gdc-coref,str8.0,27793,27847,christoph,27809,27812,ich,christoph
+gdc-coref,str8.0,27852,27994,weinberl,27900,27904,mich,weinberl
+gdc-coref,str8.0,27999,28168,christoph,28047,28050,ich,christoph
+gdc-coref,str8.0,27999,28168,christoph,28065,28069,mein,christoph
+gdc-coref,str8.0,27999,28168,christoph,28128,28131,ich,christoph
+gdc-coref,str8.0,27999,28168,christoph,28132,28135,mir,christoph
+gdc-coref,str8.0,28173,28818,weinberl,28195,28198,mir,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29072,29075,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29108,29114,meinem,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29127,29130,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29173,29176,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29219,29222,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29274,29277,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29579,29582,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29649,29652,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29727,29730,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29737,29740,ich,weinberl
+gdc-coref,str8.0,28896,29805,weinberl,29792,29795,mir,weinberl
+gdc-coref,str8.0,29810,29984,christoph,29825,29828,mir,christoph
+gdc-coref,str8.0,29810,29984,christoph,29893,29898,meine,christoph
+gdc-coref,str8.0,29810,29984,christoph,29930,29933,ich,christoph
+gdc-coref,str8.0,29810,29984,christoph,29934,29937,mir,christoph
+gdc-coref,str8.0,29989,30066,weinberl,30020,30024,mich,weinberl
+gdc-coref,str8.0,29989,30066,weinberl,30033,30036,ich,weinberl
+gdc-coref,str8.0,30125,30176,weinberl,30166,30169,ich,weinberl
+gdc-coref,str8.0,30210,30244,weinberl,30220,30223,Ich,weinberl
+gdc-coref,str8.0,30210,30244,weinberl,30230,30233,mir,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30352,30355,ich,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30356,30359,mir,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30398,30401,ich,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30402,30405,mir,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30423,30429,meines,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30477,30480,ich,weinberl
+gdc-coref,str8.0,30273,30501,weinberl,30487,30490,mir,weinberl
+gdc-coref,str8.0,30608,30725,christoph,30632,30635,Ich,christoph
+gdc-coref,str8.0,30817,30908,christoph,30856,30861,meine,christoph
+gdc-coref,str8.0,30817,30908,christoph,30883,30886,ich,christoph
+gdc-coref,str8.0,31001,31180,christoph,31022,31025,ich,christoph
+gdc-coref,str8.0,31001,31180,christoph,31066,31069,ich,christoph
+gdc-coref,str8.0,31001,31180,christoph,31091,31094,ich,christoph
+gdc-coref,str8.0,31001,31180,christoph,31099,31104,meine,christoph
+gdc-coref,str8.0,31001,31180,christoph,31154,31158,mich,christoph
+gdc-coref,str8.0,31001,31180,christoph,31166,31169,Ich,christoph
+gdc-coref,str8.0,31185,31539,weinberl,31222,31225,mir,weinberl
+gdc-coref,str8.0,31185,31539,weinberl,31253,31256,ich,weinberl
+gdc-coref,str8.0,31616,31909,weinberl,31880,31883,ich,weinberl
+gdc-coref,str8.0,32104,32543,weinberl,32304,32307,mir,weinberl
+gdc-coref,str8.0,32579,32814,weinberl,32594,32597,ich,weinberl
+gdc-coref,str8.0,32579,32814,weinberl,32673,32676,ich,weinberl
+gdc-coref,str8.0,32579,32814,weinberl,32677,32681,mich,weinberl
+gdc-coref,str8.0,32579,32814,weinberl,32722,32725,ich,weinberl
+gdc-coref,str8.0,32579,32814,weinberl,32764,32768,mich,weinberl
+gdc-coref,str8.0,32579,32814,weinberl,32790,32793,ich,weinberl
+gdc-coref,str8.0,32819,32863,christoph,32830,32833,Ich,christoph
+gdc-coref,str8.0,32819,32863,christoph,32838,32841,mir,christoph
+gdc-coref,str8.0,33498,33597,gertrud,33507,33510,Ich,gertrud
+gdc-coref,str8.0,33601,33764,christoph,33690,33694,mich,christoph
+gdc-coref,str8.0,33891,34011,christoph,33925,33928,ich,christoph
+gdc-coref,str8.0,33891,34011,christoph,33929,33932,mir,christoph
+gdc-coref,str8.0,34015,34252,christoph,34061,34064,mir,christoph
+gdc-coref,str8.0,34015,34252,christoph,34094,34100,meinen,christoph
+gdc-coref,str8.0,34015,34252,christoph,34144,34147,ich,christoph
+gdc-coref,str8.0,35460,35594,christoph,35471,35477,Meiner,christoph
+gdc-coref,str8.0,35599,35746,weinberl,35729,35732,ich,weinberl
+gdc-coref,str8.0,35940,36015,weinberl,35989,35993,mich,weinberl
+gdc-coref,str8.0,36020,36077,christoph,36031,36034,Ich,christoph
+gdc-coref,str8.0,36020,36077,christoph,36045,36049,mich,christoph
+gdc-coref,str8.0,36082,36191,weinberl,36110,36113,ich,weinberl
+gdc-coref,str8.0,36082,36191,weinberl,36115,36118,Ich,weinberl
+gdc-coref,str8.0,36082,36191,weinberl,36124,36128,mich,weinberl
+gdc-coref,str8.0,36196,36306,christoph,36207,36210,Ich,christoph
+gdc-coref,str8.0,36196,36306,christoph,36237,36240,ich,christoph
+gdc-coref,str8.0,36196,36306,christoph,36260,36263,ich,christoph
+gdc-coref,str8.0,36310,36443,weinberl,36320,36323,Mir,weinberl
+gdc-coref,str8.0,36510,36932,zangler,36540,36543,Ich,zangler
+gdc-coref,str8.0,36510,36932,zangler,36549,36552,mir,zangler
+gdc-coref,str8.0,36510,36932,zangler,36603,36606,ich,zangler
+gdc-coref,str8.0,36510,36932,zangler,36725,36728,Ich,zangler
+gdc-coref,str8.0,36510,36932,zangler,36738,36744,meinem,zangler
+gdc-coref,str8.0,36510,36932,zangler,36802,36805,ich,zangler
+gdc-coref,str8.0,36998,37085,weinberl,37062,37065,ich,weinberl
+gdc-coref,str8.0,36998,37085,weinberl,37066,37070,mich,weinberl
+gdc-coref,str8.0,37090,37153,sonders,37135,37138,ich,sonders
+gdc-coref,str8.0,37158,37262,weinberl,37213,37216,ich,weinberl
+gdc-coref,str8.0,37325,37375,sonders,37344,37347,mir,sonders
+gdc-coref,str8.0,37325,37375,sonders,37351,37357,meinen,sonders
+gdc-coref,str8.0,37380,37420,marie,37387,37390,Ich,marie
+gdc-coref,str8.0,37425,37460,sonders,37456,37459,mir,sonders
+gdc-coref,str8.0,37614,37775,sonders,37639,37642,mir,sonders
+gdc-coref,str8.0,37614,37775,sonders,37665,37668,ich,sonders
+gdc-coref,str8.0,37614,37775,sonders,37669,37672,mir,sonders
+gdc-coref,str8.0,37897,38072,marie,37909,37912,ich,marie
+gdc-coref,str8.0,37897,38072,marie,37994,37997,ich,marie
+gdc-coref,str8.0,38214,38347,marie,38304,38307,mir,marie
+gdc-coref,str8.0,38463,38562,sonders,38472,38475,Ich,sonders
+gdc-coref,str8.0,38463,38562,sonders,38540,38543,ich,sonders
+gdc-coref,str8.0,39050,39414,gertrud,39177,39180,Ich,gertrud
+gdc-coref,str8.0,39050,39414,gertrud,39197,39200,ich,gertrud
+gdc-coref,str8.0,39050,39414,gertrud,39310,39313,ich,gertrud
+gdc-coref,str8.0,39050,39414,gertrud,39314,39317,mir,gertrud
+gdc-coref,str8.0,39733,39879,marie,39813,39816,ich,marie
+gdc-coref,str8.0,39733,39879,marie,39836,39839,ich,marie
+gdc-coref,str8.0,39884,40060,sonders,39893,39896,Ich,sonders
+gdc-coref,str8.0,39884,40060,sonders,39972,39975,mir,sonders
+gdc-coref,str8.0,40991,41027,sonders,41014,41019,meine,sonders
+gdc-coref,str8.0,41032,41110,marie,41081,41084,ich,marie
+gdc-coref,str8.0,41338,41473,sonders,41462,41467,meine,sonders
+gdc-coref,str8.0,41665,41821,zangler,41737,41740,Ich,zangler
+gdc-coref,str8.0,42691,42748,sonders,42737,42740,ich,sonders
+gdc-coref,str8.0,42865,42985,zangler,42951,42956,meine,zangler
+gdc-coref,str8.0,43039,43151,christoph,43084,43087,Ich,christoph
+gdc-coref,str8.0,43039,43151,christoph,43119,43123,mich,christoph
+gdc-coref,str8.0,43156,43313,weinberl,43166,43169,Mir,weinberl
+gdc-coref,str8.0,43156,43313,weinberl,43179,43182,ich,weinberl
+gdc-coref,str8.0,43337,43769,_stage,43379,43391,Der Prospekt,Der-Prospekt
+gdc-coref,str8.0,43337,43769,_stage,43415,43424,die Bühne,die-----------Bühne
+gdc-coref,str8.0,43337,43769,_stage,43446,43457,einer Gasse,einer-Gasse
+gdc-coref,str8.0,43337,43769,_stage,43489,43535,dem mitten im Prospekt sich befindlichen Hause,dem-mitten-im-----------Prospekt-sich-befindlichen-Hause
+gdc-coref,str8.0,43337,43769,_stage,43500,43511,im Prospekt,Der-Prospekt
+gdc-coref,str8.0,43337,43769,_stage,43512,43516,sich,dem-mitten-im-----------Prospekt-sich-befindlichen-Hause
+gdc-coref,str8.0,43337,43769,_stage,43540,43547,das Tor,das-Tor
+gdc-coref,str8.0,43337,43769,_stage,43562,43565,man,man
+gdc-coref,str8.0,43337,43769,_stage,43580,43603,eine praktikable Stiege,eine-----------praktikable-Stiege
+gdc-coref,str8.0,43337,43769,_stage,43614,43626,der Einfahrt,der-Einfahrt
+gdc-coref,str8.0,43337,43769,_stage,43638,43680,"eine Tür, die zur Hausmeisterwohnung führt","eine-Tür,-die-zur-Hausmeisterwohnung-----------führt"
+gdc-coref,str8.0,43337,43769,_stage,43687,43699,dem Haustore,das-Tor
+gdc-coref,str8.0,43337,43769,_stage,43704,43714,eine Tafel,eine-Tafel
+gdc-coref,str8.0,43337,43769,_stage,43719,43736,großer Aufschrift,großmächtigen-Buchstaben
+gdc-coref,str8.0,43337,43769,_stage,43739,43767,Anna Knorrs Modewaren-Verlag,Anna-Knorrs-----------Modewaren-Verlag
+gdc-coref,str8.0,43337,43769,_stage,43739,43750,Anna Knorrs,madame_knorr
+gdc-coref,str8.0,43788,43868,_stage,43788,43796,Weinberl,weinberl
+gdc-coref,str8.0,43788,43868,_stage,43798,43807,Christoph,christoph
+gdc-coref,str8.0,43870,43913,christoph,43902,43905,ich,christoph
+gdc-coref,str8.0,43918,44141,weinberl,43931,43944,lieber Freund,christoph
+gdc-coref,str8.0,43918,44141,weinberl,43945,43948,ich,weinberl
+gdc-coref,str8.0,43918,44141,weinberl,43954,43959,Ihnen,christoph
+gdc-coref,str8.0,43918,44141,weinberl,44000,44003,Sie,christoph
+gdc-coref,str8.0,43918,44141,weinberl,44005,44008,mir,weinberl
+gdc-coref,str8.0,43918,44141,weinberl,44055,44058,mir,weinberl
+gdc-coref,str8.0,44146,44218,christoph,44181,44184,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,44223,44456,weinberl,44233,44236,Wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,44223,44456,weinberl,44297,44300,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,44223,44456,weinberl,44346,44349,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,44223,44456,weinberl,44399,44411,der Residenz,der---------------Residenz
+gdc-coref,str8.0,44223,44456,weinberl,44439,44446,'s Geld,'s-Geld
+gdc-coref,str8.0,44461,44593,christoph,44492,44504,allen andern,allen-andern
+gdc-coref,str8.0,44461,44593,christoph,44512,44515,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,44461,44593,christoph,44534,44542,die Leut,allen-andern
+gdc-coref,str8.0,44461,44593,christoph,44552,44567,den öden Gassel,den---------------öden-Gassel
+gdc-coref,str8.0,44461,44593,christoph,44577,44580,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,44598,45210,weinberl,44608,44616,O Freund,christoph
+gdc-coref,str8.0,44598,45210,weinberl,44620,44636,die öden Gasseln,den---------------öden-Gassel
+gdc-coref,str8.0,44598,45210,weinberl,44644,44647,man,man
+gdc-coref,str8.0,44598,45210,weinberl,44707,44710,ich,weinberl
+gdc-coref,str8.0,44598,45210,weinberl,44735,44737,Er,Er
+gdc-coref,str8.0,44598,45210,weinberl,44745,44749,sich,Er
+gdc-coref,str8.0,44598,45210,weinberl,44824,44826,er,Er
+gdc-coref,str8.0,44598,45210,weinberl,44839,44849,einen Mann,einen-Mann
+gdc-coref,str8.0,44598,45210,weinberl,44867,44870,ihm,Er
+gdc-coref,str8.0,44598,45210,weinberl,44884,44886,er,einen-Mann
+gdc-coref,str8.0,44598,45210,weinberl,44887,44890,ihm,Er
+gdc-coref,str8.0,44598,45210,weinberl,44927,44929,er,Er
+gdc-coref,str8.0,44598,45210,weinberl,44935,44945,einen Mann,einen---------------Mann
+gdc-coref,str8.0,44598,45210,weinberl,44947,44950,ihm,Er
+gdc-coref,str8.0,44598,45210,weinberl,44968,44970,er,einen---------------Mann
+gdc-coref,str8.0,44598,45210,weinberl,44971,44974,ihm,Er
+gdc-coref,str8.0,44598,45210,weinberl,45005,45007,er,Er
+gdc-coref,str8.0,44598,45210,weinberl,45012,45014,er,Er
+gdc-coref,str8.0,44598,45210,weinberl,45032,45034,er,Er
+gdc-coref,str8.0,44598,45210,weinberl,45035,45038,dem,einen---------------Mann
+gdc-coref,str8.0,44598,45210,weinberl,45047,45050,der,einen---------------Mann
+gdc-coref,str8.0,44598,45210,weinberl,45051,45054,ihm,Er
+gdc-coref,str8.0,44598,45210,weinberl,45069,45090,"dem, der ihm gewunken",einen-Mann
+gdc-coref,str8.0,44598,45210,weinberl,45078,45081,ihm,Er
+gdc-coref,str8.0,44598,45210,weinberl,45103,45107,sich,die-Fenster
+gdc-coref,str8.0,44598,45210,weinberl,45118,45129,die Fenster,die-Fenster
+gdc-coref,str8.0,45134,45210,_stage,45134,45144,Philippine,philippine
+gdc-coref,str8.0,45134,45210,_stage,45160,45171,das Fenster,das-Fenster
+gdc-coref,str8.0,45134,45210,_stage,45172,45197,im Hause der Madame Knorr,dem-mitten-im-----------Prospekt-sich-befindlichen-Hause
+gdc-coref,str8.0,45134,45210,_stage,45181,45197,der Madame Knorr,madame_knorr
+gdc-coref,str8.0,45134,45210,_stage,45198,45209,im Prospekt,Der-Prospekt
+gdc-coref,str8.0,45295,45453,_stage,45295,45305,Philippine,philippine
+gdc-coref,str8.0,45295,45453,_stage,45316,45326,am Fenster,das-Fenster
+gdc-coref,str8.0,45295,45453,_stage,45340,45346,Wasser,Wasser
+gdc-coref,str8.0,45295,45453,_stage,45372,45374,es,Wasser
+gdc-coref,str8.0,45295,45453,_stage,45438,45449,das Fenster,das-Fenster
+gdc-coref,str8.0,45466,45490,_stage,45470,45472,es,Wasser
+gdc-coref,str8.0,45457,45545,weinberl,45534,45536,S',philippine
+gdc-coref,str8.0,45550,45589,christoph,45571,45574,mir,christoph
+gdc-coref,str8.0,45594,45738,weinberl,45609,45612,ich,weinberl
+gdc-coref,str8.0,45594,45738,weinberl,45679,45682,ich,weinberl
+gdc-coref,str8.0,45594,45738,weinberl,45694,45697,ich,weinberl
+gdc-coref,str8.0,45594,45738,weinberl,45701,45713,der Residenz,der---------------Residenz
+gdc-coref,str8.0,45812,45829,_stage,45818,45828,den Schild,eine-Tafel
+gdc-coref,str8.0,45803,45862,weinberl,45831,45859,Anna Knorrs Modewaren-Verlag,Anna-Knorrs-----------Modewaren-Verlag
+gdc-coref,str8.0,45803,45862,weinberl,45831,45842,Anna Knorrs,madame_knorr
+gdc-coref,str8.0,45868,45928,christoph,45907,45910,man,man
+gdc-coref,str8.0,45868,45928,christoph,45911,45918,d' Leut,christoph
+gdc-coref,str8.0,45933,46001,weinberl,45992,46000,ein Mann,ein-Mann
+gdc-coref,str8.0,46006,46040,christoph,46023,46026,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46045,46108,weinberl,46055,46057,Er,ein-Mann
+gdc-coref,str8.0,46045,46108,weinberl,46072,46074,er,ein-Mann
+gdc-coref,str8.0,46045,46108,weinberl,46097,46100,das,brunninger
+gdc-coref,str8.0,46113,46137,christoph,46124,46130,Meiner,christoph
+gdc-coref,str8.0,46142,46183,weinberl,46159,46182,der Herr von Brunninger,brunninger
+gdc-coref,str8.0,46188,46236,christoph,46199,46202,Der,brunninger
+gdc-coref,str8.0,46188,46236,christoph,46213,46229,unsern Prinzipal,zangler
+gdc-coref,str8.0,46188,46236,christoph,46213,46219,unsern,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46241,46272,weinberl,46251,46254,Der,brunninger
+gdc-coref,str8.0,46241,46272,weinberl,46262,46265,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46277,46327,christoph,46294,46297,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46305,46327,_stage,46305,46310,Beide,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46331,46474,weinberl,46387,46390,Das,Das
+gdc-coref,str8.0,46331,46474,weinberl,46405,46408,das,Das
+gdc-coref,str8.0,46479,46521,christoph,46502,46518,Der Herr Zangler,zangler
+gdc-coref,str8.0,46526,46552,weinberl,46536,46549,Der Prinzipal,zangler
+gdc-coref,str8.0,46557,46598,christoph,46581,46589,ins Haus,dem-mitten-im-----------Prospekt-sich-befindlichen-Hause
+gdc-coref,str8.0,46603,46761,weinberl,46635,46638,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46647,46761,_stage,46662,46679,das offne Haustor,das-Tor
+gdc-coref,str8.0,46647,46761,_stage,46688,46699,im Prospekt,Der-Prospekt
+gdc-coref,str8.0,46647,46761,_stage,46719,46731,der Einfahrt,der-Einfahrt
+gdc-coref,str8.0,46647,46761,_stage,46733,46737,sich,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46765,46803,christoph,46776,46778,Er,zangler
+gdc-coref,str8.0,46855,46880,_stage,46855,46866,Hausmeister,hausmeister
+gdc-coref,str8.0,46855,46880,_stage,46868,46879,Die Vorigen,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,46894,46934,_stage,46898,46908,seiner Tür,"eine-Tür,-die-zur-Hausmeisterwohnung-----------führt"
+gdc-coref,str8.0,46894,46934,_stage,46898,46904,seiner,hausmeister
+gdc-coref,str8.0,46894,46934,_stage,46915,46925,dem Torweg,dem-Torweg
+gdc-coref,str8.0,46988,47010,weinberl,46998,47001,Wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47155,47187,weinberl,47165,47168,Wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47193,47215,hausmeister,47209,47212,wem,madame_knorr2
+gdc-coref,str8.0,47229,47258,_stage,47244,47246,er,weinberl
+gdc-coref,str8.0,47220,47309,weinberl,47273,47276,was,madame_knorr-/-Anna-Knorrs---------…
+gdc-coref,str8.0,47220,47309,weinberl,47291,47300,der Tafel,eine-Tafel
+gdc-coref,str8.0,47314,47385,christoph,47325,47383,"Madame Knorr, Modewarenverlagsniederlagverschleißhändlerin",madame_knorr2
+gdc-coref,str8.0,47390,47458,hausmeister,47403,47406,Die,madame_knorr
+gdc-coref,str8.0,47390,47458,hausmeister,47415,47430,im ersten Stock,im-ersten-Stock
+gdc-coref,str8.0,47390,47458,hausmeister,47445,47457,der Einfahrt,der-Einfahrt
+gdc-coref,str8.0,47463,47509,christoph,47494,47497,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47523,47539,_stage,47523,47538,zum Hausmeister,hausmeister
+gdc-coref,str8.0,47514,47587,weinberl,47550,47553,Sie,hausmeister
+gdc-coref,str8.0,47514,47587,weinberl,47566,47569,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47592,47636,hausmeister,47605,47617,Ersten Stock,im-ersten-Stock
+gdc-coref,str8.0,47592,47636,hausmeister,47626,47633,die Tür,die-Tür
+gdc-coref,str8.0,47641,47695,weinberl,47656,47661,Ihnen,hausmeister
+gdc-coref,str8.0,47664,47695,_stage,47677,47687,die Stiege,eine-----------praktikable-Stiege
+gdc-coref,str8.0,47699,47829,christoph,47720,47723,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47699,47829,christoph,47731,47733,er,christoph
+gdc-coref,str8.0,47699,47829,christoph,47734,47743,Weinberln,weinberl
+gdc-coref,str8.0,47699,47829,christoph,47751,47754,Wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47699,47829,christoph,47781,47788,die Tür,die-Tür
+gdc-coref,str8.0,47699,47829,christoph,47790,47793,Man,man
+gdc-coref,str8.0,47699,47829,christoph,47800,47805,beide,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47699,47829,christoph,47806,47816,die Stiege,eine-----------praktikable-Stiege
+gdc-coref,str8.0,47834,47968,hausmeister,47872,47877,Denen,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47834,47968,hausmeister,47883,47886,ich,hausmeister
+gdc-coref,str8.0,47834,47968,hausmeister,47908,47910,s',WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,47834,47968,hausmeister,47950,47960,die Stiege,eine-----------praktikable-Stiege
+gdc-coref,str8.0,47993,48018,_stage,47993,48000,Zangler,zangler
+gdc-coref,str8.0,47993,48018,_stage,48007,48017,Brunninger,brunninger
+gdc-coref,str8.0,48020,48181,zangler,48075,48089,zur Schwägerin,fraeulein_blumenblatt
+gdc-coref,str8.0,48020,48181,zangler,48094,48097,ich,zangler
+gdc-coref,str8.0,48020,48181,zangler,48126,48134,das Haus,dem-mitten-im-----------Prospekt-sich-befindlichen-Hause
+gdc-coref,str8.0,48020,48181,zangler,48138,48147,Christoph,christoph
+gdc-coref,str8.0,48020,48181,zangler,48152,48160,Weinberl,weinberl
+gdc-coref,str8.0,48186,48258,brunninger,48223,48239,Herr von Zangler,zangler
+gdc-coref,str8.0,48186,48258,brunninger,48241,48257,Herr von Zangler,zangler
+gdc-coref,str8.0,48271,48319,_stage,48285,48295,dem Torweg,dem-Torweg
+gdc-coref,str8.0,48271,48319,_stage,48297,48301,sich,zangler
+gdc-coref,str8.0,48263,48336,zangler,48320,48323,Wer,brunninger
+gdc-coref,str8.0,48352,48369,_stage,48356,48359,ihn,zangler
+gdc-coref,str8.0,48341,48407,brunninger,48378,48381,ich,brunninger
+gdc-coref,str8.0,48412,48456,zangler,48421,48440,Herr von Brunninger,brunninger
+gdc-coref,str8.0,48412,48456,zangler,48449,48453,mich,zangler
+gdc-coref,str8.0,48461,48594,brunninger,48486,48495,der Stadt,der-Stadt
+gdc-coref,str8.0,48461,48594,brunninger,48541,48544,mir,brunninger
+gdc-coref,str8.0,48461,48594,brunninger,48572,48593,der Krüglischen Sache,der-Krüglischen-Sache
+gdc-coref,str8.0,48599,48660,zangler,48608,48614,Freund,brunninger
+gdc-coref,str8.0,48599,48660,zangler,48616,48619,das,der-Krüglischen-Sache
+gdc-coref,str8.0,48599,48660,zangler,48627,48630,wir,zangler-/-brunninger
+gdc-coref,str8.0,48599,48660,zangler,48655,48658,ich,zangler
+gdc-coref,str8.0,48665,48740,brunninger,48683,48689,Freund,zangler
+gdc-coref,str8.0,48665,48740,brunninger,48691,48694,ich,brunninger
+gdc-coref,str8.0,48665,48740,brunninger,48701,48706,Ihnen,zangler
+gdc-coref,str8.0,48665,48740,brunninger,48718,48738,die Krüglische Sache,der-Krüglischen-Sache
+gdc-coref,str8.0,48746,48805,zangler,48761,48764,mir,zangler
+gdc-coref,str8.0,48810,48901,brunninger,48826,48830,sich,der-Krüglischen-Sache
+gdc-coref,str8.0,48810,48901,brunninger,48863,48866,wir,zangler-/-brunninger
+gdc-coref,str8.0,48810,48901,brunninger,48874,48883,alle zwei,zangler-/-brunninger
+gdc-coref,str8.0,48810,48901,brunninger,48887,48893,unserm,zangler-/-brunninger
+gdc-coref,str8.0,48906,48925,zangler,48915,48918,Ich,zangler
+gdc-coref,str8.0,48930,48964,brunninger,48942,48962,Die Krüglische Sache,der-Krüglischen-Sache
+gdc-coref,str8.0,49066,49087,zangler,49075,49078,Ich,zangler
+gdc-coref,str8.0,49092,49110,brunninger,49104,49107,Wem,madame_knorr
+gdc-coref,str8.0,49115,49227,zangler,49134,49136,es,steht's
+gdc-coref,str8.0,49115,49227,zangler,49137,49148,kein Mensch,kein-Mensch
+gdc-coref,str8.0,49115,49227,zangler,49159,49166,steht's,steht's
+gdc-coref,str8.0,49115,49227,zangler,49171,49195,großmächtigen Buchstaben,großmächtigen-Buchstaben
+gdc-coref,str8.0,49115,49227,zangler,49214,49224,der Gassen,einer-Gasse
+gdc-coref,str8.0,49262,49301,_stage,49266,49275,die Tafel,eine-Tafel
+gdc-coref,str8.0,49262,49301,_stage,49281,49292,dem Haustor,das-Tor
+gdc-coref,str8.0,49254,49324,zangler,49308,49320,Madame Knorr,madame_knorr2
+gdc-coref,str8.0,49329,49380,brunninger,49344,49347,das,madame_knorr2
+gdc-coref,str8.0,49329,49380,brunninger,49348,49360,die Erwählte,madame_knorr
+gdc-coref,str8.0,49385,49422,zangler,49400,49403,Ich,zangler
+gdc-coref,str8.0,49385,49422,zangler,49417,49420,ihr,madame_knorr
+gdc-coref,str8.0,49427,49526,brunninger,49452,49454,S',zangler
+gdc-coref,str8.0,49427,49526,brunninger,49455,49458,mir,brunninger
+gdc-coref,str8.0,49427,49526,brunninger,49468,49488,die Krüglische Sache,der-Krüglischen-Sache
+gdc-coref,str8.0,49427,49526,brunninger,49499,49502,ich,brunninger
+gdc-coref,str8.0,49427,49526,brunninger,49509,49514,Ihnen,zangler
+gdc-coref,str8.0,49531,49553,zangler,49545,49551,Freund,brunninger
+gdc-coref,str8.0,49558,49598,brunninger,49573,49583,10 Minuten,10-Minuten
+gdc-coref,str8.0,49558,49598,brunninger,49587,49589,es,der-Krüglischen-Sache
+gdc-coref,str8.0,49650,49676,_stage,49650,49653,ihn,zangler
+gdc-coref,str8.0,49639,49717,brunninger,49688,49691,ich,brunninger
+gdc-coref,str8.0,49639,49717,brunninger,49700,49702,S',zangler
+gdc-coref,str8.0,49766,49787,_stage,49770,49777,Zangler,zangler
+gdc-coref,str8.0,49755,49859,brunninger,49788,49791,Sie,zangler
+gdc-coref,str8.0,49755,49859,brunninger,49799,49803,sich,zangler
+gdc-coref,str8.0,49755,49859,brunninger,49813,49819,Freund,zangler
+gdc-coref,str8.0,49755,49859,brunninger,49821,49824,ich,brunninger
+gdc-coref,str8.0,49755,49859,brunninger,49830,49835,Ihnen,zangler
+gdc-coref,str8.0,49755,49859,brunninger,49837,49857,die Krüglische Sache,der-Krüglischen-Sache
+gdc-coref,str8.0,49864,49922,zangler,49884,49894,10 Minuten,10-Minuten
+gdc-coref,str8.0,49864,49922,zangler,49900,49903,ich,zangler
+gdc-coref,str8.0,49913,49922,_stage,49913,49918,Beide,zangler-/-brunninger
+gdc-coref,str8.0,49938,49991,_stage,49949,49961,Madame Knorr,madame_knorr
+gdc-coref,str8.0,50014,50046,_stage,50014,50024,Philippine,philippine
+gdc-coref,str8.0,50014,50046,_stage,50026,50034,Weinberl,weinberl
+gdc-coref,str8.0,50014,50046,_stage,50036,50045,Christoph,christoph
+gdc-coref,str8.0,50048,50210,philippine,50067,50077,die Herren,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50048,50210,philippine,50108,50111,Sie,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50048,50210,philippine,50120,50130,im Atelier,im-Atelier
+gdc-coref,str8.0,50048,50210,philippine,50141,50144,Ich,philippine
+gdc-coref,str8.0,50048,50210,philippine,50159,50168,der Madam,madame_knorr
+gdc-coref,str8.0,50177,50210,_stage,50185,50199,die Seitentüre,die-Seitentüre
+gdc-coref,str8.0,50214,50287,weinberl,50233,50236,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50214,50287,weinberl,50243,50246,Sie,christoph
+gdc-coref,str8.0,50292,50349,christoph,50303,50306,Was,Was
+gdc-coref,str8.0,50292,50349,christoph,50313,50316,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50292,50349,christoph,50333,50342,die Madam,madame_knorr
+gdc-coref,str8.0,50354,50381,weinberl,50364,50367,Was,Was
+gdc-coref,str8.0,50354,50381,weinberl,50368,50371,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50386,50436,christoph,50402,50405,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50441,50528,weinberl,50460,50463,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50441,50528,weinberl,50464,50467,was,Was
+gdc-coref,str8.0,50441,50528,weinberl,50476,50482,Unsere,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50533,50616,christoph,50554,50575,ein g'scheiter Mensch,ein-g'scheiter-Mensch
+gdc-coref,str8.0,50533,50616,christoph,50581,50585,sich,ein-g'scheiter-Mensch
+gdc-coref,str8.0,50621,50643,weinberl,50631,50634,Sie,madame_knorr
+gdc-coref,str8.0,50668,50706,_stage,50668,50680,Madame Knorr,madame_knorr
+gdc-coref,str8.0,50668,50706,_stage,50682,50692,Philippine,philippine
+gdc-coref,str8.0,50668,50706,_stage,50694,50705,Die Vorigen,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50719,50770,_stage,50723,50735,Madame Knorr,madame_knorr
+gdc-coref,str8.0,50719,50770,_stage,50740,50754,der Seitentüre,die-Seitentüre
+gdc-coref,str8.0,50708,50874,philippine,50779,50788,die Herrn,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50708,50874,philippine,50797,50806,zur Mitte,zur-Mitte
+gdc-coref,str8.0,50812,50874,_stage,50812,50820,Weinberl,weinberl
+gdc-coref,str8.0,50812,50874,_stage,50825,50834,Christoph,christoph
+gdc-coref,str8.0,50812,50874,_stage,50842,50854,Madame Knorr,madame_knorr
+gdc-coref,str8.0,50888,50906,_stage,50891,50899,Weinberl,weinberl
+gdc-coref,str8.0,50878,50959,christoph,50912,50915,Sie,weinberl
+gdc-coref,str8.0,50878,50959,christoph,50940,50943,ich,christoph
+gdc-coref,str8.0,50992,51042,madame_knorr,51029,51041,meine Herren,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,50992,51042,madame_knorr,51029,51034,meine,madame_knorr
+gdc-coref,str8.0,51047,51091,weinberl,51062,51065,ich,weinberl
+gdc-coref,str8.0,51047,51091,weinberl,51066,51074,die Ehre,die-Ehre
+gdc-coref,str8.0,51047,51091,weinberl,51076,51088,Madame Knorr,madame_knorr
+gdc-coref,str8.0,51096,51150,madame_knorr,51112,51115,ich,madame_knorr
+gdc-coref,str8.0,51096,51150,madame_knorr,51123,51131,die Ehr',die-Ehre
+gdc-coref,str8.0,51210,51346,madame_knorr,51233,51243,die Herren,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,51210,51346,madame_knorr,51268,51282,der Mitteltüre,der-Mitteltüre
+gdc-coref,str8.0,51210,51346,madame_knorr,51295,51301,meinem,madame_knorr
+gdc-coref,str8.0,51361,51379,_stage,51370,51378,Weinberl,weinberl
+gdc-coref,str8.0,51351,51435,christoph,51380,51383,Sie,weinberl
+gdc-coref,str8.0,51351,51435,christoph,51409,51412,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,51351,51435,christoph,51413,51420,'s Geld,'s-Geld
+gdc-coref,str8.0,51440,51494,weinberl,51450,51453,Wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,51618,51664,madame_knorr,51652,51655,ich,madame_knorr
+gdc-coref,str8.0,51725,51853,weinberl,51761,51764,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,51725,51853,weinberl,51770,51783,eine Rechnung,eine-Rechnung
+gdc-coref,str8.0,51725,51853,weinberl,51808,51811,sie,eine-Rechnung
+gdc-coref,str8.0,51858,51947,madame_knorr,51898,51919,was für eine Rechnung,eine-Rechnung
+gdc-coref,str8.0,51858,51947,madame_knorr,51927,51930,Sie,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,51952,52114,weinberl,51962,51974,Die Rechnung,eine-Rechnung
+gdc-coref,str8.0,51952,52114,weinberl,51993,52002,Christoph,christoph
+gdc-coref,str8.0,51952,52114,weinberl,52004,52007,Sie,madame_knorr
+gdc-coref,str8.0,51952,52114,weinberl,52018,52033,eine Kundschaft,eine---------------Kundschaft
+gdc-coref,str8.0,51952,52114,weinberl,52041,52044,die,eine---------------Kundschaft
+gdc-coref,str8.0,51952,52114,weinberl,52045,52052,Schmidt,Schmidt
+gdc-coref,str8.0,51952,52114,weinberl,52066,52078,Die Rechnung,eine-Rechnung
+gdc-coref,str8.0,51952,52114,weinberl,52104,52111,Schmidt,Schmidt
+gdc-coref,str8.0,52119,52214,madame_knorr,52158,52161,ich,madame_knorr
+gdc-coref,str8.0,52119,52214,madame_knorr,52167,52211,"keine Kundschaft, die Frau von Schmidt heißt",eine---------------Kundschaft
+gdc-coref,str8.0,52119,52214,madame_knorr,52189,52205,Frau von Schmidt,Schmidt
+gdc-coref,str8.0,52228,52237,_stage,52232,52236,sich,weinberl
+gdc-coref,str8.0,52219,52373,weinberl,52260,52263,Ich,weinberl
+gdc-coref,str8.0,52219,52373,weinberl,52269,52273,mich,weinberl
+gdc-coref,str8.0,52219,52373,weinberl,52291,52306,Frau von Müller,Frau-von-Müller
+gdc-coref,str8.0,52219,52373,weinberl,52312,52315,ich,weinberl
+gdc-coref,str8.0,52219,52373,weinberl,52360,52364,eine,Frau-von-Müller
+gdc-coref,str8.0,52378,52454,madame_knorr,52401,52404,Sie,weinberl
+gdc-coref,str8.0,52378,52454,madame_knorr,52406,52409,ich,madame_knorr
+gdc-coref,str8.0,52378,52454,madame_knorr,52420,52441,keine Frau von Müller,Frau-von-Müller
+gdc-coref,str8.0,52459,52576,weinberl,52491,52501,der Teufel,der-Teufel
+gdc-coref,str8.0,52459,52576,weinberl,52510,52513,Ich,weinberl
+gdc-coref,str8.0,52459,52576,weinberl,52542,52558,Frau von Fischer,Frau---------------von-Fischer
+gdc-coref,str8.0,52581,52678,madame_knorr,52599,52615,Frau von Fischer,Frau-von-Fischer
+gdc-coref,str8.0,52581,52678,madame_knorr,52620,52623,das,Frau-von-Fischer
+gdc-coref,str8.0,52581,52678,madame_knorr,52644,52664,die Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,52581,52678,madame_knorr,52672,52675,Sie,weinberl
+gdc-coref,str8.0,52692,52711,_stage,52701,52710,Christoph,christoph
+gdc-coref,str8.0,52683,52756,weinberl,52717,52719,S',christoph
+gdc-coref,str8.0,52683,52756,weinberl,52732,52735,ich,weinberl
+gdc-coref,str8.0,52771,52789,_stage,52780,52788,Weinberl,weinberl
+gdc-coref,str8.0,52761,52893,christoph,52820,52823,man,man
+gdc-coref,str8.0,52761,52893,christoph,52837,52853,Frau von Fischer,Frau---------------von-Fischer
+gdc-coref,str8.0,52898,52994,madame_knorr,52932,52948,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,52898,52994,madame_knorr,52958,52963,meine,madame_knorr
+gdc-coref,str8.0,52898,52994,madame_knorr,52982,52992,Kundschaft,Kundschaft
+gdc-coref,str8.0,52999,53169,weinberl,53021,53033,die Freundin,frau_von_fischer
+gdc-coref,str8.0,52999,53169,weinberl,53049,53052,sie,frau_von_fischer
+gdc-coref,str8.0,52999,53169,weinberl,53053,53063,Kundschaft,Kundschaft
+gdc-coref,str8.0,53174,53421,madame_knorr,53216,53232,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,53174,53421,madame_knorr,53244,53248,sich,frau_von_fischer
+gdc-coref,str8.0,53174,53421,madame_knorr,53263,53266,mir,madame_knorr
+gdc-coref,str8.0,53174,53421,madame_knorr,53284,53287,ich,madame_knorr
+gdc-coref,str8.0,53174,53421,madame_knorr,53288,53291,mir,madame_knorr
+gdc-coref,str8.0,53174,53421,madame_knorr,53334,53343,Dieselben,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,53174,53421,madame_knorr,53358,53361,Sie,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,53174,53421,madame_knorr,53379,53399,die Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,53426,53465,weinberl,53436,53439,Sie,frau_von_fischer
+gdc-coref,str8.0,53426,53465,weinberl,53449,53453,Ihre,madame_knorr
+gdc-coref,str8.0,53470,53588,madame_knorr,53495,53498,ich,madame_knorr
+gdc-coref,str8.0,53470,53588,madame_knorr,53509,53512,ihr,frau_von_fischer
+gdc-coref,str8.0,53470,53588,madame_knorr,53553,53566,die drei Jahr,die-drei-Jahr
+gdc-coref,str8.0,53470,53588,madame_knorr,53572,53575,sie,frau_von_fischer
+gdc-coref,str8.0,53470,53588,madame_knorr,53576,53581,Witwe,Witwe
+gdc-coref,str8.0,53602,53621,_stage,53611,53620,Christoph,christoph
+gdc-coref,str8.0,53593,53768,weinberl,53634,53637,Sie,christoph
+gdc-coref,str8.0,53593,53768,weinberl,53648,53651,ich,weinberl
+gdc-coref,str8.0,53593,53768,weinberl,53691,53700,Drei Jahr,die-drei-Jahr
+gdc-coref,str8.0,53593,53768,weinberl,53705,53708,sie,frau_von_fischer
+gdc-coref,str8.0,53593,53768,weinberl,53709,53714,Witwe,Witwe
+gdc-coref,str8.0,53593,53768,weinberl,53738,53746,drei Tag,drei-Tag
+gdc-coref,str8.0,53593,53768,weinberl,53751,53756,sie's,Witwe-/-frau_von_fischer
+gdc-coref,str8.0,53807,53838,weinberl,53817,53820,Ich,weinberl
+gdc-coref,str8.0,53807,53838,weinberl,53825,53828,ihr,frau_von_fischer
+gdc-coref,str8.0,53904,53913,_stage,53908,53912,sich,christoph
+gdc-coref,str8.0,53948,54028,madame_knorr,53977,53999,Meine Freundin Fischer,frau_von_fischer
+gdc-coref,str8.0,53948,54028,madame_knorr,53977,53982,Meine,madame_knorr
+gdc-coref,str8.0,53948,54028,madame_knorr,54008,54015,3 Tagen,drei-Tag
+gdc-coref,str8.0,54033,54148,weinberl,54043,54046,Ich,weinberl
+gdc-coref,str8.0,54033,54148,weinberl,54070,54078,drei Täg,drei-Tag
+gdc-coref,str8.0,54033,54148,weinberl,54090,54099,Christoph,christoph
+gdc-coref,str8.0,54033,54148,weinberl,54120,54123,Sie,christoph
+gdc-coref,str8.0,54033,54148,weinberl,54140,54145,Geist,Geist
+gdc-coref,str8.0,54153,54220,madame_knorr,54212,54217,Geist,Geist
+gdc-coref,str8.0,54225,54318,weinberl,54235,54240,Geist,Geist
+gdc-coref,str8.0,54225,54318,weinberl,54244,54247,Ich,weinberl
+gdc-coref,str8.0,54225,54318,weinberl,54254,54259,Geist,Geist
+gdc-coref,str8.0,54225,54318,weinberl,54265,54269,sich,weinberl
+gdc-coref,str8.0,54225,54318,weinberl,54289,54292,ich,weinberl
+gdc-coref,str8.0,54225,54318,weinberl,54309,54312,ich,weinberl
+gdc-coref,str8.0,54323,54376,madame_knorr,54337,54340,Ich,madame_knorr
+gdc-coref,str8.0,54323,54376,madame_knorr,54360,54374,Herr von Geist,Herr-von-Geist
+gdc-coref,str8.0,54391,54400,_stage,54395,54399,sich,christoph
+gdc-coref,str8.0,54381,54428,christoph,54401,54404,Man,man
+gdc-coref,str8.0,54381,54428,christoph,54411,54416,ihm's,weinberl
+gdc-coref,str8.0,54433,54493,madame_knorr,54451,54468,dieser junge Herr,christoph
+gdc-coref,str8.0,54471,54493,_stage,54475,54484,Christoph,christoph
+gdc-coref,str8.0,54497,54533,weinberl,54507,54530,Ein meiniger Verwandter,christoph
+gdc-coref,str8.0,54538,54636,madame_knorr,54567,54570,man,man
+gdc-coref,str8.0,54641,54795,weinberl,54651,54654,Sie,madame_knorr
+gdc-coref,str8.0,54641,54795,weinberl,54690,54693,Sie,madame_knorr
+gdc-coref,str8.0,54641,54795,weinberl,54710,54722,der Rechnung,eine-Rechnung
+gdc-coref,str8.0,54737,54795,_stage,54737,54749,Madame Knorr,madame_knorr
+gdc-coref,str8.0,54737,54795,_stage,54755,54769,zur Seitentüre,die-Seitentüre
+gdc-coref,str8.0,54808,54827,_stage,54817,54826,Christoph,christoph
+gdc-coref,str8.0,54799,54851,weinberl,54842,54845,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,54866,54884,_stage,54875,54883,Weinberl,weinberl
+gdc-coref,str8.0,54856,54932,christoph,54892,54901,der Alten,madame_knorr
+gdc-coref,str8.0,54856,54932,christoph,54911,54914,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,54937,55033,madame_knorr,54957,54960,ich,madame_knorr
+gdc-coref,str8.0,54937,55033,madame_knorr,54966,54970,mich,madame_knorr
+gdc-coref,str8.0,55060,55079,_stage,55060,55070,Philippine,philippine
+gdc-coref,str8.0,55060,55079,_stage,55072,55078,Vorige,christoph-/-madame_knorr-+-1
+gdc-coref,str8.0,55092,55113,_stage,55092,55101,zur Mitte,zur-Mitte
+gdc-coref,str8.0,55081,55196,philippine,55114,55119,Madam,madame_knorr
+gdc-coref,str8.0,55081,55196,philippine,55121,55141,die Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,55081,55196,philippine,55149,55152,sie,frau_von_fischer
+gdc-coref,str8.0,55081,55196,philippine,55182,55187,Herrn,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,55211,55220,_stage,55215,55219,sich,christoph
+gdc-coref,str8.0,55248,55285,weinberl,55273,55276,Wer,frau_von_fischer
+gdc-coref,str8.0,55290,55384,madame_knorr,55304,55319,Ihre liebe Frau,frau_von_fischer
+gdc-coref,str8.0,55290,55384,madame_knorr,55304,55308,Ihre,weinberl
+gdc-coref,str8.0,55290,55384,madame_knorr,55324,55334,Philippine,philippine
+gdc-coref,str8.0,55290,55384,madame_knorr,55336,55339,Sie,frau_von_fischer
+gdc-coref,str8.0,55290,55384,madame_knorr,55363,55365,es,weinberl
+gdc-coref,str8.0,55290,55384,madame_knorr,55372,55375,ihr,frau_von_fischer
+gdc-coref,str8.0,55389,55429,weinberl,55420,55423,Sie,madame_knorr
+gdc-coref,str8.0,55389,55429,weinberl,55424,55427,ihr,frau_von_fischer
+gdc-coref,str8.0,55434,55569,madame_knorr,55472,55482,Philippine,philippine
+gdc-coref,str8.0,55434,55569,madame_knorr,55484,55487,Sie,frau_von_fischer
+gdc-coref,str8.0,55434,55569,madame_knorr,55501,55511,ihr Gemahl,Herr-von-Geist
+gdc-coref,str8.0,55434,55569,madame_knorr,55501,55504,ihr,frau_von_fischer
+gdc-coref,str8.0,55434,55569,madame_knorr,55513,55529,ihr lieber Geist,Herr-von-Geist
+gdc-coref,str8.0,55434,55569,madame_knorr,55513,55516,ihr,frau_von_fischer
+gdc-coref,str8.0,55540,55569,_stage,55540,55550,Philippine,philippine
+gdc-coref,str8.0,55540,55569,_stage,55556,55565,zur Mitte,zur-Mitte
+gdc-coref,str8.0,55582,55615,_stage,55610,55614,sich,weinberl
+gdc-coref,str8.0,55573,55676,weinberl,55616,55619,Ich,weinberl
+gdc-coref,str8.0,55573,55676,weinberl,55628,55631,ich,weinberl
+gdc-coref,str8.0,55573,55676,weinberl,55652,55655,ich,weinberl
+gdc-coref,str8.0,55681,55772,madame_knorr,55695,55698,Ich,madame_knorr
+gdc-coref,str8.0,55777,55892,weinberl,55787,55797,Meine Frau,frau_von_fischer
+gdc-coref,str8.0,55777,55892,weinberl,55787,55792,Meine,weinberl
+gdc-coref,str8.0,55777,55892,weinberl,55798,55801,die,frau_von_fischer
+gdc-coref,str8.0,55777,55892,weinberl,55811,55814,Sie,madame_knorr
+gdc-coref,str8.0,55777,55892,weinberl,55828,55831,sie,frau_von_fischer
+gdc-coref,str8.0,55777,55892,weinberl,55860,55863,ich,weinberl
+gdc-coref,str8.0,55777,55892,weinberl,55864,55867,ihr,frau_von_fischer
+gdc-coref,str8.0,55907,55916,_stage,55911,55915,sich,christoph
+gdc-coref,str8.0,55897,55949,christoph,55921,55924,sie,frau_von_fischer
+gdc-coref,str8.0,55954,56012,madame_knorr,55979,55982,sie,frau_von_fischer
+gdc-coref,str8.0,56026,56035,_stage,56030,56034,sich,weinberl
+gdc-coref,str8.0,56060,56134,madame_knorr,56081,56084,ich,madame_knorr
+gdc-coref,str8.0,56114,56134,_stage,56119,56133,zur Mitteltüre,der-Mitteltüre
+gdc-coref,str8.0,56147,56160,_stage,56150,56159,Christoph,christoph
+gdc-coref,str8.0,56138,56198,weinberl,56161,56164,Ich,weinberl
+gdc-coref,str8.0,56138,56198,weinberl,56187,56197,meine Frau,frau_von_fischer
+gdc-coref,str8.0,56138,56198,weinberl,56187,56192,meine,weinberl
+gdc-coref,str8.0,56216,56259,_stage,56216,56232,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,56216,56259,_stage,56239,56247,der Türe,der-Mitteltüre
+gdc-coref,str8.0,56203,56316,madame_knorr,56280,56285,meine,madame_knorr
+gdc-coref,str8.0,56203,56316,madame_knorr,56299,56315,du Verschlossene,frau_von_fischer
+gdc-coref,str8.0,56343,56373,_stage,56343,56359,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,56343,56373,_stage,56361,56372,Die Vorigen,weinberl-/-christoph-+-2
+gdc-coref,str8.0,56374,56421,_stage,56374,56390,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,56374,56421,_stage,56407,56416,zur Mitte,zur-Mitte
+gdc-coref,str8.0,56434,56454,_stage,56437,56453,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,56423,56505,philippine,56467,56470,Sie,frau_von_fischer
+gdc-coref,str8.0,56423,56505,philippine,56476,56479,ich,philippine
+gdc-coref,str8.0,56510,56590,madame_knorr,56552,56554,er,weinberl
+gdc-coref,str8.0,56510,56590,madame_knorr,56556,56587,"dein Gemahl, der Herr von Geist",Herr-von-Geist
+gdc-coref,str8.0,56510,56590,madame_knorr,56556,56560,dein,frau_von_fischer
+gdc-coref,str8.0,56596,56660,frau_von_fischer,56614,56625,Mein Gemahl,Herr-von-Geist
+gdc-coref,str8.0,56596,56660,frau_von_fischer,56614,56618,Mein,frau_von_fischer
+gdc-coref,str8.0,56596,56660,frau_von_fischer,56633,56635,er,weinberl
+gdc-coref,str8.0,56596,56660,frau_von_fischer,56640,56643,dir,madame_knorr
+gdc-coref,str8.0,56665,56970,madame_knorr,56683,56685,du,frau_von_fischer
+gdc-coref,str8.0,56665,56970,madame_knorr,56691,56698,3 Tägen,drei-Tag
+gdc-coref,str8.0,56665,56970,madame_knorr,56703,56710,Seinige,Herr-von-Geist
+gdc-coref,str8.0,56665,56970,madame_knorr,56760,56770,Philippine,philippine
+gdc-coref,str8.0,56665,56970,madame_knorr,56772,56782,Philippine,philippine
+gdc-coref,str8.0,56665,56970,madame_knorr,56791,56794,Sie,philippine
+gdc-coref,str8.0,56665,56970,madame_knorr,56805,56811,Kaffee,Eine-Tasse-Kaffee
+gdc-coref,str8.0,56665,56970,madame_knorr,56840,56843,ihr,philippine
+gdc-coref,str8.0,56869,56970,_stage,56869,56885,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,56869,56970,_stage,56897,56905,Weinberl,weinberl
+gdc-coref,str8.0,56869,56970,_stage,56914,56922,Weinberl,weinberl
+gdc-coref,str8.0,56869,56970,_stage,56929,56933,sich,weinberl
+gdc-coref,str8.0,56991,57029,_stage,57024,57028,sich,frau_von_fischer
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57104,57114,der Mensch,weinberl
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57123,57127,sich,weinberl
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57145,57148,mir,frau_von_fischer
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57272,57275,ich,frau_von_fischer
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57307,57310,ich,frau_von_fischer
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57327,57330,ich,frau_von_fischer
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57334,57339,seine,weinberl
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57369,57384,meiner Freundin,madame_knorr
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57369,57375,meiner,frau_von_fischer
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57385,57390,seine,weinberl
+gdc-coref,str8.0,56974,57455,frau_von_fischer,57428,57431,ihn,weinberl
+gdc-coref,str8.0,57471,57487,_stage,57474,57486,Madame Knorr,madame_knorr
+gdc-coref,str8.0,57460,57528,philippine,57501,57506,Madam,madame_knorr
+gdc-coref,str8.0,57460,57528,philippine,57515,57524,zur Mitte,zur-Mitte
+gdc-coref,str8.0,57546,57566,_stage,57549,57565,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,57533,57607,madame_knorr,57580,57605,"dir, du garstige Freundin",frau_von_fischer
+gdc-coref,str8.0,57621,57640,_stage,57630,57639,Christoph,christoph
+gdc-coref,str8.0,57612,57690,weinberl,57641,57662,Die garstige Freundin,frau_von_fischer
+gdc-coref,str8.0,57705,57723,_stage,57714,57722,Weinberl,weinberl
+gdc-coref,str8.0,57695,57781,christoph,57739,57742,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,57799,57819,_stage,57802,57818,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,57786,57900,madame_knorr,57829,57831,du,frau_von_fischer
+gdc-coref,str8.0,57786,57900,madame_knorr,57885,57888,ich,madame_knorr
+gdc-coref,str8.0,57905,57978,frau_von_fischer,57930,57939,ein Grund,ein-Grund
+gdc-coref,str8.0,57905,57978,frau_von_fischer,57942,57945,den,ein-Grund
+gdc-coref,str8.0,57905,57978,frau_von_fischer,57946,57949,dir,madame_knorr
+gdc-coref,str8.0,57905,57978,frau_von_fischer,57950,57966,mein lieber Mann,Herr-von-Geist
+gdc-coref,str8.0,57905,57978,frau_von_fischer,57950,57954,mein,frau_von_fischer
+gdc-coref,str8.0,57905,57978,frau_von_fischer,57955,57966,lieber Mann,lieber-Mann
+gdc-coref,str8.0,57992,58011,_stage,58006,58010,sich,weinberl
+gdc-coref,str8.0,57983,58056,weinberl,58012,58015,Sie,frau_von_fischer
+gdc-coref,str8.0,57983,58056,weinberl,58021,58032,lieber Mann,lieber-Mann
+gdc-coref,str8.0,57983,58056,weinberl,58035,58038,sie,frau_von_fischer
+gdc-coref,str8.0,58061,58095,madame_knorr,58080,58094,Herr von Geist,
+gdc-coref,str8.0,58100,58180,weinberl,58121,58130,den Grund,ein-Grund
+gdc-coref,str8.0,58100,58180,weinberl,58132,58135,den,ein-Grund
+gdc-coref,str8.0,58100,58180,weinberl,58141,58146,Ihnen,madame_knorr
+gdc-coref,str8.0,58100,58180,weinberl,58147,58163,meine liebe Frau,frau_von_fischer
+gdc-coref,str8.0,58100,58180,weinberl,58147,58152,meine,weinberl
+gdc-coref,str8.0,58185,58236,frau_von_fischer,58209,58220,lieber Mann,
+gdc-coref,str8.0,58185,58236,frau_von_fischer,58226,58228,du,weinberl
+gdc-coref,str8.0,58241,58292,weinberl,58269,58279,liebe Frau,frau_von_fischer
+gdc-coref,str8.0,58241,58292,weinberl,58285,58289,du's,frau_von_fischer-/-ein-Grund
+gdc-coref,str8.0,58298,58358,frau_von_fischer,58316,58318,Es,Es
+gdc-coref,str8.0,58298,58358,frau_von_fischer,58338,58356,meinem lieben Mann,
+gdc-coref,str8.0,58298,58358,frau_von_fischer,58338,58344,meinem,frau_von_fischer
+gdc-coref,str8.0,58372,58399,_stage,58372,58376,sich,weinberl
+gdc-coref,str8.0,58363,58454,weinberl,58433,58451,meiner lieben Frau,frau_von_fischer
+gdc-coref,str8.0,58363,58454,weinberl,58433,58439,meiner,weinberl
+gdc-coref,str8.0,58459,58497,madame_knorr,58473,58475,Es,Es
+gdc-coref,str8.0,58502,58584,weinberl,58516,58526,zwei Leut',weinberl-/-frau_von_fischer
+gdc-coref,str8.0,58502,58584,weinberl,58532,58535,wir,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,58659,58728,frau_von_fischer,58692,58695,wir,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,58659,58728,frau_von_fischer,58703,58706,uns,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,58733,58803,weinberl,58761,58774,Die G'schicht,Die-G'schicht
+gdc-coref,str8.0,58733,58803,weinberl,58796,58800,Kopf,Kopf
+gdc-coref,str8.0,58818,58836,_stage,58827,58835,Weinberl,weinberl
+gdc-coref,str8.0,58808,58926,christoph,58848,58850,s',Die-G'schicht
+gdc-coref,str8.0,58808,58926,christoph,58851,58854,uns,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,58808,58926,christoph,58874,58882,den Kopf,Kopf
+gdc-coref,str8.0,58931,59002,madame_knorr,58964,58972,die Ehen,die-Ehen
+gdc-coref,str8.0,58931,59002,madame_knorr,58980,58989,im Himmel,im-Himmel
+gdc-coref,str8.0,59007,59127,weinberl,59034,59043,im Himmel,im-Himmel
+gdc-coref,str8.0,59007,59127,weinberl,59049,59051,s',die-Ehen
+gdc-coref,str8.0,59132,59232,frau_von_fischer,59179,59181,du,weinberl
+gdc-coref,str8.0,59132,59232,frau_von_fischer,59187,59191,dich,weinberl
+gdc-coref,str8.0,59132,59232,frau_von_fischer,59215,59219,mich,frau_von_fischer
+gdc-coref,str8.0,59261,59329,frau_von_fischer,59284,59287,ich,frau_von_fischer
+gdc-coref,str8.0,59261,59329,frau_von_fischer,59288,59291,dir,weinberl
+gdc-coref,str8.0,59367,59501,frau_von_fischer,59405,59408,ich,frau_von_fischer
+gdc-coref,str8.0,59367,59501,frau_von_fischer,59418,59423,deine,weinberl
+gdc-coref,str8.0,59367,59501,frau_von_fischer,59456,59459,ich,frau_von_fischer
+gdc-coref,str8.0,59550,59568,_stage,59559,59567,Weinberl,weinberl
+gdc-coref,str8.0,59540,59609,christoph,59576,59594,a feine Kundschaft,frau_von_fischer
+gdc-coref,str8.0,59540,59609,christoph,59602,59605,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,59623,59643,_stage,59626,59642,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,59614,59788,weinberl,59649,59651,du,frau_von_fischer
+gdc-coref,str8.0,59614,59788,weinberl,59652,59655,mir,weinberl
+gdc-coref,str8.0,59614,59788,weinberl,59684,59686,du,frau_von_fischer
+gdc-coref,str8.0,59614,59788,weinberl,59716,59719,ich,weinberl
+gdc-coref,str8.0,59614,59788,weinberl,59720,59724,dich,frau_von_fischer
+gdc-coref,str8.0,59614,59788,weinberl,59735,59750,deiner Freundin,madame_knorr
+gdc-coref,str8.0,59614,59788,weinberl,59735,59741,deiner,frau_von_fischer
+gdc-coref,str8.0,59614,59788,weinberl,59761,59767,meinen,weinberl
+gdc-coref,str8.0,59793,59983,frau_von_fischer,59824,59827,ich,frau_von_fischer
+gdc-coref,str8.0,59793,59983,frau_von_fischer,59856,59858,Du,weinberl
+gdc-coref,str8.0,59793,59983,frau_von_fischer,59902,59907,unser,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,59793,59983,frau_von_fischer,59963,59969,meinem,frau_von_fischer
+gdc-coref,str8.0,59988,60012,weinberl,60003,60006,ich,weinberl
+gdc-coref,str8.0,60034,60050,_stage,60034,60037,ihm,weinberl
+gdc-coref,str8.0,60110,60187,weinberl,60162,60164,du,frau_von_fischer
+gdc-coref,str8.0,60202,60220,_stage,60211,60219,Weinberl,weinberl
+gdc-coref,str8.0,60192,60248,christoph,60238,60240,S',weinberl
+gdc-coref,str8.0,60262,60281,_stage,60271,60280,Christoph,christoph
+gdc-coref,str8.0,60253,60320,weinberl,60282,60285,Ich,weinberl
+gdc-coref,str8.0,60253,60320,weinberl,60292,60296,mich,weinberl
+gdc-coref,str8.0,60325,60446,christoph,60365,60367,S',weinberl
+gdc-coref,str8.0,60325,60446,christoph,60414,60417,Sie,weinberl
+gdc-coref,str8.0,60464,60517,_stage,60490,60506,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,60451,60600,madame_knorr,60540,60543,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,60451,60600,madame_knorr,60549,60559,der Garten,den-Garten
+gdc-coref,str8.0,60451,60600,madame_knorr,60573,60586,die Bedienung,kellner-/-zweiter_kellner
+gdc-coref,str8.0,60622,60655,_stage,60631,60639,Weinberl,weinberl
+gdc-coref,str8.0,60605,60691,frau_von_fischer,60656,60665,Mein Mann,Herr-von-Geist
+gdc-coref,str8.0,60605,60691,frau_von_fischer,60656,60660,Mein,frau_von_fischer
+gdc-coref,str8.0,60605,60691,frau_von_fischer,60671,60674,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,60696,60837,madame_knorr,60750,60759,eine Idee,eine-Idee
+gdc-coref,str8.0,60696,60837,madame_knorr,60764,60767,dir,frau_von_fischer
+gdc-coref,str8.0,60696,60837,madame_knorr,60769,60772,die,eine-Idee
+gdc-coref,str8.0,60696,60837,madame_knorr,60782,60791,einen Kuß,einen-Kuß
+gdc-coref,str8.0,60696,60837,madame_knorr,60802,60805,den,einen-Kuß
+gdc-coref,str8.0,60696,60837,madame_knorr,60806,60809,dir,frau_von_fischer
+gdc-coref,str8.0,60696,60837,madame_knorr,60810,60819,dein Mann,Herr-von-Geist
+gdc-coref,str8.0,60696,60837,madame_knorr,60810,60814,dein,frau_von_fischer
+gdc-coref,str8.0,60851,60867,_stage,60854,60866,Madame Knorr,madame_knorr
+gdc-coref,str8.0,60842,61006,weinberl,60876,60879,Sie,madame_knorr
+gdc-coref,str8.0,60842,61006,weinberl,60884,60887,ich,weinberl
+gdc-coref,str8.0,60842,61006,weinberl,60906,60915,niemanden,niemanden-/-frau_von_fischer
+gdc-coref,str8.0,60842,61006,weinberl,60916,60920,sein,niemanden-/-frau_von_fischer
+gdc-coref,str8.0,60842,61006,weinberl,60953,60956,Sie,madame_knorr
+gdc-coref,str8.0,60842,61006,weinberl,60984,60987,sie,frau_von_fischer
+gdc-coref,str8.0,60842,61006,weinberl,60988,60995,ein Kuß,einen-Kuß
+gdc-coref,str8.0,61011,61107,madame_knorr,61042,61058,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,61112,61187,weinberl,61130,61138,Gemahlin,frau_von_fischer
+gdc-coref,str8.0,61141,61187,_stage,61146,61186,"Frau von Fischer, welche verlegen zögert",frau_von_fischer
+gdc-coref,str8.0,61191,61241,madame_knorr,61213,61216,ich,madame_knorr
+gdc-coref,str8.0,61191,61241,madame_knorr,61228,61240,junge Ehleut,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,61255,61264,_stage,61259,61263,sich,weinberl
+gdc-coref,str8.0,61246,61460,weinberl,61272,61286,ein Götterweib,frau_von_fischer
+gdc-coref,str8.0,61246,61460,weinberl,61291,61307,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,61246,61460,weinberl,61309,61317,Gemahlin,frau_von_fischer
+gdc-coref,str8.0,61246,61460,weinberl,61324,61326,du,frau_von_fischer
+gdc-coref,str8.0,61246,61460,weinberl,61351,61360,eine Idee,eine-Idee2
+gdc-coref,str8.0,61246,61460,weinberl,61367,61370,die,eine-Idee2
+gdc-coref,str8.0,61246,61460,weinberl,61398,61401,ich,weinberl
+gdc-coref,str8.0,61246,61460,weinberl,61439,61444,deine,frau_von_fischer
+gdc-coref,str8.0,61465,61896,madame_knorr,61479,61496,Eine Tasse Kaffee,Eine-Tasse-Kaffee
+gdc-coref,str8.0,61465,61896,madame_knorr,61504,61507,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,61465,61896,madame_knorr,61531,61534,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,61465,61896,madame_knorr,61546,61561,der Herr Cousin,Sie-schlimmer-Cousin
+gdc-coref,str8.0,61465,61896,madame_knorr,61577,61588,einen Wagen,einen-Wagen
+gdc-coref,str8.0,61465,61896,madame_knorr,61599,61602,Sie,weinberl
+gdc-coref,str8.0,61465,61896,madame_knorr,61606,61614,Weinberl,weinberl
+gdc-coref,str8.0,61465,61896,madame_knorr,61660,61664,mein,madame_knorr
+gdc-coref,str8.0,61465,61896,madame_knorr,61680,61683,ich,madame_knorr
+gdc-coref,str8.0,61465,61896,madame_knorr,61688,61698,Ihrer Frau,frau_von_fischer
+gdc-coref,str8.0,61465,61896,madame_knorr,61688,61693,Ihrer,weinberl
+gdc-coref,str8.0,61465,61896,madame_knorr,61699,61709,im Atelier,im-Atelier
+gdc-coref,str8.0,61465,61896,madame_knorr,61737,61745,Hauberln,Hauberln
+gdc-coref,str8.0,61465,61896,madame_knorr,61758,61766,Hauberln,Hauberln
+gdc-coref,str8.0,61465,61896,madame_knorr,61770,61773,wir,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,61465,61896,madame_knorr,61781,61786,Ihnen,weinberl
+gdc-coref,str8.0,61465,61896,madame_knorr,61816,61841,Sie verliebter Gemahl Sie,Herr-von-Geist
+gdc-coref,str8.0,61465,61896,madame_knorr,61852,61868,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,61465,61896,madame_knorr,61873,61882,Christoph,christoph
+gdc-coref,str8.0,61465,61896,madame_knorr,61883,61892,zur Mitte,zur-Mitte
+gdc-coref,str8.0,61920,61936,_stage,61920,61928,Weinberl,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,61948,61951,Ich,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,61963,61966,ich,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,61971,61982,die Meinige,frau_von_fischer
+gdc-coref,str8.0,61938,64399,weinberl,61983,61986,wir,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,61938,64399,weinberl,62013,62015,Es,Es2
+gdc-coref,str8.0,61938,64399,weinberl,62025,62029,sich,Es2
+gdc-coref,str8.0,61938,64399,weinberl,62072,62081,Den Wagen,einen-Wagen
+gdc-coref,str8.0,61938,64399,weinberl,62092,62107,die Madam Knorr,madame_knorr
+gdc-coref,str8.0,61938,64399,weinberl,62130,62133,sie,madame_knorr
+gdc-coref,str8.0,61938,64399,weinberl,62171,62174,ich,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,62204,62216,einen Gemahl,Geist
+gdc-coref,str8.0,61938,64399,weinberl,62266,62269,ich,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,62353,62359,A Mann,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62366,62376,sein' Frau,sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62366,62371,sein',A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62416,62420,sich,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62446,62450,sein,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62481,62483,er,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62495,62497,s',sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62521,62523,s',sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62524,62527,ihm,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62574,62576,er,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62593,62595,s',sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62628,62630,Er,A-Mann
+gdc-coref,str8.0,61938,64399,weinberl,62651,62654,sie,sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62655,62659,sich,sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62680,62683,Sie,sein'-Frau
+gdc-coref,str8.0,61938,64399,weinberl,62760,62772,A eitle Mama,A-eitle-Mama
+gdc-coref,str8.0,61938,64399,weinberl,62777,62786,a Tochter,a-Tochter
+gdc-coref,str8.0,61938,64399,weinberl,62800,62821,Der Tochter ihr Amant,Der-Tochter-ihr-Amant
+gdc-coref,str8.0,61938,64399,weinberl,62800,62811,Der Tochter,a-Tochter
+gdc-coref,str8.0,61938,64399,weinberl,62812,62815,ihr,a-Tochter
+gdc-coref,str8.0,61938,64399,weinberl,62904,62907,ihm,Der-Tochter-ihr-Amant
+gdc-coref,str8.0,61938,64399,weinberl,62911,62918,d' Mama,A-eitle-Mama
+gdc-coref,str8.0,61938,64399,weinberl,62951,62958,d' Alte,A-eitle-Mama
+gdc-coref,str8.0,61938,64399,weinberl,62983,62986,ihr,A-eitle-Mama
+gdc-coref,str8.0,61938,64399,weinberl,63002,63006,Gott,Gott
+gdc-coref,str8.0,61938,64399,weinberl,63015,63017,s',A-eitle-Mama
+gdc-coref,str8.0,61938,64399,weinberl,63020,63023,ich,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,63028,63041,meine Tochter,a-Tochter
+gdc-coref,str8.0,61938,64399,weinberl,63028,63033,meine,
+gdc-coref,str8.0,61938,64399,weinberl,63060,63064,mich,
+gdc-coref,str8.0,61938,64399,weinberl,63069,63073,sein,Der-Tochter-ihr-Amant
+gdc-coref,str8.0,61938,64399,weinberl,63142,63151,Den Herrn,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63157,63160,ich,
+gdc-coref,str8.0,61938,64399,weinberl,63172,63182,Ihrer Frau,Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63172,63177,Ihrer,Ihrer
+gdc-coref,str8.0,61938,64399,weinberl,63203,63204,S,ich
+gdc-coref,str8.0,61938,64399,weinberl,63221,63223,es,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63227,63230,ihr,Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63246,63258,der Dämmrung,der-Dämmrung
+gdc-coref,str8.0,61938,64399,weinberl,63268,63271,man,man
+gdc-coref,str8.0,61938,64399,weinberl,63272,63274,s',Ihrer-Frau-/-Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63317,63329,die Dämmrung,der-Dämmrung
+gdc-coref,str8.0,61938,64399,weinberl,63331,63333,'s,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63340,63343,ihr,Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63356,63359,Sie,Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63364,63367,ihm,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63393,63396,ihm,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63419,63421,s',Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63422,63425,ihn,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63439,63441,'s,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63448,63451,ihr,Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63466,63468,er,Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63473,63476,ihr,Ihrer-Frau
+gdc-coref,str8.0,61938,64399,weinberl,63490,63491,i,Ihrer
+gdc-coref,str8.0,61938,64399,weinberl,63492,63497,ihr'n,Ihrer-Frau-/-Den-Herrn
+gdc-coref,str8.0,61938,64399,weinberl,63591,63594,man,man
+gdc-coref,str8.0,61938,64399,weinberl,63617,63621,Mein,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,63673,63676,Wer,Wer
+gdc-coref,str8.0,61938,64399,weinberl,63752,63755,den,Wer
+gdc-coref,str8.0,61938,64399,weinberl,63761,63764,man,man
+gdc-coref,str8.0,61938,64399,weinberl,63791,63794,man,man
+gdc-coref,str8.0,61938,64399,weinberl,63993,63998,einer,einer
+gdc-coref,str8.0,61938,64399,weinberl,64048,64052,sich,einer
+gdc-coref,str8.0,61938,64399,weinberl,64076,64082,sich's,einer
+gdc-coref,str8.0,61938,64399,weinberl,64096,64103,led'ger,led'ger
+gdc-coref,str8.0,61938,64399,weinberl,64110,64117,mich 's,led'ger
+gdc-coref,str8.0,61938,64399,weinberl,64110,64114,mich,weinberl
+gdc-coref,str8.0,61938,64399,weinberl,64148,64152,mich,
+gdc-coref,str8.0,61938,64399,weinberl,64192,64209,'s Kinderernähren,'s-Kinderernähren
+gdc-coref,str8.0,61938,64399,weinberl,64216,64218,er,einer
+gdc-coref,str8.0,61938,64399,weinberl,64224,64228,sich,'s-Kinderernähren
+gdc-coref,str8.0,64371,64399,_stage,64374,64388,die Seitentüre,die-Seitentüre
+gdc-coref,str8.0,64415,64883,_stage,64415,64436,Eleganter Gartensalon,Eleganter-Gartensalon
+gdc-coref,str8.0,64415,64883,_stage,64475,64484,der Stadt,der-Stadt
+gdc-coref,str8.0,64415,64883,_stage,64523,64541,ein großes Fenster,ein-großes-Fenster
+gdc-coref,str8.0,64415,64883,_stage,64546,64559,eine Glastüre,eine-Glastüre
+gdc-coref,str8.0,64415,64883,_stage,64565,64576,das Fenster,ein-großes-Fenster
+gdc-coref,str8.0,64415,64883,_stage,64585,64593,die Türe,eine-Glastüre
+gdc-coref,str8.0,64415,64883,_stage,64617,64620,man,man
+gdc-coref,str8.0,64415,64883,_stage,64637,64647,den Garten,den-Garten
+gdc-coref,str8.0,64415,64883,_stage,64652,64655,man,man
+gdc-coref,str8.0,64415,64883,_stage,64676,64681,Gäste,Gäste
+gdc-coref,str8.0,64415,64883,_stage,64706,64716,des Salons,Eleganter-Gartensalon
+gdc-coref,str8.0,64415,64883,_stage,64728,64738,am Fenster,ein-großes-Fenster
+gdc-coref,str8.0,64415,64883,_stage,64746,64749,man,man
+gdc-coref,str8.0,64415,64883,_stage,64750,64773,einen zugemachten Wagen,einen-------------zugemachten-Wagen
+gdc-coref,str8.0,64415,64883,_stage,64782,64795,dessen Pferde,dessen-Pferde
+gdc-coref,str8.0,64415,64883,_stage,64782,64788,dessen,einen-------------zugemachten-Wagen
+gdc-coref,str8.0,64415,64883,_stage,64830,64844,Im Gartensalon,Eleganter-Gartensalon
+gdc-coref,str8.0,64415,64883,_stage,64862,64871,ein Tisch,ein-Tisch
+gdc-coref,str8.0,64905,64923,_stage,64905,64912,Zangler,zangler
+gdc-coref,str8.0,64905,64923,_stage,64914,64922,Melchior,melchior
+gdc-coref,str8.0,64933,64978,_stage,64944,64953,den Salon,Eleganter-Gartensalon
+gdc-coref,str8.0,64933,64978,_stage,64958,64966,Melchior,melchior
+gdc-coref,str8.0,64925,65006,zangler,64979,64982,Das,Eleganter-Gartensalon
+gdc-coref,str8.0,64925,65006,zangler,64996,65003,der Ort,der-Sammelplatz-der-eleganten-Welt
+gdc-coref,str8.0,65011,65100,melchior,65026,65036,Ew. Gnaden,zangler
+gdc-coref,str8.0,65011,65100,melchior,65065,65073,der Herr,der-Herr
+gdc-coref,str8.0,65011,65100,melchior,65074,65086,dem Kutscher,dem-Kutscher
+gdc-coref,str8.0,65105,65227,zangler,65117,65120,ich,zangler
+gdc-coref,str8.0,65105,65227,zangler,65121,65124,ihn,der-Herr
+gdc-coref,str8.0,65105,65227,zangler,65173,65175,er,der-Herr
+gdc-coref,str8.0,65105,65227,zangler,65207,65210,ich,zangler
+gdc-coref,str8.0,65232,65289,melchior,65247,65250,man,der-Herr
+gdc-coref,str8.0,65232,65289,melchior,65270,65275,Ihnen,zangler
+gdc-coref,str8.0,65294,65332,zangler,65303,65306,Ich,zangler
+gdc-coref,str8.0,65294,65332,zangler,65317,65321,mein,zangler
+gdc-coref,str8.0,65337,65568,melchior,65347,65350,Ich,melchior
+gdc-coref,str8.0,65337,65568,melchior,65358,65363,Ihnen,zangler
+gdc-coref,str8.0,65337,65568,melchior,65407,65420,wir alle zwei,zangler-/-melchior
+gdc-coref,str8.0,65337,65568,melchior,65438,65449,einen Wagen,einen-Wagen2
+gdc-coref,str8.0,65337,65568,melchior,65459,65468,der Wag'n,einen-Wagen2
+gdc-coref,str8.0,65337,65568,melchior,65495,65498,wir,zangler-/-melchior
+gdc-coref,str8.0,65337,65568,melchior,65527,65537,Ew. Gnaden,zangler
+gdc-coref,str8.0,65337,65568,melchior,65544,65547,Sie,zangler
+gdc-coref,str8.0,65337,65568,melchior,65548,65552,mich,melchior
+gdc-coref,str8.0,65573,65617,zangler,65606,65609,mir,zangler
+gdc-coref,str8.0,65622,65683,melchior,65632,65634,Es,Es3
+gdc-coref,str8.0,65622,65683,melchior,65639,65655,ein wahres Glück,wahres-Glück
+gdc-coref,str8.0,65622,65683,melchior,65661,65671,Ew. Gnaden,zangler
+gdc-coref,str8.0,65622,65683,melchior,65672,65676,mich,melchior
+gdc-coref,str8.0,65688,65733,zangler,65697,65713,Das Frauenzimmer,marie
+gdc-coref,str8.0,65738,65779,melchior,65752,65760,der Mann,sonders
+gdc-coref,str8.0,65784,65833,zangler,65801,65807,meiner,zangler
+gdc-coref,str8.0,65839,65868,melchior,65849,65852,Das,Das2
+gdc-coref,str8.0,65873,65926,zangler,65896,65898,es,Das2
+gdc-coref,str8.0,65873,65926,zangler,65905,65908,ich,zangler
+gdc-coref,str8.0,65873,65926,zangler,65914,65917,ihr,marie
+gdc-coref,str8.0,65931,66055,melchior,65946,65957,eine Mündel,marie
+gdc-coref,str8.0,65931,66055,melchior,65995,66006,eine Nichte,marie
+gdc-coref,str8.0,65931,66055,melchior,66050,66053,man,man
+gdc-coref,str8.0,66060,66134,zangler,66076,66079,man,man
+gdc-coref,str8.0,66060,66134,zangler,66119,66122,man,man
+gdc-coref,str8.0,66060,66134,zangler,66123,66126,sie,marie
+gdc-coref,str8.0,66139,66217,melchior,66167,66169,Es,Es3
+gdc-coref,str8.0,66139,66217,melchior,66173,66189,ein wahres Glück,wahres-Glück
+gdc-coref,str8.0,66139,66217,melchior,66195,66205,Ew. Gnad'n,zangler
+gdc-coref,str8.0,66139,66217,melchior,66206,66210,mich,melchior
+gdc-coref,str8.0,66222,66269,zangler,66231,66243,Meine Mündel,marie
+gdc-coref,str8.0,66222,66269,zangler,66231,66236,Meine,zangler
+gdc-coref,str8.0,66222,66269,zangler,66249,66252,ich,zangler
+gdc-coref,str8.0,66222,66269,zangler,66260,66266,Tölpel,melchior
+gdc-coref,str8.0,66274,66343,melchior,66304,66314,Ew. Gnaden,zangler
+gdc-coref,str8.0,66274,66343,melchior,66321,66324,Sie,zangler
+gdc-coref,str8.0,66274,66343,melchior,66325,66329,mich,melchior
+gdc-coref,str8.0,66348,66533,zangler,66357,66374,Einen G'scheitern,Einen-G'scheitern
+gdc-coref,str8.0,66348,66533,zangler,66379,66382,ich,zangler
+gdc-coref,str8.0,66348,66533,zangler,66397,66399,er,Einen-G'scheitern
+gdc-coref,str8.0,66348,66533,zangler,66489,66492,mir,zangler
+gdc-coref,str8.0,66348,66533,zangler,66521,66524,sie,sonders-/-marie
+gdc-coref,str8.0,66538,66591,melchior,66557,66570,kein Aufsehen,kein-Aufsehen
+gdc-coref,str8.0,66538,66591,melchior,66572,66575,Wir,zangler-/-melchior
+gdc-coref,str8.0,66604,66646,_stage,66604,66613,den Wagen,einen-Wagen
+gdc-coref,str8.0,66604,66646,_stage,66618,66634,dem Salonfenster,ein-großes-Fenster
+gdc-coref,str8.0,66596,66705,zangler,66659,66668,der Wagen,Sonders-Wagen-/-einen-Wagen
+gdc-coref,str8.0,66596,66705,zangler,66683,66686,wir,zangler-/-melchior
+gdc-coref,str8.0,66596,66705,zangler,66687,66689,s',sonders-/-marie
+gdc-coref,str8.0,66596,66705,zangler,66691,66694,sie,sonders-/-marie
+gdc-coref,str8.0,66710,66789,melchior,66738,66740,'s,Es3
+gdc-coref,str8.0,66710,66789,melchior,66745,66761,ein wahres Glück,wahres-Glück
+gdc-coref,str8.0,66710,66789,melchior,66767,66777,Ew. Gnaden,zangler
+gdc-coref,str8.0,66710,66789,melchior,66778,66782,mich,melchior
+gdc-coref,str8.0,66794,66833,zangler,66811,66819,Kutscher,kutscher
+gdc-coref,str8.0,66847,66865,_stage,66847,66850,ihn,zangler
+gdc-coref,str8.0,66838,66901,melchior,66874,66876,S',zangler
+gdc-coref,str8.0,66838,66901,melchior,66895,66898,Sie,zangler
+gdc-coref,str8.0,66906,66978,zangler,66919,66921,Er,melchior
+gdc-coref,str8.0,66906,66978,zangler,66922,66926,mich,zangler
+gdc-coref,str8.0,66906,66978,zangler,66933,66936,ich,zangler
+gdc-coref,str8.0,66906,66978,zangler,66945,66949,mein,zangler
+gdc-coref,str8.0,66906,66978,zangler,66969,66972,Ihm,melchior
+gdc-coref,str8.0,66983,67118,melchior,67003,67006,Sie,zangler
+gdc-coref,str8.0,66983,67118,melchior,67007,67019,das Aufsehen,kein-Aufsehen
+gdc-coref,str8.0,66983,67118,melchior,67023,67026,Sie,sonders-/-marie
+gdc-coref,str8.0,66983,67118,melchior,67037,67040,uns,zangler-/-melchior
+gdc-coref,str8.0,66983,67118,melchior,67053,67062,die Pferd,dessen-Pferde
+gdc-coref,str8.0,66983,67118,melchior,67092,67096,sich,dessen-Pferde
+gdc-coref,str8.0,67123,67165,zangler,67152,67160,Kutscher,kutscher
+gdc-coref,str8.0,67170,67206,kutscher,67203,67205,S',zangler
+gdc-coref,str8.0,67211,67294,melchior,67229,67231,S',zangler
+gdc-coref,str8.0,67211,67294,melchior,67233,67235,er,kutscher
+gdc-coref,str8.0,67211,67294,melchior,67249,67251,es,Es3
+gdc-coref,str8.0,67211,67294,melchior,67255,67271,ein wahres Glück,wahres-Glück
+gdc-coref,str8.0,67211,67294,melchior,67277,67287,Ew. Gnaden,zangler
+gdc-coref,str8.0,67211,67294,melchior,67288,67292,mich,melchior
+gdc-coref,str8.0,67299,67339,zangler,67321,67323,Er,melchior
+gdc-coref,str8.0,67344,67370,melchior,67354,67367,Kein Aufsehen,kein-Aufsehen
+gdc-coref,str8.0,67396,67418,_stage,67396,67404,Kutscher,kutscher
+gdc-coref,str8.0,67396,67418,_stage,67406,67417,Die Vorigen,zangler-/-melchior
+gdc-coref,str8.0,67420,67452,kutscher,67440,67451,Euer Gnad'n,zangler
+gdc-coref,str8.0,67457,67477,zangler,67470,67472,Er,kutscher
+gdc-coref,str8.0,67482,67514,kutscher,67492,67495,Ich,kutscher
+gdc-coref,str8.0,67482,67514,kutscher,67507,67513,a Fuhr,a-Fuhr
+gdc-coref,str8.0,67519,67554,zangler,67533,67543,deine Fuhr,a-Fuhr
+gdc-coref,str8.0,67519,67554,zangler,67533,67538,deine,kutscher
+gdc-coref,str8.0,67519,67554,zangler,67549,67552,ich,zangler
+gdc-coref,str8.0,67559,67603,kutscher,67579,67589,Ew. Gnaden,zangler
+gdc-coref,str8.0,67608,67641,zangler,67617,67619,Er,kutscher
+gdc-coref,str8.0,67608,67641,zangler,67629,67633,mich,zangler
+gdc-coref,str8.0,67655,67666,_stage,67658,67665,Zangler,zangler
+gdc-coref,str8.0,67646,67751,melchior,67676,67678,S',zangler
+gdc-coref,str8.0,67646,67751,melchior,67694,67697,ihm,kutscher
+gdc-coref,str8.0,67646,67751,melchior,67699,67702,Ich,melchior
+gdc-coref,str8.0,67646,67751,melchior,67724,67734,Ew. Gnad'n,zangler
+gdc-coref,str8.0,67756,67814,zangler,67765,67767,Du,kutscher
+gdc-coref,str8.0,67756,67814,zangler,67773,67784,einen Herrn,sonders
+gdc-coref,str8.0,67756,67814,zangler,67789,67805,ein Frauenzimmer,marie
+gdc-coref,str8.0,67819,67854,kutscher,67833,67836,sie,sonders-/-marie
+gdc-coref,str8.0,67819,67854,kutscher,67844,67853,im Garten,den-Garten
+gdc-coref,str8.0,67859,67926,zangler,67878,67880,du,kutscher
+gdc-coref,str8.0,67859,67926,zangler,67901,67912,dieser Herr,sonders
+gdc-coref,str8.0,67859,67926,zangler,67917,67923,dieses,marie
+gdc-coref,str8.0,67931,67968,kutscher,67955,67958,das,das
+gdc-coref,str8.0,67931,67968,kutscher,67959,67963,mich,kutscher
+gdc-coref,str8.0,67973,68063,melchior,68004,68007,das,das
+gdc-coref,str8.0,67973,68063,melchior,68038,68048,Ew. Gnaden,zangler
+gdc-coref,str8.0,68076,68089,_stage,68076,68088,zum Kutscher,kutscher
+gdc-coref,str8.0,68068,68142,zangler,68096,68113,"du, Helfershelfer",kutscher
+gdc-coref,str8.0,68068,68142,zangler,68119,68121,du,kutscher
+gdc-coref,str8.0,68147,68188,kutscher,68164,68166,S',zangler
+gdc-coref,str8.0,68147,68188,kutscher,68167,68172,Ihnen,zangler
+gdc-coref,str8.0,68202,68213,_stage,68205,68212,Zangler,zangler
+gdc-coref,str8.0,68193,68282,melchior,68219,68221,S',zangler
+gdc-coref,str8.0,68193,68282,melchior,68235,68237,er,kutscher
+gdc-coref,str8.0,68193,68282,melchior,68238,68243,Ihnen,zangler
+gdc-coref,str8.0,68193,68282,melchior,68249,68259,Ew. Gnad'n,zangler
+gdc-coref,str8.0,68295,68308,_stage,68295,68307,zum Kutscher,kutscher
+gdc-coref,str8.0,68287,68331,zangler,68318,68320,Er,kutscher
+gdc-coref,str8.0,68287,68331,zangler,68321,68330,10 Gulden,das-Trinkgeld
+gdc-coref,str8.0,68336,68397,melchior,68346,68358,Der Kutscher,kutscher
+gdc-coref,str8.0,68402,68426,kutscher,68412,68425,Ew. Exzellenz,zangler
+gdc-coref,str8.0,68439,68452,_stage,68439,68451,zum Kutscher,kutscher
+gdc-coref,str8.0,68431,68563,zangler,68453,68455,Er,kutscher
+gdc-coref,str8.0,68431,68563,zangler,68462,68475,die zwei Leut,sonders-/-marie
+gdc-coref,str8.0,68431,68563,zangler,68482,68485,Sie,sonders-/-marie
+gdc-coref,str8.0,68431,68563,zangler,68517,68520,sie,sonders-/-marie
+gdc-coref,str8.0,68431,68563,zangler,68543,68546,ich,zangler
+gdc-coref,str8.0,68431,68563,zangler,68547,68550,Ihm,kutscher
+gdc-coref,str8.0,68568,68614,kutscher,68583,68585,s',sonders-/-marie
+gdc-coref,str8.0,68568,68614,kutscher,68586,68590,mich,kutscher
+gdc-coref,str8.0,68627,68651,_stage,68627,68630,ihm,kutscher
+gdc-coref,str8.0,68619,68960,zangler,68672,68689,meiner Schwägerin,fraeulein_blumenblatt
+gdc-coref,str8.0,68619,68960,zangler,68672,68678,meiner,zangler
+gdc-coref,str8.0,68619,68960,zangler,68701,68703,du,kutscher
+gdc-coref,str8.0,68619,68960,zangler,68716,68719,dir,kutscher
+gdc-coref,str8.0,68619,68960,zangler,68735,68744,die Sache,die-Sache
+gdc-coref,str8.0,68619,68960,zangler,68766,68770,sich,die-Sache
+gdc-coref,str8.0,68619,68960,zangler,68782,68785,ich,zangler
+gdc-coref,str8.0,68619,68960,zangler,68792,68803,zum Wachter,wachter
+gdc-coref,str8.0,68619,68960,zangler,68805,68808,der,wachter
+gdc-coref,str8.0,68619,68960,zangler,68854,68857,sie,sonders-/-marie
+gdc-coref,str8.0,68619,68960,zangler,68877,68885,das Haus,das-Haus
+gdc-coref,str8.0,68619,68960,zangler,68897,68900,ich,zangler
+gdc-coref,str8.0,68619,68960,zangler,68902,68905,sie,sonders-/-marie
+gdc-coref,str8.0,68619,68960,zangler,68922,68933,Dem Wachter,wachter
+gdc-coref,str8.0,68619,68960,zangler,68940,68943,ich,zangler
+gdc-coref,str8.0,68974,69006,_stage,68992,69005,das Trinkgeld,das-Trinkgeld
+gdc-coref,str8.0,68965,69056,melchior,69011,69022,der Wachter,wachter
+gdc-coref,str8.0,68965,69056,melchior,69043,69055,der Kutscher,kutscher
+gdc-coref,str8.0,69069,69082,_stage,69069,69081,zum Kutscher,kutscher
+gdc-coref,str8.0,69061,69155,zangler,69089,69091,Er,kutscher
+gdc-coref,str8.0,69061,69155,zangler,69098,69108,beim Wagen,Sonders-Wagen-/-einen-Wagen
+gdc-coref,str8.0,69061,69155,zangler,69110,69112,Er,kutscher
+gdc-coref,str8.0,69160,69208,kutscher,69170,69180,Ew. Gnaden,zangler
+gdc-coref,str8.0,69160,69208,kutscher,69188,69192,sich,zangler
+gdc-coref,str8.0,69212,69373,zangler,69229,69232,Ich,zangler
+gdc-coref,str8.0,69212,69373,zangler,69259,69262,ich,zangler
+gdc-coref,str8.0,69212,69373,zangler,69263,69282,den kecken Burschen,sonders
+gdc-coref,str8.0,69212,69373,zangler,69283,69308,im Haus meiner Schwägerin,das-Haus
+gdc-coref,str8.0,69212,69373,zangler,69291,69308,meiner Schwägerin,fraeulein_blumenblatt
+gdc-coref,str8.0,69212,69373,zangler,69291,69297,meiner,zangler
+gdc-coref,str8.0,69212,69373,zangler,69319,69322,ich,zangler
+gdc-coref,str8.0,69212,69373,zangler,69323,69326,ihn,sonders
+gdc-coref,str8.0,69378,69513,melchior,69407,69410,ich,melchior
+gdc-coref,str8.0,69378,69513,melchior,69443,69453,Ew. Gnad'n,zangler
+gdc-coref,str8.0,69378,69513,melchior,69469,69472,das,Es3
+gdc-coref,str8.0,69378,69513,melchior,69477,69486,ein Glück,wahres-Glück
+gdc-coref,str8.0,69378,69513,melchior,69496,69499,Sie,zangler
+gdc-coref,str8.0,69378,69513,melchior,69500,69504,mich,melchior
+gdc-coref,str8.0,69518,69575,zangler,69535,69554,Unerträglicher Kerl,melchior
+gdc-coref,str8.0,69518,69575,zangler,69556,69559,ich,zangler
+gdc-coref,str8.0,69518,69575,zangler,69569,69572,ihn,melchior
+gdc-coref,str8.0,69580,69636,melchior,69595,69597,S',zangler
+gdc-coref,str8.0,69580,69636,melchior,69599,69602,Sie,zangler
+gdc-coref,str8.0,69641,69702,zangler,69662,69665,ich,zangler
+gdc-coref,str8.0,69641,69702,zangler,69666,69670,mich,zangler
+gdc-coref,str8.0,69641,69702,zangler,69683,69685,Er,melchior
+gdc-coref,str8.0,69707,69766,melchior,69726,69729,Sie,zangler
+gdc-coref,str8.0,69707,69766,melchior,69755,69758,Sie,zangler
+gdc-coref,str8.0,69771,69887,zangler,69784,69786,Er,melchior
+gdc-coref,str8.0,69771,69887,zangler,69787,69801,ein Stockfisch,ein-Stockfisch
+gdc-coref,str8.0,69771,69887,zangler,69807,69810,den,ein-Stockfisch
+gdc-coref,str8.0,69771,69887,zangler,69811,69814,ich,zangler
+gdc-coref,str8.0,69771,69887,zangler,69815,69825,zum Teufel,der-Teufel
+gdc-coref,str8.0,69771,69887,zangler,69836,69839,wir,zangler-/-melchior
+gdc-coref,str8.0,69771,69887,zangler,69867,69870,ich,zangler
+gdc-coref,str8.0,69912,69945,_stage,69912,69920,Melchior,melchior
+gdc-coref,str8.0,69912,69945,_stage,69927,69934,Sonders,sonders
+gdc-coref,str8.0,69912,69945,_stage,69939,69944,Marie,marie
+gdc-coref,str8.0,69947,70596,melchior,69964,69967,Der,zangler
+gdc-coref,str8.0,69947,70596,melchior,69994,70002,dem Mann,zangler
+gdc-coref,str8.0,69947,70596,melchior,70009,70012,ich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70013,70017,mich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70027,70029,Er,zangler
+gdc-coref,str8.0,69947,70596,melchior,70035,70039,mich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70052,70068,einen Stockfisch,ein-Stockfisch
+gdc-coref,str8.0,69947,70596,melchior,70074,70077,man,man
+gdc-coref,str8.0,69947,70596,melchior,70113,70116,man,man
+gdc-coref,str8.0,69947,70596,melchior,70128,70140,ein Menschen,kein-Mensch
+gdc-coref,str8.0,69947,70596,melchior,70163,70166,Ich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70174,70178,mich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70221,70224,ihm,zangler
+gdc-coref,str8.0,69947,70596,melchior,70233,70236,ich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70237,70294,"die Liebenden, die ich in meinem Leben nicht gesehen hab'",sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70256,70259,ich,melchior
+gdc-coref,str8.0,69947,70596,melchior,70263,70269,meinem,melchior
+gdc-coref,str8.0,69947,70596,melchior,70307,70311,ihre,sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70363,70367,zwei,sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70373,70383,den Garten,den-Garten
+gdc-coref,str8.0,69947,70596,melchior,70398,70400,Er,sonders
+gdc-coref,str8.0,69947,70596,melchior,70409,70412,sie,marie
+gdc-coref,str8.0,69947,70596,melchior,70421,70424,sie,marie
+gdc-coref,str8.0,69947,70596,melchior,70436,70440,sich,marie
+gdc-coref,str8.0,69947,70596,melchior,70450,70453,das,sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70475,70482,fragt's,fragt's
+gdc-coref,str8.0,69947,70596,melchior,70483,70487,sich,fragt's
+gdc-coref,str8.0,69947,70596,melchior,70496,70498,es,sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70503,70511,unsrigen,melchior
+gdc-coref,str8.0,69947,70596,melchior,70524,70527,die,sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70534,70537,die,sonders-/-marie
+gdc-coref,str8.0,69947,70596,melchior,70538,70541,wir,melchior
+gdc-coref,str8.0,70553,70596,_stage,70559,70563,sich,melchior
+gdc-coref,str8.0,70553,70596,_stage,70577,70588,das Fenster,ein-großes-Fenster
+gdc-coref,str8.0,70608,70630,_stage,70612,70618,Marien,marie
+gdc-coref,str8.0,70600,70672,sonders,70660,70671,liebe Marie,marie
+gdc-coref,str8.0,70683,70723,_stage,70689,70701,einen Burnus,einen-Burnus
+gdc-coref,str8.0,70683,70723,_stage,70706,70709,Hut,Hut
+gdc-coref,str8.0,70683,70723,_stage,70714,70722,Schleier,Schleier
+gdc-coref,str8.0,70677,70752,marie,70728,70732,Gott,Gott
+gdc-coref,str8.0,70677,70752,marie,70734,70749,die vielen Leut,Gäste
+gdc-coref,str8.0,70757,70810,sonders,70773,70776,uns,sonders-/-marie
+gdc-coref,str8.0,70757,70810,sonders,70784,70787,wir,sonders-/-marie
+gdc-coref,str8.0,70815,70873,marie,70822,70825,Ich,marie
+gdc-coref,str8.0,70815,70873,marie,70853,70856,mir,marie
+gdc-coref,str8.0,70887,70896,_stage,70891,70895,sich,melchior
+gdc-coref,str8.0,70919,70986,marie,70955,70958,ich,marie
+gdc-coref,str8.0,70919,70986,marie,70960,70971,der Vormund,zangler
+gdc-coref,str8.0,70919,70986,marie,70982,70985,mir,marie
+gdc-coref,str8.0,71000,71009,_stage,71004,71008,sich,melchior
+gdc-coref,str8.0,70991,71052,melchior,71010,71013,Sie,marie
+gdc-coref,str8.0,70991,71052,melchior,71018,71031,einen Vormund,zangler
+gdc-coref,str8.0,70991,71052,melchior,71033,71036,die,sonders-/-marie
+gdc-coref,str8.0,71057,71199,sonders,71075,71109,der Sammelplatz der eleganten Welt,der-Sammelplatz-der-eleganten-Welt
+gdc-coref,str8.0,71057,71199,sonders,71128,71131,wir,sonders-/-marie
+gdc-coref,str8.0,71057,71199,sonders,71147,71167,so einem Spießbürger,zangler
+gdc-coref,str8.0,71204,71311,marie,71215,71221,August,sonders
+gdc-coref,str8.0,71204,71311,marie,71233,71235,du,sonders
+gdc-coref,str8.0,71204,71311,marie,71236,71240,mich,marie
+gdc-coref,str8.0,71204,71311,marie,71257,71260,ich,marie
+gdc-coref,str8.0,71204,71311,marie,71266,71269,dir,sonders
+gdc-coref,str8.0,71204,71311,marie,71289,71291,es,es
+gdc-coref,str8.0,71204,71311,marie,71300,71304,sich,es
+gdc-coref,str8.0,71325,71334,_stage,71329,71333,sich,melchior
+gdc-coref,str8.0,71359,71430,sonders,71374,71377,dir,marie
+gdc-coref,str8.0,71359,71430,sonders,71402,71414,dein Vormund,zangler
+gdc-coref,str8.0,71359,71430,sonders,71402,71406,dein,marie
+gdc-coref,str8.0,71444,71453,_stage,71448,71452,sich,melchior
+gdc-coref,str8.0,71435,71603,melchior,71476,71481,die's,die's
+gdc-coref,str8.0,71435,71603,melchior,71496,71515,Unserer ihr Vormund,zangler
+gdc-coref,str8.0,71435,71603,melchior,71496,71503,Unserer,zangler-/-melchior
+gdc-coref,str8.0,71435,71603,melchior,71504,71507,ihr,marie
+gdc-coref,str8.0,71435,71603,melchior,71538,71547,der ihrer,der-ihrer
+gdc-coref,str8.0,71435,71603,melchior,71542,71547,ihrer,ihrer
+gdc-coref,str8.0,71435,71603,melchior,71570,71602,"Liebende, die uns gar nix angehn","Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,71435,71603,melchior,71584,71587,uns,zangler-/-melchior
+gdc-coref,str8.0,71608,71663,sonders,71617,71619,Er,zangler
+gdc-coref,str8.0,71608,71663,sonders,71631,71634,uns,sonders-/-marie
+gdc-coref,str8.0,71677,71686,_stage,71681,71685,sich,melchior
+gdc-coref,str8.0,71668,71799,melchior,71687,71690,Die,"Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,71668,71799,melchior,71722,71734,die unsrigen,sonders-/-marie
+gdc-coref,str8.0,71668,71799,melchior,71726,71734,unsrigen,zangler-/-melchior
+gdc-coref,str8.0,71668,71799,melchior,71760,71763,das,das2
+gdc-coref,str8.0,71668,71799,melchior,71772,71796,ganz andere Verhältnisse,ganz-andere-Verhältnisse
+gdc-coref,str8.0,71804,71860,marie,71811,71813,Du,sonders
+gdc-coref,str8.0,71804,71860,marie,71827,71833,August,sonders
+gdc-coref,str8.0,71804,71860,marie,71835,71838,mir,marie
+gdc-coref,str8.0,71865,71936,sonders,71883,71903,"dich, liebes Mädchen",marie
+gdc-coref,str8.0,71865,71936,sonders,71905,71908,wir,sonders-/-marie
+gdc-coref,str8.0,71950,71959,_stage,71954,71958,sich,melchior
+gdc-coref,str8.0,71941,72092,melchior,71960,71963,Die,"Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,71941,72092,melchior,71996,72008,die unsrigen,sonders-/-marie
+gdc-coref,str8.0,71941,72092,melchior,72000,72008,unsrigen,zangler-/-melchior
+gdc-coref,str8.0,71941,72092,melchior,72053,72056,das,das2
+gdc-coref,str8.0,71941,72092,melchior,72067,72091,ganz andere Verhältnisse,ganz-andere-Verhältnisse
+gdc-coref,str8.0,72097,72172,marie,72108,72111,ich,marie
+gdc-coref,str8.0,72097,72172,marie,72121,72124,dir,sonders
+gdc-coref,str8.0,72097,72172,marie,72149,72152,das,das3
+gdc-coref,str8.0,72097,72172,marie,72161,72165,sich,das3
+gdc-coref,str8.0,72186,72195,_stage,72190,72194,sich,melchior
+gdc-coref,str8.0,72218,72488,sonders,72246,72249,ich,sonders
+gdc-coref,str8.0,72218,72488,sonders,72284,72339,"einem Freunde, dessen Schloß 2 Stunden von hier gelegen","einem-Freunde,---------------dessen-Schloß-2-Stunden-von-hier-gelegen"
+gdc-coref,str8.0,72218,72488,sonders,72345,72351,seiner,"einem-Freunde,---------------dessen-Schloß-2-Stunden-von-hier-gelegen"
+gdc-coref,str8.0,72218,72488,sonders,72367,72369,du,marie
+gdc-coref,str8.0,72218,72488,sonders,72397,72400,ich,sonders
+gdc-coref,str8.0,72218,72488,sonders,72438,72442,dich,marie
+gdc-coref,str8.0,72218,72488,sonders,72447,72451,mein,sonders
+gdc-coref,str8.0,72218,72488,sonders,72469,72481,meiner Tante,meiner-Tante
+gdc-coref,str8.0,72218,72488,sonders,72469,72475,meiner,sonders
+gdc-coref,str8.0,72502,72511,_stage,72506,72510,sich,melchior
+gdc-coref,str8.0,72493,72610,melchior,72512,72515,Die,"Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,72493,72610,melchior,72524,72534,einer Tant,meiner-Tante
+gdc-coref,str8.0,72493,72610,melchior,72540,72552,die unsrigen,sonders-/-marie
+gdc-coref,str8.0,72493,72610,melchior,72544,72552,unsrigen,zangler-/-melchior
+gdc-coref,str8.0,72493,72610,melchior,72564,72573,ein Onkel,zangler
+gdc-coref,str8.0,72493,72610,melchior,72584,72609,total andere Verhältnisse,ganz-andere-Verhältnisse
+gdc-coref,str8.0,72623,72642,_stage,72623,72631,Melchior,melchior
+gdc-coref,str8.0,72615,72660,sonders,72643,72646,Wer,melchior
+gdc-coref,str8.0,72665,72725,melchior,72692,72695,Sie,sonders
+gdc-coref,str8.0,72665,72725,melchior,72704,72709,Ihnen,sonders
+gdc-coref,str8.0,72665,72725,melchior,72714,72717,wir,zangler-/-melchior
+gdc-coref,str8.0,72730,72759,sonders,72739,72741,Er,melchior
+gdc-coref,str8.0,72730,72759,sonders,72746,72749,uns,sonders-/-marie
+gdc-coref,str8.0,72793,72824,sonders,72811,72813,Er,melchior
+gdc-coref,str8.0,72829,72927,melchior,72839,72842,Sie,sonders
+gdc-coref,str8.0,72829,72927,melchior,72865,72868,Sie,sonders
+gdc-coref,str8.0,72829,72927,melchior,72873,72885,die Fräulein,marie
+gdc-coref,str8.0,72829,72927,melchior,72901,72904,ich,melchior
+gdc-coref,str8.0,72829,72927,melchior,72916,72926,mein Herrn,zangler
+gdc-coref,str8.0,72829,72927,melchior,72916,72920,mein,melchior
+gdc-coref,str8.0,72932,72963,sonders,72950,72953,das,das4
+gdc-coref,str8.0,72932,72963,sonders,72954,72957,uns,sonders-/-marie
+gdc-coref,str8.0,72968,73110,melchior,72990,72993,Sie,"Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,72968,73110,melchior,72994,72997,die,sonders-/-marie
+gdc-coref,str8.0,72968,73110,melchior,73005,73008,die,sonders-/-marie
+gdc-coref,str8.0,72968,73110,melchior,73016,73022,ging's,das4
+gdc-coref,str8.0,72968,73110,melchior,73023,73028,Ihnen,"Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,72968,73110,melchior,73069,73074,Ihnen,"Liebende,-die-uns-gar-nix-angehn"
+gdc-coref,str8.0,72968,73110,melchior,73080,73082,es,das2
+gdc-coref,str8.0,72968,73110,melchior,73083,73107,ganz andere Verhältnisse,ganz-andere-Verhältnisse
+gdc-coref,str8.0,73115,73153,sonders,73124,73127,Ich,sonders
+gdc-coref,str8.0,73115,73153,sonders,73136,73138,Er,melchior
+gdc-coref,str8.0,73179,73204,_stage,73179,73190,Ein Kellner,kellner
+gdc-coref,str8.0,73179,73204,_stage,73192,73203,Die Vorigen,melchior-/-marie-+-1
+gdc-coref,str8.0,73248,73284,sonders,73265,73267,du,kellner
+gdc-coref,str8.0,73248,73284,sonders,73272,73275,uns,sonders-/-marie
+gdc-coref,str8.0,73289,73347,kellner,73301,73311,Ew. Gnaden,sonders
+gdc-coref,str8.0,73289,73347,kellner,73337,73346,der Laube,der-Laube
+gdc-coref,str8.0,73352,73379,sonders,73367,73378,liebe Marie,marie
+gdc-coref,str8.0,73384,73455,marie,73395,73401,August,sonders
+gdc-coref,str8.0,73384,73455,marie,73403,73405,es,es2
+gdc-coref,str8.0,73384,73455,marie,73414,73418,sich,es2
+gdc-coref,str8.0,73427,73455,_stage,73437,73448,der Kellner,kellner
+gdc-coref,str8.0,73483,73499,_stage,73483,73491,Melchior,melchior
+gdc-coref,str8.0,73501,73607,melchior,73511,73514,Die,ihrer
+gdc-coref,str8.0,73501,73607,melchior,73527,73529,es,es2
+gdc-coref,str8.0,73501,73607,melchior,73538,73542,sich,es2
+gdc-coref,str8.0,73501,73607,melchior,73575,73584,die Laube,der-Laube
+gdc-coref,str8.0,73637,73689,_stage,73637,73649,Madame Knorr,madame_knorr
+gdc-coref,str8.0,73637,73689,_stage,73651,73667,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,73637,73689,_stage,73669,73677,Weinberl,weinberl
+gdc-coref,str8.0,73637,73689,_stage,73679,73688,Christoph,christoph
+gdc-coref,str8.0,73690,73854,_stage,73690,73698,Weinberl,weinberl
+gdc-coref,str8.0,73690,73854,_stage,73705,73721,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,73690,73854,_stage,73723,73732,Christoph,christoph
+gdc-coref,str8.0,73690,73854,_stage,73733,73745,Madame Knorr,madame_knorr
+gdc-coref,str8.0,73690,73854,_stage,73747,73763,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,73690,73854,_stage,73770,73782,einen Burnus,einen-Burnus2
+gdc-coref,str8.0,73690,73854,_stage,73787,73790,Hut,Hut2
+gdc-coref,str8.0,73690,73854,_stage,73795,73803,Schleier,Schleier2
+gdc-coref,str8.0,73690,73854,_stage,73829,73834,jenen,einen-Burnus-/-Schleier-+-1
+gdc-coref,str8.0,73690,73854,_stage,73839,73845,Marien,marie
+gdc-coref,str8.0,73873,73885,_stage,73876,73884,Weinberl,weinberl
+gdc-coref,str8.0,73856,73982,frau_von_fischer,73886,73889,Ich,frau_von_fischer
+gdc-coref,str8.0,73856,73982,frau_von_fischer,73906,73917,mein Lieber,Herr-von-Geist
+gdc-coref,str8.0,73856,73982,frau_von_fischer,73906,73910,mein,frau_von_fischer
+gdc-coref,str8.0,73856,73982,frau_von_fischer,73923,73926,dir,Herr-von-Geist
+gdc-coref,str8.0,73856,73982,frau_von_fischer,73948,73950,du,Herr-von-Geist
+gdc-coref,str8.0,73856,73982,frau_von_fischer,73951,73960,den Wag'n,einen-Wagen
+gdc-coref,str8.0,73987,74053,madame_knorr,74015,74018,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,73987,74053,madame_knorr,74042,74045,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,74058,74103,christoph,74080,74083,man,man
+gdc-coref,str8.0,74058,74103,christoph,74084,74093,kein Geld,kein-Geld
+gdc-coref,str8.0,74117,74136,_stage,74126,74135,Christoph,christoph
+gdc-coref,str8.0,74108,74331,weinberl,74137,74140,Ich,weinberl
+gdc-coref,str8.0,74108,74331,weinberl,74157,74166,kein Geld,kein-Geld
+gdc-coref,str8.0,74108,74331,weinberl,74183,74186,ich,weinberl
+gdc-coref,str8.0,74108,74331,weinberl,74200,74205,keins,'s-Geld
+gdc-coref,str8.0,74108,74331,weinberl,74226,74242,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,74108,74331,weinberl,74254,74259,Liebe,frau_von_fischer
+gdc-coref,str8.0,74108,74331,weinberl,74261,74264,ich,weinberl
+gdc-coref,str8.0,74108,74331,weinberl,74303,74306,wir,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,74108,74331,weinberl,74310,74313,Fuß,Fuß
+gdc-coref,str8.0,74336,74363,frau_von_fischer,74357,74360,Fuß,Fuß
+gdc-coref,str8.0,74368,74453,madame_knorr,74405,74408,dir,frau_von_fischer
+gdc-coref,str8.0,74368,74453,madame_knorr,74443,74445,er,Herr-von-Geist
+gdc-coref,str8.0,74512,74528,_stage,74515,74527,Madame Knorr,madame_knorr
+gdc-coref,str8.0,74502,74572,christoph,74533,74536,wir,christoph-/-madame_knorr
+gdc-coref,str8.0,74502,74572,christoph,74553,74560,Unsrige,christoph-/-madame_knorr
+gdc-coref,str8.0,74577,74614,madame_knorr,74593,74613,Sie schlimmer Cousin,Sie-schlimmer-Cousin
+gdc-coref,str8.0,74619,74701,weinberl,74641,74644,wir,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,74706,74796,frau_von_fischer,74741,74750,der Abend,der-Abend
+gdc-coref,str8.0,74706,74796,frau_von_fischer,74768,74770,du,weinberl
+gdc-coref,str8.0,74706,74796,frau_von_fischer,74771,74775,mich,frau_von_fischer
+gdc-coref,str8.0,74801,74907,madame_knorr,74839,74842,man,man
+gdc-coref,str8.0,74921,74930,_stage,74925,74929,sich,weinberl
+gdc-coref,str8.0,74912,75010,weinberl,74931,74935,Mich,weinberl
+gdc-coref,str8.0,74912,75010,weinberl,74976,74978,s',frau_von_fischer
+gdc-coref,str8.0,75032,75044,_stage,75035,75043,Weinberl,weinberl
+gdc-coref,str8.0,75015,75072,frau_von_fischer,75061,75064,wir,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,75090,75110,_stage,75093,75109,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,75077,75201,madame_knorr,75142,75145,mir,madame_knorr
+gdc-coref,str8.0,75077,75201,madame_knorr,75151,75154,ich,madame_knorr
+gdc-coref,str8.0,75077,75201,madame_knorr,75171,75181,den Mantel,den-Mantel
+gdc-coref,str8.0,75206,75370,frau_von_fischer,75247,75250,ich,frau_von_fischer
+gdc-coref,str8.0,75267,75370,_stage,75281,75291,am Fenster,ein-großes-Fenster
+gdc-coref,str8.0,75267,75370,_stage,75317,75327,den Burnus,einen-Burnus2
+gdc-coref,str8.0,75267,75370,_stage,75338,75341,ihr,frau_von_fischer
+gdc-coref,str8.0,75267,75370,_stage,75342,75354,Madame Knorr,madame_knorr
+gdc-coref,str8.0,75383,75411,_stage,75401,75410,Christoph,christoph
+gdc-coref,str8.0,75374,75458,weinberl,75412,75421,Christoph,christoph
+gdc-coref,str8.0,75374,75458,weinberl,75423,75426,Sie,christoph
+gdc-coref,str8.0,75374,75458,weinberl,75453,75457,sich,christoph
+gdc-coref,str8.0,75463,75490,christoph,75484,75489,keins,'s-Geld
+gdc-coref,str8.0,75495,75595,weinberl,75505,75508,Sie,christoph
+gdc-coref,str8.0,75495,75595,weinberl,75534,75537,Sie,christoph
+gdc-coref,str8.0,75495,75595,weinberl,75579,75582,ich,weinberl
+gdc-coref,str8.0,75495,75595,weinberl,75583,75588,Ihnen,christoph
+gdc-coref,str8.0,75600,75733,christoph,75620,75622,S',weinberl
+gdc-coref,str8.0,75600,75733,christoph,75623,75627,mich,christoph
+gdc-coref,str8.0,75600,75733,christoph,75675,75678,ich,christoph
+gdc-coref,str8.0,75600,75733,christoph,75684,75688,mich,christoph
+gdc-coref,str8.0,75600,75733,christoph,75693,75698,Ihnen,weinberl
+gdc-coref,str8.0,75600,75733,christoph,75725,75727,S',weinberl
+gdc-coref,str8.0,75738,75795,weinberl,75748,75751,Ich,weinberl
+gdc-coref,str8.0,75738,75795,weinberl,75757,75760,mir,weinberl
+gdc-coref,str8.0,75738,75795,weinberl,75773,75782,10 Gulden,10-Gulden
+gdc-coref,str8.0,75800,75869,christoph,75819,75825,10 fl.,10-Gulden
+gdc-coref,str8.0,75800,75869,christoph,75832,75835,Sie,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,75889,75892,ich,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,75915,75918,ich,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,75959,75962,ich,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,75969,75974,Abend,der-Abend
+gdc-coref,str8.0,75874,76166,weinberl,75975,75984,eine Frau,frau_von_fischer
+gdc-coref,str8.0,75874,76166,weinberl,76002,76005,man,man
+gdc-coref,str8.0,75874,76166,weinberl,76036,76039,mir,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,76076,76079,ich,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,76103,76106,ich,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,76107,76110,mir,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,76140,76143,ich,weinberl
+gdc-coref,str8.0,75874,76166,weinberl,76154,76165,zwei Gulden,zwei-Gulden
+gdc-coref,str8.0,76171,76269,christoph,76201,76204,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,76171,76269,christoph,76205,76213,a Jausen,a-Jausen
+gdc-coref,str8.0,76171,76269,christoph,76218,76229,vier Person,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,76171,76269,christoph,76252,76257,unser,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,76274,76318,weinberl,76306,76317,einer Krida,einer-Krida
+gdc-coref,str8.0,76340,76368,_stage,76344,76356,Madame Knorr,madame_knorr
+gdc-coref,str8.0,76323,76424,frau_von_fischer,76374,76389,"lieber Mann, du",Herr-von-Geist
+gdc-coref,str8.0,76323,76424,frau_von_fischer,76401,76412,den Kellner,kellner
+gdc-coref,str8.0,76429,76537,weinberl,76445,76448,ich,weinberl
+gdc-coref,str8.0,76429,76537,weinberl,76481,76483,Du,frau_von_fischer
+gdc-coref,str8.0,76429,76537,weinberl,76511,76514,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,76542,76570,frau_von_fischer,76560,76563,Was,a-Jausen
+gdc-coref,str8.0,76575,76646,weinberl,76628,76631,mir,weinberl
+gdc-coref,str8.0,76688,76731,weinberl,76723,76730,Kellner,kellner
+gdc-coref,str8.0,76736,76781,frau_von_fischer,76762,76766,dich,Herr-von-Geist
+gdc-coref,str8.0,76736,76781,frau_von_fischer,76767,76774,niemand,niemanden
+gdc-coref,str8.0,76786,76912,weinberl,76796,76799,Ich,weinberl
+gdc-coref,str8.0,76786,76912,weinberl,76827,76830,mir,weinberl
+gdc-coref,str8.0,76786,76912,weinberl,76904,76911,Kellner,kellner
+gdc-coref,str8.0,76917,76943,christoph,76933,76940,Kellner,kellner
+gdc-coref,str8.0,76966,76982,_stage,76969,76981,Madame Knorr,madame_knorr
+gdc-coref,str8.0,76949,77179,frau_von_fischer,76983,76992,Mein Mann,Herr-von-Geist
+gdc-coref,str8.0,76949,77179,frau_von_fischer,76983,76987,Mein,frau_von_fischer
+gdc-coref,str8.0,76949,77179,frau_von_fischer,76999,77003,sich,Herr-von-Geist
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77047,77056,die Jause,a-Jausen
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77062,77066,dich,madame_knorr
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77097,77101,sich,frau_von_fischer
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77103,77106,Ich,frau_von_fischer
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77115,77125,der Mensch,weinberl
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77133,77137,mich,frau_von_fischer
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77166,77168,er,weinberl
+gdc-coref,str8.0,76949,77179,frau_von_fischer,77169,77172,mir,frau_von_fischer
+gdc-coref,str8.0,77208,77229,_stage,77208,77215,Kellner,kellner
+gdc-coref,str8.0,77208,77229,_stage,77217,77228,Die Vorigen,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,77231,77264,kellner,77253,77263,Ew. Gnaden,weinberl
+gdc-coref,str8.0,77269,77388,weinberl,77279,77282,Sie,kellner
+gdc-coref,str8.0,77269,77388,weinberl,77309,77312,Sie,kellner
+gdc-coref,str8.0,77269,77388,weinberl,77337,77340,Sie,kellner
+gdc-coref,str8.0,77269,77388,weinberl,77363,77366,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,77269,77388,weinberl,77367,77370,Sie,kellner
+gdc-coref,str8.0,77393,77422,kellner,77402,77412,Ew. Gnad'n,weinberl
+gdc-coref,str8.0,77427,77494,weinberl,77456,77459,ich,weinberl
+gdc-coref,str8.0,77427,77494,weinberl,77460,77465,Ihnen,kellner
+gdc-coref,str8.0,77509,77527,_stage,77518,77526,Weinberl,weinberl
+gdc-coref,str8.0,77499,77548,christoph,77540,77542,S',weinberl
+gdc-coref,str8.0,77561,77573,_stage,77564,77572,Weinberl,weinberl
+gdc-coref,str8.0,77553,77637,kellner,77581,77591,Ew. Gnaden,weinberl
+gdc-coref,str8.0,77642,77780,weinberl,77654,77657,ich,weinberl
+gdc-coref,str8.0,77642,77780,weinberl,77675,77684,Christoph,christoph
+gdc-coref,str8.0,77642,77780,weinberl,77694,77697,ich,weinberl
+gdc-coref,str8.0,77642,77780,weinberl,77717,77719,er,kellner
+gdc-coref,str8.0,77642,77780,weinberl,77724,77727,mir,weinberl
+gdc-coref,str8.0,77802,77846,_stage,77822,77834,Madame Knorr,madame_knorr
+gdc-coref,str8.0,77927,77989,weinberl,77937,77940,Wir,weinberl-/-kellner
+gdc-coref,str8.0,77927,77989,weinberl,77960,77963,ich,weinberl
+gdc-coref,str8.0,77994,78133,frau_von_fischer,78012,78018,Kaffee,Eine-Tasse-Kaffee
+gdc-coref,str8.0,77994,78133,frau_von_fischer,78042,78057,meiner Freundin,madame_knorr
+gdc-coref,str8.0,77994,78133,frau_von_fischer,78042,78048,meiner,frau_von_fischer
+gdc-coref,str8.0,77994,78133,frau_von_fischer,78069,78071,du,Herr-von-Geist
+gdc-coref,str8.0,77994,78133,frau_von_fischer,78077,78087,eine Jause,a-Jausen
+gdc-coref,str8.0,77994,78133,frau_von_fischer,78099,78102,die,a-Jausen
+gdc-coref,str8.0,78138,78292,weinberl,78155,78166,Zum Kellner,kellner
+gdc-coref,str8.0,78138,78292,weinberl,78179,78182,Sie,kellner
+gdc-coref,str8.0,78138,78292,weinberl,78183,78186,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,78138,78292,weinberl,78210,78226,drei Seitel Bier,eins-/-zwei
+gdc-coref,str8.0,78138,78292,weinberl,78228,78232,zwei,zwei
+gdc-coref,str8.0,78138,78292,weinberl,78237,78240,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,78138,78292,weinberl,78245,78249,eins,eins
+gdc-coref,str8.0,78138,78292,weinberl,78254,78263,die Damen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,78138,78292,weinberl,78269,78273,sich,weinberl
+gdc-coref,str8.0,78138,78292,weinberl,78275,78278,Das,eins-/-zwei2
+gdc-coref,str8.0,78297,78356,frau_von_fischer,78324,78327,das,eins-/-zwei2
+gdc-coref,str8.0,78297,78356,frau_von_fischer,78329,78331,du,Herr-von-Geist
+gdc-coref,str8.0,78297,78356,frau_von_fischer,78339,78342,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,78361,78396,madame_knorr,78375,78378,Ich,madame_knorr
+gdc-coref,str8.0,78361,78396,madame_knorr,78390,78394,Bier,Bier
+gdc-coref,str8.0,78410,78422,_stage,78410,78421,zum Kellner,kellner
+gdc-coref,str8.0,78401,78499,weinberl,78436,78439,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,78401,78499,weinberl,78440,78444,Bier,Bier
+gdc-coref,str8.0,78401,78499,weinberl,78450,78459,die Damen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,78401,78499,weinberl,78460,78466,Wasser,Wasser2
+gdc-coref,str8.0,78401,78499,weinberl,78472,78476,sich,weinberl
+gdc-coref,str8.0,78401,78499,weinberl,78478,78481,Das,Wasser2
+gdc-coref,str8.0,78505,78536,frau_von_fischer,78528,78532,Mann,weinberl
+gdc-coref,str8.0,78541,78585,madame_knorr,78555,78558,Ich,madame_knorr
+gdc-coref,str8.0,78590,78655,weinberl,78617,78628,Zum Kellner,kellner
+gdc-coref,str8.0,78590,78655,weinberl,78636,78639,Sie,kellner
+gdc-coref,str8.0,78703,78756,kellner,78712,78715,Das,Das3
+gdc-coref,str8.0,78703,78756,kellner,78723,78726,ich,kellner
+gdc-coref,str8.0,78703,78756,kellner,78740,78742,es,Das3
+gdc-coref,str8.0,78770,78779,_stage,78774,78778,sich,weinberl
+gdc-coref,str8.0,78761,78832,weinberl,78780,78783,Das,Das3
+gdc-coref,str8.0,78761,78832,weinberl,78816,78818,s',FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,78854,78872,_stage,78863,78871,Weinberl,weinberl
+gdc-coref,str8.0,78837,78914,frau_von_fischer,78873,78877,Mann,Herr-von-Geist
+gdc-coref,str8.0,78837,78914,frau_von_fischer,78890,78893,ich,frau_von_fischer
+gdc-coref,str8.0,78837,78914,frau_von_fischer,78894,78897,dir,Herr-von-Geist
+gdc-coref,str8.0,78928,78956,_stage,78944,78955,zum Kellner,kellner
+gdc-coref,str8.0,78919,79101,weinberl,78970,78973,Sie,kellner
+gdc-coref,str8.0,78919,79101,weinberl,78991,78994,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,78919,79101,weinberl,78995,78999,Bier,Bier
+gdc-coref,str8.0,78919,79101,weinberl,79008,79017,die Damen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,78919,79101,weinberl,79041,79045,sich,weinberl
+gdc-coref,str8.0,78919,79101,weinberl,79051,79059,2 Gulden,zwei-Gulden
+gdc-coref,str8.0,78919,79101,weinberl,79081,79090,die Krida,einer-Krida
+gdc-coref,str8.0,79123,79139,_stage,79126,79138,Madame Knorr,madame_knorr
+gdc-coref,str8.0,79106,79239,frau_von_fischer,79149,79158,mein Mann,Herr-von-Geist
+gdc-coref,str8.0,79106,79239,frau_von_fischer,79149,79153,mein,frau_von_fischer
+gdc-coref,str8.0,79106,79239,frau_von_fischer,79166,79172,seinen,Herr-von-Geist
+gdc-coref,str8.0,79106,79239,frau_von_fischer,79192,79200,Weinberl,weinberl
+gdc-coref,str8.0,79106,79239,frau_von_fischer,79202,79213,Herr Gemahl,Herr-von-Geist
+gdc-coref,str8.0,79106,79239,frau_von_fischer,79226,79229,ich,frau_von_fischer
+gdc-coref,str8.0,79253,79262,_stage,79257,79261,sich,weinberl
+gdc-coref,str8.0,79289,79399,frau_von_fischer,79318,79321,man,man
+gdc-coref,str8.0,79289,79399,frau_von_fischer,79337,79340,man,man
+gdc-coref,str8.0,79289,79399,frau_von_fischer,79341,79346,Damen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,79289,79399,frau_von_fischer,79359,79371,"Kellner, Sie",kellner
+gdc-coref,str8.0,79289,79399,frau_von_fischer,79382,79385,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,79404,79450,kellner,79434,79439,einer,einer2
+gdc-coref,str8.0,79455,79562,frau_von_fischer,79478,79485,Kompott,Kompott
+gdc-coref,str8.0,79455,79562,frau_von_fischer,79528,79537,Rheinwein,Rheinwein
+gdc-coref,str8.0,79567,79651,kellner,79587,79597,Ew. Gnaden,frau_von_fischer
+gdc-coref,str8.0,79567,79651,kellner,79611,79613,er,kellner
+gdc-coref,str8.0,79567,79651,kellner,79638,79646,im Salon,Eleganter-Gartensalon
+gdc-coref,str8.0,79680,79706,_stage,79680,79691,Die Vorigen,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,79725,79741,_stage,79728,79740,Madame Knorr,madame_knorr
+gdc-coref,str8.0,79708,79779,frau_von_fischer,79752,79755,ich,frau_von_fischer
+gdc-coref,str8.0,79708,79779,frau_von_fischer,79756,79762,deinen,madame_knorr
+gdc-coref,str8.0,79784,79820,madame_knorr,79798,79800,'s,Rheinwein-/-Kompott
+gdc-coref,str8.0,79835,79847,_stage,79838,79846,Weinberl,weinberl
+gdc-coref,str8.0,79825,79873,christoph,79862,79867,Ihnen,weinberl
+gdc-coref,str8.0,79878,79934,weinberl,79888,79891,Mir,weinberl
+gdc-coref,str8.0,79878,79934,weinberl,79918,79921,ich,weinberl
+gdc-coref,str8.0,79939,79991,christoph,79954,79957,ich,christoph
+gdc-coref,str8.0,79939,79991,christoph,79969,79982,aufs Abfahr'n,aufs-Abfahr'n
+gdc-coref,str8.0,79996,80138,weinberl,80032,80040,Abfahr'n,aufs-Abfahr'n
+gdc-coref,str8.0,79996,80138,weinberl,80045,80048,Sie,christoph
+gdc-coref,str8.0,79996,80138,weinberl,80063,80068,Krida,einer-Krida
+gdc-coref,str8.0,79996,80138,weinberl,80096,80099,das,aufs-Abfahr'n
+gdc-coref,str8.0,80143,80215,christoph,80154,80165,Der Kellner,kellner
+gdc-coref,str8.0,80143,80215,christoph,80171,80175,sich,kellner
+gdc-coref,str8.0,80143,80215,christoph,80197,80207,die Frauen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,80220,80313,weinberl,80240,80243,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,80220,80313,weinberl,80261,80271,die Frauen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,80318,80379,christoph,80343,80345,s',FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,80318,80379,christoph,80346,80349,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,80318,80379,christoph,80366,80378,diese Weiber,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,80384,80444,weinberl,80394,80397,Das,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,80539,80643,_stage,80539,80554,Zweiter Kellner,zweiter_kellner
+gdc-coref,str8.0,80539,80643,_stage,80571,80580,den Tisch,den-Tisch
+gdc-coref,str8.0,80539,80643,_stage,80595,80598,ihn,den-Tisch
+gdc-coref,str8.0,80539,80643,_stage,80623,80642,die Mitte der Bühne,zur-Mitte
+gdc-coref,str8.0,80539,80643,_stage,80633,80642,der Bühne,die-----------Bühne
+gdc-coref,str8.0,80656,80676,_stage,80659,80675,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,80647,80761,weinberl,80677,80679,Du,frau_von_fischer
+gdc-coref,str8.0,80647,80761,weinberl,80695,80706,meine Liebe,frau_von_fischer
+gdc-coref,str8.0,80647,80761,weinberl,80695,80700,meine,weinberl
+gdc-coref,str8.0,80647,80761,weinberl,80717,80720,mir,weinberl
+gdc-coref,str8.0,80647,80761,weinberl,80756,80759,mir,weinberl
+gdc-coref,str8.0,80766,80869,madame_knorr,80784,80787,Sie,Herr-von-Geist
+gdc-coref,str8.0,80766,80869,madame_knorr,80830,80840,Ihrer Frau,frau_von_fischer
+gdc-coref,str8.0,80766,80869,madame_knorr,80830,80835,Ihrer,Herr-von-Geist
+gdc-coref,str8.0,80766,80869,madame_knorr,80853,80856,ich,madame_knorr
+gdc-coref,str8.0,80884,80909,_stage,80896,80908,Madame Knorr,madame_knorr
+gdc-coref,str8.0,80874,80958,christoph,80917,80920,Sie,madame_knorr
+gdc-coref,str8.0,80963,81080,madame_knorr,80977,80990,Junger Mensch,Sie-schlimmer-Cousin
+gdc-coref,str8.0,80963,81080,madame_knorr,80992,80995,ich,madame_knorr
+gdc-coref,str8.0,80963,81080,madame_knorr,81001,81006,Ihnen,Sie-schlimmer-Cousin
+gdc-coref,str8.0,80963,81080,madame_knorr,81025,81028,ich,madame_knorr
+gdc-coref,str8.0,80963,81080,madame_knorr,81045,81048,ich,madame_knorr
+gdc-coref,str8.0,80963,81080,madame_knorr,81062,81079,diesen einen Mann,zangler
+gdc-coref,str8.0,81085,81177,christoph,81100,81103,Sie,madame_knorr
+gdc-coref,str8.0,81085,81177,christoph,81108,81118,einen Mann,zangler
+gdc-coref,str8.0,81085,81177,christoph,81131,81136,Ihnen,madame_knorr
+gdc-coref,str8.0,81182,81243,madame_knorr,81202,81205,Sie,Sie-schlimmer-Cousin
+gdc-coref,str8.0,81182,81243,madame_knorr,81211,81214,Sie,Sie-schlimmer-Cousin
+gdc-coref,str8.0,81274,81310,_stage,81274,81281,Kellner,kellner
+gdc-coref,str8.0,81274,81310,_stage,81283,81294,die Vorigen,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,81274,81310,_stage,81301,81309,Melchior,melchior
+gdc-coref,str8.0,81320,81349,_stage,81320,81325,Fasan,einer2
+gdc-coref,str8.0,81320,81349,_stage,81330,81339,Rheinwein,Rheinwein
+gdc-coref,str8.0,81312,81410,kellner,81358,81368,Ew. Gnaden,frau_von_fischer
+gdc-coref,str8.0,81312,81410,kellner,81400,81409,den Tisch,den-Tisch
+gdc-coref,str8.0,81415,81480,frau_von_fischer,81443,81455,Madame Knorr,madame_knorr
+gdc-coref,str8.0,81415,81480,frau_von_fischer,81463,81477,liebe Freundin,madame_knorr
+gdc-coref,str8.0,81494,81506,_stage,81494,81505,zum Kellner,kellner
+gdc-coref,str8.0,81485,81560,weinberl,81507,81510,Sie,kellner
+gdc-coref,str8.0,81485,81560,weinberl,81529,81551,einen wällischen Salat,einen-wällischen-Salat
+gdc-coref,str8.0,81616,81740,weinberl,81633,81636,das,keinen-Preis
+gdc-coref,str8.0,81616,81740,weinberl,81642,81645,was,keinen-Preis
+gdc-coref,str8.0,81616,81740,weinberl,81655,81658,Sie,kellner
+gdc-coref,str8.0,81616,81740,weinberl,81671,81674,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,81616,81740,weinberl,81682,81685,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,81616,81740,weinberl,81693,81705,keinen Preis,keinen-Preis
+gdc-coref,str8.0,81616,81740,weinberl,81711,81715,sich,weinberl
+gdc-coref,str8.0,81616,81740,weinberl,81717,81737,"Wart's, Gourmanninen",FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,81745,81857,kellner,81765,81775,Ew. Gnaden,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,81787,81857,_stage,81787,81795,Melchior,melchior
+gdc-coref,str8.0,81787,81857,_stage,81806,81851,"dem zweiten Kellner, welcher ein Gedeck trägt",zweiter_kellner
+gdc-coref,str8.0,81861,81970,melchior,81888,81891,Ich,melchior
+gdc-coref,str8.0,81861,81970,melchior,81904,81914,mein Herrn,zangler
+gdc-coref,str8.0,81861,81970,melchior,81904,81908,mein,melchior
+gdc-coref,str8.0,81861,81970,melchior,81950,81954,sich,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,81861,81970,melchior,81955,81961,andere,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,81975,82045,weinberl,81985,81988,Ich,weinberl
+gdc-coref,str8.0,81975,82045,weinberl,82000,82022,einem öffentlichen Ort,einem-öffentlichen-Ort
+gdc-coref,str8.0,82086,82143,zweiter_kellner,82106,82115,dem Salon,Eleganter-Gartensalon
+gdc-coref,str8.0,82148,82190,melchior,82158,82167,Mein Herr,zangler
+gdc-coref,str8.0,82148,82190,melchior,82158,82162,Mein,melchior
+gdc-coref,str8.0,82195,82252,christoph,82216,82218,er,zangler
+gdc-coref,str8.0,82195,82252,christoph,82222,82245,keinen öffentlichen Ort,einem-öffentlichen-Ort
+gdc-coref,str8.0,82257,82334,melchior,82291,82294,Sie,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82257,82334,melchior,82302,82306,sich,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82257,82334,melchior,82320,82326,Garten,den-Garten
+gdc-coref,str8.0,82339,82387,frau_von_fischer,82366,82375,Sein Herr,zangler
+gdc-coref,str8.0,82339,82387,frau_von_fischer,82366,82370,Sein,melchior
+gdc-coref,str8.0,82392,82521,melchior,82402,82411,Mein Herr,zangler
+gdc-coref,str8.0,82392,82521,melchior,82402,82406,Mein,melchior
+gdc-coref,str8.0,82392,82521,melchior,82429,82435,jemand,sonders-/-marie
+gdc-coref,str8.0,82392,82521,melchior,82467,82476,mein Herr,zangler
+gdc-coref,str8.0,82392,82521,melchior,82467,82471,mein,melchior
+gdc-coref,str8.0,82392,82521,melchior,82482,82486,sich,zangler
+gdc-coref,str8.0,82392,82521,melchior,82499,82511,Ihnen vieren,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82526,82599,weinberl,82540,82549,wir viere,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82526,82599,weinberl,82556,82559,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82526,82599,weinberl,82579,82589,Sein Herrn,zangler
+gdc-coref,str8.0,82526,82599,weinberl,82579,82583,Sein,melchior
+gdc-coref,str8.0,82604,82817,melchior,82648,82657,mein Herr,zangler
+gdc-coref,str8.0,82604,82817,melchior,82648,82652,mein,melchior
+gdc-coref,str8.0,82604,82817,melchior,82689,82696,die Tür,eine-Glastüre
+gdc-coref,str8.0,82701,82817,_stage,82707,82744,"den Tisch, welchen der Kellner deckte","den-Tisch,-welchen-der-Kellner-deckte"
+gdc-coref,str8.0,82701,82817,_stage,82726,82737,der Kellner,zweiter_kellner
+gdc-coref,str8.0,82701,82817,_stage,82762,82771,die Mitte,zur-Mitte
+gdc-coref,str8.0,82701,82817,_stage,82790,82816,den Tisch der Gesellschaft,den-Tisch
+gdc-coref,str8.0,82701,82817,_stage,82800,82816,der Gesellschaft,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82821,82855,madame_knorr,82844,82847,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,82860,82931,melchior,82875,82890,der dumme Salon,Eleganter-Gartensalon
+gdc-coref,str8.0,82860,82931,melchior,82898,82907,der Mitte,der-Mitte
+gdc-coref,str8.0,82936,83029,weinberl,82953,82962,Sein Herr,zangler
+gdc-coref,str8.0,82936,83029,weinberl,82953,82957,Sein,melchior
+gdc-coref,str8.0,82936,83029,weinberl,83014,83016,er,zangler
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83051,83054,Man,man
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83131,83199,die zwischen Fenster und Tür lehnende zusammengelegte spanische Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83144,83151,Fenster,ein-großes-Fenster
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83156,83159,Tür,eine-Glastüre
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83211,83229,die spanische Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83246,83249,man,man
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83250,83253,die,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,83034,83326,zweiter_kellner,83257,83266,der Mitte,der-Mitte
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83357,83360,Sie,zweiter_kellner
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83369,83372,Sie,zweiter_kellner
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83384,83396,Madame Knorr,madame_knorr
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83404,83407,wir,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83408,83418,unsre Hüte,unsre-Hüte
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83408,83413,unsre,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83433,83436,wir,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83437,83440,uns,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83451,83463,Madame Knorr,madame_knorr
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83491,83494,sie,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83517,83526,ihre Hüte,unsre-Hüte
+gdc-coref,str8.0,83332,83535,frau_von_fischer,83517,83521,ihre,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83550,83562,_stage,83553,83561,Weinberl,weinberl
+gdc-coref,str8.0,83540,83638,christoph,83596,83599,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,83540,83638,christoph,83600,83603,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,83540,83638,christoph,83608,83618,den Frauen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,83652,83708,_stage,83655,83707,"Melchior, welcher die spanische Wand aufstellen will",melchior
+gdc-coref,str8.0,83652,83708,_stage,83677,83691,spanische Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,83643,83798,weinberl,83714,83716,Er,melchior
+gdc-coref,str8.0,83643,83798,weinberl,83721,83740,der spanischen Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,83643,83798,weinberl,83771,83774,ich,weinberl
+gdc-coref,str8.0,83643,83798,weinberl,83775,83778,Ihn,melchior
+gdc-coref,str8.0,83840,83925,weinberl,83850,83853,Wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,83840,83925,weinberl,83861,83864,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,83930,83978,melchior,83950,83952,S',weinberl
+gdc-coref,str8.0,83930,83978,melchior,83963,83966,ich,melchior
+gdc-coref,str8.0,83930,83978,melchior,83967,83977,mein Herrn,zangler
+gdc-coref,str8.0,83930,83978,melchior,83967,83971,mein,melchior
+gdc-coref,str8.0,83983,84020,christoph,84006,84009,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,83983,84020,christoph,84010,84019,Sein Herr,zangler
+gdc-coref,str8.0,83983,84020,christoph,84010,84014,Sein,melchior
+gdc-coref,str8.0,84025,84078,weinberl,84035,84037,Er,zangler
+gdc-coref,str8.0,84025,84078,weinberl,84055,84058,wir,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,84025,84078,weinberl,84066,84069,ihm,zangler
+gdc-coref,str8.0,84083,84173,melchior,84102,84104,er,zangler
+gdc-coref,str8.0,84083,84173,melchior,84139,84147,Weinberl,weinberl
+gdc-coref,str8.0,84083,84173,melchior,84152,84161,Christoph,christoph
+gdc-coref,str8.0,84083,84173,melchior,84170,84172,S',WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,84178,84246,weinberl,84222,84231,Kontinent,Kontinent
+gdc-coref,str8.0,84178,84246,weinberl,84235,84239,dich,Kontinent
+gdc-coref,str8.0,84251,84315,christoph,84309,84312,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,84320,84367,weinberl,84353,84366,Der Prinzipal,zangler
+gdc-coref,str8.0,84381,84393,_stage,84384,84392,Melchior,melchior
+gdc-coref,str8.0,84372,84455,weinberl,84394,84412,"Lieber Freund, Sie",melchior
+gdc-coref,str8.0,84372,84455,weinberl,84434,84453,der spanischen Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,84460,84507,christoph,84496,84499,wir,christoph-/-weinberl-+-1
+gdc-coref,str8.0,84460,84507,christoph,84500,84502,s',die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,84512,84686,weinberl,84542,84549,Kellner,kellner
+gdc-coref,str8.0,84512,84686,weinberl,84558,84560,S',kellner
+gdc-coref,str8.0,84563,84686,_stage,84563,84574,Der Kellner,kellner
+gdc-coref,str8.0,84563,84686,_stage,84576,84585,Christoph,christoph
+gdc-coref,str8.0,84563,84686,_stage,84587,84595,Weinberl,weinberl
+gdc-coref,str8.0,84563,84686,_stage,84600,84608,Melchior,melchior
+gdc-coref,str8.0,84563,84686,_stage,84640,84645,einer,weinberl-/-melchior-+-2
+gdc-coref,str8.0,84563,84686,_stage,84646,84656,dem andern,weinberl-/-melchior-+-2
+gdc-coref,str8.0,84563,84686,_stage,84673,84681,die Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,84690,84777,melchior,84712,84717,Sie's,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,84690,84777,melchior,84758,84761,Sie,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,84795,84815,_stage,84798,84814,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,84782,84866,madame_knorr,84840,84843,sie,weinberl-/-melchior-+-2
+gdc-coref,str8.0,84880,84894,_stage,84883,84893,den Frauen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,84871,84954,weinberl,84910,84913,Sie,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,84871,84954,weinberl,84944,84952,der Luft,der-Luft
+gdc-coref,str8.0,84959,84994,frau_von_fischer,84977,84980,Ich,frau_von_fischer
+gdc-coref,str8.0,84999,85045,madame_knorr,85013,85016,Wir,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,85059,85072,_stage,85062,85071,Christoph,christoph
+gdc-coref,str8.0,85050,85100,weinberl,85078,85081,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,85106,85355,christoph,85124,85127,wir,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,85106,85355,christoph,85128,85131,uns,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,85134,85355,_stage,85134,85140,Alle 4,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,85134,85355,_stage,85148,85152,sich,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,85134,85355,_stage,85153,85162,zum Tisch,den-Tisch
+gdc-coref,str8.0,85134,85355,_stage,85164,85182,die spanische Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,85134,85355,_stage,85209,85218,die Bühne,die-----------Bühne
+gdc-coref,str8.0,85134,85355,_stage,85222,85231,der Mitte,zur-Mitte
+gdc-coref,str8.0,85134,85355,_stage,85236,85262,Der Tisch der Gesellschaft,den-Tisch
+gdc-coref,str8.0,85134,85355,_stage,85246,85262,der Gesellschaft,christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,85134,85355,_stage,85267,85298,der für Zangler bestimmte Tisch,"den-Tisch,-welchen-der-Kellner-deckte"
+gdc-coref,str8.0,85134,85355,_stage,85275,85282,Zangler,zangler
+gdc-coref,str8.0,85134,85355,_stage,85337,85345,die Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,85383,85404,_stage,85383,85390,Zangler,zangler
+gdc-coref,str8.0,85383,85404,_stage,85392,85403,Die Vorigen,weinberl-/-madame_knorr-+-4
+gdc-coref,str8.0,85406,85456,zangler,85447,85455,Melchior,melchior
+gdc-coref,str8.0,85461,85482,melchior,85471,85481,Ew. Gnad'n,zangler
+gdc-coref,str8.0,85487,85660,zangler,85496,85507,Der Wachter,wachter
+gdc-coref,str8.0,85487,85660,zangler,85547,85559,meine Mündel,marie
+gdc-coref,str8.0,85487,85660,zangler,85547,85552,meine,zangler
+gdc-coref,str8.0,85487,85660,zangler,85564,85579,ihrem Entführer,sonders
+gdc-coref,str8.0,85487,85660,zangler,85564,85569,ihrem,marie
+gdc-coref,str8.0,85487,85660,zangler,85583,85592,den Wagen,Sonders-Wagen-/-einen-Wagen
+gdc-coref,str8.0,85487,85660,zangler,85608,85620,der Kutscher,kutscher
+gdc-coref,str8.0,85487,85660,zangler,85638,85649,der Wachter,wachter
+gdc-coref,str8.0,85699,85736,madame_knorr,85713,85735,Sehr ein gutes Kompott,Kompott
+gdc-coref,str8.0,85741,85805,weinberl,85773,85776,Ich,weinberl
+gdc-coref,str8.0,85741,85805,weinberl,85783,85792,den Fasan,einer2
+gdc-coref,str8.0,85810,85923,christoph,85857,85860,ich,christoph
+gdc-coref,str8.0,85810,85923,christoph,85879,85898,der wällische Salat,einen-wällischen-Salat
+gdc-coref,str8.0,85957,86006,zangler,85986,86005,der spanischen Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,86011,86129,melchior,86038,86054,indiskrete Leut',christoph-/-frau_von_fischer-+-2
+gdc-coref,str8.0,86011,86129,melchior,86056,86072,zwei Weibsbilder,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,86011,86129,melchior,86077,86091,ihre Liebhaber,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,86011,86129,melchior,86077,86081,ihre,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,86011,86129,melchior,86099,86109,Ew. Gnad'n,zangler
+gdc-coref,str8.0,86149,86243,_stage,86149,86164,Zweiter Kellner,zweiter_kellner
+gdc-coref,str8.0,86149,86243,_stage,86172,86176,Wein,Wein
+gdc-coref,str8.0,86149,86243,_stage,86181,86197,Aufgeschnittenes,Aufgeschnittenes
+gdc-coref,str8.0,86149,86243,_stage,86206,86208,es,Wein-/-Aufgeschnittenes
+gdc-coref,str8.0,86149,86243,_stage,86213,86222,den Tisch,"den-Tisch,-welchen-der-Kellner-deckte"
+gdc-coref,str8.0,86149,86243,_stage,86224,86231,Zangler,zangler
+gdc-coref,str8.0,86149,86243,_stage,86238,86242,sich,zangler
+gdc-coref,str8.0,86247,86297,melchior,86257,86260,Das,Wein2
+gdc-coref,str8.0,86247,86297,melchior,86266,86269,ich,melchior
+gdc-coref,str8.0,86247,86297,melchior,86274,86284,Ew. Gnaden,zangler
+gdc-coref,str8.0,86322,86370,melchior,86332,86336,Gott,Gott
+gdc-coref,str8.0,86322,86370,melchior,86348,86358,Ew. Gnad'n,zangler
+gdc-coref,str8.0,86322,86370,melchior,86364,86368,mich,melchior
+gdc-coref,str8.0,86375,86493,zangler,86384,86395,Die Zeitung,Die-Zeitung
+gdc-coref,str8.0,86375,86493,zangler,86401,86405,sich,zangler
+gdc-coref,str8.0,86375,86493,zangler,86407,86410,Wer,niemanden
+gdc-coref,str8.0,86446,86493,_stage,86446,86453,Kellner,kellner
+gdc-coref,str8.0,86446,86493,_stage,86461,86468,Zangler,zangler
+gdc-coref,str8.0,86446,86493,_stage,86469,86480,die Zeitung,Die-Zeitung
+gdc-coref,str8.0,86497,86559,melchior,86507,86510,Ich,melchior
+gdc-coref,str8.0,86533,86559,_stage,86541,86551,den Garten,den-Garten
+gdc-coref,str8.0,86563,86618,frau_von_fischer,86581,86590,Der Fasan,einer2
+gdc-coref,str8.0,86697,86740,madame_knorr,86717,86728,der Kellner,kellner
+gdc-coref,str8.0,86745,86811,christoph,86792,86810,ein langsamer Kerl,kellner
+gdc-coref,str8.0,86816,86878,madame_knorr,86847,86857,die Herren,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,86883,86930,weinberl,86902,86913,Die Zugluft,der-Luft
+gdc-coref,str8.0,86935,87009,christoph,86984,86992,die Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,87014,87086,weinberl,87050,87053,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,87091,87147,madame_knorr,87115,87125,die Herren,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,87152,87199,melchior,87176,87186,Ew. Gnad'n,zangler
+gdc-coref,str8.0,87152,87199,melchior,87188,87198,Ew. Gnad'n,zangler
+gdc-coref,str8.0,87230,87262,melchior,87240,87243,Ich,melchior
+gdc-coref,str8.0,87267,87285,zangler,87276,87284,Dummkopf,melchior
+gdc-coref,str8.0,87290,87350,melchior,87313,87317,zwei,sonders-/-marie
+gdc-coref,str8.0,87290,87350,melchior,87328,87331,das,sonders-/-marie
+gdc-coref,str8.0,87355,87552,zangler,87364,87367,Die,sonders-/-marie
+gdc-coref,str8.0,87355,87552,zangler,87368,87371,ich,zangler
+gdc-coref,str8.0,87355,87552,zangler,87395,87398,ich,zangler
+gdc-coref,str8.0,87355,87552,zangler,87404,87407,sie,sonders-/-marie
+gdc-coref,str8.0,87355,87552,zangler,87446,87450,dich,melchior
+gdc-coref,str8.0,87355,87552,zangler,87472,87481,vom Wagen,Sonders-Wagen-/-einen-Wagen
+gdc-coref,str8.0,87355,87552,zangler,87490,87493,sie,sonders-/-marie
+gdc-coref,str8.0,87355,87552,zangler,87512,87514,du,melchior
+gdc-coref,str8.0,87355,87552,zangler,87515,87518,mir,zangler
+gdc-coref,str8.0,87355,87552,zangler,87522,87525,wir,zangler-/-melchior
+gdc-coref,str8.0,87588,87610,_stage,87599,87609,den Garten,den-Garten
+gdc-coref,str8.0,87624,87730,_stage,87662,87693,den Burnus der Frau von Fischer,einen-Burnus2
+gdc-coref,str8.0,87624,87730,_stage,87673,87693,der Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,87624,87730,_stage,87709,87718,ihren Hut,Hut2
+gdc-coref,str8.0,87624,87730,_stage,87709,87714,ihren,frau_von_fischer
+gdc-coref,str8.0,87614,87777,christoph,87739,87742,ich,christoph
+gdc-coref,str8.0,87614,87777,christoph,87749,87761,unserm Alten,zangler
+gdc-coref,str8.0,87614,87777,christoph,87749,87755,unserm,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,87799,87811,_stage,87802,87810,Weinberl,weinberl
+gdc-coref,str8.0,87782,87859,frau_von_fischer,87812,87814,Du,weinberl
+gdc-coref,str8.0,87782,87859,frau_von_fischer,87827,87843,unserer Freundin,madame_knorr
+gdc-coref,str8.0,87782,87859,frau_von_fischer,87827,87834,unserer,weinberl-/-frau_von_fischer
+gdc-coref,str8.0,87873,87922,_stage,87898,87907,Christoph,christoph
+gdc-coref,str8.0,87873,87922,_stage,87908,87912,sich,
+gdc-coref,str8.0,87864,88199,weinberl,87950,87955,Liebe,frau_von_fischer
+gdc-coref,str8.0,87864,88199,weinberl,87957,87960,ich,weinberl
+gdc-coref,str8.0,88014,88199,_stage,88014,88023,Christoph,christoph
+gdc-coref,str8.0,88014,88199,_stage,88045,88064,der spanischen Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,88014,88199,_stage,88111,88120,der Bühne,die-----------Bühne
+gdc-coref,str8.0,88014,88199,_stage,88133,88140,Zangler,zangler
+gdc-coref,str8.0,88014,88199,_stage,88148,88155,welcher,zangler
+gdc-coref,str8.0,88014,88199,_stage,88159,88170,die Zeitung,Die-Zeitung
+gdc-coref,str8.0,88014,88199,_stage,88181,88184,ihn,christoph
+gdc-coref,str8.0,88211,88233,_stage,88214,88225,der Zeitung,Die-Zeitung
+gdc-coref,str8.0,88203,88459,zangler,88311,88314,man,man
+gdc-coref,str8.0,88372,88459,_stage,88372,88381,Christoph,christoph
+gdc-coref,str8.0,88372,88459,_stage,88386,88390,sich,christoph
+gdc-coref,str8.0,88372,88459,_stage,88407,88418,zur Glastür,eine-Glastüre
+gdc-coref,str8.0,88372,88459,_stage,88430,88440,den Garten,den-Garten
+gdc-coref,str8.0,88463,88509,madame_knorr,88488,88498,der Cousin,Sie-schlimmer-Cousin
+gdc-coref,str8.0,88523,88558,_stage,88523,88535,Madame Knorr,madame_knorr
+gdc-coref,str8.0,88523,88558,_stage,88536,88545,den Fasan,einer2
+gdc-coref,str8.0,88514,88692,weinberl,88565,88569,sich,madame_knorr
+gdc-coref,str8.0,88514,88692,weinberl,88595,88597,er,weinberl
+gdc-coref,str8.0,88514,88692,weinberl,88603,88614,dem Fenster,ein-großes-Fenster
+gdc-coref,str8.0,88514,88692,weinberl,88654,88670,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,88514,88692,weinberl,88675,88684,das Kleid,das-Kleid
+gdc-coref,str8.0,88697,88740,frau_von_fischer,88715,88721,Himmel,im-Himmel
+gdc-coref,str8.0,88697,88740,frau_von_fischer,88723,88739,mein neues Kleid,das-Kleid
+gdc-coref,str8.0,88697,88740,frau_von_fischer,88723,88727,mein,frau_von_fischer
+gdc-coref,str8.0,88745,88811,weinberl,88790,88808,einen fetten Fleck,einen-fetten-Fleck
+gdc-coref,str8.0,88816,88858,frau_von_fischer,88834,88837,Der,einen-fetten-Fleck
+gdc-coref,str8.0,88863,89013,madame_knorr,88917,88933,Frau von Fischer,frau_von_fischer
+gdc-coref,str8.0,88953,89013,_stage,88953,88962,Christoph,christoph
+gdc-coref,str8.0,88953,89013,_stage,88980,88995,dem Glasfenster,ein-großes-Fenster
+gdc-coref,str8.0,88953,89013,_stage,88999,89012,Sonders Wagen,Sonders-Wagen
+gdc-coref,str8.0,88953,89013,_stage,88999,89006,Sonders,sonders
+gdc-coref,str8.0,89026,89103,_stage,89064,89068,sich,weinberl
+gdc-coref,str8.0,89026,89103,_stage,89076,89078,er,weinberl
+gdc-coref,str8.0,89026,89103,_stage,89079,89083,sich,weinberl
+gdc-coref,str8.0,89026,89103,_stage,89084,89095,dem Fenster,ein-großes-Fenster
+gdc-coref,str8.0,89017,89396,weinberl,89104,89107,Der,christoph
+gdc-coref,str8.0,89017,89396,weinberl,89118,89127,den Wagen,Sonders-Wagen
+gdc-coref,str8.0,89017,89396,weinberl,89160,89172,der Kutscher,kutscher
+gdc-coref,str8.0,89017,89396,weinberl,89177,89180,uns,WEINBERL-UND-CHRISTOPH
+gdc-coref,str8.0,89017,89396,weinberl,89220,89223,ich,weinberl
+gdc-coref,str8.0,89017,89396,weinberl,89224,89227,ihm,kutscher
+gdc-coref,str8.0,89017,89396,weinberl,89249,89252,ihn,kutscher
+gdc-coref,str8.0,89017,89396,weinberl,89275,89278,ich,weinberl
+gdc-coref,str8.0,89017,89396,weinberl,89297,89310,der Prinzipal,zangler
+gdc-coref,str8.0,89017,89396,weinberl,89315,89325,die Frauen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,89017,89396,weinberl,89329,89333,Gott,Gott
+gdc-coref,str8.0,89017,89396,weinberl,89344,89353,der Fleck,einen-fetten-Fleck
+gdc-coref,str8.0,89017,89396,weinberl,89370,89373,die,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,89017,89396,weinberl,89374,89378,mich,weinberl
+gdc-coref,str8.0,89401,89446,frau_von_fischer,89419,89422,Das,einen-fetten-Fleck
+gdc-coref,str8.0,89451,89566,weinberl,89536,89547,das Fenster,ein-großes-Fenster
+gdc-coref,str8.0,89584,89603,_stage,89584,89592,Weinberl,weinberl
+gdc-coref,str8.0,89571,89643,madame_knorr,89604,89612,Freundin,frau_von_fischer
+gdc-coref,str8.0,89571,89643,madame_knorr,89632,89641,dein Mann,weinberl
+gdc-coref,str8.0,89571,89643,madame_knorr,89632,89636,dein,frau_von_fischer
+gdc-coref,str8.0,89648,89710,frau_von_fischer,89676,89678,Er,weinberl
+gdc-coref,str8.0,89648,89710,frau_von_fischer,89687,89698,dem Fenster,ein-großes-Fenster
+gdc-coref,str8.0,89715,89799,madame_knorr,89743,89752,den Wagen,Sonders-Wagen
+gdc-coref,str8.0,89759,89799,_stage,89769,89777,Weinberl,weinberl
+gdc-coref,str8.0,89759,89799,_stage,89781,89790,den Wagen,Sonders-Wagen
+gdc-coref,str8.0,89803,89914,frau_von_fischer,89838,89847,Mein Herr,weinberl
+gdc-coref,str8.0,89803,89914,frau_von_fischer,89838,89842,Mein,frau_von_fischer
+gdc-coref,str8.0,89852,89914,_stage,89852,89855,Man,man
+gdc-coref,str8.0,89852,89914,_stage,89862,89873,den Wachter,wachter
+gdc-coref,str8.0,89852,89914,_stage,89896,89905,den Wagen,Sonders-Wagen
+gdc-coref,str8.0,89918,89994,madame_knorr,89932,89935,Was,wachter
+gdc-coref,str8.0,89918,89994,madame_knorr,89945,89960,der Ortswachter,wachter
+gdc-coref,str8.0,89918,89994,madame_knorr,89967,89969,Er,wachter
+gdc-coref,str8.0,89918,89994,madame_knorr,89977,89981,sich,wachter
+gdc-coref,str8.0,90038,90077,_stage,90038,90041,Man,man
+gdc-coref,str8.0,90038,90077,_stage,90058,90067,der Wagen,Sonders-Wagen
+gdc-coref,str8.0,90081,90218,madame_knorr,90104,90106,er,weinberl
+gdc-coref,str8.0,90109,90218,_stage,90109,90121,Beide Frauen,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,90109,90218,_stage,90145,90150,ihren,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,90109,90218,_stage,90173,90176,sie,FRAU-VON-FISCHER-UND-MADAME-KNORR.
+gdc-coref,str8.0,90109,90218,_stage,90183,90205,dem abgefahrenen Wagen,Sonders-Wagen
+gdc-coref,str8.0,90232,90256,_stage,90232,90244,zur Glastüre,eine-Glastüre
+gdc-coref,str8.0,90223,90345,melchior,90275,90278,Wir,zangler-/-melchior
+gdc-coref,str8.0,90223,90345,melchior,90285,90287,s',sonders-/-marie
+gdc-coref,str8.0,90223,90345,melchior,90295,90307,der Kutscher,kutscher
+gdc-coref,str8.0,90223,90345,melchior,90312,90323,der Wachter,wachter
+gdc-coref,str8.0,90223,90345,melchior,90331,90333,s',sonders-/-marie
+gdc-coref,str8.0,90350,90398,zangler,90359,90362,Wir,zangler-/-melchior
+gdc-coref,str8.0,90350,90398,zangler,90383,90390,Kellner,kellner
+gdc-coref,str8.0,90427,90455,_stage,90427,90434,Sonders,sonders
+gdc-coref,str8.0,90427,90455,_stage,90436,90441,Marie,marie
+gdc-coref,str8.0,90427,90455,_stage,90443,90454,Die Vorigen,zangler-/-melchior-+-2
+gdc-coref,str8.0,90465,90525,_stage,90469,90474,Marie,marie
+gdc-coref,str8.0,90465,90525,_stage,90475,90487,zur Glastüre,eine-Glastüre
+gdc-coref,str8.0,90465,90525,_stage,90505,90512,Zangler,zangler
+gdc-coref,str8.0,90457,90574,sonders,90526,90533,Kellner,kellner-/-zweiter_kellner
+gdc-coref,str8.0,90457,90574,sonders,90559,90573,die Schlingeln,kellner-/-zweiter_kellner
+gdc-coref,str8.0,90579,90633,zangler,90630,90632,s',sonders-/-marie
+gdc-coref,str8.0,90638,90701,marie,90649,90660,der Vormund,zangler
+gdc-coref,str8.0,90665,90701,_stage,90681,90688,Sonders,sonders
+gdc-coref,str8.0,90750,90781,_stage,90755,90763,Zanglers,zangler
+gdc-coref,str8.0,90919,90930,_stage,90922,90929,Zangler,zangler
+gdc-coref,str8.0,90910,90956,melchior,90943,90953,die andern,"Liebende,-die-uns-ga…-/-sonders-/-marie"
+gdc-coref,str8.0,90961,91021,zangler,90970,90982,Meine Mündel,marie
+gdc-coref,str8.0,90961,91021,zangler,90970,90975,Meine,zangler
+gdc-coref,str8.0,90961,91021,zangler,90986,90996,Der Teufel,der-Teufel
+gdc-coref,str8.0,91005,91021,_stage,91014,91017,sie,marie
+gdc-coref,str8.0,91025,91082,melchior,91040,91043,ich,melchior
+gdc-coref,str8.0,91025,91082,melchior,91044,91049,Ihnen,zangler
+gdc-coref,str8.0,91025,91082,melchior,91073,91079,andere,"Liebende,-die-uns-ga…-/-sonders-/-marie"
+gdc-coref,str8.0,91095,91298,_stage,91106,91114,Melchior,melchior
+gdc-coref,str8.0,91095,91298,_stage,91128,91146,die spanische Wand,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,91095,91298,_stage,91155,91160,selbe,die-zwischen-Fenster-und-Tür-lehnende-zusammengelegte-spanische-Wand
+gdc-coref,str8.0,91095,91298,_stage,91170,91187,Die beiden Frauen,frau_von_fischer
+gdc-coref,str8.0,91095,91298,_stage,91223,91230,Zangler,zangler
+gdc-coref,str8.0,91095,91298,_stage,91278,91289,Madam Knorr,madame_knorr
+gdc-coref,str8.0,91087,91314,zangler,91299,91310,Meine Braut,madame_knorr
+gdc-coref,str8.0,91087,91314,zangler,91299,91304,Meine,zangler
+gdc-coref,str8.0,91319,91370,madame_knorr,91358,91365,Zangler,zangler
+gdc-coref,str8.0,91416,91625,_stage,91416,91429,Die 2 Kellner,kellner-/-zweiter_kellner
+gdc-coref,str8.0,91416,91625,_stage,91504,91533,die im Garten sitzenden Gäste,Gäste
+gdc-coref,str8.0,91416,91625,_stage,91508,91517,im Garten,den-Garten
+gdc-coref,str8.0,91416,91625,_stage,91540,91544,sich,Gäste
+gdc-coref,str8.0,91416,91625,_stage,91553,91575,dem Eingang des Salons,eine-Glastüre
+gdc-coref,str8.0,91416,91625,_stage,91565,91575,des Salons,Eleganter-Gartensalon
+gdc-coref,str8.0,91871,92081,sonders,91914,91917,mir,sonders
+gdc-coref,str8.0,92086,92343,lisett,92125,92128,ich,lisett
+gdc-coref,str8.0,92086,92343,lisett,92168,92173,meine,lisett
+gdc-coref,str8.0,92086,92343,lisett,92314,92317,ich,lisett
+gdc-coref,str8.0,92553,92980,sonders,92601,92604,mir,sonders
+gdc-coref,str8.0,92553,92980,sonders,92762,92765,ich,sonders
+gdc-coref,str8.0,92553,92980,sonders,92910,92913,ich,sonders
+gdc-coref,str8.0,92985,93180,lisett,93141,93147,meiner,lisett
+gdc-coref,str8.0,93185,93309,sonders,93194,93197,Ich,sonders
+gdc-coref,str8.0,93185,93309,sonders,93204,93208,mich,sonders
+gdc-coref,str8.0,93315,93415,lisett,93353,93356,Ich,lisett
+gdc-coref,str8.0,93315,93415,lisett,93374,93379,meine,lisett
+gdc-coref,str8.0,93682,94044,fraeulein_blumenblatt,93734,93737,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,93682,94044,fraeulein_blumenblatt,93842,93845,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,93682,94044,fraeulein_blumenblatt,93877,93883,meines,fraeulein_blumenblatt
+gdc-coref,str8.0,93682,94044,fraeulein_blumenblatt,93936,93939,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,93682,94044,fraeulein_blumenblatt,93947,93951,mich,fraeulein_blumenblatt
+gdc-coref,str8.0,94107,94371,fraeulein_blumenblatt,94139,94143,Mein,fraeulein_blumenblatt
+gdc-coref,str8.0,94107,94371,fraeulein_blumenblatt,94188,94191,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,94107,94371,fraeulein_blumenblatt,94241,94245,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,94107,94371,fraeulein_blumenblatt,94345,94349,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,94446,94628,fraeulein_blumenblatt,94602,94606,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,94632,94717,lisett,94652,94655,ich,lisett
+gdc-coref,str8.0,94632,94717,lisett,94664,94667,ich,lisett
+gdc-coref,str8.0,94950,95093,wachter,94988,94991,ich,wachter
+gdc-coref,str8.0,94950,95093,wachter,95009,95012,ich,wachter
+gdc-coref,str8.0,95179,95265,fraeulein_blumenblatt,95213,95216,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,95179,95265,fraeulein_blumenblatt,95229,95232,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,95539,95656,weinberl,95549,95552,Ich,weinberl
+gdc-coref,str8.0,95778,95933,fraeulein_blumenblatt,95837,95841,mich,fraeulein_blumenblatt
+gdc-coref,str8.0,95778,95933,fraeulein_blumenblatt,95901,95907,meinem,fraeulein_blumenblatt
+gdc-coref,str8.0,96146,96465,weinberl,96302,96305,ich,weinberl
+gdc-coref,str8.0,96470,96560,kutscher,96536,96539,ich,kutscher
+gdc-coref,str8.0,96470,96560,kutscher,96545,96550,meine,kutscher
+gdc-coref,str8.0,96566,96636,fraeulein_blumenblatt,96622,96625,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,96665,96737,kutscher,96711,96714,ich,kutscher
+gdc-coref,str8.0,97128,97279,fraeulein_blumenblatt,97166,97170,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,97284,97353,christoph,97322,97325,ich,christoph
+gdc-coref,str8.0,97358,97419,weinberl,97395,97398,ich,weinberl
+gdc-coref,str8.0,97424,97485,fraeulein_blumenblatt,97480,97483,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,97490,97677,wachter,97523,97526,ich,wachter
+gdc-coref,str8.0,98029,98097,christoph,98053,98056,ich,christoph
+gdc-coref,str8.0,98102,98200,weinberl,98116,98119,ich,weinberl
+gdc-coref,str8.0,98205,98280,fraeulein_blumenblatt,98238,98242,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,98285,98484,weinberl,98301,98304,mir,weinberl
+gdc-coref,str8.0,98991,99219,fraeulein_blumenblatt,99053,99056,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,98991,99219,fraeulein_blumenblatt,99100,99103,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,98991,99219,fraeulein_blumenblatt,99137,99140,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,99281,99377,fraeulein_blumenblatt,99308,99311,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,99281,99377,fraeulein_blumenblatt,99343,99349,meines,fraeulein_blumenblatt
+gdc-coref,str8.0,99525,99558,weinberl,99535,99538,Ich,weinberl
+gdc-coref,str8.0,99563,99712,fraeulein_blumenblatt,99628,99632,mich,fraeulein_blumenblatt
+gdc-coref,str8.0,99563,99712,fraeulein_blumenblatt,99658,99662,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,99563,99712,fraeulein_blumenblatt,99689,99692,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,99717,99752,christoph,99737,99740,ich,christoph
+gdc-coref,str8.0,99717,99752,christoph,99741,99744,mir,christoph
+gdc-coref,str8.0,99757,99810,fraeulein_blumenblatt,99797,99801,mich,fraeulein_blumenblatt
+gdc-coref,str8.0,99815,99864,weinberl,99843,99846,ich,weinberl
+gdc-coref,str8.0,99815,99864,weinberl,99847,99850,mir,weinberl
+gdc-coref,str8.0,100006,100057,weinberl,100040,100043,ich,weinberl
+gdc-coref,str8.0,100006,100057,weinberl,100044,100047,mir,weinberl
+gdc-coref,str8.0,100062,100338,fraeulein_blumenblatt,100137,100140,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,100062,100338,fraeulein_blumenblatt,100163,100166,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,101000,101076,melchior,101010,101014,Mein,melchior
+gdc-coref,str8.0,101000,101076,melchior,101028,101032,mich,melchior
+gdc-coref,str8.0,101000,101076,melchior,101038,101041,ich,melchior
+gdc-coref,str8.0,101319,101490,weinberl,101341,101344,ich,weinberl
+gdc-coref,str8.0,101319,101490,weinberl,101417,101420,mir,weinberl
+gdc-coref,str8.0,101319,101490,weinberl,101434,101437,ich,weinberl
+gdc-coref,str8.0,101319,101490,weinberl,101438,101442,mich,weinberl
+gdc-coref,str8.0,101319,101490,weinberl,101456,101459,ich,weinberl
+gdc-coref,str8.0,101496,101540,christoph,101525,101528,Ich,christoph
+gdc-coref,str8.0,101816,101879,melchior,101831,101835,mein,melchior
+gdc-coref,str8.0,102023,102332,melchior,102202,102205,ich,melchior
+gdc-coref,str8.0,102510,102570,fraeulein_blumenblatt,102550,102553,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,102728,102808,fraeulein_blumenblatt,102784,102787,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,102956,103005,fraeulein_blumenblatt,103001,103004,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,103650,103806,fraeulein_blumenblatt,103781,103784,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,104111,104176,melchior,104121,104124,Ich,melchior
+gdc-coref,str8.0,104181,104263,fraeulein_blumenblatt,104213,104217,Mein,fraeulein_blumenblatt
+gdc-coref,str8.0,104181,104263,fraeulein_blumenblatt,104231,104234,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,104268,104404,melchior,104319,104323,mich,melchior
+gdc-coref,str8.0,104621,104905,fraeulein_blumenblatt,104690,104693,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,104621,104905,fraeulein_blumenblatt,104694,104698,mich,fraeulein_blumenblatt
+gdc-coref,str8.0,104621,104905,fraeulein_blumenblatt,104731,104734,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,104621,104905,fraeulein_blumenblatt,104852,104855,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,104909,105009,weinberl,104961,104964,ich,weinberl
+gdc-coref,str8.0,104909,105009,weinberl,104996,104999,ich,weinberl
+gdc-coref,str8.0,105066,105257,fraeulein_blumenblatt,105138,105143,meine,fraeulein_blumenblatt
+gdc-coref,str8.0,105066,105257,fraeulein_blumenblatt,105169,105172,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,105463,105892,fraeulein_blumenblatt,105496,105499,Ich,fraeulein_blumenblatt
+gdc-coref,str8.0,105896,105953,sonders,105905,105908,Ich,sonders
+gdc-coref,str8.0,105958,106026,weinberl,105972,105975,ich,weinberl
+gdc-coref,str8.0,106031,106142,melchior,106125,106128,ich,melchior
+gdc-coref,str8.0,106147,106336,sonders,106187,106191,mich,sonders
+gdc-coref,str8.0,106147,106336,sonders,106238,106244,meiner,sonders
+gdc-coref,str8.0,106147,106336,sonders,106317,106320,mir,sonders
+gdc-coref,str8.0,106341,106415,fraeulein_blumenblatt,106379,106383,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,106341,106415,fraeulein_blumenblatt,106404,106407,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,106421,106491,sonders,106430,106433,Ich,sonders
+gdc-coref,str8.0,106421,106491,sonders,106467,106470,Ich,sonders
+gdc-coref,str8.0,106973,107032,christoph,107011,107014,Ich,christoph
+gdc-coref,str8.0,106973,107032,christoph,107021,107025,mich,christoph
+gdc-coref,str8.0,107037,107128,sonders,107094,107097,ich,sonders
+gdc-coref,str8.0,107864,107964,melchior,107936,107939,ich,melchior
+gdc-coref,str8.0,108052,108233,melchior,108228,108231,ich,melchior
+gdc-coref,str8.0,108298,108364,wachter,108338,108341,Ich,wachter
+gdc-coref,str8.0,108541,108723,melchior,108580,108584,mich,melchior
+gdc-coref,str8.0,108541,108723,melchior,108615,108618,ich,melchior
+gdc-coref,str8.0,108541,108723,melchior,108680,108684,mich,melchior
+gdc-coref,str8.0,108777,109004,melchior,108853,108857,mein,melchior
+gdc-coref,str8.0,109363,109447,fraeulein_blumenblatt,109385,109389,Mein,fraeulein_blumenblatt
+gdc-coref,str8.0,109631,109778,zangler,109749,109753,mein,zangler
+gdc-coref,str8.0,109847,109900,melchior,109892,109895,ich,melchior
+gdc-coref,str8.0,109906,109962,zangler,109939,109943,Mein,zangler
+gdc-coref,str8.0,109967,110091,melchior,110022,110028,meines,melchior
+gdc-coref,str8.0,110188,110256,melchior,110243,110249,meines,melchior
+gdc-coref,str8.0,110261,110314,zangler,110309,110312,mir,zangler
+gdc-coref,str8.0,110460,110528,melchior,110515,110521,meines,melchior
+gdc-coref,str8.0,110580,110717,zangler,110623,110626,ich,zangler
+gdc-coref,str8.0,110580,110717,zangler,110651,110656,meine,zangler
+gdc-coref,str8.0,110841,110886,zangler,110874,110877,mir,zangler
+gdc-coref,str8.0,110891,111016,fraeulein_blumenblatt,110923,110926,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,110891,111016,fraeulein_blumenblatt,110957,110961,mein,fraeulein_blumenblatt
+gdc-coref,str8.0,111021,111099,zangler,111034,111037,ich,zangler
+gdc-coref,str8.0,111104,111165,madame_knorr,111149,111153,mich,madame_knorr
+gdc-coref,str8.0,111170,111441,zangler,111217,111220,mir,zangler
+gdc-coref,str8.0,111170,111441,zangler,111349,111355,meiner,zangler
+gdc-coref,str8.0,111487,111586,fraeulein_blumenblatt,111547,111550,ich,fraeulein_blumenblatt
+gdc-coref,str8.0,111592,111699,melchior,111627,111630,mir,melchior
+gdc-coref,str8.0,111739,111867,melchior,111832,111835,mir,melchior
+gdc-coref,str8.0,111921,112012,fraeulein_blumenblatt,111974,111977,mir,fraeulein_blumenblatt
+gdc-coref,str8.0,112017,112115,zangler,112063,112066,ich,zangler
+gdc-coref,str8.0,112245,112273,zangler,112263,112266,ich,zangler
+gdc-coref,str8.0,112324,112377,zangler,112351,112354,ich,zangler
+gdc-coref,str8.0,112324,112377,zangler,112355,112359,mich,zangler
+gdc-coref,str8.0,112897,112962,frau_von_fischer,112948,112952,mein,frau_von_fischer
+gdc-coref,str8.0,113227,113281,madame_knorr,113258,113264,meinem,madame_knorr
+gdc-coref,str8.0,113286,113383,frau_von_fischer,113347,113350,ich,frau_von_fischer
+gdc-coref,str8.0,113757,113791,fraeulein_blumenblatt,113779,113782,Ich,fraeulein_blumenblatt
+gdc-coref,str8.0,113796,113937,zangler,113817,113822,meine,zangler
+gdc-coref,str8.0,114387,115146,weinberl,114701,114705,mich,weinberl
+gdc-coref,str8.0,114387,115146,weinberl,114796,114799,ich,weinberl
+gdc-coref,str8.0,114387,115146,weinberl,114838,114841,ich,weinberl
+gdc-coref,str8.0,114387,115146,weinberl,114886,114890,mich,weinberl
+gdc-coref,str8.0,114387,115146,weinberl,115049,115052,ich,weinberl
+gdc-coref,str8.0,114387,115146,weinberl,115124,115127,ich,weinberl
+gdc-coref,str8.0,115151,115296,christoph,115275,115278,ich,christoph
+gdc-coref,str8.0,115338,115390,christoph,115353,115356,ich,christoph
+gdc-coref,str8.0,115395,115419,weinberl,115409,115412,ich,weinberl
+gdc-coref,str8.0,115424,115544,christoph,115445,115448,mir,christoph
+gdc-coref,str8.0,115424,115544,christoph,115450,115453,ich,christoph
+gdc-coref,str8.0,115424,115544,christoph,115512,115516,mich,christoph
+gdc-coref,str8.0,115549,115583,weinberl,115559,115563,Mein,weinberl
+gdc-coref,str8.0,115966,116323,sonders,116091,116094,ich,sonders
+gdc-coref,str8.0,115966,116323,sonders,116160,116163,ich,sonders
+gdc-coref,str8.0,115966,116323,sonders,116164,116168,mich,sonders
+gdc-coref,str8.0,115966,116323,sonders,116169,116175,meiner,sonders
+gdc-coref,str8.0,116328,116369,weinberl,116352,116355,ich,weinberl
+gdc-coref,str8.0,116400,116551,sonders,116418,116422,mich,sonders
+gdc-coref,str8.0,116400,116551,sonders,116482,116486,mich,sonders
+gdc-coref,str8.0,116400,116551,sonders,116530,116535,meine,sonders
+gdc-coref,str8.0,116694,116791,sonders,116743,116748,meine,sonders
+gdc-coref,str8.0,116933,117082,sonders,116956,116959,ich,sonders
+gdc-coref,str8.0,117245,117356,sonders,117285,117288,ich,sonders
+gdc-coref,str8.0,117550,117810,christoph,117616,117619,Ich,christoph
+gdc-coref,str8.0,117550,117810,christoph,117716,117720,mich,christoph
+gdc-coref,str8.0,117815,117842,weinberl,117825,117828,Ich,weinberl
+gdc-coref,str8.0,118128,118319,christoph,118188,118191,ich,christoph
+gdc-coref,str8.0,118416,118486,sonders,118454,118457,Ich,sonders
+gdc-coref,str8.0,118712,118776,sonders,118730,118733,ich,sonders
+gdc-coref,str8.0,118712,118776,sonders,118748,118751,Ich,sonders
+gdc-coref,str8.0,119300,119357,zangler,119346,119349,mir,zangler
+gdc-coref,str8.0,120044,121170,melchior,120139,120142,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120258,120261,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120362,120365,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120555,120558,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120631,120635,mich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120674,120678,mich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120698,120701,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120821,120825,mich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120836,120839,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,120934,120937,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,121113,121116,ich,melchior
+gdc-coref,str8.0,120044,121170,melchior,121122,121126,mich,melchior
+gdc-coref,str8.0,121379,121430,melchior,121415,121418,mir,melchior
+gdc-coref,str8.0,121481,121533,melchior,121515,121518,ich,melchior
+gdc-coref,str8.0,121716,121823,melchior,121763,121766,ich,melchior
+gdc-coref,str8.0,121973,122139,melchior,122072,122075,ich,melchior
+gdc-coref,str8.0,121973,122139,melchior,122109,122112,Mir,melchior
+gdc-coref,str8.0,121973,122139,melchior,122122,122125,ich,melchior
+gdc-coref,str8.0,122144,122301,gertrud,122228,122231,ich,gertrud
+gdc-coref,str8.0,122590,122726,gertrud,122705,122708,ich,gertrud
+gdc-coref,str8.0,123341,123777,weinberl,123363,123366,ich,weinberl
+gdc-coref,str8.0,123782,123847,christoph,123793,123796,Ich,christoph
+gdc-coref,str8.0,123852,123913,weinberl,123867,123870,ich,weinberl
+gdc-coref,str8.0,123918,124087,christoph,123929,123932,Ich,christoph
+gdc-coref,str8.0,123918,124087,christoph,123947,123951,mich,christoph
+gdc-coref,str8.0,123918,124087,christoph,123989,123992,ich,christoph
+gdc-coref,str8.0,123918,124087,christoph,124060,124063,ich,christoph
+gdc-coref,str8.0,124092,124386,weinberl,124254,124257,Ich,weinberl
+gdc-coref,str8.0,124092,124386,weinberl,124287,124290,mir,weinberl
+gdc-coref,str8.0,124092,124386,weinberl,124354,124357,ich,weinberl
+gdc-coref,str8.0,124422,124546,weinberl,124436,124439,ich,weinberl
+gdc-coref,str8.0,124422,124546,weinberl,124482,124488,meiner,weinberl
+gdc-coref,str8.0,124422,124546,weinberl,124523,124526,mir,weinberl
+gdc-coref,str8.0,124551,124705,christoph,124606,124609,ich,christoph
+gdc-coref,str8.0,124551,124705,christoph,124623,124626,ich,christoph
+gdc-coref,str8.0,124748,127208,weinberl,124769,124772,ich,weinberl
+gdc-coref,str8.0,124748,127208,weinberl,124868,124871,ich,weinberl
+gdc-coref,str8.0,124748,127208,weinberl,124982,124985,mir,weinberl
+gdc-coref,str8.0,124748,127208,weinberl,125369,125373,mich,weinberl
+gdc-coref,str8.0,124748,127208,weinberl,125429,125432,ich,weinberl
+gdc-coref,str8.0,124748,127208,weinberl,126656,126659,ich,weinberl
+gdc-coref,str8.0,124748,127208,weinberl,127057,127060,mir,weinberl
+gdc-coref,str8.0,127375,127415,rab,127380,127383,Mir,rab
+gdc-coref,str8.0,127420,127462,kraps,127433,127436,ich,kraps
+gdc-coref,str8.0,127467,127528,rab,127496,127500,mich,rab
+gdc-coref,str8.0,127467,127528,rab,127519,127522,ich,rab
+gdc-coref,str8.0,127533,127610,kraps,127549,127552,ich,kraps
+gdc-coref,str8.0,127818,127867,rab,127863,127866,mir,rab
+gdc-coref,str8.0,128459,128571,kraps,128531,128535,mein,kraps
+gdc-coref,str8.0,128576,128781,rab,128730,128733,mir,rab
+gdc-coref,str8.0,129070,129412,rab,129263,129266,mir,rab
+gdc-coref,str8.0,129463,129677,kraps,129470,129473,Ich,kraps
+gdc-coref,str8.0,129463,129677,kraps,129530,129533,Ich,kraps
+gdc-coref,str8.0,129463,129677,kraps,129547,129550,ich,kraps
+gdc-coref,str8.0,129463,129677,kraps,129568,129571,ich,kraps
+gdc-coref,str8.0,129463,129677,kraps,129623,129626,ich,kraps
+gdc-coref,str8.0,129834,129864,weinberl,129844,129847,Ich,weinberl
+gdc-coref,str8.0,130040,130081,kraps,130047,130050,Ich,kraps
+gdc-coref,str8.0,130086,130135,weinberl,130096,130099,Ich,weinberl
+gdc-coref,str8.0,130140,130216,kraps,130155,130159,mein,kraps
+gdc-coref,str8.0,130140,130216,kraps,130171,130175,mein,kraps
+gdc-coref,str8.0,130396,130503,kraps,130420,130424,mein,kraps
+gdc-coref,str8.0,130536,130674,kraps,130600,130603,ich,kraps
+gdc-coref,str8.0,130921,130960,weinberl,130946,130949,ich,weinberl
+gdc-coref,str8.0,131023,131240,weinberl,131121,131124,ich,weinberl
+gdc-coref,str8.0,131023,131240,weinberl,131140,131143,ich,weinberl
+gdc-coref,str8.0,131481,131688,weinberl,131545,131548,Ich,weinberl
+gdc-coref,str8.0,131481,131688,weinberl,131562,131565,ich,weinberl
+gdc-coref,str8.0,131991,133170,melchior,132099,132102,mir,melchior
+gdc-coref,str8.0,131991,133170,melchior,132186,132189,ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132251,132254,ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132273,132276,mir,melchior
+gdc-coref,str8.0,131991,133170,melchior,132306,132309,ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132310,132314,mein,melchior
+gdc-coref,str8.0,131991,133170,melchior,132336,132339,ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132355,132358,Ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132366,132370,mich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132534,132537,ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132802,132805,mir,melchior
+gdc-coref,str8.0,131991,133170,melchior,132848,132851,ich,melchior
+gdc-coref,str8.0,131991,133170,melchior,132918,132921,mir,melchior
+gdc-coref,str8.0,131991,133170,melchior,132934,132937,mir,melchior
+gdc-coref,str8.0,131991,133170,melchior,132996,132999,ich,melchior
+gdc-coref,str8.0,133457,133579,rab,133496,133500,mich,rab
+gdc-coref,str8.0,133640,133750,rab,133645,133648,Ich,rab
+gdc-coref,str8.0,133640,133750,rab,133667,133671,mich,rab
+gdc-coref,str8.0,133640,133750,rab,133710,133713,ich,rab
+gdc-coref,str8.0,133816,133930,rab,133841,133844,ich,rab
+gdc-coref,str8.0,133816,133930,rab,133845,133849,mich,rab
+gdc-coref,str8.0,134096,134433,rab,134180,134183,ich,rab
+gdc-coref,str8.0,134537,134648,weinberl,134574,134577,ich,weinberl
+gdc-coref,str8.0,134537,134648,weinberl,134579,134582,ich,weinberl
+gdc-coref,str8.0,134958,135059,rab,134991,134995,mich,rab
+gdc-coref,str8.0,135365,135519,melchior,135429,135432,ich,melchior
+gdc-coref,str8.0,135613,135703,weinberl,135642,135645,mir,weinberl
+gdc-coref,str8.0,135708,135834,melchior,135824,135827,ich,melchior
+gdc-coref,str8.0,135874,135934,melchior,135889,135892,ich,melchior
+gdc-coref,str8.0,135938,135987,weinberl,135964,135967,ich,weinberl
+gdc-coref,str8.0,136079,136124,weinberl,136100,136104,mich,weinberl
+gdc-coref,str8.0,136129,136190,melchior,136139,136142,Mir,melchior
+gdc-coref,str8.0,136466,136495,melchior,136476,136479,Ich,melchior
+gdc-coref,str8.0,136604,136815,zangler,136753,136756,mir,zangler
+gdc-coref,str8.0,136604,136815,zangler,136775,136779,mein,zangler
+gdc-coref,str8.0,137082,137152,zangler,137118,137121,mir,zangler
+gdc-coref,str8.0,137283,137472,zangler,137351,137355,Mein,zangler
+gdc-coref,str8.0,137283,137472,zangler,137386,137390,mein,zangler
+gdc-coref,str8.0,137283,137472,zangler,137427,137433,meiner,zangler
+gdc-coref,str8.0,137283,137472,zangler,137446,137450,mein,zangler
+gdc-coref,str8.0,137552,137628,melchior,137601,137606,meine,melchior
+gdc-coref,str8.0,137633,137769,weinberl,137754,137759,meine,weinberl
+gdc-coref,str8.0,137861,138169,weinberl,137936,137939,ich,weinberl
+gdc-coref,str8.0,137861,138169,weinberl,137993,137997,mich,weinberl
+gdc-coref,str8.0,137861,138169,weinberl,138040,138043,ich,weinberl
+gdc-coref,str8.0,137861,138169,weinberl,138055,138059,mich,weinberl
+gdc-coref,str8.0,137861,138169,weinberl,138125,138128,ich,weinberl
+gdc-coref,str8.0,138240,138275,weinberl,138258,138261,ich,weinberl
+gdc-coref,str8.0,138280,138309,zangler,138303,138307,mich,zangler
+gdc-coref,str8.0,138357,138410,zangler,138384,138387,ich,zangler
+gdc-coref,str8.0,138542,139000,zangler,138602,138606,mich,zangler
+gdc-coref,str8.0,138542,139000,zangler,138682,138685,ich,zangler
+gdc-coref,str8.0,138542,139000,zangler,138686,138691,meine,zangler
+gdc-coref,str8.0,138542,139000,zangler,138768,138771,ich,zangler
+gdc-coref,str8.0,138542,139000,zangler,138971,138974,ich,zangler

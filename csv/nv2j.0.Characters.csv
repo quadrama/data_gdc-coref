@@ -1,0 +1,11 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+gdc-coref,nv2j.0,Man ruft drinnen,ruf_von_drinnen,UNKNOWN,
+gdc-coref,nv2j.0,Mädchen,maedchen,FEMALE,
+gdc-coref,nv2j.0,Landmann,ein_landmann,MALE,
+gdc-coref,nv2j.0,Eucharis,eucharis,FEMALE,
+gdc-coref,nv2j.0,Geschrei/Volk,geschrei-volk,UNKNOWN,
+gdc-coref,nv2j.0,Phaon,phaon,MALE,
+gdc-coref,nv2j.0,Rhamnes,rhamnes,MALE,
+gdc-coref,nv2j.0,Einer aus dem Volke,einer_aus_dem_volke,MALE,
+gdc-coref,nv2j.0,Sappho,sappho,FEMALE,
+gdc-coref,nv2j.0,Melitta,melitta,FEMALE,

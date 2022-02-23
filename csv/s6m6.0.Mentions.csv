@@ -1,0 +1,2074 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,s6m6.0,1374,1497,foersterin,1423,1426,ich,foersterin
+gdc-coref,s6m6.0,1561,1604,foersterin,1572,1576,Mein,foersterin
+gdc-coref,s6m6.0,2936,4983,weiler,3496,3499,ich,weiler
+gdc-coref,s6m6.0,2936,4983,weiler,3914,3917,Ich,weiler
+gdc-coref,s6m6.0,2936,4983,weiler,3925,3928,ich,weiler
+gdc-coref,s6m6.0,2936,4983,weiler,4358,4361,mir,weiler
+gdc-coref,s6m6.0,5110,5415,weiler,5314,5317,ich,weiler
+gdc-coref,s6m6.0,5420,5499,foersterin,5435,5438,ich,foersterin
+gdc-coref,s6m6.0,5504,5855,weiler,5678,5681,ich,weiler
+gdc-coref,s6m6.0,6417,6446,andres,6425,6428,Ich,andres
+gdc-coref,s6m6.0,6908,7480,weiler,6990,6993,Ich,weiler
+gdc-coref,s6m6.0,6908,7480,weiler,7031,7034,mir,weiler
+gdc-coref,s6m6.0,6908,7480,weiler,7049,7055,meinen,weiler
+gdc-coref,s6m6.0,6908,7480,weiler,7267,7270,mir,weiler
+gdc-coref,s6m6.0,6908,7480,weiler,7296,7299,ich,weiler
+gdc-coref,s6m6.0,6908,7480,weiler,7300,7304,mich,weiler
+gdc-coref,s6m6.0,8097,8171,weiler,8113,8116,ich,weiler
+gdc-coref,s6m6.0,8097,8171,weiler,8124,8130,meinen,weiler
+gdc-coref,s6m6.0,8176,8698,foersterin,8236,8239,ich,foersterin
+gdc-coref,s6m6.0,8767,9116,foersterin,8954,8957,ich,foersterin
+gdc-coref,s6m6.0,8767,9116,foersterin,9042,9045,ich,foersterin
+gdc-coref,s6m6.0,8767,9116,foersterin,9049,9055,meinen,foersterin
+gdc-coref,s6m6.0,8767,9116,foersterin,9084,9087,ich,foersterin
+gdc-coref,s6m6.0,9121,9199,marie,9195,9198,mir,marie
+gdc-coref,s6m6.0,9273,9363,marie,9321,9324,ich,marie
+gdc-coref,s6m6.0,9273,9363,marie,9332,9335,Mir,marie
+gdc-coref,s6m6.0,9496,9593,marie,9525,9528,mir,marie
+gdc-coref,s6m6.0,9496,9593,marie,9534,9537,ich,marie
+gdc-coref,s6m6.0,9598,10229,foersterin,9701,9704,mir,foersterin
+gdc-coref,s6m6.0,9598,10229,foersterin,9942,9945,ich,foersterin
+gdc-coref,s6m6.0,9598,10229,foersterin,9959,9962,mir,foersterin
+gdc-coref,s6m6.0,9598,10229,foersterin,10111,10114,ich,foersterin
+gdc-coref,s6m6.0,9598,10229,foersterin,10140,10144,mich,foersterin
+gdc-coref,s6m6.0,9598,10229,foersterin,10187,10190,ich,foersterin
+gdc-coref,s6m6.0,10669,11176,robert,10681,10684,ich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10685,10689,mich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10764,10767,ich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10822,10825,ich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10891,10894,ich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10895,10899,mich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10932,10935,mir,robert
+gdc-coref,s6m6.0,10669,11176,robert,10982,10985,ich,robert
+gdc-coref,s6m6.0,10669,11176,robert,10986,10990,mich,robert
+gdc-coref,s6m6.0,10669,11176,robert,11014,11018,mich,robert
+gdc-coref,s6m6.0,10669,11176,robert,11049,11052,mir,robert
+gdc-coref,s6m6.0,10669,11176,robert,11077,11080,ich,robert
+gdc-coref,s6m6.0,11313,11469,marie,11346,11349,ich,marie
+gdc-coref,s6m6.0,11313,11469,marie,11363,11366,mir,marie
+gdc-coref,s6m6.0,11313,11469,marie,11417,11420,ich,marie
+gdc-coref,s6m6.0,11313,11469,marie,11445,11448,ich,marie
+gdc-coref,s6m6.0,11492,11695,marie,11537,11540,mir,marie
+gdc-coref,s6m6.0,11492,11695,marie,11566,11569,mir,marie
+gdc-coref,s6m6.0,11492,11695,marie,11667,11670,mir,marie
+gdc-coref,s6m6.0,11893,12081,marie,11910,11913,ich,marie
+gdc-coref,s6m6.0,11893,12081,marie,11972,11975,ich,marie
+gdc-coref,s6m6.0,11893,12081,marie,11999,12002,ich,marie
+gdc-coref,s6m6.0,11893,12081,marie,12030,12033,ich,marie
+gdc-coref,s6m6.0,11893,12081,marie,12060,12063,ich,marie
+gdc-coref,s6m6.0,12086,12216,robert,12177,12181,mein,robert
+gdc-coref,s6m6.0,12221,12839,foersterin,12466,12471,meine,foersterin
+gdc-coref,s6m6.0,12221,12839,foersterin,12509,12512,mir,foersterin
+gdc-coref,s6m6.0,12221,12839,foersterin,12533,12536,ich,foersterin
+gdc-coref,s6m6.0,12221,12839,foersterin,12537,12540,mir,foersterin
+gdc-coref,s6m6.0,12221,12839,foersterin,12739,12742,Ich,foersterin
+gdc-coref,s6m6.0,12950,12981,robert,12958,12961,Mir,robert
+gdc-coref,s6m6.0,13052,13260,robert,13211,13214,ich,robert
+gdc-coref,s6m6.0,13052,13260,robert,13215,13221,meinen,robert
+gdc-coref,s6m6.0,13339,13687,robert,13347,13350,Ich,robert
+gdc-coref,s6m6.0,13339,13687,robert,13364,13367,ich,robert
+gdc-coref,s6m6.0,13339,13687,robert,13412,13415,Ich,robert
+gdc-coref,s6m6.0,13339,13687,robert,13452,13455,mir,robert
+gdc-coref,s6m6.0,13833,14131,foerster,14068,14071,Ich,foerster
+gdc-coref,s6m6.0,13833,14131,foerster,14098,14101,Ich,foerster
+gdc-coref,s6m6.0,14947,15640,foerster,15485,15488,mir,foerster
+gdc-coref,s6m6.0,15785,15882,foerster,15794,15797,Ich,foerster
+gdc-coref,s6m6.0,15785,15882,foerster,15841,15844,mir,foerster
+gdc-coref,s6m6.0,16097,16165,foerster,16118,16122,mich,foerster
+gdc-coref,s6m6.0,16229,16798,foerster,16312,16316,mich,foerster
+gdc-coref,s6m6.0,16229,16798,foerster,16383,16386,mir,foerster
+gdc-coref,s6m6.0,16229,16798,foerster,16398,16401,ich,foerster
+gdc-coref,s6m6.0,16229,16798,foerster,16426,16429,ich,foerster
+gdc-coref,s6m6.0,16229,16798,foerster,16505,16508,ich,foerster
+gdc-coref,s6m6.0,16803,16820,robert,16811,16814,Ich,robert
+gdc-coref,s6m6.0,16900,17182,foerster,16953,16956,ich,foerster
+gdc-coref,s6m6.0,16900,17182,foerster,17039,17042,ich,foerster
+gdc-coref,s6m6.0,16900,17182,foerster,17159,17164,meine,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,17261,17265,mich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,17642,17645,Ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,17736,17741,meine,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,17795,17798,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,17872,17875,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18029,18032,Ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18139,18144,Meine,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18335,18338,Ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18403,18407,mein,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18445,18448,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18524,18527,Ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18738,18741,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,18814,18817,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19175,19178,Ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19288,19291,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19326,19329,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19364,19367,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19454,19457,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19514,19517,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19729,19732,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19742,19745,mir,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19777,19780,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19929,19932,mir,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,19969,19972,mir,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20005,20008,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20069,20072,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20199,20202,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20213,20216,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20257,20260,Ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20269,20272,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20300,20303,ich,foerster
+gdc-coref,s6m6.0,17240,20462,foerster,20337,20340,mir,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,20577,20580,mir,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,20604,20607,ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,20790,20793,ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,20851,20854,Ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,20886,20889,ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,20898,20901,ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,21023,21027,mich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,21044,21047,ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,21087,21090,ich,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,21105,21108,mir,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,21109,21113,mein,foerster
+gdc-coref,s6m6.0,20508,21197,foerster,21144,21147,ich,foerster
+gdc-coref,s6m6.0,21202,21262,robert,21235,21238,ich,robert
+gdc-coref,s6m6.0,21267,22163,foerster,21351,21354,mir,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21628,21631,ich,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21661,21664,Ich,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21703,21706,ich,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21737,21740,Ich,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21871,21876,Meine,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21888,21892,mich,foerster
+gdc-coref,s6m6.0,21267,22163,foerster,21963,21966,mir,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22382,22387,Meine,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22469,22472,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22518,22521,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22573,22576,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22635,22638,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22695,22698,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22729,22732,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22936,22939,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22958,22961,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,22979,22982,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23016,23019,mir,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23054,23057,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23136,23141,meine,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23151,23155,mein,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23163,23168,meine,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23182,23185,ich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23208,23212,mich,foerster
+gdc-coref,s6m6.0,22199,23521,foerster,23226,23229,mir,foerster
+gdc-coref,s6m6.0,23696,23792,foerster,23709,23712,ich,foerster
+gdc-coref,s6m6.0,24004,24214,foerster,24131,24134,Ich,foerster
+gdc-coref,s6m6.0,24219,24323,stein,24238,24241,ich,stein
+gdc-coref,s6m6.0,24478,24633,moeller,24609,24612,ich,moeller
+gdc-coref,s6m6.0,24801,24893,moeller,24840,24844,mein,moeller
+gdc-coref,s6m6.0,24801,24893,moeller,24845,24848,ich,moeller
+gdc-coref,s6m6.0,24926,25085,moeller,24982,24985,Ich,moeller
+gdc-coref,s6m6.0,24926,25085,moeller,25025,25030,meine,moeller
+gdc-coref,s6m6.0,24926,25085,moeller,25040,25044,mein,moeller
+gdc-coref,s6m6.0,24926,25085,moeller,25066,25070,mein,moeller
+gdc-coref,s6m6.0,25288,25823,moeller,25747,25750,ich,moeller
+gdc-coref,s6m6.0,25828,25864,stein,25838,25841,ich,stein
+gdc-coref,s6m6.0,26224,26279,stein,26257,26260,ich,stein
+gdc-coref,s6m6.0,26322,26474,stein,26415,26418,mir,stein
+gdc-coref,s6m6.0,26598,26609,stein,26605,26608,Ich,stein
+gdc-coref,s6m6.0,26647,26699,stein,26684,26688,Mein,stein
+gdc-coref,s6m6.0,26704,26763,foerster,26756,26762,meiner,foerster
+gdc-coref,s6m6.0,26836,26973,stein,26852,26855,ich,stein
+gdc-coref,s6m6.0,27025,27081,stein,27066,27070,mich,stein
+gdc-coref,s6m6.0,27141,27209,stein,27148,27151,Mir,stein
+gdc-coref,s6m6.0,27141,27209,stein,27191,27194,ich,stein
+gdc-coref,s6m6.0,27141,27209,stein,27195,27199,mich,stein
+gdc-coref,s6m6.0,27337,27383,foerster,27346,27349,Ich,foerster
+gdc-coref,s6m6.0,27388,27446,stein,27416,27419,Ich,stein
+gdc-coref,s6m6.0,27451,27513,foerster,27509,27512,mir,foerster
+gdc-coref,s6m6.0,27819,27851,foersterin,27846,27849,ich,foersterin
+gdc-coref,s6m6.0,28510,28560,stein,28517,28520,Ich,stein
+gdc-coref,s6m6.0,28643,28695,stein,28669,28672,ich,stein
+gdc-coref,s6m6.0,28725,28764,stein,28741,28744,ich,stein
+gdc-coref,s6m6.0,28836,28956,stein,28901,28904,ich,stein
+gdc-coref,s6m6.0,28836,28956,stein,28931,28934,ich,stein
+gdc-coref,s6m6.0,29330,29461,stein,29392,29395,ich,stein
+gdc-coref,s6m6.0,29330,29461,stein,29396,29399,mir,stein
+gdc-coref,s6m6.0,29330,29461,stein,29413,29416,ich,stein
+gdc-coref,s6m6.0,29330,29461,stein,29417,29420,mir,stein
+gdc-coref,s6m6.0,29330,29461,stein,29432,29435,Ich,stein
+gdc-coref,s6m6.0,29466,29929,foerster,29479,29482,ich,foerster
+gdc-coref,s6m6.0,29934,30048,stein,29950,29954,mein,stein
+gdc-coref,s6m6.0,29934,30048,stein,29967,29970,ich,stein
+gdc-coref,s6m6.0,30082,30124,stein,30103,30107,mein,stein
+gdc-coref,s6m6.0,30212,30246,foerster,30231,30234,Ich,foerster
+gdc-coref,s6m6.0,30383,30468,stein,30398,30401,mir,stein
+gdc-coref,s6m6.0,30383,30468,stein,30435,30438,Ich,stein
+gdc-coref,s6m6.0,30383,30468,stein,30448,30452,mich,stein
+gdc-coref,s6m6.0,30570,30730,foerster,30579,30582,Ich,foerster
+gdc-coref,s6m6.0,30972,31037,foersterin,30983,30986,Ich,foersterin
+gdc-coref,s6m6.0,31110,31229,foerster,31150,31156,meinem,foerster
+gdc-coref,s6m6.0,31110,31229,foerster,31212,31215,mir,foerster
+gdc-coref,s6m6.0,31269,31373,foerster,31369,31372,ich,foerster
+gdc-coref,s6m6.0,31630,31948,foerster,31735,31738,mir,foerster
+gdc-coref,s6m6.0,31630,31948,foerster,31744,31747,ich,foerster
+gdc-coref,s6m6.0,31630,31948,foerster,31756,31760,mich,foerster
+gdc-coref,s6m6.0,31630,31948,foerster,31785,31788,mir,foerster
+gdc-coref,s6m6.0,31630,31948,foerster,31837,31843,meiner,foerster
+gdc-coref,s6m6.0,31630,31948,foerster,31926,31929,mir,foerster
+gdc-coref,s6m6.0,32020,32124,foerster,32049,32052,ich,foerster
+gdc-coref,s6m6.0,32164,32291,foerster,32261,32264,Ich,foerster
+gdc-coref,s6m6.0,32377,32402,foerster,32393,32396,ich,foerster
+gdc-coref,s6m6.0,32448,32489,foerster,32461,32464,ich,foerster
+gdc-coref,s6m6.0,32601,32910,moeller,32624,32627,Ich,moeller
+gdc-coref,s6m6.0,32964,33148,moeller,32976,32979,mir,moeller
+gdc-coref,s6m6.0,32964,33148,moeller,33070,33073,ich,moeller
+gdc-coref,s6m6.0,32964,33148,moeller,33089,33092,Ich,moeller
+gdc-coref,s6m6.0,33153,33422,foerster,33172,33176,Mich,foerster
+gdc-coref,s6m6.0,33153,33422,foerster,33292,33295,ich,foerster
+gdc-coref,s6m6.0,33153,33422,foerster,33326,33329,ich,foerster
+gdc-coref,s6m6.0,33653,33930,wilkens,33680,33683,ich,wilkens
+gdc-coref,s6m6.0,33935,34096,foerster,33991,33994,ich,foerster
+gdc-coref,s6m6.0,33935,34096,foerster,34024,34027,ich,foerster
+gdc-coref,s6m6.0,33935,34096,foerster,34066,34069,mir,foerster
+gdc-coref,s6m6.0,33935,34096,foerster,34091,34094,ich,foerster
+gdc-coref,s6m6.0,34101,34267,wilkens,34128,34131,ich,wilkens
+gdc-coref,s6m6.0,34272,34563,foerster,34369,34372,ich,foerster
+gdc-coref,s6m6.0,34272,34563,foerster,34389,34395,meinem,foerster
+gdc-coref,s6m6.0,35212,35811,wilkens,35361,35364,ich,wilkens
+gdc-coref,s6m6.0,35212,35811,wilkens,35657,35660,ich,wilkens
+gdc-coref,s6m6.0,35212,35811,wilkens,35676,35679,ich,wilkens
+gdc-coref,s6m6.0,35816,35910,foerster,35832,35835,ich,foerster
+gdc-coref,s6m6.0,35991,36154,foersterin,36040,36044,mein,foersterin
+gdc-coref,s6m6.0,36159,36181,wilkens,36177,36180,ich,wilkens
+gdc-coref,s6m6.0,36408,36591,moeller,36555,36558,ich,moeller
+gdc-coref,s6m6.0,36597,36873,foerster,36610,36613,ich,foerster
+gdc-coref,s6m6.0,36597,36873,foerster,36636,36639,ich,foerster
+gdc-coref,s6m6.0,36597,36873,foerster,36736,36740,mich,foerster
+gdc-coref,s6m6.0,36597,36873,foerster,36776,36779,mir,foerster
+gdc-coref,s6m6.0,36597,36873,foerster,36796,36799,ich,foerster
+gdc-coref,s6m6.0,36597,36873,foerster,36853,36857,mich,foerster
+gdc-coref,s6m6.0,36955,37307,foerster,37022,37025,ich,foerster
+gdc-coref,s6m6.0,36955,37307,foerster,37068,37071,ich,foerster
+gdc-coref,s6m6.0,36955,37307,foerster,37171,37174,Ich,foerster
+gdc-coref,s6m6.0,36955,37307,foerster,37192,37195,ich,foerster
+gdc-coref,s6m6.0,37455,37613,moeller,37468,37471,ich,moeller
+gdc-coref,s6m6.0,37455,37613,moeller,37480,37483,ich,moeller
+gdc-coref,s6m6.0,37455,37613,moeller,37510,37513,ich,moeller
+gdc-coref,s6m6.0,37455,37613,moeller,37558,37561,ich,moeller
+gdc-coref,s6m6.0,37618,37876,foerster,37699,37703,mein,foerster
+gdc-coref,s6m6.0,37618,37876,foerster,37848,37851,mir,foerster
+gdc-coref,s6m6.0,38446,38515,andres,38458,38462,mich,andres
+gdc-coref,s6m6.0,38446,38515,andres,38476,38479,ich,andres
+gdc-coref,s6m6.0,38520,38714,foerster,38558,38561,mir,foerster
+gdc-coref,s6m6.0,38520,38714,foerster,38667,38670,ich,foerster
+gdc-coref,s6m6.0,38719,38820,moeller,38754,38757,ich,moeller
+gdc-coref,s6m6.0,38719,38820,moeller,38763,38768,meine,moeller
+gdc-coref,s6m6.0,38719,38820,moeller,38797,38800,Ich,moeller
+gdc-coref,s6m6.0,39314,39405,moeller,39331,39334,ich,moeller
+gdc-coref,s6m6.0,39468,39629,foerster,39538,39541,mir,foerster
+gdc-coref,s6m6.0,39835,39880,robert,39856,39859,ich,robert
+gdc-coref,s6m6.0,39885,40170,foerster,39986,39989,mir,foerster
+gdc-coref,s6m6.0,39885,40170,foerster,39990,39995,meine,foerster
+gdc-coref,s6m6.0,39885,40170,foerster,40021,40026,meine,foerster
+gdc-coref,s6m6.0,39885,40170,foerster,40038,40041,ich,foerster
+gdc-coref,s6m6.0,39885,40170,foerster,40082,40085,mir,foerster
+gdc-coref,s6m6.0,39885,40170,foerster,40145,40148,ich,foerster
+gdc-coref,s6m6.0,40246,40352,foerster,40330,40334,mich,foerster
+gdc-coref,s6m6.0,40357,40481,robert,40365,40368,Ich,robert
+gdc-coref,s6m6.0,40357,40481,robert,40379,40382,ich,robert
+gdc-coref,s6m6.0,40544,40660,robert,40572,40575,Ich,robert
+gdc-coref,s6m6.0,40544,40660,robert,40609,40614,meine,robert
+gdc-coref,s6m6.0,40544,40660,robert,40616,40619,ich,robert
+gdc-coref,s6m6.0,40665,40966,foerster,40718,40721,ich,foerster
+gdc-coref,s6m6.0,40665,40966,foerster,40807,40811,mein,foerster
+gdc-coref,s6m6.0,40665,40966,foerster,40927,40930,ich,foerster
+gdc-coref,s6m6.0,40665,40966,foerster,40956,40959,ich,foerster
+gdc-coref,s6m6.0,41160,41280,foerster,41169,41172,Ich,foerster
+gdc-coref,s6m6.0,41160,41280,foerster,41188,41191,ich,foerster
+gdc-coref,s6m6.0,41160,41280,foerster,41213,41216,ich,foerster
+gdc-coref,s6m6.0,41450,41586,foerster,41496,41499,mir,foerster
+gdc-coref,s6m6.0,41755,41907,andres,41763,41766,Ich,andres
+gdc-coref,s6m6.0,41755,41907,andres,41800,41804,mich,andres
+gdc-coref,s6m6.0,41755,41907,andres,41829,41835,meinen,andres
+gdc-coref,s6m6.0,41755,41907,andres,41879,41884,meine,andres
+gdc-coref,s6m6.0,41912,41988,robert,41950,41953,ich,robert
+gdc-coref,s6m6.0,41993,42027,marie,42015,42019,mein,marie
+gdc-coref,s6m6.0,42083,42125,robert,42102,42105,ich,robert
+gdc-coref,s6m6.0,42130,42163,andres,42146,42150,mein,andres
+gdc-coref,s6m6.0,42168,42259,robert,42227,42231,mein,robert
+gdc-coref,s6m6.0,42378,42458,andres,42437,42441,mich,andres
+gdc-coref,s6m6.0,42463,42524,foerster,42514,42517,mir,foerster
+gdc-coref,s6m6.0,42767,42802,foerster,42779,42785,meinem,foerster
+gdc-coref,s6m6.0,42767,42802,foerster,42796,42799,ich,foerster
+gdc-coref,s6m6.0,42884,43063,andres,43013,43016,ich,andres
+gdc-coref,s6m6.0,43154,43219,andres,43202,43205,ich,andres
+gdc-coref,s6m6.0,43378,43463,andres,43397,43400,ich,andres
+gdc-coref,s6m6.0,43498,44127,foerster,43626,43629,ich,foerster
+gdc-coref,s6m6.0,43498,44127,foerster,43661,43664,ich,foerster
+gdc-coref,s6m6.0,43498,44127,foerster,43695,43698,ich,foerster
+gdc-coref,s6m6.0,44131,44210,foerster,44200,44203,ich,foerster
+gdc-coref,s6m6.0,44318,44370,marie,44335,44338,ich,marie
+gdc-coref,s6m6.0,44318,44370,marie,44352,44356,mich,marie
+gdc-coref,s6m6.0,44375,44473,foerster,44406,44409,mir,foerster
+gdc-coref,s6m6.0,44375,44473,foerster,44448,44451,mir,foerster
+gdc-coref,s6m6.0,44478,44571,robert,44486,44489,Ich,robert
+gdc-coref,s6m6.0,44478,44571,robert,44524,44528,mein,robert
+gdc-coref,s6m6.0,44478,44571,robert,44553,44556,ich,robert
+gdc-coref,s6m6.0,44685,44825,wilkens,44765,44768,ich,wilkens
+gdc-coref,s6m6.0,44908,45785,stein,45093,45097,mich,stein
+gdc-coref,s6m6.0,44908,45785,stein,45136,45139,ich,stein
+gdc-coref,s6m6.0,44908,45785,stein,45166,45171,Meine,stein
+gdc-coref,s6m6.0,44908,45785,stein,45207,45211,Mich,stein
+gdc-coref,s6m6.0,44908,45785,stein,45255,45258,Ich,stein
+gdc-coref,s6m6.0,44908,45785,stein,45387,45390,ich,stein
+gdc-coref,s6m6.0,44908,45785,stein,45445,45448,mir,stein
+gdc-coref,s6m6.0,44908,45785,stein,45676,45679,ich,stein
+gdc-coref,s6m6.0,45827,45896,robert,45868,45872,mein,robert
+gdc-coref,s6m6.0,45976,46046,stein,46021,46024,mir,stein
+gdc-coref,s6m6.0,46051,46323,robert,46095,46099,mich,robert
+gdc-coref,s6m6.0,46051,46323,robert,46142,46145,ich,robert
+gdc-coref,s6m6.0,46051,46323,robert,46207,46210,ich,robert
+gdc-coref,s6m6.0,46051,46323,robert,46263,46267,mein,robert
+gdc-coref,s6m6.0,46444,46580,stein,46499,46503,mich,stein
+gdc-coref,s6m6.0,46585,46639,robert,46611,46614,ich,robert
+gdc-coref,s6m6.0,46585,46639,robert,46624,46628,mich,robert
+gdc-coref,s6m6.0,46644,46699,stein,46651,46654,Ich,stein
+gdc-coref,s6m6.0,46644,46699,stein,46686,46690,mich,stein
+gdc-coref,s6m6.0,46824,47290,robert,46876,46879,ich,robert
+gdc-coref,s6m6.0,46824,47290,robert,46918,46921,ich,robert
+gdc-coref,s6m6.0,46824,47290,robert,46964,46967,ich,robert
+gdc-coref,s6m6.0,46824,47290,robert,47042,47045,ich,robert
+gdc-coref,s6m6.0,46824,47290,robert,47069,47072,ich,robert
+gdc-coref,s6m6.0,46824,47290,robert,47094,47098,mich,robert
+gdc-coref,s6m6.0,46824,47290,robert,47275,47278,mir,robert
+gdc-coref,s6m6.0,47371,47401,robert,47386,47389,ich,robert
+gdc-coref,s6m6.0,47456,47660,robert,47498,47501,ich,robert
+gdc-coref,s6m6.0,47456,47660,robert,47576,47579,Ich,robert
+gdc-coref,s6m6.0,47666,47809,stein,47688,47691,ich,stein
+gdc-coref,s6m6.0,47666,47809,stein,47692,47698,meiner,stein
+gdc-coref,s6m6.0,47666,47809,stein,47722,47726,mich,stein
+gdc-coref,s6m6.0,47814,48371,robert,47900,47903,Ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,47920,47923,ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,47954,47957,ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,48026,48029,mir,robert
+gdc-coref,s6m6.0,47814,48371,robert,48118,48121,ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,48155,48158,ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,48224,48227,ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,48248,48251,ich,robert
+gdc-coref,s6m6.0,47814,48371,robert,48280,48284,mich,robert
+gdc-coref,s6m6.0,47814,48371,robert,48311,48314,ich,robert
+gdc-coref,s6m6.0,48376,48564,stein,48393,48396,mir,stein
+gdc-coref,s6m6.0,48376,48564,stein,48417,48420,Ich,stein
+gdc-coref,s6m6.0,48376,48564,stein,48456,48459,Ich,stein
+gdc-coref,s6m6.0,48376,48564,stein,48543,48546,ich,stein
+gdc-coref,s6m6.0,48569,48790,robert,48657,48663,meinem,robert
+gdc-coref,s6m6.0,48569,48790,robert,48678,48681,ich,robert
+gdc-coref,s6m6.0,48569,48790,robert,48697,48701,mein,robert
+gdc-coref,s6m6.0,48569,48790,robert,48765,48768,ich,robert
+gdc-coref,s6m6.0,48967,49374,stein,49156,49160,mich,stein
+gdc-coref,s6m6.0,48967,49374,stein,49317,49320,ich,stein
+gdc-coref,s6m6.0,49379,49420,stein,49411,49415,mich,stein
+gdc-coref,s6m6.0,49511,49623,pastor,49523,49527,mich,pastor
+gdc-coref,s6m6.0,50251,50367,stein,50258,50261,Ich,stein
+gdc-coref,s6m6.0,50251,50367,stein,50308,50311,ich,stein
+gdc-coref,s6m6.0,50525,50660,moeller,50544,50547,ich,moeller
+gdc-coref,s6m6.0,50525,50660,moeller,50551,50555,Mein,moeller
+gdc-coref,s6m6.0,50525,50660,moeller,50582,50585,Ich,moeller
+gdc-coref,s6m6.0,50665,51286,stein,50950,50953,ich,stein
+gdc-coref,s6m6.0,50665,51286,stein,51065,51068,ich,stein
+gdc-coref,s6m6.0,50665,51286,stein,51210,51213,ich,stein
+gdc-coref,s6m6.0,50665,51286,stein,51222,51226,mich,stein
+gdc-coref,s6m6.0,51291,51646,moeller,51299,51302,Ich,moeller
+gdc-coref,s6m6.0,51291,51646,moeller,51430,51433,Ich,moeller
+gdc-coref,s6m6.0,51291,51646,moeller,51507,51511,mich,moeller
+gdc-coref,s6m6.0,51291,51646,moeller,51549,51553,mein,moeller
+gdc-coref,s6m6.0,51291,51646,moeller,51566,51569,Ich,moeller
+gdc-coref,s6m6.0,51651,51918,stein,51738,51741,ich,stein
+gdc-coref,s6m6.0,51651,51918,stein,51875,51878,Ich,stein
+gdc-coref,s6m6.0,51966,52284,stein,51973,51976,Ich,stein
+gdc-coref,s6m6.0,51966,52284,stein,52046,52049,Ich,stein
+gdc-coref,s6m6.0,52479,52722,stein,52548,52551,ich,stein
+gdc-coref,s6m6.0,52479,52722,stein,52621,52627,meinem,stein
+gdc-coref,s6m6.0,52479,52722,stein,52659,52662,ich,stein
+gdc-coref,s6m6.0,52727,53389,stein,52734,52737,Ich,stein
+gdc-coref,s6m6.0,52727,53389,stein,52811,52814,Ich,stein
+gdc-coref,s6m6.0,52727,53389,stein,52820,52824,mein,stein
+gdc-coref,s6m6.0,52727,53389,stein,52957,52960,ich,stein
+gdc-coref,s6m6.0,52727,53389,stein,53001,53004,ich,stein
+gdc-coref,s6m6.0,52727,53389,stein,53027,53031,mich,stein
+gdc-coref,s6m6.0,52727,53389,stein,53279,53282,Ich,stein
+gdc-coref,s6m6.0,53394,53436,pastor,53402,53405,Ich,pastor
+gdc-coref,s6m6.0,53394,53436,pastor,53412,53416,mich,pastor
+gdc-coref,s6m6.0,53441,53539,stein,53452,53455,ich,stein
+gdc-coref,s6m6.0,53441,53539,stein,53484,53487,ich,stein
+gdc-coref,s6m6.0,53601,54080,moeller,53732,53735,mir,moeller
+gdc-coref,s6m6.0,53601,54080,moeller,53793,53796,ich,moeller
+gdc-coref,s6m6.0,53601,54080,moeller,53811,53817,meinem,moeller
+gdc-coref,s6m6.0,54289,54429,buchjaeger,54382,54385,mir,buchjaeger
+gdc-coref,s6m6.0,54465,54684,buchjaeger,54584,54587,ich,buchjaeger
+gdc-coref,s6m6.0,54465,54684,buchjaeger,54588,54592,mich,buchjaeger
+gdc-coref,s6m6.0,54465,54684,buchjaeger,54635,54639,mich,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55262,55265,ich,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55348,55351,ich,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55481,55487,meiner,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55585,55588,ich,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55607,55610,ich,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55665,55668,ich,buchjaeger
+gdc-coref,s6m6.0,55083,55835,buchjaeger,55759,55762,ich,buchjaeger
+gdc-coref,s6m6.0,56073,56300,buchjaeger,56115,56118,ich,buchjaeger
+gdc-coref,s6m6.0,56373,56605,buchjaeger,56454,56458,mein,buchjaeger
+gdc-coref,s6m6.0,56373,56605,buchjaeger,56483,56487,mein,buchjaeger
+gdc-coref,s6m6.0,56373,56605,buchjaeger,56498,56502,mein,buchjaeger
+gdc-coref,s6m6.0,56373,56605,buchjaeger,56518,56522,mein,buchjaeger
+gdc-coref,s6m6.0,56373,56605,buchjaeger,56545,56548,ich,buchjaeger
+gdc-coref,s6m6.0,56373,56605,buchjaeger,56566,56572,meinen,buchjaeger
+gdc-coref,s6m6.0,56610,56915,moeller,56642,56647,meine,moeller
+gdc-coref,s6m6.0,56610,56915,moeller,56723,56726,Ich,moeller
+gdc-coref,s6m6.0,56610,56915,moeller,56763,56766,ich,moeller
+gdc-coref,s6m6.0,57211,57412,weiler,57328,57331,mir,weiler
+gdc-coref,s6m6.0,57211,57412,weiler,57376,57379,ich,weiler
+gdc-coref,s6m6.0,58939,59019,foerster,58948,58951,Ich,foerster
+gdc-coref,s6m6.0,58939,59019,foerster,58969,58972,ich,foerster
+gdc-coref,s6m6.0,59024,59190,weiler,59062,59065,ich,weiler
+gdc-coref,s6m6.0,59589,59756,wilkens,59603,59606,ich,wilkens
+gdc-coref,s6m6.0,59589,59756,wilkens,59619,59622,mir,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,59834,59838,Mein,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,59876,59879,ich,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,59887,59890,ich,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,60004,60007,ich,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,60032,60036,mich,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,60074,60078,mich,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,60106,60109,Ich,wilkens
+gdc-coref,s6m6.0,59825,60227,wilkens,60158,60161,Ich,wilkens
+gdc-coref,s6m6.0,60587,60635,pastor,60595,60598,Ich,pastor
+gdc-coref,s6m6.0,60670,60815,pastor,60692,60695,ich,pastor
+gdc-coref,s6m6.0,60670,60815,pastor,60710,60713,ich,pastor
+gdc-coref,s6m6.0,60670,60815,pastor,60736,60739,ich,pastor
+gdc-coref,s6m6.0,60670,60815,pastor,60802,60805,ich,pastor
+gdc-coref,s6m6.0,60980,61131,pastor,60998,61001,Ich,pastor
+gdc-coref,s6m6.0,60980,61131,pastor,61066,61069,ich,pastor
+gdc-coref,s6m6.0,61136,61188,wilkens,61145,61148,Ich,wilkens
+gdc-coref,s6m6.0,61136,61188,wilkens,61170,61173,ich,wilkens
+gdc-coref,s6m6.0,61855,62107,foerster,61884,61887,ich,foerster
+gdc-coref,s6m6.0,61855,62107,foerster,61968,61971,ich,foerster
+gdc-coref,s6m6.0,61855,62107,foerster,61977,61980,ich,foerster
+gdc-coref,s6m6.0,61855,62107,foerster,62005,62008,ich,foerster
+gdc-coref,s6m6.0,61855,62107,foerster,62068,62071,ich,foerster
+gdc-coref,s6m6.0,61855,62107,foerster,62078,62083,meine,foerster
+gdc-coref,s6m6.0,62373,62425,pastor,62388,62392,mein,pastor
+gdc-coref,s6m6.0,62430,62583,foerster,62488,62491,mir,foerster
+gdc-coref,s6m6.0,62430,62583,foerster,62492,62497,meine,foerster
+gdc-coref,s6m6.0,62430,62583,foerster,62532,62537,meine,foerster
+gdc-coref,s6m6.0,62430,62583,foerster,62547,62550,mir,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62734,62737,Ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62759,62762,Ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62791,62794,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62803,62806,Ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62828,62831,Ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62846,62850,mich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62872,62875,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62913,62916,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62990,62993,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,62994,62998,mich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63034,63037,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63054,63057,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63205,63208,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63267,63273,meinen,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63310,63314,mein,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63329,63332,mir,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63355,63359,mein,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63374,63380,meinem,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63399,63403,mich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63434,63437,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63457,63463,meinem,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63510,63516,meinen,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63597,63600,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63655,63659,mein,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63670,63674,mein,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,63873,63877,mein,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64322,64326,mich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64364,64370,meinem,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64455,64458,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64538,64541,mir,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64588,64591,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64617,64620,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64668,64671,ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64697,64703,meinen,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64751,64754,mir,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64824,64827,Ich,foerster
+gdc-coref,s6m6.0,62684,64869,foerster,64835,64841,meinem,foerster
+gdc-coref,s6m6.0,65249,65357,wilhelm,65311,65314,Ich,wilhelm
+gdc-coref,s6m6.0,65423,65689,foerster,65564,65567,ich,foerster
+gdc-coref,s6m6.0,66465,66504,foerster,66490,66494,mich,foerster
+gdc-coref,s6m6.0,66509,66617,andres,66517,66520,Ich,andres
+gdc-coref,s6m6.0,66509,66617,andres,66561,66564,Ich,andres
+gdc-coref,s6m6.0,66509,66617,andres,66605,66609,mich,andres
+gdc-coref,s6m6.0,66736,66817,andres,66744,66747,Ich,andres
+gdc-coref,s6m6.0,66822,66858,foerster,66835,66838,ich,foerster
+gdc-coref,s6m6.0,67162,67387,andres,67378,67381,ich,andres
+gdc-coref,s6m6.0,67941,68054,andres,67970,67976,meinem,andres
+gdc-coref,s6m6.0,67941,68054,andres,68010,68013,mir,andres
+gdc-coref,s6m6.0,68095,68116,andres,68111,68115,mich,andres
+gdc-coref,s6m6.0,68143,68197,andres,68169,68173,mein,andres
+gdc-coref,s6m6.0,68143,68197,andres,68186,68189,mir,andres
+gdc-coref,s6m6.0,68279,68495,andres,68287,68290,Ich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68307,68310,ich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68341,68345,mich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68353,68356,Ich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68374,68378,mich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68404,68407,ich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68423,68427,mich,andres
+gdc-coref,s6m6.0,68279,68495,andres,68480,68484,mich,andres
+gdc-coref,s6m6.0,68650,68749,andres,68676,68679,ich,andres
+gdc-coref,s6m6.0,68650,68749,andres,68708,68711,mir,andres
+gdc-coref,s6m6.0,68754,69154,foerster,68917,68921,mich,foerster
+gdc-coref,s6m6.0,68754,69154,foerster,69059,69062,ich,foerster
+gdc-coref,s6m6.0,68754,69154,foerster,69120,69123,ich,foerster
+gdc-coref,s6m6.0,69233,69269,weiler,69246,69249,ich,weiler
+gdc-coref,s6m6.0,69274,69332,foersterin,69304,69307,Ich,foersterin
+gdc-coref,s6m6.0,69337,69546,foerster,69481,69487,meinen,foerster
+gdc-coref,s6m6.0,69337,69546,foerster,69541,69545,mich,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,69611,69614,Ich,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,69663,69668,meine,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,69728,69734,meinen,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70270,70274,mein,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70285,70289,mein,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70327,70331,mich,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70502,70505,mir,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70531,70535,mich,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70556,70559,ich,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70679,70682,ich,foerster
+gdc-coref,s6m6.0,69567,70901,foerster,70881,70884,Ich,foerster
+gdc-coref,s6m6.0,70906,70966,andres,70940,70944,mich,andres
+gdc-coref,s6m6.0,71280,71400,foerster,71347,71350,ich,foerster
+gdc-coref,s6m6.0,71280,71400,foerster,71381,71385,mich,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,71823,71826,ich,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,72097,72100,mir,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,72101,72106,meine,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,72120,72125,meine,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,72162,72165,mir,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,72192,72198,meinem,foerster
+gdc-coref,s6m6.0,71631,72301,foerster,72223,72226,ich,foerster
+gdc-coref,s6m6.0,72395,72943,foerster,72579,72583,Mich,foerster
+gdc-coref,s6m6.0,72395,72943,foerster,72614,72620,meinem,foerster
+gdc-coref,s6m6.0,72395,72943,foerster,72646,72650,mein,foerster
+gdc-coref,s6m6.0,72395,72943,foerster,72681,72684,mir,foerster
+gdc-coref,s6m6.0,72395,72943,foerster,72798,72801,ich,foerster
+gdc-coref,s6m6.0,72395,72943,foerster,72843,72846,ich,foerster
+gdc-coref,s6m6.0,73777,73981,moeller,73792,73795,Ich,moeller
+gdc-coref,s6m6.0,73777,73981,moeller,73834,73839,meine,moeller
+gdc-coref,s6m6.0,74233,74507,frei,74451,74454,ich,frei
+gdc-coref,s6m6.0,74805,74959,frei,74867,74870,ich,frei
+gdc-coref,s6m6.0,75155,75321,frei,75297,75300,ich,frei
+gdc-coref,s6m6.0,75415,75455,moeller,75450,75454,mich,moeller
+gdc-coref,s6m6.0,75485,75559,moeller,75525,75528,Ich,moeller
+gdc-coref,s6m6.0,75809,76014,lindenschmied,75828,75834,meinen,lindenschmied
+gdc-coref,s6m6.0,75809,76014,lindenschmied,75843,75847,mich,lindenschmied
+gdc-coref,s6m6.0,76020,77034,frei,76070,76073,ich,frei
+gdc-coref,s6m6.0,76020,77034,frei,76309,76312,ich,frei
+gdc-coref,s6m6.0,77134,77473,frei,77173,77176,ich,frei
+gdc-coref,s6m6.0,77478,77592,lindenschmied,77588,77591,mir,lindenschmied
+gdc-coref,s6m6.0,77635,77970,andres,77852,77855,Ich,andres
+gdc-coref,s6m6.0,77635,77970,andres,77886,77889,mir,andres
+gdc-coref,s6m6.0,77635,77970,andres,77920,77923,Ich,andres
+gdc-coref,s6m6.0,77635,77970,andres,77935,77941,meinen,andres
+gdc-coref,s6m6.0,78160,78410,frei,78242,78245,ich,frei
+gdc-coref,s6m6.0,78160,78410,frei,78402,78405,ich,frei
+gdc-coref,s6m6.0,78681,79166,frei,78703,78706,ich,frei
+gdc-coref,s6m6.0,78681,79166,frei,78766,78770,mich,frei
+gdc-coref,s6m6.0,78681,79166,frei,78990,78993,ich,frei
+gdc-coref,s6m6.0,79260,79306,frei,79297,79300,ich,frei
+gdc-coref,s6m6.0,80423,80541,lindenschmied,80443,80446,ich,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80662,80665,ich,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80713,80716,mir,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80769,80772,ich,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80823,80826,mir,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80858,80861,ich,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80908,80912,mich,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80941,80947,meinem,lindenschmied
+gdc-coref,s6m6.0,80593,81098,lindenschmied,80966,80969,ich,lindenschmied
+gdc-coref,s6m6.0,81146,81186,lindenschmied,81176,81179,ich,lindenschmied
+gdc-coref,s6m6.0,81373,81484,frei,81436,81439,ich,frei
+gdc-coref,s6m6.0,81836,82182,wirt,81908,81911,ich,wirt
+gdc-coref,s6m6.0,81836,82182,wirt,81912,81917,meine,wirt
+gdc-coref,s6m6.0,82257,82404,wirt,82280,82283,ich,wirt
+gdc-coref,s6m6.0,82257,82404,wirt,82298,82301,ich,wirt
+gdc-coref,s6m6.0,82257,82404,wirt,82325,82328,mir,wirt
+gdc-coref,s6m6.0,82257,82404,wirt,82371,82374,ich,wirt
+gdc-coref,s6m6.0,82409,82519,andres,82509,82512,ich,andres
+gdc-coref,s6m6.0,82524,82563,wirt,82545,82548,ich,wirt
+gdc-coref,s6m6.0,82568,82693,andres,82680,82683,ich,andres
+gdc-coref,s6m6.0,82698,82733,wirt,82707,82710,ich,wirt
+gdc-coref,s6m6.0,82738,83084,andres,82775,82778,Ich,andres
+gdc-coref,s6m6.0,82738,83084,andres,82785,82788,Ich,andres
+gdc-coref,s6m6.0,82738,83084,andres,82803,82806,ich,andres
+gdc-coref,s6m6.0,82738,83084,andres,82916,82919,ich,andres
+gdc-coref,s6m6.0,82738,83084,andres,82928,82932,Mein,andres
+gdc-coref,s6m6.0,82738,83084,andres,82987,82990,ich,andres
+gdc-coref,s6m6.0,82738,83084,andres,83001,83004,Ich,andres
+gdc-coref,s6m6.0,82738,83084,andres,83071,83076,meine,andres
+gdc-coref,s6m6.0,83119,83183,andres,83138,83141,ich,andres
+gdc-coref,s6m6.0,83188,83229,wirt,83203,83206,ich,wirt
+gdc-coref,s6m6.0,83280,83406,wirt,83286,83289,Ich,wirt
+gdc-coref,s6m6.0,83280,83406,wirt,83367,83370,ich,wirt
+gdc-coref,s6m6.0,83411,83500,andres,83427,83430,Ich,andres
+gdc-coref,s6m6.0,83411,83500,andres,83449,83452,Ich,andres
+gdc-coref,s6m6.0,83534,83728,andres,83559,83562,mir,andres
+gdc-coref,s6m6.0,83534,83728,andres,83629,83632,ich,andres
+gdc-coref,s6m6.0,84496,84603,kathrine,84546,84549,ich,kathrine
+gdc-coref,s6m6.0,84758,84961,kathrine,84890,84895,Meine,kathrine
+gdc-coref,s6m6.0,85200,85244,kathrine,85228,85231,ich,kathrine
+gdc-coref,s6m6.0,85249,85449,robert,85288,85292,Mich,robert
+gdc-coref,s6m6.0,85502,85556,robert,85538,85541,ich,robert
+gdc-coref,s6m6.0,85653,86373,robert,85762,85766,mich,robert
+gdc-coref,s6m6.0,85653,86373,robert,85801,85804,ich,robert
+gdc-coref,s6m6.0,85653,86373,robert,85818,85821,Ich,robert
+gdc-coref,s6m6.0,85653,86373,robert,85853,85857,mein,robert
+gdc-coref,s6m6.0,85653,86373,robert,86048,86051,mir,robert
+gdc-coref,s6m6.0,85653,86373,robert,86072,86075,mir,robert
+gdc-coref,s6m6.0,85653,86373,robert,86097,86100,mir,robert
+gdc-coref,s6m6.0,85653,86373,robert,86176,86180,mein,robert
+gdc-coref,s6m6.0,85653,86373,robert,86241,86244,ich,robert
+gdc-coref,s6m6.0,86457,86562,buchjaeger,86545,86548,Ich,buchjaeger
+gdc-coref,s6m6.0,87463,87500,buchjaeger,87483,87486,mir,buchjaeger
+gdc-coref,s6m6.0,87998,88181,moeller,88060,88063,ich,moeller
+gdc-coref,s6m6.0,87998,88181,moeller,88102,88105,ich,moeller
+gdc-coref,s6m6.0,87998,88181,moeller,88139,88142,mir,moeller
+gdc-coref,s6m6.0,87998,88181,moeller,88156,88159,ich,moeller
+gdc-coref,s6m6.0,88186,88292,robert,88252,88255,ich,robert
+gdc-coref,s6m6.0,88547,89224,robert,88630,88633,ich,robert
+gdc-coref,s6m6.0,88547,89224,robert,88651,88654,ich,robert
+gdc-coref,s6m6.0,88547,89224,robert,88840,88843,ich,robert
+gdc-coref,s6m6.0,88547,89224,robert,88902,88905,mir,robert
+gdc-coref,s6m6.0,88547,89224,robert,88910,88916,meinem,robert
+gdc-coref,s6m6.0,88547,89224,robert,89140,89144,mich,robert
+gdc-coref,s6m6.0,88547,89224,robert,89161,89165,Mich,robert
+gdc-coref,s6m6.0,89373,89404,andres,89392,89395,Ich,andres
+gdc-coref,s6m6.0,89504,89601,andres,89516,89520,mich,andres
+gdc-coref,s6m6.0,89829,90059,andres,89897,89900,mir,andres
+gdc-coref,s6m6.0,89829,90059,andres,89956,89959,Ich,andres
+gdc-coref,s6m6.0,89829,90059,andres,89976,89979,ich,andres
+gdc-coref,s6m6.0,89829,90059,andres,89990,89993,ich,andres
+gdc-coref,s6m6.0,89829,90059,andres,90017,90021,mich,andres
+gdc-coref,s6m6.0,90102,90165,andres,90121,90124,mir,andres
+gdc-coref,s6m6.0,90170,90299,robert,90198,90201,ich,robert
+gdc-coref,s6m6.0,90408,90467,lindenschmied,90455,90458,ich,lindenschmied
+gdc-coref,s6m6.0,90995,91057,stein,91006,91010,mein,stein
+gdc-coref,s6m6.0,91549,91631,stein,91556,91559,Ich,stein
+gdc-coref,s6m6.0,91636,91735,pastor,91668,91672,mich,pastor
+gdc-coref,s6m6.0,91636,91735,pastor,91677,91683,meinem,pastor
+gdc-coref,s6m6.0,91636,91735,pastor,91708,91712,mich,pastor
+gdc-coref,s6m6.0,91740,92365,stein,91902,91905,ich,stein
+gdc-coref,s6m6.0,91740,92365,stein,91954,91957,Ich,stein
+gdc-coref,s6m6.0,91740,92365,stein,92076,92079,ich,stein
+gdc-coref,s6m6.0,91740,92365,stein,92131,92134,ich,stein
+gdc-coref,s6m6.0,91740,92365,stein,92176,92180,mich,stein
+gdc-coref,s6m6.0,91740,92365,stein,92299,92302,ich,stein
+gdc-coref,s6m6.0,92370,92568,pastor,92378,92381,Ich,pastor
+gdc-coref,s6m6.0,92725,92785,stein,92760,92763,ich,stein
+gdc-coref,s6m6.0,93523,93569,pastor,93541,93544,Ich,pastor
+gdc-coref,s6m6.0,93574,93981,stein,93624,93627,ich,stein
+gdc-coref,s6m6.0,93574,93981,stein,93686,93689,mir,stein
+gdc-coref,s6m6.0,93574,93981,stein,93745,93748,ich,stein
+gdc-coref,s6m6.0,93574,93981,stein,93925,93928,ich,stein
+gdc-coref,s6m6.0,94406,94485,pastor,94418,94421,ich,pastor
+gdc-coref,s6m6.0,94490,94772,stein,94640,94646,meinem,stein
+gdc-coref,s6m6.0,95023,95062,stein,95030,95034,Mein,stein
+gdc-coref,s6m6.0,95143,95824,moeller,95174,95177,ich,moeller
+gdc-coref,s6m6.0,95143,95824,moeller,95193,95196,ich,moeller
+gdc-coref,s6m6.0,95143,95824,moeller,95212,95215,mir,moeller
+gdc-coref,s6m6.0,95143,95824,moeller,95354,95357,ich,moeller
+gdc-coref,s6m6.0,95143,95824,moeller,95482,95485,Ich,moeller
+gdc-coref,s6m6.0,95143,95824,moeller,95629,95632,Ich,moeller
+gdc-coref,s6m6.0,95143,95824,moeller,95763,95766,ich,moeller
+gdc-coref,s6m6.0,95829,96145,stein,96038,96043,meine,stein
+gdc-coref,s6m6.0,96439,96502,stein,96450,96453,ich,stein
+gdc-coref,s6m6.0,96506,96608,stein,96540,96543,Ich,stein
+gdc-coref,s6m6.0,96506,96608,stein,96573,96576,ich,stein
+gdc-coref,s6m6.0,97681,98051,wilkens,97791,97794,mir,wilkens
+gdc-coref,s6m6.0,97681,98051,wilkens,97795,97800,meine,wilkens
+gdc-coref,s6m6.0,97681,98051,wilkens,97871,97874,ich,wilkens
+gdc-coref,s6m6.0,97681,98051,wilkens,97875,97878,mir,wilkens
+gdc-coref,s6m6.0,97681,98051,wilkens,97904,97907,mir,wilkens
+gdc-coref,s6m6.0,97681,98051,wilkens,97929,97932,ich,wilkens
+gdc-coref,s6m6.0,97681,98051,wilkens,97983,97986,ich,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98200,98203,mir,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98230,98233,Ich,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98299,98305,meinem,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98327,98330,ich,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98348,98351,Ich,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98438,98441,mir,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98516,98521,meine,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98656,98659,ich,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98758,98761,ich,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98778,98784,meines,wilkens
+gdc-coref,s6m6.0,98145,98961,wilkens,98865,98868,mir,wilkens
+gdc-coref,s6m6.0,99140,99355,marie,99181,99184,ich,marie
+gdc-coref,s6m6.0,99140,99355,marie,99213,99216,ich,marie
+gdc-coref,s6m6.0,99140,99355,marie,99217,99221,mich,marie
+gdc-coref,s6m6.0,99140,99355,marie,99244,99247,ich,marie
+gdc-coref,s6m6.0,99140,99355,marie,99324,99327,Ich,marie
+gdc-coref,s6m6.0,99527,99741,marie,99534,99537,Ich,marie
+gdc-coref,s6m6.0,99527,99741,marie,99563,99566,ich,marie
+gdc-coref,s6m6.0,99527,99741,marie,99610,99614,mich,marie
+gdc-coref,s6m6.0,99527,99741,marie,99701,99704,mir,marie
+gdc-coref,s6m6.0,99527,99741,marie,99710,99714,mein,marie
+gdc-coref,s6m6.0,99772,100615,marie,99786,99789,ich,marie
+gdc-coref,s6m6.0,99772,100615,marie,99822,99828,meinem,marie
+gdc-coref,s6m6.0,99772,100615,marie,99936,99939,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,99959,99962,ich,marie
+gdc-coref,s6m6.0,99772,100615,marie,100012,100015,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,100053,100056,ich,marie
+gdc-coref,s6m6.0,99772,100615,marie,100057,100061,mich,marie
+gdc-coref,s6m6.0,99772,100615,marie,100091,100094,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,100128,100131,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,100172,100175,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,100229,100232,ich,marie
+gdc-coref,s6m6.0,99772,100615,marie,100240,100244,mich,marie
+gdc-coref,s6m6.0,99772,100615,marie,100265,100268,ich,marie
+gdc-coref,s6m6.0,99772,100615,marie,100405,100408,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,100468,100471,mir,marie
+gdc-coref,s6m6.0,99772,100615,marie,100582,100585,mir,marie
+gdc-coref,s6m6.0,100684,100731,marie,100709,100712,ich,marie
+gdc-coref,s6m6.0,100870,101110,foersterin,100990,100993,Ich,foersterin
+gdc-coref,s6m6.0,101234,101371,foersterin,101245,101248,Ich,foersterin
+gdc-coref,s6m6.0,101555,101633,foersterin,101604,101607,ich,foersterin
+gdc-coref,s6m6.0,101555,101633,foersterin,101619,101622,ich,foersterin
+gdc-coref,s6m6.0,101693,101781,foersterin,101743,101746,Ich,foersterin
+gdc-coref,s6m6.0,101911,102346,foersterin,101994,101997,ich,foersterin
+gdc-coref,s6m6.0,101911,102346,foersterin,102010,102013,Ich,foersterin
+gdc-coref,s6m6.0,101911,102346,foersterin,102040,102043,ich,foersterin
+gdc-coref,s6m6.0,101911,102346,foersterin,102136,102140,mich,foersterin
+gdc-coref,s6m6.0,101911,102346,foersterin,102242,102245,ich,foersterin
+gdc-coref,s6m6.0,101911,102346,foersterin,102307,102310,ich,foersterin
+gdc-coref,s6m6.0,102388,102684,foersterin,102399,102402,Ich,foersterin
+gdc-coref,s6m6.0,102388,102684,foersterin,102584,102587,ich,foersterin
+gdc-coref,s6m6.0,102388,102684,foersterin,102603,102607,mich,foersterin
+gdc-coref,s6m6.0,102388,102684,foersterin,102610,102613,ich,foersterin
+gdc-coref,s6m6.0,102689,102720,foerster,102715,102719,mich,foerster
+gdc-coref,s6m6.0,102935,103328,foersterin,102966,102969,Ich,foersterin
+gdc-coref,s6m6.0,102935,103328,foersterin,102996,102999,ich,foersterin
+gdc-coref,s6m6.0,102935,103328,foersterin,103062,103065,ich,foersterin
+gdc-coref,s6m6.0,103374,103393,foersterin,103385,103388,Ich,foersterin
+gdc-coref,s6m6.0,103438,103478,foersterin,103467,103470,ich,foersterin
+gdc-coref,s6m6.0,103483,104713,foerster,103645,103648,ich,foerster
+gdc-coref,s6m6.0,103483,104713,foerster,103668,103671,ich,foerster
+gdc-coref,s6m6.0,103483,104713,foerster,103814,103817,mir,foerster
+gdc-coref,s6m6.0,103483,104713,foerster,104248,104251,ich,foerster
+gdc-coref,s6m6.0,104803,105064,foerster,104874,104877,ich,foerster
+gdc-coref,s6m6.0,104803,105064,foerster,104903,104909,meinem,foerster
+gdc-coref,s6m6.0,104803,105064,foerster,104943,104946,Ich,foerster
+gdc-coref,s6m6.0,105190,105269,wilhelm,105199,105202,Ich,wilhelm
+gdc-coref,s6m6.0,105322,105491,foersterin,105396,105399,mir,foersterin
+gdc-coref,s6m6.0,105495,105593,foerster,105573,105576,ich,foerster
+gdc-coref,s6m6.0,105495,105593,foerster,105577,105581,mein,foerster
+gdc-coref,s6m6.0,106146,106350,foerster,106175,106178,ich,foerster
+gdc-coref,s6m6.0,106146,106350,foerster,106214,106217,mir,foerster
+gdc-coref,s6m6.0,106146,106350,foerster,106257,106260,ich,foerster
+gdc-coref,s6m6.0,106146,106350,foerster,106284,106288,mich,foerster
+gdc-coref,s6m6.0,106355,106395,wilhelm,106371,106374,mir,wilhelm
+gdc-coref,s6m6.0,106400,106623,foerster,106562,106566,mich,foerster
+gdc-coref,s6m6.0,106743,107097,foerster,106786,106790,mich,foerster
+gdc-coref,s6m6.0,106743,107097,foerster,106811,106814,ich,foerster
+gdc-coref,s6m6.0,107147,107336,foerster,107190,107193,ich,foerster
+gdc-coref,s6m6.0,107147,107336,foerster,107223,107226,ich,foerster
+gdc-coref,s6m6.0,107632,107814,wilhelm,107694,107697,ich,wilhelm
+gdc-coref,s6m6.0,107632,107814,wilhelm,107741,107744,mir,wilhelm
+gdc-coref,s6m6.0,107632,107814,wilhelm,107781,107784,ich,wilhelm
+gdc-coref,s6m6.0,107860,108574,wilhelm,108054,108057,mir,wilhelm
+gdc-coref,s6m6.0,108643,108776,foerster,108657,108660,ich,foerster
+gdc-coref,s6m6.0,108643,108776,foerster,108754,108757,mir,foerster
+gdc-coref,s6m6.0,108897,108936,foerster,108906,108909,Ich,foerster
+gdc-coref,s6m6.0,109038,109243,foerster,109118,109121,ich,foerster
+gdc-coref,s6m6.0,109038,109243,foerster,109184,109187,ich,foerster
+gdc-coref,s6m6.0,109247,109347,foersterin,109334,109337,ich,foersterin
+gdc-coref,s6m6.0,109352,109661,foerster,109388,109392,mein,foerster
+gdc-coref,s6m6.0,109352,109661,foerster,109424,109427,mir,foerster
+gdc-coref,s6m6.0,109352,109661,foerster,109460,109463,ich,foerster
+gdc-coref,s6m6.0,109352,109661,foerster,109508,109511,ich,foerster
+gdc-coref,s6m6.0,109666,109851,foerster,109680,109683,mir,foerster
+gdc-coref,s6m6.0,109666,109851,foerster,109706,109709,ich,foerster
+gdc-coref,s6m6.0,109666,109851,foerster,109710,109716,meinen,foerster
+gdc-coref,s6m6.0,109855,110928,foersterin,109961,109964,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,109993,109996,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110003,110006,Ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110060,110063,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110420,110423,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110603,110606,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110679,110682,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110701,110704,ich,foersterin
+gdc-coref,s6m6.0,109855,110928,foersterin,110826,110829,Ich,foersterin
+gdc-coref,s6m6.0,111217,111250,marie,111224,111227,Ich,marie
+gdc-coref,s6m6.0,111255,111552,foersterin,111378,111381,mir,foersterin
+gdc-coref,s6m6.0,111255,111552,foersterin,111390,111393,ich,foersterin
+gdc-coref,s6m6.0,111255,111552,foersterin,111456,111459,ich,foersterin
+gdc-coref,s6m6.0,111255,111552,foersterin,111489,111492,ich,foersterin
+gdc-coref,s6m6.0,111255,111552,foersterin,111535,111538,mir,foersterin
+gdc-coref,s6m6.0,111557,111589,marie,111564,111567,Ich,marie
+gdc-coref,s6m6.0,111594,111753,foersterin,111610,111613,ich,foersterin
+gdc-coref,s6m6.0,111779,111888,foersterin,111830,111833,ich,foersterin
+gdc-coref,s6m6.0,111893,111943,marie,111920,111923,Ich,marie
+gdc-coref,s6m6.0,112197,112266,foersterin,112256,112259,ich,foersterin
+gdc-coref,s6m6.0,112271,112578,marie,112279,112282,Ich,marie
+gdc-coref,s6m6.0,112271,112578,marie,112403,112406,ich,marie
+gdc-coref,s6m6.0,112271,112578,marie,112452,112455,ich,marie
+gdc-coref,s6m6.0,112271,112578,marie,112477,112480,mir,marie
+gdc-coref,s6m6.0,112271,112578,marie,112529,112532,ich,marie
+gdc-coref,s6m6.0,112821,113004,marie,112975,112978,ich,marie
+gdc-coref,s6m6.0,113229,114579,foerster,113325,113328,ich,foerster
+gdc-coref,s6m6.0,113229,114579,foerster,113352,113355,ich,foerster
+gdc-coref,s6m6.0,113229,114579,foerster,113662,113665,ich,foerster
+gdc-coref,s6m6.0,114868,114929,marie,114875,114878,Ich,marie
+gdc-coref,s6m6.0,115113,115280,marie,115183,115186,ich,marie
+gdc-coref,s6m6.0,115113,115280,marie,115252,115255,ich,marie
+gdc-coref,s6m6.0,115285,115584,foersterin,115296,115299,Ich,foersterin
+gdc-coref,s6m6.0,115848,115955,marie,115855,115858,Ich,marie
+gdc-coref,s6m6.0,115848,115955,marie,115905,115908,ich,marie
+gdc-coref,s6m6.0,115848,115955,marie,115910,115913,mir,marie
+gdc-coref,s6m6.0,116148,116227,foersterin,116209,116212,ich,foersterin
+gdc-coref,s6m6.0,116232,116334,marie,116258,116261,ich,marie
+gdc-coref,s6m6.0,116232,116334,marie,116304,116307,mir,marie
+gdc-coref,s6m6.0,116396,116469,marie,116403,116406,Ich,marie
+gdc-coref,s6m6.0,116396,116469,marie,116439,116442,mir,marie
+gdc-coref,s6m6.0,116516,116631,marie,116523,116526,Ich,marie
+gdc-coref,s6m6.0,117226,117356,marie,117278,117281,Ich,marie
+gdc-coref,s6m6.0,117226,117356,marie,117334,117337,ich,marie
+gdc-coref,s6m6.0,117461,117511,marie,117499,117502,Ich,marie
+gdc-coref,s6m6.0,117516,117669,foersterin,117567,117570,Ich,foersterin
+gdc-coref,s6m6.0,117674,118197,marie,117693,117696,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117749,117753,mich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117774,117777,Ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117811,117814,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117879,117883,mich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117890,117894,mein,marie
+gdc-coref,s6m6.0,117674,118197,marie,117929,117932,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117945,117948,Ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117982,117985,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,117998,118001,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,118033,118036,mir,marie
+gdc-coref,s6m6.0,117674,118197,marie,118050,118053,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,118091,118094,mir,marie
+gdc-coref,s6m6.0,117674,118197,marie,118100,118103,ich,marie
+gdc-coref,s6m6.0,117674,118197,marie,118165,118168,ich,marie
+gdc-coref,s6m6.0,118446,119020,foerster,118491,118495,mich,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118537,118540,Ich,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118567,118570,Ich,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118603,118606,ich,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118698,118701,Ich,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118728,118732,mein,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118748,118754,meinen,foerster
+gdc-coref,s6m6.0,118446,119020,foerster,118916,118919,ich,foerster
+gdc-coref,s6m6.0,119079,119250,foerster,119185,119188,ich,foerster
+gdc-coref,s6m6.0,119255,119319,marie,119307,119310,ich,marie
+gdc-coref,s6m6.0,119324,119393,foerster,119337,119340,ich,foerster
+gdc-coref,s6m6.0,119431,119519,foerster,119481,119484,ich,foerster
+gdc-coref,s6m6.0,119524,119637,marie,119551,119555,mich,marie
+gdc-coref,s6m6.0,119524,119637,marie,119591,119595,mich,marie
+gdc-coref,s6m6.0,119524,119637,marie,119620,119623,ich,marie
+gdc-coref,s6m6.0,119524,119637,marie,119633,119636,mir,marie
+gdc-coref,s6m6.0,119710,119824,marie,119749,119752,ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,119885,119888,Ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,119932,119935,ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,119964,119967,ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,119999,120002,ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120033,120036,ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120126,120129,Ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120234,120238,mich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120280,120283,Ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120353,120356,mir,marie
+gdc-coref,s6m6.0,119878,120965,marie,120384,120387,Ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120429,120432,ich,marie
+gdc-coref,s6m6.0,119878,120965,marie,120863,120866,ich,marie
+gdc-coref,s6m6.0,121438,121574,foerster,121462,121466,Mein,foerster
+gdc-coref,s6m6.0,121438,121574,foerster,121474,121478,mein,foerster
+gdc-coref,s6m6.0,121438,121574,foerster,121521,121524,ich,foerster
+gdc-coref,s6m6.0,121438,121574,foerster,121525,121528,mir,foerster
+gdc-coref,s6m6.0,121813,121825,weiler,121821,121824,Ich,weiler
+gdc-coref,s6m6.0,121866,121965,weiler,121906,121909,ich,weiler
+gdc-coref,s6m6.0,122120,122234,weiler,122153,122156,ich,weiler
+gdc-coref,s6m6.0,122120,122234,weiler,122196,122199,ich,weiler
+gdc-coref,s6m6.0,122338,122396,foerster,122383,122387,mich,foerster
+gdc-coref,s6m6.0,122401,122449,weiler,122422,122425,Mir,weiler
+gdc-coref,s6m6.0,122454,122488,foerster,122474,122477,ich,foerster
+gdc-coref,s6m6.0,123134,123186,weiler,123158,123161,Ich,weiler
+gdc-coref,s6m6.0,123191,123229,foerster,123210,123214,mich,foerster
+gdc-coref,s6m6.0,123274,123340,foerster,123283,123286,Ich,foerster
+gdc-coref,s6m6.0,123398,123458,foerster,123427,123430,ich,foerster
+gdc-coref,s6m6.0,123533,125304,weiler,123546,123549,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123571,123574,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123621,123624,Mir,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123672,123676,mein,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123677,123680,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123686,123691,meine,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123847,123850,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123877,123883,meinen,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123907,123910,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,123961,123964,Ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124149,124152,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124249,124252,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124362,124365,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124418,124421,mir,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124435,124438,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124488,124491,Ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124593,124596,Ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124602,124606,mich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124797,124800,mir,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,124830,124833,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,125048,125051,mir,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,125107,125110,ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,125216,125219,Ich,weiler
+gdc-coref,s6m6.0,123533,125304,weiler,125236,125239,mir,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,125936,125940,mich,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,125948,125951,Ich,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,125996,125999,ich,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,126000,126004,mich,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,126028,126031,Ich,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,126097,126100,mir,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,126159,126162,ich,weiler
+gdc-coref,s6m6.0,125334,126460,weiler,126251,126254,Ich,weiler
+gdc-coref,s6m6.0,126465,126579,foerster,126495,126501,meinen,foerster
+gdc-coref,s6m6.0,127069,127737,weiler,127221,127224,Ich,weiler
+gdc-coref,s6m6.0,127069,127737,weiler,127700,127704,mich,weiler
+gdc-coref,s6m6.0,127069,127737,weiler,127706,127709,Ich,weiler
+gdc-coref,s6m6.0,127853,128103,weiler,127890,127893,ich,weiler
+gdc-coref,s6m6.0,127853,128103,weiler,127958,127961,ich,weiler
+gdc-coref,s6m6.0,128592,128985,foersterin,128703,128706,Ich,foersterin
+gdc-coref,s6m6.0,128592,128985,foersterin,128838,128841,mir,foersterin
+gdc-coref,s6m6.0,128592,128985,foersterin,128869,128872,ich,foersterin
+gdc-coref,s6m6.0,129647,129760,foerster,129656,129659,Ich,foerster
+gdc-coref,s6m6.0,129863,129928,wilhelm,129908,129912,mich,wilhelm
+gdc-coref,s6m6.0,129933,130027,foerster,129968,129971,ich,foerster
+gdc-coref,s6m6.0,130094,130173,foerster,130139,130142,ich,foerster
+gdc-coref,s6m6.0,130178,130247,foersterin,130229,130232,ich,foersterin
+gdc-coref,s6m6.0,130494,130654,foerster,130528,130534,meiner,foerster
+gdc-coref,s6m6.0,130494,130654,foerster,130541,130544,Ich,foerster
+gdc-coref,s6m6.0,130494,130654,foerster,130550,130554,mich,foerster
+gdc-coref,s6m6.0,131667,131781,wilhelm,131752,131755,ich,wilhelm
+gdc-coref,s6m6.0,132040,132082,wilhelm,132070,132074,mich,wilhelm
+gdc-coref,s6m6.0,132472,132505,foerster,132491,132494,ich,foerster
+gdc-coref,s6m6.0,132600,132688,foerster,132666,132669,mir,foerster
+gdc-coref,s6m6.0,132798,132932,foersterin,132848,132851,mir,foersterin
+gdc-coref,s6m6.0,133360,133412,_stage,133360,133369,Jägerhaus,Jägerhaus
+gdc-coref,s6m6.0,133360,133412,_stage,133371,133376,Nacht,Nacht
+gdc-coref,s6m6.0,133432,133812,_stage,133432,133445,Die Försterin,foersterin
+gdc-coref,s6m6.0,133432,133812,_stage,133463,133474,einer Lampe,einer-Lampe-herein
+gdc-coref,s6m6.0,133432,133812,_stage,133495,133509,Mariens Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,133432,133812,_stage,133495,133502,Mariens,marie
+gdc-coref,s6m6.0,133432,133812,_stage,133525,133534,die Lampe,einer-Lampe-herein
+gdc-coref,s6m6.0,133432,133812,_stage,133539,133548,den Tisch,den-Tisch
+gdc-coref,s6m6.0,133432,133812,_stage,133558,133569,das Fenster,das-Fenster
+gdc-coref,s6m6.0,133432,133812,_stage,133578,133587,den Laden,den-Laden
+gdc-coref,s6m6.0,133432,133812,_stage,133595,133602,welchen,den-Laden
+gdc-coref,s6m6.0,133432,133812,_stage,133603,133633,der Schein des Wetterleuchtens,der-Schein-des-Wetterleuchtens
+gdc-coref,s6m6.0,133432,133812,_stage,133614,133633,des Wetterleuchtens,des-Wetterleuchtens
+gdc-coref,s6m6.0,133432,133812,_stage,133676,133679,sie,foersterin
+gdc-coref,s6m6.0,133432,133812,_stage,133680,133686,beides,den-Laden-/-das-Fenster
+gdc-coref,s6m6.0,133432,133812,_stage,133701,133710,die Lampe,einer-Lampe-herein
+gdc-coref,s6m6.0,133432,133812,_stage,133743,133753,die Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,133432,133812,_stage,133773,133776,sie,foersterin
+gdc-coref,s6m6.0,133432,133812,_stage,133800,133811,große Angst,große-Angst
+gdc-coref,s6m6.0,133814,134183,foersterin,133848,133850,er,foerster
+gdc-coref,s6m6.0,133814,134183,foersterin,133851,133854,ihr,marie
+gdc-coref,s6m6.0,133814,134183,foersterin,133875,133877,er,foerster
+gdc-coref,s6m6.0,133814,134183,foersterin,133878,133881,sie,marie-/-andres
+gdc-coref,s6m6.0,133814,134183,foersterin,133919,133922,sie,marie
+gdc-coref,s6m6.0,133814,134183,foersterin,133936,133939,ich,foersterin
+gdc-coref,s6m6.0,133814,134183,foersterin,133940,133943,sie,marie
+gdc-coref,s6m6.0,133814,134183,foersterin,133972,133982,der Andres,andres
+gdc-coref,s6m6.0,133814,134183,foersterin,134005,134028,die schwüle Wetternacht,Nacht
+gdc-coref,s6m6.0,133814,134183,foersterin,134035,134038,Sie,foersterin
+gdc-coref,s6m6.0,133814,134183,foersterin,134059,134062,sie,marie
+gdc-coref,s6m6.0,133814,134183,foersterin,134078,134082,Gott,Gott
+gdc-coref,s6m6.0,133814,134183,foersterin,134107,134117,die Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,133814,134183,foersterin,134125,134128,sie,marie
+gdc-coref,s6m6.0,133814,134183,foersterin,134142,134150,Der Wind,Der-Wind
+gdc-coref,s6m6.0,133814,134183,foersterin,134157,134178,den angelehnten Laden,den-Laden
+gdc-coref,s6m6.0,134209,134242,_stage,134209,134216,Wilhelm,wilhelm
+gdc-coref,s6m6.0,134209,134242,_stage,134232,134241,Försterin,foersterin
+gdc-coref,s6m6.0,134244,134433,wilhelm,134258,134270,die Soldaten,die-Soldaten
+gdc-coref,s6m6.0,134244,134433,wilhelm,134275,134281,Mutter,foersterin
+gdc-coref,s6m6.0,134244,134433,wilhelm,134286,134303,Mariens Kammertür,Mariens-Kammertür
+gdc-coref,s6m6.0,134244,134433,wilhelm,134286,134293,Mariens,marie
+gdc-coref,s6m6.0,134244,134433,wilhelm,134305,134311,Mutter,foersterin
+gdc-coref,s6m6.0,134244,134433,wilhelm,134320,134329,der Vater,foerster
+gdc-coref,s6m6.0,134244,134433,wilhelm,134331,134344,Die Försterin,foersterin
+gdc-coref,s6m6.0,134244,134433,wilhelm,134369,134378,die Thüre,Mariens-Kammertür
+gdc-coref,s6m6.0,134244,134433,wilhelm,134392,134401,die Marie,marie
+gdc-coref,s6m6.0,134244,134433,wilhelm,134403,134406,Sie,marie
+gdc-coref,s6m6.0,134244,134433,wilhelm,134420,134432,ihrer Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,134244,134433,wilhelm,134420,134425,ihrer,marie
+gdc-coref,s6m6.0,134438,134470,foersterin,134453,134455,du,wilhelm
+gdc-coref,s6m6.0,134438,134470,foersterin,134456,134459,dir,wilhelm
+gdc-coref,s6m6.0,134475,134521,wilhelm,134484,134492,Ihr Bett,Ihr-Bett
+gdc-coref,s6m6.0,134475,134521,wilhelm,134484,134487,Ihr,marie
+gdc-coref,s6m6.0,134526,134616,foersterin,134564,134573,der Vater,foerster
+gdc-coref,s6m6.0,134526,134616,foersterin,134575,134582,Wilhelm,wilhelm
+gdc-coref,s6m6.0,134526,134616,foersterin,134606,134615,dem Vater,foerster
+gdc-coref,s6m6.0,134622,134711,wilhelm,134631,134634,Ich,wilhelm
+gdc-coref,s6m6.0,134622,134711,wilhelm,134675,134677,du,foersterin
+gdc-coref,s6m6.0,134622,134711,wilhelm,134683,134686,mir,wilhelm
+gdc-coref,s6m6.0,134622,134711,wilhelm,134697,134706,die Marie,marie
+gdc-coref,s6m6.0,134716,134779,foersterin,134732,134752,dem Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,134716,134779,foersterin,134757,134767,den Robert,robert
+gdc-coref,s6m6.0,134784,134839,wilhelm,134793,134799,Mutter,foersterin
+gdc-coref,s6m6.0,134784,134839,wilhelm,134801,134804,wir,foersterin-/-foerster-+-2
+gdc-coref,s6m6.0,134784,134839,wilhelm,134817,134824,niemand,niemand
+gdc-coref,s6m6.0,134784,134839,wilhelm,134826,134829,Ich,wilhelm
+gdc-coref,s6m6.0,134784,134839,wilhelm,134835,134838,sie,marie
+gdc-coref,s6m6.0,134844,134870,foersterin,134859,134869,dem Wetter,dem-Wetter
+gdc-coref,s6m6.0,134883,134904,_stage,134889,134894,seine,wilhelm
+gdc-coref,s6m6.0,134875,135156,wilhelm,134914,134917,mir,wilhelm
+gdc-coref,s6m6.0,134875,135156,wilhelm,134923,134987,"mein Jägerjunge, der sich aus so 'nem bißchen Blitzen was machte","mein-Jägerjunge,-der-sich-aus-so-'nem-bißchen-Blitzen-was-machte"
+gdc-coref,s6m6.0,134875,135156,wilhelm,134923,134927,mein,wilhelm
+gdc-coref,s6m6.0,134875,135156,wilhelm,134944,134948,sich,"mein-Jägerjunge,-der-sich-aus-so-'nem-bißchen-Blitzen-was-machte"
+gdc-coref,s6m6.0,134875,135156,wilhelm,134993,134996,mir,wilhelm
+gdc-coref,s6m6.0,134875,135156,wilhelm,135002,135013,welchen Weg,welchen-Weg
+gdc-coref,s6m6.0,134875,135156,wilhelm,135014,135023,die Marie,marie
+gdc-coref,s6m6.0,134875,135156,wilhelm,135038,135041,Den,welchen-Weg
+gdc-coref,s6m6.0,134875,135156,wilhelm,135052,135058,Wasser,Wasser
+gdc-coref,s6m6.0,134875,135156,wilhelm,135065,135068,Sie,marie
+gdc-coref,s6m6.0,134875,135156,wilhelm,135100,135103,sie,marie
+gdc-coref,s6m6.0,134875,135156,wilhelm,135117,135128,ein Mädchen,ein-Mädchen
+gdc-coref,s6m6.0,134875,135156,wilhelm,135134,135137,das,ein-Mädchen
+gdc-coref,s6m6.0,134875,135156,wilhelm,135147,135151,sich,ein-Mädchen
+gdc-coref,s6m6.0,135193,135210,_stage,135201,135204,ihm,wilhelm
+gdc-coref,s6m6.0,135183,135677,foersterin,135211,135218,Wilhelm,wilhelm
+gdc-coref,s6m6.0,135183,135677,foersterin,135220,135227,Wilhelm,wilhelm
+gdc-coref,s6m6.0,135183,135677,foersterin,135243,135245,Er,wilhelm
+gdc-coref,s6m6.0,135183,135677,foersterin,135266,135276,das Wetter,dem-Wetter
+gdc-coref,s6m6.0,135183,135677,foersterin,135305,135314,ein Nebel,ein-Nebel
+gdc-coref,s6m6.0,135183,135677,foersterin,135324,135336,das Gewitter,das-Gewitter
+gdc-coref,s6m6.0,135183,135677,foersterin,135354,135368,vom Brandsberg,vom-Brandsberg
+gdc-coref,s6m6.0,135183,135677,foersterin,135399,135409,der Ulrich,foerster
+gdc-coref,s6m6.0,135183,135677,foersterin,135422,135427,keins,marie-/-wilhelm
+gdc-coref,s6m6.0,135183,135677,foersterin,135432,135443,den Kindern,marie-/-wilhelm
+gdc-coref,s6m6.0,135183,135677,foersterin,135447,135451,Haus,Jägerhaus
+gdc-coref,s6m6.0,135183,135677,foersterin,135475,135497,dem einsamen Jägerhaus,Jägerhaus
+gdc-coref,s6m6.0,135183,135677,foersterin,135505,135512,im Wald,im-Wald
+gdc-coref,s6m6.0,135183,135677,foersterin,135528,135537,der Nacht,Nacht
+gdc-coref,s6m6.0,135183,135677,foersterin,135540,135543,Man,Man
+gdc-coref,s6m6.0,135183,135677,foersterin,135549,135558,eine Thür,eine-Thür
+gdc-coref,s6m6.0,135183,135677,foersterin,135571,135574,sie,foersterin
+gdc-coref,s6m6.0,135183,135677,foersterin,135589,135606,Barmherziger Gott,Gott
+gdc-coref,s6m6.0,135183,135677,foersterin,135608,135610,Er,foerster
+gdc-coref,s6m6.0,135183,135677,foersterin,135623,135625,er,foerster
+gdc-coref,s6m6.0,135183,135677,foersterin,135629,135639,die Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,135183,135677,foersterin,135654,135663,die Marie,marie
+gdc-coref,s6m6.0,135703,135765,_stage,135703,135714,Der Förster,foerster
+gdc-coref,s6m6.0,135703,135765,_stage,135751,135764,Die Försterin,foersterin
+gdc-coref,s6m6.0,135777,135790,_stage,135777,135780,ihm,foerster
+gdc-coref,s6m6.0,135767,135836,foersterin,135796,135798,du,foerster
+gdc-coref,s6m6.0,135767,135836,foersterin,135809,135813,Sich,foersterin
+gdc-coref,s6m6.0,135849,135869,_stage,135849,135853,sich,foerster
+gdc-coref,s6m6.0,135841,135898,foerster,135874,135880,jemand,niemand
+gdc-coref,s6m6.0,135841,135898,foerster,135886,135889,mir,foerster
+gdc-coref,s6m6.0,135903,135940,foersterin,135925,135928,sie,buchjaeger-/-die-Soldaten
+gdc-coref,s6m6.0,135903,135940,foersterin,135936,135939,dir,foerster
+gdc-coref,s6m6.0,135945,135958,foerster,135954,135957,Wer,buchjaeger-/-die-Soldaten
+gdc-coref,s6m6.0,135963,135989,foersterin,135974,135987,Der Buchjäger,buchjaeger
+gdc-coref,s6m6.0,136014,136052,foersterin,136030,136032,du,foerster
+gdc-coref,s6m6.0,136058,136149,foerster,136067,136079,Die Soldaten,die-Soldaten
+gdc-coref,s6m6.0,136058,136149,foerster,136087,136090,ich,foerster
+gdc-coref,s6m6.0,136058,136149,foerster,136100,136103,ich,foerster
+gdc-coref,s6m6.0,136058,136149,foerster,136112,136121,die Marie,marie
+gdc-coref,s6m6.0,136058,136149,foerster,136128,136147,Im Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,136154,136220,foersterin,136176,136195,Im Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,136154,136220,foersterin,136202,136206,sich,foersterin
+gdc-coref,s6m6.0,136154,136220,foersterin,136208,136219,Großer Gott,Gott
+gdc-coref,s6m6.0,136225,136291,foerster,136242,136260,dem ganzen Rückweg,dem-ganzen-Rückweg
+gdc-coref,s6m6.0,136225,136291,foerster,136267,136270,ich,foerster
+gdc-coref,s6m6.0,136225,136291,foerster,136271,136274,sie,marie
+gdc-coref,s6m6.0,136225,136291,foerster,136282,136285,mir,foerster
+gdc-coref,s6m6.0,136296,136324,foersterin,136311,136322,dem Rückweg,dem-ganzen-Rückweg
+gdc-coref,s6m6.0,136329,136433,foerster,136343,136346,ich,foerster
+gdc-coref,s6m6.0,136329,136433,foerster,136359,136362,ich,foerster
+gdc-coref,s6m6.0,136329,136433,foerster,136363,136366,sie,marie
+gdc-coref,s6m6.0,136329,136433,foerster,136374,136377,mir,foerster
+gdc-coref,s6m6.0,136329,136433,foerster,136384,136387,ich,foerster
+gdc-coref,s6m6.0,136329,136433,foerster,136401,136404,sie,marie
+gdc-coref,s6m6.0,136329,136433,foerster,136416,136419,ich,foerster
+gdc-coref,s6m6.0,136438,136479,foersterin,136461,136463,Du,foerster
+gdc-coref,s6m6.0,136484,136575,foerster,136493,136496,Ich,foerster
+gdc-coref,s6m6.0,136484,136575,foerster,136543,136546,sie,marie
+gdc-coref,s6m6.0,136484,136575,foerster,136565,136568,mir,foerster
+gdc-coref,s6m6.0,136580,136645,foersterin,136610,136612,du,foerster
+gdc-coref,s6m6.0,136580,136645,foersterin,136613,136616,was,was
+gdc-coref,s6m6.0,136580,136645,foersterin,136629,136636,Liegt's,was
+gdc-coref,s6m6.0,136697,136767,foersterin,136712,136721,der Thür',eine-Thür
+gdc-coref,s6m6.0,136697,136767,foersterin,136734,136736,du,foerster
+gdc-coref,s6m6.0,136697,136767,foersterin,136737,136741,mich,foersterin
+gdc-coref,s6m6.0,136697,136767,foersterin,136756,136759,das,'s
+gdc-coref,s6m6.0,136697,136767,foersterin,136763,136766,dir,foerster
+gdc-coref,s6m6.0,136780,136809,_stage,136787,136791,sich,foerster
+gdc-coref,s6m6.0,136772,136820,foerster,136810,136813,Was,'s
+gdc-coref,s6m6.0,136825,136847,foersterin,136836,136845,Ein Fleck,'s
+gdc-coref,s6m6.0,136852,136876,foerster,136861,136864,Was,'s
+gdc-coref,s6m6.0,136852,136876,foerster,136865,136867,du,foersterin
+gdc-coref,s6m6.0,136881,136923,foersterin,136905,136907,du,foerster
+gdc-coref,s6m6.0,136881,136923,foersterin,136907,136909,'s,'s
+gdc-coref,s6m6.0,136928,137045,foerster,136937,136939,Es,'s
+gdc-coref,s6m6.0,136928,137045,foerster,136952,136954,Er,foerster
+gdc-coref,s6m6.0,136928,137045,foerster,136962,136966,sich,foerster
+gdc-coref,s6m6.0,136928,137045,foerster,136967,136977,zum Tische,den-Tisch
+gdc-coref,s6m6.0,136928,137045,foerster,136991,137001,die Flinte,die-Flinte
+gdc-coref,s6m6.0,136928,137045,foerster,137006,137015,Die Suppe,Die-Suppe
+gdc-coref,s6m6.0,136928,137045,foerster,137022,137031,Die Zunge,Die-Zunge
+gdc-coref,s6m6.0,136928,137045,foerster,137038,137041,mir,foerster
+gdc-coref,s6m6.0,137060,137154,_stage,137083,137089,Löffel,Löffel
+gdc-coref,s6m6.0,137060,137154,_stage,137094,137105,dem Schrank,dem-Schrank
+gdc-coref,s6m6.0,137060,137154,_stage,137118,137126,zum Ofen,zum-Ofen
+gdc-coref,s6m6.0,137060,137154,_stage,137131,137134,sie,foersterin
+gdc-coref,s6m6.0,137060,137154,_stage,137135,137144,die Suppe,Die-Suppe
+gdc-coref,s6m6.0,137050,137531,foersterin,137160,137162,er,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137166,137176,die Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,137050,137531,foersterin,137187,137190,ich,foersterin
+gdc-coref,s6m6.0,137050,137531,foersterin,137208,137211,ich,foersterin
+gdc-coref,s6m6.0,137050,137531,foersterin,137219,137228,der Angst,große-Angst
+gdc-coref,s6m6.0,137050,137531,foersterin,137234,137236,er,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137237,137246,die Marie,marie
+gdc-coref,s6m6.0,137050,137531,foersterin,137271,137274,Sie,foersterin
+gdc-coref,s6m6.0,137050,137531,foersterin,137281,137290,die Suppe,Die-Suppe
+gdc-coref,s6m6.0,137050,137531,foersterin,137295,137306,den Förster,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137311,137320,den Tisch,den-Tisch
+gdc-coref,s6m6.0,137050,137531,foersterin,137363,137373,der Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,137050,137531,foersterin,137378,137396,des Försters Stuhl,des-Försters-----------------Stuhl
+gdc-coref,s6m6.0,137050,137531,foersterin,137378,137390,des Försters,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137401,137404,ihn,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137422,137428,Ulrich,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137437,137439,du,foerster
+gdc-coref,s6m6.0,137050,137531,foersterin,137451,137461,der Robert,robert
+gdc-coref,s6m6.0,137499,137531,_stage,137499,137510,Der Förster,foerster
+gdc-coref,s6m6.0,137535,137567,foersterin,137557,137559,du,foerster
+gdc-coref,s6m6.0,137572,137637,foerster,137586,137589,mir,foerster
+gdc-coref,s6m6.0,137572,137637,foerster,137590,137599,die Marie,marie
+gdc-coref,s6m6.0,137572,137637,foerster,137619,137625,jemand,niemand
+gdc-coref,s6m6.0,137572,137637,foerster,137626,137636,am Fenster,das-Fenster
+gdc-coref,s6m6.0,137643,138072,foersterin,137662,137680,der alte Rosendorn,der-alte-Rosendorn
+gdc-coref,s6m6.0,137643,138072,foersterin,137690,137693,der,der-alte-Rosendorn
+gdc-coref,s6m6.0,137643,138072,foersterin,137723,137734,ans Fenster,das-Fenster
+gdc-coref,s6m6.0,137643,138072,foersterin,137752,137754,er,der-alte-Rosendorn
+gdc-coref,s6m6.0,137643,138072,foersterin,137755,137762,Unglück,Unglück
+gdc-coref,s6m6.0,137643,138072,foersterin,137779,137786,niemand,niemand
+gdc-coref,s6m6.0,137643,138072,foersterin,137797,137800,ihn,der-alte-Rosendorn
+gdc-coref,s6m6.0,137643,138072,foersterin,137813,137817,sich,foersterin
+gdc-coref,s6m6.0,137643,138072,foersterin,137836,137839,Ich,foersterin
+gdc-coref,s6m6.0,137643,138072,foersterin,137866,137868,er,foerster
+gdc-coref,s6m6.0,137643,138072,foersterin,137869,137875,meinen,foersterin
+gdc-coref,s6m6.0,137643,138072,foersterin,137891,137894,mir,foersterin
+gdc-coref,s6m6.0,137643,138072,foersterin,137895,137904,die Angst,große-Angst
+gdc-coref,s6m6.0,137643,138072,foersterin,137917,137919,er,foerster
+gdc-coref,s6m6.0,137643,138072,foersterin,137920,137929,die Marie,marie
+gdc-coref,s6m6.0,137643,138072,foersterin,137947,137950,sie,marie
+gdc-coref,s6m6.0,137643,138072,foersterin,137951,137962,ins Fenster,das-Fenster
+gdc-coref,s6m6.0,137643,138072,foersterin,138022,138025,mir,foersterin
+gdc-coref,s6m6.0,137643,138072,foersterin,138056,138059,mir,foersterin
+gdc-coref,s6m6.0,137643,138072,foersterin,138060,138070,der Robert,robert
+gdc-coref,s6m6.0,138077,138097,foerster,138092,138095,der,robert
+gdc-coref,s6m6.0,138112,138136,_stage,138116,138120,sich,foersterin
+gdc-coref,s6m6.0,138112,138136,_stage,138124,138127,ihm,foerster
+gdc-coref,s6m6.0,138102,138239,foersterin,138137,138140,Wir,foersterin-/-robert
+gdc-coref,s6m6.0,138102,138239,foersterin,138151,138161,den Weiden,den-Weiden
+gdc-coref,s6m6.0,138102,138239,foersterin,138176,138194,das Tannendickicht,das-Tannendickicht
+gdc-coref,s6m6.0,138102,138239,foersterin,138206,138216,dem Felsen,dem-Felsen
+gdc-coref,s6m6.0,138102,138239,foersterin,138218,138237,im Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,138244,138273,foerster,138264,138267,den,robert
+gdc-coref,s6m6.0,138278,138514,foersterin,138296,138298,du,foerster
+gdc-coref,s6m6.0,138278,138514,foersterin,138338,138341,ich,foersterin
+gdc-coref,s6m6.0,138278,138514,foersterin,138342,138346,mich,foersterin
+gdc-coref,s6m6.0,138278,138514,foersterin,138357,138364,kommt's,kommt's
+gdc-coref,s6m6.0,138278,138514,foersterin,138378,138388,den Tannen,das-Tannendickicht
+gdc-coref,s6m6.0,138278,138514,foersterin,138399,138402,Ich,foersterin
+gdc-coref,s6m6.0,138278,138514,foersterin,138422,138428,Gottes,Gott
+gdc-coref,s6m6.0,138278,138514,foersterin,138442,138445,ich,foersterin
+gdc-coref,s6m6.0,138278,138514,foersterin,138447,138450,das,kommt's
+gdc-coref,s6m6.0,138467,138514,_stage,138467,138478,Der Förster,foerster
+gdc-coref,s6m6.0,138467,138514,_stage,138485,138495,den Löffel,Löffel
+gdc-coref,s6m6.0,138518,138598,foersterin,138542,138546,sich,das-Abendrot
+gdc-coref,s6m6.0,138518,138598,foersterin,138547,138559,das Abendrot,das-Abendrot
+gdc-coref,s6m6.0,138518,138598,foersterin,138563,138573,dem Wasser,Wasser
+gdc-coref,s6m6.0,138518,138598,foersterin,138591,138593,du,foerster
+gdc-coref,s6m6.0,138603,138663,foerster,138622,138634,deinem Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,138603,138663,foerster,138622,138628,deinem,foersterin
+gdc-coref,s6m6.0,138603,138663,foerster,138648,138652,dich,foersterin
+gdc-coref,s6m6.0,138603,138663,foerster,138653,138662,der Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,138668,138842,foersterin,138683,138686,dir,foerster
+gdc-coref,s6m6.0,138668,138842,foersterin,138739,138745,Robert,robert
+gdc-coref,s6m6.0,138668,138842,foersterin,138750,138753,mir,foersterin
+gdc-coref,s6m6.0,138668,138842,foersterin,138815,138820,einer,foerster
+gdc-coref,s6m6.0,138668,138842,foersterin,138821,138833,einen andern,marie
+gdc-coref,s6m6.0,138855,138876,_stage,138865,138875,der Flinte,die-Flinte
+gdc-coref,s6m6.0,138847,138890,foerster,138887,138889,du,foersterin
+gdc-coref,s6m6.0,138895,138941,foersterin,138932,138938,Ulrich,foerster
+gdc-coref,s6m6.0,138946,138974,foerster,138961,138963,du,foersterin
+gdc-coref,s6m6.0,138989,139033,_stage,139000,139003,ihm,foerster
+gdc-coref,s6m6.0,138979,139061,foersterin,139034,139040,Ulrich,foerster
+gdc-coref,s6m6.0,138979,139061,foersterin,139051,139053,du,foerster
+gdc-coref,s6m6.0,139074,139090,_stage,139078,139082,sich,foerster
+gdc-coref,s6m6.0,139066,139159,foerster,139115,139125,eine Nacht,Nacht
+gdc-coref,s6m6.0,139164,139292,foersterin,139186,139197,Eine Stunde,Eine-Stunde
+gdc-coref,s6m6.0,139164,139292,foersterin,139206,139217,eine Stunde,Eine-Stunde
+gdc-coref,s6m6.0,139164,139292,foersterin,139226,139228,du,foerster
+gdc-coref,s6m6.0,139164,139292,foersterin,139234,139238,mich,foersterin
+gdc-coref,s6m6.0,139164,139292,foersterin,139248,139254,deinem,foerster
+gdc-coref,s6m6.0,139164,139292,foersterin,139274,139285,einen Stuhl,einen-Stuhl
+gdc-coref,s6m6.0,139306,139403,_stage,139327,139329,er,foerster
+gdc-coref,s6m6.0,139306,139403,_stage,139330,139347,langsame Schritte,langsame-Schritte
+gdc-coref,s6m6.0,139306,139403,_stage,139359,139364,denen,langsame-Schritte
+gdc-coref,s6m6.0,139306,139403,_stage,139365,139367,er,foerster
+gdc-coref,s6m6.0,139306,139403,_stage,139368,139371,ihr,foersterin
+gdc-coref,s6m6.0,139298,139764,foerster,139404,139407,Ich,foerster
+gdc-coref,s6m6.0,139298,139764,foerster,139412,139415,dir,foersterin
+gdc-coref,s6m6.0,139298,139764,foerster,139416,139419,was,was2
+gdc-coref,s6m6.0,139298,139764,foerster,139427,139433,Sophie,foersterin
+gdc-coref,s6m6.0,139298,139764,foerster,139442,139444,du,foersterin
+gdc-coref,s6m6.0,139298,139764,foerster,139444,139446,'s,was2
+gdc-coref,s6m6.0,139298,139764,foerster,139468,139470,Es,was2
+gdc-coref,s6m6.0,139298,139764,foerster,139476,139479,mir,foerster
+gdc-coref,s6m6.0,139298,139764,foerster,139494,139497,Ich,foerster
+gdc-coref,s6m6.0,139298,139764,foerster,139502,139510,im Recht,im-Recht
+gdc-coref,s6m6.0,139298,139764,foerster,139533,139536,ich,foerster
+gdc-coref,s6m6.0,139298,139764,foerster,139544,139549,ist's,was2
+gdc-coref,s6m6.0,139298,139764,foerster,139561,139566,ist's,was2
+gdc-coref,s6m6.0,139298,139764,foerster,139571,139589,ein schwerer Traum,ein-schwerer-Traum
+gdc-coref,s6m6.0,139298,139764,foerster,139593,139601,So einer,ein-schwerer-Traum
+gdc-coref,s6m6.0,139298,139764,foerster,139606,139609,man,Man
+gdc-coref,s6m6.0,139298,139764,foerster,139631,139634,man,Man
+gdc-coref,s6m6.0,139298,139764,foerster,139646,139650,sich,Man
+gdc-coref,s6m6.0,139298,139764,foerster,139667,139670,man,Man
+gdc-coref,s6m6.0,139298,139764,foerster,139691,139694,man,Man
+gdc-coref,s6m6.0,139298,139764,foerster,139725,139727,du,foersterin
+gdc-coref,s6m6.0,139298,139764,foerster,139734,139749,die drei Finger,die---------------drei-Finger
+gdc-coref,s6m6.0,139298,139764,foerster,139754,139763,die Bibel,die-Bibel
+gdc-coref,s6m6.0,139769,139811,foersterin,139780,139791,Großer Gott,Gott
+gdc-coref,s6m6.0,139769,139811,foersterin,139802,139805,das,was2
+gdc-coref,s6m6.0,139816,140013,foerster,139848,139851,ich,foerster
+gdc-coref,s6m6.0,139816,140013,foerster,139852,139855,sie,marie
+gdc-coref,s6m6.0,139816,140013,foerster,139922,139925,ich,foerster
+gdc-coref,s6m6.0,139816,140013,foerster,139941,139947,Sophie,foersterin
+gdc-coref,s6m6.0,139816,140013,foerster,139976,139985,ein Toter,marie
+gdc-coref,s6m6.0,139816,140013,foerster,139993,140012,im Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,140018,140065,foersterin,140029,140031,Du,foerster
+gdc-coref,s6m6.0,140018,140065,foersterin,140053,140064,im Wahnsinn,im-Wahnsinn
+gdc-coref,s6m6.0,140070,140297,foerster,140082,140094,meinem Recht,im-Recht
+gdc-coref,s6m6.0,140070,140297,foerster,140082,140088,meinem,foerster
+gdc-coref,s6m6.0,140070,140297,foerster,140099,140102,ich,foerster
+gdc-coref,s6m6.0,140070,140297,foerster,140109,140113,mich,foerster
+gdc-coref,s6m6.0,140070,140297,foerster,140118,140122,Weib,foersterin
+gdc-coref,s6m6.0,140070,140297,foerster,140132,140134,du,foersterin
+gdc-coref,s6m6.0,140070,140297,foerster,140138,140148,einen Gott,Gott
+gdc-coref,s6m6.0,140070,140297,foerster,140149,140158,im Himmel,im-Himmel
+gdc-coref,s6m6.0,140070,140297,foerster,140178,140193,die drei Finger,die---------------drei-Finger
+gdc-coref,s6m6.0,140070,140297,foerster,140198,140207,die Bibel,die-Bibel
+gdc-coref,s6m6.0,140070,140297,foerster,140230,140240,mein Recht,im-Recht
+gdc-coref,s6m6.0,140070,140297,foerster,140230,140234,mein,foerster
+gdc-coref,s6m6.0,140070,140297,foerster,140253,140256,mir,foerster
+gdc-coref,s6m6.0,140070,140297,foerster,140273,140276,ich,
+gdc-coref,s6m6.0,140302,140350,foersterin,140327,140330,ich,foersterin
+gdc-coref,s6m6.0,140355,140427,foerster,140374,140380,soll's,was2
+gdc-coref,s6m6.0,140355,140427,foerster,140381,140394,ein Geheimnis,ein-Geheimnis
+gdc-coref,s6m6.0,140355,140427,foerster,140404,140407,was,was2
+gdc-coref,s6m6.0,140355,140427,foerster,140408,140411,ich,
+gdc-coref,s6m6.0,140432,140525,foersterin,140452,140458,soll's,was2
+gdc-coref,s6m6.0,140432,140525,foersterin,140459,140472,ein Geheimnis,ein-Geheimnis
+gdc-coref,s6m6.0,140432,140525,foersterin,140482,140485,was,was2
+gdc-coref,s6m6.0,140432,140525,foersterin,140486,140489,ich,foersterin
+gdc-coref,s6m6.0,140432,140525,foersterin,140505,140508,Sie,foersterin
+gdc-coref,s6m6.0,140432,140525,foersterin,140513,140517,sich,foersterin
+gdc-coref,s6m6.0,140530,140877,foerster,140559,140561,Es,was2
+gdc-coref,s6m6.0,140530,140877,foerster,140573,140582,kein Aber,kein-Aber
+gdc-coref,s6m6.0,140530,140877,foerster,140587,140596,kein Wenn,kein-Wenn
+gdc-coref,s6m6.0,140530,140877,foerster,140605,140607,es,was2
+gdc-coref,s6m6.0,140530,140877,foerster,140621,140630,das Recht,einerlei-Recht
+gdc-coref,s6m6.0,140530,140877,foerster,140637,140642,Recht,Recht
+gdc-coref,s6m6.0,140530,140877,foerster,140647,140652,Recht,Recht
+gdc-coref,s6m6.0,140530,140877,foerster,140678,140681,wir,foerster2
+gdc-coref,s6m6.0,140530,140877,foerster,140682,140693,keinen Gott,Gott
+gdc-coref,s6m6.0,140530,140877,foerster,140694,140703,im Himmel,im-Himmel
+gdc-coref,s6m6.0,140530,140877,foerster,140713,140715,er,foerster
+gdc-coref,s6m6.0,140530,140877,foerster,140769,140771,er,foerster
+gdc-coref,s6m6.0,140530,140877,foerster,140772,140775,sie,foersterin
+gdc-coref,s6m6.0,140530,140877,foerster,140804,140814,Der Robert,robert
+gdc-coref,s6m6.0,140530,140877,foerster,140819,140832,unsern Andres,andres
+gdc-coref,s6m6.0,140530,140877,foerster,140819,140825,unsern,foerster-/-foersterin
+gdc-coref,s6m6.0,140530,140877,foerster,140848,140851,ich,foerster
+gdc-coref,s6m6.0,140530,140877,foerster,140854,140857,ich,foerster
+gdc-coref,s6m6.0,140530,140877,foerster,140863,140866,ihn,robert
+gdc-coref,s6m6.0,140882,140977,foersterin,140897,140901,Gott,Gott
+gdc-coref,s6m6.0,140882,140977,foersterin,140903,140906,Sie,foersterin
+gdc-coref,s6m6.0,140882,140977,foersterin,140912,140916,sich,foersterin
+gdc-coref,s6m6.0,140882,140977,foersterin,140935,140938,sie,foersterin
+gdc-coref,s6m6.0,140882,140977,foersterin,140949,140958,dem Stuhl,einen-Stuhl
+gdc-coref,s6m6.0,140882,140977,foersterin,140960,140962,er,foerster
+gdc-coref,s6m6.0,140882,140977,foersterin,140968,140971,sie,foersterin
+gdc-coref,s6m6.0,140982,141942,foerster,140991,140994,Ich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141000,141003,ihn,robert
+gdc-coref,s6m6.0,140982,141942,foerster,141033,141037,Auge,Aug'
+gdc-coref,s6m6.0,140982,141942,foerster,141041,141045,Auge,Aug'2
+gdc-coref,s6m6.0,140982,141942,foerster,141047,141051,Zahn,Zahn
+gdc-coref,s6m6.0,140982,141942,foerster,141055,141059,Zahn,Zahn2
+gdc-coref,s6m6.0,140982,141942,foerster,141061,141064,Ich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141070,141073,ihn,robert
+gdc-coref,s6m6.0,140982,141942,foerster,141090,141102,die Gerichte,die-Gerichte
+gdc-coref,s6m6.0,140982,141942,foerster,141124,141127,Sie,die-Gerichte
+gdc-coref,s6m6.0,140982,141942,foerster,141134,141149,zweierlei Recht,zweierlei-Recht
+gdc-coref,s6m6.0,140982,141942,foerster,141180,141194,einerlei Recht,einerlei-Recht
+gdc-coref,s6m6.0,140982,141942,foerster,141202,141205,Ich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141211,141214,ihn,robert
+gdc-coref,s6m6.0,140982,141942,foerster,141231,141234,ich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141240,141243,ihn,robert
+gdc-coref,s6m6.0,140982,141942,foerster,141255,141257,Er,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141314,141316,er,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141317,141330,die Försterin,foersterin
+gdc-coref,s6m6.0,140982,141942,foerster,141344,141347,die,foersterin
+gdc-coref,s6m6.0,140982,141942,foerster,141353,141363,dem Stuhle,einen-Stuhl
+gdc-coref,s6m6.0,140982,141942,foerster,141380,141383,ich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141396,141400,ob's,was2
+gdc-coref,s6m6.0,140982,141942,foerster,141422,141444,"das, was geschehen ist",was2
+gdc-coref,s6m6.0,140982,141942,foerster,141446,141453,Im Kopf,Im-Kopf
+gdc-coref,s6m6.0,140982,141942,foerster,141458,141461,mir,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141491,141495,sich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141509,141511,es,was2
+gdc-coref,s6m6.0,140982,141942,foerster,141536,141539,was,was2
+gdc-coref,s6m6.0,140982,141942,foerster,141560,141565,wie's,was2
+gdc-coref,s6m6.0,140982,141942,foerster,141585,141588,was,was2
+gdc-coref,s6m6.0,140982,141942,foerster,141614,141617,mir,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141618,141627,die Marie,marie
+gdc-coref,s6m6.0,140982,141942,foerster,141631,141640,die Augen,die-Augen
+gdc-coref,s6m6.0,140982,141942,foerster,141654,141657,sie,marie
+gdc-coref,s6m6.0,140982,141942,foerster,141658,141662,sich,marie
+gdc-coref,s6m6.0,140982,141942,foerster,141667,141670,ihn,andres
+gdc-coref,s6m6.0,140982,141942,foerster,141682,141685,mir,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141715,141718,der,robert
+gdc-coref,s6m6.0,140982,141942,foerster,141725,141742,"der, den du weißt",robert
+gdc-coref,s6m6.0,140982,141942,foerster,141734,141736,du,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141744,141746,Es,Es
+gdc-coref,s6m6.0,140982,141942,foerster,141764,141766,es,Es
+gdc-coref,s6m6.0,140982,141942,foerster,141778,141790,meinen Augen,die-Augen
+gdc-coref,s6m6.0,140982,141942,foerster,141778,141784,meinen,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141796,141804,den Wein,den-Wein
+gdc-coref,s6m6.0,140982,141942,foerster,141810,141813,mir,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141832,141835,ich,foerster
+gdc-coref,s6m6.0,140982,141942,foerster,141836,141841,Dinge,Dinge
+gdc-coref,s6m6.0,140982,141942,foerster,141847,141850,die,Dinge
+gdc-coref,s6m6.0,140982,141942,foerster,141875,141880,sie's,marie
+gdc-coref,s6m6.0,140982,141942,foerster,141896,141905,der Schuß,der-Schuß
+gdc-coref,s6m6.0,140982,141942,foerster,141930,141936,meiner,foerster
+gdc-coref,s6m6.0,141947,142020,foersterin,141958,141975,Allmächtiger Gott,Gott
+gdc-coref,s6m6.0,141947,142020,foersterin,141977,141980,Sie,foersterin
+gdc-coref,s6m6.0,141947,142020,foersterin,141990,141994,sich,foersterin
+gdc-coref,s6m6.0,141947,142020,foersterin,142005,142019,Mariens Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,141947,142020,foersterin,142005,142012,Mariens,marie
+gdc-coref,s6m6.0,142033,142120,_stage,142067,142071,sich,foerster
+gdc-coref,s6m6.0,142033,142120,_stage,142101,142104,sie,foersterin
+gdc-coref,s6m6.0,142033,142120,_stage,142116,142119,ihm,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142121,142124,Sie,marie
+gdc-coref,s6m6.0,142025,142879,foerster,142149,142158,die Marie,marie
+gdc-coref,s6m6.0,142025,142879,foerster,142187,142195,der Wein,den-Wein
+gdc-coref,s6m6.0,142025,142879,foerster,142201,142204,ich,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142205,142208,sie,marie
+gdc-coref,s6m6.0,142025,142879,foerster,142232,142235,ich,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142262,142265,ich,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142282,142291,der Rauch,der-Rauch
+gdc-coref,s6m6.0,142025,142879,foerster,142300,142309,vom Schuß,der-Schuß
+gdc-coref,s6m6.0,142025,142879,foerster,142338,142350,meinen Augen,die-Augen
+gdc-coref,s6m6.0,142025,142879,foerster,142338,142344,meinen,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142361,142370,der Rauch,der-Rauch
+gdc-coref,s6m6.0,142025,142879,foerster,142389,142403,ein Augenblick,ein-Augenblick
+gdc-coref,s6m6.0,142025,142879,foerster,142413,142416,ich,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142417,142420,den,robert
+gdc-coref,s6m6.0,142025,142879,foerster,142463,142479,einen Augenblick,ein-Augenblick
+gdc-coref,s6m6.0,142025,142879,foerster,142491,142493,er,robert
+gdc-coref,s6m6.0,142025,142879,foerster,142507,142512,war's,was2
+gdc-coref,s6m6.0,142025,142879,foerster,142524,142527,was,was2
+gdc-coref,s6m6.0,142025,142879,foerster,142554,142557,ich,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142558,142567,die Hände,die-Hände
+gdc-coref,s6m6.0,142025,142879,foerster,142573,142585,meinem Stutz,meinem-Stutz
+gdc-coref,s6m6.0,142025,142879,foerster,142573,142579,meinem,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142597,142600,Dir,robert
+gdc-coref,s6m6.0,142025,142879,foerster,142605,142615,dein Recht,dein-Recht
+gdc-coref,s6m6.0,142025,142879,foerster,142605,142609,dein,robert
+gdc-coref,s6m6.0,142025,142879,foerster,142638,142642,Gott,Gott
+gdc-coref,s6m6.0,142025,142879,foerster,142647,142665,seiner armen Seele,seiner-armen-Seele
+gdc-coref,s6m6.0,142025,142879,foerster,142647,142653,seiner,robert
+gdc-coref,s6m6.0,142025,142879,foerster,142694,142699,Eulen,ein-Schwarm-Eulen
+gdc-coref,s6m6.0,142025,142879,foerster,142738,142741,sie,ein-Schwarm-Eulen
+gdc-coref,s6m6.0,142025,142879,foerster,142757,142760,ich,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142779,142785,meinen,foerster
+gdc-coref,s6m6.0,142025,142879,foerster,142798,142807,das Recht,einerlei-Recht
+gdc-coref,s6m6.0,142025,142879,foerster,142813,142817,Gott,Gott
+gdc-coref,s6m6.0,142025,142879,foerster,142831,142837,Himmel,im-Himmel
+gdc-coref,s6m6.0,142025,142879,foerster,142856,142858,Er,foerster
+gdc-coref,s6m6.0,142905,142979,_stage,142905,142912,Förster,foerster
+gdc-coref,s6m6.0,142905,142979,_stage,142937,142942,Stein,stein
+gdc-coref,s6m6.0,142905,142979,_stage,142944,142954,der Pastor,pastor
+gdc-coref,s6m6.0,142981,143008,stein,143001,143007,Ulrich,foerster
+gdc-coref,s6m6.0,143013,143050,foerster,143044,143049,Stein,stein
+gdc-coref,s6m6.0,143055,143080,stein,143077,143079,du,foerster
+gdc-coref,s6m6.0,143086,143234,foerster,143122,143124,Es,was2
+gdc-coref,s6m6.0,143086,143234,foerster,143144,143146,Er,foerster
+gdc-coref,s6m6.0,143086,143234,foerster,143157,143167,der Flinte,die-Flinte
+gdc-coref,s6m6.0,143086,143234,foerster,143178,143182,sich,foerster
+gdc-coref,s6m6.0,143086,143234,foerster,143223,143233,mein Recht,im-Recht
+gdc-coref,s6m6.0,143086,143234,foerster,143223,143227,mein,foerster
+gdc-coref,s6m6.0,143245,143279,_stage,143257,143267,der Pastor,pastor
+gdc-coref,s6m6.0,143245,143279,_stage,143275,143278,ihm,stein
+gdc-coref,s6m6.0,143239,143307,stein,143287,143298,dein Andres,andres
+gdc-coref,s6m6.0,143239,143307,stein,143287,143291,dein,foerster
+gdc-coref,s6m6.0,143239,143307,stein,143300,143306,Ulrich,foerster
+gdc-coref,s6m6.0,143312,143353,foerster,143332,143334,du,stein
+gdc-coref,s6m6.0,143312,143353,foerster,143339,143352,meinem Andres,andres
+gdc-coref,s6m6.0,143312,143353,foerster,143339,143345,meinem,foerster
+gdc-coref,s6m6.0,143358,143395,stein,143365,143378,Meinen Robert,robert
+gdc-coref,s6m6.0,143358,143395,stein,143365,143371,Meinen,stein
+gdc-coref,s6m6.0,143358,143395,stein,143383,143386,ihm,andres
+gdc-coref,s6m6.0,143400,143475,foerster,143409,143422,Deinen Robert,robert
+gdc-coref,s6m6.0,143400,143475,foerster,143409,143415,Deinen,stein
+gdc-coref,s6m6.0,143400,143475,foerster,143428,143441,meinem Andres,andres
+gdc-coref,s6m6.0,143400,143475,foerster,143428,143434,meinem,foerster
+gdc-coref,s6m6.0,143400,143475,foerster,143466,143474,das Tuch,das-Tuch
+gdc-coref,s6m6.0,143480,143532,pastor,143491,143497,Gottes,Gott
+gdc-coref,s6m6.0,143480,143532,pastor,143511,143520,dem Tuche,das-Tuch
+gdc-coref,s6m6.0,143480,143532,pastor,143527,143531,Blut,Blut
+gdc-coref,s6m6.0,143537,143556,stein,143552,143555,das,Blut
+gdc-coref,s6m6.0,143561,143910,foerster,143570,143573,Das,Blut
+gdc-coref,s6m6.0,143561,143910,foerster,143578,143592,meines Andres',andres
+gdc-coref,s6m6.0,143561,143910,foerster,143578,143584,meines,foerster
+gdc-coref,s6m6.0,143561,143910,foerster,143603,143614,dein Robert,robert
+gdc-coref,s6m6.0,143561,143910,foerster,143603,143607,dein,stein
+gdc-coref,s6m6.0,143561,143910,foerster,143615,143620,hat's,Blut
+gdc-coref,s6m6.0,143561,143910,foerster,143636,143638,du,stein
+gdc-coref,s6m6.0,143561,143910,foerster,143644,143657,deinen Möller,moeller
+gdc-coref,s6m6.0,143561,143910,foerster,143644,143650,deinen,stein
+gdc-coref,s6m6.0,143561,143910,foerster,143663,143671,Soldaten,die-Soldaten
+gdc-coref,s6m6.0,143561,143910,foerster,143687,143689,du,stein
+gdc-coref,s6m6.0,143561,143910,foerster,143695,143699,mich,foerster
+gdc-coref,s6m6.0,143561,143910,foerster,143725,143733,der Welt,der-Welt
+gdc-coref,s6m6.0,143561,143910,foerster,143739,143757,euern zwei Rechten,zweierlei-Recht
+gdc-coref,s6m6.0,143561,143910,foerster,143739,143744,euern,die-Gerichte
+gdc-coref,s6m6.0,143561,143910,foerster,143763,143766,ihr,die-Gerichte
+gdc-coref,s6m6.0,143561,143910,foerster,143787,143790,ihr,die-Gerichte
+gdc-coref,s6m6.0,143561,143910,foerster,143812,143823,seine Brust,seine-Brust
+gdc-coref,s6m6.0,143561,143910,foerster,143812,143817,seine,foerster
+gdc-coref,s6m6.0,143561,143910,foerster,143847,143856,ein Recht,im-Recht
+gdc-coref,s6m6.0,143561,143910,foerster,143858,143861,das,im-Recht
+gdc-coref,s6m6.0,143561,143910,foerster,143868,143871,ihr,die-Gerichte
+gdc-coref,s6m6.0,143561,143910,foerster,143889,143893,eure,die-Gerichte
+gdc-coref,s6m6.0,143937,143975,_stage,143937,143943,Andres,andres
+gdc-coref,s6m6.0,143937,143975,_stage,143963,143974,Die Vorigen,foerster-/-stein-+-1
+gdc-coref,s6m6.0,143977,144007,andres,144000,144005,Vater,foerster
+gdc-coref,s6m6.0,144012,144029,pastor,144020,144023,Wer,andres
+gdc-coref,s6m6.0,144034,144070,stein,144055,144062,Andres',andres
+gdc-coref,s6m6.0,144075,144206,foerster,144111,144125,Einerlei Recht,einerlei-Recht
+gdc-coref,s6m6.0,144075,144206,foerster,144141,144150,das Recht,einerlei-Recht
+gdc-coref,s6m6.0,144075,144206,foerster,144155,144159,euch,die-Gerichte
+gdc-coref,s6m6.0,144075,144206,foerster,144171,144174,Wer,niemand
+gdc-coref,s6m6.0,144075,144206,foerster,144201,144204,der,niemand
+gdc-coref,s6m6.0,144211,144225,andres,144219,144224,Vater,foerster
+gdc-coref,s6m6.0,144238,144291,_stage,144252,144261,der Thüre,eine-Thür
+gdc-coref,s6m6.0,144230,144338,foerster,144292,144295,Der,andres
+gdc-coref,s6m6.0,144230,144338,foerster,144298,144301,der,andres
+gdc-coref,s6m6.0,144321,144338,_stage,144321,144327,Andres,andres
+gdc-coref,s6m6.0,144348,144364,_stage,144348,144354,Andres,andres
+gdc-coref,s6m6.0,144342,144397,stein,144365,144369,Gott,Gott
+gdc-coref,s6m6.0,144342,144397,stein,144374,144378,Dank,Dank
+gdc-coref,s6m6.0,144342,144397,stein,144380,144390,"Andres, du",andres
+gdc-coref,s6m6.0,144410,144430,_stage,144416,144420,sich,foerster
+gdc-coref,s6m6.0,144402,144478,foerster,144450,144452,Er,andres
+gdc-coref,s6m6.0,144402,144478,foerster,144462,144464,Er,andres
+gdc-coref,s6m6.0,144484,144498,andres,144492,144497,Vater,foerster
+gdc-coref,s6m6.0,144511,144553,_stage,144536,144539,ihn,andres
+gdc-coref,s6m6.0,144503,144566,foerster,144554,144557,Wer,andres
+gdc-coref,s6m6.0,144571,144632,andres,144604,144606,du,foerster
+gdc-coref,s6m6.0,144571,144632,andres,144607,144613,deinen,foerster
+gdc-coref,s6m6.0,144637,144837,foerster,144646,144657,Mein Andres,andres
+gdc-coref,s6m6.0,144637,144837,foerster,144646,144650,Mein,foerster
+gdc-coref,s6m6.0,144637,144837,foerster,144674,144676,du,andres
+gdc-coref,s6m6.0,144637,144837,foerster,144688,144707,im Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,144637,144837,foerster,144722,144724,du,andres
+gdc-coref,s6m6.0,144637,144837,foerster,144725,144729,mein,foerster
+gdc-coref,s6m6.0,144637,144837,foerster,144775,144778,wir,foerster2
+gdc-coref,s6m6.0,144637,144837,foerster,144799,144802,wir,foerster2
+gdc-coref,s6m6.0,144637,144837,foerster,144811,144826,"Herr Gott, dich",Gott
+gdc-coref,s6m6.0,144637,144837,foerster,144833,144836,wir,foerster2
+gdc-coref,s6m6.0,144842,144868,pastor,144850,144852,Er,foerster
+gdc-coref,s6m6.0,144873,144901,stein,144880,144886,Andres,andres
+gdc-coref,s6m6.0,144873,144901,stein,144888,144899,mein Robert,robert
+gdc-coref,s6m6.0,144873,144901,stein,144888,144892,mein,stein
+gdc-coref,s6m6.0,144906,145005,andres,144924,144974,"mein Tuch, das der Lindenschmied mir gestohlen hat",das-Tuch
+gdc-coref,s6m6.0,144906,145005,andres,144924,144928,mein,andres
+gdc-coref,s6m6.0,144906,145005,andres,144939,144956,der Lindenschmied,lindenschmied
+gdc-coref,s6m6.0,144906,145005,andres,144957,144960,mir,andres
+gdc-coref,s6m6.0,144906,145005,andres,144980,144982,er,lindenschmied
+gdc-coref,s6m6.0,144906,145005,andres,144983,144996,den Buchjäger,buchjaeger
+gdc-coref,s6m6.0,145010,145082,stein,145017,145034,Der Lindenschmied,lindenschmied
+gdc-coref,s6m6.0,145010,145082,stein,145039,145052,den Buchjäger,buchjaeger
+gdc-coref,s6m6.0,145010,145082,stein,145069,145080,mein Robert,robert
+gdc-coref,s6m6.0,145010,145082,stein,145069,145073,mein,stein
+gdc-coref,s6m6.0,145087,145154,andres,145095,145101,Robert,robert
+gdc-coref,s6m6.0,145087,145154,andres,145112,145115,ihn,lindenschmied
+gdc-coref,s6m6.0,145087,145154,andres,145117,145119,Er,lindenschmied
+gdc-coref,s6m6.0,145087,145154,andres,145126,145132,Robert,robert
+gdc-coref,s6m6.0,145087,145154,andres,145138,145141,ihn,buchjaeger
+gdc-coref,s6m6.0,145159,145194,foerster,145168,145171,Der,lindenschmied
+gdc-coref,s6m6.0,145159,145194,foerster,145173,145176,Der,lindenschmied
+gdc-coref,s6m6.0,145159,145194,foerster,145181,145193,deine Flinte,deine-Flinte
+gdc-coref,s6m6.0,145159,145194,foerster,145181,145186,deine,andres
+gdc-coref,s6m6.0,145199,145233,andres,145211,145222,meinem Tuch,das-Tuch
+gdc-coref,s6m6.0,145199,145233,andres,145211,145217,meinem,andres
+gdc-coref,s6m6.0,145238,145272,foerster,145251,145261,der Robert,robert
+gdc-coref,s6m6.0,145238,145272,foerster,145266,145269,ihn,lindenschmied
+gdc-coref,s6m6.0,145277,145401,andres,145285,145302,Der Lindenschmied,lindenschmied
+gdc-coref,s6m6.0,145277,145401,andres,145340,145343,ich,andres
+gdc-coref,s6m6.0,145277,145401,andres,145344,145347,ihn,lindenschmied
+gdc-coref,s6m6.0,145277,145401,andres,145351,145360,der Mühle,der-Mühle
+gdc-coref,s6m6.0,145277,145401,andres,145378,145390,die Gerichte,die-Gerichte
+gdc-coref,s6m6.0,145406,145482,foerster,145443,145446,Ich,foerster
+gdc-coref,s6m6.0,145487,145526,andres,145506,145509,ich,andres
+gdc-coref,s6m6.0,145539,145580,_stage,145559,145570,dem Gewehre,die-Flinte
+gdc-coref,s6m6.0,145539,145580,_stage,145574,145579,Stein,stein
+gdc-coref,s6m6.0,145531,145608,foerster,145581,145586,Stein,stein
+gdc-coref,s6m6.0,145531,145608,foerster,145593,145596,mir,foerster
+gdc-coref,s6m6.0,145531,145608,foerster,145597,145607,mein Recht,im-Recht
+gdc-coref,s6m6.0,145531,145608,foerster,145597,145601,mein,foerster
+gdc-coref,s6m6.0,145613,145633,stein,145620,145623,Was,Was
+gdc-coref,s6m6.0,145613,145633,stein,145629,145632,das,das
+gdc-coref,s6m6.0,145638,145675,foerster,145647,145651,Aug',Aug'
+gdc-coref,s6m6.0,145638,145675,foerster,145655,145659,Aug',Aug'2
+gdc-coref,s6m6.0,145638,145675,foerster,145661,145665,Zahn,Zahn
+gdc-coref,s6m6.0,145638,145675,foerster,145669,145673,Zahn,Zahn2
+gdc-coref,s6m6.0,145686,145706,_stage,145686,145696,den Pastor,pastor
+gdc-coref,s6m6.0,145680,145726,stein,145707,145710,Was,Was
+gdc-coref,s6m6.0,145680,145726,stein,145715,145718,das,das
+gdc-coref,s6m6.0,145731,145897,foerster,145740,145750,Der Weiler,weiler
+gdc-coref,s6m6.0,145731,145897,foerster,145757,145774,den Lindenschmied,lindenschmied
+gdc-coref,s6m6.0,145731,145897,foerster,145779,145789,der Flinte,deine-Flinte
+gdc-coref,s6m6.0,145731,145897,foerster,145794,145807,meinen Andres,andres
+gdc-coref,s6m6.0,145731,145897,foerster,145794,145800,meinen,foerster
+gdc-coref,s6m6.0,145731,145897,foerster,145809,145820,Dein Robert,robert
+gdc-coref,s6m6.0,145731,145897,foerster,145809,145813,Dein,stein
+gdc-coref,s6m6.0,145731,145897,foerster,145825,145842,den Lindenschmied,lindenschmied
+gdc-coref,s6m6.0,145731,145897,foerster,145857,145860,ich,foerster
+gdc-coref,s6m6.0,145731,145897,foerster,145866,145879,deinen Robert,robert
+gdc-coref,s6m6.0,145731,145897,foerster,145866,145872,deinen,stein
+gdc-coref,s6m6.0,145902,145928,pastor,145910,145927,Allmächtiger Gott,Gott
+gdc-coref,s6m6.0,145934,145962,andres,145951,145961,Den Robert,robert
+gdc-coref,s6m6.0,146011,146043,_stage,146015,146025,die Flinte,die-Flinte
+gdc-coref,s6m6.0,146011,146043,_stage,146029,146033,sich,stein
+gdc-coref,s6m6.0,146005,146087,stein,146044,146053,Mörder du,foerster
+gdc-coref,s6m6.0,146005,146087,stein,146055,146065,Der Pastor,pastor
+gdc-coref,s6m6.0,146005,146087,stein,146072,146075,ihm,stein
+gdc-coref,s6m6.0,146092,146170,andres,146124,146134,Den Robert,robert
+gdc-coref,s6m6.0,146092,146170,andres,146136,146141,Vater,foerster
+gdc-coref,s6m6.0,146092,146170,andres,146143,146153,Der Robert,robert
+gdc-coref,s6m6.0,146174,146189,stein,146181,146183,Er,robert
+gdc-coref,s6m6.0,146194,146210,pastor,146202,146204,Er,robert
+gdc-coref,s6m6.0,146215,146234,foerster,146224,146226,Er,robert
+gdc-coref,s6m6.0,146239,146274,andres,146247,146249,Er,robert
+gdc-coref,s6m6.0,146239,146274,andres,146265,146268,ich,andres
+gdc-coref,s6m6.0,146279,146365,foerster,146299,146308,ein Traum,ein-schwerer-Traum
+gdc-coref,s6m6.0,146279,146365,foerster,146310,146313,Ich,foerster
+gdc-coref,s6m6.0,146279,146365,foerster,146319,146330,kein Mörder,foerster
+gdc-coref,s6m6.0,146279,146365,foerster,146332,146335,Ich,foerster
+gdc-coref,s6m6.0,146279,146365,foerster,146341,146364,ein unbescholtener Mann,ein-unbescholtener-Mann
+gdc-coref,s6m6.0,146370,146440,pastor,146378,146381,Das,ein-unbescholtener-Mann
+gdc-coref,s6m6.0,146370,146440,pastor,146387,146398,"Sie, Ulrich",foerster
+gdc-coref,s6m6.0,146370,146440,pastor,146413,146416,Sie,foerster
+gdc-coref,s6m6.0,146445,146509,stein,146452,146456,Mann,foerster
+gdc-coref,s6m6.0,146445,146509,stein,146470,146472,du,foerster
+gdc-coref,s6m6.0,146445,146509,stein,146473,146477,mich,stein
+gdc-coref,s6m6.0,146445,146509,stein,146494,146504,die Büchse,die-Flinte
+gdc-coref,s6m6.0,146514,146610,foerster,146523,146525,Du,andres
+gdc-coref,s6m6.0,146514,146610,foerster,146531,146534,ihn,robert
+gdc-coref,s6m6.0,146514,146610,foerster,146553,146555,du,andres
+gdc-coref,s6m6.0,146514,146610,foerster,146556,146559,ihn,robert
+gdc-coref,s6m6.0,146514,146610,foerster,146568,146574,Andres,andres
+gdc-coref,s6m6.0,146514,146610,foerster,146583,146589,Andres,andres
+gdc-coref,s6m6.0,146514,146610,foerster,146603,146609,Andres,andres
+gdc-coref,s6m6.0,146615,146832,andres,146638,146641,ich,andres
+gdc-coref,s6m6.0,146615,146832,andres,146662,146665,ich,andres
+gdc-coref,s6m6.0,146615,146832,andres,146666,146678,zwei Männern,zwei-Männern
+gdc-coref,s6m6.0,146615,146832,andres,146683,146692,der Mühle,der-Mühle
+gdc-coref,s6m6.0,146615,146832,andres,146697,146712,einer Tragbahre,einer---------------Tragbahre
+gdc-coref,s6m6.0,146615,146832,andres,146714,146724,Der Robert,robert
+gdc-coref,s6m6.0,146615,146832,andres,146731,146734,sie,zwei-Männern
+gdc-coref,s6m6.0,146615,146832,andres,146764,146767,sie,zwei-Männern
+gdc-coref,s6m6.0,146615,146832,andres,146780,146800,dem Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,146615,146832,andres,146802,146808,Robert,robert
+gdc-coref,s6m6.0,146615,146832,andres,146813,146818,ihnen,zwei-Männern
+gdc-coref,s6m6.0,146837,146872,foerster,146851,146871,dem Heimlichen Grund,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,146877,146901,pastor,146889,146900,einer Bahre,einer---------------Tragbahre
+gdc-coref,s6m6.0,146945,147029,_stage,146954,146971,Mariens Kammertür,Mariens-Kammertür
+gdc-coref,s6m6.0,146945,147029,_stage,146954,146961,Mariens,marie
+gdc-coref,s6m6.0,146937,147207,foerster,147030,147034,Gott,Gott
+gdc-coref,s6m6.0,146937,147207,foerster,147039,147043,Dank,Dank
+gdc-coref,s6m6.0,146937,147207,foerster,147055,147058,Ich,foerster
+gdc-coref,s6m6.0,146937,147207,foerster,147063,147066,sie,marie
+gdc-coref,s6m6.0,146937,147207,foerster,147078,147081,sie,marie
+gdc-coref,s6m6.0,146937,147207,foerster,147108,147117,Eine Welt,der-Welt
+gdc-coref,s6m6.0,146937,147207,foerster,147122,147128,Sorgen,Sorgen
+gdc-coref,s6m6.0,146937,147207,foerster,147134,147137,sie,marie
+gdc-coref,s6m6.0,146937,147207,foerster,147144,147147,sie,Sorgen
+gdc-coref,s6m6.0,146937,147207,foerster,147148,147153,einem,Man
+gdc-coref,s6m6.0,146937,147207,foerster,147162,147171,der Brust,seine-Brust
+gdc-coref,s6m6.0,146937,147207,foerster,147179,147195,"Sie, Herr Pastor",pastor
+gdc-coref,s6m6.0,146937,147207,foerster,147203,147206,Sie,pastor
+gdc-coref,s6m6.0,147212,147264,stein,147219,147235,Der Unglückliche,foerster
+gdc-coref,s6m6.0,147212,147264,stein,147237,147250,Sein Wahnsinn,im-Wahnsinn
+gdc-coref,s6m6.0,147212,147264,stein,147237,147241,Sein,foerster
+gdc-coref,s6m6.0,147276,147349,_stage,147281,147304,einer ängstlichen Pause,einer-ängstlichen-Pause
+gdc-coref,s6m6.0,147276,147349,_stage,147309,147312,der,einer-ängstlichen-Pause
+gdc-coref,s6m6.0,147276,147349,_stage,147313,147324,der Förster,foerster
+gdc-coref,s6m6.0,147276,147349,_stage,147328,147334,seinem,pastor
+gdc-coref,s6m6.0,147269,147415,pastor,147350,147353,Ich,pastor
+gdc-coref,s6m6.0,147269,147415,pastor,147375,147414,"Ihr eigner schwerer Atem, den sie hören","Ihr-eigner-schwerer-Atem,-den-sie-hören"
+gdc-coref,s6m6.0,147269,147415,pastor,147375,147378,Ihr,foerster
+gdc-coref,s6m6.0,147269,147415,pastor,147405,147408,sie,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147463,147502,"Mein eigner schwerer Atem, den ich höre","Ihr-eigner-schwerer-Atem,-den-sie-hören"
+gdc-coref,s6m6.0,147421,147739,foerster,147463,147467,Mein,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147494,147497,ich,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147505,147507,Er,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147514,147518,sich,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147537,147548,Meine Augen,die-Augen
+gdc-coref,s6m6.0,147421,147739,foerster,147537,147542,Meine,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147559,147562,sie,marie
+gdc-coref,s6m6.0,147421,147739,foerster,147582,147585,ich,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147586,147589,sie,marie
+gdc-coref,s6m6.0,147421,147739,foerster,147598,147601,sie,marie
+gdc-coref,s6m6.0,147421,147739,foerster,147615,147618,ich,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147619,147622,sie,marie
+gdc-coref,s6m6.0,147421,147739,foerster,147630,147641,Herr Pastor,pastor
+gdc-coref,s6m6.0,147421,147739,foerster,147646,147652,Gottes,Gott
+gdc-coref,s6m6.0,147421,147739,foerster,147666,147669,Sie,pastor
+gdc-coref,s6m6.0,147421,147739,foerster,147682,147691,die Marie,marie
+gdc-coref,s6m6.0,147421,147739,foerster,147693,147695,Er,foerster
+gdc-coref,s6m6.0,147421,147739,foerster,147700,147710,den Pastor,pastor
+gdc-coref,s6m6.0,147744,147840,pastor,147752,147755,Ich,pastor
+gdc-coref,s6m6.0,147744,147840,pastor,147761,147764,sie,marie
+gdc-coref,s6m6.0,147744,147840,pastor,147772,147781,Das Bette,Ihr-Bett
+gdc-coref,s6m6.0,147744,147840,pastor,147820,147838,die Frau Försterin,foersterin
+gdc-coref,s6m6.0,147853,147874,_stage,147863,147873,die Kammer,Mariens-Kammer
+gdc-coref,s6m6.0,147845,147906,foerster,147875,147879,Weib,foersterin
+gdc-coref,s6m6.0,147845,147906,foerster,147881,147885,Weib,foersterin
+gdc-coref,s6m6.0,147845,147906,foerster,147887,147905,Unglückliches Weib,foersterin
+gdc-coref,s6m6.0,147934,148031,_stage,147934,147943,Försterin,foersterin
+gdc-coref,s6m6.0,147934,148031,_stage,147985,147996,vom Förster,foerster
+gdc-coref,s6m6.0,147934,148031,_stage,148024,148030,Vorige,pastor-/-stein-+-1
+gdc-coref,s6m6.0,148033,148063,foerster,148050,148052,du,foersterin
+gdc-coref,s6m6.0,148033,148063,foerster,148053,148062,mein Kind,marie
+gdc-coref,s6m6.0,148033,148063,foerster,148053,148057,mein,foerster
+gdc-coref,s6m6.0,148068,148163,andres,148076,148082,Mutter,foersterin
+gdc-coref,s6m6.0,148068,148163,andres,148092,148095,dir,foersterin
+gdc-coref,s6m6.0,148068,148163,andres,148097,148099,Er,andres
+gdc-coref,s6m6.0,148068,148163,andres,148112,148115,sie,foersterin
+gdc-coref,s6m6.0,148068,148163,andres,148131,148141,der Pastor,pastor
+gdc-coref,s6m6.0,148168,148198,foersterin,148179,148185,Andres,andres
+gdc-coref,s6m6.0,148168,148198,foersterin,148192,148197,Einer,andres
+gdc-coref,s6m6.0,148211,148225,_stage,148221,148224,sie,foersterin
+gdc-coref,s6m6.0,148203,148269,foerster,148226,148235,Mein Kind,marie
+gdc-coref,s6m6.0,148203,148269,foerster,148226,148230,Mein,foerster
+gdc-coref,s6m6.0,148203,148269,foerster,148237,148246,Mein Kind,marie
+gdc-coref,s6m6.0,148203,148269,foerster,148237,148241,Mein,foerster
+gdc-coref,s6m6.0,148203,148269,foerster,148256,148258,du,foersterin
+gdc-coref,s6m6.0,148203,148269,foerster,148259,148268,mein Kind,marie
+gdc-coref,s6m6.0,148203,148269,foerster,148259,148263,mein,foerster
+gdc-coref,s6m6.0,148274,148325,foersterin,148315,148319,mich,foersterin
+gdc-coref,s6m6.0,148274,148325,foersterin,148321,148323,du,foerster
+gdc-coref,s6m6.0,148330,148351,foerster,148339,148350,Meine Marie,marie
+gdc-coref,s6m6.0,148330,148351,foerster,148339,148344,Meine,foerster
+gdc-coref,s6m6.0,148356,148400,foersterin,148372,148393,dem Heimlichen Grunde,dem-Heimlichen-Grund
+gdc-coref,s6m6.0,148356,148400,foersterin,148396,148398,du,foerster
+gdc-coref,s6m6.0,148405,148429,foerster,148414,148422,"Rabe, du",foersterin
+gdc-coref,s6m6.0,148434,148457,foersterin,148445,148455,Zum Robert,robert
+gdc-coref,s6m6.0,148462,148522,foerster,148475,148478,sie,marie
+gdc-coref,s6m6.0,148462,148522,foerster,148483,148486,mir,foerster
+gdc-coref,s6m6.0,148462,148522,foerster,148498,148506,im Nebel,ein-Nebel
+gdc-coref,s6m6.0,148462,148522,foerster,148513,148516,ich,foerster
+gdc-coref,s6m6.0,148527,148559,foersterin,148538,148541,Das,Das
+gdc-coref,s6m6.0,148527,148559,foersterin,148546,148557,der Wilhelm,wilhelm
+gdc-coref,s6m6.0,148564,148606,foerster,148573,148582,Die Marie,marie
+gdc-coref,s6m6.0,148564,148606,foerster,148583,148588,war's,Das
+gdc-coref,s6m6.0,148564,148606,foerster,148590,148594,Weib,foersterin
+gdc-coref,s6m6.0,148564,148606,foerster,148596,148605,die Marie,marie
+gdc-coref,s6m6.0,148611,148669,pastor,148619,148622,Sie,foersterin
+gdc-coref,s6m6.0,148611,148669,pastor,148650,148653,Sie,foersterin
+gdc-coref,s6m6.0,148674,148712,stein,148687,148690,sie,foersterin
+gdc-coref,s6m6.0,148674,148712,stein,148695,148707,dem Rasenden,foerster
+gdc-coref,s6m6.0,148717,148764,foerster,148726,148728,Du,foersterin
+gdc-coref,s6m6.0,148717,148764,foerster,148743,148746,ich,foerster
+gdc-coref,s6m6.0,148717,148764,foerster,148753,148762,mein Kind,marie
+gdc-coref,s6m6.0,148717,148764,foerster,148753,148757,mein,foerster
+gdc-coref,s6m6.0,148769,148847,andres,148777,148783,Mutter,foersterin
+gdc-coref,s6m6.0,148769,148847,andres,148785,148791,Mutter,foersterin
+gdc-coref,s6m6.0,148769,148847,andres,148793,148795,Er,andres
+gdc-coref,s6m6.0,148769,148847,andres,148800,148810,der Pastor,pastor
+gdc-coref,s6m6.0,148769,148847,andres,148814,148817,sie,foersterin
+gdc-coref,s6m6.0,148769,148847,andres,148830,148839,am Tische,den-Tisch
+gdc-coref,s6m6.0,148859,148908,_stage,148872,148883,den Förster,foerster
+gdc-coref,s6m6.0,148859,148908,_stage,148888,148891,ihr,foersterin
+gdc-coref,s6m6.0,148853,148936,stein,148914,148917,sie,foersterin
+gdc-coref,s6m6.0,148853,148936,stein,148923,148935,Wahnsinniger,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,148962,148966,Gott,Gott
+gdc-coref,s6m6.0,148941,150350,foerster,148977,148980,ich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149013,149015,er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149074,149082,die Thür,eine-Thür
+gdc-coref,s6m6.0,148941,150350,foerster,149107,149110,ihr,foersterin-/-stein-+-2
+gdc-coref,s6m6.0,148941,150350,foerster,149117,149125,Ihr alle,foersterin-/-stein-+-2
+gdc-coref,s6m6.0,148941,150350,foerster,149141,149150,die Marie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149152,149155,Sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149180,149184,sich,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149204,149207,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149211,149220,die Nacht,Nacht
+gdc-coref,s6m6.0,148941,150350,foerster,149241,149244,Sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149249,149257,das Herz,ihr-Herz
+gdc-coref,s6m6.0,148941,150350,foerster,149265,149268,ich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149286,149289,ich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149302,149314,Dummes Mädel,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149316,149318,Er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149325,149329,sich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149362,149364,Er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149377,149385,der Thür,eine-Thür
+gdc-coref,s6m6.0,148941,150350,foerster,149391,149393,er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149394,149397,sie,eine-Thür
+gdc-coref,s6m6.0,148941,150350,foerster,149427,149429,er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149475,149493,Das hitzige Fieber,Das-hitzige-Fieber
+gdc-coref,s6m6.0,148941,150350,foerster,149536,149548,die Vorboten,Frösteln-/-Zähneklappen-+-1
+gdc-coref,s6m6.0,148941,150350,foerster,149550,149562,Zähneklappen,Zähneklappen
+gdc-coref,s6m6.0,148941,150350,foerster,149567,149575,Frösteln,Frösteln
+gdc-coref,s6m6.0,148941,150350,foerster,149674,149684,dem Fieber,Das-hitzige-Fieber
+gdc-coref,s6m6.0,148941,150350,foerster,149698,149705,niemand,stein-/-foersterin-+-3
+gdc-coref,s6m6.0,148941,150350,foerster,149720,149724,eins,stein-/-foersterin-+-3
+gdc-coref,s6m6.0,148941,150350,foerster,149746,149754,ihr alle,foersterin-/-stein-+-2
+gdc-coref,s6m6.0,148941,150350,foerster,149809,149813,eins,niemand
+gdc-coref,s6m6.0,148941,150350,foerster,149834,149837,ihr,foersterin-/-stein-+-2
+gdc-coref,s6m6.0,148941,150350,foerster,149844,149848,euch,foersterin-/-stein-+-2
+gdc-coref,s6m6.0,148941,150350,foerster,149850,149861,Meine Marie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149850,149855,Meine,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149889,149892,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149899,149902,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149913,149916,ich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149928,149937,die Marie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149957,149960,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149961,149964,mir,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,149979,149982,Sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,149993,149996,ich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150019,150030,meine Marie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,150019,150024,meine,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150037,150040,ihr,foersterin-/-stein-+-2
+gdc-coref,s6m6.0,148941,150350,foerster,150041,150044,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,150071,150074,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,150092,150095,mir,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150096,150105,die Augen,die-Augen
+gdc-coref,s6m6.0,148941,150350,foerster,150120,150123,sie,marie
+gdc-coref,s6m6.0,148941,150350,foerster,150137,150140,ich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150146,150149,ihr,marie
+gdc-coref,s6m6.0,148941,150350,foerster,150187,150189,Er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150233,150237,sich,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150270,150272,Er,foerster
+gdc-coref,s6m6.0,148941,150350,foerster,150285,150293,der Thür,eine-Thür
+gdc-coref,s6m6.0,148941,150350,foerster,150310,150328,zugehaltenen Augen,die-Augen
+gdc-coref,s6m6.0,150375,150477,_stage,150375,150381,Robert,robert
+gdc-coref,s6m6.0,150375,150477,_stage,150383,150390,Wilhelm,wilhelm
+gdc-coref,s6m6.0,150375,150477,_stage,150397,150408,zwei Männer,zwei-Männern
+gdc-coref,s6m6.0,150375,150477,_stage,150413,150454,"einer bedeckten Bahre, die sie hinstellen",einer---------------Tragbahre
+gdc-coref,s6m6.0,150375,150477,_stage,150440,150443,sie,zwei-Männern
+gdc-coref,s6m6.0,150375,150477,_stage,150465,150476,Die Vorigen,stein-/-foersterin-+-3
+gdc-coref,s6m6.0,150479,150535,stein,150486,150492,Robert,robert
+gdc-coref,s6m6.0,150479,150535,stein,150494,150497,Ihm,robert
+gdc-coref,s6m6.0,150479,150535,stein,150515,150525,"du, Ulrich",foerster
+gdc-coref,s6m6.0,150479,150535,stein,150527,150529,Er,robert
+gdc-coref,s6m6.0,150547,150594,_stage,150547,150550,ihm,stein
+gdc-coref,s6m6.0,150547,150594,_stage,150554,150562,die Arme,die-Arme
+gdc-coref,s6m6.0,150547,150594,_stage,150589,150593,sich,robert
+gdc-coref,s6m6.0,150540,150608,robert,150595,150600,Vater,stein
+gdc-coref,s6m6.0,150540,150608,robert,150602,150607,Vater,stein
+gdc-coref,s6m6.0,150613,150632,stein,150628,150631,dir,robert
+gdc-coref,s6m6.0,150637,150709,robert,150649,150659,der Mörder,foerster
+gdc-coref,s6m6.0,150637,150709,robert,150660,150664,mich,robert
+gdc-coref,s6m6.0,150637,150709,robert,150682,150694,Vater Ulrich,foerster
+gdc-coref,s6m6.0,150637,150709,robert,150700,150708,ein Mann,ein-Mann
+gdc-coref,s6m6.0,150715,150833,foerster,150772,150775,Ich,foerster
+gdc-coref,s6m6.0,150715,150833,foerster,150790,150793,ich,foerster
+gdc-coref,s6m6.0,150715,150833,foerster,150794,150799,einer,ein-Mann
+gdc-coref,s6m6.0,150806,150833,_stage,150806,150812,Robert,robert
+gdc-coref,s6m6.0,150837,150856,stein,150844,150855,Großer Gott,Gott
+gdc-coref,s6m6.0,150871,150951,_stage,150880,150886,Andres,andres
+gdc-coref,s6m6.0,150871,150951,_stage,150891,150901,dem Pastor,pastor
+gdc-coref,s6m6.0,150871,150951,_stage,150917,150926,der Bahre,einer---------------Tragbahre
+gdc-coref,s6m6.0,150861,150959,foersterin,150953,150958,Marie,marie
+gdc-coref,s6m6.0,150964,151003,andres,150976,150980,Gott,Gott
+gdc-coref,s6m6.0,150964,151003,andres,150982,150985,Sie,marie
+gdc-coref,s6m6.0,150964,151003,andres,150993,151002,die Marie,marie
+gdc-coref,s6m6.0,151008,151071,stein,151064,151070,Robert,robert
+gdc-coref,s6m6.0,151076,151111,pastor,151084,151087,Mir,pastor
+gdc-coref,s6m6.0,151123,151154,_stage,151130,151135,seine,robert
+gdc-coref,s6m6.0,151116,151555,robert,151155,151158,Sie,marie
+gdc-coref,s6m6.0,151116,151555,robert,151168,151172,Gott,Gott
+gdc-coref,s6m6.0,151116,151555,robert,151177,151181,mich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151186,151199,meines Vaters,foerster
+gdc-coref,s6m6.0,151116,151555,robert,151186,151192,meines,robert
+gdc-coref,s6m6.0,151116,151555,robert,151207,151210,Ich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151216,151219,ihr,marie
+gdc-coref,s6m6.0,151116,151555,robert,151227,151236,"Marie, du",marie
+gdc-coref,s6m6.0,151116,151555,robert,151242,151246,mich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151259,151262,sie,marie
+gdc-coref,s6m6.0,151116,151555,robert,151267,151271,mich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151285,151288,sie,marie
+gdc-coref,s6m6.0,151116,151555,robert,151289,151293,mich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151349,151358,dem Walde,im-Wald
+gdc-coref,s6m6.0,151116,151555,robert,151363,151366,Ich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151372,151379,niemand,niemand
+gdc-coref,s6m6.0,151116,151555,robert,151381,151384,ich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151394,151397,sie,marie
+gdc-coref,s6m6.0,151116,151555,robert,151405,151408,ich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151430,151440,"dir, Marie",marie
+gdc-coref,s6m6.0,151116,151555,robert,151451,151460,ein Schuß,der-Schuß
+gdc-coref,s6m6.0,151116,151555,robert,151462,151465,sie,marie
+gdc-coref,s6m6.0,151116,151555,robert,151473,151476,mir,robert
+gdc-coref,s6m6.0,151116,151555,robert,151480,151489,den Armen,den-Armen
+gdc-coref,s6m6.0,151116,151555,robert,151500,151503,ich,robert
+gdc-coref,s6m6.0,151116,151555,robert,151516,151519,sie,marie
+gdc-coref,s6m6.0,151116,151555,robert,151536,151544,ihr Herz,ihr-Herz
+gdc-coref,s6m6.0,151116,151555,robert,151536,151539,ihr,marie
+gdc-coref,s6m6.0,151560,151589,foersterin,151579,151588,ihr Traum,ihr-Traum
+gdc-coref,s6m6.0,151560,151589,foersterin,151579,151582,ihr,marie
+gdc-coref,s6m6.0,151600,151643,_stage,151605,151611,Robert,robert
+gdc-coref,s6m6.0,151600,151643,_stage,151615,151627,seinen Armen,die-Arme
+gdc-coref,s6m6.0,151600,151643,_stage,151615,151621,seinen,stein
+gdc-coref,s6m6.0,151594,151663,stein,151644,151647,Sie,marie
+gdc-coref,s6m6.0,151594,151663,stein,151658,151662,dich,robert
+gdc-coref,s6m6.0,151668,151951,foerster,151677,151680,Sie,marie
+gdc-coref,s6m6.0,151668,151951,foerster,151685,151689,mich,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151694,151697,ihn,robert
+gdc-coref,s6m6.0,151668,151951,foerster,151729,151741,meinen Schuß,der-Schuß
+gdc-coref,s6m6.0,151668,151951,foerster,151729,151735,meinen,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151743,151746,Ich,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151773,151777,mich,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151828,151831,Ich,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151841,151845,Gott,Gott
+gdc-coref,s6m6.0,151668,151951,foerster,151850,151868,seiner armen Seele,seiner-armen-Seele
+gdc-coref,s6m6.0,151668,151951,foerster,151850,151856,seiner,robert
+gdc-coref,s6m6.0,151668,151951,foerster,151878,151881,ich,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151893,151897,mich,foerster
+gdc-coref,s6m6.0,151668,151951,foerster,151903,151912,die Eulen,ein-Schwarm-Eulen
+gdc-coref,s6m6.0,151668,151951,foerster,151946,151950,mich,foerster
+gdc-coref,s6m6.0,151956,152019,robert,151986,151998,Allmächtiger,Gott
+gdc-coref,s6m6.0,151956,152019,robert,152001,152003,er,foerster
+gdc-coref,s6m6.0,151956,152019,robert,152004,152009,hat's,hat's
+gdc-coref,s6m6.0,152024,152128,stein,152031,152033,Du,foerster
+gdc-coref,s6m6.0,152024,152128,stein,152034,152040,hast's,hat's
+gdc-coref,s6m6.0,152024,152128,stein,152103,152107,dich,foerster
+gdc-coref,s6m6.0,152024,152128,stein,152114,152120,deinen,foerster
+gdc-coref,s6m6.0,152133,152348,pastor,152157,152161,Mann,foerster
+gdc-coref,s6m6.0,152133,152348,pastor,152163,152167,Gott,Gott
+gdc-coref,s6m6.0,152353,152738,foerster,152367,152370,mir,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152371,152387,Worte des Lebens,Worte-des-Lebens
+gdc-coref,s6m6.0,152353,152738,foerster,152377,152387,des Lebens,des-Lebens
+gdc-coref,s6m6.0,152353,152738,foerster,152392,152396,Euer,Euer
+gdc-coref,s6m6.0,152353,152738,foerster,152411,152420,kein Wenn,kein-Wenn
+gdc-coref,s6m6.0,152353,152738,foerster,152425,152434,kein Aber,kein-Aber
+gdc-coref,s6m6.0,152353,152738,foerster,152441,152444,mir,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152445,152448,was,ich's
+gdc-coref,s6m6.0,152353,152738,foerster,152454,152459,ich's,ich's
+gdc-coref,s6m6.0,152353,152738,foerster,152454,152457,ich,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152473,152477,Eure,Euer
+gdc-coref,s6m6.0,152353,152738,foerster,152511,152514,Ihr,Euer
+gdc-coref,s6m6.0,152353,152738,foerster,152515,152526,meinen Kopf,Im-Kopf
+gdc-coref,s6m6.0,152353,152738,foerster,152515,152521,meinen,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152536,152540,mein,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152552,152555,Ihr,Euer
+gdc-coref,s6m6.0,152353,152738,foerster,152569,152572,Ihr,Euer
+gdc-coref,s6m6.0,152353,152738,foerster,152573,152583,mein  Kind,marie
+gdc-coref,s6m6.0,152353,152738,foerster,152573,152577,mein,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152604,152609,Euerm,Euer
+gdc-coref,s6m6.0,152353,152738,foerster,152621,152626,mir's,marie
+gdc-coref,s6m6.0,152353,152738,foerster,152621,152624,mir,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152680,152689,mein Kind,marie
+gdc-coref,s6m6.0,152353,152738,foerster,152680,152684,mein,foerster
+gdc-coref,s6m6.0,152353,152738,foerster,152712,152721,schlägt's,marie
+gdc-coref,s6m6.0,152743,152867,stein,152762,152769,Amerika,Amerika
+gdc-coref,s6m6.0,152743,152867,stein,152771,152774,ich,stein
+gdc-coref,s6m6.0,152743,152867,stein,152780,152783,dir,foerster
+gdc-coref,s6m6.0,152743,152867,stein,152804,152808,mein,stein
+gdc-coref,s6m6.0,152743,152867,stein,152818,152822,dein,foerster
+gdc-coref,s6m6.0,152743,152867,stein,152824,152833,Dein Weib,foersterin
+gdc-coref,s6m6.0,152743,152867,stein,152824,152828,Dein,foerster
+gdc-coref,s6m6.0,152743,152867,stein,152838,152850,deine Kinder,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152743,152867,stein,152838,152843,deine,foerster
+gdc-coref,s6m6.0,152743,152867,stein,152860,152866,meinen,stein
+gdc-coref,s6m6.0,152872,155274,foerster,152887,152897,"du, Andres",andres
+gdc-coref,s6m6.0,152872,155274,foerster,152903,152911,der Mann,stein
+gdc-coref,s6m6.0,152872,155274,foerster,152921,152923,Er,stein
+gdc-coref,s6m6.0,152872,155274,foerster,152929,152933,euch,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153052,153061,sein Kind,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153101,153109,der Welt,der-Welt
+gdc-coref,s6m6.0,152872,155274,foerster,153121,153124,Ihr,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153150,153163,die alte Frau,foersterin
+gdc-coref,s6m6.0,152872,155274,foerster,153180,153184,euch,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153196,153210,die Geschichte,die-Geschichte
+gdc-coref,s6m6.0,152872,155274,foerster,153216,153219,sie,die-Geschichte
+gdc-coref,s6m6.0,152872,155274,foerster,153224,153229,ihrem,foersterin
+gdc-coref,s6m6.0,152872,155274,foerster,153266,153269,mir,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,153270,153278,das Kind,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153298,153301,sie,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153314,153317,sie,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153329,153332,ihr,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153348,153351,ihr,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153352,153356,euch,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153399,153402,Sie,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153467,153470,mir,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,153485,153493,das Kind,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153589,153597,ein Herz,ein-Herz
+gdc-coref,s6m6.0,152872,155274,foerster,153599,153604,wie's,ein-Herz
+gdc-coref,s6m6.0,152872,155274,foerster,153630,153635,der's,ein-Herz
+gdc-coref,s6m6.0,152872,155274,foerster,153645,153648,das,ein-Herz
+gdc-coref,s6m6.0,152872,155274,foerster,153649,153663,die Geschichte,die-Geschichte
+gdc-coref,s6m6.0,152872,155274,foerster,153674,153678,euch,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,153738,153744,hätt's,ein-Herz
+gdc-coref,s6m6.0,152872,155274,foerster,153792,153796,Gott,Gott
+gdc-coref,s6m6.0,152872,155274,foerster,153808,153816,das Kind,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153849,153854,der's,marie
+gdc-coref,s6m6.0,152872,155274,foerster,153956,153966,einen Gott,Gott
+gdc-coref,s6m6.0,152872,155274,foerster,154044,154048,euch,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,154099,154108,sein Bart,sein-Bart
+gdc-coref,s6m6.0,152872,155274,foerster,154149,154156,niemand,niemand
+gdc-coref,s6m6.0,152872,155274,foerster,154173,154177,euch,ANDRES-UND-WILHELM.
+gdc-coref,s6m6.0,152872,155274,foerster,154178,154185,niemand,niemand
+gdc-coref,s6m6.0,152872,155274,foerster,154442,154460,seinem weißen Bart,sein-Bart
+gdc-coref,s6m6.0,152872,155274,foerster,154593,154622,"das Tier, das sich hinverirrt","das-Tier,-das-sich-hinverirrt"
+gdc-coref,s6m6.0,152872,155274,foerster,154607,154611,sich,"das-Tier,-das-sich-hinverirrt"
+gdc-coref,s6m6.0,152872,155274,foerster,154646,154658,den Menschen,den-Menschen
+gdc-coref,s6m6.0,152872,155274,foerster,154750,154754,Gott,Gott
+gdc-coref,s6m6.0,152872,155274,foerster,154771,154775,Abel,Abel
+gdc-coref,s6m6.0,152872,155274,foerster,154793,154797,Kain,Kain
+gdc-coref,s6m6.0,152872,155274,foerster,154802,154806,sein,Abel
+gdc-coref,s6m6.0,152872,155274,foerster,154828,154836,ein Kind,marie
+gdc-coref,s6m6.0,152872,155274,foerster,154862,154866,sein,marie
+gdc-coref,s6m6.0,152872,155274,foerster,154878,154886,den Kain,Kain
+gdc-coref,s6m6.0,152872,155274,foerster,154892,154906,eine Seligkeit,eine-Seligkeit
+gdc-coref,s6m6.0,152872,155274,foerster,154940,154945,keine,eine-Seligkeit
+gdc-coref,s6m6.0,152872,155274,foerster,154948,154953,keine,eine-Seligkeit
+gdc-coref,s6m6.0,152872,155274,foerster,154956,154961,keine,eine-Seligkeit
+gdc-coref,s6m6.0,152872,155274,foerster,154969,154980,einen Trost,einen---------------Trost
+gdc-coref,s6m6.0,152872,155274,foerster,154982,154993,Einen Trost,einen---------------Trost
+gdc-coref,s6m6.0,152872,155274,foerster,155019,155030,einem Trost,einen---------------Trost
+gdc-coref,s6m6.0,152872,155274,foerster,155032,155035,Ich,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,155043,155048,meine,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,155076,155079,ich,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,155080,155084,eine,eine-Seligkeit
+gdc-coref,s6m6.0,152872,155274,foerster,155104,155108,Gott,Gott
+gdc-coref,s6m6.0,152872,155274,foerster,155114,155117,ich,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,155136,155147,einen Trost,einen---------------Trost
+gdc-coref,s6m6.0,152872,155274,foerster,155157,155161,mich,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,155163,155165,Er,foerster
+gdc-coref,s6m6.0,152872,155274,foerster,155172,155181,die Bibel,die-Bibel
+gdc-coref,s6m6.0,152872,155274,foerster,155230,155244,stoßendem Atem,"Ihr-eigner-schwerer-Atem,-den-sie-hören"
+gdc-coref,s6m6.0,152872,155274,foerster,155247,155250,Wer,niemand
+gdc-coref,s6m6.0,152872,155274,foerster,155251,155271,irgendeinen Menschen,niemand
+gdc-coref,s6m6.0,155279,155459,pastor,155301,155307,Ulrich,foerster
+gdc-coref,s6m6.0,155279,155459,pastor,155316,155319,Sie,foerster
+gdc-coref,s6m6.0,155279,155459,pastor,155320,155324,mich,pastor
+gdc-coref,s6m6.0,155279,155459,pastor,155325,155330,Ihnen,foerster
+gdc-coref,s6m6.0,155279,155459,pastor,155331,155347,Worte des Lebens,Worte-des-Lebens
+gdc-coref,s6m6.0,155279,155459,pastor,155337,155347,des Lebens,des-Lebens
+gdc-coref,s6m6.0,155279,155459,pastor,155362,155380,der Menschlichkeit,der---------------Menschlichkeit
+gdc-coref,s6m6.0,155279,155459,pastor,155383,155387,Gott,Gott
+gdc-coref,s6m6.0,155279,155459,pastor,155407,155418,des Sünders,des-Sünders
+gdc-coref,s6m6.0,155279,155459,pastor,155432,155434,er,des-Sünders
+gdc-coref,s6m6.0,155279,155459,pastor,155435,155439,sich,des-Sünders
+gdc-coref,s6m6.0,155472,155512,_stage,155476,155485,die Bibel,einen---------------Trost
+gdc-coref,s6m6.0,155472,155512,_stage,155499,155503,sich,foerster
+gdc-coref,s6m6.0,155464,155769,foerster,155534,155538,mich,foerster
+gdc-coref,s6m6.0,155464,155769,foerster,155540,155554,ihr Unmenschen,ihr-Unmenschen
+gdc-coref,s6m6.0,155464,155769,foerster,155559,155579,eurer Menschlichkeit,der---------------Menschlichkeit
+gdc-coref,s6m6.0,155464,155769,foerster,155559,155564,eurer,ihr-Unmenschen
+gdc-coref,s6m6.0,155464,155769,foerster,155581,155583,Er,foerster
+gdc-coref,s6m6.0,155464,155769,foerster,155618,155628,sein Wesen,sein-Wesen
+gdc-coref,s6m6.0,155464,155769,foerster,155618,155622,sein,foerster
+gdc-coref,s6m6.0,155464,155769,foerster,155659,155672,seiner Stimme,seiner-Stimme
+gdc-coref,s6m6.0,155464,155769,foerster,155659,155665,seiner,foerster
+gdc-coref,s6m6.0,155464,155769,foerster,155685,155688,Wer,niemand
+gdc-coref,s6m6.0,155464,155769,foerster,155689,155709,irgendeinen Menschen,niemand
+gdc-coref,s6m6.0,155464,155769,foerster,155721,155724,der,niemand
+gdc-coref,s6m6.0,155464,155769,foerster,155730,155739,des Todes,des-Todes
+gdc-coref,s6m6.0,155464,155769,foerster,155755,155764,die Bibel,die-Bibel
+gdc-coref,s6m6.0,155774,155819,stein,155805,155807,er,foerster
+gdc-coref,s6m6.0,155824,155871,pastor,155838,155843,jedem,niemand
+gdc-coref,s6m6.0,155824,155871,pastor,155859,155862,ihn,niemand
+gdc-coref,s6m6.0,155884,155966,_stage,155890,155899,die Bibel,die-Bibel
+gdc-coref,s6m6.0,155884,155966,_stage,155925,155938,seines Wesens,sein-Wesen
+gdc-coref,s6m6.0,155884,155966,_stage,155925,155931,seines,foerster
+gdc-coref,s6m6.0,155876,156266,foerster,156018,156027,kein Aber,kein-Aber
+gdc-coref,s6m6.0,155876,156266,foerster,156032,156041,kein Wenn,kein-Wenn
+gdc-coref,s6m6.0,155876,156266,foerster,156043,156046,Wer,niemand
+gdc-coref,s6m6.0,155876,156266,foerster,156047,156067,irgendeinen Menschen,niemand
+gdc-coref,s6m6.0,155876,156266,foerster,156079,156082,der,niemand
+gdc-coref,s6m6.0,155876,156266,foerster,156088,156097,des Todes,des-Todes
+gdc-coref,s6m6.0,155876,156266,foerster,156165,156167,er,niemand
+gdc-coref,s6m6.0,155876,156266,foerster,156185,156187,Er,foerster
+gdc-coref,s6m6.0,155876,156266,foerster,156194,156204,seinen Hut,seinen-Hut
+gdc-coref,s6m6.0,155876,156266,foerster,156194,156200,seinen,foerster
+gdc-coref,s6m6.0,155876,156266,foerster,156220,156224,sich,foerster
+gdc-coref,s6m6.0,155876,156266,foerster,156230,156233,Ich,foerster
+gdc-coref,s6m6.0,155876,156266,foerster,156242,156254,die Gerichte,die-Gerichte
+gdc-coref,s6m6.0,156271,156354,stein,156282,156284,du,foerster
+gdc-coref,s6m6.0,156271,156354,stein,156293,156296,sie,die-Gerichte
+gdc-coref,s6m6.0,156271,156354,stein,156304,156308,dich,foerster
+gdc-coref,s6m6.0,156317,156354,_stage,156317,156324,Förster,foerster
+gdc-coref,s6m6.0,156317,156354,_stage,156349,156353,sich,foerster
+gdc-coref,s6m6.0,156358,156404,pastor,156366,156369,Man,Man
+gdc-coref,s6m6.0,156358,156404,pastor,156400,156403,Sie,foerster
+gdc-coref,s6m6.0,156409,156585,foerster,156443,156454,den Lentner,den-Lentner
+gdc-coref,s6m6.0,156409,156585,foerster,156456,156459,der,den-Lentner
+gdc-coref,s6m6.0,156409,156585,foerster,156465,156468,sie,die-Gerichte
+gdc-coref,s6m6.0,156409,156585,foerster,156514,156529,ihren Gerichten,die-Gerichte
+gdc-coref,s6m6.0,156409,156585,foerster,156514,156519,ihren,die-Gerichte
+gdc-coref,s6m6.0,156409,156585,foerster,156536,156539,ich,foerster
+gdc-coref,s6m6.0,156409,156585,foerster,156574,156584,die Flinte,die-Flinte
+gdc-coref,s6m6.0,156591,156612,stein,156609,156611,du,foerster
+gdc-coref,s6m6.0,156617,157095,foerster,156634,156644,Die Flinte,die-Flinte
+gdc-coref,s6m6.0,156617,157095,foerster,156652,156655,ich,foerster
+gdc-coref,s6m6.0,156617,157095,foerster,156666,156673,womit's,was2
+gdc-coref,s6m6.0,156617,157095,foerster,156693,156696,sie,die-Gerichte
+gdc-coref,s6m6.0,156617,157095,foerster,156732,156738,Andres,andres
+gdc-coref,s6m6.0,156617,157095,foerster,156740,156747,Wilhelm,wilhelm
+gdc-coref,s6m6.0,156617,157095,foerster,156757,156767,die Mutter,foersterin
+gdc-coref,s6m6.0,156617,157095,foerster,156778,156783,allen,stein-/-wilhelm-+-4
+gdc-coref,s6m6.0,156617,157095,foerster,156784,156793,die Hände,die-Hände
+gdc-coref,s6m6.0,156617,157095,foerster,156795,156800,Stein,stein
+gdc-coref,s6m6.0,156617,157095,foerster,156803,156814,Herr Pastor,pastor
+gdc-coref,s6m6.0,156617,157095,foerster,156817,156823,Robert,robert
+gdc-coref,s6m6.0,156617,157095,foerster,156826,156832,Sophie,foersterin
+gdc-coref,s6m6.0,156617,157095,foerster,156835,156838,Sie,foersterin
+gdc-coref,s6m6.0,156617,157095,foerster,156855,156859,Gott,Gott
+gdc-coref,s6m6.0,156617,157095,foerster,156865,156868,sie,foersterin
+gdc-coref,s6m6.0,156617,157095,foerster,156869,156872,mir,foerster
+gdc-coref,s6m6.0,156617,157095,foerster,156900,156903,mir,foerster
+gdc-coref,s6m6.0,156617,157095,foerster,156904,156913,mein Kind,marie
+gdc-coref,s6m6.0,156617,157095,foerster,156904,156908,mein,foerster
+gdc-coref,s6m6.0,156617,157095,foerster,156940,156945,Ihren,marie
+gdc-coref,s6m6.0,156617,157095,foerster,156966,156971,ihren,marie
+gdc-coref,s6m6.0,156617,157095,foerster,156983,156986,ich,
+gdc-coref,s6m6.0,156617,157095,foerster,157013,157016,wir,marie-/-foerster
+gdc-coref,s6m6.0,156617,157095,foerster,157017,157020,uns,marie-/-foerster
+gdc-coref,s6m6.0,156617,157095,foerster,157037,157040,ich,foerster
+gdc-coref,s6m6.0,156617,157095,foerster,157077,157081,alle,stein-/-wilhelm-+-4
+gdc-coref,s6m6.0,157100,157118,stein,157107,157109,Du,foerster
+gdc-coref,s6m6.0,157131,157155,_stage,157138,157142,sich,foerster
+gdc-coref,s6m6.0,157131,157155,_stage,157146,157154,der Thür,eine-Thür
+gdc-coref,s6m6.0,157123,157295,foerster,157156,157166,Mein Recht,im-Recht
+gdc-coref,s6m6.0,157123,157295,foerster,157156,157160,Mein,foerster
+gdc-coref,s6m6.0,157123,157295,foerster,157200,157211,meinem Kind,marie
+gdc-coref,s6m6.0,157123,157295,foerster,157200,157206,meinem,foerster
+gdc-coref,s6m6.0,157123,157295,foerster,157217,157228,Kurze Pause,Kurze-Pause
+gdc-coref,s6m6.0,157123,157295,foerster,157233,157240,welcher,Kurze-Pause
+gdc-coref,s6m6.0,157123,157295,foerster,157241,157252,die übrigen,stein-/-wilhelm-+-4
+gdc-coref,s6m6.0,157123,157295,foerster,157282,157285,ihm,foerster
+gdc-coref,s6m6.0,157300,157448,stein,157382,157385,ihm,foerster
+gdc-coref,s6m6.0,157300,157448,stein,157397,157406,der Thüre,eine-Thür
+gdc-coref,s6m6.0,157300,157448,stein,157435,157438,Ich,stein
+gdc-coref,s6m6.0,157468,157504,andres,157498,157503,Vater,foerster
+gdc-coref,s6m6.0,157516,157596,_stage,157519,157535,der offenen Thür,eine-Thür
+gdc-coref,s6m6.0,157516,157596,_stage,157587,157589,er,robert
+gdc-coref,s6m6.0,157509,157615,robert,157597,157599,Er,foerster
+gdc-coref,s6m6.0,157509,157615,robert,157604,157614,sein Recht,im-Recht
+gdc-coref,s6m6.0,157509,157615,robert,157604,157608,sein,foerster
+gdc-coref,s6m6.0,157626,157643,_stage,157634,157642,der Thür,eine-Thür
+gdc-coref,s6m6.0,157620,157672,stein,157659,157663,sein,foerster
+gdc-coref,s6m6.0,157677,157744,pastor,157698,157701,Ihm,foerster
+gdc-coref,s6m6.0,157677,157744,pastor,157716,157718,er,foerster

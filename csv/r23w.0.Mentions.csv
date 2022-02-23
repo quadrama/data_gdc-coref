@@ -1,0 +1,1803 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,r23w.0,1054,1344,levi,1061,1065,Mein,levi
+gdc-coref,r23w.0,1054,1344,levi,1088,1092,mein,levi
+gdc-coref,r23w.0,1054,1344,levi,1117,1121,mich,levi
+gdc-coref,r23w.0,1350,1393,soliman,1364,1367,ich,soliman
+gdc-coref,r23w.0,1350,1393,soliman,1381,1384,mir,soliman
+gdc-coref,r23w.0,1398,2032,levi,1477,1480,ich,levi
+gdc-coref,r23w.0,1398,2032,levi,1489,1492,Ich,levi
+gdc-coref,r23w.0,1398,2032,levi,1514,1520,meiner,levi
+gdc-coref,r23w.0,1398,2032,levi,1535,1541,meiner,levi
+gdc-coref,r23w.0,1398,2032,levi,1580,1584,mein,levi
+gdc-coref,r23w.0,1398,2032,levi,1646,1649,ich,levi
+gdc-coref,r23w.0,1398,2032,levi,1699,1702,mir,levi
+gdc-coref,r23w.0,1398,2032,levi,1746,1749,ich,levi
+gdc-coref,r23w.0,1398,2032,levi,1771,1774,Ich,levi
+gdc-coref,r23w.0,1398,2032,levi,1907,1910,ich,levi
+gdc-coref,r23w.0,1398,2032,levi,1964,1967,mir,levi
+gdc-coref,r23w.0,2038,2370,soliman,2048,2051,Ich,soliman
+gdc-coref,r23w.0,2038,2370,soliman,2112,2115,mir,soliman
+gdc-coref,r23w.0,2038,2370,soliman,2140,2143,ich,soliman
+gdc-coref,r23w.0,2038,2370,soliman,2207,2213,meines,soliman
+gdc-coref,r23w.0,2038,2370,soliman,2246,2249,ich,soliman
+gdc-coref,r23w.0,2038,2370,soliman,2337,2340,ich,soliman
+gdc-coref,r23w.0,2038,2370,soliman,2350,2353,Ich,soliman
+gdc-coref,r23w.0,2376,2467,levi,2455,2460,meine,levi
+gdc-coref,r23w.0,2710,3442,levi,2717,2721,Mein,levi
+gdc-coref,r23w.0,2710,3442,levi,3146,3149,Ich,levi
+gdc-coref,r23w.0,2710,3442,levi,3277,3280,mir,levi
+gdc-coref,r23w.0,2710,3442,levi,3374,3377,ich,levi
+gdc-coref,r23w.0,3512,4220,levi,3653,3656,ich,levi
+gdc-coref,r23w.0,3512,4220,levi,3983,3987,mein,levi
+gdc-coref,r23w.0,4226,4536,soliman,4269,4272,ich,soliman
+gdc-coref,r23w.0,4226,4536,soliman,4306,4309,mir,soliman
+gdc-coref,r23w.0,4226,4536,soliman,4328,4331,ich,soliman
+gdc-coref,r23w.0,4226,4536,soliman,4348,4352,mich,soliman
+gdc-coref,r23w.0,4226,4536,soliman,4371,4375,Mein,soliman
+gdc-coref,r23w.0,4226,4536,soliman,4480,4483,ich,soliman
+gdc-coref,r23w.0,4226,4536,soliman,4503,4506,mir,soliman
+gdc-coref,r23w.0,6558,6655,mehmed,6567,6571,Mein,mehmed
+gdc-coref,r23w.0,6558,6655,mehmed,6646,6649,ich,mehmed
+gdc-coref,r23w.0,6807,6839,mehmed,6827,6831,mein,mehmed
+gdc-coref,r23w.0,6844,7687,soliman,6918,6921,ich,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7106,7109,ich,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7142,7145,mir,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7190,7193,mir,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7233,7239,meines,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7294,7297,mir,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7354,7357,ich,soliman
+gdc-coref,r23w.0,6844,7687,soliman,7361,7367,meiner,soliman
+gdc-coref,r23w.0,8551,9087,soliman,8561,8565,Mein,soliman
+gdc-coref,r23w.0,8551,9087,soliman,8747,8750,ich,soliman
+gdc-coref,r23w.0,8551,9087,soliman,8797,8800,ich,soliman
+gdc-coref,r23w.0,8551,9087,soliman,8976,8979,mir,soliman
+gdc-coref,r23w.0,8551,9087,soliman,9005,9008,ich,soliman
+gdc-coref,r23w.0,9273,9522,soliman,9291,9294,mir,soliman
+gdc-coref,r23w.0,9273,9522,soliman,9488,9491,mir,soliman
+gdc-coref,r23w.0,9729,9838,soliman,9744,9747,mir,soliman
+gdc-coref,r23w.0,9729,9838,soliman,9769,9775,meines,soliman
+gdc-coref,r23w.0,9729,9838,soliman,9806,9812,meiner,soliman
+gdc-coref,r23w.0,9729,9838,soliman,9826,9829,mir,soliman
+gdc-coref,r23w.0,9844,10083,ali,9850,9854,Mein,ali
+gdc-coref,r23w.0,10089,10783,soliman,10162,10165,mir,soliman
+gdc-coref,r23w.0,10089,10783,soliman,10298,10303,meine,soliman
+gdc-coref,r23w.0,10089,10783,soliman,10343,10346,ich,soliman
+gdc-coref,r23w.0,10089,10783,soliman,10773,10776,ich,soliman
+gdc-coref,r23w.0,10789,10872,mustafa,10799,10803,Mein,mustafa
+gdc-coref,r23w.0,11199,11342,soliman,11269,11272,ich,soliman
+gdc-coref,r23w.0,11199,11342,soliman,11325,11328,ich,soliman
+gdc-coref,r23w.0,11199,11342,soliman,11329,11334,meine,soliman
+gdc-coref,r23w.0,11566,12192,mehmed,11586,11589,ich,mehmed
+gdc-coref,r23w.0,12682,13133,mehmed,12691,12695,Mein,mehmed
+gdc-coref,r23w.0,12682,13133,mehmed,12705,12708,Mir,mehmed
+gdc-coref,r23w.0,12682,13133,mehmed,12938,12943,meine,mehmed
+gdc-coref,r23w.0,13139,13363,ali,13173,13176,ich,ali
+gdc-coref,r23w.0,13139,13363,ali,13203,13206,ich,ali
+gdc-coref,r23w.0,13139,13363,ali,13257,13260,ich,ali
+gdc-coref,r23w.0,13858,14044,der_begler_beg,13880,13883,ich,der_begler_beg
+gdc-coref,r23w.0,13858,14044,der_begler_beg,13985,13989,mein,der_begler_beg
+gdc-coref,r23w.0,14050,14140,mustafa,14104,14109,meine,mustafa
+gdc-coref,r23w.0,14575,14646,mehmed,14583,14586,Ich,mehmed
+gdc-coref,r23w.0,15105,15514,soliman,15146,15151,meine,soliman
+gdc-coref,r23w.0,15105,15514,soliman,15206,15209,Ich,soliman
+gdc-coref,r23w.0,15105,15514,soliman,15216,15219,mir,soliman
+gdc-coref,r23w.0,15105,15514,soliman,15430,15433,Ich,soliman
+gdc-coref,r23w.0,15105,15514,soliman,15478,15484,meinen,soliman
+gdc-coref,r23w.0,15549,15804,soliman,15636,15640,Mein,soliman
+gdc-coref,r23w.0,15549,15804,soliman,15700,15704,mich,soliman
+gdc-coref,r23w.0,15549,15804,soliman,15770,15773,ich,soliman
+gdc-coref,r23w.0,16053,16089,soliman,16085,16088,mir,soliman
+gdc-coref,r23w.0,16094,16682,der_bote,16134,16138,mich,der_bote
+gdc-coref,r23w.0,16688,17158,soliman,16703,16706,ich,soliman
+gdc-coref,r23w.0,16688,17158,soliman,16847,16850,ich,soliman
+gdc-coref,r23w.0,16688,17158,soliman,16879,16882,ich,soliman
+gdc-coref,r23w.0,16688,17158,soliman,16979,16982,ich,soliman
+gdc-coref,r23w.0,16688,17158,soliman,17032,17035,ich,soliman
+gdc-coref,r23w.0,17406,17746,helene,17458,17461,ich,helene
+gdc-coref,r23w.0,17406,17746,helene,17479,17482,Mir,helene
+gdc-coref,r23w.0,17752,17864,eva,17771,17775,mein,eva
+gdc-coref,r23w.0,17870,18514,helene,17943,17946,ich,helene
+gdc-coref,r23w.0,17870,18514,helene,18169,18172,mir,helene
+gdc-coref,r23w.0,17870,18514,helene,18190,18193,ich,helene
+gdc-coref,r23w.0,17870,18514,helene,18245,18248,mir,helene
+gdc-coref,r23w.0,17870,18514,helene,18278,18281,mir,helene
+gdc-coref,r23w.0,17870,18514,helene,18284,18288,Mein,helene
+gdc-coref,r23w.0,17870,18514,helene,18389,18392,ich,helene
+gdc-coref,r23w.0,18520,18682,eva,18566,18570,mich,eva
+gdc-coref,r23w.0,19138,19522,eva,19155,19158,ich,eva
+gdc-coref,r23w.0,19138,19522,eva,19203,19207,mich,eva
+gdc-coref,r23w.0,19138,19522,eva,19293,19299,meiner,eva
+gdc-coref,r23w.0,19715,19963,eva,19727,19730,ich,eva
+gdc-coref,r23w.0,19715,19963,eva,19790,19793,Ich,eva
+gdc-coref,r23w.0,19715,19963,eva,19800,19803,mir,eva
+gdc-coref,r23w.0,19715,19963,eva,19902,19905,ich,eva
+gdc-coref,r23w.0,19715,19963,eva,19906,19909,mir,eva
+gdc-coref,r23w.0,19969,20450,helene,20113,20116,Ich,helene
+gdc-coref,r23w.0,20491,20540,helene,20530,20533,mir,helene
+gdc-coref,r23w.0,20627,21211,zriny,20866,20869,ich,zriny
+gdc-coref,r23w.0,20627,21211,zriny,20913,20916,ich,zriny
+gdc-coref,r23w.0,20627,21211,zriny,20934,20940,meiner,zriny
+gdc-coref,r23w.0,21217,21325,helene,21232,21235,ich,helene
+gdc-coref,r23w.0,21217,21325,helene,21268,21271,ich,helene
+gdc-coref,r23w.0,21217,21325,helene,21288,21293,meine,helene
+gdc-coref,r23w.0,21217,21325,helene,21305,21309,mich,helene
+gdc-coref,r23w.0,21331,21421,eva,21410,21413,mir,eva
+gdc-coref,r23w.0,21508,21854,eva,21521,21524,ich,eva
+gdc-coref,r23w.0,21508,21854,eva,21545,21548,mir,eva
+gdc-coref,r23w.0,21508,21854,eva,21560,21563,Ich,eva
+gdc-coref,r23w.0,21508,21854,eva,21809,21812,Ich,eva
+gdc-coref,r23w.0,22798,23030,paprutowitsch,22814,22818,Mein,paprutowitsch
+gdc-coref,r23w.0,23058,25373,bauer,23066,23069,Ich,bauer
+gdc-coref,r23w.0,23058,25373,bauer,23154,23157,ich,bauer
+gdc-coref,r23w.0,23058,25373,bauer,23163,23169,meinen,bauer
+gdc-coref,r23w.0,23058,25373,bauer,23332,23335,Ich,bauer
+gdc-coref,r23w.0,23058,25373,bauer,23436,23439,ich,bauer
+gdc-coref,r23w.0,23058,25373,bauer,23481,23484,ich,bauer
+gdc-coref,r23w.0,23058,25373,bauer,25256,25259,ich,bauer
+gdc-coref,r23w.0,25379,25492,zriny,25417,25423,meinem,zriny
+gdc-coref,r23w.0,25379,25492,zriny,25433,25437,Mein,zriny
+gdc-coref,r23w.0,25379,25492,zriny,25463,25469,meinen,zriny
+gdc-coref,r23w.0,25496,25578,zriny,25538,25541,ich,zriny
+gdc-coref,r23w.0,25496,25578,zriny,25559,25562,Ich,zriny
+gdc-coref,r23w.0,25662,25876,zriny,25839,25842,ich,zriny
+gdc-coref,r23w.0,25882,25964,helene,25908,25911,ich,helene
+gdc-coref,r23w.0,25882,25964,helene,25929,25932,ich,helene
+gdc-coref,r23w.0,25882,25964,helene,25948,25951,ich,helene
+gdc-coref,r23w.0,26002,26129,helene,26072,26075,ich,helene
+gdc-coref,r23w.0,26222,26567,juranitsch,26258,26262,Mein,juranitsch
+gdc-coref,r23w.0,26222,26567,juranitsch,26435,26438,mir,juranitsch
+gdc-coref,r23w.0,26222,26567,juranitsch,26476,26480,Mich,juranitsch
+gdc-coref,r23w.0,26222,26567,juranitsch,26497,26500,ich,juranitsch
+gdc-coref,r23w.0,26222,26567,juranitsch,26507,26511,mich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26675,26678,ich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26735,26740,meine,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26748,26754,meinen,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26792,26795,ich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26827,26830,ich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26888,26891,ich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,26919,26922,ich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,27027,27030,mir,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,27044,27048,mich,juranitsch
+gdc-coref,r23w.0,26605,27117,juranitsch,27084,27087,ich,juranitsch
+gdc-coref,r23w.0,27123,27718,zriny,27147,27150,ich,zriny
+gdc-coref,r23w.0,27123,27718,zriny,27178,27181,Mir,zriny
+gdc-coref,r23w.0,27123,27718,zriny,27249,27252,ich,zriny
+gdc-coref,r23w.0,27724,27901,alapi,27741,27744,mir,alapi
+gdc-coref,r23w.0,27724,27901,alapi,27866,27869,mir,alapi
+gdc-coref,r23w.0,27907,27956,eva,27923,27926,ich,eva
+gdc-coref,r23w.0,27961,28155,juranitsch,28053,28057,mich,juranitsch
+gdc-coref,r23w.0,27961,28155,juranitsch,28141,28145,mich,juranitsch
+gdc-coref,r23w.0,28291,28343,helene,28326,28329,mir,helene
+gdc-coref,r23w.0,28348,28725,juranitsch,28367,28370,mir,juranitsch
+gdc-coref,r23w.0,28348,28725,juranitsch,28416,28419,ich,juranitsch
+gdc-coref,r23w.0,28348,28725,juranitsch,28439,28443,mich,juranitsch
+gdc-coref,r23w.0,28348,28725,juranitsch,28610,28613,ich,juranitsch
+gdc-coref,r23w.0,28348,28725,juranitsch,28614,28618,mich,juranitsch
+gdc-coref,r23w.0,28348,28725,juranitsch,28646,28649,Ich,juranitsch
+gdc-coref,r23w.0,28729,28767,helene,28747,28751,Mein,helene
+gdc-coref,r23w.0,29334,29689,helene,29363,29366,mir,helene
+gdc-coref,r23w.0,29334,29689,helene,29459,29462,mir,helene
+gdc-coref,r23w.0,29334,29689,helene,29573,29576,mir,helene
+gdc-coref,r23w.0,29334,29689,helene,29684,29688,mich,helene
+gdc-coref,r23w.0,31307,32124,helene,31576,31579,mir,helene
+gdc-coref,r23w.0,31307,32124,helene,31594,31597,ich,helene
+gdc-coref,r23w.0,31307,32124,helene,31625,31628,ich,helene
+gdc-coref,r23w.0,31307,32124,helene,31629,31632,mir,helene
+gdc-coref,r23w.0,31307,32124,helene,31665,31668,ich,helene
+gdc-coref,r23w.0,31307,32124,helene,31781,31784,Ich,helene
+gdc-coref,r23w.0,31307,32124,helene,31890,31893,ich,helene
+gdc-coref,r23w.0,31307,32124,helene,32112,32117,meine,helene
+gdc-coref,r23w.0,32130,33527,eva,32143,32146,mir,eva
+gdc-coref,r23w.0,32130,33527,eva,33379,33382,ich,eva
+gdc-coref,r23w.0,33533,33578,helene,33565,33570,meine,helene
+gdc-coref,r23w.0,33822,34108,zriny,33854,33857,ich,zriny
+gdc-coref,r23w.0,33822,34108,zriny,33858,33863,meine,zriny
+gdc-coref,r23w.0,33822,34108,zriny,33891,33894,ich,zriny
+gdc-coref,r23w.0,33822,34108,zriny,33975,33979,mich,zriny
+gdc-coref,r23w.0,33822,34108,zriny,34088,34092,Mein,zriny
+gdc-coref,r23w.0,34133,34301,eva,34166,34169,ich,eva
+gdc-coref,r23w.0,34307,34874,zriny,34319,34323,mich,zriny
+gdc-coref,r23w.0,34307,34874,zriny,34345,34348,mir,zriny
+gdc-coref,r23w.0,34307,34874,zriny,34350,34353,mir,zriny
+gdc-coref,r23w.0,34307,34874,zriny,34470,34473,ich,zriny
+gdc-coref,r23w.0,34307,34874,zriny,34644,34647,Ich,zriny
+gdc-coref,r23w.0,34307,34874,zriny,34708,34711,ich,zriny
+gdc-coref,r23w.0,34996,35257,eva,35056,35059,mir,eva
+gdc-coref,r23w.0,34996,35257,eva,35096,35099,Mir,eva
+gdc-coref,r23w.0,34996,35257,eva,35143,35147,mich,eva
+gdc-coref,r23w.0,35263,35935,zriny,35295,35298,ich,zriny
+gdc-coref,r23w.0,35263,35935,zriny,35332,35335,ich,zriny
+gdc-coref,r23w.0,35263,35935,zriny,35369,35373,Mein,zriny
+gdc-coref,r23w.0,35263,35935,zriny,35439,35442,ich,zriny
+gdc-coref,r23w.0,35976,36226,scherenk,35987,35991,Mein,scherenk
+gdc-coref,r23w.0,36543,37065,helene,36578,36581,ich,helene
+gdc-coref,r23w.0,36543,37065,helene,36619,36622,ich,helene
+gdc-coref,r23w.0,36543,37065,helene,36662,36666,mein,helene
+gdc-coref,r23w.0,36543,37065,helene,36752,36755,mir,helene
+gdc-coref,r23w.0,36543,37065,helene,36772,36777,meine,helene
+gdc-coref,r23w.0,36543,37065,helene,37023,37027,mich,helene
+gdc-coref,r23w.0,37563,37700,helene,37599,37603,mich,helene
+gdc-coref,r23w.0,37563,37700,helene,37605,37608,ich,helene
+gdc-coref,r23w.0,37563,37700,helene,37633,37639,meinen,helene
+gdc-coref,r23w.0,37563,37700,helene,37662,37665,Ich,helene
+gdc-coref,r23w.0,37753,38188,zriny,37920,37923,mir,zriny
+gdc-coref,r23w.0,37753,38188,zriny,37936,37941,meine,zriny
+gdc-coref,r23w.0,37753,38188,zriny,37964,37967,mir,zriny
+gdc-coref,r23w.0,37753,38188,zriny,38069,38074,meine,zriny
+gdc-coref,r23w.0,37753,38188,zriny,38094,38099,meine,zriny
+gdc-coref,r23w.0,38575,38801,juranitsch,38647,38650,ich,juranitsch
+gdc-coref,r23w.0,38575,38801,juranitsch,38656,38660,mein,juranitsch
+gdc-coref,r23w.0,38575,38801,juranitsch,38718,38721,ich,juranitsch
+gdc-coref,r23w.0,38575,38801,juranitsch,38758,38761,Ich,juranitsch
+gdc-coref,r23w.0,38575,38801,juranitsch,38767,38771,mein,juranitsch
+gdc-coref,r23w.0,38868,40340,alapi,39083,39086,ich,alapi
+gdc-coref,r23w.0,38868,40340,alapi,39126,39129,ich,alapi
+gdc-coref,r23w.0,38868,40340,alapi,39991,39994,ich,alapi
+gdc-coref,r23w.0,40406,40461,helene,40414,40418,Mein,helene
+gdc-coref,r23w.0,40406,40461,helene,40442,40446,mich,helene
+gdc-coref,r23w.0,40466,40526,juranitsch,40511,40515,mich,juranitsch
+gdc-coref,r23w.0,40531,41112,zriny,40547,40551,mein,zriny
+gdc-coref,r23w.0,40531,41112,zriny,40895,40899,mich,zriny
+gdc-coref,r23w.0,40531,41112,zriny,40940,40943,ich,zriny
+gdc-coref,r23w.0,40531,41112,zriny,40998,41001,ich,zriny
+gdc-coref,r23w.0,40531,41112,zriny,41039,41044,meine,zriny
+gdc-coref,r23w.0,40531,41112,zriny,41079,41085,meinen,zriny
+gdc-coref,r23w.0,41118,41159,juranitsch,41130,41134,Mein,juranitsch
+gdc-coref,r23w.0,41164,41226,helene,41188,41193,meine,helene
+gdc-coref,r23w.0,41164,41226,helene,41207,41210,mir,helene
+gdc-coref,r23w.0,41164,41226,helene,41215,41218,ich,helene
+gdc-coref,r23w.0,41494,42198,zriny,41825,41828,ich,zriny
+gdc-coref,r23w.0,41494,42198,zriny,42062,42066,mein,zriny
+gdc-coref,r23w.0,41494,42198,zriny,42068,42071,ich,zriny
+gdc-coref,r23w.0,42612,42669,zriny,42625,42628,mir,zriny
+gdc-coref,r23w.0,42675,42748,vilacky,42736,42740,mich,vilacky
+gdc-coref,r23w.0,42754,42916,zriny,42823,42826,Ich,zriny
+gdc-coref,r23w.0,42754,42916,zriny,42851,42854,mir,zriny
+gdc-coref,r23w.0,42989,43141,vilacky,42999,43003,Mich,vilacky
+gdc-coref,r23w.0,42989,43141,vilacky,43110,43113,ich,vilacky
+gdc-coref,r23w.0,43147,43331,zriny,43268,43272,mich,zriny
+gdc-coref,r23w.0,43337,43561,vilacky,43351,43354,ich,vilacky
+gdc-coref,r23w.0,43337,43561,vilacky,43363,43367,mein,vilacky
+gdc-coref,r23w.0,43567,43811,zriny,43575,43578,Ich,zriny
+gdc-coref,r23w.0,43567,43811,zriny,43595,43599,mein,zriny
+gdc-coref,r23w.0,43567,43811,zriny,43671,43674,mir,zriny
+gdc-coref,r23w.0,43567,43811,zriny,43691,43697,meines,zriny
+gdc-coref,r23w.0,43567,43811,zriny,43750,43753,ich,zriny
+gdc-coref,r23w.0,43567,43811,zriny,43754,43757,mir,zriny
+gdc-coref,r23w.0,43567,43811,zriny,43790,43793,ich,zriny
+gdc-coref,r23w.0,43817,45410,vilacky,45282,45285,ich,vilacky
+gdc-coref,r23w.0,45416,45466,zriny,45436,45442,meinem,zriny
+gdc-coref,r23w.0,45471,45661,vilacky,45548,45551,mir,vilacky
+gdc-coref,r23w.0,45471,45661,vilacky,45653,45656,ich,vilacky
+gdc-coref,r23w.0,45747,46049,vilacky,45800,45803,ich,vilacky
+gdc-coref,r23w.0,45747,46049,vilacky,45833,45836,Ich,vilacky
+gdc-coref,r23w.0,45747,46049,vilacky,45895,45898,mir,vilacky
+gdc-coref,r23w.0,46055,46369,zriny,46073,46077,mich,zriny
+gdc-coref,r23w.0,46055,46369,zriny,46197,46201,Mein,zriny
+gdc-coref,r23w.0,46055,46369,zriny,46252,46255,ich,zriny
+gdc-coref,r23w.0,46375,46430,vilacky,46418,46422,mich,vilacky
+gdc-coref,r23w.0,46435,46685,zriny,46465,46468,ich,zriny
+gdc-coref,r23w.0,46435,46685,zriny,46469,46475,meines,zriny
+gdc-coref,r23w.0,46435,46685,zriny,46655,46658,Ich,zriny
+gdc-coref,r23w.0,46691,46726,paprutowitsch,46712,46715,ich,paprutowitsch
+gdc-coref,r23w.0,47160,47315,juranitsch,47176,47179,ich,juranitsch
+gdc-coref,r23w.0,47160,47315,juranitsch,47227,47230,Ich,juranitsch
+gdc-coref,r23w.0,47160,47315,juranitsch,47237,47241,mich,juranitsch
+gdc-coref,r23w.0,47160,47315,juranitsch,47278,47281,ich,juranitsch
+gdc-coref,r23w.0,47160,47315,juranitsch,47292,47295,ich,juranitsch
+gdc-coref,r23w.0,47321,47499,helene,47417,47422,meine,helene
+gdc-coref,r23w.0,47505,47555,eva,47510,47514,Mein,eva
+gdc-coref,r23w.0,47560,47622,alapi,47567,47570,Mir,alapi
+gdc-coref,r23w.0,47763,49231,zriny,47808,47811,Ich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,47817,47821,mich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48094,48098,mich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48103,48107,mein,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48200,48204,mich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48219,48222,Ich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48337,48340,ich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48341,48347,meiner,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48364,48368,mein,zriny
+gdc-coref,r23w.0,47763,49231,zriny,48757,48760,ich,zriny
+gdc-coref,r23w.0,47763,49231,zriny,49084,49089,meine,zriny
+gdc-coref,r23w.0,47763,49231,zriny,49098,49102,Mein,zriny
+gdc-coref,r23w.0,47763,49231,zriny,49144,49148,Mein,zriny
+gdc-coref,r23w.0,49796,50054,zriny,49826,49832,meines,zriny
+gdc-coref,r23w.0,49796,50054,zriny,49927,49930,mir,zriny
+gdc-coref,r23w.0,49796,50054,zriny,49952,49955,ich,zriny
+gdc-coref,r23w.0,50058,50267,vilacky,50209,50213,mich,vilacky
+gdc-coref,r23w.0,50274,50302,alapi,50293,50296,ich,alapi
+gdc-coref,r23w.0,50307,50558,eva,50336,50340,mich,eva
+gdc-coref,r23w.0,50307,50558,eva,50399,50402,mir,eva
+gdc-coref,r23w.0,50307,50558,eva,50425,50428,ich,eva
+gdc-coref,r23w.0,50307,50558,eva,50484,50488,mich,eva
+gdc-coref,r23w.0,50307,50558,eva,50545,50549,mich,eva
+gdc-coref,r23w.0,51023,51059,eva,51032,51035,ich,eva
+gdc-coref,r23w.0,51087,51135,eva,51102,51106,mein,eva
+gdc-coref,r23w.0,51140,51239,zriny,51188,51192,mein,zriny
+gdc-coref,r23w.0,51140,51239,zriny,51195,51198,Ich,zriny
+gdc-coref,r23w.0,51140,51239,zriny,51206,51210,mich,zriny
+gdc-coref,r23w.0,51140,51239,zriny,51222,51225,ich,zriny
+gdc-coref,r23w.0,51342,51456,zriny,51380,51383,mir,zriny
+gdc-coref,r23w.0,51342,51456,zriny,51410,51414,mich,zriny
+gdc-coref,r23w.0,51497,51680,juranitsch,51547,51550,ich,juranitsch
+gdc-coref,r23w.0,51497,51680,juranitsch,51571,51577,meinem,juranitsch
+gdc-coref,r23w.0,51497,51680,juranitsch,51614,51617,ich,juranitsch
+gdc-coref,r23w.0,51497,51680,juranitsch,51629,51632,ich,juranitsch
+gdc-coref,r23w.0,51497,51680,juranitsch,51633,51637,mich,juranitsch
+gdc-coref,r23w.0,51497,51680,juranitsch,51656,51661,meine,juranitsch
+gdc-coref,r23w.0,51830,52191,juranitsch,51857,51862,meine,juranitsch
+gdc-coref,r23w.0,52197,52732,helene,52216,52219,ich,helene
+gdc-coref,r23w.0,52197,52732,helene,52311,52315,mich,helene
+gdc-coref,r23w.0,52197,52732,helene,52416,52419,mir,helene
+gdc-coref,r23w.0,52197,52732,helene,52456,52459,ich,helene
+gdc-coref,r23w.0,52738,53376,juranitsch,52758,52762,mich,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,52779,52782,ich,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,52812,52815,ich,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,52829,52832,mir,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,52854,52857,ich,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,52858,52861,mir,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,52867,52873,meinen,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,53228,53232,mein,juranitsch
+gdc-coref,r23w.0,52738,53376,juranitsch,53295,53298,ich,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53447,53450,ich,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53472,53475,ich,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53524,53528,mein,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53553,53556,ich,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53567,53570,ich,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53599,53602,ich,juranitsch
+gdc-coref,r23w.0,53412,53636,juranitsch,53625,53629,mein,juranitsch
+gdc-coref,r23w.0,53878,54455,juranitsch,53925,53928,ich,juranitsch
+gdc-coref,r23w.0,53878,54455,juranitsch,54061,54064,Ich,juranitsch
+gdc-coref,r23w.0,53878,54455,juranitsch,54118,54124,meiner,juranitsch
+gdc-coref,r23w.0,53878,54455,juranitsch,54284,54287,ich,juranitsch
+gdc-coref,r23w.0,54461,55050,helene,54477,54481,mich,helene
+gdc-coref,r23w.0,54461,55050,helene,54530,54534,Mich,helene
+gdc-coref,r23w.0,54461,55050,helene,54558,54562,Mich,helene
+gdc-coref,r23w.0,54461,55050,helene,54610,54613,ich,helene
+gdc-coref,r23w.0,54461,55050,helene,54755,54761,meinem,helene
+gdc-coref,r23w.0,54461,55050,helene,54853,54856,ich,helene
+gdc-coref,r23w.0,54461,55050,helene,54898,54904,meiner,helene
+gdc-coref,r23w.0,54461,55050,helene,54935,54939,mich,helene
+gdc-coref,r23w.0,54461,55050,helene,54973,54976,ich,helene
+gdc-coref,r23w.0,54461,55050,helene,55016,55019,ich,helene
+gdc-coref,r23w.0,54461,55050,helene,55032,55035,ich,helene
+gdc-coref,r23w.0,54461,55050,helene,55041,55044,ich,helene
+gdc-coref,r23w.0,55056,55087,juranitsch,55070,55075,meine,juranitsch
+gdc-coref,r23w.0,55092,55167,helene,55100,55104,Mein,helene
+gdc-coref,r23w.0,55092,55167,helene,55138,55141,ich,helene
+gdc-coref,r23w.0,55172,55351,juranitsch,55211,55214,ich,juranitsch
+gdc-coref,r23w.0,55172,55351,juranitsch,55270,55274,mich,juranitsch
+gdc-coref,r23w.0,55172,55351,juranitsch,55277,55280,Ich,juranitsch
+gdc-coref,r23w.0,55172,55351,juranitsch,55303,55307,mein,juranitsch
+gdc-coref,r23w.0,55357,55430,helene,55393,55397,mich,helene
+gdc-coref,r23w.0,55357,55430,helene,55403,55409,meinen,helene
+gdc-coref,r23w.0,55436,55553,juranitsch,55453,55456,ich,juranitsch
+gdc-coref,r23w.0,55436,55553,juranitsch,55473,55477,mich,juranitsch
+gdc-coref,r23w.0,55436,55553,juranitsch,55534,55538,mein,juranitsch
+gdc-coref,r23w.0,56381,56597,alapi,56406,56409,ich,alapi
+gdc-coref,r23w.0,56381,56597,alapi,56427,56430,Ich,alapi
+gdc-coref,r23w.0,56381,56597,alapi,56522,56525,mir,alapi
+gdc-coref,r23w.0,56381,56597,alapi,56557,56560,Ich,alapi
+gdc-coref,r23w.0,56381,56597,alapi,56582,56585,ich,alapi
+gdc-coref,r23w.0,56603,56848,juranitsch,56708,56711,mir,juranitsch
+gdc-coref,r23w.0,57058,57463,vilacky,57068,57071,Mir,vilacky
+gdc-coref,r23w.0,57499,57590,paprutowitsch,57553,57556,ich,paprutowitsch
+gdc-coref,r23w.0,57499,57590,paprutowitsch,57574,57577,ich,paprutowitsch
+gdc-coref,r23w.0,57749,57859,zriny,57757,57760,Ich,zriny
+gdc-coref,r23w.0,57749,57859,zriny,57773,57778,meine,zriny
+gdc-coref,r23w.0,57749,57859,zriny,57847,57850,ich,zriny
+gdc-coref,r23w.0,57865,57908,paprutowitsch,57892,57896,mein,paprutowitsch
+gdc-coref,r23w.0,57913,61112,zriny,58699,58702,Ich,zriny
+gdc-coref,r23w.0,57913,61112,zriny,58728,58734,meiner,zriny
+gdc-coref,r23w.0,57913,61112,zriny,59059,59062,mir,zriny
+gdc-coref,r23w.0,57913,61112,zriny,59110,59113,ich,zriny
+gdc-coref,r23w.0,57913,61112,zriny,59149,59153,mein,zriny
+gdc-coref,r23w.0,57913,61112,zriny,59218,59221,mir,zriny
+gdc-coref,r23w.0,57913,61112,zriny,59256,59262,meines,zriny
+gdc-coref,r23w.0,57913,61112,zriny,59966,59972,meines,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60546,60549,ich,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60635,60638,mir,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60664,60670,meinen,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60732,60735,Ich,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60847,60851,mich,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60856,60862,meines,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60901,60904,ich,zriny
+gdc-coref,r23w.0,57913,61112,zriny,60958,60964,meinen,zriny
+gdc-coref,r23w.0,57913,61112,zriny,61002,61005,mir,zriny
+gdc-coref,r23w.0,57913,61112,zriny,61014,61018,mein,zriny
+gdc-coref,r23w.0,61646,61680,_stage,61646,61668,Im Zelte des Großherrn,Im-Zelte-des-Großherrn
+gdc-coref,r23w.0,61646,61680,_stage,61655,61668,des Großherrn,soliman
+gdc-coref,r23w.0,61646,61680,_stage,61673,61679,Sigeth,Sigeth
+gdc-coref,r23w.0,61696,61716,_stage,61696,61703,Mustafa,mustafa
+gdc-coref,r23w.0,61696,61716,_stage,61705,61715,Ali Portuk,ali
+gdc-coref,r23w.0,61718,61873,ali,61729,61732,ich,ali
+gdc-coref,r23w.0,61718,61873,ali,61756,61766,Beim Allah,Beim-Allah
+gdc-coref,r23w.0,61718,61873,ali,61769,61772,Wir,ali-/-mustafa
+gdc-coref,r23w.0,61718,61873,ali,61781,61793,diese Ungarn,diese-Ungarn
+gdc-coref,r23w.0,61718,61873,ali,61815,61821,Zrinys,zriny
+gdc-coref,r23w.0,61718,61873,ali,61826,61842,die kleine Schar,diese-Ungarn
+gdc-coref,r23w.0,61718,61873,ali,61856,61859,Ich,ali
+gdc-coref,r23w.0,61718,61873,ali,61866,61869,ihn,zriny
+gdc-coref,r23w.0,61879,62263,mustafa,61898,61911,dem Großherrn,soliman
+gdc-coref,r23w.0,61879,62263,mustafa,61920,61933,Der alte Löwe,soliman
+gdc-coref,r23w.0,61879,62263,mustafa,61964,61978,Der Begler Beg,der_begler_beg
+gdc-coref,r23w.0,61879,62263,mustafa,61983,61994,seinen Zorn,seinen-Zorn
+gdc-coref,r23w.0,61879,62263,mustafa,61983,61989,seinen,soliman
+gdc-coref,r23w.0,61879,62263,mustafa,62009,62025,diese Abenteurer,diese-Ungarn
+gdc-coref,r23w.0,61879,62263,mustafa,62035,62038,sie,diese-Ungarn
+gdc-coref,r23w.0,61879,62263,mustafa,62056,62059,wir,ali-/-mustafa
+gdc-coref,r23w.0,61879,62263,mustafa,62060,62063,sie,diese-Ungarn
+gdc-coref,r23w.0,61879,62263,mustafa,62064,62073,zum Kampf,zum-Kampf
+gdc-coref,r23w.0,61879,62263,mustafa,62104,62107,sie,diese-Ungarn
+gdc-coref,r23w.0,61879,62263,mustafa,62112,62124,ihren Thoren,ihren-Thoren
+gdc-coref,r23w.0,61879,62263,mustafa,62112,62117,ihren,diese-Ungarn
+gdc-coref,r23w.0,61879,62263,mustafa,62138,62141,uns,ali-/-mustafa
+gdc-coref,r23w.0,61879,62263,mustafa,62152,62164,Feldschlacht,Feldschlacht
+gdc-coref,r23w.0,61879,62263,mustafa,62171,62187,Der kleine Haufe,diese-Ungarn
+gdc-coref,r23w.0,61879,62263,mustafa,62193,62211,zweitausend Türken,zweitausend-Türken
+gdc-coref,r23w.0,61879,62263,mustafa,62222,62225,wir,ali-/-mustafa
+gdc-coref,r23w.0,62269,62614,ali,62280,62283,ich,ali
+gdc-coref,r23w.0,62269,62614,ali,62300,62303,Wir,ali-/-mustafa
+gdc-coref,r23w.0,62269,62614,ali,62332,62346,der Hauptstadt,der-Hauptstadt
+gdc-coref,r23w.0,62269,62614,ali,62402,62416,Der Kaiser Max,meinem-großen-Kaiser
+gdc-coref,r23w.0,62269,62614,ali,62447,62453,Europa,Europa
+gdc-coref,r23w.0,62269,62614,ali,62454,62470,seine Ritterzüge,seine-Ritterzüge
+gdc-coref,r23w.0,62269,62614,ali,62454,62459,seine,meinem-großen-Kaiser
+gdc-coref,r23w.0,62269,62614,ali,62482,62485,wir,ali-/-mustafa
+gdc-coref,r23w.0,62269,62614,ali,62491,62494,uns,ali-/-mustafa
+gdc-coref,r23w.0,62269,62614,ali,62546,62567,diese frischen Feinde,diese-Ungarn
+gdc-coref,r23w.0,62269,62614,ali,62571,62572,s,s
+gdc-coref,r23w.0,62269,62614,ali,62591,62592,s,s
+gdc-coref,r23w.0,62620,62655,mustafa,62629,62635,Freund,ali
+gdc-coref,r23w.0,62620,62655,mustafa,62637,62643,Freund,ali
+gdc-coref,r23w.0,62620,62655,mustafa,62645,62654,dein Kopf,dein-Kopf
+gdc-coref,r23w.0,62620,62655,mustafa,62645,62649,dein,ali
+gdc-coref,r23w.0,62660,62904,ali,62672,62678,deiner,mustafa
+gdc-coref,r23w.0,62660,62904,ali,62698,62700,du,mustafa
+gdc-coref,r23w.0,62660,62904,ali,62758,62769,unser Sturm,unser-Sturm
+gdc-coref,r23w.0,62660,62904,ali,62758,62763,unser,ali-/-mustafa
+gdc-coref,r23w.0,62660,62904,ali,62794,62797,wir,ali-/-mustafa
+gdc-coref,r23w.0,62660,62904,ali,62802,62806,sein,unser-Sturm
+gdc-coref,r23w.0,62660,62904,ali,62828,62830,er,unser-Sturm
+gdc-coref,r23w.0,62660,62904,ali,62843,62849,seiner,unser-Sturm
+gdc-coref,r23w.0,62926,62941,_stage,62926,62932,Vorige,ali-/-mustafa
+gdc-coref,r23w.0,62926,62941,_stage,62934,62940,Mehmed,mehmed
+gdc-coref,r23w.0,62943,63265,mehmed,62972,62975,Man,Man
+gdc-coref,r23w.0,62943,63265,mehmed,62981,62990,vom Sturm,unser-Sturm
+gdc-coref,r23w.0,62943,63265,mehmed,63025,63028,ihr,ihr
+gdc-coref,r23w.0,62943,63265,mehmed,63118,63121,ihr,ihr
+gdc-coref,r23w.0,62943,63265,mehmed,63129,63132,man,Man
+gdc-coref,r23w.0,62943,63265,mehmed,63138,63149,zum Rückzug,zum-Rückzug
+gdc-coref,r23w.0,63160,63167,_stage,63163,63166,Ali,ali
+gdc-coref,r23w.0,62943,63265,mehmed,63181,63184,Ihr,ali
+gdc-coref,r23w.0,62943,63265,mehmed,63190,63193,uns,mehmed
+gdc-coref,r23w.0,62943,63265,mehmed,63194,63203,Schlimmes,Schlimmes
+gdc-coref,r23w.0,62943,63265,mehmed,63221,63231,Schlimmres,Schlimmes
+gdc-coref,r23w.0,62943,63265,mehmed,63242,63246,Gott,Gott
+gdc-coref,r23w.0,63271,63451,ali,63277,63289,Sokolowitsch,mehmed
+gdc-coref,r23w.0,63271,63451,ali,63308,63311,ich,ali
+gdc-coref,r23w.0,63271,63451,ali,63326,63333,Soliman,soliman
+gdc-coref,r23w.0,63271,63451,ali,63393,63406,dem Propheten,dem-Propheten
+gdc-coref,r23w.0,63271,63451,ali,63429,63432,uns,ali-/-mustafa
+gdc-coref,r23w.0,63271,63451,ali,63433,63450,der heut'ge Sturm,unser-Sturm
+gdc-coref,r23w.0,63457,63692,mehmed,63483,63503,unsern besten Leuten,unsern-besten-Leuten
+gdc-coref,r23w.0,63457,63692,mehmed,63483,63489,unsern,ali-/-mustafa
+gdc-coref,r23w.0,63457,63692,mehmed,63510,63513,Ihr,ali
+gdc-coref,r23w.0,63457,63692,mehmed,63524,63533,Der Zriny,zriny
+gdc-coref,r23w.0,63457,63692,mehmed,63589,63599,die Mauern,die-Mauern
+gdc-coref,r23w.0,63457,63692,mehmed,63629,63645,dem steilen Wall,dem-steilen-Wall
+gdc-coref,r23w.0,63457,63692,mehmed,63682,63685,sie,unsern-besten-Leuten
+gdc-coref,r23w.0,63698,63745,mustafa,63707,63723,Die Janitscharen,Die-Janitscharen
+gdc-coref,r23w.0,63750,64037,ali,63786,63799,"solches Volk,",unsern-besten-Leuten
+gdc-coref,r23w.0,63750,64037,ali,63825,63829,sich,unsern-besten-Leuten
+gdc-coref,r23w.0,63750,64037,ali,63834,63838,Gott,Gott
+gdc-coref,r23w.0,63750,64037,ali,63844,63850,seinen,unsern-besten-Leuten
+gdc-coref,r23w.0,63750,64037,ali,63882,63890,Zum Tode,Zum-Tode
+gdc-coref,r23w.0,63750,64037,ali,63926,63929,mir,ali
+gdc-coref,r23w.0,63750,64037,ali,63931,63934,ich,ali
+gdc-coref,r23w.0,63750,64037,ali,63941,63944,sie,unsern-besten-Leuten
+gdc-coref,r23w.0,63750,64037,ali,63978,63984,Rhodus,Rhodus
+gdc-coref,r23w.0,63750,64037,ali,64006,64011,Malta,Malta
+gdc-coref,r23w.0,63750,64037,ali,64012,64018,unsern,ali-/-mustafa
+gdc-coref,r23w.0,64043,64087,mehmed,64056,64059,ihr,mustafa
+gdc-coref,r23w.0,64043,64087,mehmed,64060,64073,den Großherrn,soliman
+gdc-coref,r23w.0,64092,64187,mustafa,64102,64105,Wir,ali-/-mustafa
+gdc-coref,r23w.0,64092,64187,mustafa,64119,64125,seinem,soliman
+gdc-coref,r23w.0,64092,64187,mustafa,64137,64144,im Zelt,Im-Zelte-des-Großherrn
+gdc-coref,r23w.0,64092,64187,mustafa,64169,64172,wir,ali-/-mustafa
+gdc-coref,r23w.0,64193,64391,mehmed,64209,64213,Mich,mehmed
+gdc-coref,r23w.0,64193,64391,mehmed,64222,64225,Ich,mehmed
+gdc-coref,r23w.0,64193,64391,mehmed,64231,64234,ihn,soliman
+gdc-coref,r23w.0,64193,64391,mehmed,64247,64257,der Himmel,der-Himmel
+gdc-coref,r23w.0,64193,64391,mehmed,64258,64261,ihm,soliman
+gdc-coref,r23w.0,64193,64391,mehmed,64283,64288,meine,mehmed
+gdc-coref,r23w.0,64193,64391,mehmed,64354,64377,Dem sieggewohnten Löwen,soliman
+gdc-coref,r23w.0,64397,64411,ali,64402,64404,Er,soliman
+gdc-coref,r23w.0,64416,64510,mehmed,64431,64434,mir,mehmed
+gdc-coref,r23w.0,64416,64510,mehmed,64439,64444,Eurer,ali
+gdc-coref,r23w.0,64416,64510,mehmed,64453,64456,Ali,ali
+gdc-coref,r23w.0,64416,64510,mehmed,64461,64463,Er,soliman
+gdc-coref,r23w.0,64416,64510,mehmed,64470,64474,Euch,ali
+gdc-coref,r23w.0,64416,64510,mehmed,64488,64493,meine,mehmed
+gdc-coref,r23w.0,64532,64548,_stage,64532,64538,Vorige,mehmed-/-ali-+-1
+gdc-coref,r23w.0,64532,64548,_stage,64540,64547,Soliman,soliman
+gdc-coref,r23w.0,64550,64578,soliman,64572,64577,Wesir,mehmed
+gdc-coref,r23w.0,64583,64618,mehmed,64591,64600,Der Sturm,unser-Sturm
+gdc-coref,r23w.0,64623,64680,soliman,64636,64640,euch,mehmed
+gdc-coref,r23w.0,64623,64680,soliman,64641,64649,die Pest,die-Pest
+gdc-coref,r23w.0,64623,64680,soliman,64668,64679,zum Rückzug,zum-Rückzug
+gdc-coref,r23w.0,64685,65036,mehmed,64698,64701,ich,mehmed
+gdc-coref,r23w.0,64685,65036,mehmed,64715,64731,die Janitscharen,Die-Janitscharen
+gdc-coref,r23w.0,64685,65036,mehmed,64777,64780,ich,mehmed
+gdc-coref,r23w.0,64685,65036,mehmed,64781,64792,zum Rückzug,zum-Rückzug
+gdc-coref,r23w.0,64685,65036,mehmed,64801,64813,deine Völker,deine-Völker
+gdc-coref,r23w.0,64685,65036,mehmed,64801,64806,deine,soliman
+gdc-coref,r23w.0,64685,65036,mehmed,64861,64870,Die Wälle,Die-Wälle
+gdc-coref,r23w.0,64685,65036,mehmed,64878,64884,unsern,ali-/-mustafa
+gdc-coref,r23w.0,64685,65036,mehmed,64933,64936,sie,Die-Wälle
+gdc-coref,r23w.0,64685,65036,mehmed,64956,64961,ihren,Die-Wälle
+gdc-coref,r23w.0,64685,65036,mehmed,64978,64987,dein Heer,dein-Heer
+gdc-coref,r23w.0,64685,65036,mehmed,64978,64982,dein,soliman
+gdc-coref,r23w.0,64685,65036,mehmed,65001,65016,den halben Mond,den-halben-Mond
+gdc-coref,r23w.0,64685,65036,mehmed,65021,65035,Sigeths Zinnen,Sigeths-Zinnen
+gdc-coref,r23w.0,64685,65036,mehmed,65021,65028,Sigeths,Sigeth
+gdc-coref,r23w.0,65042,65492,soliman,65056,65062,Sigeth,Sigeth
+gdc-coref,r23w.0,65042,65492,soliman,65084,65087,ich,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65095,65098,Mir,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65109,65123,der Augenblick,der-Augenblick
+gdc-coref,r23w.0,65042,65492,soliman,65136,65139,ich,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65161,65164,ihn,der-Augenblick
+gdc-coref,r23w.0,65042,65492,soliman,65223,65226,Ich,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65268,65271,ich,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65277,65283,meinen,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65307,65309,Du,mehmed
+gdc-coref,r23w.0,65042,65492,soliman,65317,65321,mich,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65323,65329,Mehmed,mehmed
+gdc-coref,r23w.0,65042,65492,soliman,65339,65345,meinen,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65358,65363,deine,mehmed
+gdc-coref,r23w.0,65042,65492,soliman,65379,65382,ich,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65383,65396,meinen Willen,meinen-Willen
+gdc-coref,r23w.0,65042,65492,soliman,65383,65389,meinen,soliman
+gdc-coref,r23w.0,65042,65492,soliman,65405,65407,er,meinen-Willen
+gdc-coref,r23w.0,65042,65492,soliman,65422,65427,deine,mehmed
+gdc-coref,r23w.0,65042,65492,soliman,65450,65454,dich,mehmed
+gdc-coref,r23w.0,65042,65492,soliman,65464,65466,er,meinen-Willen
+gdc-coref,r23w.0,65042,65492,soliman,65472,65476,dich,mehmed
+gdc-coref,r23w.0,65498,65595,mehmed,65512,65515,ich,mehmed
+gdc-coref,r23w.0,65498,65595,mehmed,65525,65552,mein großer Herr und Kaiser,soliman
+gdc-coref,r23w.0,65498,65595,mehmed,65525,65529,mein,mehmed
+gdc-coref,r23w.0,65601,65857,soliman,65611,65621,Der Sklave,Der-Sklave
+gdc-coref,r23w.0,65601,65857,soliman,65654,65660,seines,Der-Sklave
+gdc-coref,r23w.0,65601,65857,soliman,65684,65687,dir,mehmed
+gdc-coref,r23w.0,65601,65857,soliman,65710,65712,du,mehmed
+gdc-coref,r23w.0,65601,65857,soliman,65723,65725,du,mehmed
+gdc-coref,r23w.0,65601,65857,soliman,65740,65745,Sturm,Sturm
+gdc-coref,r23w.0,65601,65857,soliman,65747,65750,Ich,soliman
+gdc-coref,r23w.0,65601,65857,soliman,65756,65761,Sturm,Sturm
+gdc-coref,r23w.0,65601,65857,soliman,65768,65771,sie,sie
+gdc-coref,r23w.0,65601,65857,soliman,65796,65799,sie,sie
+gdc-coref,r23w.0,65601,65857,soliman,65814,65823,der Mauer,der-Mauer
+gdc-coref,r23w.0,65601,65857,soliman,65835,65840,Sturm,Sturm
+gdc-coref,r23w.0,65601,65857,soliman,65842,65845,Ich,soliman
+gdc-coref,r23w.0,65601,65857,soliman,65851,65856,Sturm,Sturm
+gdc-coref,r23w.0,65863,65978,ali,65869,65896,Mein großer Herr und Kaiser,soliman
+gdc-coref,r23w.0,65863,65978,ali,65869,65873,Mein,ali
+gdc-coref,r23w.0,65863,65978,ali,65951,65957,deiner,soliman
+gdc-coref,r23w.0,66009,66375,ali,66039,66042,Ich,ali
+gdc-coref,r23w.0,66009,66375,ali,66054,66065,diese Nacht,diese-Nacht
+gdc-coref,r23w.0,66009,66375,ali,66085,66089,Burg,der-Feste
+gdc-coref,r23w.0,66009,66375,ali,66094,66099,Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,66009,66375,ali,66111,66114,Sie,Sie
+gdc-coref,r23w.0,66009,66375,ali,66122,66126,sich,Sie
+gdc-coref,r23w.0,66009,66375,ali,66150,66153,mir,ali
+gdc-coref,r23w.0,66009,66375,ali,66160,66179,den gefangnen Ungar,vilacky
+gdc-coref,r23w.0,66009,66375,ali,66184,66188,dich,soliman
+gdc-coref,r23w.0,66009,66375,ali,66198,66200,Er,vilacky
+gdc-coref,r23w.0,66009,66375,ali,66224,66230,Sigeth,Sigeth
+gdc-coref,r23w.0,66009,66375,ali,66245,66265,dem erschöpften Heer,dein-Heer
+gdc-coref,r23w.0,66009,66375,ali,66329,66344,solch ein Kampf,zum-Kampf
+gdc-coref,r23w.0,66009,66375,ali,66346,66354,der Sieg,der-Sieg
+gdc-coref,r23w.0,66009,66375,ali,66364,66368,sich,der-Sieg
+gdc-coref,r23w.0,66381,66435,soliman,66390,66393,Ich,soliman
+gdc-coref,r23w.0,66381,66435,soliman,66404,66407,ihn,der-Sieg
+gdc-coref,r23w.0,66381,66435,soliman,66423,66426,ihn,der-Sieg
+gdc-coref,r23w.0,66440,66460,ali,66454,66459,Malta,Malta
+gdc-coref,r23w.0,66465,66616,soliman,66475,66478,Tod,Zum-Tode
+gdc-coref,r23w.0,66465,66616,soliman,66483,66488,Hölle,Hölle
+gdc-coref,r23w.0,66465,66616,soliman,66490,66493,Ali,ali
+gdc-coref,r23w.0,66465,66616,soliman,66504,66508,mich,soliman
+gdc-coref,r23w.0,66465,66616,soliman,66527,66536,dein Kopf,dein-Kopf
+gdc-coref,r23w.0,66465,66616,soliman,66527,66531,dein,ali
+gdc-coref,r23w.0,66465,66616,soliman,66538,66541,Dir,ali
+gdc-coref,r23w.0,66465,66616,soliman,66552,66555,Ich,soliman
+gdc-coref,r23w.0,66465,66616,soliman,66571,66574,dir,ali
+gdc-coref,r23w.0,66622,66665,ali,66627,66631,Mein,ali
+gdc-coref,r23w.0,66622,66665,ali,66647,66653,deiner,soliman
+gdc-coref,r23w.0,66670,66936,soliman,66685,66687,du,ali
+gdc-coref,r23w.0,66670,66936,soliman,66763,66766,ich,soliman
+gdc-coref,r23w.0,66670,66936,soliman,66781,66793,Die Wahrheit,Die-Wahrheit
+gdc-coref,r23w.0,66670,66936,soliman,66800,66803,ich,soliman
+gdc-coref,r23w.0,66670,66936,soliman,66805,66808,die,Die-Wahrheit
+gdc-coref,r23w.0,66670,66936,soliman,66809,66816,den Tod,Zum-Tode
+gdc-coref,r23w.0,66670,66936,soliman,66844,66850,meiner,soliman
+gdc-coref,r23w.0,66670,66936,soliman,66879,66882,ich,soliman
+gdc-coref,r23w.0,66670,66936,soliman,66883,66889,deinen,ali
+gdc-coref,r23w.0,66670,66936,soliman,66922,66925,mir,soliman
+gdc-coref,r23w.0,66670,66936,soliman,66926,66935,den Ungar,vilacky
+gdc-coref,r23w.0,66942,66991,ali,66948,66952,Herr,soliman
+gdc-coref,r23w.0,66942,66991,ali,66964,66967,Ich,ali
+gdc-coref,r23w.0,66942,66991,ali,66974,66977,Ihn,vilacky
+gdc-coref,r23w.0,66997,67379,mustafa,67014,67034,"ein wackrer Krieger,",vilacky
+gdc-coref,r23w.0,66997,67379,mustafa,67040,67043,wir,ali-/-mustafa
+gdc-coref,r23w.0,66997,67379,mustafa,67114,67117,ihm,vilacky
+gdc-coref,r23w.0,66997,67379,mustafa,67119,67136,Das Heldenantlitz,Das-Heldenantlitz
+gdc-coref,r23w.0,66997,67379,mustafa,67164,67166,er,vilacky
+gdc-coref,r23w.0,66997,67379,mustafa,67255,67257,er,vilacky
+gdc-coref,r23w.0,66997,67379,mustafa,67333,67354,Die Kraft der Muskeln,Die-Kraft-der-Muskeln
+gdc-coref,r23w.0,66997,67379,mustafa,67362,67366,sich,Die-Kraft-der-Muskeln
+gdc-coref,r23w.0,67401,67493,_stage,67401,67407,Vorige,soliman-/-ali-+-2
+gdc-coref,r23w.0,67401,67493,_stage,67409,67416,Vilacky,vilacky
+gdc-coref,r23w.0,67401,67493,_stage,67458,67478,einem türkischen Aga,aga
+gdc-coref,r23w.0,67495,67622,soliman,67505,67525,Ein männlich Antlitz,Das-Heldenantlitz
+gdc-coref,r23w.0,67495,67622,soliman,67552,67555,Ich,soliman
+gdc-coref,r23w.0,67495,67622,soliman,67561,67573,meine Feinde,vilacky
+gdc-coref,r23w.0,67495,67622,soliman,67561,67566,meine,soliman
+gdc-coref,r23w.0,67495,67622,soliman,67601,67613,"du, Jüngling",vilacky
+gdc-coref,r23w.0,67628,67707,vilacky,67674,67677,ich,vilacky
+gdc-coref,r23w.0,67628,67707,vilacky,67694,67700,deinem,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67730,67732,du,vilacky
+gdc-coref,r23w.0,67713,67936,soliman,67733,67736,dir,vilacky
+gdc-coref,r23w.0,67713,67936,soliman,67742,67745,ich,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67752,67756,mich,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67790,67805,Stolzer Träumer,vilacky
+gdc-coref,r23w.0,67713,67936,soliman,67808,67811,Ich,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67834,67840,meiner,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67849,67853,Mein,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67903,67906,mir,soliman
+gdc-coref,r23w.0,67713,67936,soliman,67923,67935,eurem Sigeth,Sigeth
+gdc-coref,r23w.0,67713,67936,soliman,67923,67928,eurem,vilacky
+gdc-coref,r23w.0,67942,68001,vilacky,67960,67962,es,Sigeth
+gdc-coref,r23w.0,67942,68001,vilacky,67979,67982,ihr,soliman
+gdc-coref,r23w.0,68006,68061,mehmed,68014,68030,Verwegner Sklave,vilacky
+gdc-coref,r23w.0,68006,68061,mehmed,68041,68043,du,vilacky
+gdc-coref,r23w.0,68006,68061,mehmed,68047,68060,zum Großherrn,soliman
+gdc-coref,r23w.0,68066,68181,vilacky,68082,68084,du,mehmed
+gdc-coref,r23w.0,68066,68181,vilacky,68085,68096,sein Sklave,sein-Sklave
+gdc-coref,r23w.0,68066,68181,vilacky,68085,68089,sein,soliman
+gdc-coref,r23w.0,68066,68181,vilacky,68103,68106,ich,vilacky
+gdc-coref,r23w.0,68066,68181,vilacky,68111,68113,es,sein-Sklave
+gdc-coref,r23w.0,68066,68181,vilacky,68122,68138,Ein freier Ungar,Ein-freier-Ungar
+gdc-coref,r23w.0,68066,68181,vilacky,68145,68149,sich,Ein-freier-Ungar
+gdc-coref,r23w.0,68066,68181,vilacky,68158,68162,Gott,Gott
+gdc-coref,r23w.0,68066,68181,vilacky,68168,68174,seinem,Ein-freier-Ungar
+gdc-coref,r23w.0,68187,68451,soliman,68197,68199,Du,vilacky
+gdc-coref,r23w.0,68187,68451,soliman,68209,68212,mir,soliman
+gdc-coref,r23w.0,68187,68451,soliman,68214,68220,Christ,vilacky
+gdc-coref,r23w.0,68187,68451,soliman,68278,68281,ich,soliman
+gdc-coref,r23w.0,68187,68451,soliman,68282,68292,der Ungarn,diese-Ungarn
+gdc-coref,r23w.0,68187,68451,soliman,68324,68327,ich,soliman
+gdc-coref,r23w.0,68187,68451,soliman,68328,68331,mir,soliman
+gdc-coref,r23w.0,68187,68451,soliman,68348,68356,das Land,das-Land
+gdc-coref,r23w.0,68187,68451,soliman,68359,68368,Den Löwen,Den-Löwen
+gdc-coref,r23w.0,68187,68451,soliman,68382,68385,ihm,Den-Löwen
+gdc-coref,r23w.0,68187,68451,soliman,68416,68419,ihn,Den-Löwen
+gdc-coref,r23w.0,68457,68548,vilacky,68467,68475,"Du, Löwe",soliman
+gdc-coref,r23w.0,68457,68548,vilacky,68482,68486,dich,soliman
+gdc-coref,r23w.0,68457,68548,vilacky,68491,68497,deinen,soliman
+gdc-coref,r23w.0,68457,68548,vilacky,68506,68521,Ein rechter Bär,Ein-rechter-Bär
+gdc-coref,r23w.0,68457,68548,vilacky,68529,68534,deine,soliman
+gdc-coref,r23w.0,68555,68877,soliman,68575,68577,er,Ein-rechter-Bär
+gdc-coref,r23w.0,68555,68877,soliman,68578,68583,meine,soliman
+gdc-coref,r23w.0,68555,68877,soliman,68616,68622,Christ,vilacky
+gdc-coref,r23w.0,68555,68877,soliman,68642,68648,Sigeth,Sigeth
+gdc-coref,r23w.0,68555,68877,soliman,68664,68667,ich,soliman
+gdc-coref,r23w.0,68555,68877,soliman,68677,68698,den erstürmten Zinnen,Sigeths-Zinnen
+gdc-coref,r23w.0,68555,68877,soliman,68748,68750,du,vilacky
+gdc-coref,r23w.0,68555,68877,soliman,68755,68761,deinem,vilacky
+gdc-coref,r23w.0,68555,68877,soliman,68798,68801,ich,soliman
+gdc-coref,r23w.0,68555,68877,soliman,68802,68805,dir,vilacky
+gdc-coref,r23w.0,68555,68877,soliman,68860,68864,dich,vilacky
+gdc-coref,r23w.0,68883,69198,vilacky,68893,68896,Was,Was
+gdc-coref,r23w.0,68883,69198,vilacky,68897,68899,du,soliman
+gdc-coref,r23w.0,68883,69198,vilacky,68904,68907,mir,vilacky
+gdc-coref,r23w.0,68883,69198,vilacky,68923,68933,Großsultan,soliman
+gdc-coref,r23w.0,68883,69198,vilacky,68946,68950,sich,Was
+gdc-coref,r23w.0,68883,69198,vilacky,68956,68960,Gott,Gott
+gdc-coref,r23w.0,68883,69198,vilacky,68993,68996,ich,vilacky
+gdc-coref,r23w.0,68883,69198,vilacky,69002,69005,dir,soliman
+gdc-coref,r23w.0,68883,69198,vilacky,69012,69024,jenen Mauern,die-Mauern
+gdc-coref,r23w.0,68883,69198,vilacky,69033,69037,sich,die-Wogenbrandung
+gdc-coref,r23w.0,68883,69198,vilacky,69038,69055,die Wogenbrandung,die-Wogenbrandung
+gdc-coref,r23w.0,68883,69198,vilacky,69056,69062,deines,soliman
+gdc-coref,r23w.0,68883,69198,vilacky,69072,69088,Der Niklas Zriny,zriny
+gdc-coref,r23w.0,68883,69198,vilacky,69102,69112,La Valette,La-Valette
+gdc-coref,r23w.0,68883,69198,vilacky,69115,69124,Der Ungar,Der-Ungar
+gdc-coref,r23w.0,68883,69198,vilacky,69170,69172,du,soliman
+gdc-coref,r23w.0,69204,69455,soliman,69214,69217,Ich,soliman
+gdc-coref,r23w.0,69204,69455,soliman,69242,69247,Asien,Asien
+gdc-coref,r23w.0,69204,69455,soliman,69282,69290,"du, Thor",vilacky
+gdc-coref,r23w.0,69204,69455,soliman,69293,69313,Dein Häuflein Ungarn,diese-Ungarn
+gdc-coref,r23w.0,69204,69455,soliman,69293,69297,Dein,vilacky
+gdc-coref,r23w.0,69204,69455,soliman,69340,69362,zweimal Hunderttausend,zweimal-Hunderttausend
+gdc-coref,r23w.0,69204,69455,soliman,69369,69372,ich,soliman
+gdc-coref,r23w.0,69204,69455,soliman,69390,69400,ein Europa,Europa
+gdc-coref,r23w.0,69204,69455,soliman,69420,69432,diese Felsen,das-Land
+gdc-coref,r23w.0,69204,69455,soliman,69441,69444,mir,soliman
+gdc-coref,r23w.0,69461,69734,vilacky,69471,69480,Die Menge,Die-Menge
+gdc-coref,r23w.0,69461,69734,vilacky,69488,69492,sich,Die-Menge
+gdc-coref,r23w.0,69461,69734,vilacky,69514,69517,Die,Die
+gdc-coref,r23w.0,69461,69734,vilacky,69526,69532,Sigeth,Sigeth
+gdc-coref,r23w.0,69461,69734,vilacky,69550,69552,du,soliman
+gdc-coref,r23w.0,69461,69734,vilacky,69558,69581,deinen Hunderttausenden,zweimal-Hunderttausend
+gdc-coref,r23w.0,69461,69734,vilacky,69558,69564,deinen,soliman
+gdc-coref,r23w.0,69461,69734,vilacky,69593,69596,Sie,Die
+gdc-coref,r23w.0,69461,69734,vilacky,69662,69682,dein tollkühnes Heer,dein-Heer
+gdc-coref,r23w.0,69461,69734,vilacky,69662,69666,dein,soliman
+gdc-coref,r23w.0,69740,70040,soliman,69769,69787,alle die Verwegnen,Die
+gdc-coref,r23w.0,69740,70040,soliman,69790,69830,"Tollkühne Schiffer, die den Strom hinauf",Die
+gdc-coref,r23w.0,69740,70040,soliman,69814,69823,den Strom,den-Strom
+gdc-coref,r23w.0,69740,70040,soliman,69833,69836,Der,den-Strom
+gdc-coref,r23w.0,69740,70040,soliman,69917,69919,Er,den-Strom
+gdc-coref,r23w.0,69740,70040,soliman,69955,69957,er,den-Strom
+gdc-coref,r23w.0,69740,70040,soliman,69958,69961,sie,Die
+gdc-coref,r23w.0,69740,70040,soliman,69966,69972,seines,den-Strom
+gdc-coref,r23w.0,69740,70040,soliman,70004,70016,ihres Namens,ihres-Namens
+gdc-coref,r23w.0,69740,70040,soliman,70004,70009,ihres,Die
+gdc-coref,r23w.0,69740,70040,soliman,70031,70039,die Zeit,die-Zeit
+gdc-coref,r23w.0,70046,71204,vilacky,70062,70069,Soliman,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70071,70079,ihr Name,ihres-Namens
+gdc-coref,r23w.0,70046,71204,vilacky,70071,70074,ihr,Die
+gdc-coref,r23w.0,70046,71204,vilacky,70146,70158,ihres Volkes,Die
+gdc-coref,r23w.0,70046,71204,vilacky,70146,70151,ihres,Die
+gdc-coref,r23w.0,70046,71204,vilacky,70212,70223,dieser Erde,dieser-Erde
+gdc-coref,r23w.0,70046,71204,vilacky,70311,70314,mir,vilacky
+gdc-coref,r23w.0,70046,71204,vilacky,70342,70346,Sich,Man
+gdc-coref,r23w.0,70046,71204,vilacky,70395,70405,des Lebens,des-Lebens
+gdc-coref,r23w.0,70046,71204,vilacky,70427,70433,seines,Man
+gdc-coref,r23w.0,70046,71204,vilacky,70501,70514,"Dich, Soliman",soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70527,70539,die Nachwelt,die-Nachwelt
+gdc-coref,r23w.0,70046,71204,vilacky,70601,70604,ich,vilacky
+gdc-coref,r23w.0,70046,71204,vilacky,70605,70608,dir,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70646,70649,ich,vilacky
+gdc-coref,r23w.0,70046,71204,vilacky,70678,70688,Dem Sultan,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70725,70732,Soliman,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70734,70746,die Nachwelt,die-Nachwelt
+gdc-coref,r23w.0,70046,71204,vilacky,70752,70756,dich,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70784,70786,du,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70826,70829,mir,vilacky
+gdc-coref,r23w.0,70046,71204,vilacky,70851,70861,"dein Ruhm,",dein-Ruhm
+gdc-coref,r23w.0,70046,71204,vilacky,70851,70855,dein,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70867,70869,du,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,70951,70955,sich,der-große-Johannitermeister
+gdc-coref,r23w.0,70046,71204,vilacky,70956,70983,der große Johannitermeister,der-große-Johannitermeister
+gdc-coref,r23w.0,70046,71204,vilacky,70986,71027,"Philipp de Villers, den du doch bezwangst",der-große-Johannitermeister
+gdc-coref,r23w.0,70046,71204,vilacky,71010,71012,du,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,71084,71091,Soliman,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,71097,71102,deine,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,71121,71131,Mein Leben,Mein-Leben
+gdc-coref,r23w.0,70046,71204,vilacky,71121,71125,Mein,vilacky
+gdc-coref,r23w.0,70046,71204,vilacky,71168,71171,ich,vilacky
+gdc-coref,r23w.0,70046,71204,vilacky,71172,71175,dir,soliman
+gdc-coref,r23w.0,70046,71204,vilacky,71188,71191,dir,soliman
+gdc-coref,r23w.0,71210,71449,soliman,71220,71230,"Christ, du",vilacky
+gdc-coref,r23w.0,71210,71449,soliman,71253,71262,dem Monde,dem-Monde
+gdc-coref,r23w.0,71210,71449,soliman,71278,71281,ihn,dem-Monde
+gdc-coref,r23w.0,71210,71449,soliman,71300,71303,Ich,soliman
+gdc-coref,r23w.0,71210,71449,soliman,71312,71315,dir,vilacky
+gdc-coref,r23w.0,71210,71449,soliman,71318,71328,Beim Allah,Beim-Allah
+gdc-coref,r23w.0,71210,71449,soliman,71342,71345,ich,soliman
+gdc-coref,r23w.0,71210,71449,soliman,71345,71353,'s Leben,des-Lebens
+gdc-coref,r23w.0,71210,71449,soliman,71364,71373,Das Leben,des-Lebens
+gdc-coref,r23w.0,71455,71551,vilacky,71485,71488,ich,vilacky
+gdc-coref,r23w.0,71455,71551,vilacky,71489,71498,das Leben,des-Lebens
+gdc-coref,r23w.0,71455,71551,vilacky,71507,71509,Du,soliman
+gdc-coref,r23w.0,71455,71551,vilacky,71517,71521,mich,vilacky
+gdc-coref,r23w.0,71455,71551,vilacky,71533,71537,mich,vilacky
+gdc-coref,r23w.0,71557,71615,soliman,71566,71572,Christ,vilacky
+gdc-coref,r23w.0,71557,71615,soliman,71595,71598,ich,soliman
+gdc-coref,r23w.0,71620,71881,vilacky,71642,71645,mir,vilacky
+gdc-coref,r23w.0,71620,71881,vilacky,71647,71656,Vom Feind,soliman
+gdc-coref,r23w.0,71620,71881,vilacky,71662,71665,ich,vilacky
+gdc-coref,r23w.0,71680,71706,_stage,71686,71690,sich,vilacky
+gdc-coref,r23w.0,71620,71881,vilacky,71720,71724,mein,vilacky
+gdc-coref,r23w.0,71620,71881,vilacky,71764,71767,Ich,vilacky
+gdc-coref,r23w.0,71620,71881,vilacky,71784,71788,Volk,diese-Ungarn
+gdc-coref,r23w.0,71620,71881,vilacky,71793,71802,Vaterland,das-Land
+gdc-coref,r23w.0,71620,71881,vilacky,71813,71820,Soliman,soliman
+gdc-coref,r23w.0,71620,71881,vilacky,71827,71847,meinem großen Kaiser,meinem-großen-Kaiser
+gdc-coref,r23w.0,71620,71881,vilacky,71827,71833,meinem,vilacky
+gdc-coref,r23w.0,71851,71881,_stage,71851,71853,Er,vilacky
+gdc-coref,r23w.0,71885,72143,soliman,71895,71910,Tollkühner Thor,vilacky
+gdc-coref,r23w.0,71885,72143,soliman,71918,71935,Kaiser Maximilian,meinem-großen-Kaiser
+gdc-coref,r23w.0,71885,72143,soliman,71942,71956,solche Freunde,vilacky
+gdc-coref,r23w.0,71885,72143,soliman,71962,71964,er,meinem-großen-Kaiser
+gdc-coref,r23w.0,71885,72143,soliman,71971,71975,sich,meinem-großen-Kaiser
+gdc-coref,r23w.0,71885,72143,soliman,71997,72000,ihn,vilacky
+gdc-coref,r23w.0,71885,72143,soliman,72016,72035,das flücht'ge Leben,Mein-Leben
+gdc-coref,r23w.0,71885,72143,soliman,72084,72087,ihn,vilacky
+gdc-coref,r23w.0,71885,72143,soliman,72101,72109,den Levi,levi
+gdc-coref,r23w.0,72119,72143,_stage,72119,72126,Vilacky,vilacky
+gdc-coref,r23w.0,72163,72184,_stage,72163,72169,Vorige,soliman-/-ali-+-2
+gdc-coref,r23w.0,72163,72184,_stage,72176,72183,Vilacky,vilacky
+gdc-coref,r23w.0,72194,72203,_stage,72198,72202,sich,soliman
+gdc-coref,r23w.0,72186,72258,soliman,72204,72218,"Christ, Christ",vilacky
+gdc-coref,r23w.0,72186,72258,soliman,72220,72222,Du,vilacky
+gdc-coref,r23w.0,72263,72365,mehmed,72272,72282,Der Kaiser,soliman
+gdc-coref,r23w.0,72263,72365,mehmed,72321,72340,Des Ungarn Kühnheit,Des-Ungarn-Kühnheit
+gdc-coref,r23w.0,72263,72365,mehmed,72321,72331,Des Ungarn,vilacky
+gdc-coref,r23w.0,72263,72365,mehmed,72345,72348,ihm,soliman
+gdc-coref,r23w.0,72371,72421,mustafa,72380,72386,Freund,mehmed
+gdc-coref,r23w.0,72371,72421,mustafa,72388,72391,mir,mustafa
+gdc-coref,r23w.0,72371,72421,mustafa,72405,72420,den alten Löwen,soliman
+gdc-coref,r23w.0,72426,72759,ali,72447,72450,ich,ali
+gdc-coref,r23w.0,72426,72759,ali,72451,72459,den Levi,levi
+gdc-coref,r23w.0,72426,72759,ali,72465,72472,im Zelt,Im-Zelte-des-Großherrn
+gdc-coref,r23w.0,72426,72759,ali,72476,72516,"Den alten Arzt, den kunsterfahrnen Juden",levi
+gdc-coref,r23w.0,72426,72759,ali,72527,72530,ich,ali
+gdc-coref,r23w.0,72426,72759,ali,72543,72553,dem Kaiser,soliman
+gdc-coref,r23w.0,72426,72759,ali,72567,72569,er,levi
+gdc-coref,r23w.0,72426,72759,ali,72608,72611,ihn,soliman
+gdc-coref,r23w.0,72426,72759,ali,72634,72636,er,soliman
+gdc-coref,r23w.0,72426,72759,ali,72690,72696,seiner,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72775,72777,Er,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72800,72802,er,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72803,72807,sich,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72825,72827,er,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72832,72838,seiner,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72866,72868,Er,soliman
+gdc-coref,r23w.0,72765,72903,mustafa,72878,72887,dem Ungar,vilacky
+gdc-coref,r23w.0,72909,73082,mehmed,72923,72926,wir,mehmed-/-ali-+-12
+gdc-coref,r23w.0,72909,73082,mehmed,72935,72937,er,soliman
+gdc-coref,r23w.0,72909,73082,mehmed,72974,72976,er,soliman
+gdc-coref,r23w.0,72909,73082,mehmed,73010,73013,wir,mehmed-/-ali-+-12
+gdc-coref,r23w.0,72909,73082,mehmed,73032,73035,wir,mehmed-/-ali-+-12
+gdc-coref,r23w.0,72909,73082,mehmed,73036,73039,ihn,soliman
+gdc-coref,r23w.0,73051,73082,_stage,73051,73062,Die Fürsten,mehmed-/-ali-+-12
+gdc-coref,r23w.0,73051,73082,_stage,73070,73074,sich,mehmed-/-ali-+-12
+gdc-coref,r23w.0,73086,74906,soliman,73139,73154,solche Kühnheit,Des-Ungarn-Kühnheit
+gdc-coref,r23w.0,73086,74906,soliman,73189,73207,kein zweites Malta,Malta
+gdc-coref,r23w.0,73086,74906,soliman,73273,73285,Zrinys Schar,Zrinys-Schar
+gdc-coref,r23w.0,73086,74906,soliman,73273,73279,Zrinys,zriny
+gdc-coref,r23w.0,73086,74906,soliman,73291,73307,dieser Schwärmer,vilacky
+gdc-coref,r23w.0,73086,74906,soliman,73356,73387,"dieses Häuflein Abenteurer, die","dieses-Häuflein-Abenteurer,-die---------------Nichts-zu-verlieren-haben-als-ihr-Leben"
+gdc-coref,r23w.0,73086,74906,soliman,73419,73422,ihr,"dieses-Häuflein-Abenteurer,-die---------------Nichts-zu-verlieren-haben-als-ihr-Leben"
+gdc-coref,r23w.0,73086,74906,soliman,73492,73495,sie,"dieses-Häuflein-Abenteurer,-die---------------Nichts-zu-verlieren-haben-als-ihr-Leben"
+gdc-coref,r23w.0,73086,74906,soliman,73504,73507,sie,"dieses-Häuflein-Abenteurer,-die---------------Nichts-zu-verlieren-haben-als-ihr-Leben"
+gdc-coref,r23w.0,73086,74906,soliman,73528,73531,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73537,73546,der Feste,der-Feste
+gdc-coref,r23w.0,73086,74906,soliman,73567,73586,meiner Janitscharen,Die-Janitscharen
+gdc-coref,r23w.0,73086,74906,soliman,73567,73573,meiner,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73601,73604,Sie,"dieses-Häuflein-Abenteurer,-die---------------Nichts-zu-verlieren-haben-als-ihr-Leben"
+gdc-coref,r23w.0,73086,74906,soliman,73668,73679,dieser Welt,dieser-Welt
+gdc-coref,r23w.0,73086,74906,soliman,73686,73689,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73703,73709,Sigeth,Sigeth
+gdc-coref,r23w.0,73086,74906,soliman,73735,73739,mein,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73746,73750,mein,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73833,73850,diese tolle Schar,Zrinys-Schar
+gdc-coref,r23w.0,73086,74906,soliman,73856,73887,"diesen Abenteurer, diesen Zriny",zriny
+gdc-coref,r23w.0,73086,74906,soliman,73897,73900,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73901,73905,mich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73910,73916,Europa,Europa
+gdc-coref,r23w.0,73086,74906,soliman,73941,73944,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,73960,73981,Wiens erstürmten Wall,Wiens-erstürmten-Wall
+gdc-coref,r23w.0,73086,74906,soliman,73960,73965,Wiens,Wiens
+gdc-coref,r23w.0,73086,74906,soliman,74005,74009,mein,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74071,74083,dieser Feste,der-Feste
+gdc-coref,r23w.0,73086,74906,soliman,74244,74247,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74280,74283,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74284,74288,mein,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74334,74339,meine,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74378,74381,mir,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74407,74417,beim Allah,Beim-Allah
+gdc-coref,r23w.0,73086,74906,soliman,74434,74437,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74446,74449,Ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74458,74461,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74554,74560,Sigeth,Sigeth
+gdc-coref,r23w.0,73086,74906,soliman,74580,74585,Gyula,Gyula
+gdc-coref,r23w.0,73086,74906,soliman,74590,74593,ich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74594,74598,mich,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74625,74635,Kaiser Max,meinem-großen-Kaiser
+gdc-coref,r23w.0,73086,74906,soliman,74691,74699,die Welt,dieser-Welt
+gdc-coref,r23w.0,73086,74906,soliman,74757,74763,Sigeth,Sigeth
+gdc-coref,r23w.0,73086,74906,soliman,74768,74772,mein,soliman
+gdc-coref,r23w.0,73086,74906,soliman,74817,74819,es,Sigeth
+gdc-coref,r23w.0,73086,74906,soliman,74900,74905,Wesir,mehmed
+gdc-coref,r23w.0,74912,74941,mehmed,74920,74940,Mein Herr und Kaiser,soliman
+gdc-coref,r23w.0,74912,74941,mehmed,74920,74924,Mein,mehmed
+gdc-coref,r23w.0,74946,75477,soliman,74969,74975,Sigeth,Sigeth
+gdc-coref,r23w.0,74946,75477,soliman,75003,75013,dem Grafen,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75016,75018,Er,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75024,75028,sich,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75029,75032,mir,soliman
+gdc-coref,r23w.0,74946,75477,soliman,75101,75104,ihm,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75105,75113,Kroatien,Kroatien
+gdc-coref,r23w.0,74946,75477,soliman,75118,75136,erblich Königreich,erblich-Königreich
+gdc-coref,r23w.0,74946,75477,soliman,75147,75150,ihn,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75197,75200,mir,soliman
+gdc-coref,r23w.0,74946,75477,soliman,75201,75207,Sigeth,Sigeth
+gdc-coref,r23w.0,74946,75477,soliman,75219,75222,ihm,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75224,75227,ich,soliman
+gdc-coref,r23w.0,74946,75477,soliman,75235,75238,ihn,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75244,75250,meinen,soliman
+gdc-coref,r23w.0,74946,75477,soliman,75286,75288,Er,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75294,75298,sich,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75318,75321,ihm,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75329,75331,du,mehmed
+gdc-coref,r23w.0,74946,75477,soliman,75334,75342,Kroatien,Kroatien
+gdc-coref,r23w.0,74946,75477,soliman,75347,75365,erblich Königreich,erblich-Königreich
+gdc-coref,r23w.0,74946,75477,soliman,75378,75384,deiner,mehmed
+gdc-coref,r23w.0,74946,75477,soliman,75405,75408,Ich,soliman
+gdc-coref,r23w.0,74946,75477,soliman,75414,75417,dir,mehmed
+gdc-coref,r23w.0,74946,75477,soliman,75452,75454,Er,zriny
+gdc-coref,r23w.0,74946,75477,soliman,75460,75464,sich,zriny
+gdc-coref,r23w.0,75483,75551,mehmed,75492,75507,Herr und Kaiser,soliman
+gdc-coref,r23w.0,75483,75551,mehmed,75514,75517,ich,mehmed
+gdc-coref,r23w.0,75483,75551,mehmed,75518,75527,den Zriny,zriny
+gdc-coref,r23w.0,75483,75551,mehmed,75541,75544,das,das
+gdc-coref,r23w.0,75557,75848,soliman,75567,75569,'s,das
+gdc-coref,r23w.0,75557,75848,soliman,75588,75590,'s,das
+gdc-coref,r23w.0,75557,75848,soliman,75597,75600,ich,soliman
+gdc-coref,r23w.0,75557,75848,soliman,75614,75617,ihm,zriny
+gdc-coref,r23w.0,75557,75848,soliman,75625,75627,er,zriny
+gdc-coref,r23w.0,75557,75848,soliman,75628,75632,sich,zriny
+gdc-coref,r23w.0,75557,75848,soliman,75647,75650,ich,soliman
+gdc-coref,r23w.0,75557,75848,soliman,75711,75715,Frau,eva
+gdc-coref,r23w.0,75557,75848,soliman,75720,75727,Tochter,helene
+gdc-coref,r23w.0,75557,75848,soliman,75734,75737,ich,soliman
+gdc-coref,r23w.0,75557,75848,soliman,75738,75752,meinen Sklaven,meinen-Sklaven
+gdc-coref,r23w.0,75557,75848,soliman,75738,75744,meinen,soliman
+gdc-coref,r23w.0,75557,75848,soliman,75780,75804,der junge Graf von Zriny,zriny
+gdc-coref,r23w.0,75557,75848,soliman,75822,75835,dem Streifzug,dem-Streifzug
+gdc-coref,r23w.0,75901,76437,soliman,75945,75956,seinen Sohn,vilacky
+gdc-coref,r23w.0,75901,76437,soliman,75945,75951,seinen,zriny
+gdc-coref,r23w.0,75901,76437,soliman,75967,75969,er,zriny
+gdc-coref,r23w.0,75901,76437,soliman,76004,76007,ich,soliman
+gdc-coref,r23w.0,75901,76437,soliman,76008,76011,ihn,vilacky
+gdc-coref,r23w.0,75901,76437,soliman,76061,76067,Qualen,Qualen
+gdc-coref,r23w.0,75901,76437,soliman,76074,76077,ich,soliman
+gdc-coref,r23w.0,75901,76437,soliman,76092,76101,die Hölle,Hölle
+gdc-coref,r23w.0,75901,76437,soliman,76163,76166,ihm,zriny
+gdc-coref,r23w.0,75901,76437,soliman,76178,76188,eine Krone,eine-Krone
+gdc-coref,r23w.0,75901,76437,soliman,76196,76208,seines Sohns,vilacky
+gdc-coref,r23w.0,75901,76437,soliman,76196,76202,seines,zriny
+gdc-coref,r23w.0,75901,76437,soliman,76238,76240,er,zriny
+gdc-coref,r23w.0,75901,76437,soliman,76261,76270,der Krone,eine-Krone
+gdc-coref,r23w.0,75901,76437,soliman,76279,76289,beim Allah,Beim-Allah
+gdc-coref,r23w.0,75901,76437,soliman,76297,76299,er,zriny
+gdc-coref,r23w.0,75901,76437,soliman,76342,76345,ich,soliman
+gdc-coref,r23w.0,75901,76437,soliman,76346,76350,mein,soliman
+gdc-coref,r23w.0,75901,76437,soliman,76369,76383,die Menschheit,die-Menschheit
+gdc-coref,r23w.0,75901,76437,soliman,76407,76425,die verhöhnte Welt,dieser-Welt
+gdc-coref,r23w.0,76429,76437,_stage,76429,76433,Alle,soliman-/-mehmed
+gdc-coref,r23w.0,76457,76484,_stage,76457,76473,Das große Zimmer,Das-große-Zimmer
+gdc-coref,r23w.0,76457,76484,_stage,76477,76483,Sigeth,Sigeth
+gdc-coref,r23w.0,76485,76584,_stage,76485,76490,Zriny,zriny
+gdc-coref,r23w.0,76485,76584,_stage,76492,76497,Alapi,alapi
+gdc-coref,r23w.0,76485,76584,_stage,76499,76512,Paprutowitsch,paprutowitsch
+gdc-coref,r23w.0,76485,76584,_stage,76514,76524,Juranitsch,juranitsch
+gdc-coref,r23w.0,76485,76584,_stage,76526,76555,Mehrere ungarische Hauptleute,Mehrere-ungarische-Hauptleute
+gdc-coref,r23w.0,76586,76896,zriny,76604,76627,"ihr, meine Waffenbrüder",alapi-/-juranitsch-+-2
+gdc-coref,r23w.0,76586,76896,zriny,76609,76614,meine,zriny
+gdc-coref,r23w.0,76586,76896,zriny,76633,76636,ich,zriny
+gdc-coref,r23w.0,76586,76896,zriny,76638,76652,Die neue Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,76586,76896,zriny,76678,76681,ich,zriny
+gdc-coref,r23w.0,76586,76896,zriny,76688,76693,ihrer,Die-neue-Stadt
+gdc-coref,r23w.0,76586,76896,zriny,76724,76741,Den zweiten Sturm,Den-zweiten-Sturm
+gdc-coref,r23w.0,76586,76896,zriny,76763,76776,Der Pechkranz,Der-Pechkranz
+gdc-coref,r23w.0,76586,76896,zriny,76815,76818,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,76586,76896,zriny,76819,76822,das,das2
+gdc-coref,r23w.0,76586,76896,zriny,76851,76854,Was,das2
+gdc-coref,r23w.0,76586,76896,zriny,76855,76860,unser,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,76902,77433,juranitsch,76940,76957,mein teurer Vater,zriny
+gdc-coref,r23w.0,76902,77433,juranitsch,76940,76944,mein,juranitsch
+gdc-coref,r23w.0,76902,77433,juranitsch,76979,76995,den Janitscharen,Die-Janitscharen
+gdc-coref,r23w.0,76902,77433,juranitsch,77008,77041,"der Bürger, der sein Hab' und Gut","der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,76902,77433,juranitsch,77024,77028,sein,"der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,76902,77433,juranitsch,77062,77068,unsern,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,76902,77433,juranitsch,77091,77093,er,"der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,76902,77433,juranitsch,77128,77141,Den Pechkranz,Der-Pechkranz
+gdc-coref,r23w.0,76902,77433,juranitsch,77176,77178,er,"der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,76902,77433,juranitsch,77202,77206,sich,"der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,76902,77433,juranitsch,77217,77225,Der Wall,Der-Wall
+gdc-coref,r23w.0,76902,77433,juranitsch,77237,77245,das Volk,diese-Ungarn
+gdc-coref,r23w.0,76902,77433,juranitsch,77275,77278,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,76902,77433,juranitsch,77284,77295,einen Sturm,Den-zweiten-Sturm
+gdc-coref,r23w.0,76902,77433,juranitsch,77329,77335,unsrer,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,76902,77433,juranitsch,77365,77368,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,76902,77433,juranitsch,77369,77379,dem Kaiser,meinem-großen-Kaiser
+gdc-coref,r23w.0,76902,77433,juranitsch,77380,77390,eine Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,76902,77433,juranitsch,77396,77410,treuen Bürgern,treuen-Bürgern
+gdc-coref,r23w.0,76902,77433,juranitsch,77411,77414,Hab,Hab
+gdc-coref,r23w.0,76902,77433,juranitsch,77420,77423,Gut,Gut
+gdc-coref,r23w.0,77439,77863,zriny,77464,77473,dein Herz,dein-Herz
+gdc-coref,r23w.0,77439,77863,zriny,77464,77468,dein,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77478,77482,dein,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77492,77495,Ich,zriny
+gdc-coref,r23w.0,77439,77863,zriny,77512,77515,dir,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77521,77523,du,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77581,77584,Wer,Wer
+gdc-coref,r23w.0,77439,77863,zriny,77585,77589,sich,Wer
+gdc-coref,r23w.0,77439,77863,zriny,77590,77599,dem Löwen,soliman
+gdc-coref,r23w.0,77439,77863,zriny,77642,77651,des Löwen,soliman
+gdc-coref,r23w.0,77439,77863,zriny,77672,77674,Du,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77722,77724,du,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77737,77741,dich,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77794,77797,dir,juranitsch
+gdc-coref,r23w.0,77439,77863,zriny,77824,77845,"du, mein alter Freund",alapi
+gdc-coref,r23w.0,77439,77863,zriny,77828,77832,mein,zriny
+gdc-coref,r23w.0,77439,77863,zriny,77857,77862,Alapi,alapi
+gdc-coref,r23w.0,77869,78620,alapi,77881,77887,Lorenz,juranitsch
+gdc-coref,r23w.0,77869,78620,alapi,77912,77915,ich,alapi
+gdc-coref,r23w.0,77869,78620,alapi,77939,77942,ich,alapi
+gdc-coref,r23w.0,77869,78620,alapi,77943,77957,die arme Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,77869,78620,alapi,77974,77979,unser,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,77869,78620,alapi,77998,78006,der Wall,Der-Wall
+gdc-coref,r23w.0,77869,78620,alapi,78020,78025,deine,zriny
+gdc-coref,r23w.0,77869,78620,alapi,78040,78043,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,77869,78620,alapi,78066,78091,den trunknen Janitscharen,Die-Janitscharen
+gdc-coref,r23w.0,77869,78620,alapi,78146,78155,die Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,77869,78620,alapi,78162,78172,Ali Portuk,ali
+gdc-coref,r23w.0,77869,78620,alapi,78251,78270,beim nächsten Sturm,Den-zweiten-Sturm
+gdc-coref,r23w.0,77869,78620,alapi,78281,78284,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,77869,78620,alapi,78320,78330,Die Bürger,treuen-Bürgern
+gdc-coref,r23w.0,77869,78620,alapi,78354,78357,ihr,treuen-Bürgern
+gdc-coref,r23w.0,77869,78620,alapi,78358,78361,Gut,Gut
+gdc-coref,r23w.0,77869,78620,alapi,78390,78400,ihrer Habe,Hab
+gdc-coref,r23w.0,77869,78620,alapi,78390,78395,ihrer,treuen-Bürgern
+gdc-coref,r23w.0,77869,78620,alapi,78420,78434,die alte Stadt,die-alte-Stadt
+gdc-coref,r23w.0,77869,78620,alapi,78446,78459,der Pechkranz,Der-Pechkranz
+gdc-coref,r23w.0,77869,78620,alapi,78543,78547,sich,ali
+gdc-coref,r23w.0,77869,78620,alapi,78548,78558,Ali Portuk,ali
+gdc-coref,r23w.0,77869,78620,alapi,78600,78612,die Altstadt,die-alte-Stadt
+gdc-coref,r23w.0,78626,78672,zriny,78638,78643,meine,zriny
+gdc-coref,r23w.0,78626,78672,zriny,78653,78671,alter Waffenbruder,alapi
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78703,78706,mir,paprutowitsch
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78763,78766,ich,paprutowitsch
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78784,78787,ich,paprutowitsch
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78788,78791,mir,paprutowitsch
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78805,78819,der Kaiser Max,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78840,78844,sich,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78849,78853,Raab,Raab
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78889,78892,uns,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78913,78916,ihm,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78922,78944,seine treue Mannschaft,seine-treue-Mannschaft
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78922,78927,seine,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78961,78972,seine Feste,der-Feste
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78961,78966,seine,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,78981,78997,dies Heldenleben,dies-Heldenleben
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79000,79028,"Dies eine, große Heldenleben",dies-Heldenleben
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79038,79040,Es,Es
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79070,79073,man,Man
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79074,79075,s,Es
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79087,79099,seine Treuen,seine-Treuen
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79087,79092,seine,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79108,79111,die,seine-Treuen
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79112,79114,er,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79124,79127,Die,seine-Treuen
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79128,79130,er,meinem-großen-Kaiser
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79170,79172,es,es
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79174,79177,wer,Wer
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79187,79190,mir,paprutowitsch
+gdc-coref,r23w.0,78677,79205,paprutowitsch,79195,79196,s,es
+gdc-coref,r23w.0,79211,80092,zriny,79219,79225,Freund,paprutowitsch
+gdc-coref,r23w.0,79211,80092,zriny,79243,79262,unserm guten Kaiser,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79243,79249,unserm,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,79211,80092,zriny,79265,79267,Er,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79326,79329,ihm,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79356,79359,ihm,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79409,79412,ihn,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79424,79433,Das Leben,des-Lebens
+gdc-coref,r23w.0,79211,80092,zriny,79440,79444,sich,des-Lebens
+gdc-coref,r23w.0,79211,80092,zriny,79468,79471,Ich,zriny
+gdc-coref,r23w.0,79211,80092,zriny,79478,79480,es,es2
+gdc-coref,r23w.0,79211,80092,zriny,79488,79492,sein,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79511,79513,Es,es2
+gdc-coref,r23w.0,79211,80092,zriny,79521,79524,ihn,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79556,79558,er,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79559,79563,mich,zriny
+gdc-coref,r23w.0,79211,80092,zriny,79568,79577,mein Volk,diese-Ungarn
+gdc-coref,r23w.0,79211,80092,zriny,79568,79572,mein,zriny
+gdc-coref,r23w.0,79211,80092,zriny,79578,79585,dem Tod,Zum-Tode
+gdc-coref,r23w.0,79211,80092,zriny,79625,79631,seinem,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79641,79644,Ich,zriny
+gdc-coref,r23w.0,79211,80092,zriny,79651,79655,mich,zriny
+gdc-coref,r23w.0,79211,80092,zriny,79660,79675,seiner Majestät,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79660,79666,seiner,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79690,79693,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,79211,80092,zriny,79695,79708,die einzelnen,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,79211,80092,zriny,79723,79726,Wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,79211,80092,zriny,79734,79746,unserm Feind,unserm-Feind
+gdc-coref,r23w.0,79211,80092,zriny,79734,79740,unserm,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,79211,80092,zriny,79772,79775,Max,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79786,79795,sein Volk,diese-Ungarn
+gdc-coref,r23w.0,79211,80092,zriny,79786,79790,sein,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,79823,79826,wir,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,79211,80092,zriny,79859,79861,du,Man
+gdc-coref,r23w.0,79211,80092,zriny,79918,79920,du,Man
+gdc-coref,r23w.0,79211,80092,zriny,79981,79992,des Kaisers,meinem-großen-Kaiser
+gdc-coref,r23w.0,79211,80092,zriny,80014,80016,Er,meinem-großen-Kaiser
+gdc-coref,r23w.0,80115,80149,_stage,80115,80121,Vorige,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,80115,80149,_stage,80123,80148,Ein ungarischer Hauptmann,hauptmann
+gdc-coref,r23w.0,80151,80384,hauptmann,80163,80189,Ein türk'scher Heeresfürst,mehmed
+gdc-coref,r23w.0,80151,80384,hauptmann,80220,80234,seines Kaisers,soliman
+gdc-coref,r23w.0,80151,80384,hauptmann,80220,80226,seines,mehmed
+gdc-coref,r23w.0,80151,80384,hauptmann,80240,80242,er,mehmed
+gdc-coref,r23w.0,80151,80384,hauptmann,80257,80260,dir,zriny
+gdc-coref,r23w.0,80151,80384,hauptmann,80270,80282,des Friedens,des-Friedens
+gdc-coref,r23w.0,80151,80384,hauptmann,80306,80310,sein,mehmed
+gdc-coref,r23w.0,80151,80384,hauptmann,80326,80330,dich,zriny
+gdc-coref,r23w.0,80151,80384,hauptmann,80364,80366,er,mehmed
+gdc-coref,r23w.0,80151,80384,hauptmann,80367,80371,dich,zriny
+gdc-coref,r23w.0,80390,80413,zriny,80400,80403,ich,zriny
+gdc-coref,r23w.0,80390,80413,zriny,80404,80407,ihn,mehmed
+gdc-coref,r23w.0,80418,80494,alapi,80473,80481,der Herr,mehmed
+gdc-coref,r23w.0,80418,80494,alapi,80482,80485,uns,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,80500,80868,zriny,80514,80517,ihn,mehmed
+gdc-coref,r23w.0,80500,80868,zriny,80526,80536,Ihr andern,juranitsch-/-paprutowitsch-+-1
+gdc-coref,r23w.0,80500,80868,zriny,80559,80565,meines,zriny
+gdc-coref,r23w.0,80500,80868,zriny,80598,80610,die Neustadt,Die-neue-Stadt
+gdc-coref,r23w.0,80500,80868,zriny,80626,80629,ich,zriny
+gdc-coref,r23w.0,80500,80868,zriny,80681,80691,Der Bürger,"der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,80500,80868,zriny,80692,80697,seine,"der-Bürger,-der-sein-Hab'-und-Gut---------------Vertrauend-hier-in-unsern-Schutz-gegeben"
+gdc-coref,r23w.0,80500,80868,zriny,80731,80734,wir,juranitsch-/-paprutowitsch-+-1
+gdc-coref,r23w.0,80500,80868,zriny,80735,80750,die Feuerbrände,die-Feuerbrände
+gdc-coref,r23w.0,80500,80868,zriny,80787,80789,es,die-Feuerbrände
+gdc-coref,r23w.0,80500,80868,zriny,80801,80804,ich,zriny
+gdc-coref,r23w.0,80500,80868,zriny,80805,80809,euch,juranitsch-/-paprutowitsch-+-1
+gdc-coref,r23w.0,80500,80868,zriny,80822,80826,euch,juranitsch-/-paprutowitsch-+-1
+gdc-coref,r23w.0,80500,80868,zriny,80830,80832,Er,mehmed
+gdc-coref,r23w.0,80847,80868,_stage,80847,80851,Alle,alapi-/-juranitsch-+-2
+gdc-coref,r23w.0,80847,80868,_stage,80862,80867,Zriny,zriny
+gdc-coref,r23w.0,80888,80901,_stage,80888,80893,Zriny,zriny
+gdc-coref,r23w.0,80902,80953,_stage,80902,80904,Er,zriny
+gdc-coref,r23w.0,80902,80953,_stage,80937,80946,zur Stadt,Die-neue-Stadt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gdc-coref,r23w.0,82219,82264,_stage,82219,82224,Zriny,zriny
+gdc-coref,r23w.0,82219,82264,_stage,82226,82250,Der ungarische Hauptmann,hauptmann
+gdc-coref,r23w.0,82219,82264,_stage,82257,82263,Mehmed,mehmed
+gdc-coref,r23w.0,82266,82297,hauptmann,82277,82296,Der türk'sche Fürst,mehmed
+gdc-coref,r23w.0,82302,82372,zriny,82309,82312,Ich,zriny
+gdc-coref,r23w.0,82302,82372,zriny,82325,82327,er,mehmed
+gdc-coref,r23w.0,82336,82372,_stage,82336,82345,Hauptmann,hauptmann
+gdc-coref,r23w.0,82336,82372,_stage,82355,82361,Mehmed,mehmed
+gdc-coref,r23w.0,82376,82551,zriny,82389,82420,"du, Sokolowitsch, der Großwesir",mehmed
+gdc-coref,r23w.0,82376,82551,zriny,82429,82432,mir,zriny
+gdc-coref,r23w.0,82376,82551,zriny,82446,82448,du,mehmed
+gdc-coref,r23w.0,82376,82551,zriny,82470,82480,Der Kaiser,soliman
+gdc-coref,r23w.0,82376,82551,zriny,82516,82518,er,soliman
+gdc-coref,r23w.0,82376,82551,zriny,82519,82542,den Besten seines Heers,mehmed
+gdc-coref,r23w.0,82376,82551,zriny,82530,82542,seines Heers,dein-Heer
+gdc-coref,r23w.0,82376,82551,zriny,82530,82536,seines,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82566,82593,Mein hoher Großherr Soliman,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82566,82570,Mein,mehmed
+gdc-coref,r23w.0,82557,83135,mehmed,82605,82608,Dir,zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82609,82614,seine,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82652,82656,dich,zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82661,82673,deine Brüder,alapi-/-juranitsch-+-2
+gdc-coref,r23w.0,82557,83135,mehmed,82661,82666,deine,zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82680,82711,Der nutzlos schwachen Gegenwehr,Der-nutzlos-schwachen-Gegenwehr
+gdc-coref,r23w.0,82557,83135,mehmed,82724,82727,Die,Der-nutzlos-schwachen-Gegenwehr
+gdc-coref,r23w.0,82557,83135,mehmed,82728,82732,euch,alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82741,82745,all',alapi-/-juranitsch-+…-/-zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82746,82759,ins Verderben,ins-Verderben
+gdc-coref,r23w.0,82557,83135,mehmed,82769,82778,Die Feste,der-Feste
+gdc-coref,r23w.0,82557,83135,mehmed,82779,82790,seinem Heer,dein-Heer
+gdc-coref,r23w.0,82557,83135,mehmed,82779,82785,seinem,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82814,82824,der Kaiser,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82825,82831,deinen,zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82861,82865,dich,zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82902,82904,er,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82905,82918,jede Fordrung,jede-Fordrung
+gdc-coref,r23w.0,82557,83135,mehmed,82924,82927,Die,jede-Fordrung
+gdc-coref,r23w.0,82557,83135,mehmed,82943,82955,seiner Macht,seiner-Macht
+gdc-coref,r23w.0,82557,83135,mehmed,82943,82949,seiner,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,82973,82975,du,zriny
+gdc-coref,r23w.0,82557,83135,mehmed,82976,82985,die Feste,der-Feste
+gdc-coref,r23w.0,82557,83135,mehmed,83028,83030,er,soliman
+gdc-coref,r23w.0,82557,83135,mehmed,83108,83114,seinem,soliman
+gdc-coref,r23w.0,83141,83488,zriny,83156,83158,du,mehmed
+gdc-coref,r23w.0,83141,83488,zriny,83159,83162,mir,zriny
+gdc-coref,r23w.0,83141,83488,zriny,83178,83190,Sokolowitsch,mehmed
+gdc-coref,r23w.0,83141,83488,zriny,83193,83195,Du,mehmed
+gdc-coref,r23w.0,83141,83488,zriny,83204,83207,dir,mehmed
+gdc-coref,r23w.0,83141,83488,zriny,83236,83239,Ich,zriny
+gdc-coref,r23w.0,83141,83488,zriny,83263,83268,meine,zriny
+gdc-coref,r23w.0,83141,83488,zriny,83288,83292,mich,zriny
+gdc-coref,r23w.0,83141,83488,zriny,83293,83300,Soliman,soliman
+gdc-coref,r23w.0,83141,83488,zriny,83327,83329,er,soliman
+gdc-coref,r23w.0,83141,83488,zriny,83347,83350,mir,zriny
+gdc-coref,r23w.0,83141,83488,zriny,83367,83369,er,soliman
+gdc-coref,r23w.0,83141,83488,zriny,83387,83389,er,soliman
+gdc-coref,r23w.0,83141,83488,zriny,83390,83398,die Burg,der-Feste
+gdc-coref,r23w.0,83141,83488,zriny,83438,83441,ihm,soliman
+gdc-coref,r23w.0,83141,83488,zriny,83452,83455,Ich,zriny
+gdc-coref,r23w.0,83141,83488,zriny,83471,83477,meines,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83509,83511,du,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83528,83531,ich,mehmed
+gdc-coref,r23w.0,83494,83948,mehmed,83555,83557,du,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83586,83591,Zriny,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83594,83607,Des Großherrn,soliman
+gdc-coref,r23w.0,83494,83948,mehmed,83625,83635,der Weiber,EVA.-HELENE.2
+gdc-coref,r23w.0,83494,83948,mehmed,83645,83647,Er,soliman
+gdc-coref,r23w.0,83494,83948,mehmed,83656,83659,sie,EVA.-HELENE.2
+gdc-coref,r23w.0,83494,83948,mehmed,83660,83674,seinen Sklaven,meinen-Sklaven
+gdc-coref,r23w.0,83494,83948,mehmed,83660,83666,seinen,soliman
+gdc-coref,r23w.0,83494,83948,mehmed,83695,83697,du,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83698,83702,dich,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83718,83720,Du,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83785,83798,deiner Frauen,EVA.-HELENE.
+gdc-coref,r23w.0,83494,83948,mehmed,83785,83791,deiner,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83806,83811,Zriny,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83813,83818,Zriny,zriny
+gdc-coref,r23w.0,83494,83948,mehmed,83821,83825,Mich,mehmed
+gdc-coref,r23w.0,83494,83948,mehmed,83844,83847,ich,mehmed
+gdc-coref,r23w.0,83494,83948,mehmed,83859,83871,diese zarten,EVA.-HELENE.
+gdc-coref,r23w.0,83494,83948,mehmed,83887,83897,des Pöbels,meinen-Sklaven
+gdc-coref,r23w.0,83954,84043,zriny,83962,83964,Du,mehmed
+gdc-coref,r23w.0,83954,84043,zriny,83987,83996,Großwesir,mehmed
+gdc-coref,r23w.0,83954,84043,zriny,84021,84030,im Herzen,dein-Herz2
+gdc-coref,r23w.0,84049,84080,mehmed,84063,84066,dir,zriny
+gdc-coref,r23w.0,84049,84080,mehmed,84074,84079,Zriny,zriny
+gdc-coref,r23w.0,84085,84337,zriny,84093,84104,Armer Türke,mehmed
+gdc-coref,r23w.0,84085,84337,zriny,84107,84109,Du,mehmed
+gdc-coref,r23w.0,84085,84337,zriny,84117,84125,das Weib,eva
+gdc-coref,r23w.0,84085,84337,zriny,84140,84152,den Hochsinn,den-Hochsinn
+gdc-coref,r23w.0,84085,84337,zriny,84161,84164,Der,den-Hochsinn
+gdc-coref,r23w.0,84085,84337,zriny,84210,84223,deine Knechte,meinen-Sklaven
+gdc-coref,r23w.0,84085,84337,zriny,84210,84215,deine,mehmed
+gdc-coref,r23w.0,84085,84337,zriny,84224,84228,sich,meinen-Sklaven
+gdc-coref,r23w.0,84085,84337,zriny,84229,84239,aufs Opfer,EVA.-HELENE.
+gdc-coref,r23w.0,84085,84337,zriny,84256,84265,mein Weib,eva
+gdc-coref,r23w.0,84085,84337,zriny,84256,84260,mein,zriny
+gdc-coref,r23w.0,84085,84337,zriny,84270,84283,meine Tochter,helene
+gdc-coref,r23w.0,84085,84337,zriny,84270,84275,meine,zriny
+gdc-coref,r23w.0,84085,84337,zriny,84285,84291,Mehmed,mehmed
+gdc-coref,r23w.0,84085,84337,zriny,84298,84303,beide,EVA.-HELENE.
+gdc-coref,r23w.0,84343,84655,mehmed,84352,84354,Er,soliman
+gdc-coref,r23w.0,84343,84655,mehmed,84368,84377,die Feste,der-Feste
+gdc-coref,r23w.0,84343,84655,mehmed,84405,84408,ihm,soliman
+gdc-coref,r23w.0,84343,84655,mehmed,84426,84428,du,zriny
+gdc-coref,r23w.0,84343,84655,mehmed,84452,84454,er,soliman
+gdc-coref,r23w.0,84343,84655,mehmed,84455,84458,dir,zriny
+gdc-coref,r23w.0,84343,84655,mehmed,84472,84480,Kroatien,Kroatien
+gdc-coref,r23w.0,84343,84655,mehmed,84489,84491,du,zriny
+gdc-coref,r23w.0,84343,84655,mehmed,84553,84557,dich,zriny
+gdc-coref,r23w.0,84343,84655,mehmed,84605,84607,er,soliman
+gdc-coref,r23w.0,84343,84655,mehmed,84608,84612,dich,zriny
+gdc-coref,r23w.0,84661,85004,zriny,84679,84691,"dich, Mehmed",mehmed
+gdc-coref,r23w.0,84661,85004,zriny,84697,84699,du,mehmed
+gdc-coref,r23w.0,84661,85004,zriny,84763,84779,deinem Großherrn,soliman
+gdc-coref,r23w.0,84661,85004,zriny,84763,84769,deinem,mehmed
+gdc-coref,r23w.0,84661,85004,zriny,84798,84806,Die Ehre,Die-Ehre
+gdc-coref,r23w.0,84661,85004,zriny,84835,84837,Er,soliman
+gdc-coref,r23w.0,84661,85004,zriny,84844,84848,mich,zriny
+gdc-coref,r23w.0,84661,85004,zriny,84853,84866,all mein Volk,diese-Ungarn
+gdc-coref,r23w.0,84661,85004,zriny,84857,84861,mein,zriny
+gdc-coref,r23w.0,84661,85004,zriny,84884,84894,meine Ehre,meine-Ehre
+gdc-coref,r23w.0,84661,85004,zriny,84884,84889,meine,zriny
+gdc-coref,r23w.0,84661,85004,zriny,84901,84903,er,soliman
+gdc-coref,r23w.0,84661,85004,zriny,84919,84922,Die,meine-Ehre
+gdc-coref,r23w.0,84661,85004,zriny,84929,84931,er,soliman
+gdc-coref,r23w.0,84661,85004,zriny,84952,84960,ein Land,das-Land
+gdc-coref,r23w.0,84661,85004,zriny,84980,84996,keines Großherrn,soliman
+gdc-coref,r23w.0,85010,85377,mehmed,85029,85033,dich,zriny
+gdc-coref,r23w.0,85010,85377,mehmed,85049,85063,du harter Mann,zriny
+gdc-coref,r23w.0,85010,85377,mehmed,85074,85078,mein,mehmed
+gdc-coref,r23w.0,85010,85377,mehmed,85116,85125,Dein Sohn,vilacky
+gdc-coref,r23w.0,85010,85377,mehmed,85116,85120,Dein,zriny
+gdc-coref,r23w.0,85010,85377,mehmed,85147,85162,einem Streifzug,dem-Streifzug
+gdc-coref,r23w.0,85010,85377,mehmed,85165,85167,Er,vilacky
+gdc-coref,r23w.0,85010,85377,mehmed,85193,85195,du,zriny
+gdc-coref,r23w.0,85010,85377,mehmed,85214,85226,der Großherr,soliman
+gdc-coref,r23w.0,85010,85377,mehmed,85228,85234,Qualen,Qualen
+gdc-coref,r23w.0,85010,85377,mehmed,85292,85304,deinem Sohne,vilacky
+gdc-coref,r23w.0,85010,85377,mehmed,85292,85298,deinem,zriny
+gdc-coref,r23w.0,85010,85377,mehmed,85333,85343,Des Vaters,zriny
+gdc-coref,r23w.0,85383,85436,zriny,85390,85399,Mein Sohn,vilacky
+gdc-coref,r23w.0,85383,85436,zriny,85390,85394,Mein,zriny
+gdc-coref,r23w.0,85383,85436,zriny,85401,85406,Georg,vilacky
+gdc-coref,r23w.0,85383,85436,zriny,85408,85412,Gott,Gott
+gdc-coref,r23w.0,85383,85436,zriny,85414,85419,Deine,Gott
+gdc-coref,r23w.0,85441,85490,mehmed,85461,85465,dich,zriny
+gdc-coref,r23w.0,85495,86183,zriny,85571,85574,ihn,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85584,85587,ihn,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85596,85599,ihm,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85620,85625,seine,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85637,85642,Georg,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85647,85651,mein,zriny
+gdc-coref,r23w.0,85495,86183,zriny,85653,85657,mein,zriny
+gdc-coref,r23w.0,85495,86183,zriny,85664,85666,er,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85711,85724,Paprutowitsch,paprutowitsch
+gdc-coref,r23w.0,85495,86183,zriny,85726,85739,Den Pechkranz,Der-Pechkranz
+gdc-coref,r23w.0,85495,86183,zriny,85744,85756,die Neustadt,Die-neue-Stadt
+gdc-coref,r23w.0,85495,86183,zriny,85782,85785,ich,zriny
+gdc-coref,r23w.0,85495,86183,zriny,85790,85794,Gott,Gott
+gdc-coref,r23w.0,85495,86183,zriny,85805,85807,Er,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85824,85830,seiner,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85844,85848,Gott,Gott
+gdc-coref,r23w.0,85495,86183,zriny,85853,85857,mein,zriny
+gdc-coref,r23w.0,85495,86183,zriny,85872,85875,ich,zriny
+gdc-coref,r23w.0,85495,86183,zriny,85901,85906,euern,euern
+gdc-coref,r23w.0,85495,86183,zriny,85915,85920,euern,euern
+gdc-coref,r23w.0,85495,86183,zriny,85936,85938,Er,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85950,85954,Gott,Gott
+gdc-coref,r23w.0,85495,86183,zriny,85963,85977,sein Vaterland,das-Land
+gdc-coref,r23w.0,85495,86183,zriny,85963,85967,sein,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,85992,86005,Den Pechkranz,Der-Pechkranz
+gdc-coref,r23w.0,85495,86183,zriny,86010,86022,die Neustadt,Die-neue-Stadt
+gdc-coref,r23w.0,85495,86183,zriny,86029,86032,sie,Die-neue-Stadt
+gdc-coref,r23w.0,85495,86183,zriny,86051,86054,ihn,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86058,86064,seiner,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86074,86076,er,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86077,86087,sein Leben,Mein-Leben
+gdc-coref,r23w.0,85495,86183,zriny,86077,86081,sein,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86093,86099,seines,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86141,86144,ihn,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86150,86159,mein Sohn,vilacky
+gdc-coref,r23w.0,85495,86183,zriny,86150,86154,mein,zriny
+gdc-coref,r23w.0,86189,86238,mehmed,86221,86225,sich,sich
+gdc-coref,r23w.0,86189,86238,mehmed,86226,86237,meine Seele,sich
+gdc-coref,r23w.0,86189,86238,mehmed,86226,86231,meine,mehmed
+gdc-coref,r23w.0,86243,86602,zriny,86268,86292,der letzte meiner Brüder,der-letzte-meiner-Brüder
+gdc-coref,r23w.0,86243,86602,zriny,86279,86285,meiner,zriny
+gdc-coref,r23w.0,86243,86602,zriny,86295,86297,Er,der-letzte-meiner-Brüder
+gdc-coref,r23w.0,86243,86602,zriny,86349,86354,Wesir,mehmed
+gdc-coref,r23w.0,86243,86602,zriny,86356,86365,mein Weib,eva
+gdc-coref,r23w.0,86243,86602,zriny,86356,86360,mein,zriny
+gdc-coref,r23w.0,86243,86602,zriny,86370,86383,meine Tochter,helene
+gdc-coref,r23w.0,86243,86602,zriny,86370,86375,meine,zriny
+gdc-coref,r23w.0,86243,86602,zriny,86386,86389,Sie,EVA.-HELENE.
+gdc-coref,r23w.0,86243,86602,zriny,86418,86421,ich,zriny
+gdc-coref,r23w.0,86243,86602,zriny,86431,86434,Ich,zriny
+gdc-coref,r23w.0,86243,86602,zriny,86454,86476,"sie, die zarten Frauen",EVA.-HELENE.
+gdc-coref,r23w.0,86243,86602,zriny,86485,86490,ihrem,EVA.-HELENE.
+gdc-coref,r23w.0,86243,86602,zriny,86511,86513,du,mehmed
+gdc-coref,r23w.0,86243,86602,zriny,86532,86538,Helene,helene
+gdc-coref,r23w.0,86243,86602,zriny,86540,86543,Eva,eva
+gdc-coref,r23w.0,86243,86602,zriny,86545,86555,Juranitsch,juranitsch
+gdc-coref,r23w.0,86243,86602,zriny,86557,86562,Alapi,alapi
+gdc-coref,r23w.0,86243,86602,zriny,86571,86575,alle,EVA.-HELENE.-/-Ungarische-Hauptleute-+-3
+gdc-coref,r23w.0,86243,86602,zriny,86577,86581,alle,EVA.-HELENE.-/-Ungarische-Hauptleute-+-3
+gdc-coref,r23w.0,86243,86602,zriny,86590,86596,unsern,EVA.-HELENE.-/-Ungar…-/-zriny
+gdc-coref,r23w.0,86625,86728,_stage,86625,86631,Vorige,zriny-/-mehmed
+gdc-coref,r23w.0,86625,86728,_stage,86633,86639,Helene,helene
+gdc-coref,r23w.0,86625,86728,_stage,86641,86644,Eva,eva
+gdc-coref,r23w.0,86625,86728,_stage,86646,86651,Alapi,alapi
+gdc-coref,r23w.0,86625,86728,_stage,86653,86663,Juranitsch,juranitsch
+gdc-coref,r23w.0,86625,86728,_stage,86665,86678,Paprutowitsch,paprutowitsch
+gdc-coref,r23w.0,86625,86728,_stage,86680,86701,Ungarische Hauptleute,Ungarische-Hauptleute
+gdc-coref,r23w.0,86730,86779,eva,86746,86756,"du, Lieber",zriny
+gdc-coref,r23w.0,86730,86779,eva,86776,86778,du,zriny
+gdc-coref,r23w.0,86784,86838,alapi,86805,86811,Freund,zriny
+gdc-coref,r23w.0,86784,86838,alapi,86826,86831,deine,zriny
+gdc-coref,r23w.0,86843,86986,zriny,86860,86863,sie,EVA.-HELENE.-/-Ungarische-Hauptleute-+-3
+gdc-coref,r23w.0,86843,86986,zriny,86877,86878,s,s2
+gdc-coref,r23w.0,86843,86986,zriny,86879,86894,diesem Zweifler,mehmed
+gdc-coref,r23w.0,86843,86986,zriny,86903,86906,ihr,EVA.-HELENE.-/-Ungarische-Hauptleute-+-3
+gdc-coref,r23w.0,86843,86986,zriny,86946,86960,Fürs Vaterland,das-Land
+gdc-coref,r23w.0,86843,86986,zriny,86964,86969,Kampf,Kampf
+gdc-coref,r23w.0,86843,86986,zriny,86974,86977,Tod,Zum-Tode
+gdc-coref,r23w.0,87053,87234,zriny,87066,87067,s,s2
+gdc-coref,r23w.0,87053,87234,zriny,87068,87071,ihm,mehmed
+gdc-coref,r23w.0,87053,87234,zriny,87073,87083,ihr Frauen,EVA.-HELENE.
+gdc-coref,r23w.0,87053,87234,zriny,87090,87092,er,mehmed
+gdc-coref,r23w.0,87053,87234,zriny,87100,87102,es,s2
+gdc-coref,r23w.0,87053,87234,zriny,87116,87119,ihr,EVA.-HELENE.
+gdc-coref,r23w.0,87053,87234,zriny,87204,87208,eure,EVA.-HELENE.
+gdc-coref,r23w.0,87053,87234,zriny,87215,87220,euern,EVA.-HELENE.
+gdc-coref,r23w.0,87240,87285,eva,87245,87248,Ich,eva
+gdc-coref,r23w.0,87240,87285,eva,87255,87258,dir,zriny
+gdc-coref,r23w.0,87240,87285,eva,87271,87284,ins Verderben,ins-Verderben
+gdc-coref,r23w.0,87290,87342,helene,87323,87333,dem Helden,zriny
+gdc-coref,r23w.0,87353,87376,_stage,87361,87371,seine Arme,seine-Arme
+gdc-coref,r23w.0,87353,87376,_stage,87361,87366,seine,zriny
+gdc-coref,r23w.0,87347,87526,zriny,87386,87395,mein Herz,dein-Herz2
+gdc-coref,r23w.0,87347,87526,zriny,87386,87390,mein,zriny
+gdc-coref,r23w.0,87347,87526,zriny,87397,87401,Gott,Gott
+gdc-coref,r23w.0,87347,87526,zriny,87403,87407,Gott,Gott
+gdc-coref,r23w.0,87347,87526,zriny,87423,87426,ich,zriny
+gdc-coref,r23w.0,87437,87526,_stage,87471,87481,des Feuers,die-Feuerbrände
+gdc-coref,r23w.0,87530,87634,paprutowitsch,87556,87571,die Brandrakete,die-Brandrakete
+gdc-coref,r23w.0,87530,87634,paprutowitsch,87575,87584,die Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,87530,87634,paprutowitsch,87587,87596,Das Feuer,die-Feuerbrände
+gdc-coref,r23w.0,87530,87634,paprutowitsch,87616,87617,s,die-Feuerbrände
+gdc-coref,r23w.0,87640,88181,zriny,87648,87667,Mehmed Sokolowitsch,mehmed
+gdc-coref,r23w.0,87640,88181,zriny,87675,87687,deinem Herrn,soliman
+gdc-coref,r23w.0,87640,88181,zriny,87675,87681,deinem,mehmed
+gdc-coref,r23w.0,87640,88181,zriny,87702,87704,du,mehmed
+gdc-coref,r23w.0,87640,88181,zriny,87759,87768,sein Volk,diese-Ungarn
+gdc-coref,r23w.0,87640,88181,zriny,87779,87781,du,mehmed
+gdc-coref,r23w.0,87640,88181,zriny,87782,87788,deinen,mehmed
+gdc-coref,r23w.0,87640,88181,zriny,87817,87820,ihm,soliman
+gdc-coref,r23w.0,87640,88181,zriny,87821,87830,die Stadt,Die-neue-Stadt
+gdc-coref,r23w.0,87640,88181,zriny,87834,87841,Flammen,die-Feuerbrände
+gdc-coref,r23w.0,87640,88181,zriny,87900,87908,Die Ehre,Die-Ehre
+gdc-coref,r23w.0,87640,88181,zriny,87941,87954,Das Vaterland,das-Land
+gdc-coref,r23w.0,87640,88181,zriny,87964,87980,des Sohnes Leben,Mein-Leben
+gdc-coref,r23w.0,87640,88181,zriny,87964,87974,des Sohnes,vilacky
+gdc-coref,r23w.0,87640,88181,zriny,88042,88045,wir,EVA.-HELENE.-/-Ungar…-/-zriny
+gdc-coref,r23w.0,87640,88181,zriny,88093,88096,ihr,euern
+gdc-coref,r23w.0,87640,88181,zriny,88116,88123,Sigeths,Sigeth
+gdc-coref,r23w.0,87640,88181,zriny,88139,88142,uns,EVA.-HELENE.-/-Ungar…-/-zriny
+gdc-coref,r23w.0,88366,88428,levi,88398,88401,Mir,levi
+gdc-coref,r23w.0,88473,89412,levi,88609,88613,mich,levi
+gdc-coref,r23w.0,88473,89412,levi,88647,88650,ich,levi
+gdc-coref,r23w.0,88473,89412,levi,88672,88675,ich,levi
+gdc-coref,r23w.0,89418,89593,mehmed,89448,89452,Mein,mehmed
+gdc-coref,r23w.0,89418,89593,mehmed,89473,89476,Ich,mehmed
+gdc-coref,r23w.0,89599,89695,soliman,89623,89627,mich,soliman
+gdc-coref,r23w.0,89599,89695,soliman,89634,89637,mir,soliman
+gdc-coref,r23w.0,89599,89695,soliman,89650,89654,mein,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90006,90010,mein,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90019,90023,mich,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90073,90076,mir,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90172,90175,mir,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90210,90213,mir,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90297,90300,ich,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90389,90392,mir,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90482,90485,ich,soliman
+gdc-coref,r23w.0,89956,90540,soliman,90522,90528,meinen,soliman
+gdc-coref,r23w.0,91148,91433,soliman,91183,91186,Ich,soliman
+gdc-coref,r23w.0,91148,91433,soliman,91205,91210,meine,soliman
+gdc-coref,r23w.0,91469,91737,soliman,91488,91491,ich,soliman
+gdc-coref,r23w.0,91469,91737,soliman,91504,91510,meiner,soliman
+gdc-coref,r23w.0,91469,91737,soliman,91568,91572,mein,soliman
+gdc-coref,r23w.0,91469,91737,soliman,91624,91627,ich,soliman
+gdc-coref,r23w.0,91469,91737,soliman,91664,91669,meine,soliman
+gdc-coref,r23w.0,91469,91737,soliman,91700,91703,mir,soliman
+gdc-coref,r23w.0,91810,92133,levi,91817,91821,Mein,levi
+gdc-coref,r23w.0,91810,92133,levi,92048,92051,ich,levi
+gdc-coref,r23w.0,91810,92133,levi,92090,92094,Mein,levi
+gdc-coref,r23w.0,91810,92133,levi,92106,92110,mein,levi
+gdc-coref,r23w.0,92139,92176,soliman,92155,92158,ich,soliman
+gdc-coref,r23w.0,92139,92176,soliman,92172,92175,ich,soliman
+gdc-coref,r23w.0,92181,92410,levi,92209,92212,ich,levi
+gdc-coref,r23w.0,92416,92439,soliman,92431,92434,ich,soliman
+gdc-coref,r23w.0,92569,92798,levi,92710,92714,mein,levi
+gdc-coref,r23w.0,92929,93027,mehmed,92950,92954,mein,mehmed
+gdc-coref,r23w.0,93033,93300,soliman,93188,93192,Mein,soliman
+gdc-coref,r23w.0,93367,93532,soliman,93383,93387,mich,soliman
+gdc-coref,r23w.0,93367,93532,soliman,93401,93405,mich,soliman
+gdc-coref,r23w.0,93367,93532,soliman,93407,93410,ich,soliman
+gdc-coref,r23w.0,93367,93532,soliman,93430,93434,mich,soliman
+gdc-coref,r23w.0,93367,93532,soliman,93519,93523,mich,soliman
+gdc-coref,r23w.0,93648,93981,soliman,93675,93679,mich,soliman
+gdc-coref,r23w.0,93648,93981,soliman,93764,93768,mein,soliman
+gdc-coref,r23w.0,93648,93981,soliman,93784,93788,mein,soliman
+gdc-coref,r23w.0,93648,93981,soliman,93831,93834,mir,soliman
+gdc-coref,r23w.0,93648,93981,soliman,93855,93858,mir,soliman
+gdc-coref,r23w.0,93648,93981,soliman,93925,93928,ich,soliman
+gdc-coref,r23w.0,93987,94122,mehmed,94092,94095,mir,mehmed
+gdc-coref,r23w.0,94128,95173,soliman,94143,94146,ich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94163,94166,ich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94167,94171,mich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94185,94188,Ich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94249,94252,ich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94309,94313,Mein,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94485,94488,ich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94529,94532,ich,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94576,94580,mein,soliman
+gdc-coref,r23w.0,94128,95173,soliman,94626,94629,mir,soliman
+gdc-coref,r23w.0,95179,95347,levi,95199,95203,mein,levi
+gdc-coref,r23w.0,95353,95714,soliman,95381,95384,ich,soliman
+gdc-coref,r23w.0,95353,95714,soliman,95433,95436,ich,soliman
+gdc-coref,r23w.0,95353,95714,soliman,95554,95557,ich,soliman
+gdc-coref,r23w.0,95353,95714,soliman,95670,95673,ich,soliman
+gdc-coref,r23w.0,96115,96608,soliman,96324,96327,ich,soliman
+gdc-coref,r23w.0,96115,96608,soliman,96378,96381,ich,soliman
+gdc-coref,r23w.0,96115,96608,soliman,96401,96407,meines,soliman
+gdc-coref,r23w.0,96115,96608,soliman,96512,96515,Ich,soliman
+gdc-coref,r23w.0,96115,96608,soliman,96576,96579,ich,soliman
+gdc-coref,r23w.0,96612,96689,soliman,96641,96644,Ich,soliman
+gdc-coref,r23w.0,96693,96798,mehmed,96737,96740,ich,mehmed
+gdc-coref,r23w.0,96693,96798,mehmed,96741,96746,meine,mehmed
+gdc-coref,r23w.0,96910,97561,soliman,96944,96948,mich,soliman
+gdc-coref,r23w.0,96910,97561,soliman,97033,97036,mir,soliman
+gdc-coref,r23w.0,96910,97561,soliman,97105,97108,Ich,soliman
+gdc-coref,r23w.0,96910,97561,soliman,97169,97174,meine,soliman
+gdc-coref,r23w.0,97994,98088,soliman,98077,98080,Ich,soliman
+gdc-coref,r23w.0,98275,98334,levi,98289,98293,Mein,levi
+gdc-coref,r23w.0,98718,99037,mehmed,98815,98818,mir,mehmed
+gdc-coref,r23w.0,98718,99037,mehmed,99000,99004,mein,mehmed
+gdc-coref,r23w.0,99041,99443,mehmed,99077,99080,ich,mehmed
+gdc-coref,r23w.0,99041,99443,mehmed,99081,99086,meine,mehmed
+gdc-coref,r23w.0,99041,99443,mehmed,99151,99154,ich,mehmed
+gdc-coref,r23w.0,100059,100146,ali,100065,100068,Ich,ali
+gdc-coref,r23w.0,100059,100146,ali,100135,100140,meine,ali
+gdc-coref,r23w.0,100152,100337,der_begler_beg,100211,100214,Ich,der_begler_beg
+gdc-coref,r23w.0,100343,100472,mehmed,100440,100443,Ich,mehmed
+gdc-coref,r23w.0,100522,100598,mehmed,100560,100563,mir,mehmed
+gdc-coref,r23w.0,100708,100782,scherenk,100725,100728,mir,scherenk
+gdc-coref,r23w.0,100708,100782,scherenk,100759,100763,Mein,scherenk
+gdc-coref,r23w.0,100892,100917,eva,100907,100911,mein,eva
+gdc-coref,r23w.0,100922,101282,scherenk,100933,100936,Ich,scherenk
+gdc-coref,r23w.0,100922,101282,scherenk,101145,101148,mir,scherenk
+gdc-coref,r23w.0,101288,101440,helene,101383,101387,mein,helene
+gdc-coref,r23w.0,102185,102682,helene,102219,102222,mir,helene
+gdc-coref,r23w.0,102185,102682,helene,102328,102331,ich,helene
+gdc-coref,r23w.0,102185,102682,helene,102332,102335,mir,helene
+gdc-coref,r23w.0,102185,102682,helene,102400,102403,mir,helene
+gdc-coref,r23w.0,102185,102682,helene,102433,102439,meines,helene
+gdc-coref,r23w.0,102185,102682,helene,102477,102483,meines,helene
+gdc-coref,r23w.0,102185,102682,helene,102532,102535,ich,helene
+gdc-coref,r23w.0,102185,102682,helene,102653,102658,meine,helene
+gdc-coref,r23w.0,102185,102682,helene,102666,102669,mir,helene
+gdc-coref,r23w.0,102688,103083,eva,102970,102973,mir,eva
+gdc-coref,r23w.0,103089,103658,scherenk,103538,103541,Mir,scherenk
+gdc-coref,r23w.0,104494,105218,helene,104503,104506,Ich,helene
+gdc-coref,r23w.0,104494,105218,helene,104526,104529,ich,helene
+gdc-coref,r23w.0,104494,105218,helene,104556,104560,mich,helene
+gdc-coref,r23w.0,104494,105218,helene,104615,104618,ich,helene
+gdc-coref,r23w.0,104494,105218,helene,104654,104658,mein,helene
+gdc-coref,r23w.0,104494,105218,helene,104681,104684,ich,helene
+gdc-coref,r23w.0,104494,105218,helene,104734,104737,mir,helene
+gdc-coref,r23w.0,104494,105218,helene,104793,104796,ich,helene
+gdc-coref,r23w.0,104494,105218,helene,104825,104831,meines,helene
+gdc-coref,r23w.0,104494,105218,helene,104863,104866,ich,helene
+gdc-coref,r23w.0,104494,105218,helene,104867,104870,mir,helene
+gdc-coref,r23w.0,104494,105218,helene,104908,104911,ich,helene
+gdc-coref,r23w.0,104494,105218,helene,105192,105196,mich,helene
+gdc-coref,r23w.0,105224,105498,eva,105257,105260,Ich,eva
+gdc-coref,r23w.0,105224,105498,eva,105369,105372,mir,eva
+gdc-coref,r23w.0,105619,105654,zriny,105626,105630,Mein,zriny
+gdc-coref,r23w.0,105619,105654,zriny,105644,105648,Mein,zriny
+gdc-coref,r23w.0,105865,105991,zriny,105924,105927,ich,zriny
+gdc-coref,r23w.0,105865,105991,zriny,105978,105981,ich,zriny
+gdc-coref,r23w.0,105997,106197,juranitsch,106010,106013,Ich,juranitsch
+gdc-coref,r23w.0,105997,106197,juranitsch,106089,106095,meinem,juranitsch
+gdc-coref,r23w.0,105997,106197,juranitsch,106116,106119,ich,juranitsch
+gdc-coref,r23w.0,106253,106690,zriny,106409,106412,ich,zriny
+gdc-coref,r23w.0,106253,106690,zriny,106423,106428,meine,zriny
+gdc-coref,r23w.0,106929,107645,juranitsch,106964,106967,ich,juranitsch
+gdc-coref,r23w.0,106929,107645,juranitsch,107251,107254,ich,juranitsch
+gdc-coref,r23w.0,106929,107645,juranitsch,107255,107258,mir,juranitsch
+gdc-coref,r23w.0,106929,107645,juranitsch,107334,107337,ich,juranitsch
+gdc-coref,r23w.0,106929,107645,juranitsch,107476,107479,ich,juranitsch
+gdc-coref,r23w.0,106929,107645,juranitsch,107537,107540,mir,juranitsch
+gdc-coref,r23w.0,107651,107752,zriny,107731,107735,mich,zriny
+gdc-coref,r23w.0,107806,107864,zriny,107837,107841,mich,zriny
+gdc-coref,r23w.0,107939,107983,helene,107967,107971,Mein,helene
+gdc-coref,r23w.0,107988,108046,juranitsch,108033,108036,mir,juranitsch
+gdc-coref,r23w.0,108052,109005,zriny,108060,108063,Ich,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108134,108139,meine,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108308,108311,ich,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108867,108870,ich,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108889,108892,ich,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108965,108969,mich,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108989,108992,ich,zriny
+gdc-coref,r23w.0,108052,109005,zriny,108993,108996,mir,zriny
+gdc-coref,r23w.0,109058,109596,zriny,109089,109092,ich,zriny
+gdc-coref,r23w.0,109735,110230,juranitsch,109756,109760,mich,juranitsch
+gdc-coref,r23w.0,109735,110230,juranitsch,109789,109793,mich,juranitsch
+gdc-coref,r23w.0,109735,110230,juranitsch,109854,109857,mir,juranitsch
+gdc-coref,r23w.0,109735,110230,juranitsch,109883,109886,mir,juranitsch
+gdc-coref,r23w.0,109735,110230,juranitsch,109937,109941,mich,juranitsch
+gdc-coref,r23w.0,109735,110230,juranitsch,110136,110139,Ich,juranitsch
+gdc-coref,r23w.0,109735,110230,juranitsch,110214,110217,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110517,110520,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110558,110561,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110562,110568,meinem,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110590,110594,Mein,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110601,110605,mein,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110614,110618,mein,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110736,110739,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110806,110810,Mein,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110843,110846,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110915,110919,mein,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110957,110963,meinem,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,110985,110988,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111013,111016,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111089,111092,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111093,111098,meine,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111172,111175,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111207,111211,mich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111284,111288,mich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111433,111436,Ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111453,111456,Ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111482,111485,mir,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111487,111490,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111542,111545,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111565,111568,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111577,111581,mich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111608,111612,Mein,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111626,111629,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111667,111670,ich,juranitsch
+gdc-coref,r23w.0,110493,111833,juranitsch,111791,111795,Mein,juranitsch
+gdc-coref,r23w.0,111839,112071,zriny,111859,111863,mein,zriny
+gdc-coref,r23w.0,112077,112106,scherenk,112093,112096,ich,scherenk
+gdc-coref,r23w.0,112111,112419,eva,112123,112127,mein,eva
+gdc-coref,r23w.0,112111,112419,eva,112191,112194,Ich,eva
+gdc-coref,r23w.0,112111,112419,eva,112217,112220,Ich,eva
+gdc-coref,r23w.0,112111,112419,eva,112259,112263,mein,eva
+gdc-coref,r23w.0,112111,112419,eva,112303,112307,mich,eva
+gdc-coref,r23w.0,112111,112419,eva,112336,112339,ich,eva
+gdc-coref,r23w.0,112111,112419,eva,112360,112363,mir,eva
+gdc-coref,r23w.0,112111,112419,eva,112397,112400,ich,eva
+gdc-coref,r23w.0,112455,112632,eva,112481,112484,ich,eva
+gdc-coref,r23w.0,112455,112632,eva,112572,112576,mein,eva
+gdc-coref,r23w.0,113633,113833,zriny,113653,113658,meine,zriny
+gdc-coref,r23w.0,113633,113833,zriny,113718,113722,mich,zriny
+gdc-coref,r23w.0,113986,114118,zriny,114017,114020,Ich,zriny
+gdc-coref,r23w.0,114124,114643,scherenk,114149,114152,mir,scherenk
+gdc-coref,r23w.0,114124,114643,scherenk,114159,114162,Ich,scherenk
+gdc-coref,r23w.0,114124,114643,scherenk,114206,114209,Ich,scherenk
+gdc-coref,r23w.0,114124,114643,scherenk,114369,114372,ich,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,114691,114694,Ich,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,114846,114850,mein,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,114870,114876,meines,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,114903,114909,meiner,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,115005,115011,meines,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,115318,115321,ich,scherenk
+gdc-coref,r23w.0,114680,115504,scherenk,115401,115404,ich,scherenk
+gdc-coref,r23w.0,115533,115960,scherenk,115576,115579,ich,scherenk
+gdc-coref,r23w.0,115533,115960,scherenk,115694,115697,Ich,scherenk
+gdc-coref,r23w.0,115533,115960,scherenk,115760,115763,ich,scherenk
+gdc-coref,r23w.0,115533,115960,scherenk,115844,115850,meines,scherenk
+gdc-coref,r23w.0,115533,115960,scherenk,115902,115907,meine,scherenk
+gdc-coref,r23w.0,115533,115960,scherenk,115928,115931,ich,scherenk
+gdc-coref,r23w.0,115966,116294,zriny,116048,116051,ich,zriny
+gdc-coref,r23w.0,115966,116294,zriny,116086,116090,mich,zriny
+gdc-coref,r23w.0,115966,116294,zriny,116117,116121,mein,zriny
+gdc-coref,r23w.0,115966,116294,zriny,116150,116153,ich,zriny
+gdc-coref,r23w.0,115966,116294,zriny,116155,116159,Mich,zriny
+gdc-coref,r23w.0,115966,116294,zriny,116180,116183,Ich,zriny
+gdc-coref,r23w.0,115966,116294,zriny,116283,116287,mein,zriny
+gdc-coref,r23w.0,116340,116406,zriny,116353,116356,mir,zriny
+gdc-coref,r23w.0,116340,116406,zriny,116367,116370,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118003,118006,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118046,118049,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118118,118121,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118164,118167,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118218,118224,meines,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118239,118242,mir,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118333,118336,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118356,118359,mir,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118360,118364,mein,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118416,118419,mir,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118439,118442,mir,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118451,118456,meine,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118508,118511,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118546,118550,mich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118562,118565,Ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118571,118577,meinen,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118625,118629,mich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118649,118653,mich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118725,118728,ich,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118750,118753,mir,zriny
+gdc-coref,r23w.0,117984,118788,zriny,118769,118773,mein,zriny
+gdc-coref,r23w.0,118826,119277,zriny,118834,118837,Ich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,118882,118885,ich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,118918,118921,mir,zriny
+gdc-coref,r23w.0,118826,119277,zriny,118928,118931,ich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,118981,118986,meine,zriny
+gdc-coref,r23w.0,118826,119277,zriny,118995,118998,Ich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,119051,119054,ich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,119076,119079,ich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,119080,119084,mich,zriny
+gdc-coref,r23w.0,118826,119277,zriny,119100,119106,meinem,zriny
+gdc-coref,r23w.0,118826,119277,zriny,119233,119237,Mein,zriny
+gdc-coref,r23w.0,119378,119710,zriny,119521,119524,ich,zriny
+gdc-coref,r23w.0,119378,119710,zriny,119616,119619,mir,zriny
+gdc-coref,r23w.0,119378,119710,zriny,119647,119652,meine,zriny
+gdc-coref,r23w.0,119378,119710,zriny,119672,119678,meines,zriny
+gdc-coref,r23w.0,119806,119903,eva,119812,119815,Ich,eva
+gdc-coref,r23w.0,119806,119903,eva,119828,119834,meinem,eva
+gdc-coref,r23w.0,119806,119903,eva,119846,119849,ich,eva
+gdc-coref,r23w.0,119806,119903,eva,119850,119854,mich,eva
+gdc-coref,r23w.0,119936,120104,helene,119996,120001,meine,helene
+gdc-coref,r23w.0,119936,120104,helene,120041,120044,ich,helene
+gdc-coref,r23w.0,120110,120577,zriny,120197,120201,Mein,zriny
+gdc-coref,r23w.0,120110,120577,zriny,120234,120237,ich,zriny
+gdc-coref,r23w.0,120110,120577,zriny,120252,120255,mir,zriny
+gdc-coref,r23w.0,120110,120577,zriny,120519,120525,meines,zriny
+gdc-coref,r23w.0,120583,120848,eva,120589,120593,Mein,eva
+gdc-coref,r23w.0,120583,120848,eva,120626,120629,ich,eva
+gdc-coref,r23w.0,120583,120848,eva,120636,120639,mir,eva
+gdc-coref,r23w.0,120583,120848,eva,120763,120766,ich,eva
+gdc-coref,r23w.0,120886,120998,eva,120898,120901,ich,eva
+gdc-coref,r23w.0,120886,120998,eva,120945,120951,meinem,eva
+gdc-coref,r23w.0,120886,120998,eva,120969,120973,mich,eva
+gdc-coref,r23w.0,121004,121271,zriny,121035,121038,ich,zriny
+gdc-coref,r23w.0,121004,121271,zriny,121125,121128,ich,zriny
+gdc-coref,r23w.0,121277,121379,eva,121283,121287,Mein,eva
+gdc-coref,r23w.0,121277,121379,eva,121321,121324,mir,eva
+gdc-coref,r23w.0,121277,121379,eva,121332,121335,ich,eva
+gdc-coref,r23w.0,121277,121379,eva,121336,121340,mich,eva
+gdc-coref,r23w.0,121383,121785,helene,121392,121396,Mein,helene
+gdc-coref,r23w.0,121791,122564,zriny,122531,122534,mir,zriny
+gdc-coref,r23w.0,121791,122564,zriny,122546,122549,ich,zriny
+gdc-coref,r23w.0,122570,122726,eva,122630,122634,mich,eva
+gdc-coref,r23w.0,122570,122726,eva,122649,122653,mein,eva
+gdc-coref,r23w.0,122774,122947,helene,122801,122804,Ich,helene
+gdc-coref,r23w.0,122774,122947,helene,122864,122867,ich,helene
+gdc-coref,r23w.0,122774,122947,helene,122886,122890,mein,helene
+gdc-coref,r23w.0,123800,124234,zriny,123824,123830,meinen,zriny
+gdc-coref,r23w.0,124506,124556,juranitsch,124542,124546,mich,juranitsch
+gdc-coref,r23w.0,124561,125125,helene,124676,124679,ich,helene
+gdc-coref,r23w.0,124561,125125,helene,124805,124811,meinem,helene
+gdc-coref,r23w.0,124561,125125,helene,125062,125065,mir,helene
+gdc-coref,r23w.0,124561,125125,helene,125096,125099,mir,helene
+gdc-coref,r23w.0,125172,125464,helene,125398,125401,ich,helene
+gdc-coref,r23w.0,125172,125464,helene,125443,125446,ich,helene
+gdc-coref,r23w.0,125470,126206,juranitsch,125493,125496,ich,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125522,125525,ich,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125561,125565,mich,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125584,125588,Mein,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125617,125620,mir,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125627,125633,meines,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125654,125657,ich,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125719,125723,mich,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125761,125767,meiner,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,125970,125973,ich,juranitsch
+gdc-coref,r23w.0,125470,126206,juranitsch,126186,126189,ich,juranitsch
+gdc-coref,r23w.0,126212,126676,helene,126229,126233,mich,helene
+gdc-coref,r23w.0,126212,126676,helene,126387,126391,mich,helene
+gdc-coref,r23w.0,126212,126676,helene,126404,126407,ich,helene
+gdc-coref,r23w.0,126212,126676,helene,126470,126474,mich,helene
+gdc-coref,r23w.0,126212,126676,helene,126495,126498,mir,helene
+gdc-coref,r23w.0,126212,126676,helene,126520,126523,Ich,helene
+gdc-coref,r23w.0,126212,126676,helene,126563,126567,Mich,helene
+gdc-coref,r23w.0,126212,126676,helene,126617,126621,mein,helene
+gdc-coref,r23w.0,126212,126676,helene,126662,126666,mich,helene
+gdc-coref,r23w.0,126682,126742,juranitsch,126704,126707,Ich,juranitsch
+gdc-coref,r23w.0,126746,127179,helene,126847,126852,meine,helene
+gdc-coref,r23w.0,126746,127179,helene,126869,126875,meiner,helene
+gdc-coref,r23w.0,126746,127179,helene,126932,126936,mich,helene
+gdc-coref,r23w.0,126746,127179,helene,126945,126948,ich,helene
+gdc-coref,r23w.0,126746,127179,helene,126993,126999,meinen,helene
+gdc-coref,r23w.0,126746,127179,helene,127043,127046,ich,helene
+gdc-coref,r23w.0,126746,127179,helene,127083,127089,meinem,helene
+gdc-coref,r23w.0,126746,127179,helene,127107,127111,mich,helene
+gdc-coref,r23w.0,126746,127179,helene,127123,127126,mir,helene
+gdc-coref,r23w.0,127246,127290,helene,127263,127266,ich,helene
+gdc-coref,r23w.0,127416,127470,juranitsch,127457,127462,meine,juranitsch
+gdc-coref,r23w.0,127475,127564,helene,127527,127530,Ich,helene
+gdc-coref,r23w.0,127662,127814,helene,127719,127723,mich,helene
+gdc-coref,r23w.0,127662,127814,helene,127788,127793,meine,helene
+gdc-coref,r23w.0,127818,128266,juranitsch,127853,127858,meine,juranitsch
+gdc-coref,r23w.0,127818,128266,juranitsch,127923,127926,ich,juranitsch
+gdc-coref,r23w.0,127818,128266,juranitsch,127934,127937,ich,juranitsch
+gdc-coref,r23w.0,127818,128266,juranitsch,128004,128007,Ich,juranitsch
+gdc-coref,r23w.0,127818,128266,juranitsch,128201,128205,mich,juranitsch
+gdc-coref,r23w.0,127818,128266,juranitsch,128248,128252,mich,juranitsch
+gdc-coref,r23w.0,128422,130398,zriny,128453,128456,ich,zriny
+gdc-coref,r23w.0,128422,130398,zriny,128594,128597,ich,zriny
+gdc-coref,r23w.0,128422,130398,zriny,128631,128637,meinem,zriny
+gdc-coref,r23w.0,128422,130398,zriny,128824,128828,mein,zriny
+gdc-coref,r23w.0,128422,130398,zriny,129828,129831,ich,zriny
+gdc-coref,r23w.0,130525,130726,juranitsch,130714,130718,mich,juranitsch
+gdc-coref,r23w.0,130807,130936,eva,130838,130841,ich,eva
+gdc-coref,r23w.0,131178,131520,zriny,131256,131259,Ich,zriny
+gdc-coref,r23w.0,131178,131520,zriny,131426,131429,Ich,zriny
+gdc-coref,r23w.0,131526,131644,alapi,131633,131636,ich,alapi
+gdc-coref,r23w.0,131711,132022,zriny,131834,131837,mir,zriny
+gdc-coref,r23w.0,131711,132022,zriny,131929,131932,Mir,zriny
+gdc-coref,r23w.0,131711,132022,zriny,131939,131942,Mir,zriny

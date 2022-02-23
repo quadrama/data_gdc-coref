@@ -1,0 +1,991 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,t2z2.0,444,582,damon,476,479,ich,damon
+gdc-coref,t2z2.0,588,1126,phyllis,741,744,ich,phyllis
+gdc-coref,t2z2.0,588,1126,phyllis,849,853,mich,phyllis
+gdc-coref,t2z2.0,588,1126,phyllis,891,894,ich,phyllis
+gdc-coref,t2z2.0,588,1126,phyllis,1049,1052,ich,phyllis
+gdc-coref,t2z2.0,588,1126,phyllis,1105,1109,mich,phyllis
+gdc-coref,t2z2.0,1622,1700,phyllis,1658,1661,ich,phyllis
+gdc-coref,t2z2.0,1734,2015,phyllis,1793,1799,meinem,phyllis
+gdc-coref,t2z2.0,1734,2015,phyllis,1815,1818,ich,phyllis
+gdc-coref,t2z2.0,1734,2015,phyllis,1881,1884,ich,phyllis
+gdc-coref,t2z2.0,1734,2015,phyllis,1965,1969,Mein,phyllis
+gdc-coref,t2z2.0,2274,2392,sirmio,2314,2317,ich,sirmio
+gdc-coref,t2z2.0,2274,2392,sirmio,2353,2356,ich,sirmio
+gdc-coref,t2z2.0,2768,2796,damon,2786,2789,ich,damon
+gdc-coref,t2z2.0,2847,2942,damon,2868,2871,ich,damon
+gdc-coref,t2z2.0,2847,2942,damon,2938,2941,ich,damon
+gdc-coref,t2z2.0,2948,3122,phyllis,2983,2989,meinem,phyllis
+gdc-coref,t2z2.0,3159,3334,phyllis,3251,3254,ich,phyllis
+gdc-coref,t2z2.0,3340,3520,damon,3459,3462,ich,damon
+gdc-coref,t2z2.0,3340,3520,damon,3494,3497,ich,damon
+gdc-coref,t2z2.0,3875,4045,phyllis,3993,3996,Ich,phyllis
+gdc-coref,t2z2.0,4049,4746,damon,4057,4060,Ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4076,4079,ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4108,4113,meine,damon
+gdc-coref,t2z2.0,4049,4746,damon,4155,4158,ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4208,4211,Ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4235,4238,mir,damon
+gdc-coref,t2z2.0,4049,4746,damon,4260,4263,ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4329,4332,ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4386,4389,mir,damon
+gdc-coref,t2z2.0,4049,4746,damon,4505,4508,ich,damon
+gdc-coref,t2z2.0,4049,4746,damon,4617,4620,ich,damon
+gdc-coref,t2z2.0,4750,4891,sirmio,4804,4807,ich,sirmio
+gdc-coref,t2z2.0,4750,4891,sirmio,4829,4833,mein,sirmio
+gdc-coref,t2z2.0,4897,4962,schmuhl,4917,4921,mich,schmuhl
+gdc-coref,t2z2.0,4897,4962,schmuhl,4923,4926,Ich,schmuhl
+gdc-coref,t2z2.0,5038,5156,schmuhl,5055,5059,mich,schmuhl
+gdc-coref,t2z2.0,5038,5156,schmuhl,5061,5064,ich,schmuhl
+gdc-coref,t2z2.0,5038,5156,schmuhl,5135,5138,mir,schmuhl
+gdc-coref,t2z2.0,5162,5227,sirmio,5183,5186,ich,sirmio
+gdc-coref,t2z2.0,5442,5464,sirmio,5459,5463,mich,sirmio
+gdc-coref,t2z2.0,5469,5518,damon,5498,5501,ich,damon
+gdc-coref,t2z2.0,5569,5606,schmuhl,5591,5595,mich,schmuhl
+gdc-coref,t2z2.0,5662,5855,schmuhl,5722,5725,ich,schmuhl
+gdc-coref,t2z2.0,5862,6300,sirmio,5937,5940,ich,sirmio
+gdc-coref,t2z2.0,5862,6300,sirmio,6018,6021,ich,sirmio
+gdc-coref,t2z2.0,5862,6300,sirmio,6142,6145,ich,sirmio
+gdc-coref,t2z2.0,6306,6372,schmuhl,6327,6330,ich,schmuhl
+gdc-coref,t2z2.0,6422,6643,schmuhl,6437,6440,ich,schmuhl
+gdc-coref,t2z2.0,6649,6722,damon,6662,6665,Ich,damon
+gdc-coref,t2z2.0,6649,6722,damon,6672,6676,mich,damon
+gdc-coref,t2z2.0,6753,6827,damon,6817,6821,mich,damon
+gdc-coref,t2z2.0,6833,6885,schmuhl,6842,6846,Mein,schmuhl
+gdc-coref,t2z2.0,6890,6951,damon,6920,6923,ich,damon
+gdc-coref,t2z2.0,6956,7018,schmuhl,6988,6991,ich,schmuhl
+gdc-coref,t2z2.0,7164,7240,schmuhl,7210,7213,ich,schmuhl
+gdc-coref,t2z2.0,7245,7306,damon,7263,7266,mir,damon
+gdc-coref,t2z2.0,7311,7448,schmuhl,7351,7354,ich,schmuhl
+gdc-coref,t2z2.0,7311,7448,schmuhl,7361,7364,ich,schmuhl
+gdc-coref,t2z2.0,7311,7448,schmuhl,7398,7401,ich,schmuhl
+gdc-coref,t2z2.0,7311,7448,schmuhl,7411,7415,mich,schmuhl
+gdc-coref,t2z2.0,7768,7831,schmuhl,7811,7814,mir,schmuhl
+gdc-coref,t2z2.0,7899,8018,schmuhl,7938,7941,ich,schmuhl
+gdc-coref,t2z2.0,7899,8018,schmuhl,7971,7974,ich,schmuhl
+gdc-coref,t2z2.0,8126,8262,damon,8154,8157,ich,damon
+gdc-coref,t2z2.0,8309,8350,damon,8329,8332,mir,damon
+gdc-coref,t2z2.0,8355,8390,schmuhl,8381,8384,ich,schmuhl
+gdc-coref,t2z2.0,8461,8981,schmuhl,8493,8496,ich,schmuhl
+gdc-coref,t2z2.0,8461,8981,schmuhl,8497,8501,mich,schmuhl
+gdc-coref,t2z2.0,8461,8981,schmuhl,8646,8649,ich,schmuhl
+gdc-coref,t2z2.0,8461,8981,schmuhl,8654,8658,mich,schmuhl
+gdc-coref,t2z2.0,8461,8981,schmuhl,8702,8705,ich,schmuhl
+gdc-coref,t2z2.0,8461,8981,schmuhl,8732,8735,ich,schmuhl
+gdc-coref,t2z2.0,8985,9248,sirmio,9013,9017,mich,sirmio
+gdc-coref,t2z2.0,8985,9248,sirmio,9073,9076,ich,sirmio
+gdc-coref,t2z2.0,9254,9982,schmuhl,9284,9287,ich,schmuhl
+gdc-coref,t2z2.0,9254,9982,schmuhl,9436,9439,mir,schmuhl
+gdc-coref,t2z2.0,9254,9982,schmuhl,9461,9464,ich,schmuhl
+gdc-coref,t2z2.0,9254,9982,schmuhl,9596,9599,ich,schmuhl
+gdc-coref,t2z2.0,9254,9982,schmuhl,9619,9622,ich,schmuhl
+gdc-coref,t2z2.0,9254,9982,schmuhl,9839,9843,mich,schmuhl
+gdc-coref,t2z2.0,9254,9982,schmuhl,9858,9861,ich,schmuhl
+gdc-coref,t2z2.0,9988,10074,sirmio,10016,10019,Ich,sirmio
+gdc-coref,t2z2.0,10078,12244,schmuhl,10254,10257,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10279,10285,meinem,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10311,10314,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10430,10433,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10544,10547,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10558,10564,meinem,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10687,10690,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10693,10696,Ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10756,10760,mein,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10874,10877,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10964,10967,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,10985,10989,mich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11027,11030,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11088,11091,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11105,11109,mich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11128,11131,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11168,11171,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11224,11227,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11251,11254,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11310,11313,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11332,11335,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11383,11386,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11429,11432,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11460,11463,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11580,11583,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11622,11628,meines,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11725,11729,mein,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11752,11755,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11858,11861,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,11907,11910,mir,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,12023,12026,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,12046,12050,mich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,12098,12101,ich,schmuhl
+gdc-coref,t2z2.0,10078,12244,schmuhl,12171,12174,ich,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12298,12301,ich,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12367,12371,mich,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12396,12399,ich,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12421,12424,Ich,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12446,12449,mir,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12470,12473,mir,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12527,12530,ich,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12545,12549,mein,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12592,12595,mir,schmuhl
+gdc-coref,t2z2.0,12281,12665,schmuhl,12651,12655,mich,schmuhl
+gdc-coref,t2z2.0,13107,13401,schmuhl,13200,13203,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,13448,13451,Ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,13468,13471,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,13821,13824,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,14120,14123,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,14954,14957,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,15111,15114,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,15122,15125,ich,schmuhl
+gdc-coref,t2z2.0,13439,16536,schmuhl,15126,15130,mich,schmuhl
+gdc-coref,t2z2.0,16592,17598,mopsus,16797,16801,mein,mopsus
+gdc-coref,t2z2.0,16592,17598,mopsus,16816,16819,ich,mopsus
+gdc-coref,t2z2.0,16592,17598,mopsus,16954,16959,meine,mopsus
+gdc-coref,t2z2.0,16592,17598,mopsus,16969,16972,mir,mopsus
+gdc-coref,t2z2.0,16592,17598,mopsus,17315,17318,ich,mopsus
+gdc-coref,t2z2.0,16592,17598,mopsus,17328,17334,meiner,mopsus
+gdc-coref,t2z2.0,16592,17598,mopsus,17383,17386,ich,mopsus
+gdc-coref,t2z2.0,17602,17841,phyllis,17612,17615,Ich,phyllis
+gdc-coref,t2z2.0,17602,17841,phyllis,17786,17789,ich,phyllis
+gdc-coref,t2z2.0,18021,18203,mopsus,18111,18114,ich,mopsus
+gdc-coref,t2z2.0,18021,18203,mopsus,18154,18157,Ich,mopsus
+gdc-coref,t2z2.0,18021,18203,mopsus,18182,18185,ich,mopsus
+gdc-coref,t2z2.0,18495,18972,mopsus,18934,18937,Ich,mopsus
+gdc-coref,t2z2.0,18976,19100,phyllis,19051,19054,Ich,phyllis
+gdc-coref,t2z2.0,19104,19242,sirmio,19164,19170,meines,sirmio
+gdc-coref,t2z2.0,19249,19361,phyllis,19307,19311,Mein,phyllis
+gdc-coref,t2z2.0,19367,19421,sirmio,19386,19389,mir,sirmio
+gdc-coref,t2z2.0,19426,19478,phyllis,19460,19466,meiner,phyllis
+gdc-coref,t2z2.0,19536,19593,phyllis,19549,19552,mir,phyllis
+gdc-coref,t2z2.0,19536,19593,phyllis,19583,19586,ich,phyllis
+gdc-coref,t2z2.0,19598,19657,sirmio,19640,19643,ich,sirmio
+gdc-coref,t2z2.0,20129,20183,phyllis,20138,20141,Ich,phyllis
+gdc-coref,t2z2.0,20248,20305,phyllis,20282,20285,ich,phyllis
+gdc-coref,t2z2.0,20334,20421,phyllis,20411,20414,ich,phyllis
+gdc-coref,t2z2.0,20427,20609,sirmio,20514,20517,ich,sirmio
+gdc-coref,t2z2.0,20615,20667,phyllis,20635,20638,Ich,phyllis
+gdc-coref,t2z2.0,20615,20667,phyllis,20650,20653,mir,phyllis
+gdc-coref,t2z2.0,20820,20901,sirmio,20840,20844,mein,sirmio
+gdc-coref,t2z2.0,21021,21177,sirmio,21133,21136,ich,sirmio
+gdc-coref,t2z2.0,21183,21288,phyllis,21221,21224,ich,phyllis
+gdc-coref,t2z2.0,21183,21288,phyllis,21254,21260,meinem,phyllis
+gdc-coref,t2z2.0,21294,21535,sirmio,21303,21306,Ich,sirmio
+gdc-coref,t2z2.0,21294,21535,sirmio,21396,21400,mich,sirmio
+gdc-coref,t2z2.0,21541,21626,phyllis,21562,21565,Ich,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,21650,21653,mir,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,21710,21716,Meinem,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,21733,21736,ich,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,22078,22081,ich,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,22082,22085,mir,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,22107,22110,ich,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,22117,22121,mich,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,22143,22146,ich,phyllis
+gdc-coref,t2z2.0,21630,22273,phyllis,22193,22197,mein,phyllis
+gdc-coref,t2z2.0,22361,22397,mopsus,22381,22384,Ich,mopsus
+gdc-coref,t2z2.0,22464,22499,mopsus,22481,22484,ich,mopsus
+gdc-coref,t2z2.0,22605,22631,mopsus,22613,22616,Ich,mopsus
+gdc-coref,t2z2.0,22725,22768,mopsus,22739,22742,ich,mopsus
+gdc-coref,t2z2.0,22827,22989,phyllis,22985,22988,mir,phyllis
+gdc-coref,t2z2.0,22995,23055,mopsus,23011,23014,ich,mopsus
+gdc-coref,t2z2.0,22995,23055,mopsus,23045,23049,mich,mopsus
+gdc-coref,t2z2.0,23170,23227,mopsus,23187,23190,ich,mopsus
+gdc-coref,t2z2.0,23231,24683,phyllis,23303,23306,mir,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,23370,23373,mir,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,23550,23553,ich,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,23823,23826,ich,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,23854,23857,mir,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,23887,23890,mir,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,23958,23961,mir,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,24269,24272,Ich,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,24293,24297,mich,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,24481,24485,mein,phyllis
+gdc-coref,t2z2.0,23231,24683,phyllis,24504,24507,mir,phyllis
+gdc-coref,t2z2.0,24687,24842,mopsus,24706,24709,ich,mopsus
+gdc-coref,t2z2.0,24849,24936,sirmio,24874,24878,mich,sirmio
+gdc-coref,t2z2.0,24849,24936,sirmio,24889,24892,mir,sirmio
+gdc-coref,t2z2.0,24941,25121,mopsus,24969,24972,Ich,mopsus
+gdc-coref,t2z2.0,24941,25121,mopsus,24995,24998,Mir,mopsus
+gdc-coref,t2z2.0,24941,25121,mopsus,25012,25015,ich,mopsus
+gdc-coref,t2z2.0,25127,25227,phyllis,25222,25226,mich,phyllis
+gdc-coref,t2z2.0,25264,25333,phyllis,25302,25306,mich,phyllis
+gdc-coref,t2z2.0,25427,25470,phyllis,25453,25456,mir,phyllis
+gdc-coref,t2z2.0,25475,25506,sirmio,25483,25486,Ich,sirmio
+gdc-coref,t2z2.0,25529,25593,mopsus,25543,25546,ich,mopsus
+gdc-coref,t2z2.0,25617,25870,sirmio,25630,25633,ich,sirmio
+gdc-coref,t2z2.0,25617,25870,sirmio,25736,25739,ich,sirmio
+gdc-coref,t2z2.0,25617,25870,sirmio,25750,25753,mir,sirmio
+gdc-coref,t2z2.0,25617,25870,sirmio,25802,25806,mich,sirmio
+gdc-coref,t2z2.0,25904,25984,phyllis,25918,25921,ich,phyllis
+gdc-coref,t2z2.0,25904,25984,phyllis,25933,25936,ich,phyllis
+gdc-coref,t2z2.0,25988,28093,mopsus,26017,26020,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26096,26099,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26145,26148,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26182,26186,mein,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26461,26464,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26483,26486,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26499,26502,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26543,26547,mich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26606,26609,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26630,26633,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26681,26687,meiner,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26710,26713,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26789,26792,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,26955,26958,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27186,27190,mich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27223,27226,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27227,27230,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27587,27591,mich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27610,27613,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27681,27684,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27810,27813,Ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27871,27874,ich,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,27887,27890,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,28012,28015,mir,mopsus
+gdc-coref,t2z2.0,25988,28093,mopsus,28037,28041,mich,mopsus
+gdc-coref,t2z2.0,28504,28572,mopsus,28524,28528,mich,mopsus
+gdc-coref,t2z2.0,28760,28820,mopsus,28773,28776,ich,mopsus
+gdc-coref,t2z2.0,28760,28820,mopsus,28797,28801,mich,mopsus
+gdc-coref,t2z2.0,28826,28888,schmuhl,28861,28864,ich,schmuhl
+gdc-coref,t2z2.0,28893,28963,mopsus,28933,28937,mich,mopsus
+gdc-coref,t2z2.0,28968,29037,schmuhl,28980,28983,ich,schmuhl
+gdc-coref,t2z2.0,28968,29037,schmuhl,29015,29018,ich,schmuhl
+gdc-coref,t2z2.0,29042,29528,mopsus,29086,29092,meiner,mopsus
+gdc-coref,t2z2.0,29042,29528,mopsus,29155,29158,ich,mopsus
+gdc-coref,t2z2.0,29042,29528,mopsus,29299,29303,mich,mopsus
+gdc-coref,t2z2.0,29042,29528,mopsus,29332,29336,mein,mopsus
+gdc-coref,t2z2.0,29042,29528,mopsus,29376,29379,ich,mopsus
+gdc-coref,t2z2.0,31323,31405,mopsus,31344,31347,mir,mopsus
+gdc-coref,t2z2.0,31494,31582,mopsus,31504,31507,ich,mopsus
+gdc-coref,t2z2.0,31494,31582,mopsus,31548,31551,ich,mopsus
+gdc-coref,t2z2.0,31494,31582,mopsus,31564,31568,mich,mopsus
+gdc-coref,t2z2.0,31791,31876,mopsus,31816,31819,ich,mopsus
+gdc-coref,t2z2.0,31791,31876,mopsus,31861,31864,ich,mopsus
+gdc-coref,t2z2.0,31881,31967,schmuhl,31907,31910,ich,schmuhl
+gdc-coref,t2z2.0,31881,31967,schmuhl,31930,31933,ich,schmuhl
+gdc-coref,t2z2.0,31972,32073,mopsus,31991,31994,ich,mopsus
+gdc-coref,t2z2.0,31972,32073,mopsus,32009,32012,ich,mopsus
+gdc-coref,t2z2.0,32077,35446,schmuhl,32110,32114,mich,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,32276,32279,mir,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,32340,32344,mich,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,32454,32457,ich,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,32462,32465,ich,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,32566,32569,ich,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,33293,33296,mir,schmuhl
+gdc-coref,t2z2.0,32077,35446,schmuhl,34225,34228,ich,schmuhl
+gdc-coref,t2z2.0,35495,36791,phyllis,35684,35687,mir,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,35753,35756,ich,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,35795,35798,mir,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,35863,35866,mir,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,35879,35882,Ich,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,36013,36016,ich,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,36031,36034,mir,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,36211,36214,ich,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,36228,36232,mich,phyllis
+gdc-coref,t2z2.0,35495,36791,phyllis,36290,36293,mir,phyllis
+gdc-coref,t2z2.0,36865,36942,phyllis,36914,36918,mich,phyllis
+gdc-coref,t2z2.0,37022,37090,phyllis,37044,37047,ich,phyllis
+gdc-coref,t2z2.0,38129,38328,mopsus,38151,38154,ich,mopsus
+gdc-coref,t2z2.0,38129,38328,mopsus,38177,38180,mir,mopsus
+gdc-coref,t2z2.0,38129,38328,mopsus,38207,38210,ich,mopsus
+gdc-coref,t2z2.0,38459,38658,damon,38548,38551,ich,damon
+gdc-coref,t2z2.0,38745,38814,damon,38759,38762,mir,damon
+gdc-coref,t2z2.0,38864,38902,sirmio,38889,38892,mir,sirmio
+gdc-coref,t2z2.0,38907,38969,damon,38919,38922,ich,damon
+gdc-coref,t2z2.0,38907,38969,damon,38923,38928,meine,damon
+gdc-coref,t2z2.0,38974,39048,mopsus,39014,39017,ich,mopsus
+gdc-coref,t2z2.0,39148,39267,damon,39160,39163,ich,damon
+gdc-coref,t2z2.0,39274,39340,phyllis,39294,39297,Ich,phyllis
+gdc-coref,t2z2.0,42028,42071,phyllis,42057,42060,mir,phyllis
+gdc-coref,t2z2.0,42076,42152,mopsus,42106,42109,mir,mopsus
+gdc-coref,t2z2.0,42653,42734,phyllis,42662,42665,Ich,phyllis
+gdc-coref,t2z2.0,42653,42734,phyllis,42675,42679,mich,phyllis
+gdc-coref,t2z2.0,42953,43115,mopsus,43037,43040,ich,mopsus
+gdc-coref,t2z2.0,43121,43208,phyllis,43152,43155,ich,phyllis
+gdc-coref,t2z2.0,43121,43208,phyllis,43177,43180,ich,phyllis
+gdc-coref,t2z2.0,43212,44091,mopsus,43404,43407,mir,mopsus
+gdc-coref,t2z2.0,43212,44091,mopsus,43494,43497,mir,mopsus
+gdc-coref,t2z2.0,43212,44091,mopsus,43516,43519,ich,mopsus
+gdc-coref,t2z2.0,43212,44091,mopsus,44014,44017,mir,mopsus
+gdc-coref,t2z2.0,43212,44091,mopsus,44046,44050,mein,mopsus
+gdc-coref,t2z2.0,44095,44273,phyllis,44121,44124,ich,phyllis
+gdc-coref,t2z2.0,44095,44273,phyllis,44144,44147,ich,phyllis
+gdc-coref,t2z2.0,44095,44273,phyllis,44171,44174,Ich,phyllis
+gdc-coref,t2z2.0,44095,44273,phyllis,44225,44228,ich,phyllis
+gdc-coref,t2z2.0,44337,44619,phyllis,44355,44358,ich,phyllis
+gdc-coref,t2z2.0,44337,44619,phyllis,44408,44411,ich,phyllis
+gdc-coref,t2z2.0,44337,44619,phyllis,44468,44471,ich,phyllis
+gdc-coref,t2z2.0,44337,44619,phyllis,44512,44515,ich,phyllis
+gdc-coref,t2z2.0,44626,44713,mopsus,44643,44646,ich,mopsus
+gdc-coref,t2z2.0,44718,44920,phyllis,44760,44763,ich,phyllis
+gdc-coref,t2z2.0,44924,45026,phyllis,44971,44974,ich,phyllis
+gdc-coref,t2z2.0,45030,45100,salome,45038,45041,Ich,salome
+gdc-coref,t2z2.0,45030,45100,salome,45056,45060,mein,salome
+gdc-coref,t2z2.0,45105,45195,mopsus,45123,45126,ich,mopsus
+gdc-coref,t2z2.0,45379,45411,mopsus,45397,45400,ich,mopsus
+gdc-coref,t2z2.0,45416,45578,salome,45497,45500,mir,salome
+gdc-coref,t2z2.0,45584,45767,mopsus,45604,45607,ich,mopsus
+gdc-coref,t2z2.0,45584,45767,mopsus,45630,45633,ich,mopsus
+gdc-coref,t2z2.0,45584,45767,mopsus,45644,45647,ich,mopsus
+gdc-coref,t2z2.0,45584,45767,mopsus,45695,45698,ich,mopsus
+gdc-coref,t2z2.0,45584,45767,mopsus,45699,45703,mich,mopsus
+gdc-coref,t2z2.0,45584,45767,mopsus,45737,45740,ich,mopsus
+gdc-coref,t2z2.0,47837,48172,salome,47853,47856,ich,salome
+gdc-coref,t2z2.0,48332,48362,mopsus,48349,48352,ich,mopsus
+gdc-coref,t2z2.0,48367,48442,salome,48416,48419,ich,salome
+gdc-coref,t2z2.0,48448,48483,mopsus,48474,48477,ich,mopsus
+gdc-coref,t2z2.0,48558,48664,mopsus,48567,48570,Ich,mopsus
+gdc-coref,t2z2.0,48850,48906,salome,48878,48881,ich,salome
+gdc-coref,t2z2.0,48912,48964,mopsus,48932,48935,ich,mopsus
+gdc-coref,t2z2.0,48969,49192,salome,49051,49055,mein,salome
+gdc-coref,t2z2.0,48969,49192,salome,49128,49131,ich,salome
+gdc-coref,t2z2.0,49196,49682,mopsus,49240,49244,mich,mopsus
+gdc-coref,t2z2.0,49196,49682,mopsus,49308,49311,ich,mopsus
+gdc-coref,t2z2.0,49196,49682,mopsus,49321,49325,mein,mopsus
+gdc-coref,t2z2.0,49196,49682,mopsus,49409,49412,mir,mopsus
+gdc-coref,t2z2.0,49196,49682,mopsus,49470,49473,ich,mopsus
+gdc-coref,t2z2.0,49196,49682,mopsus,49625,49628,ich,mopsus
+gdc-coref,t2z2.0,49686,49764,schmuhl,49736,49739,ich,schmuhl
+gdc-coref,t2z2.0,49902,50052,mopsus,49984,49988,mich,mopsus
+gdc-coref,t2z2.0,49902,50052,mopsus,50048,50051,mir,mopsus
+gdc-coref,t2z2.0,50058,50105,schmuhl,50096,50099,mir,schmuhl
+gdc-coref,t2z2.0,50325,50422,schmuhl,50378,50382,mich,schmuhl
+gdc-coref,t2z2.0,50427,50593,mopsus,50448,50452,mich,mopsus
+gdc-coref,t2z2.0,50427,50593,mopsus,50481,50485,mich,mopsus
+gdc-coref,t2z2.0,50427,50593,mopsus,50521,50524,ich,mopsus
+gdc-coref,t2z2.0,50599,50679,schmuhl,50647,50650,ich,schmuhl
+gdc-coref,t2z2.0,50684,50938,mopsus,50730,50733,ich,mopsus
+gdc-coref,t2z2.0,50684,50938,mopsus,50738,50741,mir,mopsus
+gdc-coref,t2z2.0,50684,50938,mopsus,50810,50813,ich,mopsus
+gdc-coref,t2z2.0,50684,50938,mopsus,50867,50871,mich,mopsus
+gdc-coref,t2z2.0,50684,50938,mopsus,50880,50883,ich,mopsus
+gdc-coref,t2z2.0,50942,54225,schmuhl,50978,50981,ich,schmuhl
+gdc-coref,t2z2.0,50942,54225,schmuhl,50982,50986,mich,schmuhl
+gdc-coref,t2z2.0,50942,54225,schmuhl,51733,51736,ich,schmuhl
+gdc-coref,t2z2.0,54275,55263,mopsus,54292,54295,ich,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,54306,54312,meiner,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,54491,54496,meine,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,54592,54595,ich,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,54614,54617,ich,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,54653,54656,ich,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,54920,54923,ich,mopsus
+gdc-coref,t2z2.0,54275,55263,mopsus,55062,55065,ich,mopsus
+gdc-coref,t2z2.0,55363,55489,mopsus,55430,55433,mir,mopsus
+gdc-coref,t2z2.0,55555,55702,mopsus,55583,55586,ich,mopsus
+gdc-coref,t2z2.0,55851,55908,mopsus,55859,55862,Ich,mopsus
+gdc-coref,t2z2.0,55967,56022,mopsus,55975,55978,Ich,mopsus
+gdc-coref,t2z2.0,56090,56150,mopsus,56116,56119,Ich,mopsus
+gdc-coref,t2z2.0,56280,56305,mopsus,56288,56291,Ich,mopsus
+gdc-coref,t2z2.0,56446,56505,mopsus,56495,56498,ich,mopsus
+gdc-coref,t2z2.0,56510,56564,schmuhl,56555,56558,ich,schmuhl
+gdc-coref,t2z2.0,56638,56727,schmuhl,56693,56696,Ich,schmuhl
+gdc-coref,t2z2.0,56734,56889,mopsus,56766,56769,mir,mopsus
+gdc-coref,t2z2.0,56734,56889,mopsus,56777,56780,Ich,mopsus
+gdc-coref,t2z2.0,57097,57300,schmuhl,57111,57115,mich,schmuhl
+gdc-coref,t2z2.0,57097,57300,schmuhl,57132,57135,ich,schmuhl
+gdc-coref,t2z2.0,57097,57300,schmuhl,57149,57152,ich,schmuhl
+gdc-coref,t2z2.0,57097,57300,schmuhl,57186,57189,ich,schmuhl
+gdc-coref,t2z2.0,57097,57300,schmuhl,57199,57202,mir,schmuhl
+gdc-coref,t2z2.0,57097,57300,schmuhl,57264,57267,ich,schmuhl
+gdc-coref,t2z2.0,57363,57461,schmuhl,57422,57425,ich,schmuhl
+gdc-coref,t2z2.0,57694,57741,mopsus,57726,57730,mich,mopsus
+gdc-coref,t2z2.0,57746,57901,schmuhl,57763,57766,Ich,schmuhl
+gdc-coref,t2z2.0,57746,57901,schmuhl,57788,57791,ich,schmuhl
+gdc-coref,t2z2.0,57746,57901,schmuhl,57825,57828,mir,schmuhl
+gdc-coref,t2z2.0,57907,58015,mopsus,57916,57919,Ich,mopsus
+gdc-coref,t2z2.0,57907,58015,mopsus,57971,57974,mir,mopsus
+gdc-coref,t2z2.0,58021,58094,schmuhl,58031,58034,Ich,schmuhl
+gdc-coref,t2z2.0,58100,58198,mopsus,58114,58117,mir,mopsus
+gdc-coref,t2z2.0,58100,58198,mopsus,58137,58140,ich,mopsus
+gdc-coref,t2z2.0,58289,58366,schmuhl,58315,58318,Ich,schmuhl
+gdc-coref,t2z2.0,58370,59607,damon,58393,58396,mir,damon
+gdc-coref,t2z2.0,58370,59607,damon,58410,58413,ich,damon
+gdc-coref,t2z2.0,58370,59607,damon,58414,58418,mich,damon
+gdc-coref,t2z2.0,58370,59607,damon,58511,58514,ich,damon
+gdc-coref,t2z2.0,58370,59607,damon,59005,59008,ich,damon
+gdc-coref,t2z2.0,58370,59607,damon,59015,59018,ich,damon
+gdc-coref,t2z2.0,58370,59607,damon,59462,59465,ich,damon
+gdc-coref,t2z2.0,59612,60026,sirmio,59671,59674,ich,sirmio
+gdc-coref,t2z2.0,59612,60026,sirmio,59886,59889,Ich,sirmio
+gdc-coref,t2z2.0,59612,60026,sirmio,59895,59898,mir,sirmio
+gdc-coref,t2z2.0,59612,60026,sirmio,59900,59903,ich,sirmio
+gdc-coref,t2z2.0,59612,60026,sirmio,59909,59912,mir,sirmio
+gdc-coref,t2z2.0,59612,60026,sirmio,59988,59994,meinen,sirmio
+gdc-coref,t2z2.0,60111,60174,damon,60149,60152,mir,damon
+gdc-coref,t2z2.0,60111,60174,damon,60164,60167,ich,damon
+gdc-coref,t2z2.0,60460,60540,sirmio,60477,60481,mich,sirmio
+gdc-coref,t2z2.0,60460,60540,sirmio,60516,60519,mir,sirmio
+gdc-coref,t2z2.0,60545,60620,damon,60595,60598,mir,damon
+gdc-coref,t2z2.0,60624,61641,damon,60638,60641,Ich,damon
+gdc-coref,t2z2.0,60624,61641,damon,60680,60683,mir,damon
+gdc-coref,t2z2.0,60624,61641,damon,60806,60809,mir,damon
+gdc-coref,t2z2.0,60624,61641,damon,61042,61045,ich,damon
+gdc-coref,t2z2.0,61647,61790,sirmio,61719,61722,ich,sirmio
+gdc-coref,t2z2.0,61796,61836,damon,61803,61806,Ich,damon
+gdc-coref,t2z2.0,61841,61944,sirmio,61877,61880,ich,sirmio
+gdc-coref,t2z2.0,62022,62156,sirmio,62110,62113,mir,sirmio
+gdc-coref,t2z2.0,62162,62201,damon,62178,62181,ich,damon
+gdc-coref,t2z2.0,62206,62384,sirmio,62302,62305,ich,sirmio
+gdc-coref,t2z2.0,62206,62384,sirmio,62326,62329,mir,sirmio
+gdc-coref,t2z2.0,62206,62384,sirmio,62360,62363,ich,sirmio
+gdc-coref,t2z2.0,62390,62464,damon,62445,62449,mich,damon
+gdc-coref,t2z2.0,62564,62636,damon,62577,62580,ich,damon
+gdc-coref,t2z2.0,62564,62636,damon,62604,62607,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,62780,62784,mich,damon
+gdc-coref,t2z2.0,62739,64188,damon,62835,62838,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,62839,62843,mich,damon
+gdc-coref,t2z2.0,62739,64188,damon,62859,62862,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,62867,62870,mir,damon
+gdc-coref,t2z2.0,62739,64188,damon,62911,62914,Ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63065,63068,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63224,63227,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63228,63231,mir,damon
+gdc-coref,t2z2.0,62739,64188,damon,63696,63700,mich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63771,63774,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63833,63837,mich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63844,63847,ich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63891,63895,mich,damon
+gdc-coref,t2z2.0,62739,64188,damon,63932,63935,ich,damon
+gdc-coref,t2z2.0,64192,64428,schmuhl,64294,64298,mein,schmuhl
+gdc-coref,t2z2.0,64192,64428,schmuhl,64316,64319,ich,schmuhl
+gdc-coref,t2z2.0,64432,65057,mopsus,64452,64455,ich,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64498,64501,mir,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64614,64617,ich,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64690,64693,ich,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64694,64697,mir,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64761,64765,mich,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64801,64804,ich,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64924,64927,mir,mopsus
+gdc-coref,t2z2.0,64432,65057,mopsus,64947,64950,mir,mopsus
+gdc-coref,t2z2.0,65233,65287,mopsus,65252,65255,ich,mopsus
+gdc-coref,t2z2.0,65233,65287,mopsus,65256,65259,mir,mopsus
+gdc-coref,t2z2.0,65908,66001,schmuhl,65930,65933,ich,schmuhl
+gdc-coref,t2z2.0,66611,66731,schmuhl,66707,66713,meiner,schmuhl
+gdc-coref,t2z2.0,66737,66791,mopsus,66756,66759,ich,mopsus
+gdc-coref,t2z2.0,66988,67075,schmuhl,67017,67020,ich,schmuhl
+gdc-coref,t2z2.0,67322,67372,schmuhl,67342,67345,ich,schmuhl
+gdc-coref,t2z2.0,67322,67372,schmuhl,67353,67356,ich,schmuhl
+gdc-coref,t2z2.0,67422,70679,schmuhl,67447,67450,ich,schmuhl
+gdc-coref,t2z2.0,67422,70679,schmuhl,67479,67482,ich,schmuhl
+gdc-coref,t2z2.0,70702,70728,_stage,70702,70706,Saal,Saal
+gdc-coref,t2z2.0,70702,70728,_stage,70707,70727,im Gasthof zur Gabel,im-Gasthof-zur-Gabel
+gdc-coref,t2z2.0,70702,70728,_stage,70718,70727,zur Gabel,zur-Gabel
+gdc-coref,t2z2.0,70730,71826,wirth,70766,70769,mir,wirth
+gdc-coref,t2z2.0,70730,71826,wirth,70770,70787,diese fremde Lady,mopsus2
+gdc-coref,t2z2.0,70730,71826,wirth,70794,70797,Die,mopsus2
+gdc-coref,t2z2.0,70730,71826,wirth,70802,70814,den Schleier,den-Schleier
+gdc-coref,t2z2.0,70730,71826,wirth,70855,70858,sie,mopsus2
+gdc-coref,t2z2.0,70730,71826,wirth,71022,71030,der Zeit,der-Zeit
+gdc-coref,t2z2.0,70730,71826,wirth,71069,71080,Urangutangs,Urangutangs
+gdc-coref,t2z2.0,70730,71826,wirth,71081,71086,ihren,Urangutangs
+gdc-coref,t2z2.0,70730,71826,wirth,71153,71159,Solche,Urangutangs2
+gdc-coref,t2z2.0,70730,71826,wirth,71172,71175,ihr,Urangutangs2
+gdc-coref,t2z2.0,70730,71826,wirth,71253,71261,die Lady,mopsus2
+gdc-coref,t2z2.0,70730,71826,wirth,71262,71277,die berüchtigte,die-berüchtigte-------------Prinzessin
+gdc-coref,t2z2.0,70730,71826,wirth,71314,71320,welche,die-berüchtigte-------------Prinzessin
+gdc-coref,t2z2.0,70730,71826,wirth,71321,71325,sich,die-berüchtigte-------------Prinzessin
+gdc-coref,t2z2.0,70730,71826,wirth,71338,71349,Deutschland,Deutschland
+gdc-coref,t2z2.0,70730,71826,wirth,71370,71373,man,man
+gdc-coref,t2z2.0,70730,71826,wirth,71416,71419,sie,die-berüchtigte-------------Prinzessin
+gdc-coref,t2z2.0,70730,71826,wirth,71486,71494,Gemeines,Gemeines
+gdc-coref,t2z2.0,70730,71826,wirth,71501,71505,sich,Gemeines
+gdc-coref,t2z2.0,70730,71826,wirth,71521,71530,des Volks,des-Volks
+gdc-coref,t2z2.0,70730,71826,wirth,71612,71615,mir,wirth
+gdc-coref,t2z2.0,70730,71826,wirth,71644,71665,der guten Lady Mutter,der-guten-Lady-Mutter
+gdc-coref,t2z2.0,70730,71826,wirth,71644,71658,der guten Lady,mopsus2
+gdc-coref,t2z2.0,70730,71826,wirth,71666,71670,sich,der-guten-Lady-Mutter
+gdc-coref,t2z2.0,70730,71826,wirth,71719,71756,Ein Demagogenriechernashornsangesicht,mopsus
+gdc-coref,t2z2.0,70730,71826,wirth,71758,71766,Zur Welt,Zur-Welt
+gdc-coref,t2z2.0,71811,71826,_stage,71811,71816,Wirth,wirth
+gdc-coref,t2z2.0,71811,71826,_stage,71818,71825,Schmuhl,schmuhl
+gdc-coref,t2z2.0,71830,71869,schmuhl,71847,71855,der Lady,mopsus2
+gdc-coref,t2z2.0,71874,71914,wirth,71882,71893,Drei Kannen,Drei-Kannen
+gdc-coref,t2z2.0,71874,71914,wirth,71901,71909,Reicht's,Drei-Kannen
+gdc-coref,t2z2.0,71920,71973,schmuhl,71929,71931,Es,Drei-Kannen
+gdc-coref,t2z2.0,72004,72261,schmuhl,72023,72053,der verwünschte Schatzbehälter,der-verwünschte-Schatzbehälter
+gdc-coref,t2z2.0,72004,72261,schmuhl,72100,72103,Ich,schmuhl
+gdc-coref,t2z2.0,72004,72261,schmuhl,72118,72129,den Vorsaal,Saal
+gdc-coref,t2z2.0,72004,72261,schmuhl,72137,72140,ihn,der-verwünschte-Schatzbehälter
+gdc-coref,t2z2.0,72004,72261,schmuhl,72177,72180,mir,schmuhl
+gdc-coref,t2z2.0,72004,72261,schmuhl,72189,72194,Nacht,Nacht
+gdc-coref,t2z2.0,72004,72261,schmuhl,72212,72215,Ihn,der-verwünschte-Schatzbehälter
+gdc-coref,t2z2.0,72004,72261,schmuhl,72240,72250,unsre Lady,mopsus2
+gdc-coref,t2z2.0,72004,72261,schmuhl,72240,72245,unsre,schmuhl2
+gdc-coref,t2z2.0,72267,72339,wirth,72288,72296,Die Dame,mopsus2
+gdc-coref,t2z2.0,72267,72339,wirth,72312,72323,im Schleier,den-Schleier
+gdc-coref,t2z2.0,72267,72339,wirth,72329,72332,sie,mopsus2
+gdc-coref,t2z2.0,72444,72494,wirth,72464,72467,ich,wirth
+gdc-coref,t2z2.0,72444,72494,wirth,72474,72477,sie,mopsus2
+gdc-coref,t2z2.0,72499,72559,schmuhl,72518,72521,ihr,wirth
+gdc-coref,t2z2.0,72499,72559,schmuhl,72551,72554,sie,mopsus2
+gdc-coref,t2z2.0,72668,72790,schmuhl,72739,72744,Jeden,Jeden
+gdc-coref,t2z2.0,72796,72885,wirth,72804,72829,Himmlische Verschwenderin,mopsus2
+gdc-coref,t2z2.0,72796,72885,wirth,72832,72843,Den Göttern,Den-Göttern
+gdc-coref,t2z2.0,72796,72885,wirth,72850,72853,ich,wirth
+gdc-coref,t2z2.0,72796,72885,wirth,72859,72862,sie,Den-Göttern
+gdc-coref,t2z2.0,72796,72885,wirth,72863,72867,dich,mopsus2
+gdc-coref,t2z2.0,72796,72885,wirth,72868,72876,ins Haus,im-Gasthof-zur-Gabel
+gdc-coref,t2z2.0,72891,72992,schmuhl,72930,72933,ihr,wirth
+gdc-coref,t2z2.0,72891,72992,schmuhl,72957,72960,sie,mopsus2
+gdc-coref,t2z2.0,72891,72992,schmuhl,72976,72980,euch,wirth
+gdc-coref,t2z2.0,72998,73096,wirth,73017,73020,sie,mopsus2
+gdc-coref,t2z2.0,72998,73096,wirth,73055,73058,sie,mopsus2
+gdc-coref,t2z2.0,73102,73208,schmuhl,73162,73165,Ich,schmuhl
+gdc-coref,t2z2.0,73102,73208,schmuhl,73182,73186,mich,schmuhl
+gdc-coref,t2z2.0,73212,76110,wirth,73246,73249,ich,wirth
+gdc-coref,t2z2.0,73212,76110,wirth,73257,73270,eine Reisende,mopsus2
+gdc-coref,t2z2.0,73212,76110,wirth,73284,73294,diese Lady,mopsus2
+gdc-coref,t2z2.0,73212,76110,wirth,73322,73338,einem Dalai Lama,einem-Dalai-Lama
+gdc-coref,t2z2.0,73212,76110,wirth,73369,73372,ich,wirth
+gdc-coref,t2z2.0,73212,76110,wirth,73395,73404,zur Gabel,im-Gasthof-zur-Gabel
+gdc-coref,t2z2.0,73212,76110,wirth,73412,73415,Sie,mopsus2
+gdc-coref,t2z2.0,73212,76110,wirth,73431,73451,dieselbe Tibetanerin,dieselbe-Tibetanerin
+gdc-coref,t2z2.0,73212,76110,wirth,73458,73465,welcher,dieselbe-Tibetanerin
+gdc-coref,t2z2.0,73212,76110,wirth,73506,73509,sie,dieselbe-Tibetanerin
+gdc-coref,t2z2.0,73212,76110,wirth,73530,73548,eines Trauerspiels,eines-Trauerspiels-------------Des-Dichters
+gdc-coref,t2z2.0,73212,76110,wirth,73550,73562,Des Dichters,Des-Dichters
+gdc-coref,t2z2.0,73212,76110,wirth,73569,73572,der,Des-Dichters
+gdc-coref,t2z2.0,73212,76110,wirth,73603,73617,Die Geschichte,eines-Trauerspiels-------------Des-Dichters
+gdc-coref,t2z2.0,73212,76110,wirth,73660,73686,Ein frommer Taschenspieler,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,73732,73736,sich,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,73758,73789,"eine junge, tibetanische Person","eine-junge,-tibetanische-Person"
+gdc-coref,t2z2.0,73212,76110,wirth,73854,73857,sie,"eine-junge,-tibetanische-Person"
+gdc-coref,t2z2.0,73212,76110,wirth,73876,73889,der Bräutigam,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,73938,73941,Ihm,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,73969,73971,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74008,74012,sich,das-Christenthum
+gdc-coref,t2z2.0,73212,76110,wirth,74013,74029,das Christenthum,das-Christenthum
+gdc-coref,t2z2.0,73212,76110,wirth,74052,74063,dieser Welt,Zur-Welt
+gdc-coref,t2z2.0,73212,76110,wirth,74159,74173,das Heidenthum,das-Heidenthum
+gdc-coref,t2z2.0,73212,76110,wirth,74186,74188,es,das-Heidenthum
+gdc-coref,t2z2.0,73212,76110,wirth,74301,74307,dieser,Zur-Welt
+gdc-coref,t2z2.0,73212,76110,wirth,74334,74339,Jeder,Jeden
+gdc-coref,t2z2.0,73212,76110,wirth,74360,74376,dieser Philosoph,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74381,74389,Proselyt,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74424,74426,er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74443,74445,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74467,74471,sich,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74498,74532,"eine Speise, die, bereits verdaut,","eine-Speise,-die,-bereits-verdaut,-------------Im-Darm-des-Dalai-Lama-schon-gewesen-war"
+gdc-coref,t2z2.0,73212,76110,wirth,74542,74556,des Dalai Lama,einem-Dalai-Lama
+gdc-coref,t2z2.0,73212,76110,wirth,74577,74579,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74588,74590,er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74660,74663,ihn,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74665,74673,der Lama,einem-Dalai-Lama
+gdc-coref,t2z2.0,73212,76110,wirth,74683,74695,Die Geliebte,"eine-junge,-tibetanische-Person"
+gdc-coref,t2z2.0,73212,76110,wirth,74701,74704,ihn,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74705,74709,ihre,"eine-junge,-tibetanische-Person"
+gdc-coref,t2z2.0,73212,76110,wirth,74764,74767,ihm,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74768,74781,die Süßigkeit,"eine-Speise,-die,-bereits-verdaut,-------------Im-Darm-des-Dalai-Lama-schon-gewesen-war"
+gdc-coref,t2z2.0,73212,76110,wirth,74814,74816,er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74828,74832,sich,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74878,74881,ihm,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,74898,74915,der große Dichter,Des-Dichters
+gdc-coref,t2z2.0,73212,76110,wirth,74916,74935,diesen großen Kampf,diesen-großen-Kampf
+gdc-coref,t2z2.0,73212,76110,wirth,74937,74940,Uns,wirth2
+gdc-coref,t2z2.0,73212,76110,wirth,74954,74990,"den ärgsten, den ein Mensch gekämpft",diesen-großen-Kampf
+gdc-coref,t2z2.0,73212,76110,wirth,74971,74981,ein Mensch,ein-Mensch
+gdc-coref,t2z2.0,73212,76110,wirth,75054,75069,die Tibetanerin,"eine-junge,-tibetanische-Person"
+gdc-coref,t2z2.0,73212,76110,wirth,75083,75086,ihm,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75098,75116,einem Eingeborenen,einem-Eingeborenen
+gdc-coref,t2z2.0,73212,76110,wirth,75139,75145,Dieser,einem-Eingeborenen
+gdc-coref,t2z2.0,73212,76110,wirth,75152,75155,sie,"eine-junge,-tibetanische-Person"
+gdc-coref,t2z2.0,73212,76110,wirth,75168,75181,Der Missionär,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75213,75217,sich,sich
+gdc-coref,t2z2.0,73212,76110,wirth,75219,75233,Sein Innerstes,sich
+gdc-coref,t2z2.0,73212,76110,wirth,75219,75223,Sein,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75328,75330,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75344,75358,das Geheiligte,"eine-Speise,-die,-bereits-verdaut,-------------Im-Darm-des-Dalai-Lama-schon-gewesen-war"
+gdc-coref,t2z2.0,73212,76110,wirth,75361,75363,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75379,75385,seiner,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75403,75406,ihn,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75428,75438,die Beiden,"einem-Eingeborenen-/-eine-junge,-tibetani…"
+gdc-coref,t2z2.0,73212,76110,wirth,75520,75533,unsern Helden,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75520,75526,unsern,wirth2
+gdc-coref,t2z2.0,73212,76110,wirth,75560,75562,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75592,75596,sich,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75609,75613,sich,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75643,75646,ich,wirth
+gdc-coref,t2z2.0,73212,76110,wirth,75655,75657,er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75700,75708,die Pole,Den-andern-Pol-/-des-einen-Pols
+gdc-coref,t2z2.0,73212,76110,wirth,75709,75713,sich,Den-andern-Pol-/-des-einen-Pols
+gdc-coref,t2z2.0,73212,76110,wirth,75729,75743,des einen Pols,des-einen-Pols
+gdc-coref,t2z2.0,73212,76110,wirth,75760,75774,Den andern Pol,Den-andern-Pol
+gdc-coref,t2z2.0,73212,76110,wirth,75808,75810,Er,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75888,75893,Jeder,Jeden
+gdc-coref,t2z2.0,73212,76110,wirth,75910,75918,ein Reim,ein-Reim
+gdc-coref,t2z2.0,73212,76110,wirth,75919,75923,sich,ein-Reim
+gdc-coref,t2z2.0,73212,76110,wirth,75964,75982,unser Missionarius,Ein-frommer-Taschenspieler
+gdc-coref,t2z2.0,73212,76110,wirth,75964,75969,unser,wirth2
+gdc-coref,t2z2.0,73212,76110,wirth,75983,75992,den Geist,den-Geist
+gdc-coref,t2z2.0,73212,76110,wirth,76022,76039,den Müllnerischen,den-Geist
+gdc-coref,t2z2.0,73212,76110,wirth,76061,76093,eines Lama's heiligem Ingrediens,"eine-Speise,-die,-bereits-verdaut,-------------Im-Darm-des-Dalai-Lama-schon-gewesen-war"
+gdc-coref,t2z2.0,73212,76110,wirth,76061,76073,eines Lama's,einem-Dalai-Lama
+gdc-coref,t2z2.0,76097,76110,_stage,76097,76102,Wirth,wirth
+gdc-coref,t2z2.0,76097,76110,_stage,76104,76109,Damon,damon
+gdc-coref,t2z2.0,76114,76150,damon,76126,76129,ihr,wirth
+gdc-coref,t2z2.0,76114,76150,damon,76130,76139,der Wirth,wirth
+gdc-coref,t2z2.0,76114,76150,damon,76140,76149,zur Gabel,im-Gasthof-zur-Gabel
+gdc-coref,t2z2.0,76155,76182,wirth,76177,76181,Herr,damon
+gdc-coref,t2z2.0,76187,76243,damon,76199,76202,ich,damon
+gdc-coref,t2z2.0,76187,76243,damon,76231,76242,diese Nacht,Nacht
+gdc-coref,t2z2.0,76248,76361,wirth,76303,76306,ihr,damon
+gdc-coref,t2z2.0,76248,76361,wirth,76313,76321,Im Saale,Saal
+gdc-coref,t2z2.0,76248,76361,wirth,76339,76342,ich,wirth
+gdc-coref,t2z2.0,76367,76417,damon,76374,76377,Ich,damon
+gdc-coref,t2z2.0,76422,77068,wirth,76436,76440,euch,damon
+gdc-coref,t2z2.0,76422,77068,wirth,76461,76464,ich,wirth
+gdc-coref,t2z2.0,76422,77068,wirth,76476,76479,mir,wirth
+gdc-coref,t2z2.0,76422,77068,wirth,76515,76532,die reichste Lady,mopsus2
+gdc-coref,t2z2.0,76422,77068,wirth,76537,76545,der Welt,Zur-Welt
+gdc-coref,t2z2.0,76422,77068,wirth,76558,76595,"die Kiste, welche voll von Louisd'ors","die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,76422,77068,wirth,76585,76595,Louisd'ors,Louisd'ors
+gdc-coref,t2z2.0,76422,77068,wirth,76607,76610,das,Louisd'ors
+gdc-coref,t2z2.0,76422,77068,wirth,76634,76646,dem Uebrigen,dem-Uebrigen
+gdc-coref,t2z2.0,76422,77068,wirth,76671,76674,sie,mopsus2
+gdc-coref,t2z2.0,76422,77068,wirth,76682,76694,den Schleier,den-Schleier
+gdc-coref,t2z2.0,76422,77068,wirth,76701,76704,Sie,mopsus2
+gdc-coref,t2z2.0,76422,77068,wirth,76713,76717,sich,mopsus2
+gdc-coref,t2z2.0,76422,77068,wirth,76723,76734,ihre Mutter,der-guten-Lady-Mutter
+gdc-coref,t2z2.0,76422,77068,wirth,76723,76727,ihre,mopsus2
+gdc-coref,t2z2.0,76422,77068,wirth,76751,76755,Sich,der-guten-Lady-Mutter
+gdc-coref,t2z2.0,76422,77068,wirth,76816,76819,man,man
+gdc-coref,t2z2.0,76422,77068,wirth,76916,76919,ihr,damon
+gdc-coref,t2z2.0,76422,77068,wirth,76930,76933,mir,wirth
+gdc-coref,t2z2.0,76422,77068,wirth,76950,76954,euch,damon
+gdc-coref,t2z2.0,76422,77068,wirth,76972,76976,euch,damon
+gdc-coref,t2z2.0,76422,77068,wirth,76990,76993,ihr,damon
+gdc-coref,t2z2.0,76422,77068,wirth,77001,77008,im Saal,Saal
+gdc-coref,t2z2.0,76422,77068,wirth,77036,77044,die Lady,mopsus2
+gdc-coref,t2z2.0,76422,77068,wirth,77050,77061,das Kabinet,das-Kabinet
+gdc-coref,t2z2.0,77072,79046,damon,77090,77093,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,77167,77170,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,77171,77180,die Nacht,Nacht
+gdc-coref,t2z2.0,77072,79046,damon,77255,77258,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,77263,77266,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,77328,77339,Deutschland,Deutschland
+gdc-coref,t2z2.0,77072,79046,damon,77399,77402,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,77461,77474,die Deutschen,die-Deutschen
+gdc-coref,t2z2.0,77072,79046,damon,77496,77508,diese Nation,diese-Nation
+gdc-coref,t2z2.0,77072,79046,damon,77661,77670,Saalbader,Saalbader
+gdc-coref,t2z2.0,77072,79046,damon,77684,77687,ihr,diese-Nation
+gdc-coref,t2z2.0,77072,79046,damon,77689,77698,Saalbader,Saalbader
+gdc-coref,t2z2.0,77072,79046,damon,77723,77726,sie,diese-Nation
+gdc-coref,t2z2.0,77072,79046,damon,77731,77735,dich,saalbadernder-Clauren
+gdc-coref,t2z2.0,77072,79046,damon,77771,77792,saalbadernder Clauren,saalbadernder-Clauren
+gdc-coref,t2z2.0,77072,79046,damon,77834,77838,euch,euch
+gdc-coref,t2z2.0,77072,79046,damon,77840,77872,saalbadernde Stunden der Andacht,euch
+gdc-coref,t2z2.0,77072,79046,damon,77888,77897,der Wirth,wirth
+gdc-coref,t2z2.0,77072,79046,damon,77898,77901,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,77919,77923,mich,damon
+gdc-coref,t2z2.0,77072,79046,damon,77924,77933,im Herzen,im-Herzen
+gdc-coref,t2z2.0,77072,79046,damon,77968,77971,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78002,78020,vom Riesenvermögen,Louisd'ors-/-dem-Uebrigen
+gdc-coref,t2z2.0,77072,79046,damon,78021,78029,der Lady,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78033,78036,Sie,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78044,78047,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,78062,78071,ein Theil,ein-Theil
+gdc-coref,t2z2.0,77072,79046,damon,78077,78097,ein Röllchen Dukaten,ein-Theil
+gdc-coref,t2z2.0,77072,79046,damon,78196,78199,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78228,78247,die gewaltige Kiste,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,77072,79046,damon,78321,78324,sie,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,77072,79046,damon,78362,78378,im Schlafkabinet,das-Kabinet
+gdc-coref,t2z2.0,77072,79046,damon,78389,78397,der Lady,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78398,78407,die Börse,die-Börse
+gdc-coref,t2z2.0,77072,79046,damon,78435,78438,die,die-Börse
+gdc-coref,t2z2.0,77072,79046,damon,78446,78449,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78502,78505,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,78511,78527,die Britannierin,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78540,78543,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78564,78567,ihr,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78601,78604,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78618,78638,die Gabel des Mopsus,die-Gabel-des-Mopsus
+gdc-coref,t2z2.0,77072,79046,damon,78628,78638,des Mopsus,mopsus
+gdc-coref,t2z2.0,77072,79046,damon,78679,78682,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,78707,78715,die Lady,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78748,78757,der Wirth,wirth
+gdc-coref,t2z2.0,77072,79046,damon,78759,78762,sie,mopsus2
+gdc-coref,t2z2.0,77072,79046,damon,78780,78792,ein Scheusal,ein-Scheusal
+gdc-coref,t2z2.0,77072,79046,damon,78818,78832,solchem Gethüm,ein-Scheusal
+gdc-coref,t2z2.0,77072,79046,damon,78881,78884,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78913,78916,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,78962,78965,ich,damon
+gdc-coref,t2z2.0,77072,79046,damon,78986,78989,mir,damon
+gdc-coref,t2z2.0,77072,79046,damon,79008,79016,die Lady,mopsus2
+gdc-coref,t2z2.0,79032,79046,_stage,79032,79037,Damon,damon
+gdc-coref,t2z2.0,79032,79046,_stage,79039,79045,Mopsus,mopsus
+gdc-coref,t2z2.0,79050,79231,mopsus,79071,79073,du,du
+gdc-coref,t2z2.0,79050,79231,mopsus,79074,79078,mich,mopsus
+gdc-coref,t2z2.0,79050,79231,mopsus,79080,79086,Schlaf,du
+gdc-coref,t2z2.0,79050,79231,mopsus,79088,79100,Ihr Ahnungen,Ihr-Ahnungen
+gdc-coref,t2z2.0,79050,79231,mopsus,79116,79119,ihr,Ihr-Ahnungen
+gdc-coref,t2z2.0,79050,79231,mopsus,79120,79124,euch,Ihr-Ahnungen
+gdc-coref,t2z2.0,79050,79231,mopsus,79140,79143,mir,mopsus
+gdc-coref,t2z2.0,79050,79231,mopsus,79150,79230,"ein Alp, der fest sich die Klau'n einklemmt in den athmenden Busen des Mägdleins","ein-Alp,-der-fest-sich-die-Klau'n-einklemmt-in-den-athmenden-Busen-des---------------Mägdleins"
+gdc-coref,t2z2.0,79050,79231,mopsus,79168,79172,sich,"ein-Alp,-der-fest-sich-die-Klau'n-einklemmt-in-den-athmenden-Busen-des---------------Mägdleins"
+gdc-coref,t2z2.0,79050,79231,mopsus,79217,79230,des Mägdleins,des---------------Mägdleins
+gdc-coref,t2z2.0,79237,79323,damon,79256,79260,mich,damon
+gdc-coref,t2z2.0,79237,79323,damon,79271,79274,sie,mopsus2
+gdc-coref,t2z2.0,79237,79323,damon,79275,79283,Mägdlein,des---------------Mägdleins
+gdc-coref,t2z2.0,79237,79323,damon,79306,79309,sie,mopsus2
+gdc-coref,t2z2.0,79328,79403,mopsus,79354,79365,der Gasthof,im-Gasthof-zur-Gabel
+gdc-coref,t2z2.0,79328,79403,mopsus,79371,79389,zur goldenen Gabel,zur-Gabel
+gdc-coref,t2z2.0,79409,79500,damon,79429,79432,sie,mopsus2
+gdc-coref,t2z2.0,79409,79500,damon,79440,79449,der Gabel,die-Gabel-des-Mopsus2
+gdc-coref,t2z2.0,79409,79500,damon,79451,79454,sie,mopsus2
+gdc-coref,t2z2.0,79409,79500,damon,79459,79463,mich,damon
+gdc-coref,t2z2.0,79409,79500,damon,79483,79499,die Verschmitzte,mopsus2
+gdc-coref,t2z2.0,79505,79820,mopsus,79514,79533,Abscheulicher Traum,Abscheulicher-Traum
+gdc-coref,t2z2.0,79505,79820,mopsus,79548,79550,du,Abscheulicher-Traum
+gdc-coref,t2z2.0,79505,79820,mopsus,79551,79555,mich,mopsus
+gdc-coref,t2z2.0,79505,79820,mopsus,79557,79560,Ich,mopsus
+gdc-coref,t2z2.0,79505,79820,mopsus,79565,79585,den lebendigen Satan,den-lebendigen-Satan
+gdc-coref,t2z2.0,79505,79820,mopsus,79607,79609,er,den-lebendigen-Satan
+gdc-coref,t2z2.0,79505,79820,mopsus,79621,79624,mir,mopsus
+gdc-coref,t2z2.0,79505,79820,mopsus,79661,79663,er,den-lebendigen-Satan
+gdc-coref,t2z2.0,79505,79820,mopsus,79665,79669,Sich,den-lebendigen-Satan
+gdc-coref,t2z2.0,79505,79820,mopsus,79708,79712,mich,mopsus
+gdc-coref,t2z2.0,79826,79914,damon,79838,79841,sie,mopsus2
+gdc-coref,t2z2.0,79826,79914,damon,79856,79866,vom Teufel,den-lebendigen-Satan
+gdc-coref,t2z2.0,79826,79914,damon,79901,79909,das Herz,im-Herzen
+gdc-coref,t2z2.0,79826,79914,damon,79910,79913,mir,damon
+gdc-coref,t2z2.0,79919,80009,mopsus,79936,79939,ich,mopsus
+gdc-coref,t2z2.0,79919,80009,mopsus,79940,79947,den Tod,den-Tod
+gdc-coref,t2z2.0,79919,80009,mopsus,79966,79969,mir,mopsus
+gdc-coref,t2z2.0,79919,80009,mopsus,79975,79977,er,den-Tod
+gdc-coref,t2z2.0,79919,80009,mopsus,79984,79988,mich,mopsus
+gdc-coref,t2z2.0,80014,80105,damon,80037,80044,den Tod,den-Tod-/-damon
+gdc-coref,t2z2.0,80014,80105,damon,80049,80058,der Gabel,die-Gabel-des-Mopsus2
+gdc-coref,t2z2.0,80014,80105,damon,80063,80066,dir,mopsus2
+gdc-coref,t2z2.0,80014,80105,damon,80078,80082,dich,mopsus2
+gdc-coref,t2z2.0,80014,80105,damon,80089,80091,du,mopsus2
+gdc-coref,t2z2.0,80110,80284,mopsus,80128,80131,mir,mopsus
+gdc-coref,t2z2.0,80110,80284,mopsus,80135,80139,Gott,Gott
+gdc-coref,t2z2.0,80110,80284,mopsus,80147,80152,Damon,damon
+gdc-coref,t2z2.0,80110,80284,mopsus,80172,80184,mein Richter,damon
+gdc-coref,t2z2.0,80110,80284,mopsus,80172,80176,mein,mopsus
+gdc-coref,t2z2.0,80110,80284,mopsus,80189,80199,Schultheiß,damon
+gdc-coref,t2z2.0,80110,80284,mopsus,80206,80215,der Gabel,die-Gabel-des-Mopsus2
+gdc-coref,t2z2.0,80110,80284,mopsus,80234,80237,ich,mopsus
+gdc-coref,t2z2.0,80110,80284,mopsus,80255,80258,mir,mopsus
+gdc-coref,t2z2.0,80290,80316,damon,80309,80312,sie,mopsus2
+gdc-coref,t2z2.0,80321,80382,mopsus,80360,80363,ich,mopsus
+gdc-coref,t2z2.0,80321,80382,mopsus,80365,80374,dem Leben,dem-Leben
+gdc-coref,t2z2.0,80388,80477,damon,80421,80441,kein weibisches Weib,mopsus2
+gdc-coref,t2z2.0,80388,80477,damon,80443,80446,die,mopsus2
+gdc-coref,t2z2.0,80514,80584,damon,80522,80525,Ich,damon
+gdc-coref,t2z2.0,80514,80584,damon,80534,80538,mich,damon
+gdc-coref,t2z2.0,80514,80584,damon,80571,80573,du,mopsus2
+gdc-coref,t2z2.0,80514,80584,damon,80574,80583,die Gabel,die-Gabel-des-Mopsus2
+gdc-coref,t2z2.0,80590,80855,mopsus,80603,80606,ich,mopsus
+gdc-coref,t2z2.0,80590,80855,mopsus,80619,80623,mich,mopsus
+gdc-coref,t2z2.0,80590,80855,mopsus,80670,80682,Meine Kinder,Meine-Kinder
+gdc-coref,t2z2.0,80590,80855,mopsus,80670,80675,Meine,mopsus
+gdc-coref,t2z2.0,80590,80855,mopsus,80689,80692,ich,mopsus
+gdc-coref,t2z2.0,80590,80855,mopsus,80708,80728,die Gräfin Orlamünde,die-Gräfin-Orlamünde
+gdc-coref,t2z2.0,80590,80855,mopsus,80731,80736,Diese,die-Gräfin-Orlamünde
+gdc-coref,t2z2.0,80590,80855,mopsus,80761,80765,ihre,die-Gräfin-Orlamünde
+gdc-coref,t2z2.0,80590,80855,mopsus,80798,80807,ein Fleck,ein-Fleck
+gdc-coref,t2z2.0,80590,80855,mopsus,80808,80812,sich,ein-Fleck
+gdc-coref,t2z2.0,80861,80936,damon,80874,80877,ich,damon
+gdc-coref,t2z2.0,80861,80936,damon,80887,80890,Man,man
+gdc-coref,t2z2.0,80861,80936,damon,80909,80919,des Lebens,dem-Leben
+gdc-coref,t2z2.0,80941,81027,mopsus,80954,80958,mich,mopsus
+gdc-coref,t2z2.0,80941,81027,mopsus,80984,80987,ich,mopsus
+gdc-coref,t2z2.0,80941,81027,mopsus,80999,81007,Arkadien,Arkadien
+gdc-coref,t2z2.0,81010,81027,_stage,81010,81012,Er,mopsus
+gdc-coref,t2z2.0,81010,81027,_stage,81022,81026,sich,mopsus
+gdc-coref,t2z2.0,81031,81123,damon,81075,81078,mir,damon
+gdc-coref,t2z2.0,81031,81123,damon,81084,81087,ich,damon
+gdc-coref,t2z2.0,81129,81206,mopsus,81201,81205,mich,mopsus
+gdc-coref,t2z2.0,81212,81389,damon,81220,81223,Mir,damon
+gdc-coref,t2z2.0,81212,81389,damon,81247,81263,dein Vermächtniß,dein-Vermächtniß
+gdc-coref,t2z2.0,81212,81389,damon,81247,81251,dein,mopsus
+gdc-coref,t2z2.0,81212,81389,damon,81274,81277,mir,damon
+gdc-coref,t2z2.0,81212,81389,damon,81297,81309,deine Gelder,Louisd'ors-/-dem-Uebrigen
+gdc-coref,t2z2.0,81212,81389,damon,81297,81302,deine,mopsus
+gdc-coref,t2z2.0,81343,81389,_stage,81343,81354,Die Vorigen,damon-/-mopsus
+gdc-coref,t2z2.0,81343,81389,_stage,81356,81363,Schmuhl,schmuhl
+gdc-coref,t2z2.0,81343,81389,_stage,81365,81374,der Wirth,wirth
+gdc-coref,t2z2.0,81343,81389,_stage,81376,81388,Dienerschaft,Dienerschaft
+gdc-coref,t2z2.0,81424,81464,damon,81431,81437,Mopsus,mopsus
+gdc-coref,t2z2.0,81424,81464,damon,81442,81446,sich,mopsus
+gdc-coref,t2z2.0,81469,81493,schmuhl,81478,81480,Du,damon
+gdc-coref,t2z2.0,81469,81493,schmuhl,81487,81492,Damon,damon
+gdc-coref,t2z2.0,81498,81526,damon,81505,81512,Schmuhl,schmuhl
+gdc-coref,t2z2.0,81498,81526,damon,81518,81520,du,schmuhl
+gdc-coref,t2z2.0,81531,81569,wirth,81544,81554,die Hoheit,mopsus2
+gdc-coref,t2z2.0,81574,81646,damon,81587,81590,sie,mopsus2
+gdc-coref,t2z2.0,81574,81646,damon,81604,81607,mir,damon
+gdc-coref,t2z2.0,81574,81646,damon,81617,81620,sie,mopsus2
+gdc-coref,t2z2.0,81574,81646,damon,81621,81645,diese mächtige Schatulle,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,81651,81715,wirth,81658,81677,Solch ein Testament,dein-Vermächtniß
+gdc-coref,t2z2.0,81720,81758,schmuhl,81729,81732,Mir,schmuhl
+gdc-coref,t2z2.0,81720,81758,schmuhl,81740,81749,die Kiste,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,81720,81758,schmuhl,81751,81757,Mopsus,mopsus
+gdc-coref,t2z2.0,81763,81815,damon,81784,81788,dich,schmuhl
+gdc-coref,t2z2.0,81763,81815,damon,81800,81803,Mir,damon
+gdc-coref,t2z2.0,81763,81815,damon,81811,81814,sie,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,81821,81889,mopsus,81836,81846,euch beide,schmuhl-/-damon
+gdc-coref,t2z2.0,81821,81889,mopsus,81866,81869,ich,mopsus
+gdc-coref,t2z2.0,81879,81889,_stage,81879,81881,Er,mopsus
+gdc-coref,t2z2.0,81894,81917,schmuhl,81907,81916,die Kiste,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,81922,81943,damon,81933,81942,die Kiste,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,81948,82117,wirth,81977,81986,im Kasten,"die-Kiste,-welche-voll-von-Louisd'ors"
+gdc-coref,t2z2.0,81948,82117,wirth,82018,82028,der Deckel,der-Deckel
+gdc-coref,t2z2.0,82060,82117,_stage,82060,82070,Der Deckel,der-Deckel
+gdc-coref,t2z2.0,82060,82117,_stage,82084,82090,Salome,salome
+gdc-coref,t2z2.0,82121,82198,damon,82133,82142,Ein Geist,salome
+gdc-coref,t2z2.0,82121,82198,damon,82152,82162,des Geldes,Louisd'ors
+gdc-coref,t2z2.0,82121,82198,damon,82172,82175,mir,damon
+gdc-coref,t2z2.0,82203,82276,schmuhl,82220,82226,Salome,salome
+gdc-coref,t2z2.0,82203,82276,schmuhl,82247,82250,sie,salome
+gdc-coref,t2z2.0,82281,83042,salome,82319,82329,diese Brut,diese-Brut
+gdc-coref,t2z2.0,82281,83042,salome,82352,82355,ihr,Dienerschaft-/-schmuhl-+-2
+gdc-coref,t2z2.0,82281,83042,salome,82424,82464,"dieß fratzenhafte, mördrische Geschlecht",diese-Brut
+gdc-coref,t2z2.0,82281,83042,salome,82569,82573,euch,Dienerschaft-/-schmuhl-+-2
+gdc-coref,t2z2.0,82281,83042,salome,82632,82636,euch,Dienerschaft-/-schmuhl-+-2
+gdc-coref,t2z2.0,82281,83042,salome,82699,82708,den Blick,den-Blick
+gdc-coref,t2z2.0,82281,83042,salome,82710,82719,den süßen,den-Blick
+gdc-coref,t2z2.0,82281,83042,salome,82755,82772,des ew'gen Vaters,Gott
+gdc-coref,t2z2.0,82281,83042,salome,82848,82867,ein menschlich Auge,ein-menschlich-Auge
+gdc-coref,t2z2.0,82281,83042,salome,82874,82876,es,ein-menschlich-Auge
+gdc-coref,t2z2.0,82281,83042,salome,82894,82903,der Liebe,der-Liebe
+gdc-coref,t2z2.0,82281,83042,salome,82935,82938,ihr,Dienerschaft-/-schmuhl-+-2
+gdc-coref,t2z2.0,82281,83042,salome,82994,82999,meine,salome
+gdc-coref,t2z2.0,83025,83042,_stage,83025,83028,Sie,salome
+gdc-coref,t2z2.0,83046,83111,damon,83058,83060,du,schmuhl
+gdc-coref,t2z2.0,83046,83111,damon,83077,83090,dieses Geists,salome
+gdc-coref,t2z2.0,83116,83183,schmuhl,83145,83153,im Leben,dem-Leben
+gdc-coref,t2z2.0,83116,83183,schmuhl,83164,83172,das Geld,Louisd'ors
+gdc-coref,t2z2.0,83264,83461,schmuhl,83289,83301,die Menschen,die-Menschen
+gdc-coref,t2z2.0,83264,83461,schmuhl,83309,83312,man,man
+gdc-coref,t2z2.0,83264,83461,schmuhl,83356,83360,Arzt,Arzt
+gdc-coref,t2z2.0,83264,83461,schmuhl,83361,83372,der Dichter,der-Comödiendichter
+gdc-coref,t2z2.0,83264,83461,schmuhl,83388,83393,ihren,die-Menschen
+gdc-coref,t2z2.0,83264,83461,schmuhl,83437,83439,er,Arzt
+gdc-coref,t2z2.0,83467,83843,damon,83500,83503,ich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83509,83512,ich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83542,83553,kein Sirmio,sirmio
+gdc-coref,t2z2.0,83467,83843,damon,83582,83586,mich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83607,83610,ich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83682,83685,ich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83686,83703,diese Wundergabel,die-Gabel-des-Mopsus
+gdc-coref,t2z2.0,83467,83843,damon,83717,83720,ich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83726,83734,Arkadien,Arkadien
+gdc-coref,t2z2.0,83467,83843,damon,83739,83742,ich,damon
+gdc-coref,t2z2.0,83467,83843,damon,83743,83748,meine,damon
+gdc-coref,t2z2.0,83467,83843,damon,83778,83782,Gott,Gott
+gdc-coref,t2z2.0,83795,83843,_stage,83802,83842,"den Uebrigen, die den Leichnam wegtragen",Dienerschaft-/-wirth
+gdc-coref,t2z2.0,83795,83843,_stage,83820,83832,den Leichnam,mopsus
+gdc-coref,t2z2.0,83884,83897,_stage,83884,83886,Er,schmuhl
+gdc-coref,t2z2.0,83847,88061,schmuhl,83899,83903,Sein,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,83923,83927,euch,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,83934,83938,mich,schmuhl
+gdc-coref,t2z2.0,83847,88061,schmuhl,83939,83958,der Comödiendichter,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,83971,83974,Der,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,83999,84009,des Stücks,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,84023,84029,seinen,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,84079,84082,ihm,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,84089,84093,euch,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,84118,84121,Man,man
+gdc-coref,t2z2.0,83847,88061,schmuhl,84128,84139,ein Gedicht,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,84145,84155,den Freund,den-Freund
+gdc-coref,t2z2.0,83847,88061,schmuhl,84156,84159,man,man
+gdc-coref,t2z2.0,83847,88061,schmuhl,84167,84170,ihn,den-Freund
+gdc-coref,t2z2.0,83847,88061,schmuhl,84214,84217,ihr,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,84235,84238,ihm,den-Freund
+gdc-coref,t2z2.0,83847,88061,schmuhl,84282,84324,"ein Mensch, der nichts zu verzeihen vermag","ein-Mensch,-der-nichts-zu-verzeihen-vermag"
+gdc-coref,t2z2.0,83847,88061,schmuhl,84335,84337,er,"ein-Mensch,-der-nichts-zu-verzeihen-vermag"
+gdc-coref,t2z2.0,83847,88061,schmuhl,84375,84383,der Poet,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,84389,84403,dieses Gedicht,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,84404,84407,ihm,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,84445,84447,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,84459,84468,Niemanden,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,84527,84530,ihm,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,84552,84561,sein Werk,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,84552,84556,sein,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,84596,84598,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,84606,84618,der Pfuscher,der-Pfuscher
+gdc-coref,t2z2.0,83847,88061,schmuhl,84629,84631,er,der-Pfuscher
+gdc-coref,t2z2.0,83847,88061,schmuhl,84695,84706,Deutschland,Deutschland
+gdc-coref,t2z2.0,83847,88061,schmuhl,84742,84750,Menschen,die-Menschen
+gdc-coref,t2z2.0,83847,88061,schmuhl,84857,84865,das Volk,die-Deutschen
+gdc-coref,t2z2.0,83847,88061,schmuhl,84889,84906,poetischen Genien,
+gdc-coref,t2z2.0,83847,88061,schmuhl,84932,84935,sie,
+gdc-coref,t2z2.0,83847,88061,schmuhl,85013,85016,sie,
+gdc-coref,t2z2.0,83847,88061,schmuhl,85084,85087,sie,
+gdc-coref,t2z2.0,83847,88061,schmuhl,85109,85146,"Gott, der Thoren geschaffen und Weise",Gott
+gdc-coref,t2z2.0,83847,88061,schmuhl,85149,85152,Was,Was
+gdc-coref,t2z2.0,83847,88061,schmuhl,85153,85158,Jedem,Jeden
+gdc-coref,t2z2.0,83847,88061,schmuhl,85168,85171,das,Was
+gdc-coref,t2z2.0,83847,88061,schmuhl,85176,85178,er,Jeden
+gdc-coref,t2z2.0,83847,88061,schmuhl,85196,85202,Seinen,Jeden
+gdc-coref,t2z2.0,83847,88061,schmuhl,85213,85217,sich,Jeden
+gdc-coref,t2z2.0,83847,88061,schmuhl,85218,85223,Jeder,Jeden
+gdc-coref,t2z2.0,83847,88061,schmuhl,85292,85295,Wir,schmuhl3
+gdc-coref,t2z2.0,83847,88061,schmuhl,85320,85325,Einer,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85326,85334,die Welt,Zur-Welt
+gdc-coref,t2z2.0,83847,88061,schmuhl,85376,85379,wer,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85401,85410,der Kunst,der-Kunst
+gdc-coref,t2z2.0,83847,88061,schmuhl,85447,85492,"Ein Pedant, den nichts zu begeistern im Stand","Ein-Pedant,-den-nichts-zu-begeistern-im-Stand"
+gdc-coref,t2z2.0,83847,88061,schmuhl,85509,85511,er,"Ein-Pedant,-den-nichts-zu-begeistern-im-Stand"
+gdc-coref,t2z2.0,83847,88061,schmuhl,85534,85536,er,"Ein-Pedant,-den-nichts-zu-begeistern-im-Stand"
+gdc-coref,t2z2.0,83847,88061,schmuhl,85591,85603,den Menschen,die-Menschen
+gdc-coref,t2z2.0,83847,88061,schmuhl,85634,85684,"unser Poet, der gern, was krank ist, sähe geheilet",der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,85634,85639,unser,schmuhl3
+gdc-coref,t2z2.0,83847,88061,schmuhl,85730,85732,er,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,85761,85764,Wer,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85801,85804,wer,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85824,85827,Dem,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85836,85845,die Kunst,der-Kunst
+gdc-coref,t2z2.0,83847,88061,schmuhl,85893,85896,Wen,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85913,85921,ein Poet,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,85945,85949,sich,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85950,85955,Einer,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85983,85985,er,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,85986,85989,ihn,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,86001,86003,er,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,86010,86014,sich,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,86071,86073,er,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,86158,86161,ihn,ein-Mensch
+gdc-coref,t2z2.0,83847,88061,schmuhl,86209,86213,Euch,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,86234,86243,zur Liebe,der-Liebe
+gdc-coref,t2z2.0,83847,88061,schmuhl,86262,86273,der Dichter,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,86287,86299,Des Gedichts,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,86312,86314,er,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,86322,86324,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,86340,86342,er,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,86348,86350,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,86378,86381,Ihr,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,86483,86491,der Zeit,der-Zeit
+gdc-coref,t2z2.0,83847,88061,schmuhl,86529,86532,Ihr,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,86675,86679,sich,es
+gdc-coref,t2z2.0,83847,88061,schmuhl,86752,86754,es,es
+gdc-coref,t2z2.0,83847,88061,schmuhl,86772,86776,sich,es
+gdc-coref,t2z2.0,83847,88061,schmuhl,86821,86829,der Poet,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,86830,86834,euch,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,86835,86846,Deutschland,Deutschland
+gdc-coref,t2z2.0,83847,88061,schmuhl,86855,86859,euch,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,86902,86904,er,der-Comödiendichter
+gdc-coref,t2z2.0,83847,88061,schmuhl,87000,87014,dieses Gedicht,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,87031,87037,meiner,schmuhl
+gdc-coref,t2z2.0,83847,88061,schmuhl,87156,87158,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,87213,87216,ich,schmuhl
+gdc-coref,t2z2.0,83847,88061,schmuhl,87218,87227,ihr Herrn,euch2
+gdc-coref,t2z2.0,83847,88061,schmuhl,87279,87288,Liebhaber,Liebhaber
+gdc-coref,t2z2.0,83847,88061,schmuhl,87309,87312,sie,Liebhaber
+gdc-coref,t2z2.0,83847,88061,schmuhl,87313,87315,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,87334,87336,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,87380,87383,sie,Liebhaber
+gdc-coref,t2z2.0,83847,88061,schmuhl,87389,87391,es,des-Stücks
+gdc-coref,t2z2.0,83847,88061,schmuhl,87442,87445,sie,Liebhaber
+gdc-coref,t2z2.0,83847,88061,schmuhl,87513,87521,der Chor,der-Chor
+gdc-coref,t2z2.0,83847,88061,schmuhl,87536,87573,der Chor des geliebten Aristophaniden,der-Chor
+gdc-coref,t2z2.0,83847,88061,schmuhl,87545,87573,des geliebten Aristophaniden,des-geliebten-Aristophaniden
+gdc-coref,t2z2.0,83847,88061,schmuhl,87587,87589,er,des-geliebten-Aristophaniden
+gdc-coref,t2z2.0,83847,88061,schmuhl,87590,87599,des Ruhms,des-Ruhms
+gdc-coref,t2z2.0,83847,88061,schmuhl,87604,87613,der Liebe,der-Liebe
+gdc-coref,t2z2.0,83847,88061,schmuhl,87656,87659,Ihm,des-geliebten-Aristophaniden
+gdc-coref,t2z2.0,83847,88061,schmuhl,87704,87708,Ruhm,des-Ruhms
+gdc-coref,t2z2.0,83847,88061,schmuhl,87763,87802,die Zeit des musikaufwirbelnden Reigens,die-Zeit
+gdc-coref,t2z2.0,83847,88061,schmuhl,87804,87808,Sich,die-Stunde-des-Ruh'ns
+gdc-coref,t2z2.0,83847,88061,schmuhl,87809,87830,die Stunde des Ruh'ns,die-Stunde-des-Ruh'ns
+gdc-coref,t2z2.0,83847,88061,schmuhl,87835,87838,ich,schmuhl
+gdc-coref,t2z2.0,83847,88061,schmuhl,87899,87907,die Zeit,die-Zeit
+gdc-coref,t2z2.0,83847,88061,schmuhl,87988,87992,euch,euch2

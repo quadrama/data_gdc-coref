@@ -1,0 +1,12 @@
+corpus,drama,figure_surface,figure_id,Gender,Age
+gdc-coref,11g3h.0,Gouverneur,gouverneur,MALE,
+gdc-coref,11g3h.0,Mönch,moench,MALE,
+gdc-coref,11g3h.0,Äbtissin,aebtissin,FEMALE,
+gdc-coref,11g3h.0,König,koenig,MALE,
+gdc-coref,11g3h.0,Hofmeisterin,hofmeisterin,FEMALE,
+gdc-coref,11g3h.0,Graf,graf,MALE,
+gdc-coref,11g3h.0,Gerichtsrat,gerichtsrat,MALE,
+gdc-coref,11g3h.0,Sekretär,sekretaer,MALE,
+gdc-coref,11g3h.0,Eugenie,eugenie,FEMALE,
+gdc-coref,11g3h.0,Weltgeistlicher,weltgeistlicher,MALE,
+gdc-coref,11g3h.0,Herzog,herzog,MALE,

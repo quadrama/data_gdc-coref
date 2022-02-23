@@ -1,0 +1,2102 @@
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+gdc-coref,rhzq.0,627,652,_Stage,_Stage,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,627,652,_Stage,_Stage,Insterburg,NE,insterburg,30996,,(24
+gdc-coref,rhzq.0,627,652,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,627,652,_Stage,_Stage,Preußen,NE,preußen,30996,,24)|(25)
+gdc-coref,rhzq.0,627,652,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,dem,ART,der,30996,,(31
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,Geheimen,NN,geheim,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,und,KON,und,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,dem,ART,der,30996,,(37
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,Major,NN,Major,30996,,37)
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,viel,PIAT,viel,30996,,(40
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,freundlichen,ADJA,freundlich,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,Scharrfüßen,NN,scharrfüße,30996,,40)
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,vorbei,ADV,vorbei,30996,,
+gdc-coref,rhzq.0,1703,1780,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,1801,1821,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,1801,1821,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,1801,1821,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,1801,1821,_Stage,_Stage,Major,NE,Major,30996,,(37)
+gdc-coref,rhzq.0,1801,1821,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,4285,4304,_Stage,_Stage,Der,ART,der,30996,,(3
+gdc-coref,rhzq.0,4285,4304,_Stage,_Stage,Majorin,NN,majorin,30996,,3)
+gdc-coref,rhzq.0,4285,4304,_Stage,_Stage,Zimmer,NN,zimmer,30996,,
+gdc-coref,rhzq.0,4285,4304,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,Frau,NN,frau,30996,,(3
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,Majorin,NE,majorin,30996,,3)
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,einem,ART,ein,30996,,(64
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,Kanapee,NN,kanapee,30996,,64)
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,sehr,ADV,sehr,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,demütiger,ADJA,demütig,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,Stellung,NN,stellung,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,neben,APPR,neben,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,ihr,PPER,ihr,30996,,(3)
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,sitzend,ADJD,sitzend,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,Leopold,NE,leopold,30996,,(42)
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,steht,VVFIN,stehen,30996,,
+gdc-coref,rhzq.0,4305,4405,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,5137,5155,Majorin,majorin,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,5137,5155,Majorin,majorin,steht,VVFIN,stehen,30996,,
+gdc-coref,rhzq.0,5137,5155,Majorin,majorin,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,5137,5155,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,6209,6215,Majorin,majorin,Singt,VVFIN,singen,30996,,
+gdc-coref,rhzq.0,6209,6215,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,6307,6325,Läuffer,laeuffer,Küßt,VVFIN,küßen,30996,,
+gdc-coref,rhzq.0,6307,6325,Läuffer,laeuffer,ihr,PPER,ihr,30996,,(3)
+gdc-coref,rhzq.0,6307,6325,Läuffer,laeuffer,die,ART,der,30996,,
+gdc-coref,rhzq.0,6307,6325,Läuffer,laeuffer,Hand,NN,hand,30996,,
+gdc-coref,rhzq.0,6307,6325,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,6673,6686,Bedienter,bedienter,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,6673,6686,Bedienter,bedienter,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,6673,6686,Bedienter,bedienter,.,$.,--,30996,,
+gdc-coref,rhzq.0,6709,6735,Bedienter,bedienter,Graf,NN,graf,30996,,(77
+gdc-coref,rhzq.0,6709,6735,Bedienter,bedienter,Wermuth,NE,wermuth,30996,,77)
+gdc-coref,rhzq.0,6709,6735,Bedienter,bedienter,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,6709,6735,Bedienter,bedienter,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,6709,6735,Bedienter,bedienter,.,$.,--,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,nach,APPR,nach,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,einigen,PIAT,einiger,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,stummen,ADJA,stumm,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,Komplimenten,NN,kompliment,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,sich,PRF,sich,30996,,(77)
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,zur,APPRART,zu,30996,,(3
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,Majorin,NN,majorin,30996,,3)
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,aufs,APPRART,auf,30996,,(64
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,Kanapee,NN,kanapee,30996,,64)
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,.,$.,--,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,bleibt,VVFIN,bleiben,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,verlegen,ADJD,verlegen,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,stehen,VVINF,stehen,30996,,
+gdc-coref,rhzq.0,6744,6846,Graf Wermuth,graf_wermuth,.,$.,--,30996,,
+gdc-coref,rhzq.0,7881,7918,Majorin,majorin,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,7881,7918,Majorin,majorin,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,7881,7918,Majorin,majorin,einige,PIAT,einiger,30996,,
+gdc-coref,rhzq.0,7881,7918,Majorin,majorin,Schritte,NN,schritt,30996,,
+gdc-coref,rhzq.0,7881,7918,Majorin,majorin,zurück,PTKVZ,zurück,30996,,
+gdc-coref,rhzq.0,7881,7918,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,einem,ART,ein,30996,,(40
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,steifen,ADJA,steif,30996,,
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,Kompliment,NN,kompliment,30996,,40)
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,8151,8196,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,9376,9392,_Stage,_Stage,Läuffers,NE,läuffer,30996,,(87
+gdc-coref,rhzq.0,9376,9392,_Stage,_Stage,Zimmer,NN,zimmer,30996,,87)
+gdc-coref,rhzq.0,9376,9392,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Leopold,NE,leopold,30996,,(42)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Der,ART,der,30996,,(37
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Major,NN,Major,30996,,37)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Erstere,PIS,ersterer,30996,,(96)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,sitzen,VVFIN,sitzen,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,an,APPR,an,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,einem,ART,ein,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Tisch,NN,tisch,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,ein,ART,ein,30996,,(97
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Buch,NN,buch,30996,,97)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,der,ART,der,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,Hand,NN,hand,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,indem,KOUS,indem,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,sie,PPER,sie,30996,,(96)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,der,ART,der,30996,,(37
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,letztere,PIS,letzterer,30996,,37)
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,überfällt,VVFIN,überfallen,30996,,
+gdc-coref,rhzq.0,9393,9508,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,10405,10417,Major,major,Richtet,VVFIN,richten,30996,,
+gdc-coref,rhzq.0,10405,10417,Major,major,ihn,PPER,ihn,30996,,(42)
+gdc-coref,rhzq.0,10405,10417,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,11076,11099,Major,major,Gibt,VVFIN,geben,30996,,
+gdc-coref,rhzq.0,11076,11099,Major,major,ihm,PPER,ihm,30996,,(42)
+gdc-coref,rhzq.0,11076,11099,Major,major,eine,ART,ein,30996,,
+gdc-coref,rhzq.0,11076,11099,Major,major,Ohrfeige,NN,ohrfeige,30996,,
+gdc-coref,rhzq.0,11076,11099,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,Stampft,NN,stampft,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,dem,ART,der,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,Fuß,NN,fuß,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,Leopold,NE,leopold,30996,,(42)
+gdc-coref,rhzq.0,11236,11321,Major,major,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,Major,NE,Major,30996,,(37)
+gdc-coref,rhzq.0,11236,11321,Major,major,setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,sich,PRF,sich,30996,,(37)
+gdc-coref,rhzq.0,11236,11321,Major,major,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,seinen,PPOSAT,sein,30996,,(42)
+gdc-coref,rhzq.0,11236,11321,Major,major,Stuhl,NN,stuhl,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,11236,11321,Major,major,Läuffern,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,11236,11321,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,13873,13885,Major,major,besieht,VVFIN,besiehen,30996,,
+gdc-coref,rhzq.0,13873,13885,Major,major,sie,PPER,sie,30996,,(136)
+gdc-coref,rhzq.0,13873,13885,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,15855,15863,Major,major,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,15855,15863,Major,major,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,15855,15863,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,15885,15912,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,15885,15912,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,15885,15912,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,15885,15912,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,15885,15912,_Stage,_Stage,Augustchen,NN,augustchen,30996,,(126)
+gdc-coref,rhzq.0,15885,15912,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,16730,16751,Fritz,fritz,Faßt,VVFIN,faßt,30996,,
+gdc-coref,rhzq.0,16730,16751,Fritz,fritz,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,16730,16751,Fritz,fritz,an,APPR,an,30996,,
+gdc-coref,rhzq.0,16730,16751,Fritz,fritz,die,ART,der,30996,,(165
+gdc-coref,rhzq.0,16730,16751,Fritz,fritz,Hand,NN,hand,30996,,165)
+gdc-coref,rhzq.0,16730,16751,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,17250,17272,Fritz,fritz,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,17250,17272,Fritz,fritz,ihr,PPOSAT,ihr,30996,,(126)
+gdc-coref,rhzq.0,17250,17272,Fritz,fritz,um,APPR,um,30996,,
+gdc-coref,rhzq.0,17250,17272,Fritz,fritz,den,ART,der,30996,,(169
+gdc-coref,rhzq.0,17250,17272,Fritz,fritz,Hals,NN,hals,30996,,169)
+gdc-coref,rhzq.0,17250,17272,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,18795,18804,Fritz,fritz,Küßt,VVFIN,küßen,30996,,
+gdc-coref,rhzq.0,18795,18804,Fritz,fritz,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,18795,18804,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,Der,ART,der,30996,,(31
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,geheime,ADJA,geheim,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,:,$.,--,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,beide,PIS,beide,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,springen,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,lautem,ADJA,laut,30996,,(178
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,Geschrei,NN,geschrei,30996,,178)
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,19005,19074,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,19097,19136,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,19724,19746,Gustchen,gustchen,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,19724,19746,Gustchen,gustchen,ihm,PPER,ihm,30996,,(31)
+gdc-coref,rhzq.0,19724,19746,Gustchen,gustchen,um,APPR,um,30996,,
+gdc-coref,rhzq.0,19724,19746,Gustchen,gustchen,die,ART,der,30996,,
+gdc-coref,rhzq.0,19724,19746,Gustchen,gustchen,Füße,NN,fuß,30996,,
+gdc-coref,rhzq.0,19724,19746,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,küßt,VVFIN,küssen,30996,,
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,19784,19810,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,Gustchen,NE,gustchen,30996,,(126)
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,umarmen,VVFIN,umarmen,30996,,
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,sich,PRF,sich,30996,,(167)
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,zitternd,ADJD,zitternd,30996,,
+gdc-coref,rhzq.0,23088,23129,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,Hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,küßt,VVFIN,küssen,30996,,
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,23198,23224,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,einige,PIAT,einiger,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,Schritte,NN,schritt,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,",","$,",--,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,sich,PRF,sich,30996,,(126)
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,um,PTKVZ,um,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,;,$.,--,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,fliegt,VVFIN,fliegen,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,ihr,PPOSAT,ihr,30996,,(126)
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,weinend,ADJD,weinend,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,an,APPR,an,30996,,
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,den,ART,der,30996,,(169
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,Hals,NN,hals,30996,,169)
+gdc-coref,rhzq.0,23340,23423,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,Pastor,NN,pastor,30996,,(27
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,Läuffer,NN,läuffer,30996,,27)
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,Der,ART,der,30996,,(31
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,23589,23622,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,33019,33040,Pastor,pastor,Zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,33019,33040,Pastor,pastor,die,ART,der,30996,,
+gdc-coref,rhzq.0,33019,33040,Pastor,pastor,Uhr,NN,uhr,30996,,
+gdc-coref,rhzq.0,33019,33040,Pastor,pastor,heraus,PTKVZ,heraus,30996,,
+gdc-coref,rhzq.0,33019,33040,Pastor,pastor,.,$.,--,30996,,
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,Im,APPRART,in,30996,,
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,Abgehen,NN,abgehen,30996,,
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,wendt,VVFIN,wendt,30996,,
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,er,PPER,er,30996,,(27)
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,sich,PRF,sich,30996,,(27)
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,um,PTKVZ,um,30996,,
+gdc-coref,rhzq.0,33896,33924,Pastor,pastor,.,$.,--,30996,,
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,Der,ART,der,30996,,(27
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,Pastor,NN,pastor,30996,,27)
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,hält,VVFIN,halten,30996,,
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,ihm,PPER,ihm,30996,,(31)
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,einen,ART,ein,30996,,(272
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,Brief,NN,brief,30996,,272)
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,hin,PTKVZ,hin,30996,,
+gdc-coref,rhzq.0,34415,34451,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,34592,34598,Geheimer Rat,geheimer_rat,Liest,NE,liest,30996,,
+gdc-coref,rhzq.0,34592,34598,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,Wirft,VVFIN,wirft,30996,,
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,den,ART,der,30996,,(272
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,Brief,NN,brief,30996,,272)
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,an,APPR,an,30996,,
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,die,ART,der,30996,,(276
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,Erde,NN,erde,30996,,276)
+gdc-coref,rhzq.0,35174,35202,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,35308,35327,Pastor,pastor,Hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,35308,35327,Pastor,pastor,den,ART,der,30996,,(272
+gdc-coref,rhzq.0,35308,35327,Pastor,pastor,Brief,NN,brief,30996,,272)
+gdc-coref,rhzq.0,35308,35327,Pastor,pastor,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,35308,35327,Pastor,pastor,.,$.,--,30996,,
+gdc-coref,rhzq.0,35403,35409,Geheimer Rat,geheimer_rat,Liest,NE,liest,30996,,
+gdc-coref,rhzq.0,35403,35409,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,36107,36122,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,36107,36122,_Stage,_Stage,Heidelbrunn,NE,heidelbrunn,30996,,(158)
+gdc-coref,rhzq.0,36107,36122,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,36123,36141,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,36123,36141,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,36123,36141,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,36123,36141,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,36885,36906,Gustchen,gustchen,faßt,VVFIN,fassen,30996,,
+gdc-coref,rhzq.0,36885,36906,Gustchen,gustchen,ihn,PPER,ihn,30996,,(26)
+gdc-coref,rhzq.0,36885,36906,Gustchen,gustchen,an,APPR,an,30996,,
+gdc-coref,rhzq.0,36885,36906,Gustchen,gustchen,die,ART,der,30996,,(287
+gdc-coref,rhzq.0,36885,36906,Gustchen,gustchen,Hand,NN,hand,30996,,287)
+gdc-coref,rhzq.0,36885,36906,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,37222,37234,Gustchen,gustchen,halbweinend,ADJD,halbweinend,30996,,
+gdc-coref,rhzq.0,37222,37234,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,Reißt,VVFIN,reißen,30996,,
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,sich,PRF,sich,30996,,(26)
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,los,PTKVZ,los,30996,,
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,und,KON,und,30996,,
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,37866,37893,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,37948,37968,_Stage,_Stage,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,37948,37968,_Stage,_Stage,Halle,NE,halle,30996,,(293
+gdc-coref,rhzq.0,37948,37968,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,37948,37968,_Stage,_Stage,Sachsen,NE,sachsen,30996,,293)
+gdc-coref,rhzq.0,37948,37968,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,37969,37983,_Stage,_Stage,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,37969,37983,_Stage,_Stage,',$(,--,30996,,
+gdc-coref,rhzq.0,37969,37983,_Stage,_Stage,Zimmer,NN,zimmer,30996,,
+gdc-coref,rhzq.0,37969,37983,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,im,APPRART,in,30996,,(294
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,Schlafrock,NN,schlafrock,30996,,294)
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,an,APPR,an,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,einem,ART,ein,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,Tisch,NN,tisch,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,sitzend,ADJD,sitzend,30996,,
+gdc-coref,rhzq.0,37984,38044,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,40262,40280,Pätus,paetus,Pocht,NN,pocht,30996,,
+gdc-coref,rhzq.0,40262,40280,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,40262,40280,Pätus,paetus,dem,ART,der,30996,,(316
+gdc-coref,rhzq.0,40262,40280,Pätus,paetus,Fuß,NN,fuß,30996,,316)
+gdc-coref,rhzq.0,40262,40280,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,40393,40412,Pätus,paetus,Klingelt,NN,klingelt,30996,,
+gdc-coref,rhzq.0,40393,40412,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,40393,40412,Pätus,paetus,pocht,VVFIN,pochen,30996,,
+gdc-coref,rhzq.0,40393,40412,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,einer,ART,ein,30996,,(318
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,Portion,NN,portion,30996,,
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,Kaffee,NN,kaffee,30996,,318)
+gdc-coref,rhzq.0,40505,40543,Frau Blitzer,frau_blitzer,.,$.,--,30996,,
+gdc-coref,rhzq.0,40848,40863,Pätus,paetus,gießt,VVFIN,gießen,30996,,
+gdc-coref,rhzq.0,40848,40863,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,40848,40863,Pätus,paetus,ein,PTKVZ,ein,30996,,
+gdc-coref,rhzq.0,40848,40863,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,41133,41153,Pätus,paetus,Stampft,NN,stampft,30996,,
+gdc-coref,rhzq.0,41133,41153,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,41133,41153,Pätus,paetus,dem,ART,der,30996,,
+gdc-coref,rhzq.0,41133,41153,Pätus,paetus,Fuß,NN,fuß,30996,,
+gdc-coref,rhzq.0,41133,41153,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,langt,VVFIN,langen,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,ihm,PPER,ihm,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,Zwieback,NN,zwieback,30996,,(323)
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,aus,APPR,aus,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,der,ART,der,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,Schürze,NN,schürze,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,",","$,",--,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,wobei,PWAV,wobei,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,sie,PPER,sie,30996,,(306)
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,ihn,PPER,ihn,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,an,APPR,an,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,den,ART,der,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,Haaren,NN,haar,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,zupft,VVFIN,zupfen,30996,,
+gdc-coref,rhzq.0,41271,41341,Frau Blitzer,frau_blitzer,.,$.,--,30996,,
+gdc-coref,rhzq.0,41571,41578,Pätus,paetus,trinkt,VVFIN,trinken,30996,,
+gdc-coref,rhzq.0,41571,41578,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,42378,42386,Frau Blitzer,frau_blitzer,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,42378,42386,Frau Blitzer,frau_blitzer,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,42378,42386,Frau Blitzer,frau_blitzer,.,$.,--,30996,,
+gdc-coref,rhzq.0,42600,42614,Pätus,paetus,Gießt,VVFIN,gießen,30996,,
+gdc-coref,rhzq.0,42600,42614,Pätus,paetus,ihm,PPER,ihm,30996,,(59)
+gdc-coref,rhzq.0,42600,42614,Pätus,paetus,ein,PTKVZ,ein,30996,,
+gdc-coref,rhzq.0,42600,42614,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,42731,42738,Fritz,fritz,trinkt,VVFIN,trinken,30996,,
+gdc-coref,rhzq.0,42731,42738,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,42799,42820,Pätus,paetus,Schmeckt,ADJD,schmeckt,30996,,
+gdc-coref,rhzq.0,42799,42820,Pätus,paetus,gleichfalls,ADV,gleichfalls,30996,,
+gdc-coref,rhzq.0,42799,42820,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,42874,42893,Pätus,paetus,Sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,42874,42893,Pätus,paetus,in,APPR,in,30996,,
+gdc-coref,rhzq.0,42874,42893,Pätus,paetus,die,ART,der,30996,,(335
+gdc-coref,rhzq.0,42874,42893,Pätus,paetus,Kanne,NN,kanne,30996,,335)
+gdc-coref,rhzq.0,42874,42893,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,Wirft,VVFIN,wirft,30996,,(336
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,das,ART,der,30996,,(335
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,Kaffeezeug,NN,kaffeezeug,30996,,335)
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,zum,APPRART,zu,30996,,
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,Fenster,NN,fenster,30996,,(337)
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,hinaus,PTKVZ,hinaus,30996,,336)
+gdc-coref,rhzq.0,42911,42951,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,43019,43033,Frau Blitzer,frau_blitzer,stürzt,VVFIN,stürzen,30996,,
+gdc-coref,rhzq.0,43019,43033,Frau Blitzer,frau_blitzer,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,43019,43033,Frau Blitzer,frau_blitzer,.,$.,--,30996,,
+gdc-coref,rhzq.0,43163,43187,Frau Blitzer,frau_blitzer,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,43163,43187,Frau Blitzer,frau_blitzer,gräßlichem,ADJA,gräßlich,30996,,
+gdc-coref,rhzq.0,43163,43187,Frau Blitzer,frau_blitzer,Geschrei,NN,geschrei,30996,,
+gdc-coref,rhzq.0,43163,43187,Frau Blitzer,frau_blitzer,.,$.,--,30996,,
+gdc-coref,rhzq.0,43690,43703,Frau Blitzer,frau_blitzer,Läuft,VVFIN,laufen,30996,,
+gdc-coref,rhzq.0,43690,43703,Frau Blitzer,frau_blitzer,heraus,PTKVZ,heraus,30996,,
+gdc-coref,rhzq.0,43690,43703,Frau Blitzer,frau_blitzer,.,$.,--,30996,,
+gdc-coref,rhzq.0,43713,43721,Pätus,paetus,lachend,ADJD,lachend,30996,,
+gdc-coref,rhzq.0,43713,43721,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,Setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,sich,PRF,sich,30996,,(59)
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,an,APPR,an,30996,,
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,ein,ART,ein,30996,,(337
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,Fenster,NN,fenster,30996,,337)
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,nieder,PTKVZ,nieder,30996,,
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,und,KON,und,30996,,
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,schreibt,VVFIN,schreiben,30996,,
+gdc-coref,rhzq.0,44602,44648,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,einem,ART,ein,30996,,(348
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,Wolfspelz,NN,wolfspelz,30996,,348)
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,gegenüber,APPO,gegenüber,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,",","$,",--,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,der,PRELS,der,30996,,(348)
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,der,ART,der,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,Wand,NN,wand,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,hängt,VVFIN,hängen,30996,,
+gdc-coref,rhzq.0,44659,44719,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,45074,45099,Pätus,paetus,Steht,NN,stehen,30996,,
+gdc-coref,rhzq.0,45074,45099,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,45074,45099,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,45074,45099,Pätus,paetus,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,45074,45099,Pätus,paetus,herum,PTKVZ,herum,30996,,
+gdc-coref,rhzq.0,45074,45099,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,Faßt,VVFIN,fassen,30996,,
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,den,ART,der,30996,,(326
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,Kopf,NN,kopf,30996,,326)
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,stampft,VVFIN,stampfen,30996,,
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,dem,ART,der,30996,,(316
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,Fuß,NN,fuß,30996,,316)
+gdc-coref,rhzq.0,45341,45387,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,der,ART,der,30996,,(11)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,sich,PRF,sich,30996,,(11)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,mittlerweile,ADV,mittlerweile,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,hineingeschlichen,ADJA,hineingeschlich,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,und,KON,und,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,ihm,PPER,ihm,30996,,(9)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,zugehört,VVFIN,zugehören,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,",","$,",--,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,faßt,VVFIN,fassen,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,ihn,PPER,ihn,30996,,(9)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,:,$.,--,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,er,PPER,er,30996,,(9)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,kehrt,VVFIN,kehren,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,um,PTKVZ,um,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,und,KON,und,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,bleibt,VVFIN,bleiben,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,stumm,ADJD,stumm,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,vor,APPR,vor,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,Bollwerk,NN,bollwerk,30996,,(11)
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,stehen,VVINF,stehen,30996,,
+gdc-coref,rhzq.0,45435,45560,Bollwerk,bollwerk,.,$.,--,30996,,
+gdc-coref,rhzq.0,46038,46064,Pätus,paetus,wirf,VVFIN,wirf,30996,,
+gdc-coref,rhzq.0,46038,46064,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,46038,46064,Pätus,paetus,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,46038,46064,Pätus,paetus,einen,ART,ein,30996,,
+gdc-coref,rhzq.0,46038,46064,Pätus,paetus,Stuhl,NN,stuhl,30996,,
+gdc-coref,rhzq.0,46038,46064,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,46137,46155,Bollwerk,bollwerk,Setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,46137,46155,Bollwerk,bollwerk,sich,PRF,sich,30996,,(11)
+gdc-coref,rhzq.0,46137,46155,Bollwerk,bollwerk,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,46137,46155,Bollwerk,bollwerk,ihm,PPER,ihm,30996,,(9)
+gdc-coref,rhzq.0,46137,46155,Bollwerk,bollwerk,.,$.,--,30996,,
+gdc-coref,rhzq.0,46566,46573,Pätus,paetus,heftig,ADJD,heftig,30996,,
+gdc-coref,rhzq.0,46566,46573,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,47323,47333,Fritz,fritz,zerstreut,VVPP,zerstreuen,30996,,
+gdc-coref,rhzq.0,47323,47333,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,47551,47579,Fritz,fritz,Steckt,VVFIN,stecken,30996,,
+gdc-coref,rhzq.0,47551,47579,Fritz,fritz,seine,PPOSAT,sein,30996,,(363
+gdc-coref,rhzq.0,47551,47579,Fritz,fritz,Briefe,NN,brief,30996,,363)
+gdc-coref,rhzq.0,47551,47579,Fritz,fritz,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,47551,47579,Fritz,fritz,sich,PRF,sich,30996,,(363)
+gdc-coref,rhzq.0,47551,47579,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,47737,47745,Bollwerk,bollwerk,Gehn,NN,gehn,30996,,
+gdc-coref,rhzq.0,47737,47745,Bollwerk,bollwerk,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,47737,47745,Bollwerk,bollwerk,.,$.,--,30996,,
+gdc-coref,rhzq.0,47755,47762,Pätus,paetus,allein,ADV,allein,30996,,
+gdc-coref,rhzq.0,47755,47762,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,47887,47915,Pätus,paetus,Zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,47887,47915,Pätus,paetus,seinen,PPOSAT,sein,30996,,(294|(9)
+gdc-coref,rhzq.0,47887,47915,Pätus,paetus,Schlafrock,NN,schlafrock,30996,,294)
+gdc-coref,rhzq.0,47887,47915,Pätus,paetus,aus,PTKVZ,aus,30996,,
+gdc-coref,rhzq.0,47887,47915,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,48029,48052,Pätus,paetus,Zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,48029,48052,Pätus,paetus,den,ART,der,30996,,(348
+gdc-coref,rhzq.0,48029,48052,Pätus,paetus,Wolfspelz,NN,wolfspelz,30996,,348)
+gdc-coref,rhzq.0,48029,48052,Pätus,paetus,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,48029,48052,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,48096,48116,Pätus,paetus,Stampft,NN,stampft,30996,,
+gdc-coref,rhzq.0,48096,48116,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,48096,48116,Pätus,paetus,dem,ART,der,30996,,(316
+gdc-coref,rhzq.0,48096,48116,Pätus,paetus,Fuß,NN,fuß,30996,,316)
+gdc-coref,rhzq.0,48096,48116,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,48146,48151,Pätus,paetus,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,48146,48151,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,Frau,NN,frau,30996,,(13
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,Hamster,NE,hamster,30996,,13)
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,Jungfer,ADJA,jungfer,30996,,(14
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,Hamster,NN,hamster,30996,,14)
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,Jungfer,ADJA,jungfer,30996,,(12
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,Knicks,NN,knicks,30996,,12)
+gdc-coref,rhzq.0,48173,48219,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,48851,48870,Jungfer Hamster,jungfer_hamster,hält,VVFIN,halten,30996,,
+gdc-coref,rhzq.0,48851,48870,Jungfer Hamster,jungfer_hamster,sich,PRF,sich,30996,,(14)
+gdc-coref,rhzq.0,48851,48870,Jungfer Hamster,jungfer_hamster,den,ART,der,30996,,
+gdc-coref,rhzq.0,48851,48870,Jungfer Hamster,jungfer_hamster,Kopf,NN,kopf,30996,,
+gdc-coref,rhzq.0,48851,48870,Jungfer Hamster,jungfer_hamster,.,$.,--,30996,,
+gdc-coref,rhzq.0,49803,49818,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,49803,49818,_Stage,_Stage,Heidelbrunn,NE,heidelbrunn,30996,,(158)
+gdc-coref,rhzq.0,49803,49818,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,49819,49838,_Stage,_Stage,Augustchens,NE,augustchen,30996,,(133|(126)
+gdc-coref,rhzq.0,49819,49838,_Stage,_Stage,Zimmer,NN,zimmer,30996,,133)
+gdc-coref,rhzq.0,49819,49838,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,liegt,VVFIN,liegen,30996,,
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,dem,ART,der,30996,,(375
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,Bette,NN,bette,30996,,375)
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,sitzt,VVFIN,sitzen,30996,,
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,am,APPRART,an,30996,,
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,Bette,NN,bette,30996,,(375)
+gdc-coref,rhzq.0,49839,49892,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,Nachdem,KOUS,nachdem,30996,,
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,beide,PIS,beide,30996,,(291)
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,eine,ART,ein,30996,,
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,Zeitlang,NN,zeitlang,30996,,
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,sich,PRF,sich,30996,,(291)
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,schweigend,ADJD,schweigend,30996,,
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,angesehen,VVPP,ansehen,30996,,
+gdc-coref,rhzq.0,50186,50240,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,50756,50773,Gustchen,gustchen,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,50756,50773,Gustchen,gustchen,seine,PPOSAT,sein,30996,,(287|(26)
+gdc-coref,rhzq.0,50756,50773,Gustchen,gustchen,Hand,NN,hand,30996,,287)
+gdc-coref,rhzq.0,50756,50773,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,50813,50822,Gustchen,gustchen,Küßt,VVFIN,küßen,30996,,
+gdc-coref,rhzq.0,50813,50822,Gustchen,gustchen,sie,PPER,sie,30996,,(287)
+gdc-coref,rhzq.0,50813,50822,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,stützt,VVFIN,stützen,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,sich,PRF,sich,30996,,(26)
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,der,ART,der,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,andern,ADJA,anderer,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,Hand,NN,hand,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,ihrem,PPOSAT,ihr,30996,,(375|(126)
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,Bett,NN,bett,30996,,375)
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,",","$,",--,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,indem,KOUS,indem,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,fortfährt,VVFIN,fortfahren,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,seine,PPOSAT,sein,30996,,(287|(26)
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,eine,ART,ein,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,Hand,NN,hand,30996,,287)
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,von,APPR,von,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,Zeit,NN,zeit,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,Zeit,NN,zeit,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,an,APPR,an,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,die,ART,der,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,Lippen,NN,lippe,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,zu,PTKZU,zu,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,bringen,VVINF,bringen,30996,,
+gdc-coref,rhzq.0,51251,51378,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,51400,51426,Läuffer,laeuffer,Bleibt,VVFIN,bleiben,30996,,
+gdc-coref,rhzq.0,51400,51426,Läuffer,laeuffer,nachsinnend,ADJD,nachsinnend,30996,,
+gdc-coref,rhzq.0,51400,51426,Läuffer,laeuffer,sitzen,VVINF,sitzen,30996,,
+gdc-coref,rhzq.0,51400,51426,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,51439,51470,Gustchen,gustchen,in,APPR,in,30996,,
+gdc-coref,rhzq.0,51439,51470,Gustchen,gustchen,der,ART,der,30996,,
+gdc-coref,rhzq.0,51439,51470,Gustchen,gustchen,beschriebenen,ADJA,beschrieben,30996,,
+gdc-coref,rhzq.0,51439,51470,Gustchen,gustchen,Pantomime,NN,pantomime,30996,,
+gdc-coref,rhzq.0,51439,51470,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,Drückt,VVFIN,drückt,30996,,
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,seine,PPOSAT,sein,30996,,(287|(26)
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,Hand,NN,hand,30996,,287)
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,an,APPR,an,30996,,
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,ihre,PPOSAT,ihr,30996,,(126)
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,Augen,NN,auge,30996,,
+gdc-coref,rhzq.0,51676,51708,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,51745,51755,Läuffer,laeuffer,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,51745,51755,Läuffer,laeuffer,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,51745,51755,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,in,APPR,in,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,Gedanken,NN,gedanke,30996,,(383)
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,",","$,",--,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,nach,APPR,nach,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,einer,ART,ein,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,Pause,NN,pause,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,fängt,VVFIN,fangen,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,51883,51954,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,52284,52314,Gustchen,gustchen,Küßt,VVIMP,küßen,30996,,
+gdc-coref,rhzq.0,52284,52314,Gustchen,gustchen,Läuffers,NN,läuffer,30996,,(287|(26)
+gdc-coref,rhzq.0,52284,52314,Gustchen,gustchen,Hand,NN,hand,30996,,287)
+gdc-coref,rhzq.0,52284,52314,Gustchen,gustchen,inbrünstig,ADJD,inbrünstig,30996,,
+gdc-coref,rhzq.0,52284,52314,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,küßt,VVFIN,küssen,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,ihre,PPOSAT,ihr,30996,,(165|(126)
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,Hand,NN,hand,30996,,165)
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,lange,ADV,lange,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,und,KON,und,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,eine,ART,ein,30996,,(385
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,Weile,NN,weile,30996,,385)
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,stumm,ADJD,stumm,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,52347,52409,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,52457,52474,Gustchen,gustchen,richtet,VVFIN,richten,30996,,
+gdc-coref,rhzq.0,52457,52474,Gustchen,gustchen,sich,PRF,sich,30996,,(126)
+gdc-coref,rhzq.0,52457,52474,Gustchen,gustchen,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,52457,52474,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,52553,52570,Gustchen,gustchen,Fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,52553,52570,Gustchen,gustchen,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,52553,52570,Gustchen,gustchen,hin,PTKVZ,hin,30996,,
+gdc-coref,rhzq.0,52553,52570,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,52765,52784,Gustchen,gustchen,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,52765,52784,Gustchen,gustchen,läuft,VVFIN,laufen,30996,,
+gdc-coref,rhzq.0,52765,52784,Gustchen,gustchen,fort,PTKVZ,fort,30996,,
+gdc-coref,rhzq.0,52765,52784,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,52807,52833,_Stage,_Stage,Die,ART,der,30996,,(3
+gdc-coref,rhzq.0,52807,52833,_Stage,_Stage,Majorin,NN,majorin,30996,,3)
+gdc-coref,rhzq.0,52807,52833,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,52807,52833,_Stage,_Stage,Graf,NE,graf,30996,,(77
+gdc-coref,rhzq.0,52807,52833,_Stage,_Stage,Wermuth,NE,wermuth,30996,,77)
+gdc-coref,rhzq.0,52807,52833,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,54713,54744,Majorin,majorin,Sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,54713,54744,Majorin,majorin,den,ART,der,30996,,(77
+gdc-coref,rhzq.0,54713,54744,Majorin,majorin,Grafen,NN,grafe,30996,,77)
+gdc-coref,rhzq.0,54713,54744,Majorin,majorin,schalkhaft,ADJD,schalkhaft,30996,,
+gdc-coref,rhzq.0,54713,54744,Majorin,majorin,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,54713,54744,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,54753,54771,Graf Wermuth,graf_wermuth,faßt,VVFIN,fassen,30996,,
+gdc-coref,rhzq.0,54753,54771,Graf Wermuth,graf_wermuth,sie,PPER,sie,30996,,(3)
+gdc-coref,rhzq.0,54753,54771,Graf Wermuth,graf_wermuth,ans,APPRART,an,30996,,
+gdc-coref,rhzq.0,54753,54771,Graf Wermuth,graf_wermuth,Kinn,NN,kinn,30996,,
+gdc-coref,rhzq.0,54753,54771,Graf Wermuth,graf_wermuth,.,$.,--,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,Major,NE,Major,30996,,(37
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,von,NE,von,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,Berg,NE,berg,30996,,37)
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,kommt,VVFIN,kommen,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,im,APPRART,in,30996,,(400
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,Nachtwämschen,NN,nachtwämsch,30996,,400)
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,",","$,",--,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,einen,ART,ein,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,Strohhut,NN,strohhut,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,55104,55162,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,57390,57398,Major,major,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,57390,57398,Major,major,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,57390,57398,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,57638,57647,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,57638,57647,_Stage,_Stage,Halle,NE,halle,30996,,(293)
+gdc-coref,rhzq.0,57638,57647,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,im,APPRART,in,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,Gefängnis,NN,gefängnis,30996,,(342)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,Bollwerk,NE,bollwerk,30996,,(11)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,von,APPR,von,30996,,(16
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,Seiffenblase,NN,seiffenblase,30996,,16)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,sein,PPOSAT,sein,30996,,(413|(16)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,Hofmeister,NN,hofmeister,30996,,413)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,stehn,VVFIN,stehn,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,um,APPR,um,30996,,
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,57648,57737,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,in,APPR,in,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,Reisekleidern,NN,reisekleid,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,",","$,",--,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,Berg,NN,berg,30996,,(59)
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,um,APPR,um,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,den,ART,der,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,Hals,NN,hals,30996,,
+gdc-coref,rhzq.0,61739,61780,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,Rauft,VVFIN,raufen,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,das,ART,der,30996,,(325
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,Haar,NN,haar,30996,,325)
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,beiden,PIAT,beide,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,Händen,NN,hand,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,stampft,VVFIN,stampfen,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,den,ART,der,30996,,(443
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,Füßen,NN,fuß,30996,,443)
+gdc-coref,rhzq.0,61911,61975,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,62708,62732,Pätus,paetus,wirft,VVFIN,werfen,30996,,
+gdc-coref,rhzq.0,62708,62732,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,62708,62732,Pätus,paetus,ihm,PPER,ihm,30996,,(59)
+gdc-coref,rhzq.0,62708,62732,Pätus,paetus,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,62708,62732,Pätus,paetus,Füßen,NN,fuß,30996,,(442)
+gdc-coref,rhzq.0,62708,62732,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,63213,63235,Bollwerk,bollwerk,greift,VVFIN,greifen,30996,,
+gdc-coref,rhzq.0,63213,63235,Bollwerk,bollwerk,ihn,PPER,ihn,30996,,(16)
+gdc-coref,rhzq.0,63213,63235,Bollwerk,bollwerk,in,APPR,in,30996,,
+gdc-coref,rhzq.0,63213,63235,Bollwerk,bollwerk,den,ART,der,30996,,
+gdc-coref,rhzq.0,63213,63235,Bollwerk,bollwerk,Arm,NN,arm,30996,,
+gdc-coref,rhzq.0,63213,63235,Bollwerk,bollwerk,.,$.,--,30996,,
+gdc-coref,rhzq.0,63466,63491,Bollwerk,bollwerk,Wirft,VVFIN,wirfen,30996,,
+gdc-coref,rhzq.0,63466,63491,Bollwerk,bollwerk,ihn,PPER,ihn,30996,,(16)
+gdc-coref,rhzq.0,63466,63491,Bollwerk,bollwerk,zur,APPRART,zu,30996,,(446
+gdc-coref,rhzq.0,63466,63491,Bollwerk,bollwerk,Tür,NN,tür,30996,,446)
+gdc-coref,rhzq.0,63466,63491,Bollwerk,bollwerk,hinaus,PTKVZ,hinaus,30996,,
+gdc-coref,rhzq.0,63466,63491,Bollwerk,bollwerk,.,$.,--,30996,,
+gdc-coref,rhzq.0,63682,63705,Bollwerk,bollwerk,Der,ART,der,30996,,(413
+gdc-coref,rhzq.0,63682,63705,Bollwerk,bollwerk,Hofmeister,NN,hofmeister,30996,,413)
+gdc-coref,rhzq.0,63682,63705,Bollwerk,bollwerk,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,63682,63705,Bollwerk,bollwerk,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,63682,63705,Bollwerk,bollwerk,.,$.,--,30996,,
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,Bollwerk,NE,bollwerk,30996,,(11)
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,reißt,VVFIN,reißen,30996,,
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,ihn,PPER,ihn,30996,,(9)
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,sich,PRF,sich,30996,,(11)
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,fort,PTKVZ,fort,30996,,
+gdc-coref,rhzq.0,64182,64215,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,64252,64267,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,64252,64267,_Stage,_Stage,Heidelbrunn,NE,heidelbrunn,30996,,(158)
+gdc-coref,rhzq.0,64252,64267,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,Der,ART,der,30996,,(37
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,Major,NN,Major,30996,,37)
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,im,APPRART,in,30996,,(400
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,Nachtwämschen,NN,nachtwämsch,30996,,400)
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,Der,ART,der,30996,,(31
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,Geheime,NN,geheim,30996,,
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,64268,64312,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,65321,65327,Major,major,Weint,VVFIN,weinen,30996,,
+gdc-coref,rhzq.0,65321,65327,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,66095,66121,Geheimer Rat,geheimer_rat,Die,ART,der,30996,,(3
+gdc-coref,rhzq.0,66095,66121,Geheimer Rat,geheimer_rat,Majorin,NN,majorin,30996,,3)
+gdc-coref,rhzq.0,66095,66121,Geheimer Rat,geheimer_rat,stürzt,VVFIN,stürzen,30996,,
+gdc-coref,rhzq.0,66095,66121,Geheimer Rat,geheimer_rat,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,66095,66121,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,66396,66418,Majorin,majorin,Fällt,NN,fallen,30996,,
+gdc-coref,rhzq.0,66396,66418,Majorin,majorin,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,66396,66418,Majorin,majorin,einen,ART,ein,30996,,
+gdc-coref,rhzq.0,66396,66418,Majorin,majorin,Stuhl,NN,stuhl,30996,,
+gdc-coref,rhzq.0,66396,66418,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,66428,66444,Major,major,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,66428,66444,Major,major,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,66428,66444,Major,major,sie,PPER,sie,30996,,(3)
+gdc-coref,rhzq.0,66428,66444,Major,major,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,66428,66444,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,66565,66583,Majorin,majorin,Fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,66565,66583,Majorin,majorin,in,APPR,in,30996,,
+gdc-coref,rhzq.0,66565,66583,Majorin,majorin,Ohnmacht,NE,ohnmacht,30996,,
+gdc-coref,rhzq.0,66565,66583,Majorin,majorin,.,$.,--,30996,,
+gdc-coref,rhzq.0,66623,66637,Major,major,Schüttelt,VVFIN,schüttelt,30996,,
+gdc-coref,rhzq.0,66623,66637,Major,major,sie,PPER,sie,30996,,(3)
+gdc-coref,rhzq.0,66623,66637,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,66867,66878,Major,major,Will,VMFIN,wollen,30996,,
+gdc-coref,rhzq.0,66867,66878,Major,major,gehen,VVINF,gehen,30996,,
+gdc-coref,rhzq.0,66867,66878,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,66896,66912,Geheimer Rat,geheimer_rat,hält,VVFIN,halten,30996,,
+gdc-coref,rhzq.0,66896,66912,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(37)
+gdc-coref,rhzq.0,66896,66912,Geheimer Rat,geheimer_rat,zurück,PTKVZ,zurück,30996,,
+gdc-coref,rhzq.0,66896,66912,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,schließt,VVFIN,schließen,30996,,
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,die,ART,der,30996,,(461
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,Tür,NN,tür,30996,,461)
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,67027,67059,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,67070,67105,Major,major,arbeitet,VVFIN,arbeiten,30996,,
+gdc-coref,rhzq.0,67070,67105,Major,major,vergebens,ADV,vergebens,30996,,
+gdc-coref,rhzq.0,67070,67105,Major,major,sie,PPER,sie,30996,,(461)
+gdc-coref,rhzq.0,67070,67105,Major,major,aufzumachen,VVIZU,aufmachen,30996,,
+gdc-coref,rhzq.0,67070,67105,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,67133,67148,Major,major,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,67133,67148,Major,major,seiner,PPOSAT,sein,30996,,(3|(37)
+gdc-coref,rhzq.0,67133,67148,Major,major,Frau,NN,frau,30996,,3)
+gdc-coref,rhzq.0,67133,67148,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,67185,67203,Major,major,Reißt,VVFIN,reißen,30996,,
+gdc-coref,rhzq.0,67185,67203,Major,major,die,ART,der,30996,,(461
+gdc-coref,rhzq.0,67185,67203,Major,major,Tür,NN,tür,30996,,
+gdc-coref,rhzq.0,67185,67203,Major,major,auf,PTKVZ,auf,30996,,461)
+gdc-coref,rhzq.0,67185,67203,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,67362,67405,Major,major,Schleppt,VVFIN,schleppen,30996,,
+gdc-coref,rhzq.0,67362,67405,Major,major,seine,PPOSAT,sein,30996,,(3
+gdc-coref,rhzq.0,67362,67405,Major,major,Frau,NN,frau,30996,,3)
+gdc-coref,rhzq.0,67362,67405,Major,major,ohnmächtig,ADJD,ohnmächtig,30996,,
+gdc-coref,rhzq.0,67362,67405,Major,major,vom,APPRART,von,30996,,
+gdc-coref,rhzq.0,67362,67405,Major,major,Theater,NN,theater,30996,,(463)
+gdc-coref,rhzq.0,67362,67405,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,67427,67447,_Stage,_Stage,Eine,ART,ein,30996,,(464
+gdc-coref,rhzq.0,67427,67447,_Stage,_Stage,Schule,NN,schule,30996,,
+gdc-coref,rhzq.0,67427,67447,_Stage,_Stage,im,APPRART,in,30996,,(158
+gdc-coref,rhzq.0,67427,67447,_Stage,_Stage,Dorf,NN,dorf,30996,,464)|158)
+gdc-coref,rhzq.0,67427,67447,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,67448,67470,_Stage,_Stage,Es,PPER,es,30996,,(465)
+gdc-coref,rhzq.0,67448,67470,_Stage,_Stage,ist,VAFIN,sein,30996,,
+gdc-coref,rhzq.0,67448,67470,_Stage,_Stage,finstrer,ADJA,finstr,30996,,
+gdc-coref,rhzq.0,67448,67470,_Stage,_Stage,Abend,NN,abend,30996,,
+gdc-coref,rhzq.0,67448,67470,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,67471,67491,_Stage,_Stage,Wenzeslaus,NE,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,67471,67491,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,67471,67491,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(466)
+gdc-coref,rhzq.0,67471,67491,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,sitzt,VVFIN,sitzen,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,einem,ART,ein,30996,,(467
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,Tisch,NN,tisch,30996,,467)
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,",","$,",--,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,die,PRELS,der,30996,,(468
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,Brill,ADJD,brill,30996,,468)
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,der,ART,der,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,Nase,NN,nase,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,lineïert,VVFIN,lineïern,30996,,
+gdc-coref,rhzq.0,67504,67562,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,Legt,VVFIN,legen,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,das,ART,der,30996,,(472
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,Lineal,NN,lineal,30996,,472)
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,",","$,",--,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,die,ART,der,30996,,(468
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,Brille,NN,brille,30996,,468)
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,ihn,PPER,ihn,30996,,(466)
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,eine,ART,ein,30996,,(385
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,Weile,NN,weile,30996,,385)
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,68246,68315,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,68487,68515,Wenzeslaus,wenzeslaus,Setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,68487,68515,Wenzeslaus,wenzeslaus,die,ART,der,30996,,(468
+gdc-coref,rhzq.0,68487,68515,Wenzeslaus,wenzeslaus,Brille,NN,brille,30996,,468)
+gdc-coref,rhzq.0,68487,68515,Wenzeslaus,wenzeslaus,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,68487,68515,Wenzeslaus,wenzeslaus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,68487,68515,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,Legt,VVFIN,legen,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,Brille,NN,brille,30996,,(468)
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,Lineal,NN,lineal,30996,,(472)
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,steht,VVFIN,stehen,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,70514,70555,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,70804,70827,Läuffer,laeuffer,Springt,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,70804,70827,Läuffer,laeuffer,in,APPR,in,30996,,
+gdc-coref,rhzq.0,70804,70827,Läuffer,laeuffer,eine,ART,ein,30996,,(492
+gdc-coref,rhzq.0,70804,70827,Läuffer,laeuffer,Kammer,NN,kammer,30996,,492)
+gdc-coref,rhzq.0,70804,70827,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,Graf,NE,graf,30996,,(77
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,Wermuth,NE,wermuth,30996,,77)
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,ein,ART,ein,30996,,(493
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,paar,PIAT,paar,30996,,
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,Bedienten,NN,bedient,30996,,
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,",","$,",--,30996,,
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,die,ART,der,30996,,(493)
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,Pistolen,NN,pistole,30996,,
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,tragen,VVFIN,tragen,30996,,493)
+gdc-coref,rhzq.0,70829,70886,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,Graf,NN,graf,30996,,(77)
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,will,VMFIN,wollen,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,in,APPR,in,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,die,ART,der,30996,,(492
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,Kammer,NN,kammer,30996,,492)
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,",","$,",--,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,er,PPER,er,30996,,(17)
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,stellt,VVFIN,stellen,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,sich,PRF,sich,30996,,(17)
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,vor,APPR,vor,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,die,ART,der,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,Tür,NN,tür,30996,,
+gdc-coref,rhzq.0,71275,71327,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,Faßt,VVFIN,fassen,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,ihn,PPER,ihn,30996,,(77)
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,die,ART,der,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,Hand,NN,hand,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,führt,VVFIN,führen,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,ihn,PPER,ihn,30996,,(77)
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,zur,APPRART,zu,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,Tür,NN,tür,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,hinaus,APZR,hinaus,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,;,$.,--,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,die,ART,der,30996,,(493
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,Bedienten,NN,bedient,30996,,493)
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,folgen,VVFIN,folgen,30996,,
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,ihm,PPER,ihm,30996,,(77)
+gdc-coref,rhzq.0,71724,71800,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,71813,71843,Läuffer,laeuffer,springt,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,71813,71843,Läuffer,laeuffer,aus,APPR,aus,30996,,
+gdc-coref,rhzq.0,71813,71843,Läuffer,laeuffer,der,ART,der,30996,,(492
+gdc-coref,rhzq.0,71813,71843,Läuffer,laeuffer,Kammer,NN,kammer,30996,,492)
+gdc-coref,rhzq.0,71813,71843,Läuffer,laeuffer,hervor,PTKVZ,hervor,30996,,
+gdc-coref,rhzq.0,71813,71843,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,71899,71922,Wenzeslaus,wenzeslaus,in,APPR,in,30996,,
+gdc-coref,rhzq.0,71899,71922,Wenzeslaus,wenzeslaus,der,ART,der,30996,,
+gdc-coref,rhzq.0,71899,71922,Wenzeslaus,wenzeslaus,obigen,ADJA,obig,30996,,
+gdc-coref,rhzq.0,71899,71922,Wenzeslaus,wenzeslaus,Attitude,NN,attitude,30996,,
+gdc-coref,rhzq.0,71899,71922,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,73392,73407,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,73392,73407,_Stage,_Stage,Heidelbrunn,NE,heidelbrunn,30996,,(158)
+gdc-coref,rhzq.0,73392,73407,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,Der,ART,der,30996,,(31
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,Geheime,NN,geheim,30996,,
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,Herr,NN,herr,30996,,(16
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,Seiffenblase,NN,seiffenblase,30996,,16)
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,sein,PPOSAT,sein,30996,,(413|(16)
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,Hofmeister,NN,hofmeister,30996,,413)
+gdc-coref,rhzq.0,73408,73467,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,76903,76914,_Stage,_Stage,Die,ART,der,30996,,(464
+gdc-coref,rhzq.0,76903,76914,_Stage,_Stage,Schule,NN,schule,30996,,464)
+gdc-coref,rhzq.0,76903,76914,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,Wenzeslaus,NN,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,an,APPR,an,30996,,
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,einem,ART,ein,30996,,(516
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,ungedeckten,ADJA,ungedeckt,30996,,
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,Tisch,NN,tisch,30996,,516)
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,speisend,ADJD,speisend,30996,,
+gdc-coref,rhzq.0,76915,76975,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,82796,82816,Wenzeslaus,wenzeslaus,Stopft,VVFIN,stopfen,30996,,
+gdc-coref,rhzq.0,82796,82816,Wenzeslaus,wenzeslaus,sich,PRF,sich,30996,,(17)
+gdc-coref,rhzq.0,82796,82816,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,82796,82816,Wenzeslaus,wenzeslaus,ihm,PPER,ihm,30996,,(26)
+gdc-coref,rhzq.0,82796,82816,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,82859,82866,Wenzeslaus,wenzeslaus,Raucht,NN,raucht,30996,,
+gdc-coref,rhzq.0,82859,82866,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,83563,83570,Wenzeslaus,wenzeslaus,Trinkt,VVFIN,trinken,30996,,
+gdc-coref,rhzq.0,83563,83570,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,83582,83602,Läuffer,laeuffer,legt,VVFIN,legen,30996,,
+gdc-coref,rhzq.0,83582,83602,Läuffer,laeuffer,die,ART,der,30996,,(527
+gdc-coref,rhzq.0,83582,83602,Läuffer,laeuffer,Pfeife,NN,pfeife,30996,,527)
+gdc-coref,rhzq.0,83582,83602,Läuffer,laeuffer,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,83582,83602,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,Reißt,VVFIN,reißen,30996,,
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,ihm,PPER,ihm,30996,,(26)
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,den,ART,der,30996,,(552
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,Zahnstocher,NN,zahnstocher,30996,,552)
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,aus,APPR,aus,30996,,
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,dem,ART,der,30996,,(235
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,Munde,NN,mund,30996,,235)
+gdc-coref,rhzq.0,83661,83701,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,Nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,Wasser,NN,wasser,30996,,(484)
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,schwängt,VVFIN,schwängen,30996,,
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,den,ART,der,30996,,(235
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,Mund,NN,mund,30996,,235)
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,aus,PTKVZ,aus,30996,,
+gdc-coref,rhzq.0,84012,84051,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,84926,84940,_Stage,_Stage,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,84926,84940,_Stage,_Stage,Insterburg,NE,insterburg,30996,,(24)
+gdc-coref,rhzq.0,84926,84940,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,84941,84961,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,84941,84961,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,84941,84961,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,84941,84961,_Stage,_Stage,Major,NE,Major,30996,,(37)
+gdc-coref,rhzq.0,84941,84961,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,87276,87282,Major,major,weint,VVFIN,weinen,30996,,
+gdc-coref,rhzq.0,87276,87282,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,89100,89108,Major,major,Gehn,NN,gehn,30996,,
+gdc-coref,rhzq.0,89100,89108,Major,major,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,89100,89108,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,89130,89157,_Stage,_Stage,Eine,ART,ein,30996,,(579
+gdc-coref,rhzq.0,89130,89157,_Stage,_Stage,Bettlerhütte,NN,bettlerhütte,30996,,
+gdc-coref,rhzq.0,89130,89157,_Stage,_Stage,im,APPRART,in,30996,,
+gdc-coref,rhzq.0,89130,89157,_Stage,_Stage,Walde,NN,walde,30996,,579)
+gdc-coref,rhzq.0,89130,89157,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,Augustchen,NN,augustchen,30996,,(580)
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,im,APPRART,in,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,groben,ADJA,grob,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,Kittel,NN,kittel,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,Marthe,NE,marthe,30996,,(18
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,ein,ART,ein,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,alt,ADJD,alt,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,blindes,ADJA,blind,30996,,
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,Weib,NN,weib,30996,,18)
+gdc-coref,rhzq.0,89158,89216,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,91342,91350,Gustchen,gustchen,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,91342,91350,Gustchen,gustchen,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,91342,91350,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,91371,91382,_Stage,_Stage,Die,ART,der,30996,,(464
+gdc-coref,rhzq.0,91371,91382,_Stage,_Stage,Schule,NN,schule,30996,,464)
+gdc-coref,rhzq.0,91371,91382,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Wenzeslaus,NN,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,an,APPR,an,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,einem,ART,ein,30996,,(467
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Tisch,NN,tisch,30996,,467)
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,sitzend,ADJD,sitzend,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Der,ART,der,30996,,(37
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Major,NE,Major,30996,,37)
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,der,ART,der,30996,,(31
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Geheime,NN,geheim,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Graf,NN,graf,30996,,(77
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Wermuth,NE,wermuth,30996,,77)
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,treten,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,Bedienten,NN,bedient,30996,,
+gdc-coref,rhzq.0,91383,91500,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,91513,91536,Wenzeslaus,wenzeslaus,läßt,VVFIN,lassen,30996,,
+gdc-coref,rhzq.0,91513,91536,Wenzeslaus,wenzeslaus,die,ART,der,30996,,(468
+gdc-coref,rhzq.0,91513,91536,Wenzeslaus,wenzeslaus,Brille,NN,brille,30996,,468)
+gdc-coref,rhzq.0,91513,91536,Wenzeslaus,wenzeslaus,fallen,VVINF,fallen,30996,,
+gdc-coref,rhzq.0,91513,91536,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,91555,91576,Major,major,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,91555,91576,Major,major,gezogenem,ADJA,gezogen,30996,,
+gdc-coref,rhzq.0,91555,91576,Major,major,Pistol,NN,pistol,30996,,
+gdc-coref,rhzq.0,91555,91576,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,Schießt,VVFIN,schießen,30996,,(588
+gdc-coref,rhzq.0,91624,91680,Major,major,und,KON,und,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,trifft,VVFIN,treffen,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,Läuffern,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,91624,91680,Major,major,in,APPR,in,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,Arm,NN,arm,30996,,(589)
+gdc-coref,rhzq.0,91624,91680,Major,major,",","$,",--,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,der,PRELS,der,30996,,(26)
+gdc-coref,rhzq.0,91624,91680,Major,major,vom,APPRART,von,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,Stuhl,NN,stuhl,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,91624,91680,Major,major,.,$.,--,30996,,588)
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,der,ART,der,30996,,(31)
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,vergeblich,ADJD,vergeblich,30996,,
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,versucht,VVPP,versuchen,30996,,
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,hat,VAFIN,haben,30996,,
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(37)
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,zurückzuhalten,VVPP,zurückhalten,30996,,
+gdc-coref,rhzq.0,91698,91745,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,91755,91774,Geheimer Rat,geheimer_rat,Stößt,VVFIN,stößen,30996,,
+gdc-coref,rhzq.0,91755,91774,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(37)
+gdc-coref,rhzq.0,91755,91774,Geheimer Rat,geheimer_rat,unwillig,ADJD,unwillig,30996,,
+gdc-coref,rhzq.0,91755,91774,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,91839,91865,Major,major,Schlägt,VVFIN,schlägen,30996,,
+gdc-coref,rhzq.0,91839,91865,Major,major,sich,PRF,sich,30996,,(37)
+gdc-coref,rhzq.0,91839,91865,Major,major,vors,APPRART,vor,30996,,(448
+gdc-coref,rhzq.0,91839,91865,Major,major,Gesicht,NN,gesicht,30996,,448)
+gdc-coref,rhzq.0,91839,91865,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,92033,92057,Wenzeslaus,wenzeslaus,Zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,92033,92057,Wenzeslaus,wenzeslaus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,92033,92057,Wenzeslaus,wenzeslaus,seiner,PPOSAT,sein,30996,,(496|(17)
+gdc-coref,rhzq.0,92033,92057,Wenzeslaus,wenzeslaus,Schelle,NN,schelle,30996,,496)
+gdc-coref,rhzq.0,92033,92057,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,92832,92861,Geheimer Rat,geheimer_rat,bemüht,ADJD,bemühen,30996,,
+gdc-coref,rhzq.0,92832,92861,Geheimer Rat,geheimer_rat,Läuffern,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,92832,92861,Geheimer Rat,geheimer_rat,zu,PTKZU,zu,30996,,
+gdc-coref,rhzq.0,92832,92861,Geheimer Rat,geheimer_rat,verbinden,VVINF,verbinden,30996,,
+gdc-coref,rhzq.0,92832,92861,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,93128,93136,Wenzeslaus,wenzeslaus,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,93128,93136,Wenzeslaus,wenzeslaus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,93128,93136,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,93146,93158,Major,major,zu,PTKZU,zu,30996,,
+gdc-coref,rhzq.0,93146,93158,Major,major,Läuffern,VVINF,läuffer,30996,,(26)
+gdc-coref,rhzq.0,93146,93158,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,93241,93271,Major,major,Zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,93241,93271,Major,major,noch,ADV,noch,30996,,
+gdc-coref,rhzq.0,93241,93271,Major,major,eine,ART,ein,30996,,(601
+gdc-coref,rhzq.0,93241,93271,Major,major,Pistol,NN,pistol,30996,,601)
+gdc-coref,rhzq.0,93241,93271,Major,major,hervor,PTKVZ,hervor,30996,,
+gdc-coref,rhzq.0,93241,93271,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,entreißt,VVFIN,entreißen,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,sie,PPER,sie,30996,,(601)
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,ihm,PPER,ihm,30996,,(37)
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,schießt,VVFIN,schießen,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,sie,PPER,sie,30996,,(601)
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,aus,APPR,aus,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,dem,ART,der,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,Fenster,NN,fenster,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,93288,93340,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,94030,94041,Major,major,Läuft,ADJD,laufen,30996,,
+gdc-coref,rhzq.0,94030,94041,Major,major,fort,PTKVZ,fort,30996,,
+gdc-coref,rhzq.0,94030,94041,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,94100,94131,Geheimer Rat,geheimer_rat,Wirft,VVFIN,wirft,30996,,
+gdc-coref,rhzq.0,94100,94131,Geheimer Rat,geheimer_rat,Läuffern,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,94100,94131,Geheimer Rat,geheimer_rat,einen,ART,ein,30996,,(604
+gdc-coref,rhzq.0,94100,94131,Geheimer Rat,geheimer_rat,Beutel,NN,beutel,30996,,604)
+gdc-coref,rhzq.0,94100,94131,Geheimer Rat,geheimer_rat,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,94100,94131,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,94348,94361,Geheimer Rat,geheimer_rat,Gehn,NN,gehn,30996,,
+gdc-coref,rhzq.0,94348,94361,Geheimer Rat,geheimer_rat,alle,PIS,alle,30996,,(590)
+gdc-coref,rhzq.0,94348,94361,Geheimer Rat,geheimer_rat,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,94348,94361,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,Wenzeslaus,NE,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,kömmt,VVFIN,kömmen,30996,,
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,dem,ART,der,30996,,(19
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,Barbier,NN,barbier,30996,,
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,Schöpsen,NE,schöpsen,30996,,19)
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,einigen,PIAT,einiger,30996,,(497
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,Bauerkerlen,NN,bauerkerle,30996,,497)
+gdc-coref,rhzq.0,94362,94428,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,94625,94646,Läuffer,laeuffer,Schöpsen,NN,schöpsen,30996,,(19)
+gdc-coref,rhzq.0,94625,94646,Läuffer,laeuffer,besieht,VVFIN,besiehen,30996,,
+gdc-coref,rhzq.0,94625,94646,Läuffer,laeuffer,sie,PPER,sie,30996,,(597)
+gdc-coref,rhzq.0,94625,94646,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,nachdem,KOUS,nachdem,30996,,
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,er,PPER,er,30996,,(19)
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,die,ART,der,30996,,(597
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,Wunde,NN,wunde,30996,,597)
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,noch,ADV,noch,30996,,
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,einmal,ADV,einmal,30996,,
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,besichtigt,VVPP,besichtigen,30996,,
+gdc-coref,rhzq.0,95962,96006,Schöpsen,schoepsen,.,$.,--,30996,,
+gdc-coref,rhzq.0,96295,96311,Wenzeslaus,wenzeslaus,hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,96295,96311,Wenzeslaus,wenzeslaus,den,ART,der,30996,,(604
+gdc-coref,rhzq.0,96295,96311,Wenzeslaus,wenzeslaus,Beutel,NN,beutel,30996,,604)
+gdc-coref,rhzq.0,96295,96311,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,der,PRELS,der,30996,,(19)
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,sich,PRF,sich,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,die,ART,der,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,Weil,NN,weil,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,über,APPR,über,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,vergessen,ADJD,vergessen,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,und,KON,und,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,eifrig,ADJD,eifrig,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,nach,APPR,nach,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,dem,ART,der,30996,,(604
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,Beutel,NN,beutel,30996,,604)
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,gesehen,VVPP,sehen,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,",","$,",--,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,über,APPR,über,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,die,ART,der,30996,,(597
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,Wunde,NN,wunde,30996,,597)
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,her,PTKVZ,her,30996,,
+gdc-coref,rhzq.0,96506,96607,Schöpsen,schoepsen,.,$.,--,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,liegend,ADJD,liegend,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,",","$,",--,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,an,APPR,an,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,einem,ART,ein,30996,,(622
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,Teich,NN,teich,30996,,622)
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,Gesträuch,NN,gesträuch,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,umgeben,VVPP,umgeben,30996,,
+gdc-coref,rhzq.0,97099,97145,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,Rafft,VVFIN,raffen,30996,,
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,sich,PRF,sich,30996,,(126)
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,und,KON,und,30996,,
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,wirft,VVFIN,werfen,30996,,
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,sich,PRF,sich,30996,,(126)
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,in,APPR,in,30996,,
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,Teich,NN,teich,30996,,(622)
+gdc-coref,rhzq.0,97568,97607,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,Major,NE,Major,30996,,(37)
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,von,APPR,von,30996,,
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,weitem,ADJA,weit,30996,,
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,und,KON,und,30996,,
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,Graf,NN,graf,30996,,(77
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,Wermuth,NE,wermuth,30996,,77)
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,folgen,VVFIN,folgen,30996,,
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,ihm,PPER,ihm,30996,,(37)
+gdc-coref,rhzq.0,97608,97667,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,97862,97879,Major,major,Springt,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,97862,97879,Major,major,ihr,PPER,ihr,30996,,(126)
+gdc-coref,rhzq.0,97862,97879,Major,major,nach,PTKVZ,nach,30996,,
+gdc-coref,rhzq.0,97862,97879,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,97896,97902,Geheimer Rat,geheimer_rat,kommt,VVFIN,kommen,30996,,
+gdc-coref,rhzq.0,97896,97902,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,98189,98218,_Stage,_Stage,Eine,ART,ein,30996,,(625
+gdc-coref,rhzq.0,98189,98218,_Stage,_Stage,andere,ADJA,anderer,30996,,
+gdc-coref,rhzq.0,98189,98218,_Stage,_Stage,Seite,NN,seite,30996,,
+gdc-coref,rhzq.0,98189,98218,_Stage,_Stage,des,ART,der,30996,,(622
+gdc-coref,rhzq.0,98189,98218,_Stage,_Stage,Teichs,NN,teich,30996,,625)|622)
+gdc-coref,rhzq.0,98189,98218,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,98219,98245,_Stage,_Stage,Hinter,APPR,hinter,30996,,
+gdc-coref,rhzq.0,98219,98245,_Stage,_Stage,der,ART,der,30996,,
+gdc-coref,rhzq.0,98219,98245,_Stage,_Stage,Szene,NN,szene,30996,,
+gdc-coref,rhzq.0,98219,98245,_Stage,_Stage,Geschrei,NE,geschrei,30996,,
+gdc-coref,rhzq.0,98219,98245,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Major,NE,Major,30996,,(37
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Berg,NN,berg,30996,,37)
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,trägt,VVFIN,tragen,30996,,
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,aufs,APPRART,auf,30996,,
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Theater,NN,theater,30996,,(463)
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,Graf,NN,graf,30996,,(77)
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,folgen,VVINF,folgen,30996,,
+gdc-coref,rhzq.0,98363,98432,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,Setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,98447,98511,Major,major,nieder,PTKVZ,nieder,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,98447,98511,Major,major,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,98447,98511,Major,major,und,KON,und,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,Graf,NN,graf,30996,,(77)
+gdc-coref,rhzq.0,98447,98511,Major,major,suchen,VVFIN,suchen,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,98447,98511,Major,major,zu,PTKZU,zu,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,ermuntern,VVINF,ermuntern,30996,,
+gdc-coref,rhzq.0,98447,98511,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,98567,98588,Major,major,Kniet,VVFIN,kniet,30996,,
+gdc-coref,rhzq.0,98567,98588,Major,major,nieder,PTKVZ,nieder,30996,,
+gdc-coref,rhzq.0,98567,98588,Major,major,bei,APPR,bei,30996,,
+gdc-coref,rhzq.0,98567,98588,Major,major,ihr,PPER,ihr,30996,,(126)
+gdc-coref,rhzq.0,98567,98588,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,Springt,NE,springen,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,",","$,",--,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,ringt,VVFIN,ringen,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,die,ART,der,30996,,(455
+gdc-coref,rhzq.0,98879,98921,Major,major,Hände,NN,hand,30996,,455)
+gdc-coref,rhzq.0,98879,98921,Major,major,;,$.,--,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,umhergehend,ADJD,umhergehend,30996,,
+gdc-coref,rhzq.0,98879,98921,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,99035,99056,Gustchen,gustchen,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,99035,99056,Gustchen,gustchen,schwacher,ADJA,schwach,30996,,
+gdc-coref,rhzq.0,99035,99056,Gustchen,gustchen,Stimme,NN,stimme,30996,,
+gdc-coref,rhzq.0,99035,99056,Gustchen,gustchen,.,$.,--,30996,,
+gdc-coref,rhzq.0,99134,99150,Major,major,geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,99134,99150,Major,major,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,99134,99150,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,99134,99150,Major,major,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,99134,99150,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,99205,99226,Major,major,Kniet,NN,kniet,30996,,
+gdc-coref,rhzq.0,99205,99226,Major,major,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,99205,99226,Major,major,bei,APPR,bei,30996,,
+gdc-coref,rhzq.0,99205,99226,Major,major,ihr,PPER,ihr,30996,,(126)
+gdc-coref,rhzq.0,99205,99226,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,99654,99680,Major,major,Er,PPER,er,30996,,(37)
+gdc-coref,rhzq.0,99654,99680,Major,major,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,99654,99680,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,99654,99680,Major,major,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,99654,99680,Major,major,die,ART,der,30996,,(628
+gdc-coref,rhzq.0,99654,99680,Major,major,Arme,NN,arm,30996,,628)
+gdc-coref,rhzq.0,99654,99680,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,99740,99772,Major,major,Schwenkt,VVFIN,schwenkt,30996,,
+gdc-coref,rhzq.0,99740,99772,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,99740,99772,Major,major,gegen,APPR,gegen,30996,,
+gdc-coref,rhzq.0,99740,99772,Major,major,den,ART,der,30996,,(622
+gdc-coref,rhzq.0,99740,99772,Major,major,Teich,NN,teich,30996,,622)
+gdc-coref,rhzq.0,99740,99772,Major,major,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,99740,99772,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,99863,99887,Major,major,Drückt,VVFIN,drückt,30996,,
+gdc-coref,rhzq.0,99863,99887,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,99863,99887,Major,major,an,APPR,an,30996,,
+gdc-coref,rhzq.0,99863,99887,Major,major,sein,PPOSAT,sein,30996,,(37)
+gdc-coref,rhzq.0,99863,99887,Major,major,Herz,NN,herz,30996,,
+gdc-coref,rhzq.0,99863,99887,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,99991,100006,Major,major,Trägt,VVFIN,trägen,30996,,
+gdc-coref,rhzq.0,99991,100006,Major,major,sie,PPER,sie,30996,,(126)
+gdc-coref,rhzq.0,99991,100006,Major,major,fort,PTKVZ,fort,30996,,
+gdc-coref,rhzq.0,99991,100006,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,100029,100040,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,100029,100040,_Stage,_Stage,Leipzig,NE,leipzig,30996,,(36)
+gdc-coref,rhzq.0,100029,100040,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,100041,100063,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,100041,100063,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,100041,100063,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,100041,100063,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,100041,100063,_Stage,_Stage,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,100041,100063,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,Herr,NN,herr,30996,,(20
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,Rehaar,NE,rehaar,30996,,20)
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,kommt,VVFIN,kommen,30996,,
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,",","$,",--,30996,,
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,eine,ART,ein,30996,,(650
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,Laute,NN,laute,30996,,650)
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,unterm,APPRART,unter,30996,,
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,Arm,NN,arm,30996,,
+gdc-coref,rhzq.0,102210,102251,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,102408,102430,Rehaar,rehaar,Setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,102408,102430,Rehaar,rehaar,sich,PRF,sich,30996,,(20)
+gdc-coref,rhzq.0,102408,102430,Rehaar,rehaar,und,KON,und,30996,,
+gdc-coref,rhzq.0,102408,102430,Rehaar,rehaar,stimmt,VVFIN,stimmen,30996,,
+gdc-coref,rhzq.0,102408,102430,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,102458,102465,Rehaar,rehaar,Stimmt,VVFIN,stimmen,30996,,
+gdc-coref,rhzq.0,102458,102465,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,102758,102786,Fritz,fritz,setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,102758,102786,Fritz,fritz,sich,PRF,sich,30996,,(59)
+gdc-coref,rhzq.0,102758,102786,Fritz,fritz,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,102758,102786,Fritz,fritz,seiner,PPOSAT,sein,30996,,(59)
+gdc-coref,rhzq.0,102758,102786,Fritz,fritz,Laute,NN,laute,30996,,
+gdc-coref,rhzq.0,102758,102786,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,Legt,VVFIN,legen,30996,,
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,die,ART,der,30996,,(650
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,Laute,NN,laute,30996,,650)
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,und,KON,und,30996,,
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,eine,ART,ein,30996,,(656
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,Prise,NN,prise,30996,,656)
+gdc-coref,rhzq.0,102942,102982,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,103268,103291,Rehaar,rehaar,Nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,103268,103291,Rehaar,rehaar,die,ART,der,30996,,(650
+gdc-coref,rhzq.0,103268,103291,Rehaar,rehaar,Laute,NN,laute,30996,,650)
+gdc-coref,rhzq.0,103268,103291,Rehaar,rehaar,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,103268,103291,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,der,PRELS,der,30996,,(9)
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,die,ART,der,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,Zeit,NN,zeit,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,über,APPR,über,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,seitwärts,ADV,seitwärts,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,gehalten,VVPP,halten,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,",","$,",--,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,hervor,PTKVZ,hervor,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,bietet,VVFIN,bieten,30996,,
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,Rehaar,NE,rehaar,30996,,(20)
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,die,ART,der,30996,,(648
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,Hand,NN,hand,30996,,648)
+gdc-coref,rhzq.0,104973,105056,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,105105,105129,Rehaar,rehaar,hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,105105,105129,Rehaar,rehaar,sich,PRF,sich,30996,,(20)
+gdc-coref,rhzq.0,105105,105129,Rehaar,rehaar,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,105105,105129,Rehaar,rehaar,der,ART,der,30996,,(650
+gdc-coref,rhzq.0,105105,105129,Rehaar,rehaar,Laute,NN,laute,30996,,
+gdc-coref,rhzq.0,105105,105129,Rehaar,rehaar,.,$.,--,30996,,650)
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,Er,PPER,er,30996,,(20)
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,legt,VVFIN,legen,30996,,
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,die,ART,der,30996,,(650
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,Laute,NN,laute,30996,,650)
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,den,ART,der,30996,,(672
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,Tisch,NN,tisch,30996,,672)
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,und,KON,und,30996,,
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,eine,ART,ein,30996,,(656
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,Prise,NN,prise,30996,,656)
+gdc-coref,rhzq.0,105841,105894,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,106120,106141,Rehaar,rehaar,läßt,VVFIN,lassen,30996,,
+gdc-coref,rhzq.0,106120,106141,Rehaar,rehaar,die,ART,der,30996,,
+gdc-coref,rhzq.0,106120,106141,Rehaar,rehaar,Dose,NN,dose,30996,,
+gdc-coref,rhzq.0,106120,106141,Rehaar,rehaar,fallen,VVINF,fallen,30996,,
+gdc-coref,rhzq.0,106120,106141,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,107795,107818,Pätus,paetus,gibt,VVFIN,geben,30996,,
+gdc-coref,rhzq.0,107795,107818,Pätus,paetus,ihm,PPER,ihm,30996,,(20)
+gdc-coref,rhzq.0,107795,107818,Pätus,paetus,eine,ART,ein,30996,,
+gdc-coref,rhzq.0,107795,107818,Pätus,paetus,Ohrfeige,NN,ohrfeige,30996,,
+gdc-coref,rhzq.0,107795,107818,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,springt,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,",","$,",--,30996,,
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,das,ART,der,30996,,
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,Schnupftuch,NN,schnupftuch,30996,,
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,vorm,APPRART,vor,30996,,(681
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,Gesicht,NN,gesicht,30996,,681)
+gdc-coref,rhzq.0,107878,107920,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,108187,108193,Rehaar,rehaar,Weint,VVFIN,weinen,30996,,
+gdc-coref,rhzq.0,108187,108193,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,Läuft,NN,laufen,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,",","$,",--,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,will,VMFIN,wollen,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,ihm,PPER,ihm,30996,,(20)
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,nach,PTKVZ,nach,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,;,$.,--,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,hält,VVFIN,halten,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,ihn,PPER,ihn,30996,,(9)
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,zurück,PTKVZ,zurück,30996,,
+gdc-coref,rhzq.0,108456,108509,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,109164,109172,Pätus,paetus,schreit,VVFIN,schreien,30996,,
+gdc-coref,rhzq.0,109164,109172,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,109581,109592,_Stage,_Stage,Die,ART,der,30996,,(464
+gdc-coref,rhzq.0,109581,109592,_Stage,_Stage,Schule,NN,schule,30996,,464)
+gdc-coref,rhzq.0,109581,109592,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,Marthe,NE,marthe,30996,,(18)
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,ein,ART,ein,30996,,(581
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,dem,ART,der,30996,,
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,Arm,NN,arm,30996,,
+gdc-coref,rhzq.0,109593,109631,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,109762,109775,Läuffer,laeuffer,gibt,VVFIN,geben,30996,,
+gdc-coref,rhzq.0,109762,109775,Läuffer,laeuffer,ihr,PPER,ihr,30996,,(18)
+gdc-coref,rhzq.0,109762,109775,Läuffer,laeuffer,was,PIS,was,30996,,
+gdc-coref,rhzq.0,109762,109775,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,Nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,das,ART,der,30996,,(581
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,den,ART,der,30996,,(589
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,Arm,NN,arm,30996,,589)
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,und,KON,und,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,damit,PROAV,damit,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,vor,APPR,vor,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,den,ART,der,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,Spiegel,NN,spiegel,30996,,
+gdc-coref,rhzq.0,110892,110951,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,Fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,in,APPR,in,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,Ohnmacht,NE,ohnmacht,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,;,$.,--,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,das,ART,der,30996,,(581
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,fängt,VVFIN,fangen,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,zu,PTKZU,zu,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,schreien,VVINF,schreien,30996,,
+gdc-coref,rhzq.0,110986,111035,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,Hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,das,ART,der,30996,,(581
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,vom,APPRART,von,30996,,(276
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,Boden,NN,boden,30996,,276)
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,111063,111091,Marthe,marthe,.,$.,--,30996,,
+gdc-coref,rhzq.0,111122,111145,Marthe,marthe,Das,ART,der,30996,,(581
+gdc-coref,rhzq.0,111122,111145,Marthe,marthe,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,111122,111145,Marthe,marthe,beruhigt,VVFIN,beruhigen,30996,,
+gdc-coref,rhzq.0,111122,111145,Marthe,marthe,sich,PRF,sich,30996,,(581)
+gdc-coref,rhzq.0,111122,111145,Marthe,marthe,.,$.,--,30996,,
+gdc-coref,rhzq.0,111255,111267,Marthe,marthe,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,111255,111267,Marthe,marthe,hinaus,PTKVZ,hinaus,30996,,
+gdc-coref,rhzq.0,111255,111267,Marthe,marthe,.,$.,--,30996,,
+gdc-coref,rhzq.0,111288,111313,_Stage,_Stage,Ein,ART,ein,30996,,
+gdc-coref,rhzq.0,111288,111313,_Stage,_Stage,Wäldchen,NN,wäldchen,30996,,
+gdc-coref,rhzq.0,111288,111313,_Stage,_Stage,vor,APPR,vor,30996,,
+gdc-coref,rhzq.0,111288,111313,_Stage,_Stage,Leipzig,NE,leipzig,30996,,(36)
+gdc-coref,rhzq.0,111288,111313,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,Pätus,NN,pätus,30996,,(9)
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,stehn,VVFIN,stehn,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,gezogenem,ADJA,gezogen,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,Degen,NN,degen,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,Rehaar,ADJD,rehaar,30996,,(20)
+gdc-coref,rhzq.0,111314,111373,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,111464,111484,Pätus,paetus,wirft,VVFIN,werfen,30996,,
+gdc-coref,rhzq.0,111464,111484,Pätus,paetus,den,ART,der,30996,,(699
+gdc-coref,rhzq.0,111464,111484,Pätus,paetus,Degen,NN,degen,30996,,699)
+gdc-coref,rhzq.0,111464,111484,Pätus,paetus,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,111464,111484,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,rennt,VVFIN,rennen,30996,,
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,umarmt,VVFIN,umarmen,30996,,
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,111748,111780,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,112326,112332,Rehaar,rehaar,zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,112326,112332,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,Stößt,VVIMP,stößt,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,ihn,PPER,ihn,30996,,(9)
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,weicht,VVFIN,weichen,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,zurück,PTKVZ,zurück,30996,,
+gdc-coref,rhzq.0,112640,112678,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,Stößt,VVFIN,stößen,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,in,APPR,in,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,den,ART,der,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,Arm,NN,arm,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,legiert,VVFIN,legieren,30996,,
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,ihm,PPER,ihm,30996,,(20)
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,den,ART,der,30996,,(666
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,Degen,NN,degen,30996,,666)
+gdc-coref,rhzq.0,112701,112753,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,113680,113691,Pätus,paetus,Umarmt,ADJD,umarmen,30996,,
+gdc-coref,rhzq.0,113680,113691,Pätus,paetus,ihn,PPER,ihn,30996,,(20)
+gdc-coref,rhzq.0,113680,113691,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,114718,114729,_Stage,_Stage,Die,ART,der,30996,,(464
+gdc-coref,rhzq.0,114718,114729,_Stage,_Stage,Schule,NN,schule,30996,,464)
+gdc-coref,rhzq.0,114718,114729,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,liegt,VVFIN,liegen,30996,,
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,Bette,NN,bette,30996,,(537)
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,Wenzeslaus,NE,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,114730,114765,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,118557,118565,Wenzeslaus,wenzeslaus,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,118557,118565,Wenzeslaus,wenzeslaus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,118557,118565,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,118932,118943,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,118932,118943,_Stage,_Stage,Leipzig,NE,leipzig,30996,,(36)
+gdc-coref,rhzq.0,118932,118943,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,Rehaar,NN,rehaar,30996,,(20)
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,begegnen,VVFIN,begegnen,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,sich,PRF,sich,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,der,ART,der,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,Straße,NN,straße,30996,,
+gdc-coref,rhzq.0,118944,118999,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,119800,119818,Fritz,fritz,zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,119800,119818,Fritz,fritz,die,ART,der,30996,,
+gdc-coref,rhzq.0,119800,119818,Fritz,fritz,Uhr,NN,uhr,30996,,
+gdc-coref,rhzq.0,119800,119818,Fritz,fritz,aus,PTKVZ,aus,30996,,
+gdc-coref,rhzq.0,119800,119818,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,119906,119914,Fritz,fritz,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,119906,119914,Fritz,fritz,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,119906,119914,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,119926,119940,Rehaar,rehaar,ruft,VVFIN,rufen,30996,,
+gdc-coref,rhzq.0,119926,119940,Rehaar,rehaar,ihm,PPER,ihm,30996,,(59)
+gdc-coref,rhzq.0,119926,119940,Rehaar,rehaar,nach,PTKVZ,nach,30996,,
+gdc-coref,rhzq.0,119926,119940,Rehaar,rehaar,.,$.,--,30996,,
+gdc-coref,rhzq.0,119997,120022,_Stage,_Stage,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,119997,120022,_Stage,_Stage,Königsberg,NE,königsberg,30996,,(275)
+gdc-coref,rhzq.0,119997,120022,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,119997,120022,_Stage,_Stage,Preußen,NE,preußen,30996,,(25)
+gdc-coref,rhzq.0,119997,120022,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,Major,NE,Major,30996,,(37)
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,stehn,VVFIN,stehn,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,ihrem,PPOSAT,ihr,30996,,(743|(51)
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,Hause,NN,haus,30996,,743)
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,am,APPRART,an,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,Fenster,NN,fenster,30996,,
+gdc-coref,rhzq.0,120023,120085,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,121112,121123,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,121112,121123,_Stage,_Stage,Leipzig,NE,leipzig,30996,,(36)
+gdc-coref,rhzq.0,121112,121123,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,an,APPR,an,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,einem,ART,ein,30996,,(672
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,Tisch,NN,tisch,30996,,672)
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,schreibt,VVFIN,schreiben,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,Berg,NN,berg,30996,,(59)
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,herein,ADV,herein,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,einen,ART,ein,30996,,(742
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,Brief,NN,brief,30996,,742)
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,der,ART,der,30996,,(748
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,Hand,NN,hand,30996,,748)
+gdc-coref,rhzq.0,121124,121201,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,121209,121237,Pätus,paetus,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,121209,121237,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,121209,121237,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,121209,121237,Pätus,paetus,schreibt,VVFIN,schreiben,30996,,
+gdc-coref,rhzq.0,121209,121237,Pätus,paetus,fort,PTKVZ,fort,30996,,
+gdc-coref,rhzq.0,121209,121237,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,121290,121316,Pätus,paetus,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,121290,121316,Pätus,paetus,spaziert,VVFIN,spazieren,30996,,
+gdc-coref,rhzq.0,121290,121316,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,121290,121316,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,121290,121316,Pätus,paetus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,121290,121316,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,121325,121350,Pätus,paetus,Legt,VVFIN,legen,30996,,
+gdc-coref,rhzq.0,121325,121350,Pätus,paetus,das,ART,der,30996,,
+gdc-coref,rhzq.0,121325,121350,Pätus,paetus,Schreibzeug,NN,schreibzeug,30996,,
+gdc-coref,rhzq.0,121325,121350,Pätus,paetus,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,121325,121350,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,121629,121660,Fritz,fritz,Wirft,VVFIN,wirfen,30996,,
+gdc-coref,rhzq.0,121629,121660,Fritz,fritz,sich,PRF,sich,30996,,(59)
+gdc-coref,rhzq.0,121629,121660,Fritz,fritz,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,121629,121660,Fritz,fritz,einen,ART,ein,30996,,(749
+gdc-coref,rhzq.0,121629,121660,Fritz,fritz,Lehnstuhl,NN,lehnstuhl,30996,,749)
+gdc-coref,rhzq.0,121629,121660,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,121670,121676,Pätus,paetus,liest,VVFIN,lesen,30996,,
+gdc-coref,rhzq.0,121670,121676,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,122742,122767,Pätus,paetus,Begießt,VVFIN,begießen,30996,,
+gdc-coref,rhzq.0,122742,122767,Pätus,paetus,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,122742,122767,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,122742,122767,Pätus,paetus,Lavendel,NE,lavendel,30996,,
+gdc-coref,rhzq.0,122742,122767,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,123181,123194,Pätus,paetus,Zerreißt,VVFIN,zerreißen,30996,,
+gdc-coref,rhzq.0,123181,123194,Pätus,paetus,ihn,PPER,ihn,30996,,(742)
+gdc-coref,rhzq.0,123181,123194,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,123230,123256,Fritz,fritz,Schlägt,VVFIN,schlägen,30996,,
+gdc-coref,rhzq.0,123230,123256,Fritz,fritz,sich,PRF,sich,30996,,(59)
+gdc-coref,rhzq.0,123230,123256,Fritz,fritz,an,APPR,an,30996,,
+gdc-coref,rhzq.0,123230,123256,Fritz,fritz,die,ART,der,30996,,
+gdc-coref,rhzq.0,123230,123256,Fritz,fritz,Stirn,NN,stirn,30996,,
+gdc-coref,rhzq.0,123230,123256,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,123271,123281,Fritz,fritz,Steht,NN,stehen,30996,,
+gdc-coref,rhzq.0,123271,123281,Fritz,fritz,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,123271,123281,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,Wirft,VVFIN,wirfen,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,sich,PRF,sich,30996,,(59)
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,wieder,ADV,wieder,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,in,APPR,in,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,den,ART,der,30996,,(749
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,Stuhl,NN,stuhl,30996,,749)
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,und,KON,und,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,verhüllt,VVFIN,verhüllen,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,sein,PPOSAT,sein,30996,,(59)
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,Gesicht,NN,gesicht,30996,,
+gdc-coref,rhzq.0,123913,123970,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,124042,124062,Pätus,paetus,Stampft,NN,stampft,30996,,
+gdc-coref,rhzq.0,124042,124062,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,124042,124062,Pätus,paetus,dem,ART,der,30996,,(759
+gdc-coref,rhzq.0,124042,124062,Pätus,paetus,Fuß,NN,fuß,30996,,759)
+gdc-coref,rhzq.0,124042,124062,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,124436,124448,Fritz,fritz,Springt,NE,springen,30996,,
+gdc-coref,rhzq.0,124436,124448,Fritz,fritz,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,124436,124448,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,124482,124510,Pätus,paetus,stampft,VVFIN,stampfen,30996,,
+gdc-coref,rhzq.0,124482,124510,Pätus,paetus,abermal,ADV,abermal,30996,,
+gdc-coref,rhzq.0,124482,124510,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,124482,124510,Pätus,paetus,dem,ART,der,30996,,(759
+gdc-coref,rhzq.0,124482,124510,Pätus,paetus,Fuß,NN,fuß,30996,,759)
+gdc-coref,rhzq.0,124482,124510,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,125603,125617,_Stage,_Stage,In,APPR,in,30996,,
+gdc-coref,rhzq.0,125603,125617,_Stage,_Stage,Königsberg,NE,königsberg,30996,,(275)
+gdc-coref,rhzq.0,125603,125617,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,führt,VVFIN,führen,30996,,
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Jungfer,NE,jungfer,30996,,(21
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Rehaar,NE,rehaar,30996,,21)
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,an,APPR,an,30996,,
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,der,ART,der,30996,,(460
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Hand,NN,hand,30996,,460)
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Augustchen,NN,augustchen,30996,,(126)
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,Major,NE,Major,30996,,(37)
+gdc-coref,rhzq.0,125618,125683,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,128895,128903,_Stage,_Stage,Leipzig,NE,leipzig,30996,,(36)
+gdc-coref,rhzq.0,128895,128903,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,128904,128917,_Stage,_Stage,Bergs,NE,berg,30996,,(715
+gdc-coref,rhzq.0,128904,128917,_Stage,_Stage,Zimmer,NN,zimmer,30996,,715)
+gdc-coref,rhzq.0,128904,128917,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,von,NE,von,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,Berg,NE,berg,30996,,59)
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,sitzt,VVFIN,sitzen,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,die,ART,der,30996,,(748
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,Hand,NN,hand,30996,,748)
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,untern,APPR,untern,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,Kopf,NN,kopf,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,gestützt,VVPP,stützen,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,stürzt,VVFIN,stürzen,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,128918,128991,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,Greift,VVFIN,greifen,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,den,ART,der,30996,,(326
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,Kopf,NN,kopf,30996,,326)
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,die,ART,der,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,Knie,NN,knie,30996,,
+gdc-coref,rhzq.0,129048,129095,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,129281,129305,Pätus,paetus,Springt,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,129281,129305,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,129281,129305,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,129281,129305,Pätus,paetus,schreit,VVFIN,schreien,30996,,
+gdc-coref,rhzq.0,129281,129305,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,einen,ART,ein,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,Beutel,NN,beutel,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,Gold,NN,gold,30996,,(779)
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,hervor,PTKVZ,hervor,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,wirft,VVFIN,werfen,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,alles,PIS,alle,30996,,(779)
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,die,ART,der,30996,,(276
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,Erde,NN,erde,30996,,276)
+gdc-coref,rhzq.0,129392,129456,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,129596,129606,Pätus,paetus,Lesen,NN,lesen,30996,,
+gdc-coref,rhzq.0,129596,129606,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,129596,129606,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,129892,129903,_Stage,_Stage,Die,ART,der,30996,,(464
+gdc-coref,rhzq.0,129892,129903,_Stage,_Stage,Schule,NN,schule,30996,,464)
+gdc-coref,rhzq.0,129892,129903,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,Wenzeslaus,NE,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,Beide,PIS,beide,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,schwarzen,ADJA,schwarz,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,Kleidern,NN,kleid,30996,,
+gdc-coref,rhzq.0,129904,129953,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,130064,130071,Läuffer,laeuffer,Seufzt,VVFIN,seufzt,30996,,
+gdc-coref,rhzq.0,130064,130071,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,seine,PPOSAT,sein,30996,,(17)
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,Perücke,NN,perücke,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,und,KON,und,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,eine,ART,ein,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,Nachtmütze,NN,nachtmütze,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,130086,130139,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,135346,135357,Wenzeslaus,wenzeslaus,Umarmt,ADJD,umarmen,30996,,
+gdc-coref,rhzq.0,135346,135357,Wenzeslaus,wenzeslaus,ihn,PPER,ihn,30996,,(26)
+gdc-coref,rhzq.0,135346,135357,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,Läuffer,NN,läuffer,30996,,(26)
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,bleibt,VVFIN,bleiben,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,in,APPR,in,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,tiefen,ADJA,tief,30996,,(383
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,Gedanken,NN,gedanke,30996,,383)
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,sitzen,VVINF,sitzen,30996,,
+gdc-coref,rhzq.0,135849,135899,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,Lise,NN,lise,30996,,(22)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,ein,ART,ein,30996,,(814
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,Gesangbuch,NN,gesangbuch,30996,,814)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,der,ART,der,30996,,(815
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,Hand,NN,hand,30996,,815)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,ohne,APPR,ohne,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,daß,KOUS,daß,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,er,PPER,er,30996,,(26)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,gewahr,ADJD,gewahr,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,wird,VAFIN,werden,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,Sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,ihm,PPER,ihm,30996,,(26)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,lang,ADJD,lang,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,stillschweigend,ADJD,stillschweigend,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,zu,PTKVZ,zu,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,Er,PPER,er,30996,,(26)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,springt,VVFIN,springen,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,will,VMFIN,wollen,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,knien,VVINF,knien,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,;,$.,--,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,wird,VAFIN,werden,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,gewahr,ADJD,gewahr,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,sieht,VVFIN,sehen,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,eine,ART,ein,30996,,(385
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,Weile,NN,weile,30996,,385)
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,verwirrt,VVFIN,verwirrt,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,an,PTKVZ,an,30996,,
+gdc-coref,rhzq.0,135921,136117,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,136127,136143,Läuffer,laeuffer,nähert,VVFIN,nähern,30996,,
+gdc-coref,rhzq.0,136127,136143,Läuffer,laeuffer,sich,PRF,sich,30996,,(26)
+gdc-coref,rhzq.0,136127,136143,Läuffer,laeuffer,ihr,PPER,ihr,30996,,(22)
+gdc-coref,rhzq.0,136127,136143,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,136185,136206,Läuffer,laeuffer,Faßt,VVFIN,faßt,30996,,
+gdc-coref,rhzq.0,136185,136206,Läuffer,laeuffer,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,136185,136206,Läuffer,laeuffer,an,APPR,an,30996,,
+gdc-coref,rhzq.0,136185,136206,Läuffer,laeuffer,die,ART,der,30996,,(816
+gdc-coref,rhzq.0,136185,136206,Läuffer,laeuffer,Hand,NN,hand,30996,,816)
+gdc-coref,rhzq.0,136185,136206,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,Setzt,VVFIN,setzen,30996,,
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,einen,ART,ein,30996,,
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,Stuhl,NN,stuhl,30996,,
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,neben,APPR,neben,30996,,
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,seinem,PPOSAT,sein,30996,,(26)
+gdc-coref,rhzq.0,136842,136881,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,136890,136904,Lise,lise,will,VMFIN,wollen,30996,,
+gdc-coref,rhzq.0,136890,136904,Lise,lise,aufstehn,VVFIN,aufstehn,30996,,
+gdc-coref,rhzq.0,136890,136904,Lise,lise,.,$.,--,30996,,
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,nimmt,VVFIN,nehmen,30996,,
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,ihre,PPOSAT,ihr,30996,,(22)
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,beiden,PIAT,beide,30996,,
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,Hände,NN,hand,30996,,
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,in,APPR,in,30996,,
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,seine,PPOSAT,sein,30996,,(287|(26)
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,Hand,NN,hand,30996,,287)
+gdc-coref,rhzq.0,137045,137083,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,137203,137210,Lise,lise,munter,ADJD,munter,30996,,
+gdc-coref,rhzq.0,137203,137210,Lise,lise,.,$.,--,30996,,
+gdc-coref,rhzq.0,137876,137901,Läuffer,laeuffer,Will,VMFIN,wollen,30996,,
+gdc-coref,rhzq.0,137876,137901,Läuffer,laeuffer,ihr,PPER,ihr,30996,,(22)
+gdc-coref,rhzq.0,137876,137901,Läuffer,laeuffer,die,ART,der,30996,,(815
+gdc-coref,rhzq.0,137876,137901,Läuffer,laeuffer,Hand,NN,hand,30996,,815)
+gdc-coref,rhzq.0,137876,137901,Läuffer,laeuffer,küssen,VVINF,küssen,30996,,
+gdc-coref,rhzq.0,137876,137901,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,137958,137972,Lise,lise,zieht,VVFIN,ziehen,30996,,
+gdc-coref,rhzq.0,137958,137972,Lise,lise,sie,PPER,sie,30996,,(815)
+gdc-coref,rhzq.0,137958,137972,Lise,lise,weg,PTKVZ,weg,30996,,
+gdc-coref,rhzq.0,137958,137972,Lise,lise,.,$.,--,30996,,
+gdc-coref,rhzq.0,138534,138543,Läuffer,laeuffer,Küßt,VVFIN,küßen,30996,,
+gdc-coref,rhzq.0,138534,138543,Läuffer,laeuffer,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,138534,138543,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,Küßt,VVFIN,küßen,30996,,
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,Wenzeslaus,NE,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,herein,PTKVZ,herein,30996,,
+gdc-coref,rhzq.0,138688,138722,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,139232,139253,Lise,lise,kniet,VVFIN,knaten,30996,,
+gdc-coref,rhzq.0,139232,139253,Lise,lise,vor,APPR,vor,30996,,
+gdc-coref,rhzq.0,139232,139253,Lise,lise,Wenzeslaus,NN,wenzeslaus,30996,,(17)
+gdc-coref,rhzq.0,139232,139253,Lise,lise,.,$.,--,30996,,
+gdc-coref,rhzq.0,143044,143053,Läuffer,laeuffer,küßt,VVFIN,küssen,30996,,
+gdc-coref,rhzq.0,143044,143053,Läuffer,laeuffer,sie,PPER,sie,30996,,(22)
+gdc-coref,rhzq.0,143044,143053,Läuffer,laeuffer,.,$.,--,30996,,
+gdc-coref,rhzq.0,143085,143108,Wenzeslaus,wenzeslaus,reißt,VVFIN,reißen,30996,,
+gdc-coref,rhzq.0,143085,143108,Wenzeslaus,wenzeslaus,sie,PPER,sie,30996,,(850)
+gdc-coref,rhzq.0,143085,143108,Wenzeslaus,wenzeslaus,von,APPR,von,30996,,
+gdc-coref,rhzq.0,143085,143108,Wenzeslaus,wenzeslaus,einander,PRF,einander,30996,,
+gdc-coref,rhzq.0,143085,143108,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,143777,143785,Wenzeslaus,wenzeslaus,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,143777,143785,Wenzeslaus,wenzeslaus,ab,PTKVZ,ab,30996,,
+gdc-coref,rhzq.0,143777,143785,Wenzeslaus,wenzeslaus,.,$.,--,30996,,
+gdc-coref,rhzq.0,143925,143939,_Stage,_Stage,Zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,143925,143939,_Stage,_Stage,Insterburg,NE,insterburg,30996,,(24)
+gdc-coref,rhzq.0,143925,143939,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Fritz,NE,fritz,30996,,(59
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,von,APPR,von,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Berg,NN,berg,30996,,59)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Pätus,NE,pätus,30996,,(9)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Jungfer,ADJA,jungfer,30996,,(21
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Rehaar,NN,rehaar,30996,,21)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Jungfer,NN,jungfer,30996,,(21
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Rehaar,NE,rehaar,30996,,21)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,verstecken,VVFIN,verstecken,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,sich,PRF,sich,30996,,(770)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,bei,APPR,bei,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,der,ART,der,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Ankunft,NN,ankunft,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,der,ART,der,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,erstern,ADV,erstern,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,in,APPR,in,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,die,ART,der,30996,,(859
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Kammer,NN,kammer,30996,,859)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,und,KON,und,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,laufen,VVFIN,laufen,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,sich,PRF,sich,30996,,(860)
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,entgegen,PTKVZ,entgegen,30996,,
+gdc-coref,rhzq.0,143940,144134,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,vor,APPR,vor,30996,,
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,ihm,PPER,ihm,30996,,(31)
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,die,ART,der,30996,,
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,Knie,NN,knie,30996,,
+gdc-coref,rhzq.0,144142,144169,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,hebt,VVFIN,heben,30996,,
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,und,KON,und,30996,,
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,umarmt,VVFIN,umarmen,30996,,
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,144199,144227,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,146087,146097,Pätus,paetus,steht,VVFIN,stehen,30996,,
+gdc-coref,rhzq.0,146087,146097,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,146087,146097,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,146547,146568,Geheimer Rat,geheimer_rat,Führt,VVFIN,führen,30996,,
+gdc-coref,rhzq.0,146547,146568,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(9)
+gdc-coref,rhzq.0,146547,146568,Geheimer Rat,geheimer_rat,an,APPR,an,30996,,
+gdc-coref,rhzq.0,146547,146568,Geheimer Rat,geheimer_rat,die,ART,der,30996,,
+gdc-coref,rhzq.0,146547,146568,Geheimer Rat,geheimer_rat,Tür,NN,tür,30996,,
+gdc-coref,rhzq.0,146547,146568,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,macht,VVFIN,machen,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,und,KON,und,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,fährt,VVFIN,fahren,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,zurück,PTKVZ,zurück,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,",","$,",--,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,sich,PRF,sich,30996,,(9)
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,beiden,PIAT,beide,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,Händen,NN,hand,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,an,APPR,an,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,den,ART,der,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,Kopf,NN,kopf,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,greifend,ADJD,greifend,30996,,
+gdc-coref,rhzq.0,146578,146650,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,146685,146702,Pätus,paetus,Hinter,APPR,hinter,30996,,
+gdc-coref,rhzq.0,146685,146702,Pätus,paetus,der,ART,der,30996,,(867
+gdc-coref,rhzq.0,146685,146702,Pätus,paetus,Szene,NN,szene,30996,,867)
+gdc-coref,rhzq.0,146685,146702,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,146823,146838,Geheimer Rat,geheimer_rat,Kehrt,ADJD,kehren,30996,,
+gdc-coref,rhzq.0,146823,146838,Geheimer Rat,geheimer_rat,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,146823,146838,Geheimer Rat,geheimer_rat,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,146823,146838,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,147077,147084,Fritz,fritz,kniend,ADJD,kniend,30996,,
+gdc-coref,rhzq.0,147077,147084,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,147713,147739,Fritz,fritz,Schlägt,VVFIN,schlägen,30996,,
+gdc-coref,rhzq.0,147713,147739,Fritz,fritz,sich,PRF,sich,30996,,(59)
+gdc-coref,rhzq.0,147713,147739,Fritz,fritz,an,APPR,an,30996,,
+gdc-coref,rhzq.0,147713,147739,Fritz,fritz,die,ART,der,30996,,(870
+gdc-coref,rhzq.0,147713,147739,Fritz,fritz,Brust,NN,brust,30996,,870)
+gdc-coref,rhzq.0,147713,147739,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,147974,147991,Fritz,fritz,Steht,NN,stehen,30996,,
+gdc-coref,rhzq.0,147974,147991,Fritz,fritz,hastig,ADJD,hastig,30996,,
+gdc-coref,rhzq.0,147974,147991,Fritz,fritz,auf,PTKVZ,auf,30996,,
+gdc-coref,rhzq.0,147974,147991,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,148035,148059,Geheimer Rat,geheimer_rat,Führt,VVFIN,führen,30996,,
+gdc-coref,rhzq.0,148035,148059,Geheimer Rat,geheimer_rat,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,148035,148059,Geheimer Rat,geheimer_rat,in,APPR,in,30996,,
+gdc-coref,rhzq.0,148035,148059,Geheimer Rat,geheimer_rat,die,ART,der,30996,,(859
+gdc-coref,rhzq.0,148035,148059,Geheimer Rat,geheimer_rat,Kammer,NN,kammer,30996,,859)
+gdc-coref,rhzq.0,148035,148059,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,hinter,APPR,hinter,30996,,
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,der,ART,der,30996,,(867
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,Szene,NN,szene,30996,,867)
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,lautem,ADJA,laut,30996,,(178
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,Geschrei,NN,geschrei,30996,,178)
+gdc-coref,rhzq.0,148069,148106,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,148248,148270,Geheimer Rat,geheimer_rat,wischt,VVFIN,wischen,30996,,
+gdc-coref,rhzq.0,148248,148270,Geheimer Rat,geheimer_rat,sich,PRF,sich,30996,,(31)
+gdc-coref,rhzq.0,148248,148270,Geheimer Rat,geheimer_rat,die,ART,der,30996,,
+gdc-coref,rhzq.0,148248,148270,Geheimer Rat,geheimer_rat,Augen,NN,auge,30996,,
+gdc-coref,rhzq.0,148248,148270,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,148327,148339,Geheimer Rat,geheimer_rat,Geht,VVFIN,gehen,30996,,
+gdc-coref,rhzq.0,148327,148339,Geheimer Rat,geheimer_rat,hinein,PTKVZ,hinein,30996,,
+gdc-coref,rhzq.0,148327,148339,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,Der,ART,der,30996,,(37
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,Major,NE,Major,30996,,37)
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,",","$,",--,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,ein,ART,ein,30996,,(581
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,dem,ART,der,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,Arm,NN,arm,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,Der,ART,der,30996,,(439
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,alte,ADJA,alt,30996,,
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,Pätus,NN,pätus,30996,,439)
+gdc-coref,rhzq.0,148360,148408,_Stage,_Stage,.,$.,--,30996,,
+gdc-coref,rhzq.0,149440,149459,Major,major,Geheimer,ADJA,geheimer,30996,,(31
+gdc-coref,rhzq.0,149440,149459,Major,major,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,149440,149459,Major,major,kömmt,VVFIN,kömmen,30996,,
+gdc-coref,rhzq.0,149440,149459,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,149545,149561,Major,major,Schmeichelt,ADJD,schmeichelt,30996,,
+gdc-coref,rhzq.0,149545,149561,Major,major,ihm,PPER,ihm,30996,,(581)
+gdc-coref,rhzq.0,149545,149561,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,150140,150167,Major,major,Wirft,VVFIN,wirft,30996,,
+gdc-coref,rhzq.0,150140,150167,Major,major,das,ART,der,30996,,(581
+gdc-coref,rhzq.0,150140,150167,Major,major,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,150140,150167,Major,major,ins,APPRART,in,30996,,(881
+gdc-coref,rhzq.0,150140,150167,Major,major,Kanapee,NN,kanapee,30996,,881)
+gdc-coref,rhzq.0,150140,150167,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,öffnet,VVFIN,öffnen,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,die,ART,der,30996,,(859
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,Kammer,NN,kammer,30996,,859)
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,;,$.,--,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,seinen,PPOSAT,sein,30996,,(31)
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,Wink,NN,wink,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,tritt,VVFIN,treten,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,Fritz,NE,fritz,30996,,(59)
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,mit,APPR,mit,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,heraus,PTKVZ,heraus,30996,,
+gdc-coref,rhzq.0,150588,150655,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,150666,150688,Major,major,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,150666,150688,Major,major,ihm,PPER,ihm,30996,,(59)
+gdc-coref,rhzq.0,150666,150688,Major,major,um,APPR,um,30996,,
+gdc-coref,rhzq.0,150666,150688,Major,major,den,ART,der,30996,,
+gdc-coref,rhzq.0,150666,150688,Major,major,Hals,NN,hals,30996,,
+gdc-coref,rhzq.0,150666,150688,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,150696,150713,Major,major,Zum,APPRART,zu,30996,,(31
+gdc-coref,rhzq.0,150696,150713,Major,major,Geheimen,NN,geheim,30996,,
+gdc-coref,rhzq.0,150696,150713,Major,major,Rat,NN,Rat,30996,,31)
+gdc-coref,rhzq.0,150696,150713,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,150885,150907,Major,major,Führt,VVFIN,führen,30996,,
+gdc-coref,rhzq.0,150885,150907,Major,major,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,150885,150907,Major,major,ans,APPRART,an,30996,,(881
+gdc-coref,rhzq.0,150885,150907,Major,major,Kanapee,NN,kanapee,30996,,881)
+gdc-coref,rhzq.0,150885,150907,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,151271,151301,Major,major,drückt,VVFIN,drücken,30996,,
+gdc-coref,rhzq.0,151271,151301,Major,major,ihn,PPER,ihn,30996,,(59)
+gdc-coref,rhzq.0,151271,151301,Major,major,immer,ADV,immer,30996,,
+gdc-coref,rhzq.0,151271,151301,Major,major,an,APPR,an,30996,,
+gdc-coref,rhzq.0,151271,151301,Major,major,die,ART,der,30996,,(870
+gdc-coref,rhzq.0,151271,151301,Major,major,Brust,NN,brust,30996,,870)
+gdc-coref,rhzq.0,151271,151301,Major,major,.,$.,--,30996,,
+gdc-coref,rhzq.0,152375,152398,Geheimer Rat,geheimer_rat,ruft,VVFIN,rufen,30996,,
+gdc-coref,rhzq.0,152375,152398,Geheimer Rat,geheimer_rat,zur,APPRART,zu,30996,,(859
+gdc-coref,rhzq.0,152375,152398,Geheimer Rat,geheimer_rat,Kammer,NN,kammer,30996,,859)
+gdc-coref,rhzq.0,152375,152398,Geheimer Rat,geheimer_rat,hinein,PTKVZ,hinein,30996,,
+gdc-coref,rhzq.0,152375,152398,Geheimer Rat,geheimer_rat,.,$.,--,30996,,
+gdc-coref,rhzq.0,152510,152532,Pätus,paetus,fällt,VVFIN,fallen,30996,,
+gdc-coref,rhzq.0,152510,152532,Pätus,paetus,ihm,PPER,ihm,30996,,(439)
+gdc-coref,rhzq.0,152510,152532,Pätus,paetus,um,APPR,um,30996,,
+gdc-coref,rhzq.0,152510,152532,Pätus,paetus,den,ART,der,30996,,
+gdc-coref,rhzq.0,152510,152532,Pätus,paetus,Hals,NN,hals,30996,,
+gdc-coref,rhzq.0,152510,152532,Pätus,paetus,.,$.,--,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,umarmt,VVFIN,umarmen,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,das,ART,der,30996,,(581
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,Kind,NN,kind,30996,,581)
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,auf,APPR,auf,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,dem,ART,der,30996,,(881
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,Kanapee,NN,kanapee,30996,,881)
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,",","$,",--,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,küßt,VVFIN,küssen,30996,,(581
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,',$(,--,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,s,PPER,--,30996,,581)
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,und,KON,und,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,trägt,VVFIN,tragen,30996,,(581
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,',$(,--,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,s,PPER,--,30996,,581)
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,zu,APPR,zu,30996,,
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,Gustchen,NN,gustchen,30996,,(126)
+gdc-coref,rhzq.0,153747,153811,Fritz,fritz,.,$.,--,30996,,
+gdc-coref,rhzq.0,154254,154269,Fritz,fritz,küßt,VVFIN,küssen,30996,,(581
+gdc-coref,rhzq.0,154254,154269,Fritz,fritz,',$(,--,30996,,
+gdc-coref,rhzq.0,154254,154269,Fritz,fritz,s,PPER,--,30996,,581)
+gdc-coref,rhzq.0,154254,154269,Fritz,fritz,abermal,ADV,abermal,30996,,
+gdc-coref,rhzq.0,154254,154269,Fritz,fritz,.,$.,--,30996,,
