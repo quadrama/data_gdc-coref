@@ -1,0 +1,805 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,pkhv.0,1360,1405,der_domorganist,1390,1393,ich,der_domorganist
+gdc-coref,pkhv.0,3285,3330,der_domorganist,3315,3318,ich,der_domorganist
+gdc-coref,pkhv.0,3534,3728,der_domorganist,3584,3587,ich,der_domorganist
+gdc-coref,pkhv.0,4646,5008,georginel,4673,4676,ich,georginel
+gdc-coref,pkhv.0,4646,5008,georginel,4702,4705,ich,georginel
+gdc-coref,pkhv.0,4646,5008,georginel,4981,4984,ich,georginel
+gdc-coref,pkhv.0,4646,5008,georginel,4995,4998,ich,georginel
+gdc-coref,pkhv.0,5487,5619,georginel,5519,5522,ich,georginel
+gdc-coref,pkhv.0,5870,6082,georginel,5936,5939,ich,georginel
+gdc-coref,pkhv.0,5870,6082,georginel,5946,5950,mich,georginel
+gdc-coref,pkhv.0,5870,6082,georginel,5977,5980,ich,georginel
+gdc-coref,pkhv.0,5870,6082,georginel,6062,6066,mich,georginel
+gdc-coref,pkhv.0,6220,6341,georginel,6321,6324,ich,georginel
+gdc-coref,pkhv.0,6220,6341,georginel,6328,6331,ich,georginel
+gdc-coref,pkhv.0,6395,7086,georginel,6453,6456,ich,georginel
+gdc-coref,pkhv.0,6395,7086,georginel,6617,6620,ich,georginel
+gdc-coref,pkhv.0,6395,7086,georginel,6714,6718,mich,georginel
+gdc-coref,pkhv.0,6395,7086,georginel,7039,7042,ich,georginel
+gdc-coref,pkhv.0,6395,7086,georginel,7071,7074,mir,georginel
+gdc-coref,pkhv.0,7278,7780,georginel,7374,7377,Ich,georginel
+gdc-coref,pkhv.0,7278,7780,georginel,7419,7422,ich,georginel
+gdc-coref,pkhv.0,7278,7780,georginel,7448,7451,mir,georginel
+gdc-coref,pkhv.0,7278,7780,georginel,7497,7500,ich,georginel
+gdc-coref,pkhv.0,7278,7780,georginel,7621,7624,ich,georginel
+gdc-coref,pkhv.0,7278,7780,georginel,7687,7690,ich,georginel
+gdc-coref,pkhv.0,8120,8215,georginel,8186,8189,ich,georginel
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8565,8569,mich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8590,8594,mich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8696,8700,mich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8745,8748,mir,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8788,8791,ich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8851,8854,ich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8859,8862,ich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,8927,8930,ich,der_domorganist
+gdc-coref,pkhv.0,8483,9337,der_domorganist,9319,9322,mir,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,9481,9484,Ich,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,9533,9536,ich,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,9964,9967,mir,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,10301,10304,mir,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,10305,10310,meine,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,10371,10374,ich,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,10516,10519,ich,der_domorganist
+gdc-coref,pkhv.0,9432,10753,der_domorganist,10669,10672,ich,der_domorganist
+gdc-coref,pkhv.0,10844,10932,der_domorganist,10878,10881,mir,der_domorganist
+gdc-coref,pkhv.0,10844,10932,der_domorganist,10902,10908,meiner,der_domorganist
+gdc-coref,pkhv.0,10985,11135,der_domorganist,11023,11026,ich,der_domorganist
+gdc-coref,pkhv.0,10985,11135,der_domorganist,11062,11065,ich,der_domorganist
+gdc-coref,pkhv.0,11140,11253,die_mutter,11173,11176,ich,die_mutter
+gdc-coref,pkhv.0,11316,11669,der_domorganist,11571,11574,ich,der_domorganist
+gdc-coref,pkhv.0,11804,11932,der_domorganist,11846,11849,ich,der_domorganist
+gdc-coref,pkhv.0,11804,11932,der_domorganist,11868,11871,ich,der_domorganist
+gdc-coref,pkhv.0,11980,12109,der_domorganist,12031,12034,mir,der_domorganist
+gdc-coref,pkhv.0,11980,12109,der_domorganist,12067,12070,mir,der_domorganist
+gdc-coref,pkhv.0,11980,12109,der_domorganist,12076,12079,ich,der_domorganist
+gdc-coref,pkhv.0,12982,13016,georginel,13008,13012,mich,georginel
+gdc-coref,pkhv.0,13538,13625,georginel,13566,13570,mich,georginel
+gdc-coref,pkhv.0,13538,13625,georginel,13588,13591,ich,georginel
+gdc-coref,pkhv.0,13631,14954,der_domorganist,13714,13718,mich,der_domorganist
+gdc-coref,pkhv.0,13631,14954,der_domorganist,13835,13838,ich,der_domorganist
+gdc-coref,pkhv.0,13631,14954,der_domorganist,13891,13894,mir,der_domorganist
+gdc-coref,pkhv.0,13631,14954,der_domorganist,13909,13912,ich,der_domorganist
+gdc-coref,pkhv.0,13631,14954,der_domorganist,14766,14769,ich,der_domorganist
+gdc-coref,pkhv.0,13631,14954,der_domorganist,14787,14790,ich,der_domorganist
+gdc-coref,pkhv.0,14959,15149,georginel,14988,14992,mich,georginel
+gdc-coref,pkhv.0,14959,15149,georginel,15142,15145,ich,georginel
+gdc-coref,pkhv.0,15154,15445,der_domorganist,15281,15284,ich,der_domorganist
+gdc-coref,pkhv.0,15450,15520,georginel,15479,15482,ich,georginel
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15558,15561,Ich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15620,15624,mich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15640,15643,ich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15650,15654,mich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15665,15668,ich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15691,15694,ich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15789,15792,mir,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15892,15896,mich,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,15976,15980,mein,der_domorganist
+gdc-coref,pkhv.0,15525,16224,der_domorganist,16031,16034,mir,der_domorganist
+gdc-coref,pkhv.0,16427,16481,georginel,16455,16458,Ich,georginel
+gdc-coref,pkhv.0,17215,17344,die_mutter,17245,17248,ich,die_mutter
+gdc-coref,pkhv.0,17723,18753,der_domorganist,17755,17759,Mein,der_domorganist
+gdc-coref,pkhv.0,17723,18753,der_domorganist,17834,17837,ich,der_domorganist
+gdc-coref,pkhv.0,17723,18753,der_domorganist,18159,18162,ich,der_domorganist
+gdc-coref,pkhv.0,17723,18753,der_domorganist,18391,18395,mich,der_domorganist
+gdc-coref,pkhv.0,17723,18753,der_domorganist,18445,18449,mich,der_domorganist
+gdc-coref,pkhv.0,17723,18753,der_domorganist,18500,18503,ich,der_domorganist
+gdc-coref,pkhv.0,17723,18753,der_domorganist,18692,18696,mein,der_domorganist
+gdc-coref,pkhv.0,19851,20346,der_domorganist,20022,20025,mir,der_domorganist
+gdc-coref,pkhv.0,19851,20346,der_domorganist,20119,20122,ich,der_domorganist
+gdc-coref,pkhv.0,19851,20346,der_domorganist,20162,20168,meiner,der_domorganist
+gdc-coref,pkhv.0,19851,20346,der_domorganist,20190,20193,ich,der_domorganist
+gdc-coref,pkhv.0,19851,20346,der_domorganist,20275,20278,ich,der_domorganist
+gdc-coref,pkhv.0,19851,20346,der_domorganist,20299,20302,ich,der_domorganist
+gdc-coref,pkhv.0,22963,23107,die_mutter,23010,23013,Ich,die_mutter
+gdc-coref,pkhv.0,23112,23195,georginel,23160,23163,ich,georginel
+gdc-coref,pkhv.0,23200,23402,die_mutter,23381,23384,ich,die_mutter
+gdc-coref,pkhv.0,23548,23719,die_mutter,23597,23600,ich,die_mutter
+gdc-coref,pkhv.0,23548,23719,die_mutter,23638,23641,ich,die_mutter
+gdc-coref,pkhv.0,23548,23719,die_mutter,23681,23684,ich,die_mutter
+gdc-coref,pkhv.0,24774,24853,der_seminarist,24796,24800,mich,der_seminarist
+gdc-coref,pkhv.0,24858,24991,die_mutter,24921,24925,mein,die_mutter
+gdc-coref,pkhv.0,25472,25953,der_domorganist,25635,25639,mich,der_domorganist
+gdc-coref,pkhv.0,25472,25953,der_domorganist,25703,25706,ich,der_domorganist
+gdc-coref,pkhv.0,25472,25953,der_domorganist,25873,25879,meiner,der_domorganist
+gdc-coref,pkhv.0,25472,25953,der_domorganist,25946,25949,mir,der_domorganist
+gdc-coref,pkhv.0,26635,26701,der_domorganist,26688,26692,mich,der_domorganist
+gdc-coref,pkhv.0,27248,27381,der_strolch,27261,27264,Ich,der_strolch
+gdc-coref,pkhv.0,27248,27381,der_strolch,27351,27354,mir,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27681,27685,mich,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27704,27707,ich,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27708,27711,mir,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27784,27787,ich,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27812,27815,ich,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27954,27957,mir,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27972,27975,ich,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,27979,27985,meinen,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,28104,28110,meinem,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,28130,28134,mich,der_strolch
+gdc-coref,pkhv.0,27503,28193,der_strolch,28180,28183,ich,der_strolch
+gdc-coref,pkhv.0,28199,28379,der_domorganist,28229,28233,mich,der_domorganist
+gdc-coref,pkhv.0,28199,28379,der_domorganist,28268,28271,ich,der_domorganist
+gdc-coref,pkhv.0,28199,28379,der_domorganist,28279,28285,meinen,der_domorganist
+gdc-coref,pkhv.0,28199,28379,der_domorganist,28364,28370,meiner,der_domorganist
+gdc-coref,pkhv.0,28384,28563,der_strolch,28397,28400,Ich,der_strolch
+gdc-coref,pkhv.0,28384,28563,der_strolch,28426,28429,ich,der_strolch
+gdc-coref,pkhv.0,28384,28563,der_strolch,28451,28454,ich,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,29463,29467,Mein,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,29518,29524,meinem,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,29733,29737,mein,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,29969,29973,mein,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30473,30476,mir,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30498,30501,mir,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30514,30517,ich,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30578,30581,ich,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30822,30825,ich,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30880,30884,mein,der_strolch
+gdc-coref,pkhv.0,29444,31076,der_strolch,30929,30933,mich,der_strolch
+gdc-coref,pkhv.0,31342,31374,der_strolch,31355,31358,Ich,der_strolch
+gdc-coref,pkhv.0,31379,31447,der_domorganist,31404,31409,meine,der_domorganist
+gdc-coref,pkhv.0,31452,31544,der_strolch,31475,31478,ich,der_strolch
+gdc-coref,pkhv.0,31595,31823,der_strolch,31709,31712,ich,der_strolch
+gdc-coref,pkhv.0,31595,31823,der_strolch,31734,31737,ich,der_strolch
+gdc-coref,pkhv.0,31595,31823,der_strolch,31750,31753,ich,der_strolch
+gdc-coref,pkhv.0,31595,31823,der_strolch,31787,31790,ich,der_strolch
+gdc-coref,pkhv.0,31595,31823,der_strolch,31811,31814,mir,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,31886,31889,ich,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,31890,31895,meine,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,31986,31989,ich,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,32054,32058,mein,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,32129,32132,mir,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,32241,32244,ich,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,32289,32292,ich,der_strolch
+gdc-coref,pkhv.0,31868,32629,der_strolch,32293,32297,mich,der_strolch
+gdc-coref,pkhv.0,32634,32803,der_domorganist,32704,32707,ich,der_domorganist
+gdc-coref,pkhv.0,32634,32803,der_domorganist,32757,32760,ich,der_domorganist
+gdc-coref,pkhv.0,32808,33021,der_strolch,32918,32921,ich,der_strolch
+gdc-coref,pkhv.0,32808,33021,der_strolch,32940,32943,ich,der_strolch
+gdc-coref,pkhv.0,32808,33021,der_strolch,32950,32954,mich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,33601,33604,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,33661,33667,meines,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,33713,33716,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,33729,33732,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,33911,33914,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,34038,34041,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,34093,34096,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,34116,34120,mich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,34138,34141,ich,der_strolch
+gdc-coref,pkhv.0,33486,34170,der_strolch,34157,34161,mein,der_strolch
+gdc-coref,pkhv.0,34175,34255,der_domorganist,34206,34210,mich,der_domorganist
+gdc-coref,pkhv.0,34175,34255,der_domorganist,34223,34226,ich,der_domorganist
+gdc-coref,pkhv.0,34260,34328,der_strolch,34276,34280,mich,der_strolch
+gdc-coref,pkhv.0,34333,34376,der_domorganist,34362,34365,mir,der_domorganist
+gdc-coref,pkhv.0,34616,35016,der_domorganist,34643,34646,ich,der_domorganist
+gdc-coref,pkhv.0,34616,35016,der_domorganist,34706,34711,meine,der_domorganist
+gdc-coref,pkhv.0,34616,35016,der_domorganist,34928,34934,meiner,der_domorganist
+gdc-coref,pkhv.0,34616,35016,der_domorganist,34946,34949,ich,der_domorganist
+gdc-coref,pkhv.0,34616,35016,der_domorganist,34990,34995,meine,der_domorganist
+gdc-coref,pkhv.0,35021,35200,der_strolch,35078,35081,ich,der_strolch
+gdc-coref,pkhv.0,35021,35200,der_strolch,35092,35095,ich,der_strolch
+gdc-coref,pkhv.0,35774,36054,der_strolch,35915,35919,Mein,der_strolch
+gdc-coref,pkhv.0,36159,36391,der_strolch,36192,36196,Mein,der_strolch
+gdc-coref,pkhv.0,36159,36391,der_strolch,36266,36270,Mein,der_strolch
+gdc-coref,pkhv.0,36395,36766,die_zigeunerin,36446,36450,mich,die_zigeunerin
+gdc-coref,pkhv.0,36395,36766,die_zigeunerin,36547,36550,ich,die_zigeunerin
+gdc-coref,pkhv.0,36922,36993,die_zigeunerin,36958,36962,mich,die_zigeunerin
+gdc-coref,pkhv.0,36998,37077,der_strolch,37017,37021,mich,der_strolch
+gdc-coref,pkhv.0,36998,37077,der_strolch,37038,37042,mich,der_strolch
+gdc-coref,pkhv.0,37213,37336,der_strolch,37271,37274,ich,der_strolch
+gdc-coref,pkhv.0,37213,37336,der_strolch,37275,37279,mich,der_strolch
+gdc-coref,pkhv.0,37341,37545,die_zigeunerin,37395,37398,mir,die_zigeunerin
+gdc-coref,pkhv.0,37341,37545,die_zigeunerin,37511,37514,ich,die_zigeunerin
+gdc-coref,pkhv.0,37550,37746,der_strolch,37583,37588,Meine,der_strolch
+gdc-coref,pkhv.0,37550,37746,der_strolch,37610,37614,mich,der_strolch
+gdc-coref,pkhv.0,37550,37746,der_strolch,37685,37688,ich,der_strolch
+gdc-coref,pkhv.0,37550,37746,der_strolch,37730,37734,mich,der_strolch
+gdc-coref,pkhv.0,37751,37904,die_zigeunerin,37880,37883,ich,die_zigeunerin
+gdc-coref,pkhv.0,37910,38209,der_strolch,37959,37962,ich,der_strolch
+gdc-coref,pkhv.0,37910,38209,der_strolch,38014,38018,mich,der_strolch
+gdc-coref,pkhv.0,37910,38209,der_strolch,38019,38024,meine,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38347,38350,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38391,38397,meiner,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38697,38702,meine,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38731,38734,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38764,38767,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38783,38787,mich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38821,38824,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,38885,38888,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39005,39008,mir,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39013,39016,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39162,39165,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39195,39198,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39256,39259,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39260,39265,meine,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39391,39394,ich,der_strolch
+gdc-coref,pkhv.0,38291,39486,der_strolch,39449,39453,mich,der_strolch
+gdc-coref,pkhv.0,39508,39688,der_domorganist,39662,39665,ich,der_domorganist
+gdc-coref,pkhv.0,39995,40234,der_domorganist,40046,40050,mein,der_domorganist
+gdc-coref,pkhv.0,40603,40727,die_zigeunerin,40680,40683,ich,die_zigeunerin
+gdc-coref,pkhv.0,40603,40727,die_zigeunerin,40704,40707,ich,die_zigeunerin
+gdc-coref,pkhv.0,40969,41033,der_strolch,40988,40991,Mir,der_strolch
+gdc-coref,pkhv.0,40969,41033,der_strolch,41002,41005,mir,der_strolch
+gdc-coref,pkhv.0,40969,41033,der_strolch,41010,41013,mir,der_strolch
+gdc-coref,pkhv.0,41039,41151,der_domorganist,41077,41080,Ich,der_domorganist
+gdc-coref,pkhv.0,41039,41151,der_domorganist,41102,41105,ich,der_domorganist
+gdc-coref,pkhv.0,41039,41151,der_domorganist,41127,41130,ich,der_domorganist
+gdc-coref,pkhv.0,41156,41221,die_zigeunerin,41202,41206,mich,die_zigeunerin
+gdc-coref,pkhv.0,41745,42518,der_domorganist,42405,42408,ich,der_domorganist
+gdc-coref,pkhv.0,41745,42518,der_domorganist,42423,42426,ich,der_domorganist
+gdc-coref,pkhv.0,41745,42518,der_domorganist,42440,42443,ich,der_domorganist
+gdc-coref,pkhv.0,42598,43249,der_domorganist,42815,42818,ich,der_domorganist
+gdc-coref,pkhv.0,42598,43249,der_domorganist,42871,42877,meinen,der_domorganist
+gdc-coref,pkhv.0,42598,43249,der_domorganist,42890,42893,ich,der_domorganist
+gdc-coref,pkhv.0,42598,43249,der_domorganist,42975,42978,ich,der_domorganist
+gdc-coref,pkhv.0,42598,43249,der_domorganist,43080,43083,ich,der_domorganist
+gdc-coref,pkhv.0,42598,43249,der_domorganist,43206,43210,mich,der_domorganist
+gdc-coref,pkhv.0,43921,44214,der_domorganist,44088,44091,ich,der_domorganist
+gdc-coref,pkhv.0,43921,44214,der_domorganist,44125,44128,mir,der_domorganist
+gdc-coref,pkhv.0,44563,45165,der_strolch,44880,44884,mich,der_strolch
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45385,45389,mich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45412,45415,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45437,45440,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45470,45473,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45480,45486,meinen,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45549,45552,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45571,45574,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45601,45604,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45683,45686,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45741,45745,mein,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45783,45786,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45842,45845,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45871,45876,meine,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45897,45900,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,45992,45995,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,46210,46213,ich,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,46247,46251,mein,der_seminarist
+gdc-coref,pkhv.0,45297,46392,der_seminarist,46264,46267,mir,der_seminarist
+gdc-coref,pkhv.0,46808,47217,die_zigeunerin,46957,46961,mich,die_zigeunerin
+gdc-coref,pkhv.0,46808,47217,die_zigeunerin,46979,46982,ich,die_zigeunerin
+gdc-coref,pkhv.0,46808,47217,die_zigeunerin,47045,47048,ich,die_zigeunerin
+gdc-coref,pkhv.0,47222,47596,der_strolch,47301,47304,Ich,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47630,47633,Ich,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47684,47688,mich,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47704,47707,mir,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47708,47713,meine,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47739,47742,mir,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47743,47748,meine,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47774,47780,meinem,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47797,47800,ich,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47883,47886,ich,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47919,47922,ich,der_strolch
+gdc-coref,pkhv.0,47600,47963,der_strolch,47923,47928,meine,der_strolch
+gdc-coref,pkhv.0,48563,48672,der_seminarist,48637,48640,ich,der_seminarist
+gdc-coref,pkhv.0,48677,49167,der_domorganist,48884,48888,mein,der_domorganist
+gdc-coref,pkhv.0,49172,49374,der_seminarist,49228,49231,ich,der_seminarist
+gdc-coref,pkhv.0,49172,49374,der_seminarist,49267,49270,ich,der_seminarist
+gdc-coref,pkhv.0,49172,49374,der_seminarist,49314,49317,ich,der_seminarist
+gdc-coref,pkhv.0,49172,49374,der_seminarist,49346,49350,mein,der_seminarist
+gdc-coref,pkhv.0,49379,49745,der_domorganist,49692,49695,ich,der_domorganist
+gdc-coref,pkhv.0,49379,49745,der_domorganist,49721,49724,ich,der_domorganist
+gdc-coref,pkhv.0,50029,50357,der_seminarist,50139,50142,ich,der_seminarist
+gdc-coref,pkhv.0,50029,50357,der_seminarist,50194,50198,mich,der_seminarist
+gdc-coref,pkhv.0,50029,50357,der_seminarist,50349,50353,mich,der_seminarist
+gdc-coref,pkhv.0,50362,50459,der_domorganist,50438,50441,ich,der_domorganist
+gdc-coref,pkhv.0,50464,50577,der_seminarist,50547,50550,ich,der_seminarist
+gdc-coref,pkhv.0,50599,50832,der_domorganist,50685,50688,Ich,der_domorganist
+gdc-coref,pkhv.0,50837,51351,die_zigeunerin,50978,50981,ich,die_zigeunerin
+gdc-coref,pkhv.0,50837,51351,die_zigeunerin,50996,50999,ich,die_zigeunerin
+gdc-coref,pkhv.0,50837,51351,die_zigeunerin,51177,51180,ich,die_zigeunerin
+gdc-coref,pkhv.0,50837,51351,die_zigeunerin,51190,51194,mich,die_zigeunerin
+gdc-coref,pkhv.0,50837,51351,die_zigeunerin,51256,51259,ich,die_zigeunerin
+gdc-coref,pkhv.0,50837,51351,die_zigeunerin,51324,51327,ich,die_zigeunerin
+gdc-coref,pkhv.0,51515,51865,die_zigeunerin,51745,51748,ich,die_zigeunerin
+gdc-coref,pkhv.0,51515,51865,die_zigeunerin,51808,51811,ich,die_zigeunerin
+gdc-coref,pkhv.0,52095,52533,die_zigeunerin,52121,52126,Meine,die_zigeunerin
+gdc-coref,pkhv.0,52095,52533,die_zigeunerin,52187,52190,ich,die_zigeunerin
+gdc-coref,pkhv.0,52095,52533,die_zigeunerin,52470,52474,mich,die_zigeunerin
+gdc-coref,pkhv.0,52556,53174,der_domorganist,52644,52647,ich,der_domorganist
+gdc-coref,pkhv.0,52556,53174,der_domorganist,52809,52812,ich,der_domorganist
+gdc-coref,pkhv.0,52556,53174,der_domorganist,52857,52860,ich,der_domorganist
+gdc-coref,pkhv.0,52556,53174,der_domorganist,52932,52937,meine,der_domorganist
+gdc-coref,pkhv.0,52556,53174,der_domorganist,52955,52959,mein,der_domorganist
+gdc-coref,pkhv.0,52556,53174,der_domorganist,53035,53039,mich,der_domorganist
+gdc-coref,pkhv.0,52556,53174,der_domorganist,53140,53144,mein,der_domorganist
+gdc-coref,pkhv.0,53246,53281,_stage,53249,53280,der Werkstatt des Domorganisten,die-Werkstatt-des-Domorganisten
+gdc-coref,pkhv.0,53246,53281,_stage,53263,53280,des Domorganisten,der_domorganist
+gdc-coref,pkhv.0,53283,53312,_stage,53283,53311,Werkstätte des Domorganisten,die-Werkstatt-des-Domorganisten
+gdc-coref,pkhv.0,53283,53312,_stage,53294,53311,des Domorganisten,der_domorganist
+gdc-coref,pkhv.0,53338,53506,_stage,53408,53411,ihr,georginel
+gdc-coref,pkhv.0,53338,53506,_stage,53466,53469,Sie,georginel
+gdc-coref,pkhv.0,53338,53506,_stage,53497,53501,sich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,53508,53512,Fünf,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53519,53533,den Jungfrauen,die-klugen-Jungfrauen-/-die-törichten-Jungfr…
+gdc-coref,pkhv.0,53328,55229,georginel,53552,53556,fünf,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53572,53575,Sie,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,53583,53596,die törichten,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53604,53608,ihre,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53648,53658,die klugen,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53666,53668,Öl,Öl
+gdc-coref,pkhv.0,53328,55229,georginel,53672,53677,ihren,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53695,53700,ihren,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,53719,53732,der Bräutigam,der-Bräutigam
+gdc-coref,pkhv.0,53328,55229,georginel,53753,53761,sie alle,die-klugen-Jungfrauen-/-die-törichten-Jungfr…
+gdc-coref,pkhv.0,53328,55229,georginel,53821,53824,ich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,53840,53845,seine,man-(generic)
+gdc-coref,pkhv.0,53328,55229,georginel,53862,53865,man,man-(generic)
+gdc-coref,pkhv.0,53328,55229,georginel,53888,53891,Sie,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,53922,53930,Jungfrau,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,53999,54003,mich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54036,54039,Sie,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54101,54114,der Bräutigam,der-Bräutigam
+gdc-coref,pkhv.0,53328,55229,georginel,54136,54150,die Jungfrauen,die-klugen-Jungfrauen-/-die-törichten-Jungfr…
+gdc-coref,pkhv.0,53328,55229,georginel,54194,54207,die törichten,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54218,54220,Öl,Öl
+gdc-coref,pkhv.0,53328,55229,georginel,54225,54235,den klugen,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54242,54245,uns,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54246,54248,Öl,Öl
+gdc-coref,pkhv.0,53328,55229,georginel,54257,54260,sie,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54269,54279,die klugen,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54334,54340,das Öl,Öl
+gdc-coref,pkhv.0,53328,55229,georginel,54386,54390,euch,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54391,54393,Öl,Öl
+gdc-coref,pkhv.0,53328,55229,georginel,54407,54410,sie,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54426,54439,der Bräutigam,der-Bräutigam
+gdc-coref,pkhv.0,53328,55229,georginel,54448,54464,die bereit waren,die-klugen-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54477,54480,ihm,der-Bräutigam
+gdc-coref,pkhv.0,53328,55229,georginel,54502,54509,die Tür,die-Tür
+gdc-coref,pkhv.0,53328,55229,georginel,54547,54571,die törichten Jungfrauen,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54661,54664,ich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54671,54675,euch,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54713,54716,ihr,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54752,54759,die Tür,die-Tür
+gdc-coref,pkhv.0,53328,55229,georginel,54799,54812,der Erwartete,der-Bräutigam
+gdc-coref,pkhv.0,53328,55229,georginel,54823,54827,euch,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54836,54839,ich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54846,54850,euch,die-törichten-Jungfrauen
+gdc-coref,pkhv.0,53328,55229,georginel,54862,54865,Sie,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54873,54877,sich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54878,54887,im Zimmer,die-Werkstatt-des-Domorganisten
+gdc-coref,pkhv.0,53328,55229,georginel,54926,54928,er,der_domorganist
+gdc-coref,pkhv.0,53328,55229,georginel,54940,54943,ich,georginel
+gdc-coref,pkhv.0,53328,55229,georginel,54950,54964,des Bräutigams,der_domorganist
+gdc-coref,pkhv.0,53328,55229,georginel,55018,55027,im Flügel,im---------------Flügel
+gdc-coref,pkhv.0,53328,55229,georginel,55057,55097,"die toten Dinge, die auch auf ihn warten",die-Flöten-der-Orgel-/-die-Saiten-im-------…
+gdc-coref,pkhv.0,53328,55229,georginel,55074,55077,die,die-Flöten-der-Orgel-/-die-Saiten-im-------…
+gdc-coref,pkhv.0,53328,55229,georginel,55087,55090,ihn,der_domorganist
+gdc-coref,pkhv.0,53328,55229,georginel,55106,55108,er,der_domorganist
+gdc-coref,pkhv.0,53328,55229,georginel,55109,55112,sie,die-Flöten-der-Orgel-/-die-Saiten-im-------…
+gdc-coref,pkhv.0,55124,55229,_stage,55124,55127,Sie,georginel
+gdc-coref,pkhv.0,55124,55229,_stage,55136,55149,die Tiefentür,die-Tiefentür
+gdc-coref,pkhv.0,55124,55229,_stage,55158,55161,sie,die-Tiefentür
+gdc-coref,pkhv.0,55251,55513,die_mutter,55280,55297,diesen Liederjahn,der_domorganist
+gdc-coref,pkhv.0,55251,55513,die_mutter,55303,55306,ich,die_mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55307,55311,mich,die_mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55372,55375,ich,die_mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55406,55419,meinen Schlaf,der-Schlaf-der-Mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55406,55412,meinen,die_mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55432,55476,die seligen Augenblicke im Arm meines Gottes,der-Schlaf-der-Mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55463,55469,meines,die_mutter
+gdc-coref,pkhv.0,55251,55513,die_mutter,55504,55509,Josua,der_domorganist
+gdc-coref,pkhv.0,55518,55624,georginel,55535,55541,Mutter,die_mutter
+gdc-coref,pkhv.0,55518,55624,georginel,55565,55573,dem Sofa,dem-Sofa
+gdc-coref,pkhv.0,55518,55624,georginel,55585,55588,ich,georginel
+gdc-coref,pkhv.0,55518,55624,georginel,55596,55598,du,die_mutter
+gdc-coref,pkhv.0,55640,55671,_stage,55650,55663,der Tiefentür,die-Tiefentür
+gdc-coref,pkhv.0,55629,56415,die_mutter,55672,55675,Ich,die_mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,55723,55727,mich,die_mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,55755,55770,dem dummen Sofa,dem-Sofa
+gdc-coref,pkhv.0,55629,56415,die_mutter,55775,55778,man,man-(generic)
+gdc-coref,pkhv.0,55629,56415,die_mutter,55820,55877,"Ohnmacht ... die einen erfaßt, wenn man wartet und duldet","Ohnmacht-...-die---------------einen-erfaßt,-wenn-man-wartet-und-duldet"
+gdc-coref,pkhv.0,55629,56415,die_mutter,55833,55836,die,"Ohnmacht-...-die---------------einen-erfaßt,-wenn-man-wartet-und-duldet"
+gdc-coref,pkhv.0,55629,56415,die_mutter,55913,55920,Geister,Geister
+gdc-coref,pkhv.0,55629,56415,die_mutter,55960,55964,sich,Geister
+gdc-coref,pkhv.0,55629,56415,die_mutter,55989,56005,den Neugeborenen,den-Neugeborenen
+gdc-coref,pkhv.0,55629,56415,die_mutter,56025,56028,sie,Geister
+gdc-coref,pkhv.0,55629,56415,die_mutter,56029,56032,ihn,den-Neugeborenen
+gdc-coref,pkhv.0,55629,56415,die_mutter,56052,56062,der Mutter,der-Mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56073,56076,sie,Geister
+gdc-coref,pkhv.0,55629,56415,die_mutter,56077,56080,ihm,den-Neugeborenen
+gdc-coref,pkhv.0,55629,56415,die_mutter,56108,56127,dem geliebten Kinde,den-Neugeborenen
+gdc-coref,pkhv.0,55629,56415,die_mutter,56155,56165,die Mutter,der-Mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56226,56229,ich,die_mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56255,56266,eine Mutter,der-Mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56291,56294,ich,die_mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56344,56350,Schlaf,der-Schlaf-der-Mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56356,56359,ich,die_mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56370,56373,ich,die_mutter
+gdc-coref,pkhv.0,55629,56415,die_mutter,56382,56384,du,georginel
+gdc-coref,pkhv.0,56420,56540,georginel,56442,56444,du,die_mutter
+gdc-coref,pkhv.0,56420,56540,georginel,56500,56502,du,die_mutter
+gdc-coref,pkhv.0,56420,56540,georginel,56514,56526,allen Kummer,allen-Kummer
+gdc-coref,pkhv.0,56545,56582,die_mutter,56568,56578,den Kummer,allen-Kummer
+gdc-coref,pkhv.0,56587,56649,georginel,56598,56604,Muttel,die_mutter
+gdc-coref,pkhv.0,56587,56649,georginel,56609,56612,ich,georginel
+gdc-coref,pkhv.0,56654,56843,die_mutter,56679,56682,ich,die_mutter
+gdc-coref,pkhv.0,56654,56843,die_mutter,56693,56696,Sie,die_mutter
+gdc-coref,pkhv.0,56654,56843,die_mutter,56824,56826,du,georginel
+gdc-coref,pkhv.0,56859,56876,_stage,56862,56866,sich,georginel
+gdc-coref,pkhv.0,56849,57196,georginel,56877,56883,Mutter,die_mutter
+gdc-coref,pkhv.0,56849,57196,georginel,56896,56903,ein Tag,der-Tag
+gdc-coref,pkhv.0,56849,57196,georginel,56916,56958,eine Nacht ... die macht Kinder zu Greisen,eine-Nacht-...-die-macht-Kinder---------------zu-Greisen
+gdc-coref,pkhv.0,56849,57196,georginel,56931,56934,die,eine-Nacht-...-die-macht-Kinder---------------zu-Greisen
+gdc-coref,pkhv.0,56849,57196,georginel,56963,56966,die,eine-Nacht-...-die-macht-Kinder---------------zu-Greisen
+gdc-coref,pkhv.0,56849,57196,georginel,56979,56998,meine braunen Haare,Georginels-braune-Haare
+gdc-coref,pkhv.0,56849,57196,georginel,56979,56984,meine,georginel
+gdc-coref,pkhv.0,56849,57196,georginel,57041,57047,Mutter,die_mutter
+gdc-coref,pkhv.0,56849,57196,georginel,57057,57060,ich,georginel
+gdc-coref,pkhv.0,56849,57196,georginel,57069,57081,im Angesicht,"Georginels-Angesicht,-Gesicht"
+gdc-coref,pkhv.0,56849,57196,georginel,57091,57110,meine braunen Haare,Georginels-braune-Haare
+gdc-coref,pkhv.0,56849,57196,georginel,57091,57096,meine,georginel
+gdc-coref,pkhv.0,56849,57196,georginel,57148,57150,er,der_domorganist
+gdc-coref,pkhv.0,56849,57196,georginel,57175,57180,Hölle,Hölle
+gdc-coref,pkhv.0,56849,57196,georginel,57185,57192,Abgrund,Abgrund
+gdc-coref,pkhv.0,57201,57237,die_mutter,57213,57215,Du,georginel
+gdc-coref,pkhv.0,57242,57306,georginel,57253,57259,Mutter,die_mutter
+gdc-coref,pkhv.0,57242,57306,georginel,57264,57267,ich,georginel
+gdc-coref,pkhv.0,57322,57342,_stage,57329,57338,Georginel,georginel
+gdc-coref,pkhv.0,57311,57545,die_mutter,57343,57345,Du,georginel
+gdc-coref,pkhv.0,57311,57545,die_mutter,57500,57519,deine jungen Blicke,deine---------------jungen-Blicke
+gdc-coref,pkhv.0,57311,57545,die_mutter,57500,57505,deine,georginel
+gdc-coref,pkhv.0,57311,57545,die_mutter,57520,57524,sich,deine---------------jungen-Blicke
+gdc-coref,pkhv.0,57550,57894,georginel,57592,57598,Muttel,die_mutter
+gdc-coref,pkhv.0,57550,57894,georginel,57617,57890,"die Qual hat mir meine Haare nicht bleich gemacht ... hat mir keine Runzeln in mein Gesicht gegraben ... ich sehe noch immer schön und jung aus ... nicht, Mutter ... daß ich ihn verlocke ... der Tag und die Nacht hat mich heimlich ganz in die Glorie Klarheit hinein gehoben","die-Qual-hat-mir-meine-Haare-nicht-bleich-gemacht-...-hat---------------mir-keine-Runzeln-in-mein-Gesicht-gegraben-...-ich-sehe-noch-immer-schön-und-jung-aus---------------...-nicht,-Mutter-...-daß-ich-ihn-verlocke-...-der-Tag-und-----------------die-Nacht-hat-mich-heimlich-ganz-in-die-Glorie-Klarheit-hinein-gehoben"
+gdc-coref,pkhv.0,57550,57894,georginel,57617,57625,die Qual,die-Qual
+gdc-coref,pkhv.0,57550,57894,georginel,57630,57633,mir,georginel
+gdc-coref,pkhv.0,57550,57894,georginel,57634,57645,meine Haare,Georginels-braune-Haare
+gdc-coref,pkhv.0,57550,57894,georginel,57634,57639,meine,georginel
+gdc-coref,pkhv.0,57550,57894,georginel,57675,57678,mir,georginel
+gdc-coref,pkhv.0,57550,57894,georginel,57696,57708,mein Gesicht,"Georginels-Angesicht,-Gesicht"
+gdc-coref,pkhv.0,57550,57894,georginel,57696,57700,mein,georginel
+gdc-coref,pkhv.0,57550,57894,georginel,57722,57725,ich,georginel
+gdc-coref,pkhv.0,57550,57894,georginel,57772,57778,Mutter,die_mutter
+gdc-coref,pkhv.0,57550,57894,georginel,57787,57790,ich,georginel
+gdc-coref,pkhv.0,57550,57894,georginel,57791,57794,ihn,der_domorganist
+gdc-coref,pkhv.0,57550,57894,georginel,57808,57815,der Tag,der-Tag
+gdc-coref,pkhv.0,57550,57894,georginel,57820,57829,die Nacht,eine-Nacht-...-die-macht-Kinder---------------zu-Greisen
+gdc-coref,pkhv.0,57550,57894,georginel,57834,57838,mich,georginel
+gdc-coref,pkhv.0,57910,57925,_stage,57921,57924,sie,georginel
+gdc-coref,pkhv.0,57899,57971,die_mutter,57937,57940,das,"die-Qual-hat-mir-meine-Haare-nicht-bleich-gemacht-...-hat---------------mir-keine-Runzeln-in-mein-Gesicht-gegraben-...-ich-sehe-noch-immer-schön-und-jung-aus---------------...-nicht,-Mutter-...-daß-ich-ihn-verlocke-...-der-Tag-und-----------------die-Nacht-hat-mich-heimlich-ganz-in-die-Glorie-Klarheit-hinein-gehoben"
+gdc-coref,pkhv.0,57899,57971,die_mutter,57956,57967,liebes Kind,georginel
+gdc-coref,pkhv.0,57976,58243,georginel,57998,58012,Kleines Muttel,die_mutter
+gdc-coref,pkhv.0,57976,58243,georginel,58023,58025,es,"die-Qual-hat-mir-meine-Haare-nicht-bleich-gemacht-...-hat---------------mir-keine-Runzeln-in-mein-Gesicht-gegraben-...-ich-sehe-noch-immer-schön-und-jung-aus---------------...-nicht,-Mutter-...-daß-ich-ihn-verlocke-...-der-Tag-und-----------------die-Nacht-hat-mich-heimlich-ganz-in-die-Glorie-Klarheit-hinein-gehoben"
+gdc-coref,pkhv.0,57976,58243,georginel,58030,58033,ich,georginel
+gdc-coref,pkhv.0,57976,58243,georginel,58039,58041,es,"die-Qual-hat-mir-meine-Haare-nicht-bleich-gemacht-...-hat---------------mir-keine-Runzeln-in-mein-Gesicht-gegraben-...-ich-sehe-noch-immer-schön-und-jung-aus---------------...-nicht,-Mutter-...-daß-ich-ihn-verlocke-...-der-Tag-und-----------------die-Nacht-hat-mich-heimlich-ganz-in-die-Glorie-Klarheit-hinein-gehoben"
+gdc-coref,pkhv.0,57976,58243,georginel,58050,58052,er,der_domorganist
+gdc-coref,pkhv.0,57976,58243,georginel,58077,58082,Hölle,Hölle
+gdc-coref,pkhv.0,57976,58243,georginel,58087,58094,Abgrund,Abgrund
+gdc-coref,pkhv.0,57976,58243,georginel,58167,58172,Josua,der_domorganist
+gdc-coref,pkhv.0,57976,58243,georginel,58207,58218,seine Lüste,die-Lüste-des-Domorganisten
+gdc-coref,pkhv.0,57976,58243,georginel,58207,58212,seine,
+gdc-coref,pkhv.0,58259,58274,_stage,58259,58262,sie,georginel
+gdc-coref,pkhv.0,58248,58752,die_mutter,58275,58277,Du,georginel
+gdc-coref,pkhv.0,58248,58752,die_mutter,58291,58296,meine,die_mutter
+gdc-coref,pkhv.0,58248,58752,die_mutter,58310,58351,"diesem heillosen, leeren, zerrütteten Tag",der-Tag
+gdc-coref,pkhv.0,58248,58752,die_mutter,58361,58385,diesem Festtag voll Hohn,der-Tag
+gdc-coref,pkhv.0,58248,58752,die_mutter,58419,58436,seines Feiertages,der-Tag
+gdc-coref,pkhv.0,58248,58752,die_mutter,58419,58425,seines,der_domorganist
+gdc-coref,pkhv.0,58248,58752,die_mutter,58476,58479,Sie,die_mutter
+gdc-coref,pkhv.0,58248,58752,die_mutter,58487,58491,sich,die_mutter
+gdc-coref,pkhv.0,58248,58752,die_mutter,58514,58525,seine Lüste,die-Lüste-des-Domorganisten
+gdc-coref,pkhv.0,58248,58752,die_mutter,58514,58519,seine,
+gdc-coref,pkhv.0,58248,58752,die_mutter,58556,58559,ich,die_mutter
+gdc-coref,pkhv.0,58248,58752,die_mutter,58579,58583,mich,die_mutter
+gdc-coref,pkhv.0,58248,58752,die_mutter,58603,58608,deine,georginel
+gdc-coref,pkhv.0,58248,58752,die_mutter,58646,58693,morgen werd ich ihm die Mutterliebe aufkündigen,morgen-werd-----------------ich-ihm-die-Mutterliebe-aufkündigen
+gdc-coref,pkhv.0,58248,58752,die_mutter,58658,58661,ich,die_mutter
+gdc-coref,pkhv.0,58248,58752,die_mutter,58662,58665,ihm,der_domorganist
+gdc-coref,pkhv.0,58248,58752,die_mutter,58698,58701,das,morgen-werd-----------------ich-ihm-die-Mutterliebe-aufkündigen
+gdc-coref,pkhv.0,58248,58752,die_mutter,58709,58713,dich,georginel
+gdc-coref,pkhv.0,58248,58752,die_mutter,58724,58726,du,georginel
+gdc-coref,pkhv.0,58248,58752,die_mutter,58732,58735,ich,die_mutter
+gdc-coref,pkhv.0,58757,58860,georginel,58798,58813,die dumpfe Welt,die-dumpfe-Welt
+gdc-coref,pkhv.0,58757,58860,georginel,58847,58850,ich,georginel
+gdc-coref,pkhv.0,58865,59978,die_mutter,58894,58908,die wirre Welt,die-dumpfe-Welt
+gdc-coref,pkhv.0,58865,59978,die_mutter,58934,58939,meine,die_mutter
+gdc-coref,pkhv.0,58865,59978,die_mutter,58978,58981,dir,georginel
+gdc-coref,pkhv.0,58865,59978,die_mutter,59074,59097,ein klappriger Schimmel,ein-klappriger-Schimmel
+gdc-coref,pkhv.0,58865,59978,die_mutter,59102,59129,eine zerschläterte Droschke,eine-zerschläterte---------------Droschke
+gdc-coref,pkhv.0,58865,59978,die_mutter,59134,59146,der Kutscher,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59202,59210,ein Kerl,ein-Kerl
+gdc-coref,pkhv.0,58865,59978,die_mutter,59296,59331,"einer, dem die Haare zu Berge stehn",ein-Kerl
+gdc-coref,pkhv.0,58865,59978,die_mutter,59303,59306,dem,ein-Kerl
+gdc-coref,pkhv.0,58865,59978,die_mutter,59373,59385,der Droschke,eine-zerschläterte---------------Droschke
+gdc-coref,pkhv.0,58865,59978,die_mutter,59420,59433,das Mordpaket,das-Mordpaket
+gdc-coref,pkhv.0,58865,59978,die_mutter,59470,59472,es,das-Mordpaket
+gdc-coref,pkhv.0,58865,59978,die_mutter,59490,59492,es,das-Mordpaket
+gdc-coref,pkhv.0,58865,59978,die_mutter,59546,59549,ich,die_mutter
+gdc-coref,pkhv.0,58865,59978,die_mutter,59613,59621,der Alte,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59626,59630,Gott,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59635,59646,der Heiland,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59651,59674,der Herr Jesus Christus,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59679,59682,der,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59699,59709,dem Mörder,ein-Kerl
+gdc-coref,pkhv.0,58865,59978,die_mutter,59743,59755,seiner Mähre,ein-klappriger-Schimmel
+gdc-coref,pkhv.0,58865,59978,die_mutter,59743,59749,seiner,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,58865,59978,die_mutter,59771,59774,ich,die_mutter
+gdc-coref,pkhv.0,58865,59978,die_mutter,59796,59799,mir,die_mutter
+gdc-coref,pkhv.0,58865,59978,die_mutter,59800,59808,der Sohn,der_domorganist
+gdc-coref,pkhv.0,58865,59978,die_mutter,59840,59846,seinem,der_domorganist
+gdc-coref,pkhv.0,58865,59978,die_mutter,59876,59879,ich,die_mutter
+gdc-coref,pkhv.0,58865,59978,die_mutter,59904,59907,ich,die_mutter
+gdc-coref,pkhv.0,58865,59978,die_mutter,59912,59923,diese Nacht,eine-Nacht-...-die-macht-Kinder---------------zu-Greisen
+gdc-coref,pkhv.0,59954,59978,_stage,59954,59963,Georginel,georginel
+gdc-coref,pkhv.0,59954,59978,_stage,59973,59977,sich,georginel
+gdc-coref,pkhv.0,59993,60023,_stage,59999,60003,sich,die_mutter
+gdc-coref,pkhv.0,59982,60278,die_mutter,60045,60047,du,georginel
+gdc-coref,pkhv.0,59982,60278,die_mutter,60111,60115,dich,georginel
+gdc-coref,pkhv.0,59982,60278,die_mutter,60124,60128,Gott,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,59982,60278,die_mutter,60158,60161,Sie,die_mutter
+gdc-coref,pkhv.0,59982,60278,die_mutter,60263,60274,liebes Kind,georginel
+gdc-coref,pkhv.0,60283,60322,georginel,60306,60318,gutes Muttel,die_mutter
+gdc-coref,pkhv.0,60328,60426,die_mutter,60378,60381,man,man-(generic)
+gdc-coref,pkhv.0,60431,60511,georginel,60471,60483,gutes Muttel,die_mutter
+gdc-coref,pkhv.0,60431,60511,georginel,60488,60494,Mutter,die_mutter
+gdc-coref,pkhv.0,60543,60642,_stage,60576,60596,den folgenden Worten,"Gewiß-...-Tag-und-Nacht-hat-die-Qual-mich-zerrissen-...-habe-ich-geheult-wie-ein---------------kleines,-geschlagenes-Hundel-...-nach-meinem-verlorenen-Seelenfreunde-...-war-ich-eine---------------hilflose,-alberne,-dumme-Gans-...-die-in-die-gepeinigte-Mutter-hinein-schnatterte-ewig---------------...-auch-wütend-womöglich-...-die-Nacht-hat-mich-plötzlich-laut-gerufen-...-ich-wache---------------jetzt-hell-...-ich-will-meine-Lampe-schon-schmücken-für-ihn-...-wie-rätselgebunden-er---------------kommen-mag-...-verwandelt-...-verwahrlost-...-unkenntlich-allen-...-nur-----------------mir-erkenntlich-...-du-glaubst-es-wohl-nicht-...-Plötzlich-wie-----------------erschrocken.-du-..."
+gdc-coref,pkhv.0,60543,60642,_stage,60604,60618,den Orgeltritt,den-Orgeltritt
+gdc-coref,pkhv.0,60543,60642,_stage,60624,60628,sich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60643,61224,"Gewiß ... Tag und Nacht hat die Qual mich zerrissen ... habe ich geheult wie ein kleines, geschlagenes Hundel ... nach meinem verlorenen Seelenfreunde ... war ich eine hilflose, alberne, dumme Gans ... die in die gepeinigte Mutter hinein schnatterte ewig ... auch wütend womöglich ... die Nacht hat mich plötzlich laut gerufen ... ich wache jetzt hell ... ich will meine Lampe schon schmücken für ihn ... wie rätselgebunden er kommen mag ... verwandelt ... verwahrlost ... unkenntlich allen ... nur mir erkenntlich ... du glaubst es wohl nicht ... Plötzlich wie erschrocken. du ...","Gewiß-...-Tag-und-Nacht-hat-die-Qual-mich-zerrissen-...-habe-ich-geheult-wie-ein---------------kleines,-geschlagenes-Hundel-...-nach-meinem-verlorenen-Seelenfreunde-...-war-ich-eine---------------hilflose,-alberne,-dumme-Gans-...-die-in-die-gepeinigte-Mutter-hinein-schnatterte-ewig---------------...-auch-wütend-womöglich-...-die-Nacht-hat-mich-plötzlich-laut-gerufen-...-ich-wache---------------jetzt-hell-...-ich-will-meine-Lampe-schon-schmücken-für-ihn-...-wie-rätselgebunden-er---------------kommen-mag-...-verwandelt-...-verwahrlost-...-unkenntlich-allen-...-nur-----------------mir-erkenntlich-...-du-glaubst-es-wohl-nicht-...-Plötzlich-wie-----------------erschrocken.-du-..."
+gdc-coref,pkhv.0,60533,61224,georginel,60671,60679,die Qual,die-Qual
+gdc-coref,pkhv.0,60533,61224,georginel,60680,60684,mich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60704,60707,ich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60762,60793,meinem verlorenen Seelenfreunde,der_domorganist
+gdc-coref,pkhv.0,60533,61224,georginel,60762,60768,meinem,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60802,60805,ich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60806,60840,"eine hilflose, alberne, dumme Gans","eine---------------hilflose,-alberne,-dumme-Gans"
+gdc-coref,pkhv.0,60533,61224,georginel,60845,60848,die,"eine---------------hilflose,-alberne,-dumme-Gans"
+gdc-coref,pkhv.0,60533,61224,georginel,60852,60873,die gepeinigte Mutter,die_mutter
+gdc-coref,pkhv.0,60533,61224,georginel,60928,60937,die Nacht,eine-Nacht-...-die-macht-Kinder---------------zu-Greisen
+gdc-coref,pkhv.0,60533,61224,georginel,60942,60946,mich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60974,60977,ich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,60999,61002,ich,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,61008,61019,meine Lampe,Georginels-Lampe
+gdc-coref,pkhv.0,60533,61224,georginel,61008,61013,meine,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,61040,61043,ihn,der_domorganist
+gdc-coref,pkhv.0,60533,61224,georginel,61067,61069,er,der_domorganist
+gdc-coref,pkhv.0,60533,61224,georginel,61142,61145,mir,georginel
+gdc-coref,pkhv.0,60533,61224,georginel,61162,61164,du,du
+gdc-coref,pkhv.0,60533,61224,georginel,61218,61220,du,du
+gdc-coref,pkhv.0,61245,61385,_stage,61245,61278,"Das armselige, junge Zigeunerweib",die_zigeunerin
+gdc-coref,pkhv.0,61245,61385,_stage,61319,61328,dem Kinde,das-Kind-der-Zigeunerin
+gdc-coref,pkhv.0,61245,61385,_stage,61329,61343,im Rückentuche,im-Rückentuche
+gdc-coref,pkhv.0,61245,61385,_stage,61381,61384,ihr,georginel
+gdc-coref,pkhv.0,61397,61446,_stage,61426,61440,der Zigeunerin,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,61451,61454,dir,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,61469,61486,scheenes Frailein,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,61491,61494,man,man-(generic)
+gdc-coref,pkhv.0,61387,62220,georginel,61568,61571,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61576,61579,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61611,61614,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61630,61633,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61658,61661,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61692,61697,meine,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61740,61743,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61781,61784,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61835,61838,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61839,61858,meinen Seelenfreund,der_domorganist
+gdc-coref,pkhv.0,61387,62220,georginel,61839,61845,meinen,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61879,61882,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61883,61888,seine,der_domorganist
+gdc-coref,pkhv.0,61387,62220,georginel,61915,61918,ich,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,61923,61937,heilige Mutter,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,61942,61944,du,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,61970,61984,heilige Mutter,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,62008,62011,mir,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,62045,62051,deiner,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,62104,62108,dein,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,62130,62135,meine,georginel
+gdc-coref,pkhv.0,61387,62220,georginel,62150,62156,Mutter,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,62161,62173,junge Mutter,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,62189,62191,du,die_zigeunerin
+gdc-coref,pkhv.0,61387,62220,georginel,62195,62207,deinem Tuche,im-Rückentuche
+gdc-coref,pkhv.0,61387,62220,georginel,62195,62201,deinem,die_zigeunerin
+gdc-coref,pkhv.0,62240,62281,_stage,62246,62254,das Kind,das-Kind-der-Zigeunerin
+gdc-coref,pkhv.0,62240,62281,_stage,62259,62270,ihrem Tuche,im-Rückentuche
+gdc-coref,pkhv.0,62240,62281,_stage,62259,62264,ihrem,die_zigeunerin
+gdc-coref,pkhv.0,62225,62478,die_zigeunerin,62282,62290,Die Welt,die-dumpfe-Welt
+gdc-coref,pkhv.0,62225,62478,die_zigeunerin,62304,62312,die Erde,die-Erde
+gdc-coref,pkhv.0,62225,62478,die_zigeunerin,62329,62341,die Menschen,die-Menschen
+gdc-coref,pkhv.0,62225,62478,die_zigeunerin,62369,62381,der Menschen,die-Menschen
+gdc-coref,pkhv.0,62433,62478,_stage,62433,62443,Die Vision,die_zigeunerin
+gdc-coref,pkhv.0,62482,62951,georginel,62520,62523,sie,die_zigeunerin
+gdc-coref,pkhv.0,62482,62951,georginel,62638,62651,der Bräutigam,der_domorganist
+gdc-coref,pkhv.0,62482,62951,georginel,62677,62679,er,der_domorganist
+gdc-coref,pkhv.0,62482,62951,georginel,62691,62694,ich,georginel
+gdc-coref,pkhv.0,62482,62951,georginel,62706,62719,dem Bräutigam,der_domorganist
+gdc-coref,pkhv.0,62482,62951,georginel,62733,62736,Man,man-(generic)
+gdc-coref,pkhv.0,62482,62951,georginel,62785,62794,Georginel,georginel
+gdc-coref,pkhv.0,62482,62951,georginel,62801,62805,sich,georginel
+gdc-coref,pkhv.0,62482,62951,georginel,62816,62824,ins Tuch,Georginels-Tuch
+gdc-coref,pkhv.0,62482,62951,georginel,62826,62835,die Lampe,Georginels-Lampe
+gdc-coref,pkhv.0,62482,62951,georginel,62840,62842,Öl,Öl
+gdc-coref,pkhv.0,62877,62951,_stage,62883,62887,sich,georginel
+gdc-coref,pkhv.0,62877,62951,_stage,62892,62906,den Orgeltritt,den-Orgeltritt
+gdc-coref,pkhv.0,62877,62951,_stage,62926,62937,ihr Gesicht,"Georginels-Angesicht,-Gesicht"
+gdc-coref,pkhv.0,62877,62951,_stage,62926,62929,ihr,georginel
+gdc-coref,pkhv.0,62877,62951,_stage,62938,62946,ins Tuch,Georginels-Tuch
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63098,63106,im Blute,Blut
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63302,63306,Blut,Blut
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63311,63314,ich,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63325,63328,ich,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63431,63454,"alles, was draußen lebt","alles,-was-draußen-lebt"
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63438,63441,was,"alles,-was-draußen-lebt"
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63608,63615,Urnacht,Urnacht
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63630,63635,Chaos,Chaos
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63713,63728,du Jammergeburt,der-Mensch
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63744,63753,dem Chaos,Chaos
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63798,63815,du König »Mensch«,der-Mensch
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63869,63871,Er,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,63983,63991,Posaunen,Posaunen
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64060,64113,"eine Herde vom Teufel  besessener, schwarzer Schweine","eine-Herde-vom-Teufel----------------besessener,-schwarzer-Schweine"
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64071,64081,vom Teufel,vom-Teufel
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64118,64124,Geigen,Geigen
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64133,64139,Geigen,Geigen
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64154,64160,Geigen,Geigen
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64233,64237,Gott,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64238,64261,seine Zuflucht im Licht,Gottes-Zuflucht-im-Licht
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64238,64243,seine,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64253,64261,im Licht,im-Licht
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64279,64286,Urnacht,Urnacht
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64301,64303,Er,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64331,64336,Chaos,Chaos
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64601,64604,ich,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64667,64675,Posaunen,Posaunen
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64708,64711,ich,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64712,64726,die Herde Säue,"eine-Herde-vom-Teufel----------------besessener,-schwarzer-Schweine"
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64759,64762,ich,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64875,64877,Er,der_domorganist
+gdc-coref,pkhv.0,62972,65055,der_domorganist,64900,64916,das Geschriebene,das-Geschriebene
+gdc-coref,pkhv.0,64987,65055,_stage,64987,64996,Georginel,georginel
+gdc-coref,pkhv.0,64987,65055,_stage,65006,65010,sich,georginel
+gdc-coref,pkhv.0,65075,65171,_stage,65085,65089,sich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65172,65179,Urnacht,Urnacht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65195,65202,Urnacht,Urnacht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65235,65243,im Blute,Blut
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65261,65264,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65289,65291,Er,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65354,65358,Gott,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65441,65451,der Mensch,der-Mensch
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65456,65459,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65468,65471,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65587,65590,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65599,65602,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65632,65643,die Urnacht,Urnacht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65660,65669,Wehelaute,Wehelaute
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65674,65701,"rasende, heulende Wehelaute",Wehelaute
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65706,65709,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65718,65721,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65730,65736,Geigen,Geigen
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65752,65764,feine Geigen,Geigen
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65780,65792,feine Geigen,Geigen
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65797,65818,träufelnde Harfentöne,träufelnde-Harfentöne
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65839,65860,träufelnde Harfentöne,träufelnde-Harfentöne
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65913,65917,Gott,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65918,65941,seine Zuflucht im Licht,Gottes-Zuflucht-im-Licht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65918,65923,seine,der-Herr-Jesus-Christus-/-Gott
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65933,65941,im Licht,im-Licht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65963,65977,der Goldwolken,der-Goldwolken
+gdc-coref,pkhv.0,65059,66636,der_domorganist,65998,66007,im Lichte,im-Licht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66079,66089,Goldwolken,der-Goldwolken
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66130,66140,Schalmeien,Schalmeien
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66145,66155,Schalmeien,Schalmeien
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66160,66173,Morgenstimmen,Morgenstimmen
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66191,66208,der Morgenstimmen,Morgenstimmen
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66234,66237,ich,der_domorganist
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66256,66267,die Urnacht,Urnacht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66296,66299,sie,Urnacht
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66361,66369,der Erde,die-Erde
+gdc-coref,pkhv.0,65059,66636,der_domorganist,66446,66458,die Posaunen,Posaunen
+gdc-coref,pkhv.0,66651,66725,_stage,66655,66659,sich,georginel
+gdc-coref,pkhv.0,66641,66756,georginel,66743,66747,mein,georginel
+gdc-coref,pkhv.0,66777,66850,_stage,66821,66837,Das Geschriebene,das-Geschriebene
+gdc-coref,pkhv.0,66761,69710,der_domorganist,66863,66865,du,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,66881,66887,meinen,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67054,67077,du ... Menschenfrühling,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67138,67153,du süße Lockung,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67158,67162,dein,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67211,67244,du Wächterin über Fieberschlummer,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67249,67292,du trotziges Vertrauen auf das Vergängliche,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67297,67323,du Löwenmut in Todesgefahr,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67354,67358,dein,georginel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67392,67403,die Schrift,das-Geschriebene
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67552,67558,meines,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67646,67652,meiner,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67816,67821,Sonne,Sonne
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67826,67831,Sonne,Sonne
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67836,67841,Sonne,Sonne
+gdc-coref,pkhv.0,66761,69710,der_domorganist,67985,67990,Sonne,Sonne
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68010,68055,die Löwen brüllen wie die Glocken der Münster,die-Löwen-brüllen-wie-die-Glocken-der-Münster
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68067,68070,das,die-Löwen-brüllen-wie-die-Glocken-der-Münster
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68075,68089,der Schlußchor,der-Schlußchor
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68149,68167,die neuen Gewalten,die-neuen-Gewalten
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68196,68199,ich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68248,68251,mir,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68275,68278,ich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68323,68326,ich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68327,68341,diese Gewalten,die-neuen-Gewalten
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68412,68414,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68487,68490,man,man-(generic)
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68511,68513,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68558,68563,Boden,Boden
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68584,68603,die Mühsal der Welt,die-Mühsal-der-Welt
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68595,68603,der Welt,die-dumpfe-Welt
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68608,68610,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68684,68696,meinem Blute,das-Blut-des-Domorganisten
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68684,68690,meinem,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68713,68818,lösen die Mühsal der Welt ... tönen ... tönen ... lösen die Mühsal der Welt ... jubilieren ... jubilieren,lösen-die---------------Mühsal-der-Welt-...-tönen-...-tönen-...-lösen-die-Mühsal-der-Welt-...-jubilieren-...---------------jubilieren
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68719,68738,die Mühsal der Welt,die-Mühsal-der-Welt
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68730,68738,der Welt,die-dumpfe-Welt
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68769,68788,die Mühsal der Welt,die-Mühsal-der-Welt
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68780,68788,der Welt,die-dumpfe-Welt
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68823,68826,das,lösen-die---------------Mühsal-der-Welt-...-tönen-...-tönen-...-lösen-die-Mühsal-der-Welt-...-jubilieren-...---------------jubilieren
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68831,68845,der Schlußchor,der-Schlußchor
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68921,68923,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,68978,68982,Sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69009,69011,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69023,69039,das Geschriebene,das-Geschriebene
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69061,69063,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69089,69098,den Boden,Boden
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69110,69112,Er,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69125,69129,sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69146,69162,das Geschriebene,das-Geschriebene
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69169,69173,sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69215,69219,sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69252,69256,sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69260,69270,den Flügel,im---------------Flügel
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69277,69286,die Hände,die-Hände-des-Domorganisten
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69328,69332,sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69415,69423,das Blut,das-Blut-des-Domorganisten
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69486,69492,Mutter,die_mutter
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69501,69505,sich,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69526,69529,mir,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69530,69540,die Mutter,die_mutter
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69577,69580,mir,der_domorganist
+gdc-coref,pkhv.0,66761,69710,der_domorganist,69581,69591,die Mutter,die_mutter
+gdc-coref,pkhv.0,69725,69837,_stage,69725,69729,sich,georginel
+gdc-coref,pkhv.0,69725,69837,_stage,69785,69789,sich,georginel
+gdc-coref,pkhv.0,69894,69922,_stage,69898,69902,sich,der_domorganist
+gdc-coref,pkhv.0,69878,70743,der_domorganist,69923,70017,Ooooh ... Gorginel ... Menschenfrühling ... ewig zum Opfer geschmückt ... Heimat der Wärme ...,Ooooh-...-Gorginel-...-Menschenfrühling-...-ewig-zum-Opfer-geschmückt-...-Heimat-der---------------Wärme-...
+gdc-coref,pkhv.0,69878,70743,der_domorganist,69933,69941,Gorginel,georginel
+gdc-coref,pkhv.0,69878,70743,der_domorganist,69946,69962,Menschenfrühling,georginel
+gdc-coref,pkhv.0,69878,70743,der_domorganist,69997,70013,Heimat der Wärme,georginel
+gdc-coref,pkhv.0,70019,70185,_stage,70019,70028,Georginel,georginel
+gdc-coref,pkhv.0,70019,70185,_stage,70033,70037,sich,georginel
+gdc-coref,pkhv.0,70019,70185,_stage,70046,70058,seiner Worte,Ooooh-...-Gorginel-...-Menschenfrühling-...-ewig-zum-Opfer-geschmückt-...-Heimat-der---------------Wärme-...
+gdc-coref,pkhv.0,70019,70185,_stage,70046,70052,seiner,der_domorganist
+gdc-coref,pkhv.0,70019,70185,_stage,70146,70154,das Tuch,Georginels-Tuch
+gdc-coref,pkhv.0,70186,70217,_stage,70202,70212,Tiefdunkel,Tiefdunkel
+gdc-coref,pkhv.0,70218,70412,_stage,70223,70233,das Dunkel,Tiefdunkel
+gdc-coref,pkhv.0,70218,70412,_stage,70250,70253,man,man-(generic)
+gdc-coref,pkhv.0,70218,70412,_stage,70258,70276,ferne Sturmstimmen,ferne-Sturmstimmen
+gdc-coref,pkhv.0,70218,70412,_stage,70319,70323,sich,eine-goldene-Riesenorgel
+gdc-coref,pkhv.0,70218,70412,_stage,70324,70348,eine goldene Riesenorgel,eine-goldene-Riesenorgel
+gdc-coref,pkhv.0,70218,70412,_stage,70372,70377,Sonne,Sonne
+gdc-coref,pkhv.0,70218,70412,_stage,70394,70404,dem Dunkel,Tiefdunkel
+gdc-coref,pkhv.0,70413,70555,_stage,70413,70428,Der Domorganist,der_domorganist
+gdc-coref,pkhv.0,70413,70555,_stage,70466,70470,sich,der_domorganist
+gdc-coref,pkhv.0,70413,70555,_stage,70501,70510,Die Hände,die-Hände-des-Domorganisten
+gdc-coref,pkhv.0,70413,70555,_stage,70541,70545,sich,der_domorganist
+gdc-coref,pkhv.0,70556,70743,_stage,70568,70577,die Orgel,eine-goldene-Riesenorgel
+gdc-coref,pkhv.0,70556,70743,_stage,70616,70632,die Sturmstimmen,ferne-Sturmstimmen
+gdc-coref,pkhv.0,70556,70743,_stage,70645,70650,Köpfe,die-Erscheinungen
+gdc-coref,pkhv.0,70556,70743,_stage,70736,70742,Teufel,vom-Teufel
+gdc-coref,pkhv.0,70748,70798,eine_stimme_a,70789,70794,Josua,der_domorganist
+gdc-coref,pkhv.0,70803,70829,andere_stimme_a,70818,70825,Meister,der_domorganist
+gdc-coref,pkhv.0,71001,71055,eine_dunkle_stimme,71020,71032,Die Abgründe,Die-Abgründe
+gdc-coref,pkhv.0,71111,71138,_stage,71111,71126,Der Domorganist,der_domorganist
+gdc-coref,pkhv.0,71213,71281,andere_juenglingskoepfe_a,71258,71271,den Abgründen,Die-Abgründe
+gdc-coref,pkhv.0,71388,71433,der_domorganist,71418,71421,ich,der_domorganist
+gdc-coref,pkhv.0,71438,71519,eine_schar_kinderkoepfe,71485,71497,Der Abgründe,Die-Abgründe
+gdc-coref,pkhv.0,71592,71636,dunkle_stimmen,71608,71618,Musiker du,der_domorganist
+gdc-coref,pkhv.0,71592,71636,dunkle_stimmen,71623,71632,Magier du,der_domorganist
+gdc-coref,pkhv.0,71734,71806,eine_andere_schar_kinderkoepfe,71765,71781,Jauchzendes Blut,das-Blut-des-Domorganisten
+gdc-coref,pkhv.0,71811,71882,andere_stimmen_c,71865,71878,deinen Händen,die-Hände-des-Domorganisten
+gdc-coref,pkhv.0,71811,71882,andere_stimmen_c,71865,71871,deinen,der_domorganist
+gdc-coref,pkhv.0,71887,71920,andere_stimmen_d,71907,71916,Gewißheit,Gewißheit
+gdc-coref,pkhv.0,71925,71958,andere_stimmen_e,71945,71954,Gewißheit,Gewißheit
+gdc-coref,pkhv.0,71963,71997,andere_stimmen_f,71983,71993,Lobgesänge,Lobgesänge
+gdc-coref,pkhv.0,72002,72227,verhallende_stimmen,72027,72037,Lobgesänge,Lobgesänge
+gdc-coref,pkhv.0,72002,72227,verhallende_stimmen,72046,72056,Lobgesänge,Lobgesänge
+gdc-coref,pkhv.0,72062,72227,_stage,72062,72079,Die Erscheinungen,die-Erscheinungen
+gdc-coref,pkhv.0,72062,72227,_stage,72107,72117,ins Dunkel,Tiefdunkel
+gdc-coref,pkhv.0,72062,72227,_stage,72124,72139,der Domorganist,der_domorganist
+gdc-coref,pkhv.0,72062,72227,_stage,72159,72182,die goldene Riesenorgel,eine-goldene-Riesenorgel
+gdc-coref,pkhv.0,72062,72227,_stage,72184,72189,Deren,eine-goldene-Riesenorgel
+gdc-coref,pkhv.0,72231,72373,eine_kinderstimme,72314,72316,du,der_domorganist
+gdc-coref,pkhv.0,72355,72373,_stage,72355,72366,Der Vorhang,der_domorganist

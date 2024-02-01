@@ -1,0 +1,1927 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,q41n.0,1170,1381,don_juan,1227,1230,Ich,don_juan
+gdc-coref,q41n.0,1170,1381,don_juan,1321,1325,mein,don_juan
+gdc-coref,q41n.0,1386,1477,leporello,1415,1421,meiner,leporello
+gdc-coref,q41n.0,1637,1976,don_juan,1695,1698,ich,don_juan
+gdc-coref,q41n.0,1637,1976,don_juan,1703,1706,mir,don_juan
+gdc-coref,q41n.0,1637,1976,don_juan,1724,1728,mich,don_juan
+gdc-coref,q41n.0,1637,1976,don_juan,1754,1758,mich,don_juan
+gdc-coref,q41n.0,1981,2199,der_alte_fischer,2021,2024,Ich,der_alte_fischer
+gdc-coref,q41n.0,2204,2802,don_juan,2487,2491,mich,don_juan
+gdc-coref,q41n.0,2204,2802,don_juan,2520,2524,mich,don_juan
+gdc-coref,q41n.0,2204,2802,don_juan,2550,2556,meinen,don_juan
+gdc-coref,q41n.0,3239,3804,der_alte_fischer,3386,3390,mein,der_alte_fischer
+gdc-coref,q41n.0,3239,3804,der_alte_fischer,3456,3459,ich,der_alte_fischer
+gdc-coref,q41n.0,3809,3927,don_juan,3819,3822,Ich,don_juan
+gdc-coref,q41n.0,4353,4736,don_juan,4427,4432,meine,don_juan
+gdc-coref,q41n.0,4786,5035,don_juan,4952,4955,ich,don_juan
+gdc-coref,q41n.0,4786,5035,don_juan,4976,4979,mir,don_juan
+gdc-coref,q41n.0,5212,5483,leporello,5394,5397,ich,leporello
+gdc-coref,q41n.0,5212,5483,leporello,5433,5437,mich,leporello
+gdc-coref,q41n.0,5212,5483,leporello,5457,5460,ich,leporello
+gdc-coref,q41n.0,5212,5483,leporello,5468,5472,mich,leporello
+gdc-coref,q41n.0,5542,5661,leporello,5599,5602,ich,leporello
+gdc-coref,q41n.0,5542,5661,leporello,5603,5607,mich,leporello
+gdc-coref,q41n.0,5542,5661,leporello,5638,5641,Ich,leporello
+gdc-coref,q41n.0,5704,6177,leporello,5732,5736,mein,leporello
+gdc-coref,q41n.0,5704,6177,leporello,5768,5771,ich,leporello
+gdc-coref,q41n.0,5704,6177,leporello,5851,5854,mir,leporello
+gdc-coref,q41n.0,5704,6177,leporello,5963,5966,ich,leporello
+gdc-coref,q41n.0,5704,6177,leporello,6060,6066,meinen,leporello
+gdc-coref,q41n.0,6182,6440,don_juan,6428,6433,meine,don_juan
+gdc-coref,q41n.0,6445,6578,leporello,6456,6459,Ich,leporello
+gdc-coref,q41n.0,6445,6578,leporello,6507,6510,ich,leporello
+gdc-coref,q41n.0,6445,6578,leporello,6539,6542,ich,leporello
+gdc-coref,q41n.0,6584,6670,don_juan,6609,6612,mir,don_juan
+gdc-coref,q41n.0,6912,7434,leporello,7182,7185,ich,leporello
+gdc-coref,q41n.0,6912,7434,leporello,7319,7322,ich,leporello
+gdc-coref,q41n.0,6912,7434,leporello,7335,7338,mir,leporello
+gdc-coref,q41n.0,6912,7434,leporello,7349,7352,ich,leporello
+gdc-coref,q41n.0,7439,7656,don_juan,7536,7539,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,7858,7861,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,7880,7883,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,7932,7935,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,7936,7940,mich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,7965,7969,mein,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,8046,8049,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,8097,8100,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,8142,8145,ich,don_juan
+gdc-coref,q41n.0,7814,8200,don_juan,8146,8150,mich,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8315,8318,ich,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8328,8331,mir,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8405,8409,mich,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8444,8447,ich,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8480,8483,Ich,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8523,8526,mir,don_juan
+gdc-coref,q41n.0,8247,8697,don_juan,8554,8557,ich,don_juan
+gdc-coref,q41n.0,9166,9827,leporello,9319,9322,ich,leporello
+gdc-coref,q41n.0,9166,9827,leporello,9332,9336,mich,leporello
+gdc-coref,q41n.0,9166,9827,leporello,9371,9374,mir,leporello
+gdc-coref,q41n.0,9166,9827,leporello,9389,9392,ich,leporello
+gdc-coref,q41n.0,9166,9827,leporello,9402,9405,mir,leporello
+gdc-coref,q41n.0,9166,9827,leporello,9485,9488,ich,leporello
+gdc-coref,q41n.0,9166,9827,leporello,9577,9580,ich,leporello
+gdc-coref,q41n.0,9989,10336,don_juan,10318,10321,ich,don_juan
+gdc-coref,q41n.0,10420,10643,don_juan,10478,10481,mir,don_juan
+gdc-coref,q41n.0,10420,10643,don_juan,10610,10613,Ich,don_juan
+gdc-coref,q41n.0,10699,10857,don_juan,10721,10725,mein,don_juan
+gdc-coref,q41n.0,10861,11009,don_juan,10871,10874,Ich,don_juan
+gdc-coref,q41n.0,10861,11009,don_juan,10933,10936,ich,don_juan
+gdc-coref,q41n.0,11014,11084,ghita,11026,11029,Ich,ghita
+gdc-coref,q41n.0,11089,11271,don_juan,11104,11107,ich,don_juan
+gdc-coref,q41n.0,11089,11271,don_juan,11131,11134,mir,don_juan
+gdc-coref,q41n.0,11089,11271,don_juan,11160,11165,meine,don_juan
+gdc-coref,q41n.0,11276,11311,ghita,11300,11304,Mein,ghita
+gdc-coref,q41n.0,11316,11648,don_juan,11551,11554,mir,don_juan
+gdc-coref,q41n.0,11653,11836,ghita,11732,11735,Ich,ghita
+gdc-coref,q41n.0,11879,12171,don_juan,11913,11918,Meine,don_juan
+gdc-coref,q41n.0,11879,12171,don_juan,12065,12070,meine,don_juan
+gdc-coref,q41n.0,12438,12589,don_juan,12458,12462,mich,don_juan
+gdc-coref,q41n.0,12438,12589,don_juan,12486,12490,mich,don_juan
+gdc-coref,q41n.0,12700,13224,don_juan,12755,12758,mir,don_juan
+gdc-coref,q41n.0,12700,13224,don_juan,12796,12799,ich,don_juan
+gdc-coref,q41n.0,12700,13224,don_juan,13177,13180,ich,don_juan
+gdc-coref,q41n.0,12700,13224,don_juan,13189,13192,Ich,don_juan
+gdc-coref,q41n.0,13228,13335,leporello,13284,13287,ich,leporello
+gdc-coref,q41n.0,14533,14634,don_juan,14555,14558,mir,don_juan
+gdc-coref,q41n.0,14827,15118,don_juan,14893,14896,Ich,don_juan
+gdc-coref,q41n.0,14827,15118,don_juan,14964,14967,ich,don_juan
+gdc-coref,q41n.0,14827,15118,don_juan,15015,15018,mir,don_juan
+gdc-coref,q41n.0,14827,15118,don_juan,15050,15053,ich,don_juan
+gdc-coref,q41n.0,15124,15323,der_moench,15135,15139,Mein,der_moench
+gdc-coref,q41n.0,15124,15323,der_moench,15153,15157,mich,der_moench
+gdc-coref,q41n.0,15124,15323,der_moench,15230,15233,ich,der_moench
+gdc-coref,q41n.0,15124,15323,der_moench,15263,15266,ich,der_moench
+gdc-coref,q41n.0,15124,15323,der_moench,15294,15299,meine,der_moench
+gdc-coref,q41n.0,16162,16336,don_juan,16203,16206,mir,don_juan
+gdc-coref,q41n.0,16162,16336,don_juan,16224,16228,mich,don_juan
+gdc-coref,q41n.0,16162,16336,don_juan,16322,16325,mir,don_juan
+gdc-coref,q41n.0,16374,16474,don_juan,16399,16402,ich,don_juan
+gdc-coref,q41n.0,16374,16474,don_juan,16443,16446,ich,don_juan
+gdc-coref,q41n.0,16374,16474,don_juan,16452,16457,meine,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16516,16521,Meine,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16571,16574,ich,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16588,16592,mich,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16648,16651,ich,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16691,16697,Meinen,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16709,16712,ich,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16741,16747,meinen,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16793,16796,mir,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16823,16827,mich,don_juan
+gdc-coref,q41n.0,16506,16890,don_juan,16874,16877,mir,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17066,17070,mich,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17112,17115,mir,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17183,17186,ich,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17208,17212,mich,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17232,17235,ich,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17236,17239,mir,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17294,17297,ich,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17331,17334,ich,don_juan
+gdc-coref,q41n.0,17000,17410,don_juan,17367,17370,mir,don_juan
+gdc-coref,q41n.0,17516,17985,don_juan,17732,17735,Ich,don_juan
+gdc-coref,q41n.0,17516,17985,don_juan,17784,17787,ich,don_juan
+gdc-coref,q41n.0,17516,17985,don_juan,17910,17914,mich,don_juan
+gdc-coref,q41n.0,17516,17985,don_juan,17962,17966,mich,don_juan
+gdc-coref,q41n.0,17990,18122,der_moench,18058,18061,Ich,der_moench
+gdc-coref,q41n.0,18128,18475,don_juan,18187,18193,meiner,don_juan
+gdc-coref,q41n.0,18128,18475,don_juan,18215,18218,mir,don_juan
+gdc-coref,q41n.0,18128,18475,don_juan,18231,18235,mein,don_juan
+gdc-coref,q41n.0,18128,18475,don_juan,18274,18278,mein,don_juan
+gdc-coref,q41n.0,18128,18475,don_juan,18338,18341,Ich,don_juan
+gdc-coref,q41n.0,18128,18475,don_juan,18403,18406,mir,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18612,18615,ich,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18643,18646,ich,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18677,18680,mir,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18794,18798,mich,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18808,18811,ich,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18879,18882,ich,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,18912,18915,mir,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,19029,19032,mir,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,19067,19070,mir,don_juan
+gdc-coref,q41n.0,18592,19132,don_juan,19108,19111,mir,don_juan
+gdc-coref,q41n.0,19137,19569,der_moench,19148,19151,Ich,der_moench
+gdc-coref,q41n.0,19137,19569,der_moench,19257,19260,ich,der_moench
+gdc-coref,q41n.0,19137,19569,der_moench,19278,19281,mir,der_moench
+gdc-coref,q41n.0,19592,20477,don_juan,19909,19912,ich,don_juan
+gdc-coref,q41n.0,19592,20477,don_juan,19984,19987,ich,don_juan
+gdc-coref,q41n.0,19592,20477,don_juan,20099,20102,ich,don_juan
+gdc-coref,q41n.0,19592,20477,don_juan,20215,20219,mich,don_juan
+gdc-coref,q41n.0,19592,20477,don_juan,20230,20233,Ich,don_juan
+gdc-coref,q41n.0,20782,20951,don_juan,20792,20795,Ich,don_juan
+gdc-coref,q41n.0,20782,20951,don_juan,20820,20823,ich,don_juan
+gdc-coref,q41n.0,20782,20951,don_juan,20828,20831,mir,don_juan
+gdc-coref,q41n.0,20782,20951,don_juan,20903,20906,mir,don_juan
+gdc-coref,q41n.0,20782,20951,don_juan,20940,20943,ich,don_juan
+gdc-coref,q41n.0,21057,21164,don_juan,21143,21147,mich,don_juan
+gdc-coref,q41n.0,21338,21397,don_juan,21381,21384,mir,don_juan
+gdc-coref,q41n.0,21965,22093,don_juan,22017,22020,Ich,don_juan
+gdc-coref,q41n.0,21965,22093,don_juan,22066,22071,meine,don_juan
+gdc-coref,q41n.0,22487,22544,gianotto,22512,22515,ich,gianotto
+gdc-coref,q41n.0,22549,22705,don_juan,22640,22643,Mir,don_juan
+gdc-coref,q41n.0,22710,22970,gianotto,22827,22833,meines,gianotto
+gdc-coref,q41n.0,22710,22970,gianotto,22939,22943,mich,gianotto
+gdc-coref,q41n.0,22975,23152,don_juan,23127,23130,mir,don_juan
+gdc-coref,q41n.0,23242,23361,don_juan,23260,23263,Ich,don_juan
+gdc-coref,q41n.0,23366,23630,gianotto,23397,23401,mich,gianotto
+gdc-coref,q41n.0,23366,23630,gianotto,23448,23451,ich,gianotto
+gdc-coref,q41n.0,23366,23630,gianotto,23509,23512,ich,gianotto
+gdc-coref,q41n.0,23781,24202,gianotto,23868,23871,ich,gianotto
+gdc-coref,q41n.0,23781,24202,gianotto,23891,23896,meine,gianotto
+gdc-coref,q41n.0,23781,24202,gianotto,23957,23960,ich,gianotto
+gdc-coref,q41n.0,23781,24202,gianotto,24015,24020,meine,gianotto
+gdc-coref,q41n.0,23781,24202,gianotto,24059,24065,meiner,gianotto
+gdc-coref,q41n.0,24207,24261,don_juan,24236,24239,ich,don_juan
+gdc-coref,q41n.0,24323,24980,don_juan,24354,24358,mein,don_juan
+gdc-coref,q41n.0,24323,24980,don_juan,24774,24777,mir,don_juan
+gdc-coref,q41n.0,24985,25067,gianotto,25035,25039,mein,gianotto
+gdc-coref,q41n.0,24985,25067,gianotto,25054,25057,mir,gianotto
+gdc-coref,q41n.0,25072,25584,don_juan,25102,25105,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25106,25109,mir,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25160,25163,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25169,25175,meines,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25224,25227,mir,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25249,25252,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25275,25278,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25306,25309,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25324,25327,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25354,25358,mich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25448,25452,mein,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25474,25478,mich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25481,25484,ich,don_juan
+gdc-coref,q41n.0,25072,25584,don_juan,25572,25576,mich,don_juan
+gdc-coref,q41n.0,25590,25655,gianotto,25619,25623,mich,gianotto
+gdc-coref,q41n.0,25660,25826,don_juan,25722,25725,Ich,don_juan
+gdc-coref,q41n.0,25660,25826,don_juan,25807,25811,mich,don_juan
+gdc-coref,q41n.0,25831,25907,gianotto,25874,25877,ich,gianotto
+gdc-coref,q41n.0,25912,26272,don_juan,25922,25925,Ich,don_juan
+gdc-coref,q41n.0,25912,26272,don_juan,25995,25998,ich,don_juan
+gdc-coref,q41n.0,25912,26272,don_juan,26005,26009,mich,don_juan
+gdc-coref,q41n.0,25912,26272,don_juan,26053,26056,ich,don_juan
+gdc-coref,q41n.0,25912,26272,don_juan,26080,26083,ich,don_juan
+gdc-coref,q41n.0,26277,26361,gianotto,26287,26290,Ich,gianotto
+gdc-coref,q41n.0,26277,26361,gianotto,26335,26340,Meine,gianotto
+gdc-coref,q41n.0,26524,26569,don_juan,26542,26545,Ich,don_juan
+gdc-coref,q41n.0,26602,26861,don_juan,26828,26831,mir,don_juan
+gdc-coref,q41n.0,26890,27041,don_juan,26933,26936,mir,don_juan
+gdc-coref,q41n.0,27046,27099,gianotto,27067,27070,ich,gianotto
+gdc-coref,q41n.0,27104,27642,don_juan,27114,27117,Ich,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27171,27176,meine,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27213,27216,ich,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27218,27221,ich,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27272,27275,ich,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27365,27368,mir,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27416,27419,mir,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27468,27472,mich,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27489,27492,ich,don_juan
+gdc-coref,q41n.0,27104,27642,don_juan,27549,27552,mir,don_juan
+gdc-coref,q41n.0,28354,28671,wirth,28376,28379,mir,wirth
+gdc-coref,q41n.0,28354,28671,wirth,28433,28436,ich,wirth
+gdc-coref,q41n.0,28742,29521,wirth,29099,29105,Meiner,wirth
+gdc-coref,q41n.0,28742,29521,wirth,29358,29361,mir,wirth
+gdc-coref,q41n.0,29608,29892,wirth,29627,29632,Meine,wirth
+gdc-coref,q41n.0,29608,29892,wirth,29729,29732,mir,wirth
+gdc-coref,q41n.0,29608,29892,wirth,29841,29845,mein,wirth
+gdc-coref,q41n.0,30042,30137,gianotto,30096,30099,ich,gianotto
+gdc-coref,q41n.0,30042,30137,gianotto,30106,30110,mich,gianotto
+gdc-coref,q41n.0,30042,30137,gianotto,30121,30124,ich,gianotto
+gdc-coref,q41n.0,30339,30421,gianotto,30358,30361,Ich,gianotto
+gdc-coref,q41n.0,30339,30421,gianotto,30388,30393,meine,gianotto
+gdc-coref,q41n.0,31033,31071,gianotto,31051,31054,ich,gianotto
+gdc-coref,q41n.0,31328,31502,don_juan,31338,31341,Ich,don_juan
+gdc-coref,q41n.0,31328,31502,don_juan,31362,31365,ich,don_juan
+gdc-coref,q41n.0,32023,32093,don_juan,32074,32078,mein,don_juan
+gdc-coref,q41n.0,32098,32207,gianotto,32139,32142,Ich,gianotto
+gdc-coref,q41n.0,32098,32207,gianotto,32190,32194,mich,gianotto
+gdc-coref,q41n.0,32613,32943,biondetta,32648,32651,ich,biondetta
+gdc-coref,q41n.0,32613,32943,biondetta,32708,32711,mir,biondetta
+gdc-coref,q41n.0,32613,32943,biondetta,32811,32815,mich,biondetta
+gdc-coref,q41n.0,32613,32943,biondetta,32874,32877,mir,biondetta
+gdc-coref,q41n.0,32613,32943,biondetta,32916,32919,ich,biondetta
+gdc-coref,q41n.0,32948,33077,don_juan,32973,32976,mir,don_juan
+gdc-coref,q41n.0,33246,33346,gianotto,33311,33314,mir,gianotto
+gdc-coref,q41n.0,33528,33767,biondetta,33539,33542,Ich,biondetta
+gdc-coref,q41n.0,33528,33767,biondetta,33550,33553,ich,biondetta
+gdc-coref,q41n.0,33528,33767,biondetta,33653,33657,mich,biondetta
+gdc-coref,q41n.0,33528,33767,biondetta,33664,33668,Mein,biondetta
+gdc-coref,q41n.0,33528,33767,biondetta,33689,33692,mir,biondetta
+gdc-coref,q41n.0,33528,33767,biondetta,33739,33742,ich,biondetta
+gdc-coref,q41n.0,34031,34075,gianotto,34041,34044,Ich,gianotto
+gdc-coref,q41n.0,34080,34256,don_juan,34135,34138,ich,don_juan
+gdc-coref,q41n.0,34464,34686,don_juan,34511,34514,ich,don_juan
+gdc-coref,q41n.0,35441,35605,gianotto,35512,35518,meines,gianotto
+gdc-coref,q41n.0,35441,35605,gianotto,35536,35542,meiner,gianotto
+gdc-coref,q41n.0,35610,35744,don_juan,35700,35703,Ich,don_juan
+gdc-coref,q41n.0,36540,36645,gianotto,36588,36591,mir,gianotto
+gdc-coref,q41n.0,36650,37012,don_juan,36866,36869,Ich,don_juan
+gdc-coref,q41n.0,37409,37713,martina,37613,37617,Mein,martina
+gdc-coref,q41n.0,37717,37868,gianotto,37769,37774,meine,gianotto
+gdc-coref,q41n.0,37873,38244,martina,38008,38011,ich,martina
+gdc-coref,q41n.0,37873,38244,martina,38038,38041,mir,martina
+gdc-coref,q41n.0,37873,38244,martina,38108,38111,ich,martina
+gdc-coref,q41n.0,38249,38431,ghita,38375,38378,Ich,ghita
+gdc-coref,q41n.0,38249,38431,ghita,38385,38389,mich,ghita
+gdc-coref,q41n.0,38436,38614,gianotto,38472,38475,ich,gianotto
+gdc-coref,q41n.0,38436,38614,gianotto,38490,38493,ich,gianotto
+gdc-coref,q41n.0,38436,38614,gianotto,38511,38515,mich,gianotto
+gdc-coref,q41n.0,38858,39016,don_juan,38943,38946,mir,don_juan
+gdc-coref,q41n.0,39123,39228,gianotto,39150,39154,mich,gianotto
+gdc-coref,q41n.0,39123,39228,gianotto,39166,39169,ich,gianotto
+gdc-coref,q41n.0,39123,39228,gianotto,39223,39226,mir,gianotto
+gdc-coref,q41n.0,39580,39807,gianotto,39671,39674,ich,gianotto
+gdc-coref,q41n.0,39580,39807,gianotto,39691,39694,ich,gianotto
+gdc-coref,q41n.0,39580,39807,gianotto,39706,39709,ich,gianotto
+gdc-coref,q41n.0,39580,39807,gianotto,39716,39719,mir,gianotto
+gdc-coref,q41n.0,39812,39963,don_juan,39834,39837,ich,don_juan
+gdc-coref,q41n.0,39812,39963,don_juan,39901,39904,ich,don_juan
+gdc-coref,q41n.0,39968,40106,ghita,39980,39983,Ich,ghita
+gdc-coref,q41n.0,39968,40106,ghita,40016,40019,Ich,ghita
+gdc-coref,q41n.0,40397,40509,ghita,40449,40452,ich,ghita
+gdc-coref,q41n.0,40397,40509,ghita,40453,40457,mein,ghita
+gdc-coref,q41n.0,40514,41080,martina,40537,40541,mein,martina
+gdc-coref,q41n.0,40514,41080,martina,40628,40631,ich,martina
+gdc-coref,q41n.0,40514,41080,martina,40798,40803,meine,martina
+gdc-coref,q41n.0,41644,41738,leporello,41701,41704,ich,leporello
+gdc-coref,q41n.0,41774,41886,leporello,41799,41802,Ich,leporello
+gdc-coref,q41n.0,41774,41886,leporello,41872,41875,ich,leporello
+gdc-coref,q41n.0,41891,42013,don_juan,41912,41915,Ich,don_juan
+gdc-coref,q41n.0,41891,42013,don_juan,41926,41929,ich,don_juan
+gdc-coref,q41n.0,41891,42013,don_juan,41996,42001,meine,don_juan
+gdc-coref,q41n.0,42204,42610,martina,42271,42274,Ich,martina
+gdc-coref,q41n.0,42204,42610,martina,42300,42303,Ich,martina
+gdc-coref,q41n.0,42204,42610,martina,42411,42415,mein,martina
+gdc-coref,q41n.0,42827,42988,gianotto,42877,42883,meines,gianotto
+gdc-coref,q41n.0,42827,42988,gianotto,42907,42911,mich,gianotto
+gdc-coref,q41n.0,42827,42988,gianotto,42941,42944,mir,gianotto
+gdc-coref,q41n.0,43292,43605,don_juan,43337,43340,Ich,don_juan
+gdc-coref,q41n.0,43292,43605,don_juan,43365,43368,ich,don_juan
+gdc-coref,q41n.0,43292,43605,don_juan,43391,43394,ich,don_juan
+gdc-coref,q41n.0,43610,43708,gianotto,43633,43636,Ich,gianotto
+gdc-coref,q41n.0,44251,44316,gianotto,44291,44294,ich,gianotto
+gdc-coref,q41n.0,44321,44720,don_juan,44349,44352,ich,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44374,44377,mir,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44390,44393,ich,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44403,44406,mir,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44534,44537,mir,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44570,44573,mir,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44604,44608,mein,don_juan
+gdc-coref,q41n.0,44321,44720,don_juan,44639,44643,mich,don_juan
+gdc-coref,q41n.0,44792,44886,don_juan,44839,44842,mir,don_juan
+gdc-coref,q41n.0,44792,44886,don_juan,44858,44861,ich,don_juan
+gdc-coref,q41n.0,45044,45176,biondetta,45101,45104,ich,biondetta
+gdc-coref,q41n.0,45181,45487,don_juan,45320,45323,ich,don_juan
+gdc-coref,q41n.0,45181,45487,don_juan,45410,45413,mir,don_juan
+gdc-coref,q41n.0,45637,46726,gianotto,45672,45675,ich,gianotto
+gdc-coref,q41n.0,45637,46726,gianotto,45761,45764,ich,gianotto
+gdc-coref,q41n.0,45637,46726,gianotto,46060,46063,ich,gianotto
+gdc-coref,q41n.0,45637,46726,gianotto,46164,46167,ich,gianotto
+gdc-coref,q41n.0,45637,46726,gianotto,46194,46197,ich,gianotto
+gdc-coref,q41n.0,45637,46726,gianotto,46214,46217,ich,gianotto
+gdc-coref,q41n.0,45637,46726,gianotto,46262,46268,meiner,gianotto
+gdc-coref,q41n.0,46958,47049,gianotto,46992,46995,Ich,gianotto
+gdc-coref,q41n.0,46958,47049,gianotto,47024,47027,ich,gianotto
+gdc-coref,q41n.0,47469,47574,gianotto,47554,47559,Meine,gianotto
+gdc-coref,q41n.0,47701,47828,gianotto,47769,47772,ich,gianotto
+gdc-coref,q41n.0,47701,47828,gianotto,47782,47785,ich,gianotto
+gdc-coref,q41n.0,47701,47828,gianotto,47805,47808,ich,gianotto
+gdc-coref,q41n.0,47833,48467,ghita,47976,47980,mich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,47995,47999,mich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48026,48029,ich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48081,48084,mir,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48109,48112,ich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48121,48124,ich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48231,48234,ich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48268,48272,mein,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48391,48395,mich,ghita
+gdc-coref,q41n.0,47833,48467,ghita,48442,48445,mir,ghita
+gdc-coref,q41n.0,48472,48577,gianotto,48488,48491,ich,gianotto
+gdc-coref,q41n.0,48472,48577,gianotto,48505,48508,ich,gianotto
+gdc-coref,q41n.0,48472,48577,gianotto,48509,48513,mich,gianotto
+gdc-coref,q41n.0,48472,48577,gianotto,48546,48549,ich,gianotto
+gdc-coref,q41n.0,48582,49285,ghita,48610,48614,mein,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48682,48685,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48693,48697,mich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48716,48719,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48737,48740,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48769,48772,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48773,48777,mein,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48802,48805,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48811,48817,meinen,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48842,48845,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48934,48939,meine,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48949,48953,mein,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48986,48989,ich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,48990,48994,mich,ghita
+gdc-coref,q41n.0,48582,49285,ghita,49021,49024,ich,ghita
+gdc-coref,q41n.0,49290,49416,gianotto,49330,49333,mir,gianotto
+gdc-coref,q41n.0,49562,49783,ghita,49594,49597,Ich,ghita
+gdc-coref,q41n.0,49562,49783,ghita,49657,49661,mich,ghita
+gdc-coref,q41n.0,49562,49783,ghita,49687,49690,ich,ghita
+gdc-coref,q41n.0,49562,49783,ghita,49741,49744,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,49861,49864,Ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,49870,49875,meine,ghita
+gdc-coref,q41n.0,49854,50724,ghita,49899,49904,meine,ghita
+gdc-coref,q41n.0,49854,50724,ghita,49917,49920,Ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,49955,49958,mir,ghita
+gdc-coref,q41n.0,49854,50724,ghita,49989,49992,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50152,50155,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50209,50212,Ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50258,50261,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50291,50294,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50328,50331,mir,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50488,50491,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50545,50548,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50638,50641,ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50652,50655,Ich,ghita
+gdc-coref,q41n.0,49854,50724,ghita,50700,50703,ich,ghita
+gdc-coref,q41n.0,50800,51138,ghita,50865,50869,mich,ghita
+gdc-coref,q41n.0,50800,51138,ghita,50886,50889,ich,ghita
+gdc-coref,q41n.0,50800,51138,ghita,50969,50972,ich,ghita
+gdc-coref,q41n.0,50800,51138,ghita,50978,50981,ich,ghita
+gdc-coref,q41n.0,50800,51138,ghita,51003,51006,ich,ghita
+gdc-coref,q41n.0,50800,51138,ghita,51056,51059,ich,ghita
+gdc-coref,q41n.0,51328,51562,martina,51376,51380,mein,martina
+gdc-coref,q41n.0,51619,51785,don_juan,51765,51769,mein,don_juan
+gdc-coref,q41n.0,51790,51862,gianotto,51832,51835,Ich,gianotto
+gdc-coref,q41n.0,51867,51943,don_juan,51891,51894,ich,don_juan
+gdc-coref,q41n.0,52106,52501,gianotto,52172,52175,ich,gianotto
+gdc-coref,q41n.0,52505,52623,don_juan,52587,52590,ich,don_juan
+gdc-coref,q41n.0,52651,52898,don_juan,52779,52782,mir,don_juan
+gdc-coref,q41n.0,52903,53171,ghita,52928,52933,Meine,ghita
+gdc-coref,q41n.0,52903,53171,ghita,52959,52962,ich,ghita
+gdc-coref,q41n.0,52903,53171,ghita,53020,53023,ich,ghita
+gdc-coref,q41n.0,53225,53918,don_juan,53392,53398,meinem,don_juan
+gdc-coref,q41n.0,53225,53918,don_juan,53643,53646,ich,don_juan
+gdc-coref,q41n.0,53225,53918,don_juan,53656,53659,ich,don_juan
+gdc-coref,q41n.0,53225,53918,don_juan,53705,53708,mir,don_juan
+gdc-coref,q41n.0,53225,53918,don_juan,53790,53793,ich,don_juan
+gdc-coref,q41n.0,53225,53918,don_juan,53804,53809,meine,don_juan
+gdc-coref,q41n.0,53955,54046,don_juan,53978,53981,mir,don_juan
+gdc-coref,q41n.0,53955,54046,don_juan,54011,54015,mich,don_juan
+gdc-coref,q41n.0,53955,54046,don_juan,54036,54039,mir,don_juan
+gdc-coref,q41n.0,54051,54155,biondetta,54062,54065,Ich,biondetta
+gdc-coref,q41n.0,54051,54155,biondetta,54102,54105,ich,biondetta
+gdc-coref,q41n.0,54507,54641,don_juan,54545,54548,ich,don_juan
+gdc-coref,q41n.0,54691,54859,don_juan,54701,54704,Ich,don_juan
+gdc-coref,q41n.0,54864,55024,biondetta,54933,54936,ich,biondetta
+gdc-coref,q41n.0,54864,55024,biondetta,55020,55023,ich,biondetta
+gdc-coref,q41n.0,55029,55075,don_juan,55048,55051,Ich,don_juan
+gdc-coref,q41n.0,55124,55320,don_juan,55279,55282,Ich,don_juan
+gdc-coref,q41n.0,55427,55524,don_juan,55448,55451,ich,don_juan
+gdc-coref,q41n.0,55529,55605,biondetta,55551,55554,Ich,biondetta
+gdc-coref,q41n.0,55529,55605,biondetta,55572,55577,meine,biondetta
+gdc-coref,q41n.0,55529,55605,biondetta,55585,55589,mich,biondetta
+gdc-coref,q41n.0,55945,56044,don_juan,55983,55986,mir,don_juan
+gdc-coref,q41n.0,56174,56328,biondetta,56213,56219,meiner,biondetta
+gdc-coref,q41n.0,56174,56328,biondetta,56237,56240,ich,biondetta
+gdc-coref,q41n.0,56174,56328,biondetta,56248,56253,meine,biondetta
+gdc-coref,q41n.0,56174,56328,biondetta,56273,56276,mir,biondetta
+gdc-coref,q41n.0,56174,56328,biondetta,56318,56321,ich,biondetta
+gdc-coref,q41n.0,56406,56779,biondetta,56526,56529,ich,biondetta
+gdc-coref,q41n.0,57565,57865,biondetta,57576,57579,Ich,biondetta
+gdc-coref,q41n.0,58066,58160,biondetta,58096,58099,ich,biondetta
+gdc-coref,q41n.0,58066,58160,biondetta,58114,58118,mich,biondetta
+gdc-coref,q41n.0,58066,58160,biondetta,58155,58158,mir,biondetta
+gdc-coref,q41n.0,58200,58351,biondetta,58220,58223,ich,biondetta
+gdc-coref,q41n.0,58357,58744,don_juan,58532,58536,Mein,don_juan
+gdc-coref,q41n.0,58357,58744,don_juan,58543,58546,Ich,don_juan
+gdc-coref,q41n.0,58357,58744,don_juan,58627,58631,mein,don_juan
+gdc-coref,q41n.0,58357,58744,don_juan,58642,58645,ich,don_juan
+gdc-coref,q41n.0,58357,58744,don_juan,58708,58711,mir,don_juan
+gdc-coref,q41n.0,59390,59463,biondetta,59418,59421,mir,biondetta
+gdc-coref,q41n.0,59390,59463,biondetta,59443,59446,Ich,biondetta
+gdc-coref,q41n.0,59468,59547,don_juan,59489,59492,Ich,don_juan
+gdc-coref,q41n.0,59552,59773,biondetta,59567,59571,mich,biondetta
+gdc-coref,q41n.0,59552,59773,biondetta,59590,59594,mich,biondetta
+gdc-coref,q41n.0,59552,59773,biondetta,59630,59633,ich,biondetta
+gdc-coref,q41n.0,59552,59773,biondetta,59707,59713,meiner,biondetta
+gdc-coref,q41n.0,59552,59773,biondetta,59730,59733,ich,biondetta
+gdc-coref,q41n.0,59779,59951,don_juan,59794,59797,ich,don_juan
+gdc-coref,q41n.0,59779,59951,don_juan,59820,59823,ich,don_juan
+gdc-coref,q41n.0,59779,59951,don_juan,59874,59877,Ich,don_juan
+gdc-coref,q41n.0,59779,59951,don_juan,59920,59923,ich,don_juan
+gdc-coref,q41n.0,60342,60392,biondetta,60378,60381,mir,biondetta
+gdc-coref,q41n.0,60544,61326,don_juan,60554,60557,Ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,60592,60595,ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,60601,60604,Ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,60694,60698,mich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,60807,60810,ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,60815,60819,mich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,60829,60832,mir,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,61011,61014,ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,61066,61069,mir,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,61193,61196,ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,61198,61201,Ich,don_juan
+gdc-coref,q41n.0,60544,61326,don_juan,61255,61258,Ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62368,62373,Meine,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62452,62455,ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62593,62596,mir,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62640,62643,ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62844,62847,mir,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62863,62867,mein,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62876,62880,mein,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,62958,62961,mir,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63020,63026,meiner,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63033,63036,ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63143,63149,meiner,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63244,63247,Ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63254,63257,ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63274,63279,meine,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63317,63320,mir,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63335,63338,ich,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63380,63383,mir,don_juan
+gdc-coref,q41n.0,61917,63860,don_juan,63419,63422,ich,don_juan
+gdc-coref,q41n.0,63967,64354,martina,64061,64064,ich,martina
+gdc-coref,q41n.0,63967,64354,martina,64080,64083,ich,martina
+gdc-coref,q41n.0,63967,64354,martina,64124,64127,Ich,martina
+gdc-coref,q41n.0,63967,64354,martina,64227,64230,ich,martina
+gdc-coref,q41n.0,64596,64712,ghita,64650,64653,ich,ghita
+gdc-coref,q41n.0,64717,65153,martina,64829,64832,ich,martina
+gdc-coref,q41n.0,65158,65296,ghita,65255,65259,mich,ghita
+gdc-coref,q41n.0,65428,65702,ghita,65453,65456,mir,ghita
+gdc-coref,q41n.0,65428,65702,ghita,65527,65530,ich,ghita
+gdc-coref,q41n.0,65428,65702,ghita,65576,65579,ich,ghita
+gdc-coref,q41n.0,65764,66212,ghita,66009,66012,mir,ghita
+gdc-coref,q41n.0,65764,66212,ghita,66140,66143,ich,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66354,66357,mir,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66370,66373,ich,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66439,66442,mir,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66494,66497,mir,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66525,66528,ich,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66710,66713,ich,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66719,66724,meine,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66924,66929,meine,ghita
+gdc-coref,q41n.0,66286,66976,ghita,66946,66949,mir,ghita
+gdc-coref,q41n.0,67110,67346,ghita,67137,67141,mein,ghita
+gdc-coref,q41n.0,67110,67346,ghita,67201,67206,meine,ghita
+gdc-coref,q41n.0,67351,67563,martina,67461,67464,ich,martina
+gdc-coref,q41n.0,67351,67563,martina,67469,67474,meine,martina
+gdc-coref,q41n.0,67351,67563,martina,67502,67505,ich,martina
+gdc-coref,q41n.0,67351,67563,martina,67525,67528,ich,martina
+gdc-coref,q41n.0,67568,67614,ghita,67586,67589,ich,ghita
+gdc-coref,q41n.0,67619,67715,martina,67636,67639,ich,martina
+gdc-coref,q41n.0,67720,68156,ghita,67764,67768,mich,ghita
+gdc-coref,q41n.0,67720,68156,ghita,67789,67792,ich,ghita
+gdc-coref,q41n.0,67720,68156,ghita,67793,67797,mich,ghita
+gdc-coref,q41n.0,68345,68499,ghita,68482,68485,mir,ghita
+gdc-coref,q41n.0,68504,68628,martina,68529,68533,mich,martina
+gdc-coref,q41n.0,68504,68628,martina,68537,68540,ich,martina
+gdc-coref,q41n.0,68687,69136,ghita,68939,68942,ich,ghita
+gdc-coref,q41n.0,68687,69136,ghita,68963,68966,mir,ghita
+gdc-coref,q41n.0,68687,69136,ghita,68981,68984,ich,ghita
+gdc-coref,q41n.0,68687,69136,ghita,69021,69024,mir,ghita
+gdc-coref,q41n.0,69141,69347,gianotto,69277,69280,mir,gianotto
+gdc-coref,q41n.0,69353,69495,ghita,69412,69415,mir,ghita
+gdc-coref,q41n.0,69499,69687,gianotto,69525,69528,ich,gianotto
+gdc-coref,q41n.0,69499,69687,gianotto,69529,69535,meinen,gianotto
+gdc-coref,q41n.0,69499,69687,gianotto,69582,69585,ich,gianotto
+gdc-coref,q41n.0,69499,69687,gianotto,69615,69619,mein,gianotto
+gdc-coref,q41n.0,69499,69687,gianotto,69636,69639,mir,gianotto
+gdc-coref,q41n.0,69693,70191,ghita,69770,69774,mein,ghita
+gdc-coref,q41n.0,69693,70191,ghita,70168,70172,mich,ghita
+gdc-coref,q41n.0,70279,70485,ghita,70311,70314,mir,ghita
+gdc-coref,q41n.0,70279,70485,ghita,70373,70376,ich,ghita
+gdc-coref,q41n.0,70279,70485,ghita,70401,70404,ich,ghita
+gdc-coref,q41n.0,70279,70485,ghita,70449,70452,ich,ghita
+gdc-coref,q41n.0,70541,70964,ghita,70606,70609,ich,ghita
+gdc-coref,q41n.0,70541,70964,ghita,70628,70632,mich,ghita
+gdc-coref,q41n.0,70541,70964,ghita,70810,70814,mein,ghita
+gdc-coref,q41n.0,70541,70964,ghita,70916,70919,Ich,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71176,71179,mir,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71247,71250,ich,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71347,71350,Ich,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71415,71418,ich,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71507,71513,meinem,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71679,71682,Ich,ghita
+gdc-coref,q41n.0,71022,72015,ghita,71715,71718,mir,ghita
+gdc-coref,q41n.0,72020,72152,ghita,72136,72140,mich,ghita
+gdc-coref,q41n.0,72157,72267,don_juan,72186,72189,Ich,don_juan
+gdc-coref,q41n.0,72157,72267,don_juan,72224,72227,Ich,don_juan
+gdc-coref,q41n.0,72157,72267,don_juan,72247,72251,mich,don_juan
+gdc-coref,q41n.0,72272,72349,ghita,72326,72330,mich,ghita
+gdc-coref,q41n.0,72354,72392,don_juan,72374,72377,ich,don_juan
+gdc-coref,q41n.0,72397,72441,ghita,72437,72440,ich,ghita
+gdc-coref,q41n.0,72484,72684,ghita,72572,72575,mir,ghita
+gdc-coref,q41n.0,72484,72684,ghita,72612,72615,ich,ghita
+gdc-coref,q41n.0,72484,72684,ghita,72622,72626,mich,ghita
+gdc-coref,q41n.0,72484,72684,ghita,72662,72665,ich,ghita
+gdc-coref,q41n.0,72689,72791,don_juan,72699,72702,Ich,don_juan
+gdc-coref,q41n.0,72689,72791,don_juan,72724,72727,ich,don_juan
+gdc-coref,q41n.0,72689,72791,don_juan,72731,72734,mir,don_juan
+gdc-coref,q41n.0,72689,72791,don_juan,72755,72758,ich,don_juan
+gdc-coref,q41n.0,73063,73168,don_juan,73113,73116,mir,don_juan
+gdc-coref,q41n.0,73063,73168,don_juan,73129,73135,meinen,don_juan
+gdc-coref,q41n.0,73063,73168,don_juan,73163,73167,mich,don_juan
+gdc-coref,q41n.0,73173,73265,ghita,73205,73208,Ich,ghita
+gdc-coref,q41n.0,73173,73265,ghita,73230,73234,mein,ghita
+gdc-coref,q41n.0,73173,73265,ghita,73261,73264,ich,ghita
+gdc-coref,q41n.0,73270,73582,don_juan,73280,73283,Ich,don_juan
+gdc-coref,q41n.0,73270,73582,don_juan,73321,73324,ich,don_juan
+gdc-coref,q41n.0,73270,73582,don_juan,73368,73372,mein,don_juan
+gdc-coref,q41n.0,73270,73582,don_juan,73405,73408,ich,don_juan
+gdc-coref,q41n.0,73270,73582,don_juan,73445,73448,ich,don_juan
+gdc-coref,q41n.0,73270,73582,don_juan,73492,73495,ich,don_juan
+gdc-coref,q41n.0,73674,74070,don_juan,73684,73687,Ich,don_juan
+gdc-coref,q41n.0,73674,74070,don_juan,73703,73706,ich,don_juan
+gdc-coref,q41n.0,73674,74070,don_juan,73819,73822,ich,don_juan
+gdc-coref,q41n.0,73674,74070,don_juan,74043,74046,ich,don_juan
+gdc-coref,q41n.0,73674,74070,don_juan,74063,74068,meine,don_juan
+gdc-coref,q41n.0,74075,74323,ghita,74113,74116,Ich,ghita
+gdc-coref,q41n.0,74075,74323,ghita,74142,74145,Ich,ghita
+gdc-coref,q41n.0,74075,74323,ghita,74308,74312,mich,ghita
+gdc-coref,q41n.0,74328,74407,don_juan,74381,74384,ich,don_juan
+gdc-coref,q41n.0,74412,74773,ghita,74449,74452,Ich,ghita
+gdc-coref,q41n.0,74412,74773,ghita,74476,74482,meinem,ghita
+gdc-coref,q41n.0,74412,74773,ghita,74509,74512,mir,ghita
+gdc-coref,q41n.0,74412,74773,ghita,74563,74566,ich,ghita
+gdc-coref,q41n.0,74412,74773,ghita,74705,74708,mir,ghita
+gdc-coref,q41n.0,74412,74773,ghita,74720,74724,mein,ghita
+gdc-coref,q41n.0,74412,74773,ghita,74740,74743,mir,ghita
+gdc-coref,q41n.0,74778,75111,don_juan,74908,74911,ich,don_juan
+gdc-coref,q41n.0,75116,75159,ghita,75128,75131,Ich,ghita
+gdc-coref,q41n.0,75116,75159,ghita,75146,75150,mich,ghita
+gdc-coref,q41n.0,75164,75215,don_juan,75204,75207,ich,don_juan
+gdc-coref,q41n.0,75220,75355,ghita,75249,75253,mein,ghita
+gdc-coref,q41n.0,75220,75355,ghita,75265,75270,Meine,ghita
+gdc-coref,q41n.0,75220,75355,ghita,75290,75294,mich,ghita
+gdc-coref,q41n.0,75220,75355,ghita,75306,75312,meinen,ghita
+gdc-coref,q41n.0,75360,75654,don_juan,75472,75475,mir,don_juan
+gdc-coref,q41n.0,75360,75654,don_juan,75513,75516,ich,don_juan
+gdc-coref,q41n.0,75360,75654,don_juan,75632,75636,mich,don_juan
+gdc-coref,q41n.0,75659,75886,ghita,75694,75697,ich,ghita
+gdc-coref,q41n.0,75659,75886,ghita,75711,75714,ich,ghita
+gdc-coref,q41n.0,75659,75886,ghita,75757,75760,Ich,ghita
+gdc-coref,q41n.0,75659,75886,ghita,75780,75783,ich,ghita
+gdc-coref,q41n.0,76579,76707,ghita,76631,76634,mir,ghita
+gdc-coref,q41n.0,77042,77112,ghita,77071,77075,mich,ghita
+gdc-coref,q41n.0,77042,77112,ghita,77087,77090,ich,ghita
+gdc-coref,q41n.0,77042,77112,ghita,77091,77095,mich,ghita
+gdc-coref,q41n.0,77117,77836,don_juan,77369,77372,ich,don_juan
+gdc-coref,q41n.0,77117,77836,don_juan,77396,77399,Ich,don_juan
+gdc-coref,q41n.0,77117,77836,don_juan,77606,77609,ich,don_juan
+gdc-coref,q41n.0,77117,77836,don_juan,77624,77628,mich,don_juan
+gdc-coref,q41n.0,77117,77836,don_juan,77788,77794,meines,don_juan
+gdc-coref,q41n.0,77117,77836,don_juan,77819,77822,mir,don_juan
+gdc-coref,q41n.0,77841,78261,ghita,77974,77977,ich,ghita
+gdc-coref,q41n.0,77841,78261,ghita,78015,78019,mein,ghita
+gdc-coref,q41n.0,77841,78261,ghita,78101,78104,ich,ghita
+gdc-coref,q41n.0,78266,78808,don_juan,78352,78355,ich,don_juan
+gdc-coref,q41n.0,78266,78808,don_juan,78385,78391,Meinen,don_juan
+gdc-coref,q41n.0,78266,78808,don_juan,78491,78495,mein,don_juan
+gdc-coref,q41n.0,78266,78808,don_juan,78548,78551,ich,don_juan
+gdc-coref,q41n.0,78266,78808,don_juan,78635,78638,ich,don_juan
+gdc-coref,q41n.0,78266,78808,don_juan,78719,78722,ich,don_juan
+gdc-coref,q41n.0,78813,78865,ghita,78853,78857,mich,ghita
+gdc-coref,q41n.0,79105,79659,don_juan,79179,79183,mich,don_juan
+gdc-coref,q41n.0,79105,79659,don_juan,79586,79590,mich,don_juan
+gdc-coref,q41n.0,79105,79659,don_juan,79591,79595,mein,don_juan
+gdc-coref,q41n.0,79886,80006,ghita,79969,79972,Ich,ghita
+gdc-coref,q41n.0,79886,80006,ghita,79991,79995,mich,ghita
+gdc-coref,q41n.0,80095,80289,don_juan,80232,80235,ich,don_juan
+gdc-coref,q41n.0,80530,80687,gianotto,80668,80671,mir,gianotto
+gdc-coref,q41n.0,80693,80813,ghita,80746,80750,mich,ghita
+gdc-coref,q41n.0,80693,80813,ghita,80805,80809,mich,ghita
+gdc-coref,q41n.0,80818,81154,gianotto,80957,80960,Ich,gianotto
+gdc-coref,q41n.0,80818,81154,gianotto,81057,81060,ich,gianotto
+gdc-coref,q41n.0,80818,81154,gianotto,81113,81116,ich,gianotto
+gdc-coref,q41n.0,81159,81552,ghita,81401,81404,ich,ghita
+gdc-coref,q41n.0,81159,81552,ghita,81409,81413,mein,ghita
+gdc-coref,q41n.0,81159,81552,ghita,81421,81426,meine,ghita
+gdc-coref,q41n.0,81159,81552,ghita,81445,81450,meine,ghita
+gdc-coref,q41n.0,81557,81796,gianotto,81627,81630,mir,gianotto
+gdc-coref,q41n.0,81801,82198,ghita,81842,81847,meine,ghita
+gdc-coref,q41n.0,81801,82198,ghita,81894,81897,mir,ghita
+gdc-coref,q41n.0,81801,82198,ghita,81985,81988,mir,ghita
+gdc-coref,q41n.0,81801,82198,ghita,82068,82074,meiner,ghita
+gdc-coref,q41n.0,81801,82198,ghita,82095,82099,mein,ghita
+gdc-coref,q41n.0,82203,82594,gianotto,82423,82426,Ich,gianotto
+gdc-coref,q41n.0,82599,82999,ghita,82812,82816,mich,ghita
+gdc-coref,q41n.0,83004,83955,gianotto,83058,83064,meines,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83174,83177,ich,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83223,83227,mich,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83233,83236,ich,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83349,83352,ich,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83450,83453,mir,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83593,83596,mir,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83604,83609,meine,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83754,83758,mein,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83765,83768,mir,gianotto
+gdc-coref,q41n.0,83004,83955,gianotto,83819,83822,ich,gianotto
+gdc-coref,q41n.0,83959,84029,ghita,84001,84005,mich,ghita
+gdc-coref,q41n.0,83959,84029,ghita,84014,84017,ich,ghita
+gdc-coref,q41n.0,84035,84553,gianotto,84135,84138,Ich,gianotto
+gdc-coref,q41n.0,84035,84553,gianotto,84269,84272,Ich,gianotto
+gdc-coref,q41n.0,84035,84553,gianotto,84302,84305,ich,gianotto
+gdc-coref,q41n.0,84035,84553,gianotto,84343,84346,Ich,gianotto
+gdc-coref,q41n.0,84557,84711,don_juan,84599,84602,ich,don_juan
+gdc-coref,q41n.0,84557,84711,don_juan,84608,84611,Ich,don_juan
+gdc-coref,q41n.0,84557,84711,don_juan,84657,84660,ich,don_juan
+gdc-coref,q41n.0,84976,85078,_stage,85039,85048,ein Tisch,ein-Tisch
+gdc-coref,q41n.0,85093,85161,_stage,85093,85118,Die Gräfin im Reisegewand,graefin
+gdc-coref,q41n.0,85093,85161,_stage,85126,85140,die Mittelthür,die-Mittelthür
+gdc-coref,q41n.0,85093,85161,_stage,85149,85152,ihr,graefin
+gdc-coref,q41n.0,85093,85161,_stage,85153,85160,Martina,martina
+gdc-coref,q41n.0,85163,85237,graefin,85228,85235,im Haus,im-Haus
+gdc-coref,q41n.0,85242,85372,martina,85255,85304,was noch viel wunderlicher ist und viel schlimmer,kaum-zu-Bett-gegangen
+gdc-coref,q41n.0,85242,85372,martina,85306,85327,kaum zu Bett gegangen,kaum-zu-Bett-gegangen
+gdc-coref,q41n.0,85242,85372,martina,85314,85318,Bett,Bett-(ghita)
+gdc-coref,q41n.0,85242,85372,martina,85338,85341,Ihr,graefin
+gdc-coref,q41n.0,85377,85421,graefin,85390,85393,Sie,ghita
+gdc-coref,q41n.0,85377,85421,graefin,85400,85409,die Nacht,die-Nacht
+gdc-coref,q41n.0,85426,86030,martina,85453,85456,sie,ghita
+gdc-coref,q41n.0,85426,86030,martina,85467,85479,den Kleidern,den-Kleidern-(ghita)
+gdc-coref,q41n.0,85426,86030,martina,85534,85571,ich alte Gans von einer blinden Henne,martina
+gdc-coref,q41n.0,85426,86030,martina,85534,85537,ich,martina
+gdc-coref,q41n.0,85426,86030,martina,85573,85576,ich,martina
+gdc-coref,q41n.0,85426,86030,martina,85584,85586,es,es
+gdc-coref,q41n.0,85426,86030,martina,85618,85672,"daß ich sie einschloß, das Kleinod, das liebe Perlchen",es
+gdc-coref,q41n.0,85426,86030,martina,85622,85625,ich,martina
+gdc-coref,q41n.0,85426,86030,martina,85626,85629,sie,ghita
+gdc-coref,q41n.0,85426,86030,martina,85641,85672,"das Kleinod, das liebe Perlchen",ghita
+gdc-coref,q41n.0,85426,86030,martina,85690,85705,die ganze Nacht,die-Nacht
+gdc-coref,q41n.0,85426,86030,martina,85722,85734,ihrer Kammer,ihrer-Kammer-(ghita)
+gdc-coref,q41n.0,85426,86030,martina,85722,85727,ihrer,ghita
+gdc-coref,q41n.0,85426,86030,martina,85745,85748,ich,martina
+gdc-coref,q41n.0,85426,86030,martina,85784,85801,barmherziger Gott,barmherziger-Gott
+gdc-coref,q41n.0,85426,86030,martina,85809,85821,das Püppchen,ghita
+gdc-coref,q41n.0,85426,86030,martina,85843,85855,offenem Haar,offenem-Haar-(ghita)
+gdc-coref,q41n.0,85426,86030,martina,85860,85868,dem Bett,Bett-(ghita)
+gdc-coref,q41n.0,85426,86030,martina,85879,85883,mich,martina
+gdc-coref,q41n.0,85426,86030,martina,85888,85908,großen stillen Augen,großen-stillen-Augen-(ghita)
+gdc-coref,q41n.0,85426,86030,martina,85944,85947,ich,martina
+gdc-coref,q41n.0,85426,86030,martina,85987,85992,ihren,ghita
+gdc-coref,q41n.0,86084,86643,martina,86120,86123,ich,martina
+gdc-coref,q41n.0,86084,86643,martina,86124,86127,sie,ghita
+gdc-coref,q41n.0,86084,86643,martina,86135,86172,"Ghitina, mein Herzchen, mein Goldkind",ghita
+gdc-coref,q41n.0,86084,86643,martina,86144,86148,mein,martina
+gdc-coref,q41n.0,86084,86643,martina,86159,86163,mein,martina
+gdc-coref,q41n.0,86084,86643,martina,86196,86199,ich,martina
+gdc-coref,q41n.0,86084,86643,martina,86205,86236,zwei große diamanthelle Tropfen,zwei-große-diamanthelle-Tropfen-(tränen-ghita)
+gdc-coref,q41n.0,86084,86643,martina,86249,86254,ihren,ghita
+gdc-coref,q41n.0,86084,86643,martina,86255,86267,lieben Augen,großen-stillen-Augen-(ghita)
+gdc-coref,q41n.0,86084,86643,martina,86318,86321,ich,martina
+gdc-coref,q41n.0,86084,86643,martina,86323,86349,"Töchterchen, Contessinchen",ghita
+gdc-coref,q41n.0,86084,86643,martina,86370,86380,hellen Tag,hellen-Tag
+gdc-coref,q41n.0,86084,86643,martina,86394,86396,du,ghita
+gdc-coref,q41n.0,86084,86643,martina,86414,86429,Die Frau Mutter,graefin
+gdc-coref,q41n.0,86084,86643,martina,86491,86496,ihren,ghita
+gdc-coref,q41n.0,86084,86643,martina,86508,86511,sie,ghita
+gdc-coref,q41n.0,86084,86643,martina,86518,86522,sich,ghita
+gdc-coref,q41n.0,86084,86643,martina,86530,86539,die Hände,die-Hände-(ghita)
+gdc-coref,q41n.0,86084,86643,martina,86558,86562,sich,ghita
+gdc-coref,q41n.0,86084,86643,martina,86584,86587,sie,die-Hände-(ghita)
+gdc-coref,q41n.0,86084,86643,martina,86601,86604,ihr,ghita
+gdc-coref,q41n.0,86084,86643,martina,86619,86628,ein Blick,ein---------------Blick-(ghita)
+gdc-coref,q41n.0,86084,86643,martina,86631,86640,ein Blick,ein---------------Blick-(ghita)
+gdc-coref,q41n.0,86648,86702,graefin,86682,86690,Gianotto,gianotto
+gdc-coref,q41n.0,86648,86702,graefin,86698,86700,du,martina
+gdc-coref,q41n.0,86707,87077,martina,86737,86740,ich,martina
+gdc-coref,q41n.0,86707,87077,martina,86741,86744,ihn,gianotto
+gdc-coref,q41n.0,86707,87077,martina,86764,86777,gestern Abend,gestern-Abend
+gdc-coref,q41n.0,86707,87077,martina,86796,86799,ich,martina
+gdc-coref,q41n.0,86707,87077,martina,86801,86810,sein Bett,sein-Bett-(gianotto)
+gdc-coref,q41n.0,86707,87077,martina,86801,86805,sein,gianotto
+gdc-coref,q41n.0,86707,87077,martina,86816,86819,ich,martina
+gdc-coref,q41n.0,86707,87077,martina,86856,86859,ich,martina
+gdc-coref,q41n.0,86707,87077,martina,86860,86861,s,sein-Bett-(gianotto)
+gdc-coref,q41n.0,86707,87077,martina,86862,86865,ihm,gianotto
+gdc-coref,q41n.0,86707,87077,martina,86883,86896,O Frau Mutter,graefin
+gdc-coref,q41n.0,86707,87077,martina,86898,86908,die Kinder,die-Kinder
+gdc-coref,q41n.0,86707,87077,martina,86910,86920,die Kinder,die-Kinder
+gdc-coref,q41n.0,86707,87077,martina,86922,86925,Man,Man
+gdc-coref,q41n.0,86707,87077,martina,86997,86998,s,"s-(schicksal,-vorbestimmtes)"
+gdc-coref,q41n.0,86707,87077,martina,87007,87023,was bestimmt ist,"s-(schicksal,-vorbestimmtes)"
+gdc-coref,q41n.0,86707,87077,martina,87054,87063,die Bäume,die-Kinder
+gdc-coref,q41n.0,87082,87183,graefin,87090,87129,Sie haben eine Leidenschaft zu einander,es2
+gdc-coref,q41n.0,87082,87183,graefin,87090,87093,Sie,ghita-/-gianotto
+gdc-coref,q41n.0,87082,87183,graefin,87100,87129,eine Leidenschaft zu einander,eine-Leidenschaft-zu-einander-(ghita-gianotto)
+gdc-coref,q41n.0,87082,87183,graefin,87131,87133,Du,martina
+gdc-coref,q41n.0,87082,87183,graefin,87142,87144,es,es2
+gdc-coref,q41n.0,87082,87183,graefin,87155,87158,Das,es2
+gdc-coref,q41n.0,87188,87717,martina,87197,87202,Ihnen,ghita-/-gianotto
+gdc-coref,q41n.0,87188,87717,martina,87210,87211,s,eine-Leidenschaft-zu-einander-(ghita-gianotto)
+gdc-coref,q41n.0,87188,87717,martina,87220,87233,gestern Abend,gestern-Abend
+gdc-coref,q41n.0,87188,87717,martina,87255,87258,ich,martina
+gdc-coref,q41n.0,87188,87717,martina,87315,87319,mich,martina
+gdc-coref,q41n.0,87188,87717,martina,87361,87395,diese zwei armen jungen Verliebten,ghita-/-gianotto
+gdc-coref,q41n.0,87188,87717,martina,87406,87409,die,ghita-/-gianotto
+gdc-coref,q41n.0,87188,87717,martina,87410,87414,sich,ghita-/-gianotto
+gdc-coref,q41n.0,87188,87717,martina,87470,87475,Jedes,ghita-/-gianotto
+gdc-coref,q41n.0,87188,87717,martina,87476,87485,im Herzen,deinem-Herzen-(ghita)-/-sein-Herz-(gianotto)
+gdc-coref,q41n.0,87188,87717,martina,87556,87568,seiner Liebe,eine-Leidenschaft-zu-einander-(ghita-gianotto)
+gdc-coref,q41n.0,87188,87717,martina,87556,87562,seiner,ghita-/-gianotto
+gdc-coref,q41n.0,87188,87717,martina,87590,87593,ich,martina
+gdc-coref,q41n.0,87188,87717,martina,87605,87616,der Ghitina,ghita
+gdc-coref,q41n.0,87188,87717,martina,87618,87717,"du mußt Vernunft annehmen, Engelskind, sagt' ich. Der Herzog von Candia, der dich heimführen soll –",Das
+gdc-coref,q41n.0,87188,87717,martina,87618,87620,du,ghita
+gdc-coref,q41n.0,87188,87717,martina,87663,87666,ich,martina
+gdc-coref,q41n.0,87188,87717,martina,87668,87715,"Der Herzog von Candia, der dich heimführen soll","Der-Herzog-von-Candia,-der-dich-heimführen---------------soll"
+gdc-coref,q41n.0,87188,87717,martina,87691,87694,der,"Der-Herzog-von-Candia,-der-dich-heimführen---------------soll"
+gdc-coref,q41n.0,87188,87717,martina,87695,87699,dich,ghita
+gdc-coref,q41n.0,87723,88148,graefin,87731,87734,Das,Das
+gdc-coref,q41n.0,87723,88148,graefin,87743,87745,du,martina
+gdc-coref,q41n.0,87723,88148,graefin,87752,87757,sagen,es3
+gdc-coref,q41n.0,87723,88148,graefin,87766,87768,es,es3
+gdc-coref,q41n.0,87723,88148,graefin,87769,87772,mir,graefin
+gdc-coref,q41n.0,87723,88148,graefin,87785,87788,Sie,ghita
+gdc-coref,q41n.0,87723,88148,graefin,87849,87855,Andere,die-Kinder
+gdc-coref,q41n.0,87723,88148,graefin,87944,87947,ihr,ghita
+gdc-coref,q41n.0,87723,88148,graefin,87964,87967,sie,ghita
+gdc-coref,q41n.0,87723,88148,graefin,87989,87992,sie,ghita
+gdc-coref,q41n.0,87723,88148,graefin,87993,87997,sich,ghita
+gdc-coref,q41n.0,87723,88148,graefin,88009,88016,Thränen,zwei-große-diamanthelle-Tropfen-(tränen-ghita)
+gdc-coref,q41n.0,87723,88148,graefin,88042,88045,sie,ghita
+gdc-coref,q41n.0,87723,88148,graefin,88064,88067,sie,ghita
+gdc-coref,q41n.0,87723,88148,graefin,88113,88116,sie,ghita
+gdc-coref,q41n.0,88153,88375,martina,88180,88183,Ihr,graefin
+gdc-coref,q41n.0,88153,88375,martina,88191,88194,sie,ghita
+gdc-coref,q41n.0,88153,88375,martina,88282,88285,ihr,ghita
+gdc-coref,q41n.0,88153,88375,martina,88287,88290,Sie,martina
+gdc-coref,q41n.0,88153,88375,martina,88298,88299,s,es4
+gdc-coref,q41n.0,88153,88375,martina,88310,88313,sie,ghita
+gdc-coref,q41n.0,88153,88375,martina,88315,88324,alle Welt,Man
+gdc-coref,q41n.0,88153,88375,martina,88330,88332,es,es4
+gdc-coref,q41n.0,88153,88375,martina,88334,88351,daß ich ihn liebe,es4
+gdc-coref,q41n.0,88153,88375,martina,88338,88341,ich,
+gdc-coref,q41n.0,88153,88375,martina,88342,88345,ihn,gianotto
+gdc-coref,q41n.0,88153,88375,martina,88355,88374,O Mutter der Gnaden,graefin
+gdc-coref,q41n.0,88380,88509,graefin,88388,88391,Ich,graefin
+gdc-coref,q41n.0,88380,88509,graefin,88400,88403,ihr,ghita
+gdc-coref,q41n.0,88380,88509,graefin,88419,88431,den Gianotto,gianotto
+gdc-coref,q41n.0,88380,88509,graefin,88433,88436,Ich,graefin
+gdc-coref,q41n.0,88380,88509,graefin,88446,88450,Gott,barmherziger-Gott
+gdc-coref,q41n.0,88380,88509,graefin,88461,88466,Alles,"s-(schicksal,-vorbestimmtes)"
+gdc-coref,q41n.0,88380,88509,graefin,88485,88507,mein banges Mutterherz,mein-banges-Mutterherz-(gräfin)
+gdc-coref,q41n.0,88380,88509,graefin,88485,88489,mein,graefin
+gdc-coref,q41n.0,88531,88668,_stage,88539,88544,Ghita,ghita
+gdc-coref,q41n.0,88531,88668,_stage,88577,88598,dem Anzug von gestern,den-Kleidern-(ghita)
+gdc-coref,q41n.0,88531,88668,_stage,88599,88608,die Hände,die-Hände-(ghita)
+gdc-coref,q41n.0,88531,88668,_stage,88631,88640,die Augen,großen-stillen-Augen-(ghita)
+gdc-coref,q41n.0,88531,88668,_stage,88651,88655,sich,ghita
+gdc-coref,q41n.0,88676,88770,_stage,88717,88727,die Gräfin,graefin
+gdc-coref,q41n.0,88670,88792,ghita,88785,88791,Mutter,graefin
+gdc-coref,q41n.0,88804,88905,_stage,88813,88816,sie,ghita
+gdc-coref,q41n.0,88804,88905,_stage,88830,88833,sie,ghita
+gdc-coref,q41n.0,88804,88905,_stage,88837,88845,die Arme,die-Arme-(gräfin)
+gdc-coref,q41n.0,88804,88905,_stage,88852,88855,sie,ghita
+gdc-coref,q41n.0,88804,88905,_stage,88875,88878,sie,ghita
+gdc-coref,q41n.0,88797,89063,graefin,88906,88917,O mein Kind,ghita
+gdc-coref,q41n.0,88797,89063,graefin,88908,88912,mein,graefin
+gdc-coref,q41n.0,88797,89063,graefin,88923,88926,ich,graefin
+gdc-coref,q41n.0,88797,89063,graefin,88945,88948,Ich,graefin
+gdc-coref,q41n.0,88797,89063,graefin,88980,88983,dir,ghita
+gdc-coref,q41n.0,88797,89063,graefin,88985,88988,ich,graefin
+gdc-coref,q41n.0,88797,89063,graefin,89005,89008,dir,ghita
+gdc-coref,q41n.0,88797,89063,graefin,89030,89032,du,ghita
+gdc-coref,q41n.0,88797,89063,graefin,89048,89051,dir,ghita
+gdc-coref,q41n.0,89068,89099,ghita,89086,89098,liebe Mutter,graefin
+gdc-coref,q41n.0,89104,89193,graefin,89123,89127,dich,ghita
+gdc-coref,q41n.0,89104,89193,graefin,89133,89136,wir,graefin-/-ghita
+gdc-coref,q41n.0,89104,89193,graefin,89154,89161,Martina,martina
+gdc-coref,q41n.0,89104,89193,graefin,89167,89170,dir,ghita
+gdc-coref,q41n.0,89205,89248,_stage,89210,89214,sich,ghita
+gdc-coref,q41n.0,89199,89355,ghita,89255,89261,Mutter,graefin
+gdc-coref,q41n.0,89199,89355,ghita,89263,89267,mich,ghita
+gdc-coref,q41n.0,89199,89355,ghita,89283,89286,Ich,ghita
+gdc-coref,q41n.0,89199,89355,ghita,89296,89301,Durst,Durst
+gdc-coref,q41n.0,89199,89355,ghita,89310,89354,unlöschbaren Durst – nach Stille und Frieden,Durst
+gdc-coref,q41n.0,89199,89355,ghita,89336,89342,Stille,Stille
+gdc-coref,q41n.0,89199,89355,ghita,89347,89354,Frieden,Frieden
+gdc-coref,q41n.0,89367,89462,_stage,89373,89380,Martina,martina
+gdc-coref,q41n.0,89367,89462,_stage,89400,89403,sie,martina
+gdc-coref,q41n.0,89367,89462,_stage,89404,89408,sich,martina
+gdc-coref,q41n.0,89367,89462,_stage,89431,89435,sich,graefin
+gdc-coref,q41n.0,89367,89462,_stage,89439,89444,Ghita,ghita
+gdc-coref,q41n.0,89367,89462,_stage,89452,89456,ihre,ghita
+gdc-coref,q41n.0,89360,89536,graefin,89463,89469,Stille,Stille
+gdc-coref,q41n.0,89360,89536,graefin,89474,89481,Frieden,Frieden
+gdc-coref,q41n.0,89360,89536,graefin,89483,89496,mein Liebling,ghita
+gdc-coref,q41n.0,89360,89536,graefin,89483,89487,mein,graefin
+gdc-coref,q41n.0,89360,89536,graefin,89503,89505,du,ghita
+gdc-coref,q41n.0,89541,89659,ghita,89552,89558,Mutter,graefin
+gdc-coref,q41n.0,89541,89659,ghita,89572,89584,ein Erdbeben,ein-Erdbeben
+gdc-coref,q41n.0,89541,89659,ghita,89585,89596,diese Nacht,die-Nacht
+gdc-coref,q41n.0,89541,89659,ghita,89603,89605,du,graefin
+gdc-coref,q41n.0,89541,89659,ghita,89606,89608,es,ein-Erdbeben
+gdc-coref,q41n.0,89541,89659,ghita,89639,89641,du,graefin
+gdc-coref,q41n.0,89664,89685,graefin,89672,89684,Ein Erdbeben,ein-Erdbeben
+gdc-coref,q41n.0,89696,89745,_stage,89725,89727,es,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,89696,89745,_stage,89741,89744,sie,ghita
+gdc-coref,q41n.0,89690,89902,ghita,89759,89771,Etwas in mir,Etwas-in-mir-(ghitas-liebe-zu-gianotto)
+gdc-coref,q41n.0,89690,89902,ghita,89768,89771,mir,ghita
+gdc-coref,q41n.0,89690,89902,ghita,89796,89845,"Etwas, das ich für fest gehalten in alle Ewigkeit",Etwas-in-mir-(ghitas-liebe-zu-gianotto)
+gdc-coref,q41n.0,89690,89902,ghita,89803,89806,das,Etwas-in-mir-(ghitas-liebe-zu-gianotto)
+gdc-coref,q41n.0,89690,89902,ghita,89807,89810,ich,ghita
+gdc-coref,q41n.0,89690,89902,ghita,89860,89863,mir,ghita
+gdc-coref,q41n.0,89690,89902,ghita,89875,89884,der Boden,der-Boden
+gdc-coref,q41n.0,89690,89902,ghita,89892,89895,ich,ghita
+gdc-coref,q41n.0,89914,89939,_stage,89914,89917,ihr,ghita
+gdc-coref,q41n.0,89914,89939,_stage,89918,89926,das Haar,offenem-Haar-(ghita)
+gdc-coref,q41n.0,89907,89974,graefin,89940,89942,Du,ghita
+gdc-coref,q41n.0,89979,90339,ghita,90018,90024,Mutter,graefin
+gdc-coref,q41n.0,89979,90339,ghita,90031,90034,man,Man
+gdc-coref,q41n.0,89979,90339,ghita,90051,90054,man,Man
+gdc-coref,q41n.0,89979,90339,ghita,90060,90082,seine eigenen Gedanken,seine---------------eigenen-Gedanken
+gdc-coref,q41n.0,89979,90339,ghita,90060,90065,seine,Man
+gdc-coref,q41n.0,89979,90339,ghita,90084,90089,Meine,
+gdc-coref,q41n.0,89979,90339,ghita,90120,90122,Es,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,89979,90339,ghita,90138,90141,ich,ghita
+gdc-coref,q41n.0,89979,90339,ghita,90142,90155,einen Spiegel,einen---------------Spiegel
+gdc-coref,q41n.0,89979,90339,ghita,90159,90162,mir,ghita
+gdc-coref,q41n.0,89979,90339,ghita,90173,90176,der,einen---------------Spiegel
+gdc-coref,q41n.0,89979,90339,ghita,90212,90215,mir,ghita
+gdc-coref,q41n.0,89979,90339,ghita,90216,90236,das Bild aller Dinge,das-Bild-aller---------------Dinge-(ghitas-bisherige-vorstellung-von-der-welt)
+gdc-coref,q41n.0,89979,90339,ghita,90249,90252,ich,ghita
+gdc-coref,q41n.0,89979,90339,ghita,90258,90270,die Scherben,das-Bild-aller---------------Dinge-(ghitas-bisherige-vorstellung-von-der-welt)
+gdc-coref,q41n.0,90301,90339,_stage,90307,90311,sich,ghita
+gdc-coref,q41n.0,90301,90339,_stage,90329,90338,die Augen,großen-stillen-Augen-(ghita)
+gdc-coref,q41n.0,90350,90409,_stage,90355,90408,"einer Pause, in der sie sie kummervoll betrachtet hat","einer-Pause,-in-der-sie-sie-kummervoll-betrachtet-hat"
+gdc-coref,q41n.0,90350,90409,_stage,90371,90374,der,"einer-Pause,-in-der-sie-sie-kummervoll-betrachtet-hat"
+gdc-coref,q41n.0,90350,90409,_stage,90375,90378,sie,graefin
+gdc-coref,q41n.0,90350,90409,_stage,90379,90382,sie,ghita
+gdc-coref,q41n.0,90343,90463,graefin,90410,90418,Gianotto,gianotto
+gdc-coref,q41n.0,90468,90817,ghita,90493,90499,Mutter,graefin
+gdc-coref,q41n.0,90468,90817,ghita,90501,90504,ich,ghita
+gdc-coref,q41n.0,90468,90817,ghita,90510,90511,s,s
+gdc-coref,q41n.0,90468,90817,ghita,90527,90553,ich habe ihn wohl erwartet,s
+gdc-coref,q41n.0,90468,90817,ghita,90527,90530,ich,ghita
+gdc-coref,q41n.0,90468,90817,ghita,90536,90539,ihn,gianotto
+gdc-coref,q41n.0,90468,90817,ghita,90570,90573,ihn,gianotto
+gdc-coref,q41n.0,90468,90817,ghita,90575,90610,"einen Gianotto, der nie wiederkommt",gianotto
+gdc-coref,q41n.0,90468,90817,ghita,90591,90594,der,gianotto
+gdc-coref,q41n.0,90468,90817,ghita,90629,90632,wir,graefin-/-ghita
+gdc-coref,q41n.0,90468,90817,ghita,90640,90643,Wir,Man
+gdc-coref,q41n.0,90468,90817,ghita,90665,90668,uns,Man
+gdc-coref,q41n.0,90468,90817,ghita,90688,90691,wir,Man
+gdc-coref,q41n.0,90468,90817,ghita,90696,90702,Andern,Man
+gdc-coref,q41n.0,90468,90817,ghita,90704,90706,Du,graefin
+gdc-coref,q41n.0,90468,90817,ghita,90712,90717,meine,ghita
+gdc-coref,q41n.0,90468,90817,ghita,90754,90777,der zerbrochene Spiegel,Meine-(gedanken-geist-ghitas)
+gdc-coref,q41n.0,90468,90817,ghita,90778,90782,dein,graefin
+gdc-coref,q41n.0,90829,90859,_stage,90829,90832,sie,ghita
+gdc-coref,q41n.0,90829,90859,_stage,90836,90840,sich,graefin
+gdc-coref,q41n.0,90829,90859,_stage,90855,90858,sie,ghita
+gdc-coref,q41n.0,90822,91035,graefin,90860,90894,"Kind, mein geliebtes einziges Kind",ghita
+gdc-coref,q41n.0,90822,91035,graefin,90866,90870,mein,graefin
+gdc-coref,q41n.0,90822,91035,graefin,90919,90932,deiner Mutter,graefin
+gdc-coref,q41n.0,90822,91035,graefin,90919,90925,deiner,ghita
+gdc-coref,q41n.0,90822,91035,graefin,90942,90945,ihr,graefin
+gdc-coref,q41n.0,90822,91035,graefin,90965,90969,dich,ghita
+gdc-coref,q41n.0,90822,91035,graefin,90971,90986,Eine Schwermuth,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,90822,91035,graefin,90998,91001,dir,ghita
+gdc-coref,q41n.0,90822,91035,graefin,91003,91006,die,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,90822,91035,graefin,91016,91029,deinen Jahren,deinen-Jahren-(alter-ghita)
+gdc-coref,q41n.0,90822,91035,graefin,91016,91022,deinen,ghita
+gdc-coref,q41n.0,91040,91390,ghita,91064,91070,Mutter,graefin
+gdc-coref,q41n.0,91040,91390,ghita,91077,91080,man,Man
+gdc-coref,q41n.0,91040,91390,ghita,91142,91144,du,graefin
+gdc-coref,q41n.0,91040,91390,ghita,91146,91183,wer schon in der Jugend sich ausweint,ghita
+gdc-coref,q41n.0,91040,91390,ghita,91186,91189,ich,ghita
+gdc-coref,q41n.0,91040,91390,ghita,91205,91208,ich,ghita
+gdc-coref,q41n.0,91040,91390,ghita,91248,91251,ich,ghita
+gdc-coref,q41n.0,91040,91390,ghita,91252,91281,eine lustige alte Frau werden,s2
+gdc-coref,q41n.0,91040,91390,ghita,91283,91286,ich,ghita
+gdc-coref,q41n.0,91040,91390,ghita,91293,91294,s,s2
+gdc-coref,q41n.0,91040,91390,ghita,91307,91309,Es,Es
+gdc-coref,q41n.0,91040,91390,ghita,91333,91390,"dran zu denken, daß man Dinge hat überleben können, die –",Es
+gdc-coref,q41n.0,91040,91390,ghita,91353,91356,man,Man
+gdc-coref,q41n.0,91040,91390,ghita,91357,91362,Dinge,Dinge
+gdc-coref,q41n.0,91040,91390,ghita,91385,91390,die –,Dinge
+gdc-coref,q41n.0,91395,91435,graefin,91411,91416,Dinge,Dinge
+gdc-coref,q41n.0,91395,91435,graefin,91418,91434,mein Herzenskind,ghita
+gdc-coref,q41n.0,91395,91435,graefin,91418,91422,mein,graefin
+gdc-coref,q41n.0,91440,91517,ghita,91463,91465,Es,Dinge
+gdc-coref,q41n.0,91440,91517,ghita,91485,91487,Es,Dinge
+gdc-coref,q41n.0,91528,91552,_stage,91535,91539,sich,graefin
+gdc-coref,q41n.0,91521,91775,graefin,91553,91563,Dein Vater,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,91521,91775,graefin,91553,91557,Dein,ghita
+gdc-coref,q41n.0,91521,91775,graefin,91588,91592,dich,ghita
+gdc-coref,q41n.0,91521,91775,graefin,91596,91614,dieser Melancholie,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,91521,91775,graefin,91625,91627,Er,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,91521,91775,graefin,91641,91643,du,ghita
+gdc-coref,q41n.0,91521,91775,graefin,91648,91651,mir,graefin
+gdc-coref,q41n.0,91521,91775,graefin,91657,91663,Neapel,Neapel
+gdc-coref,q41n.0,91521,91775,graefin,91672,91675,Man,"Allen,-die-gut-von-mir-denken"
+gdc-coref,q41n.0,91521,91775,graefin,91701,91716,unserer Tochter,ghita
+gdc-coref,q41n.0,91780,92021,ghita,91791,91793,du,graefin
+gdc-coref,q41n.0,91780,92021,ghita,91816,91825,den Vater,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,91780,92021,ghita,91836,91865,"Allen, die gut von mir denken","Allen,-die-gut-von-mir-denken"
+gdc-coref,q41n.0,91780,92021,ghita,91843,91846,die,"Allen,-die-gut-von-mir-denken"
+gdc-coref,q41n.0,91780,92021,ghita,91847,91865,gut von mir denken,gut-von-mir-denken
+gdc-coref,q41n.0,91780,92021,ghita,91855,91858,mir,ghita
+gdc-coref,q41n.0,91780,92021,ghita,91867,91869,Es,gut-von-mir-denken
+gdc-coref,q41n.0,91780,92021,ghita,91892,91895,sie,gut-von-mir-denken
+gdc-coref,q41n.0,91780,92021,ghita,91930,91935,denen,denen-(die-verdienen-dass-man-gut-über-sie-denkt)
+gdc-coref,q41n.0,91780,92021,ghita,91943,91946,die,denen-(die-verdienen-dass-man-gut-über-sie-denkt)
+gdc-coref,q41n.0,91780,92021,ghita,91947,91950,sie,gut-von-mir-denken
+gdc-coref,q41n.0,91780,92021,ghita,91966,91975,der Vater,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,91780,92021,ghita,91994,91996,er,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,91780,92021,ghita,92002,92006,sein,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,92033,92059,_stage,92033,92040,den Arm,die-Arme-(gräfin)
+gdc-coref,q41n.0,92033,92059,_stage,92044,92047,sie,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92060,92063,Ich,graefin
+gdc-coref,q41n.0,92026,92491,graefin,92070,92085,liebste Tochter,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92096,92100,dich,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92105,92111,Neapel,Neapel
+gdc-coref,q41n.0,92026,92491,graefin,92123,92125,Du,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92134,92179,du sollest dort mit dem Herzog verlobt werden,es5
+gdc-coref,q41n.0,92026,92491,graefin,92134,92136,du,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92154,92164,dem Herzog,"Der-Herzog-von-Candia,-der-dich-heimführen---------------soll"
+gdc-coref,q41n.0,92026,92491,graefin,92193,92203,dein Vater,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,92026,92491,graefin,92193,92197,dein,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92204,92206,es,es5
+gdc-coref,q41n.0,92026,92491,graefin,92262,92267,deine,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92301,92330,jüngere und schönere Bewerber,jüngere-und-schönere-Bewerber
+gdc-coref,q41n.0,92026,92491,graefin,92355,92360,denen,jüngere-und-schönere-Bewerber
+gdc-coref,q41n.0,92026,92491,graefin,92361,92364,dir,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92386,92424,"der Liebe, die dich unterm Herzen trug","der-Liebe,-die-dich-unterm-Herzen-trug-(gräfin-ggü-ghita)"
+gdc-coref,q41n.0,92026,92491,graefin,92397,92400,die,"der-Liebe,-die-dich-unterm-Herzen-trug-(gräfin-ggü-ghita)"
+gdc-coref,q41n.0,92026,92491,graefin,92401,92405,dich,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92406,92419,unterm Herzen,mein-banges-Mutterherz-(gräfin)
+gdc-coref,q41n.0,92026,92491,graefin,92426,92428,du,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92447,92450,dir,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92451,92455,dein,ghita
+gdc-coref,q41n.0,92026,92491,graefin,92477,92490,deinem Herzen,deinem-Herzen-(ghita)
+gdc-coref,q41n.0,92026,92491,graefin,92477,92483,deinem,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92503,92524,"O Mutter, du bist gut",es6
+gdc-coref,q41n.0,92496,92976,ghita,92503,92515,"O Mutter, du",graefin
+gdc-coref,q41n.0,92496,92976,ghita,92526,92529,Ich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92536,92538,es,es6
+gdc-coref,q41n.0,92496,92976,ghita,92545,92548,Ich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92555,92558,dir,graefin
+gdc-coref,q41n.0,92496,92976,ghita,92571,92976,"Ja, Mutter, frei will ich sein! Wenn sie alle mich verkennen und verlästern, ich weiß es, Mutter, du wirst mich verstehen, mir nachfühlen, warum ich die Freiheit allem andern Glück vorgezogen. Kann man denn noch auf Glück hoffen, wenn die Erde bebt, wenn man keine Stunde sicher ist, daß sie sich aufthun und Alles verschlingen möchte, woran wir uns festgeklammert lange, schöne, betrogene Jahre hindurch?",diesen-wunderlichen-Worten
+gdc-coref,q41n.0,92496,92976,ghita,92575,92581,Mutter,graefin
+gdc-coref,q41n.0,92496,92976,ghita,92593,92596,ich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92608,92616,sie alle,Man
+gdc-coref,q41n.0,92496,92976,ghita,92617,92621,mich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92648,92651,ich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92657,92659,es,es7
+gdc-coref,q41n.0,92496,92976,ghita,92661,92762,"Mutter, du wirst mich verstehen, mir nachfühlen, warum ich die Freiheit allem andern Glück vorgezogen",es7
+gdc-coref,q41n.0,92496,92976,ghita,92661,92671,"Mutter, du",graefin
+gdc-coref,q41n.0,92496,92976,ghita,92678,92682,mich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92694,92697,mir,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92716,92719,ich,ghita
+gdc-coref,q41n.0,92496,92976,ghita,92733,92751,allem andern Glück,allem-andern-Glück
+gdc-coref,q41n.0,92496,92976,ghita,92769,92772,man,Man
+gdc-coref,q41n.0,92496,92976,ghita,92787,92792,Glück,allem-andern-Glück
+gdc-coref,q41n.0,92496,92976,ghita,92806,92814,die Erde,der-Boden
+gdc-coref,q41n.0,92496,92976,ghita,92826,92829,man,Man
+gdc-coref,q41n.0,92496,92976,ghita,92859,92862,sie,der-Boden
+gdc-coref,q41n.0,92496,92976,ghita,92863,92867,sich,der-Boden
+gdc-coref,q41n.0,92496,92976,ghita,92913,92916,wir,Man
+gdc-coref,q41n.0,92496,92976,ghita,92917,92920,uns,Man
+gdc-coref,q41n.0,92981,93073,graefin,93000,93002,du,ghita
+gdc-coref,q41n.0,92981,93073,graefin,93018,93044,diesen wunderlichen Worten,diesen-wunderlichen-Worten
+gdc-coref,q41n.0,92981,93073,graefin,93051,93053,du,ghita
+gdc-coref,q41n.0,93078,93795,ghita,93091,93097,Mutter,graefin
+gdc-coref,q41n.0,93078,93795,ghita,93135,93147,meine Kammer,ihrer-Kammer-(ghita)
+gdc-coref,q41n.0,93078,93795,ghita,93135,93140,meine,ghita
+gdc-coref,q41n.0,93078,93795,ghita,93156,93159,mir,ghita
+gdc-coref,q41n.0,93078,93795,ghita,93172,93175,ich,ghita
+gdc-coref,q41n.0,93078,93795,ghita,93176,93184,die Welt,die-Welt
+gdc-coref,q41n.0,93078,93795,ghita,93205,93208,sie,die-Welt
+gdc-coref,q41n.0,93078,93795,ghita,93218,93401,"daß Abgründe in ihr liegen, die Nichts ausfüllt, die so unermeßlich breit sind, daß Menschen, die hüben und drüben stehn, schreien können, so laut sie wollen, und sich nicht verstehen",das
+gdc-coref,q41n.0,93078,93795,ghita,93222,93230,Abgründe,Abgründe-(emotionale)
+gdc-coref,q41n.0,93078,93795,ghita,93234,93237,ihr,die-Welt
+gdc-coref,q41n.0,93078,93795,ghita,93246,93249,die,Abgründe-(emotionale)
+gdc-coref,q41n.0,93078,93795,ghita,93267,93270,die,Abgründe-(emotionale)
+gdc-coref,q41n.0,93078,93795,ghita,93302,93338,"Menschen, die hüben und drüben stehn",Man
+gdc-coref,q41n.0,93078,93795,ghita,93312,93315,die,Man
+gdc-coref,q41n.0,93078,93795,ghita,93365,93368,sie,Man
+gdc-coref,q41n.0,93078,93795,ghita,93381,93385,sich,Man
+gdc-coref,q41n.0,93078,93795,ghita,93403,93411,O Mutter,graefin
+gdc-coref,q41n.0,93078,93795,ghita,93418,93421,man,Man
+gdc-coref,q41n.0,93078,93795,ghita,93422,93425,das,das
+gdc-coref,q41n.0,93078,93795,ghita,93450,93453,uns,Man
+gdc-coref,q41n.0,93078,93795,ghita,93458,93486,"dem, was uns das Süßeste war","dem,-was-uns-das-Süßeste-war"
+gdc-coref,q41n.0,93078,93795,ghita,93463,93466,was,"dem,-was-uns-das-Süßeste-war"
+gdc-coref,q41n.0,93078,93795,ghita,93467,93470,uns,Man
+gdc-coref,q41n.0,93078,93795,ghita,93503,93506,wir,Man
+gdc-coref,q41n.0,93078,93795,ghita,93513,93518,unsre,Man
+gdc-coref,q41n.0,93078,93795,ghita,93539,93544,unsre,Man
+gdc-coref,q41n.0,93078,93795,ghita,93571,93580,ein Feind,ein-Feind
+gdc-coref,q41n.0,93078,93795,ghita,93586,93592,unserm,Man
+gdc-coref,q41n.0,93078,93795,ghita,93614,93617,wir,Man
+gdc-coref,q41n.0,93078,93795,ghita,93647,93690,"Dessen, der unsre geheimsten Gedanken kennt","Dessen,-der-unsre---------------geheimsten-Gedanken-kennt"
+gdc-coref,q41n.0,93078,93795,ghita,93655,93658,der,"Dessen,-der-unsre---------------geheimsten-Gedanken-kennt"
+gdc-coref,q41n.0,93078,93795,ghita,93659,93684,unsre geheimsten Gedanken,seine---------------eigenen-Gedanken
+gdc-coref,q41n.0,93078,93795,ghita,93659,93664,unsre,Man
+gdc-coref,q41n.0,93078,93795,ghita,93693,93701,o Mutter,graefin
+gdc-coref,q41n.0,93078,93795,ghita,93704,93710,Mutter,graefin
+gdc-coref,q41n.0,93078,93795,ghita,93713,93715,es,das
+gdc-coref,q41n.0,93734,93795,_stage,93743,93746,ihr,graefin
+gdc-coref,q41n.0,93734,93795,_stage,93773,93778,ihren,graefin
+gdc-coref,q41n.0,93799,93889,graefin,93807,93816,Kind – du,ghita
+gdc-coref,q41n.0,93799,93889,graefin,93828,93831,mir,graefin
+gdc-coref,q41n.0,93799,93889,graefin,93832,93840,das Herz,mein-banges-Mutterherz-(gräfin)
+gdc-coref,q41n.0,93799,93889,graefin,93855,93858,Ich,graefin
+gdc-coref,q41n.0,93799,93889,graefin,93869,93873,dich,ghita
+gdc-coref,q41n.0,93799,93889,graefin,93881,93884,sie,ghita
+gdc-coref,q41n.0,93900,93913,_stage,93900,93904,sich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,93923,93925,es,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,93894,94606,ghita,93938,93940,es,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,93894,94606,ghita,93963,93989,einer tödtlichen Krankheit,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,93894,94606,ghita,93996,93999,der,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,93894,94606,ghita,94000,94003,ich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94027,94031,mich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94034,94046,liebe Mutter,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94062,94064,du,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94065,94068,mir,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94090,94093,ich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94094,94097,dir,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94113,94116,ich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94152,94182,wir verstanden uns nicht immer,das2
+gdc-coref,q41n.0,93894,94606,ghita,94152,94155,wir,graefin-/-ghita
+gdc-coref,q41n.0,93894,94606,ghita,94167,94170,uns,graefin-/-ghita
+gdc-coref,q41n.0,93894,94606,ghita,94188,94191,das,das2
+gdc-coref,q41n.0,93894,94606,ghita,94199,94202,dir,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94211,94251,Nun wirst du mich immer besser verstehen,das3
+gdc-coref,q41n.0,93894,94606,ghita,94221,94223,du,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94224,94228,mich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94253,94256,das,das3
+gdc-coref,q41n.0,93894,94606,ghita,94261,94265,mein,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94289,94292,ich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94293,94296,dir,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94305,94314,ihre Hand,ihre-Hand-(gräfin)
+gdc-coref,q41n.0,93894,94606,ghita,94305,94309,ihre,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94321,94324,sie,ihre-Hand-(gräfin)
+gdc-coref,q41n.0,93894,94606,ghita,94353,94356,ich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94402,94405,mir,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94435,94438,mir,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94471,94474,ich,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94475,94478,dir,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94494,94496,du,graefin
+gdc-coref,q41n.0,93894,94606,ghita,94497,94500,mir,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94501,94502,s,s3
+gdc-coref,q41n.0,93894,94606,ghita,94517,94567,ein Glück mir wählen zu dürfen nach meinem Herzen!,s3
+gdc-coref,q41n.0,93894,94606,ghita,94527,94530,mir,ghita
+gdc-coref,q41n.0,93894,94606,ghita,94553,94566,meinem Herzen,deinem-Herzen-(ghita)
+gdc-coref,q41n.0,93894,94606,ghita,94553,94559,meinem,ghita
+gdc-coref,q41n.0,94628,95364,graefin,94643,94646,Das,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,94628,95364,graefin,94665,94668,ich,graefin
+gdc-coref,q41n.0,94628,95364,graefin,94728,94760,die Harmonie dieser zarten Seele,die-Harmonie-dieser-zarten-Seele-(ghitas-herzensglück-seelenheil)
+gdc-coref,q41n.0,94628,95364,graefin,94741,94760,dieser zarten Seele,deinem-Herzen-(ghita)
+gdc-coref,q41n.0,94628,95364,graefin,94778,94822,"Ein Gespenst, das ihr um Mitternacht eschien","Ein-Gespenst,-das-ihr-um-Mitternacht---------------eschien"
+gdc-coref,q41n.0,94628,95364,graefin,94792,94795,das,"Ein-Gespenst,-das-ihr-um-Mitternacht---------------eschien"
+gdc-coref,q41n.0,94628,95364,graefin,94796,94799,ihr,ghita
+gdc-coref,q41n.0,94628,95364,graefin,94803,94814,Mitternacht,die-Nacht
+gdc-coref,q41n.0,94628,95364,graefin,94871,94874,sie,ghita
+gdc-coref,q41n.0,94628,95364,graefin,94918,94926,Gianotto,gianotto
+gdc-coref,q41n.0,94628,95364,graefin,94928,94931,Sie,ghita
+gdc-coref,q41n.0,94628,95364,graefin,94961,94964,ich,graefin
+gdc-coref,q41n.0,94628,95364,graefin,94965,94971,seinen,gianotto
+gdc-coref,q41n.0,94628,95364,graefin,95002,95014,ihren Jahren,deinen-Jahren-(alter-ghita)
+gdc-coref,q41n.0,94628,95364,graefin,95002,95007,ihren,ghita
+gdc-coref,q41n.0,94628,95364,graefin,95027,95030,uns,Man
+gdc-coref,q41n.0,94628,95364,graefin,95052,95058,unsres,Man
+gdc-coref,q41n.0,94628,95364,graefin,95075,95078,uns,Man
+gdc-coref,q41n.0,94628,95364,graefin,95083,95088,Liebe,Liebe
+gdc-coref,q41n.0,94628,95364,graefin,95096,95114,O meine alte Sorge,eine-Leidenschaft-zu-einander-(ghita-gianotto)
+gdc-coref,q41n.0,94628,95364,graefin,95098,95103,meine,graefin
+gdc-coref,q41n.0,94628,95364,graefin,95120,95123,ich,graefin
+gdc-coref,q41n.0,94628,95364,graefin,95175,95178,sie,ghita-/-gianotto
+gdc-coref,q41n.0,94628,95364,graefin,95196,95199,ich,graefin
+gdc-coref,q41n.0,94628,95364,graefin,95200,95212,meinem Manne,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,94628,95364,graefin,95200,95206,meinem,graefin
+gdc-coref,q41n.0,94628,95364,graefin,95227,95242,mein eigen Herz,mein-banges-Mutterherz-(gräfin)
+gdc-coref,q41n.0,94628,95364,graefin,95227,95231,mein,graefin
+gdc-coref,q41n.0,94628,95364,graefin,95261,95329,"den Knaben, der die Züge seiner geliebten, unglücklichen Mutter trug",gianotto
+gdc-coref,q41n.0,94628,95364,graefin,95273,95276,der,gianotto
+gdc-coref,q41n.0,94628,95364,graefin,95286,95324,"seiner geliebten, unglücklichen Mutter","seiner---------------geliebten,-unglücklichen-Mutter-(gianottos-mutter-anna)"
+gdc-coref,q41n.0,94628,95364,graefin,95286,95292,seiner,gianotto
+gdc-coref,q41n.0,94628,95364,graefin,95331,95334,Ich,graefin
+gdc-coref,q41n.0,94628,95364,graefin,95339,95342,ihn,gianotto
+gdc-coref,q41n.0,94628,95364,graefin,95353,95355,er,gianotto
+gdc-coref,q41n.0,95380,95401,_stage,95386,95400,die Mittelthür,die-Mittelthür
+gdc-coref,q41n.0,95369,95444,diener,95402,95423,Don Cesar von Sevilla,don_juan
+gdc-coref,q41n.0,95449,95576,graefin,95457,95466,Don Cesar,don_juan
+gdc-coref,q41n.0,95449,95576,graefin,95477,95480,ich,graefin
+gdc-coref,q41n.0,95449,95576,graefin,95481,95485,mich,graefin
+gdc-coref,q41n.0,95449,95576,graefin,95510,95513,ich,graefin
+gdc-coref,q41n.0,95449,95576,graefin,95542,95550,der Herr,don_juan
+gdc-coref,q41n.0,95449,95576,graefin,95556,95560,mich,graefin
+gdc-coref,q41n.0,95581,95683,diener,95589,95591,Er,don_juan
+gdc-coref,q41n.0,95581,95683,diener,95598,95601,mir,diener
+gdc-coref,q41n.0,95617,95683,_stage,95634,95642,Don Juan,don_juan
+gdc-coref,q41n.0,95617,95683,_stage,95673,95677,sich,diener
+gdc-coref,q41n.0,95705,95722,_stage,95705,95711,Gräfin,graefin
+gdc-coref,q41n.0,95705,95722,_stage,95713,95721,Don Juan,don_juan
+gdc-coref,q41n.0,95724,95851,don_juan,95750,95771,meine Zudringlichkeit,meine-Zudringlichkeit
+gdc-coref,q41n.0,95724,95851,don_juan,95750,95755,meine,don_juan
+gdc-coref,q41n.0,95724,95851,don_juan,95810,95821,edle Gräfin,graefin
+gdc-coref,q41n.0,95724,95851,don_juan,95823,95851,Eine gebieterische Pflicht –,Eine---------------gebieterische-Pflicht-–
+gdc-coref,q41n.0,95856,95925,graefin,95879,95882,Ihn,don_juan
+gdc-coref,q41n.0,95856,95925,graefin,95918,95925,Señor –,don_juan
+gdc-coref,q41n.0,95930,95980,don_juan,95940,95951,Lange Jahre,Lange-Jahre
+gdc-coref,q41n.0,95930,95980,don_juan,95968,95978,Doña Maria,graefin
+gdc-coref,q41n.0,95992,96041,_stage,96000,96003,ihn,don_juan
+gdc-coref,q41n.0,95992,96041,_stage,96026,96030,sich,graefin
+gdc-coref,q41n.0,95992,96041,_stage,96031,96040,am Sessel,am-Sessel
+gdc-coref,q41n.0,95985,96087,graefin,96058,96068,Die Todten,Die-Todten
+gdc-coref,q41n.0,96101,96151,_stage,96101,96104,ihr,graefin
+gdc-coref,q41n.0,96101,96151,_stage,96129,96150,ehrerbietigem Dringen,meine-Zudringlichkeit
+gdc-coref,q41n.0,96092,96307,don_juan,96166,96170,mich,don_juan
+gdc-coref,q41n.0,96092,96307,don_juan,96211,96214,man,Man
+gdc-coref,q41n.0,96092,96307,don_juan,96219,96239,abgeschiedene Feinde,ein-Feind
+gdc-coref,q41n.0,96092,96307,don_juan,96252,96305,"der Liebe, die wir Beide zu jener Engelsseele gefühlt","der-Liebe,-die-wir-Beide-zu-jener-Engelsseele-gefühlt-(liebe-gräfin-juan-ggü-anna)"
+gdc-coref,q41n.0,96092,96307,don_juan,96263,96266,die,"der-Liebe,-die-wir-Beide-zu-jener-Engelsseele-gefühlt-(liebe-gräfin-juan-ggü-anna)"
+gdc-coref,q41n.0,96092,96307,don_juan,96267,96276,wir Beide,don_juan-/-graefin
+gdc-coref,q41n.0,96092,96307,don_juan,96280,96297,jener Engelsseele,"seiner---------------geliebten,-unglücklichen-Mutter-(gianottos-mutter-anna)"
+gdc-coref,q41n.0,96319,96341,_stage,96319,96323,sich,graefin
+gdc-coref,q41n.0,96312,96768,graefin,96342,96345,Ihr,don_juan
+gdc-coref,q41n.0,96312,96768,graefin,96351,96352,s,s-(prädikativ-juan-als-er-selbst)
+gdc-coref,q41n.0,96312,96768,graefin,96359,96361,es,s-(prädikativ-juan-als-er-selbst)
+gdc-coref,q41n.0,96312,96768,graefin,96389,96403,am hellen Tage,hellen-Tag
+gdc-coref,q41n.0,96312,96768,graefin,96408,96418,Gespenster,"Ein-Gespenst,-das-ihr-um-Mitternacht---------------eschien"
+gdc-coref,q41n.0,96312,96768,graefin,96459,96463,mein,graefin
+gdc-coref,q41n.0,96312,96768,graefin,96488,96514,der Schwelle dieses Hauses,der-Schwelle-dieses---------------Hauses
+gdc-coref,q41n.0,96312,96768,graefin,96501,96514,dieses Hauses,im-Haus
+gdc-coref,q41n.0,96312,96768,graefin,96534,96544,zwei Todte,zwei-Todte-(anna-und-der-vater-der-gräfin)
+gdc-coref,q41n.0,96312,96768,graefin,96562,96566,Euch,don_juan
+gdc-coref,q41n.0,96312,96768,graefin,96644,96691,den gottlosen Trotz in Euch gegen alles Heilige,den-gottlosen-Trotz-in-Euch-gegen---------------alles-Heilige
+gdc-coref,q41n.0,96312,96768,graefin,96667,96671,Euch,don_juan
+gdc-coref,q41n.0,96312,96768,graefin,96727,96729,er,den-gottlosen-Trotz-in-Euch-gegen---------------alles-Heilige
+gdc-coref,q41n.0,96312,96768,graefin,96738,96748,meinem Haß,meinem-Haß
+gdc-coref,q41n.0,96312,96768,graefin,96738,96744,meinem,graefin
+gdc-coref,q41n.0,96773,97036,don_juan,96789,96792,Ihr,graefin
+gdc-coref,q41n.0,96773,97036,don_juan,96815,96819,mich,don_juan
+gdc-coref,q41n.0,96773,97036,don_juan,96851,96855,mich,don_juan
+gdc-coref,q41n.0,96773,97036,don_juan,96856,96890,"die Todten, die zwischen uns stehn",zwei-Todte-(anna-und-der-vater-der-gräfin)
+gdc-coref,q41n.0,96773,97036,don_juan,96868,96871,die,zwei-Todte-(anna-und-der-vater-der-gräfin)
+gdc-coref,q41n.0,96773,97036,don_juan,96881,96884,uns,don_juan-/-graefin
+gdc-coref,q41n.0,96773,97036,don_juan,96906,96916,dieser Haß,meinem-Haß
+gdc-coref,q41n.0,96773,97036,don_juan,96921,96935,Eurer Schwelle,der-Schwelle-dieses---------------Hauses
+gdc-coref,q41n.0,96773,97036,don_juan,96921,96926,Eurer,graefin
+gdc-coref,q41n.0,96773,97036,don_juan,96962,96992,die Pflicht gegen zwei Lebende,Eine---------------gebieterische-Pflicht-–
+gdc-coref,q41n.0,96773,97036,don_juan,96980,96992,zwei Lebende,ghita-/-gianotto
+gdc-coref,q41n.0,97068,97107,don_juan,97078,97090,Eure Tochter,ghita
+gdc-coref,q41n.0,97068,97107,don_juan,97078,97082,Eure,graefin
+gdc-coref,q41n.0,97068,97107,don_juan,97097,97106,mein Sohn,gianotto
+gdc-coref,q41n.0,97068,97107,don_juan,97097,97101,mein,don_juan
+gdc-coref,q41n.0,97112,97172,graefin,97145,97148,Ihr,don_juan
+gdc-coref,q41n.0,97112,97172,graefin,97159,97163,Euch,don_juan
+gdc-coref,q41n.0,97177,97439,don_juan,97187,97190,Ich,don_juan
+gdc-coref,q41n.0,97177,97439,don_juan,97196,97198,es,es-(das-gianotto-juans-sohn-ist)
+gdc-coref,q41n.0,97177,97439,don_juan,97221,97224,ich,don_juan
+gdc-coref,q41n.0,97177,97439,don_juan,97225,97227,es,es-(das-gianotto-juans-sohn-ist)
+gdc-coref,q41n.0,97177,97439,don_juan,97236,97239,Ihr,graefin
+gdc-coref,q41n.0,97177,97439,don_juan,97245,97248,ihn,gianotto
+gdc-coref,q41n.0,97177,97439,don_juan,97261,97264,ihm,gianotto
+gdc-coref,q41n.0,97177,97439,don_juan,97265,97314,"die Liebe seiner Nächsten, die er entbehren mußte","die---------------Liebe-seiner-Nächsten,-die-er-entbehren-mußte-(anna-juan--ggü-gianotto)"
+gdc-coref,q41n.0,97177,97439,don_juan,97292,97295,die,"die---------------Liebe-seiner-Nächsten,-die-er-entbehren-mußte-(anna-juan--ggü-gianotto)"
+gdc-coref,q41n.0,97177,97439,don_juan,97340,97343,ich,don_juan
+gdc-coref,q41n.0,97177,97439,don_juan,97350,97354,Euch,graefin
+gdc-coref,q41n.0,97177,97439,don_juan,97362,97372,Doña Maria,graefin
+gdc-coref,q41n.0,97177,97439,don_juan,97380,97384,sich,don_juan
+gdc-coref,q41n.0,97177,97439,don_juan,97394,97397,ihr,graefin
+gdc-coref,q41n.0,97177,97439,don_juan,97404,97413,ihre Hand,ihre-Hand-(gräfin)
+gdc-coref,q41n.0,97177,97439,don_juan,97404,97408,ihre,graefin
+gdc-coref,q41n.0,97177,97439,don_juan,97422,97425,sie,graefin
+gdc-coref,q41n.0,97444,97543,graefin,97461,97529,"eines Mörders, eines Frevlers gegen Gott und seine heiligsten Gebote",don_juan
+gdc-coref,q41n.0,97444,97543,graefin,97497,97501,Gott,barmherziger-Gott
+gdc-coref,q41n.0,97444,97543,graefin,97506,97511,seine,barmherziger-Gott
+gdc-coref,q41n.0,97444,97543,graefin,97539,97542,ich,graefin
+gdc-coref,q41n.0,97548,97870,don_juan,97558,97561,Ich,don_juan
+gdc-coref,q41n.0,97548,97870,don_juan,97592,97598,Gräfin,graefin
+gdc-coref,q41n.0,97548,97870,don_juan,97614,97617,ich,don_juan
+gdc-coref,q41n.0,97548,97870,don_juan,97618,97622,mich,don_juan
+gdc-coref,q41n.0,97548,97870,don_juan,97623,97705,"des Gebots, daß man seinem sündigen Bruder sieben mal siebenzig mal vergeben solle","des-Gebots,-daß-man---------------seinem-sündigen-Bruder-sieben-mal-siebenzig-mal-vergeben-solle"
+gdc-coref,q41n.0,97548,97870,don_juan,97639,97642,man,Man
+gdc-coref,q41n.0,97548,97870,don_juan,97643,97665,seinem sündigen Bruder,Man
+gdc-coref,q41n.0,97548,97870,don_juan,97643,97649,seinem,Man
+gdc-coref,q41n.0,97548,97870,don_juan,97707,97711,Dies,"des-Gebots,-daß-man---------------seinem-sündigen-Bruder-sieben-mal-siebenzig-mal-vergeben-solle"
+gdc-coref,q41n.0,97548,97870,don_juan,97725,97729,Eure,graefin
+gdc-coref,q41n.0,97548,97870,don_juan,97758,97761,Ihr,graefin
+gdc-coref,q41n.0,97548,97870,don_juan,97774,97794,die Sünde des Vaters,
+gdc-coref,q41n.0,97548,97870,don_juan,97784,97794,des Vaters,don_juan
+gdc-coref,q41n.0,97548,97870,don_juan,97804,97813,dem Sohne,gianotto
+gdc-coref,q41n.0,97548,97870,don_juan,97835,97837,es,es8
+gdc-coref,q41n.0,97548,97870,don_juan,97843,97855,Eure Tochter,ghita
+gdc-coref,q41n.0,97548,97870,don_juan,97843,97847,Eure,graefin
+gdc-coref,q41n.0,97875,98063,graefin,97892,97905,Meine Tochter,ghita
+gdc-coref,q41n.0,97875,98063,graefin,97892,97897,Meine,graefin
+gdc-coref,q41n.0,97875,98063,graefin,97908,97911,Ihr,don_juan
+gdc-coref,q41n.0,97875,98063,graefin,97917,97931,meiner Tochter,ghita
+gdc-coref,q41n.0,97875,98063,graefin,97917,97923,meiner,graefin
+gdc-coref,q41n.0,97875,98063,graefin,97942,97945,Ihr,don_juan
+gdc-coref,q41n.0,97875,98063,graefin,97951,97954,ihr,ghita
+gdc-coref,q41n.0,97875,98063,graefin,97986,97989,ich,graefin
+gdc-coref,q41n.0,97875,98063,graefin,97990,98061,Alles – ihre Verstörung – die Zerrüttung all ihrer Gedanken und Gefühle,es-(gefühl-schauer-kummer-qual-ghitta)
+gdc-coref,q41n.0,97875,98063,graefin,98031,98049,all ihrer Gedanken,Meine-(gedanken-geist-ghitas)
+gdc-coref,q41n.0,97875,98063,graefin,98054,98061,Gefühle,die-Harmonie-dieser-zarten-Seele-(ghitas-herzensglück-seelenheil)
+gdc-coref,q41n.0,98068,98329,don_juan,98091,98094,Ihr,graefin
+gdc-coref,q41n.0,98068,98329,don_juan,98099,98111,diesem Hause,im-Haus
+gdc-coref,q41n.0,98068,98329,don_juan,98118,98129,wer ich bin,es9
+gdc-coref,q41n.0,98068,98329,don_juan,98122,98125,ich,don_juan
+gdc-coref,q41n.0,98068,98329,don_juan,98144,98146,es,es9
+gdc-coref,q41n.0,98068,98329,don_juan,98167,98170,Ihr,graefin
+gdc-coref,q41n.0,98068,98329,don_juan,98171,98183,meiner Bitte,meiner-Bitte-(juan-ggü-gräfin)
+gdc-coref,q41n.0,98068,98329,don_juan,98171,98177,meiner,don_juan
+gdc-coref,q41n.0,98068,98329,don_juan,98196,98199,Ich,don_juan
+gdc-coref,q41n.0,98068,98329,don_juan,98224,98227,ich,don_juan
+gdc-coref,q41n.0,98068,98329,don_juan,98233,98241,Die Welt,Man
+gdc-coref,q41n.0,98068,98329,don_juan,98270,98286,Don Juan Tenorio,don_juan
+gdc-coref,q41n.0,98068,98329,don_juan,98295,98309,zwanzig Jahren,Lange-Jahre
+gdc-coref,q41n.0,98068,98329,don_juan,98310,98319,zur Hölle,zur-Hölle
+gdc-coref,q41n.0,98334,98471,graefin,98384,98387,ich,graefin
+gdc-coref,q41n.0,98334,98471,graefin,98416,98420,Euch,don_juan
+gdc-coref,q41n.0,98334,98471,graefin,98431,98441,den Todten,Die-Todten
+gdc-coref,q41n.0,98334,98471,graefin,98453,98463,Jene Bitte,meiner-Bitte-(juan-ggü-gräfin)
+gdc-coref,q41n.0,98477,98542,don_juan,98513,98525,Eure Tochter,ghita
+gdc-coref,q41n.0,98477,98542,don_juan,98513,98517,Eure,graefin
+gdc-coref,q41n.0,98477,98542,don_juan,98530,98541,meinem Sohn,gianotto
+gdc-coref,q41n.0,98477,98542,don_juan,98530,98536,meinem,don_juan
+gdc-coref,q41n.0,98554,98578,_stage,98554,98558,sich,graefin
+gdc-coref,q41n.0,98547,98647,graefin,98579,98582,Ihr,don_juan
+gdc-coref,q41n.0,98547,98647,graefin,98624,98627,ich,graefin
+gdc-coref,q41n.0,98652,99200,don_juan,98678,98681,Ihr,graefin
+gdc-coref,q41n.0,98652,99200,don_juan,98682,98687,Recht,Recht-(haben)
+gdc-coref,q41n.0,98652,99200,don_juan,98707,98710,ich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98711,98712,s,s4
+gdc-coref,q41n.0,98652,99200,don_juan,98734,98800,ich liebe diesen Sohn und fühle mich verantwortlich für sein Glück,s4
+gdc-coref,q41n.0,98652,99200,don_juan,98734,98737,ich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98744,98755,diesen Sohn,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,98766,98770,mich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98790,98800,sein Glück,sein-Glück-(gianotto)
+gdc-coref,q41n.0,98652,99200,don_juan,98790,98794,sein,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,98802,98805,Ich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98825,98828,ihm,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,98845,98854,sein Herz,sein-Herz-(gianotto)
+gdc-coref,q41n.0,98652,99200,don_juan,98845,98849,sein,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,98855,98858,mir,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98886,98889,ich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98947,98958,dieses Herz,sein-Herz-(gianotto)
+gdc-coref,q41n.0,98652,99200,don_juan,98959,98962,mir,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98987,98990,ich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,98991,99011,dem trotzigen Knaben,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,99017,99038,andere schwache Väter,andere-schwache-Väter
+gdc-coref,q41n.0,98652,99200,don_juan,99043,99063,seinem Herzenswunsch,sein-Glück-(gianotto)
+gdc-coref,q41n.0,98652,99200,don_juan,99043,99049,seinem,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,99085,99091,Gräfin,graefin
+gdc-coref,q41n.0,98652,99200,don_juan,99115,99118,ihm,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,99119,99131,Eure Tochter,ghita
+gdc-coref,q41n.0,98652,99200,don_juan,99119,99123,Eure,graefin
+gdc-coref,q41n.0,98652,99200,don_juan,99141,99144,ihm,gianotto
+gdc-coref,q41n.0,98652,99200,don_juan,99150,99176,"ich, sein leiblicher Vater",don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,99150,99153,ich,don_juan
+gdc-coref,q41n.0,98652,99200,don_juan,99182,99185,ihn,gianotto
+gdc-coref,q41n.0,99205,99321,graefin,99227,99230,ich,graefin
+gdc-coref,q41n.0,99205,99321,graefin,99231,99232,s,"s-(heirat-ghita-gianotto,-die-erfüllung-von-juans-bitte)"
+gdc-coref,q41n.0,99205,99321,graefin,99247,99249,es,"s-(heirat-ghita-gianotto,-die-erfüllung-von-juans-bitte)"
+gdc-coref,q41n.0,99205,99321,graefin,99254,99257,mir,graefin
+gdc-coref,q41n.0,99205,99321,graefin,99264,99267,Ihr,don_juan
+gdc-coref,q41n.0,99205,99321,graefin,99268,99276,den Muth,den-Muth-(juan)
+gdc-coref,q41n.0,99205,99321,graefin,99282,99295,meinem Gatten,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,99205,99321,graefin,99282,99288,meinem,graefin
+gdc-coref,q41n.0,99205,99321,graefin,99296,99308,Eure Werbung,meiner-Bitte-(juan-ggü-gräfin)
+gdc-coref,q41n.0,99205,99321,graefin,99296,99300,Eure,don_juan
+gdc-coref,q41n.0,99326,99737,don_juan,99336,99343,Am Muth,den-Muth-(juan)
+gdc-coref,q41n.0,99326,99737,don_juan,99351,99354,mir,don_juan
+gdc-coref,q41n.0,99326,99737,don_juan,99385,99394,die Sache,"s-(heirat-ghita-gianotto,-die-erfüllung-von-juans-bitte)"
+gdc-coref,q41n.0,99326,99737,don_juan,99402,99405,Ich,don_juan
+gdc-coref,q41n.0,99326,99737,don_juan,99435,99453,diese jungen Leute,ghita-/-gianotto
+gdc-coref,q41n.0,99326,99737,don_juan,99460,99464,mich,don_juan
+gdc-coref,q41n.0,99326,99737,don_juan,99501,99505,mich,don_juan
+gdc-coref,q41n.0,99326,99737,don_juan,99535,99563,was ich für eine Fabel hielt,was-ich-für-eine-Fabel-hielt
+gdc-coref,q41n.0,99326,99737,don_juan,99539,99542,ich,don_juan
+gdc-coref,q41n.0,99326,99737,don_juan,99565,99628,eine völlig erwachsene Leidenschaft in zwei reinen Kinderseelen,was-ich-für-eine-Fabel-hielt
+gdc-coref,q41n.0,99326,99737,don_juan,99565,99600,eine völlig erwachsene Leidenschaft,eine-Leidenschaft-zu-einander-(ghita-gianotto)
+gdc-coref,q41n.0,99326,99737,don_juan,99604,99628,zwei reinen Kinderseelen,deinem-Herzen-(ghita)-/-sein-Herz-(gianotto)
+gdc-coref,q41n.0,99326,99737,don_juan,99630,99632,Es,Es2
+gdc-coref,q41n.0,99326,99737,don_juan,99649,99693,Kinder mit scharfen Waffen spielen zu lassen,Es2
+gdc-coref,q41n.0,99326,99737,don_juan,99649,99655,Kinder,die-Kinder
+gdc-coref,q41n.0,99326,99737,don_juan,99695,99736,Sie möchten sich tödtlich damit verwunden,Das2
+gdc-coref,q41n.0,99326,99737,don_juan,99695,99698,Sie,die-Kinder
+gdc-coref,q41n.0,99326,99737,don_juan,99707,99711,sich,die-Kinder
+gdc-coref,q41n.0,99742,100167,graefin,99750,99753,Das,Das2
+gdc-coref,q41n.0,99742,100167,graefin,99762,99772,der Himmel,barmherziger-Gott
+gdc-coref,q41n.0,99742,100167,graefin,99779,99782,Ihr,don_juan
+gdc-coref,q41n.0,99742,100167,graefin,99783,99788,Recht,Recht-(haben)
+gdc-coref,q41n.0,99742,100167,graefin,99809,99812,Ihr,don_juan
+gdc-coref,q41n.0,99742,100167,graefin,99851,99854,Ihr,don_juan
+gdc-coref,q41n.0,99742,100167,graefin,99871,99888,eine gute Tochter,eine-gute-Tochter
+gdc-coref,q41n.0,99742,100167,graefin,99893,99897,ihre,eine-gute-Tochter
+gdc-coref,q41n.0,99742,100167,graefin,99924,99927,ihr,eine-gute-Tochter
+gdc-coref,q41n.0,99742,100167,graefin,99949,99952,Ich,graefin
+gdc-coref,q41n.0,99742,100167,graefin,99962,99965,ich,graefin
+gdc-coref,q41n.0,99742,100167,graefin,99966,99973,Juanito,gianotto
+gdc-coref,q41n.0,99742,100167,graefin,99978,99994,ein eigenes Kind,die-Kinder
+gdc-coref,q41n.0,99742,100167,graefin,100002,100005,ich,graefin
+gdc-coref,q41n.0,99742,100167,graefin,100012,100014,es,es10
+gdc-coref,q41n.0,99742,100167,graefin,100020,100024,mich,graefin
+gdc-coref,q41n.0,99742,100167,graefin,100035,100127,"dem Sohn des Mannes, der so viel Unheil und Jammer über uns gebracht, meine Tochter zu geben",es10
+gdc-coref,q41n.0,99742,100167,graefin,100035,100103,"dem Sohn des Mannes, der so viel Unheil und Jammer über uns gebracht",gianotto
+gdc-coref,q41n.0,99742,100167,graefin,100044,100103,"des Mannes, der so viel Unheil und Jammer über uns gebracht",don_juan
+gdc-coref,q41n.0,99742,100167,graefin,100056,100059,der,don_juan
+gdc-coref,q41n.0,99742,100167,graefin,100060,100085,so viel Unheil und Jammer,die-Sünde-des-Vaters-(juans-ggü-anna-und-deren-vater)
+gdc-coref,q41n.0,99742,100167,graefin,100105,100118,meine Tochter,ghita
+gdc-coref,q41n.0,99742,100167,graefin,100105,100110,meine,graefin
+gdc-coref,q41n.0,99742,100167,graefin,100134,100145,mein Gemahl,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,99742,100167,graefin,100134,100138,mein,graefin
+gdc-coref,q41n.0,100172,100373,don_juan,100193,100196,ich,don_juan
+gdc-coref,q41n.0,100172,100373,don_juan,100201,100205,Euch,graefin
+gdc-coref,q41n.0,100172,100373,don_juan,100215,100229,die Eine Gunst,die-Eine-Gunst
+gdc-coref,q41n.0,100172,100373,don_juan,100231,100373,"daß Ihr dem Knaben sagt, wer ich bin, ihn ermahnt, des Spruches zu gedenken: du sollst deinen Vater ehren, auf daß es dir wohl gehe auf Erden.",die-Eine-Gunst
+gdc-coref,q41n.0,100172,100373,don_juan,100235,100238,Ihr,graefin
+gdc-coref,q41n.0,100172,100373,don_juan,100239,100249,dem Knaben,gianotto
+gdc-coref,q41n.0,100172,100373,don_juan,100260,100263,ich,don_juan
+gdc-coref,q41n.0,100172,100373,don_juan,100269,100272,ihn,gianotto
+gdc-coref,q41n.0,100172,100373,don_juan,100308,100310,du,Man
+gdc-coref,q41n.0,100172,100373,don_juan,100318,100330,deinen Vater,andere-schwache-Väter
+gdc-coref,q41n.0,100172,100373,don_juan,100318,100324,deinen,Man
+gdc-coref,q41n.0,100172,100373,don_juan,100349,100352,dir,Man
+gdc-coref,q41n.0,100172,100373,don_juan,100367,100372,Erden,die-Welt
+gdc-coref,q41n.0,100378,100458,graefin,100386,100389,Ich,graefin
+gdc-coref,q41n.0,100378,100458,graefin,100391,100394,Ich,graefin
+gdc-coref,q41n.0,100378,100458,graefin,100400,100403,ihm,gianotto
+gdc-coref,q41n.0,100378,100458,graefin,100447,100450,ihm,gianotto
+gdc-coref,q41n.0,100463,100720,don_juan,100511,100533,dieser unwissende Sohn,gianotto
+gdc-coref,q41n.0,100463,100720,don_juan,100549,100561,seinen Degen,seinen---------------Degen
+gdc-coref,q41n.0,100463,100720,don_juan,100549,100555,seinen,gianotto
+gdc-coref,q41n.0,100463,100720,don_juan,100574,100592,des eigenen Vaters,don_juan
+gdc-coref,q41n.0,100463,100720,don_juan,100696,100702,meines,don_juan
+gdc-coref,q41n.0,100759,101030,don_juan,100800,100811,Vaterschaft,Vaterschaft
+gdc-coref,q41n.0,100759,101030,don_juan,100816,100849,"eine Kunst, die gelernt sein will","eine-Kunst,-die-gelernt-sein-will-(prädikativ-vaterschaft)"
+gdc-coref,q41n.0,100759,101030,don_juan,100828,100831,die,"eine-Kunst,-die-gelernt-sein-will-(prädikativ-vaterschaft)"
+gdc-coref,q41n.0,100759,101030,don_juan,100851,100854,Ich,don_juan
+gdc-coref,q41n.0,100759,101030,don_juan,100860,100863,mir,don_juan
+gdc-coref,q41n.0,100759,101030,don_juan,100864,100873,das Spiel,Vaterschaft
+gdc-coref,q41n.0,100759,101030,don_juan,100954,100957,Ihr,graefin
+gdc-coref,q41n.0,100759,101030,don_juan,100965,100968,Ihr,graefin
+gdc-coref,q41n.0,100759,101030,don_juan,100985,100988,ihn,gianotto
+gdc-coref,q41n.0,100759,101030,don_juan,100991,100995,Euch,graefin
+gdc-coref,q41n.0,100759,101030,don_juan,101000,101002,er,gianotto
+gdc-coref,q41n.0,101042,101153,_stage,101048,101064,einen Augenblick,einen-Augenblick
+gdc-coref,q41n.0,101042,101153,_stage,101084,101124,"einer kleinen Glocke, die auf dem Tische","einer-kleinen-Glocke,-die-auf-dem---------------Tische"
+gdc-coref,q41n.0,101042,101153,_stage,101106,101109,die,"einer-kleinen-Glocke,-die-auf-dem---------------Tische"
+gdc-coref,q41n.0,101042,101153,_stage,101114,101124,dem Tische,ein-Tisch
+gdc-coref,q41n.0,101042,101153,_stage,101132,101142,Ein Diener,diener
+gdc-coref,q41n.0,101035,101255,graefin,101162,101169,Martina,martina
+gdc-coref,q41n.0,101035,101255,graefin,101181,101189,ihr Sohn,gianotto
+gdc-coref,q41n.0,101035,101255,graefin,101181,101184,ihr,martina
+gdc-coref,q41n.0,101035,101255,graefin,101220,101223,Ich,graefin
+gdc-coref,q41n.0,101035,101255,graefin,101232,101235,ihn,gianotto
+gdc-coref,q41n.0,101260,101346,diener,101268,101281,Herr Gianotto,gianotto
+gdc-coref,q41n.0,101260,101346,diener,101312,101315,Ich,diener
+gdc-coref,q41n.0,101260,101346,diener,101324,101326,er,gianotto
+gdc-coref,q41n.0,101260,101346,diener,101335,101345,Ew. Gnaden,graefin
+gdc-coref,q41n.0,101351,101612,graefin,101371,101377,Diener,diener
+gdc-coref,q41n.0,101351,101612,graefin,101389,101405,einen Augenblick,einen-Augenblick
+gdc-coref,q41n.0,101351,101612,graefin,101439,101442,Ihr,don_juan
+gdc-coref,q41n.0,101351,101612,graefin,101472,101475,ich,graefin
+gdc-coref,q41n.0,101351,101612,graefin,101481,101484,ihm,gianotto
+gdc-coref,q41n.0,101351,101612,graefin,101505,101507,es,es11
+gdc-coref,q41n.0,101351,101612,graefin,101508,101512,Euch,don_juan
+gdc-coref,q41n.0,101351,101612,graefin,101536,101539,Ihr,don_juan
+gdc-coref,q41n.0,101351,101612,graefin,101540,101552,hervortreten,es11
+gdc-coref,q41n.0,101555,101612,_stage,101555,101563,Don Juan,don_juan
+gdc-coref,q41n.0,101555,101612,_stage,101573,101577,sich,don_juan
+gdc-coref,q41n.0,101555,101612,_stage,101587,101590,ihr,graefin
+gdc-coref,q41n.0,101633,101676,_stage,101633,101639,Gräfin,graefin
+gdc-coref,q41n.0,101633,101676,_stage,101641,101649,Gianotto,gianotto
+gdc-coref,q41n.0,101633,101676,_stage,101662,101671,die Mitte,die-Mittelthür
+gdc-coref,q41n.0,101685,101765,_stage,101690,101693,ihm,gianotto
+gdc-coref,q41n.0,101685,101765,_stage,101711,101714,ihm,gianotto
+gdc-coref,q41n.0,101685,101765,_stage,101715,101764,"die Hand, die er ehrerbietig an die Lippen drückt",ihre-Hand-(gräfin)
+gdc-coref,q41n.0,101685,101765,_stage,101725,101728,die,ihre-Hand-(gräfin)
+gdc-coref,q41n.0,101685,101765,_stage,101729,101731,er,gianotto
+gdc-coref,q41n.0,101685,101765,_stage,101747,101757,die Lippen,die-Lippen-(gianotto)
+gdc-coref,q41n.0,101678,101993,graefin,101766,101781,Lieber Gianotto,gianotto
+gdc-coref,q41n.0,101678,101993,graefin,101815,101818,ich,graefin
+gdc-coref,q41n.0,101678,101993,graefin,101841,101847,Neapel,Neapel
+gdc-coref,q41n.0,101678,101993,graefin,101849,101853,dich,gianotto
+gdc-coref,q41n.0,101678,101993,graefin,101884,101887,ihn,gianotto
+gdc-coref,q41n.0,101678,101993,graefin,101924,101928,dich,gianotto
+gdc-coref,q41n.0,101678,101993,graefin,101950,101955,deine,gianotto
+gdc-coref,q41n.0,101678,101993,graefin,101975,101984,dein Auge,dein-Auge-(gianotto)
+gdc-coref,q41n.0,101678,101993,graefin,101975,101979,dein,gianotto
+gdc-coref,q41n.0,101998,102070,gianotto,102008,102070,"Theure – verehrte Frau, – meine edle, erlauchte Wohlthäterin –",graefin
+gdc-coref,q41n.0,101998,102070,gianotto,102034,102039,meine,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102083,102091,Gianotto,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102094,102097,ich,graefin
+gdc-coref,q41n.0,102075,102382,graefin,102106,102110,dich,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102134,102147,freien Blicks,dein-Auge-(gianotto)
+gdc-coref,q41n.0,102075,102382,graefin,102153,102167,das volle Herz,sein-Herz-(gianotto)
+gdc-coref,q41n.0,102075,102382,graefin,102172,102182,den Lippen,die-Lippen-(gianotto)
+gdc-coref,q41n.0,102075,102382,graefin,102183,102204,deiner alten Freundin,graefin
+gdc-coref,q41n.0,102075,102382,graefin,102183,102189,deiner,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102236,102245,dein Auge,dein-Auge-(gianotto)
+gdc-coref,q41n.0,102075,102382,graefin,102236,102240,dein,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102251,102259,am Boden,der-Boden
+gdc-coref,q41n.0,102075,102382,graefin,102261,102270,dein Mund,die-Lippen-(gianotto)
+gdc-coref,q41n.0,102075,102382,graefin,102261,102265,dein,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102279,102297,"wirre, blöde Worte",graefin
+gdc-coref,q41n.0,102075,102382,graefin,102306,102314,Gianotto,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102341,102354,zurückgekehrt,s5
+gdc-coref,q41n.0,102075,102382,graefin,102356,102370,unser Gianotto,gianotto
+gdc-coref,q41n.0,102075,102382,graefin,102356,102361,unser,unser-(wohl-die-menschen-die-gianotto-gut-kennen)
+gdc-coref,q41n.0,102396,102435,_stage,102407,102410,ihr,graefin
+gdc-coref,q41n.0,102396,102435,_stage,102424,102428,ihre,graefin
+gdc-coref,q41n.0,102387,102649,gianotto,102436,102479,"O Mutter, meine geliebte gütige Mutter, Ihr",graefin
+gdc-coref,q41n.0,102387,102649,gianotto,102446,102451,meine,gianotto
+gdc-coref,q41n.0,102387,102649,gianotto,102485,102490,Recht,Recht-(haben)
+gdc-coref,q41n.0,102387,102649,gianotto,102492,102494,er,gianotto
+gdc-coref,q41n.0,102387,102649,gianotto,102499,102500,s,s5
+gdc-coref,q41n.0,102387,102649,gianotto,102514,102527,Euer Gianotto,Euer---------------Gianotto
+gdc-coref,q41n.0,102387,102649,gianotto,102514,102518,Euer,unser-(wohl-die-menschen-die-gianotto-gut-kennen)
+gdc-coref,q41n.0,102387,102649,gianotto,102556,102558,er,Euer---------------Gianotto
+gdc-coref,q41n.0,102387,102649,gianotto,102559,102560,s,s5
+gdc-coref,q41n.0,102387,102649,gianotto,102594,102597,ihn,gianotto
+gdc-coref,q41n.0,102387,102649,gianotto,102611,102614,ihm,gianotto
+gdc-coref,q41n.0,102387,102649,gianotto,102644,102648,Euch,graefin
+gdc-coref,q41n.0,102654,102717,graefin,102672,102681,mein Kind,gianotto
+gdc-coref,q41n.0,102654,102717,graefin,102672,102676,mein,graefin
+gdc-coref,q41n.0,102654,102717,graefin,102688,102691,mir,graefin
+gdc-coref,q41n.0,102654,102717,graefin,102697,102701,dich,gianotto
+gdc-coref,q41n.0,102722,102875,gianotto,102744,102750,Mutter,graefin
+gdc-coref,q41n.0,102722,102875,gianotto,102753,102758,Euren,graefin
+gdc-coref,q41n.0,102722,102875,gianotto,102780,102784,mich,gianotto
+gdc-coref,q41n.0,102722,102875,gianotto,102794,102804,die Fremde,die-Welt
+gdc-coref,q41n.0,102722,102875,gianotto,102809,102812,mir,gianotto
+gdc-coref,q41n.0,102722,102875,gianotto,102813,102814,s,s6
+gdc-coref,q41n.0,102722,102875,gianotto,102835,102874,wieder heimisch zu werden in mir selbst,s6
+gdc-coref,q41n.0,102722,102875,gianotto,102864,102867,mir,gianotto
+gdc-coref,q41n.0,102881,103122,graefin,102895,102897,Du,gianotto
+gdc-coref,q41n.0,102881,103122,graefin,102948,102952,Kind,gianotto
+gdc-coref,q41n.0,102881,103122,graefin,103014,103050,"Alle, die du liebst, die dich lieben",unser-(wohl-die-menschen-die-gianotto-gut-kennen)
+gdc-coref,q41n.0,102881,103122,graefin,103020,103023,die,unser-(wohl-die-menschen-die-gianotto-gut-kennen)
+gdc-coref,q41n.0,102881,103122,graefin,103024,103026,du,gianotto
+gdc-coref,q41n.0,102881,103122,graefin,103035,103038,die,unser-(wohl-die-menschen-die-gianotto-gut-kennen)
+gdc-coref,q41n.0,102881,103122,graefin,103039,103043,dich,gianotto
+gdc-coref,q41n.0,102881,103122,graefin,103052,103055,Ich,graefin
+gdc-coref,q41n.0,102881,103122,graefin,103060,103071,mein Gemahl,Dein-Vater-(ghitas)
+gdc-coref,q41n.0,102881,103122,graefin,103060,103064,mein,graefin
+gdc-coref,q41n.0,102881,103122,graefin,103073,103090,die treue Martina,martina
+gdc-coref,q41n.0,102881,103122,graefin,103092,103120,"Ghita, deine Jugendgespielin",ghita
+gdc-coref,q41n.0,102881,103122,graefin,103099,103104,deine,gianotto
+gdc-coref,q41n.0,103136,103167,_stage,103159,103163,sich,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103168,103181,O Frau Mutter,graefin
+gdc-coref,q41n.0,103127,103718,gianotto,103189,103193,mich,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103224,103227,ich,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103243,103290,einem Herzen – so offen wie der Himmel über mir,sein-Herz-(gianotto)
+gdc-coref,q41n.0,103127,103718,gianotto,103287,103290,mir,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103304,103315,meine Brust,sein-Herz-(gianotto)
+gdc-coref,q41n.0,103127,103718,gianotto,103304,103309,meine,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103399,103402,Ich,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103420,103440,unter Tagesgeschöpfe,Man
+gdc-coref,q41n.0,103127,103718,gianotto,103442,103445,Ihr,graefin
+gdc-coref,q41n.0,103127,103718,gianotto,103453,103457,mich,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103478,103550,"ich verlasse Euch – meine gütige Mutter, die mir stets nur Liebes gethan",deinen-Entschluß
+gdc-coref,q41n.0,103127,103718,gianotto,103478,103481,ich,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103491,103495,Euch,graefin
+gdc-coref,q41n.0,103127,103718,gianotto,103498,103503,meine,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103519,103522,die,graefin
+gdc-coref,q41n.0,103127,103718,gianotto,103523,103526,mir,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103537,103543,Liebes,Liebes
+gdc-coref,q41n.0,103127,103718,gianotto,103570,103593,meinem unseligen Herzen,sein-Herz-(gianotto)
+gdc-coref,q41n.0,103127,103718,gianotto,103570,103576,meinem,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103613,103616,mir,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103629,103632,der,gianotto
+gdc-coref,q41n.0,103127,103718,gianotto,103642,103646,Euer,graefin
+gdc-coref,q41n.0,103127,103718,gianotto,103670,103674,Gott,barmherziger-Gott
+gdc-coref,q41n.0,103127,103718,gianotto,103681,103685,Eure,graefin
+gdc-coref,q41n.0,103693,103718,_stage,103700,103704,sich,gianotto
+gdc-coref,q41n.0,103729,103793,_stage,103729,103732,die,graefin
+gdc-coref,q41n.0,103729,103793,_stage,103736,103748,einen Sessel,am-Sessel
+gdc-coref,q41n.0,103729,103793,_stage,103775,103779,sich,graefin
+gdc-coref,q41n.0,103722,103825,graefin,103799,103804,Ghita,ghita
+gdc-coref,q41n.0,103722,103825,graefin,103808,103824,deinen Entschluß,deinen-Entschluß
+gdc-coref,q41n.0,103722,103825,graefin,103808,103814,deinen,gianotto
+gdc-coref,q41n.0,103830,104000,gianotto,103855,103860,Ghita,ghita
+gdc-coref,q41n.0,103830,104000,gianotto,103869,103873,sich,gianotto
+gdc-coref,q41n.0,103830,104000,gianotto,103881,103895,Die Contessina,ghita
+gdc-coref,q41n.0,103830,104000,gianotto,103901,103904,ihn,deinen-Entschluß
+gdc-coref,q41n.0,103830,104000,gianotto,103921,103924,Ich,gianotto
+gdc-coref,q41n.0,103830,104000,gianotto,103930,103933,ihr,ghita
+gdc-coref,q41n.0,103830,104000,gianotto,103955,103958,Wir,ghita-/-gianotto
+gdc-coref,q41n.0,103830,104000,gianotto,103964,103972,einander,ghita-/-gianotto
+gdc-coref,q41n.0,104005,104025,graefin,104013,104024,Ueber Nacht,die-Nacht
+gdc-coref,q41n.0,104030,104209,gianotto,104080,104083,Ich,gianotto
+gdc-coref,q41n.0,104030,104209,gianotto,104089,104093,Euch,graefin
+gdc-coref,q41n.0,104030,104209,gianotto,104107,104112,meine,gianotto
+gdc-coref,q41n.0,104030,104209,gianotto,104137,104173,"den Grafen, meinen erlauchten Gönner",Dein-Vater-(ghitas)
+gdc-coref,q41n.0,104030,104209,gianotto,104149,104155,meinen,gianotto
+gdc-coref,q41n.0,104030,104209,gianotto,104197,104201,sich,gianotto
+gdc-coref,q41n.0,104221,104230,_stage,104225,104229,sich,graefin
+gdc-coref,q41n.0,104214,104588,graefin,104258,104283,seine verschlossene Brust,sein-Herz-(gianotto)
+gdc-coref,q41n.0,104214,104588,graefin,104301,104309,Gianotto,gianotto
+gdc-coref,q41n.0,104214,104588,graefin,104380,104383,ich,graefin
+gdc-coref,q41n.0,104214,104588,graefin,104384,104386,es,es12
+gdc-coref,q41n.0,104214,104588,graefin,104387,104390,dir,gianotto
+gdc-coref,q41n.0,104214,104588,graefin,104401,104490,"dir  noch ein Geheimniß zu enthüllen, das ich nur dem Mündiggewordenen anvertrauen durfte",es12
+gdc-coref,q41n.0,104214,104588,graefin,104401,104404,dir,gianotto
+gdc-coref,q41n.0,104214,104588,graefin,104411,104424,ein Geheimniß,ein-Geheimniß
+gdc-coref,q41n.0,104214,104588,graefin,104439,104442,das,ein-Geheimniß
+gdc-coref,q41n.0,104214,104588,graefin,104443,104446,ich,graefin
+gdc-coref,q41n.0,104214,104588,graefin,104451,104471,dem Mündiggewordenen,gianotto
+gdc-coref,q41n.0,104214,104588,graefin,104492,104507,Lieber Gianotto,gianotto
+gdc-coref,q41n.0,104214,104588,graefin,104509,104562,"die Frau, die dich auferzogen hat, unsre gute Martina",martina
+gdc-coref,q41n.0,104214,104588,graefin,104519,104522,die,martina
+gdc-coref,q41n.0,104214,104588,graefin,104523,104527,dich,gianotto
+gdc-coref,q41n.0,104593,104626,gianotto,104612,104615,ich,gianotto
+gdc-coref,q41n.0,104593,104626,gianotto,104617,104624,Martina,martina
+gdc-coref,q41n.0,104631,104806,graefin,104643,104647,dich,gianotto
+gdc-coref,q41n.0,104631,104806,graefin,104663,104675,Deine Mutter,"seiner---------------geliebten,-unglücklichen-Mutter-(gianottos-mutter-anna)"
+gdc-coref,q41n.0,104631,104806,graefin,104663,104668,Deine,gianotto
+gdc-coref,q41n.0,104631,104806,graefin,104699,104712,langen Jahren,Lange-Jahre
+gdc-coref,q41n.0,104631,104806,graefin,104714,104717,Sie,"seiner---------------geliebten,-unglücklichen-Mutter-(gianottos-mutter-anna)"
+gdc-coref,q41n.0,104631,104806,graefin,104734,104736,du,gianotto
+gdc-coref,q41n.0,104631,104806,graefin,104772,104806,Dein Vater aber – dein Vater lebt.,dieses-Wort
+gdc-coref,q41n.0,104631,104806,graefin,104772,104782,Dein Vater,don_juan
+gdc-coref,q41n.0,104631,104806,graefin,104772,104776,Dein,gianotto
+gdc-coref,q41n.0,104631,104806,graefin,104790,104800,dein Vater,don_juan
+gdc-coref,q41n.0,104631,104806,graefin,104790,104794,dein,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,104821,104827,O Gott,barmherziger-Gott
+gdc-coref,q41n.0,104811,105450,gianotto,104830,104862,"o meine theure, einzige Freundin",graefin
+gdc-coref,q41n.0,104811,105450,gianotto,104832,104837,meine,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,104869,104871,es,es13
+gdc-coref,q41n.0,104811,105450,gianotto,104878,105062,"Mein Vater – ich habe einen Vater – er lebt – ein Mensch lebt, den ich lieben darf, der vielleicht auch mich lieben wird, nachdem ich meine Mutter verloren – und Euch und Alles, Alles?",es13
+gdc-coref,q41n.0,104811,105450,gianotto,104878,104888,Mein Vater,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,104878,104882,Mein,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,104891,104894,ich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,104900,104911,einen Vater,andere-schwache-Väter
+gdc-coref,q41n.0,104811,105450,gianotto,104914,104916,er,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,104924,104934,ein Mensch,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,104941,104944,den,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,104945,104948,ich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,104962,104965,der,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,104982,104986,mich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105008,105011,ich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105012,105024,meine Mutter,"seiner---------------geliebten,-unglücklichen-Mutter-(gianottos-mutter-anna)"
+gdc-coref,q41n.0,104811,105450,gianotto,105012,105017,meine,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105040,105044,Euch,graefin
+gdc-coref,q41n.0,104811,105450,gianotto,105049,105061,"Alles, Alles",sein-Glück-(gianotto)
+gdc-coref,q41n.0,104811,105450,gianotto,105073,105076,Ihr,graefin
+gdc-coref,q41n.0,104811,105450,gianotto,105077,105080,mir,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105098,105101,ich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105109,105134,überschwängliche Wohlthat,Liebes
+gdc-coref,q41n.0,104811,105450,gianotto,105138,105141,mir,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105179,105190,dieses Wort,dieses-Wort
+gdc-coref,q41n.0,104811,105450,gianotto,105207,105216,ihre Hand,ihre-Hand-(gräfin)
+gdc-coref,q41n.0,104811,105450,gianotto,105207,105211,ihre,graefin
+gdc-coref,q41n.0,104811,105450,gianotto,105237,105246,Euer Werk,ein-Geheimniß
+gdc-coref,q41n.0,104811,105450,gianotto,105237,105241,Euer,graefin
+gdc-coref,q41n.0,104811,105450,gianotto,105254,105257,mir,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105262,105264,er,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,105273,105276,ich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105277,105280,ihn,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,105300,105303,ich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105333,105336,ihn,don_juan
+gdc-coref,q41n.0,104811,105450,gianotto,105358,105362,mich,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105377,105380,Ihr,graefin
+gdc-coref,q41n.0,104811,105450,gianotto,105386,105391,meine,gianotto
+gdc-coref,q41n.0,104811,105450,gianotto,105414,105417,ich,gianotto
+gdc-coref,q41n.0,105455,105592,graefin,105479,105491,dieser Vater,don_juan
+gdc-coref,q41n.0,105455,105592,graefin,105492,105516,den Weg zu deinem Herzen,den-Weg-zu-deinem-Herzen
+gdc-coref,q41n.0,105455,105592,graefin,105503,105516,deinem Herzen,sein-Herz-(gianotto)
+gdc-coref,q41n.0,105455,105592,graefin,105503,105509,deinem,gianotto
+gdc-coref,q41n.0,105455,105592,graefin,105548,105551,den,den-Weg-zu-deinem-Herzen
+gdc-coref,q41n.0,105455,105592,graefin,105552,105554,er,don_juan
+gdc-coref,q41n.0,105455,105592,graefin,105555,105568,zwanzig Jahre,Lange-Jahre
+gdc-coref,q41n.0,105597,106176,gianotto,105618,105620,er,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,105621,105624,ihn,den-Weg-zu-deinem-Herzen
+gdc-coref,q41n.0,105597,106176,gianotto,105644,105647,ich,gianotto
+gdc-coref,q41n.0,105597,106176,gianotto,105648,105693,"ihm entgegengehe, den halben Weg – den ganzen",es14
+gdc-coref,q41n.0,105597,106176,gianotto,105648,105651,ihm,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,105683,105693,den ganzen,den-Weg-zu-deinem-Herzen
+gdc-coref,q41n.0,105597,106176,gianotto,105700,105702,es,es14
+gdc-coref,q41n.0,105597,106176,gianotto,105718,105721,ich,gianotto
+gdc-coref,q41n.0,105597,106176,gianotto,105750,105755,Liebe,Liebe
+gdc-coref,q41n.0,105597,106176,gianotto,105757,105760,ich,gianotto
+gdc-coref,q41n.0,105597,106176,gianotto,105766,105768,es,es15
+gdc-coref,q41n.0,105597,106176,gianotto,105777,105794,vorlieb zu nehmen,es15
+gdc-coref,q41n.0,105597,106176,gianotto,105796,105805,Ein Vater,andere-schwache-Väter
+gdc-coref,q41n.0,105597,106176,gianotto,105808,105811,der,andere-schwache-Väter
+gdc-coref,q41n.0,105597,106176,gianotto,105817,105820,uns,die-Kinder
+gdc-coref,q41n.0,105597,106176,gianotto,105862,105865,wir,die-Kinder
+gdc-coref,q41n.0,105597,106176,gianotto,105866,105869,ihn,andere-schwache-Väter
+gdc-coref,q41n.0,105597,106176,gianotto,105880,105886,unsere,die-Kinder
+gdc-coref,q41n.0,105597,106176,gianotto,105936,105938,es,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,105966,105980,aller Menschen,Man
+gdc-coref,q41n.0,105597,106176,gianotto,106003,106064,"ein Fischer, der Nichts besitzt, als seinen Kahn und das Meer","ein-Fischer,-der---------------Nichts-besitzt,-als-seinen-Kahn-und-das-Meer-(prädikativ-juan)"
+gdc-coref,q41n.0,105597,106176,gianotto,106016,106019,der,"ein-Fischer,-der---------------Nichts-besitzt,-als-seinen-Kahn-und-das-Meer-(prädikativ-juan)"
+gdc-coref,q41n.0,105597,106176,gianotto,106040,106046,seinen,"ein-Fischer,-der---------------Nichts-besitzt,-als-seinen-Kahn-und-das-Meer-(prädikativ-juan)"
+gdc-coref,q41n.0,105597,106176,gianotto,106067,106070,ich,gianotto
+gdc-coref,q41n.0,105597,106176,gianotto,106076,106079,ihm,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,106098,106103,seine,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,106132,106137,Vater,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,106139,106142,ich,gianotto
+gdc-coref,q41n.0,105597,106176,gianotto,106147,106151,dein,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,106162,106164,du,don_juan
+gdc-coref,q41n.0,105597,106176,gianotto,106165,106175,mein Vater,mein-Vater-(prädikativ-juan)
+gdc-coref,q41n.0,105597,106176,gianotto,106165,106169,mein,gianotto
+gdc-coref,q41n.0,106200,106247,_stage,106208,106216,Don Juan,don_juan
+gdc-coref,q41n.0,106258,106302,_stage,106267,106270,ihn,don_juan
+gdc-coref,q41n.0,106249,106388,gianotto,106316,106319,das,don_juan
+gdc-coref,q41n.0,106249,106388,gianotto,106321,106341,Geister des Abgrunds,don_juan
+gdc-coref,q41n.0,106249,106388,gianotto,106355,106358,ihr,graefin
+gdc-coref,q41n.0,106249,106388,gianotto,106364,106367,mir,gianotto
+gdc-coref,q41n.0,106400,106438,_stage,106406,106409,ihm,gianotto
+gdc-coref,q41n.0,106400,106438,_stage,106427,106432,seine,gianotto
+gdc-coref,q41n.0,106393,106544,graefin,106439,106447,Gianotto,gianotto
+gdc-coref,q41n.0,106393,106544,graefin,106456,106460,dich,gianotto
+gdc-coref,q41n.0,106393,106544,graefin,106477,106481,dich,gianotto
+gdc-coref,q41n.0,106393,106544,graefin,106483,106496,Dieser Fremde,don_juan
+gdc-coref,q41n.0,106393,106544,graefin,106504,106507,ihn,don_juan
+gdc-coref,q41n.0,106393,106544,graefin,106512,106530,freundlichen Augen,dein-Auge-(gianotto)
+gdc-coref,q41n.0,106393,106544,graefin,106536,106538,er,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106576,106578,Er,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106580,106583,Der,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106588,106594,Dieser,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106617,106620,Der,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106653,106662,die Hölle,zur-Hölle
+gdc-coref,q41n.0,106549,106802,gianotto,106673,106702,einer schuldlosen armen Seele,einer-schuldlosen-armen-Seele
+gdc-coref,q41n.0,106549,106802,gianotto,106704,106706,Er,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106726,106732,Gräfin,graefin
+gdc-coref,q41n.0,106549,106802,gianotto,106738,106743,Eurem,graefin
+gdc-coref,q41n.0,106549,106802,gianotto,106761,106774,das eine Wort,das-eine-Wort
+gdc-coref,q41n.0,106549,106802,gianotto,106776,106785,er nicht!,das-eine-Wort
+gdc-coref,q41n.0,106549,106802,gianotto,106776,106778,er,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106786,106788,Er,don_juan
+gdc-coref,q41n.0,106549,106802,gianotto,106793,106795,es,mein-Vater-(prädikativ-juan)
+gdc-coref,q41n.0,106807,106840,graefin,106815,106817,Er,don_juan
+gdc-coref,q41n.0,106807,106840,graefin,106822,106823,s,mein-Vater-(prädikativ-juan)
+gdc-coref,q41n.0,106807,106840,graefin,106829,106839,dein Vater,mein-Vater-(prädikativ-juan)
+gdc-coref,q41n.0,106807,106840,graefin,106829,106833,dein,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,106891,106893,Er,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,106898,106899,s,mein-Vater-(prädikativ-juan)
+gdc-coref,q41n.0,106845,107658,gianotto,106915,106924,ein Vater,andere-schwache-Väter
+gdc-coref,q41n.0,106845,107658,gianotto,106939,106941,er,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,106951,106953,er,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,106954,106966,zwanzig Jahr,Lange-Jahre
+gdc-coref,q41n.0,106845,107658,gianotto,106967,106985,seinen lieben Sohn,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,106967,106973,seinen,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107037,107040,ihn,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107047,107055,Don Juan,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107074,107083,Ungeheuer,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107093,107095,du,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107096,107106,die Lippen,die-Lippen-(juan)
+gdc-coref,q41n.0,106845,107658,gianotto,107139,107159,den trotzigen Knaben,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107174,107177,Ich,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107183,107186,dir,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107199,107212,schnöde Larve,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107214,107217,Ich,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107224,107235,"dich, Dämon",don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107256,107258,du,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107265,107279,arglose Seelen,einer-schuldlosen-armen-Seele
+gdc-coref,q41n.0,106845,107658,gianotto,107299,107302,sie,einer-schuldlosen-armen-Seele
+gdc-coref,q41n.0,106845,107658,gianotto,107330,107339,der Hölle,zur-Hölle
+gdc-coref,q41n.0,106845,107658,gianotto,107354,107360,deiner,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107381,107407,dieser edelsten der Frauen,graefin
+gdc-coref,q41n.0,106845,107658,gianotto,107413,107416,ich,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107417,107425,das Blut,das-Blut
+gdc-coref,q41n.0,106845,107658,gianotto,107429,107432,mir,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107434,107437,das,das-Blut
+gdc-coref,q41n.0,106845,107658,gianotto,107476,107513,beim Gott der Rache und Gerechtigkeit,barmherziger-Gott
+gdc-coref,q41n.0,106845,107658,gianotto,107527,107530,ich,gianotto
+gdc-coref,q41n.0,106845,107658,gianotto,107531,107537,deines,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107565,107582,dem blanken Stahl,seinen---------------Degen
+gdc-coref,q41n.0,106845,107658,gianotto,107620,107623,dir,don_juan
+gdc-coref,q41n.0,106845,107658,gianotto,107640,107644,mich,gianotto
+gdc-coref,q41n.0,107663,107714,don_juan,107690,107699,Mein Sohn,gianotto
+gdc-coref,q41n.0,107663,107714,don_juan,107690,107694,Mein,don_juan
+gdc-coref,q41n.0,107663,107714,don_juan,107708,107712,mich,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,107785,107795,Höllenspuk,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,107803,107807,mich,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,107828,107841,deines Mundes,die-Lippen-(juan)
+gdc-coref,q41n.0,107720,108212,gianotto,107828,107834,deines,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,107848,107857,mein Blut,das-Blut
+gdc-coref,q41n.0,107720,108212,gianotto,107848,107852,mein,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,107875,107877,du,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,107878,107945,"der Bettler, dem die Hunde vor des Reichen Thür die Schwären lecken","der-Bettler,-dem-die-Hunde-vor-des-Reichen-Thür-die-Schwären---------------lecken-(prädikativ-juan)"
+gdc-coref,q41n.0,107720,108212,gianotto,107891,107894,dem,"der-Bettler,-dem-die-Hunde-vor-des-Reichen-Thür-die-Schwären---------------lecken-(prädikativ-juan)"
+gdc-coref,q41n.0,107720,108212,gianotto,107947,107950,ich,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,107957,107961,mich,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,107965,107968,dir,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,107980,107985,deine,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,107996,108002,meinen,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,108020,108024,Dich,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,108035,108037,du,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,108038,108041,Der,s-(prädikativ-juan-als-er-selbst)
+gdc-coref,q41n.0,107720,108212,gianotto,108052,108055,den,s-(prädikativ-juan-als-er-selbst)
+gdc-coref,q41n.0,107720,108212,gianotto,108056,108059,ich,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,108060,108064,dich,s-(prädikativ-juan-als-er-selbst)
+gdc-coref,q41n.0,107720,108212,gianotto,108075,108079,dich,don_juan
+gdc-coref,q41n.0,107720,108212,gianotto,108087,108107,zu ewiger Verdammniß,zu-ewiger-Verdammniß
+gdc-coref,q41n.0,107720,108212,gianotto,108108,108118,mein Fluch,mein-Fluch
+gdc-coref,q41n.0,107720,108212,gianotto,108108,108112,mein,gianotto
+gdc-coref,q41n.0,107720,108212,gianotto,108125,108137,diesen Fluch,mein-Fluch
+gdc-coref,q41n.0,107720,108212,gianotto,108145,108148,ihn,mein-Fluch
+gdc-coref,q41n.0,107720,108212,gianotto,108150,108170,allgerechte Gottheit,barmherziger-Gott
+gdc-coref,q41n.0,107720,108212,gianotto,108188,108190,es,zu-ewiger-Verdammniß
+gdc-coref,q41n.0,108224,108261,_stage,108246,108249,ihm,gianotto
+gdc-coref,q41n.0,108217,108317,graefin,108262,108270,Gianotto,gianotto
+gdc-coref,q41n.0,108217,108317,graefin,108281,108283,du,gianotto
+gdc-coref,q41n.0,108217,108317,graefin,108292,108300,Gianotto,gianotto
+gdc-coref,q41n.0,108524,108777,leporello,108548,108552,mein,leporello
+gdc-coref,q41n.0,108524,108777,leporello,108566,108569,Ich,leporello
+gdc-coref,q41n.0,108524,108777,leporello,108647,108650,ich,leporello
+gdc-coref,q41n.0,109778,109955,leporello,109789,109793,Mein,leporello
+gdc-coref,q41n.0,109960,110080,don_juan,109994,109997,Ich,don_juan
+gdc-coref,q41n.0,109960,110080,don_juan,110004,110008,mich,don_juan
+gdc-coref,q41n.0,110085,110222,leporello,110147,110151,mein,leporello
+gdc-coref,q41n.0,110085,110222,leporello,110180,110184,mich,leporello
+gdc-coref,q41n.0,110259,110527,leporello,110405,110408,ich,leporello
+gdc-coref,q41n.0,110259,110527,leporello,110409,110413,mich,leporello
+gdc-coref,q41n.0,110259,110527,leporello,110515,110519,mich,leporello
+gdc-coref,q41n.0,110597,110643,leporello,110638,110642,mich,leporello
+gdc-coref,q41n.0,110709,110841,leporello,110720,110723,Ich,leporello
+gdc-coref,q41n.0,110709,110841,leporello,110738,110741,ich,leporello
+gdc-coref,q41n.0,110865,112656,don_juan,110961,110965,mich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,110980,110983,ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111086,111090,mich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111160,111163,ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111232,111236,mich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111377,111380,Ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111393,111396,ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111417,111420,ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111464,111467,Ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111512,111515,mir,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111646,111649,ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111691,111694,mir,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111714,111717,mir,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111759,111763,mein,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,111768,111772,mich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,112121,112124,Ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,112200,112204,mich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,112220,112224,mich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,112325,112328,ich,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,112374,112377,mir,don_juan
+gdc-coref,q41n.0,110865,112656,don_juan,112409,112413,mein,don_juan
+gdc-coref,q41n.0,112716,113014,don_juan,112730,112734,mein,don_juan
+gdc-coref,q41n.0,112716,113014,don_juan,112816,112819,ich,don_juan
+gdc-coref,q41n.0,113018,113107,don_juan,113042,113045,mir,don_juan
+gdc-coref,q41n.0,113178,113294,don_juan,113197,113200,ich,don_juan
+gdc-coref,q41n.0,113178,113294,don_juan,113214,113217,ich,don_juan
+gdc-coref,q41n.0,113329,113691,don_juan,113339,113342,Ich,don_juan
+gdc-coref,q41n.0,113329,113691,don_juan,113423,113426,ich,don_juan
+gdc-coref,q41n.0,113329,113691,don_juan,113478,113481,mir,don_juan
+gdc-coref,q41n.0,113329,113691,don_juan,113492,113495,ich,don_juan
+gdc-coref,q41n.0,113329,113691,don_juan,113550,113554,mich,don_juan
+gdc-coref,q41n.0,113696,113731,der_moench,113707,113710,Ich,der_moench
+gdc-coref,q41n.0,113736,114352,don_juan,113849,113852,Ich,don_juan
+gdc-coref,q41n.0,113736,114352,don_juan,113870,113873,ich,don_juan
+gdc-coref,q41n.0,113736,114352,don_juan,113964,113969,meine,don_juan
+gdc-coref,q41n.0,114946,115164,don_juan,115016,115019,Ich,don_juan
+gdc-coref,q41n.0,114946,115164,don_juan,115032,115035,ich,don_juan
+gdc-coref,q41n.0,114946,115164,don_juan,115047,115050,ich,don_juan
+gdc-coref,q41n.0,115274,115345,don_juan,115335,115339,Mein,don_juan
+gdc-coref,q41n.0,115350,115508,gianotto,115417,115421,mich,gianotto
+gdc-coref,q41n.0,115350,115508,gianotto,115440,115443,Ich,gianotto
+gdc-coref,q41n.0,115350,115508,gianotto,115460,115464,mich,gianotto
+gdc-coref,q41n.0,115350,115508,gianotto,115481,115484,Ich,gianotto
+gdc-coref,q41n.0,115514,115901,don_juan,115883,115886,ich,don_juan
+gdc-coref,q41n.0,115906,116073,gianotto,115922,115925,Ich,gianotto
+gdc-coref,q41n.0,115906,116073,gianotto,115966,115969,ich,gianotto
+gdc-coref,q41n.0,116078,116315,don_juan,116187,116190,ich,don_juan
+gdc-coref,q41n.0,116320,116688,gianotto,116446,116449,mir,gianotto
+gdc-coref,q41n.0,116320,116688,gianotto,116499,116502,ich,gianotto
+gdc-coref,q41n.0,116320,116688,gianotto,116657,116660,ich,gianotto
+gdc-coref,q41n.0,116693,116888,don_juan,116729,116733,mein,don_juan
+gdc-coref,q41n.0,116693,116888,don_juan,116832,116835,ich,don_juan
+gdc-coref,q41n.0,117104,117580,don_juan,117252,117256,mich,don_juan
+gdc-coref,q41n.0,117104,117580,don_juan,117375,117378,Ich,don_juan
+gdc-coref,q41n.0,117104,117580,don_juan,117528,117531,mir,don_juan
+gdc-coref,q41n.0,117585,117685,gianotto,117623,117627,mich,gianotto
+gdc-coref,q41n.0,117690,118255,don_juan,117722,117725,ich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,117786,117789,Ich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,117807,117813,meinem,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,117829,117832,ich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,117851,117854,Ich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,117947,117951,mich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,117992,117996,mich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,118127,118130,ich,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,118182,118185,mir,don_juan
+gdc-coref,q41n.0,117690,118255,don_juan,118190,118196,meinem,don_juan
+gdc-coref,q41n.0,118358,118618,gianotto,118466,118469,Ich,gianotto
+gdc-coref,q41n.0,118623,118894,don_juan,118820,118826,meiner,don_juan
+gdc-coref,q41n.0,118900,119094,gianotto,118930,118934,mich,gianotto
+gdc-coref,q41n.0,118900,119094,gianotto,118961,118964,ich,gianotto
+gdc-coref,q41n.0,118900,119094,gianotto,119007,119011,mich,gianotto
+gdc-coref,q41n.0,118900,119094,gianotto,119047,119050,ich,gianotto
+gdc-coref,q41n.0,119509,119640,don_juan,119534,119537,ich,don_juan
+gdc-coref,q41n.0,119509,119640,don_juan,119554,119557,ich,don_juan
+gdc-coref,q41n.0,119509,119640,don_juan,119615,119621,meinen,don_juan
+gdc-coref,q41n.0,119645,119682,gianotto,119676,119680,mich,gianotto
+gdc-coref,q41n.0,119817,119873,don_juan,119831,119834,ich,don_juan
+gdc-coref,q41n.0,119878,119987,gianotto,119890,119893,ich,gianotto
+gdc-coref,q41n.0,119991,120762,don_juan,120049,120053,Mein,don_juan
+gdc-coref,q41n.0,119991,120762,don_juan,120140,120146,meines,don_juan
+gdc-coref,q41n.0,119991,120762,don_juan,120389,120392,Ich,don_juan
+gdc-coref,q41n.0,119991,120762,don_juan,120526,120529,ich,don_juan
+gdc-coref,q41n.0,119991,120762,don_juan,120563,120566,ich,don_juan
+gdc-coref,q41n.0,119991,120762,don_juan,120575,120579,mich,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,120936,120939,Ich,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,121064,121067,ich,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,121189,121192,ich,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,121244,121247,mir,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,121315,121318,mir,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,121342,121345,ich,don_juan
+gdc-coref,q41n.0,120861,121750,don_juan,121436,121439,mir,don_juan
+gdc-coref,q41n.0,121754,121833,gianotto,121809,121813,mein,gianotto
+gdc-coref,q41n.0,121838,122522,don_juan,121906,121910,mich,don_juan
+gdc-coref,q41n.0,121838,122522,don_juan,122096,122100,mein,don_juan
+gdc-coref,q41n.0,121838,122522,don_juan,122334,122338,mich,don_juan
+gdc-coref,q41n.0,122527,122591,gianotto,122553,122557,mein,gianotto
+gdc-coref,q41n.0,122527,122591,gianotto,122565,122568,Ich,gianotto
+gdc-coref,q41n.0,122669,122801,gianotto,122679,122682,Ich,gianotto
+gdc-coref,q41n.0,122669,122801,gianotto,122729,122732,ich,gianotto
+gdc-coref,q41n.0,122864,123015,gianotto,122951,122955,Mein,gianotto
+gdc-coref,q41n.0,122864,123015,gianotto,122986,122989,ich,gianotto
+gdc-coref,q41n.0,123020,123283,don_juan,123168,123171,Ich,don_juan
+gdc-coref,q41n.0,123020,123283,don_juan,123179,123182,ich,don_juan
+gdc-coref,q41n.0,123020,123283,don_juan,123213,123216,ich,don_juan
+gdc-coref,q41n.0,123020,123283,don_juan,123224,123227,Ich,don_juan
+gdc-coref,q41n.0,123326,123426,don_juan,123340,123344,mich,don_juan
+gdc-coref,q41n.0,123326,123426,don_juan,123354,123358,mich,don_juan
+gdc-coref,q41n.0,123326,123426,don_juan,123387,123390,ich,don_juan
+gdc-coref,q41n.0,123326,123426,don_juan,123396,123401,meine,don_juan
+gdc-coref,q41n.0,124137,124269,gianotto,124201,124204,ich,gianotto
+gdc-coref,q41n.0,124335,124738,gianotto,124489,124492,Ich,gianotto
+gdc-coref,q41n.0,124849,125219,der_alte_fischer,125013,125016,ich,der_alte_fischer
+gdc-coref,q41n.0,125353,125525,graefin,125385,125389,mein,graefin
+gdc-coref,q41n.0,125353,125525,graefin,125434,125438,mein,graefin
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,125792,125795,ich,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,125898,125901,ich,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,125946,125949,ich,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,126070,126075,meine,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,126086,126089,ich,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,126175,126178,mir,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,126179,126184,meine,der_alte_fischer
+gdc-coref,q41n.0,125707,126290,der_alte_fischer,126202,126205,ich,der_alte_fischer
+gdc-coref,q41n.0,126363,127060,gianotto,126418,126421,ich,gianotto
+gdc-coref,q41n.0,126363,127060,gianotto,126504,126507,mir,gianotto
+gdc-coref,q41n.0,126363,127060,gianotto,126514,126517,ich,gianotto
+gdc-coref,q41n.0,127202,127358,wirth,127268,127271,ich,wirth
+gdc-coref,q41n.0,127417,127681,wirth,127437,127440,mir,wirth
+gdc-coref,q41n.0,127417,127681,wirth,127485,127488,ich,wirth
+gdc-coref,q41n.0,127686,127870,graefin,127805,127809,mich,graefin
+gdc-coref,q41n.0,127686,127870,graefin,127822,127825,ich,graefin
+gdc-coref,q41n.0,127686,127870,graefin,127838,127841,Ich,graefin
+gdc-coref,q41n.0,127686,127870,graefin,127844,127847,ich,graefin
+gdc-coref,q41n.0,127876,128065,wirth,127983,127986,mir,wirth
+gdc-coref,q41n.0,127876,128065,wirth,127999,128002,ich,wirth
+gdc-coref,q41n.0,128092,128365,wirth,128110,128115,meine,wirth
+gdc-coref,q41n.0,128370,128390,graefin,128380,128384,mein,graefin
+gdc-coref,q41n.0,128969,129177,gianotto,128992,128998,meinem,gianotto
+gdc-coref,q41n.0,128969,129177,gianotto,129116,129119,Ich,gianotto
+gdc-coref,q41n.0,128969,129177,gianotto,129145,129148,ich,gianotto
+gdc-coref,q41n.0,128969,129177,gianotto,129154,129158,mich,gianotto
+gdc-coref,q41n.0,129182,129203,don_juan,129192,129196,Mein,don_juan
+gdc-coref,q41n.0,129208,129872,gianotto,129292,129295,ich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129316,129319,ich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129321,129324,ich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129379,129383,mich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129428,129431,ich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129478,129482,mich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129497,129503,meinen,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129569,129572,Ich,gianotto
+gdc-coref,q41n.0,129208,129872,gianotto,129685,129688,mir,gianotto
+gdc-coref,q41n.0,130004,130167,don_juan,130030,130034,Mein,don_juan
+gdc-coref,q41n.0,130004,130167,don_juan,130042,130046,mein,don_juan
+gdc-coref,q41n.0,130390,130717,der_moench,130670,130673,mir,der_moench
+gdc-coref,q41n.0,130390,130717,der_moench,130675,130678,Ich,der_moench
+gdc-coref,q41n.0,130722,131028,don_juan,130785,130788,ich,don_juan
+gdc-coref,q41n.0,130722,131028,don_juan,130827,130831,Mein,don_juan
+gdc-coref,q41n.0,131174,131400,don_juan,131234,131237,Ich,don_juan
+gdc-coref,q41n.0,131174,131400,don_juan,131290,131293,mir,don_juan
+gdc-coref,q41n.0,131174,131400,don_juan,131333,131336,ich,don_juan

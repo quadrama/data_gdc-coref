@@ -1,0 +1,2495 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,mvrf.0,526,748,_stage,533,562,Empfangszimmer im Hause Weber,Empfangszimmer-im-Hause-Weber
+gdc-coref,mvrf.0,526,748,_stage,551,562,Hause Weber,Hause-Weber
+gdc-coref,mvrf.0,526,748,_stage,564,591,Großer teppichbelegter Raum,Empfangszimmer-im-Hause-Weber
+gdc-coref,mvrf.0,526,748,_stage,593,597,Sofa,Sofa
+gdc-coref,mvrf.0,526,748,_stage,609,615,Stühle,Stühle
+gdc-coref,mvrf.0,526,748,_stage,624,641,Türe zum Korridor,"Zur---------------Tür-(an-das-empfangszimmer-angrenzend,-unklar-welche-von-beiden,-oberst-kommt-und-geht-durch-diese-tür-ins-haus-daher-vermutl-korridortür))"
+gdc-coref,mvrf.0,526,748,_stage,650,671,Türe ins Speisezimmer,Türe-ins-Speisezimmer
+gdc-coref,mvrf.0,526,748,_stage,655,671,ins Speisezimmer,ins-Speisezimmer
+gdc-coref,mvrf.0,526,748,_stage,695,707,hohe Fenster,hohe-----------Fenster
+gdc-coref,mvrf.0,749,844,_stage,749,753,Karl,karl
+gdc-coref,mvrf.0,749,844,_stage,764,772,dem Sofa,Sofa
+gdc-coref,mvrf.0,749,844,_stage,774,779,Selma,selma
+gdc-coref,mvrf.0,749,844,_stage,790,793,ihm,karl
+gdc-coref,mvrf.0,749,844,_stage,829,839,ihre Bluse,ihre-----------Bluse
+gdc-coref,mvrf.0,749,844,_stage,829,833,ihre,selma
+gdc-coref,mvrf.0,846,908,selma,868,870,Du,karl
+gdc-coref,mvrf.0,846,908,selma,877,880,das,ihre-----------Bluse
+gdc-coref,mvrf.0,918,969,_stage,945,951,Selmas,selma
+gdc-coref,mvrf.0,973,1060,selma,1008,1011,Mir,selma
+gdc-coref,mvrf.0,973,1060,selma,1025,1028,Ich,selma
+gdc-coref,mvrf.0,973,1060,selma,1034,1038,mich,selma
+gdc-coref,mvrf.0,1070,1099,_stage,1086,1090,sich,karl
+gdc-coref,mvrf.0,1065,1131,karl,1100,1103,Mir,karl
+gdc-coref,mvrf.0,1065,1131,karl,1110,1113,Ich,karl
+gdc-coref,mvrf.0,1136,1319,selma,1161,1164,ich,selma
+gdc-coref,mvrf.0,1136,1319,selma,1171,1174,Sie,selma
+gdc-coref,mvrf.0,1136,1319,selma,1205,1246,"Wenn ich mich auszieh, mußt du's auch tun",das
+gdc-coref,mvrf.0,1136,1319,selma,1210,1213,ich,selma
+gdc-coref,mvrf.0,1136,1319,selma,1214,1218,mich,selma
+gdc-coref,mvrf.0,1136,1319,selma,1219,1226,auszieh,du's
+gdc-coref,mvrf.0,1136,1319,selma,1233,1237,du's,du's
+gdc-coref,mvrf.0,1136,1319,selma,1233,1235,du,karl
+gdc-coref,mvrf.0,1136,1319,selma,1248,1250,Du,karl
+gdc-coref,mvrf.0,1136,1319,selma,1256,1258,es,du's
+gdc-coref,mvrf.0,1136,1319,selma,1276,1278,du,karl
+gdc-coref,mvrf.0,1136,1319,selma,1279,1283,mich,selma
+gdc-coref,mvrf.0,1136,1319,selma,1305,1308,Sie,selma
+gdc-coref,mvrf.0,1136,1319,selma,1314,1318,Karl,karl
+gdc-coref,mvrf.0,1324,1355,karl,1335,1340,Selma,selma
+gdc-coref,mvrf.0,1324,1355,karl,1347,1350,man,man-(der-mensch)
+gdc-coref,mvrf.0,1324,1355,karl,1351,1354,das,das
+gdc-coref,mvrf.0,1360,1402,selma,1375,1377,Du,karl
+gdc-coref,mvrf.0,1360,1402,selma,1394,1397,ich,selma
+gdc-coref,mvrf.0,1407,1429,karl,1413,1428,Meine Schwester,Meine-Schwester-(prädikativ-selma)
+gdc-coref,mvrf.0,1407,1429,karl,1413,1418,Meine,karl
+gdc-coref,mvrf.0,1434,1499,selma,1453,1455,Du,karl
+gdc-coref,mvrf.0,1434,1499,selma,1483,1485,du,karl
+gdc-coref,mvrf.0,1434,1499,selma,1491,1494,ich,selma
+gdc-coref,mvrf.0,1529,1615,selma,1557,1560,ich,selma
+gdc-coref,mvrf.0,1529,1615,selma,1561,1564,dir,karl
+gdc-coref,mvrf.0,1529,1615,selma,1569,1571,du,karl
+gdc-coref,mvrf.0,1529,1615,selma,1572,1575,mir,selma
+gdc-coref,mvrf.0,1529,1615,selma,1592,1615,Was bin ich gegen dich?,das2
+gdc-coref,mvrf.0,1529,1615,selma,1600,1603,ich,selma
+gdc-coref,mvrf.0,1529,1615,selma,1610,1614,dich,karl
+gdc-coref,mvrf.0,1665,1880,karl,1671,1676,Selma,selma
+gdc-coref,mvrf.0,1665,1880,karl,1678,1681,das,das2
+gdc-coref,mvrf.0,1665,1880,karl,1689,1692,ich,karl
+gdc-coref,mvrf.0,1665,1880,karl,1728,1731,ich,karl
+gdc-coref,mvrf.0,1665,1880,karl,1783,1786,mir,karl
+gdc-coref,mvrf.0,1665,1880,karl,1820,1823,dir,selma
+gdc-coref,mvrf.0,1665,1880,karl,1843,1847,mich,karl
+gdc-coref,mvrf.0,1665,1880,karl,1876,1879,ich,karl
+gdc-coref,mvrf.0,1885,1937,selma,1892,1894,Du,karl
+gdc-coref,mvrf.0,1885,1937,selma,1900,1904,mein,selma
+gdc-coref,mvrf.0,1885,1937,selma,1911,1919,Liebster,karl
+gdc-coref,mvrf.0,1885,1937,selma,1921,1924,Sie,selma
+gdc-coref,mvrf.0,1885,1937,selma,1933,1936,ihn,karl
+gdc-coref,mvrf.0,1942,1995,karl,1948,1952,Dein,selma
+gdc-coref,mvrf.0,1942,1995,karl,1964,1967,ich,karl
+gdc-coref,mvrf.0,1942,1995,karl,1969,1974,Selma,selma
+gdc-coref,mvrf.0,2000,2039,selma,2007,2039,Wenn ich dich aber liebe wie ...,s
+gdc-coref,mvrf.0,2000,2039,selma,2012,2015,ich,selma
+gdc-coref,mvrf.0,2000,2039,selma,2016,2020,dich,karl
+gdc-coref,mvrf.0,2000,2039,selma,2026,2039,liebe wie ...,Das
+gdc-coref,mvrf.0,2044,2068,karl,2054,2055,s,s
+gdc-coref,mvrf.0,2044,2068,karl,2062,2067,Selma,selma
+gdc-coref,mvrf.0,2073,2096,selma,2084,2090,meinen,selma
+gdc-coref,mvrf.0,2101,2139,karl,2107,2110,Das,Das
+gdc-coref,mvrf.0,2144,2200,selma,2151,2157,Lieben,Das
+gdc-coref,mvrf.0,2144,2200,selma,2165,2168,das,Das
+gdc-coref,mvrf.0,2205,2226,karl,2211,2214,Das,Das
+gdc-coref,mvrf.0,2205,2226,karl,2222,2225,wir,karl-/-selma
+gdc-coref,mvrf.0,2231,2283,selma,2248,2251,wir,karl-/-selma
+gdc-coref,mvrf.0,2231,2283,selma,2266,2269,man,man-(der-mensch)
+gdc-coref,mvrf.0,2288,2318,karl,2294,2296,Es,Empfangszimmer-im-Hause-Weber
+gdc-coref,mvrf.0,2323,2353,selma,2333,2339,meinem,selma
+gdc-coref,mvrf.0,2358,2388,karl,2364,2367,Wir,karl-/-selma
+gdc-coref,mvrf.0,2393,2472,selma,2400,2403,Man,man-(der-mensch)
+gdc-coref,mvrf.0,2393,2472,selma,2415,2419,Karl,karl
+gdc-coref,mvrf.0,2393,2472,selma,2426,2429,mir,selma
+gdc-coref,mvrf.0,2393,2472,selma,2431,2434,Wir,karl-/-selma
+gdc-coref,mvrf.0,2393,2472,selma,2442,2445,uns,karl-/-selma
+gdc-coref,mvrf.0,2393,2472,selma,2461,2471,die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,2477,2504,karl,2483,2493,Die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,2477,2504,karl,2498,2503,Selma,selma
+gdc-coref,mvrf.0,2509,2620,selma,2520,2521,s,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,2509,2620,selma,2522,2527,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,2509,2620,selma,2535,2538,Ich,selma
+gdc-coref,mvrf.0,2509,2620,selma,2546,2550,Karl,karl
+gdc-coref,mvrf.0,2509,2620,selma,2564,2566,es,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,2509,2620,selma,2574,2577,Wir,karl-/-selma
+gdc-coref,mvrf.0,2509,2620,selma,2585,2588,uns,karl-/-selma
+gdc-coref,mvrf.0,2509,2620,selma,2593,2597,Karl,karl
+gdc-coref,mvrf.0,2509,2620,selma,2611,2613,es,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,2625,2668,karl,2631,2634,Ich,karl
+gdc-coref,mvrf.0,2625,2668,karl,2650,2652,du,selma
+gdc-coref,mvrf.0,2625,2668,karl,2653,2656,mir,karl
+gdc-coref,mvrf.0,2625,2668,karl,2657,2658,s,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,2673,2715,selma,2680,2714,Die Mutter hat mich hinausgesteckt,das3
+gdc-coref,mvrf.0,2673,2715,selma,2680,2690,Die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,2673,2715,selma,2695,2699,mich,selma
+gdc-coref,mvrf.0,2720,2736,karl,2730,2735,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,2766,2816,karl,2781,2784,das,das3
+gdc-coref,mvrf.0,2766,2816,karl,2793,2795,Du,selma
+gdc-coref,mvrf.0,2766,2816,karl,2805,2808,mir,karl
+gdc-coref,mvrf.0,2821,2861,selma,2828,2860,Jemand anders war bei der Mutter,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,2821,2861,selma,2850,2860,der Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,2866,2895,karl,2872,2874,Du,selma
+gdc-coref,mvrf.0,2866,2895,karl,2880,2884,dich,selma
+gdc-coref,mvrf.0,2900,2933,selma,2907,2910,Ich,selma
+gdc-coref,mvrf.0,2900,2933,selma,2922,2932,den Riegel,den-Riegel
+gdc-coref,mvrf.0,2938,2973,karl,2950,2952,du,selma
+gdc-coref,mvrf.0,2978,3017,selma,2991,3003,Katharinchen,Katharinchen-(weohl-ein-dienstmädchen-der-webers)
+gdc-coref,mvrf.0,2978,3017,selma,3010,3012,es,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,2978,3017,selma,3013,3016,mir,selma
+gdc-coref,mvrf.0,3060,3109,selma,3072,3075,ich,selma
+gdc-coref,mvrf.0,3060,3109,selma,3076,3079,dir,karl
+gdc-coref,mvrf.0,3060,3109,selma,3094,3097,die,Katharinchen-(weohl-ein-dienstmädchen-der-webers)
+gdc-coref,mvrf.0,3134,3238,selma,3141,3143,Es,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,3134,3238,selma,3163,3166,ich,selma
+gdc-coref,mvrf.0,3134,3238,selma,3176,3178,es,es-(geheimnis-der-mutter)
+gdc-coref,mvrf.0,3134,3238,selma,3196,3199,ich,selma
+gdc-coref,mvrf.0,3244,3266,karl,3250,3266,Was ist da dran?,s2
+gdc-coref,mvrf.0,3271,3304,selma,3278,3280,Du,karl
+gdc-coref,mvrf.0,3271,3304,selma,3287,3288,s,s2
+gdc-coref,mvrf.0,3271,3304,selma,3300,3303,ich,selma
+gdc-coref,mvrf.0,3309,3338,karl,3326,3329,ich,karl
+gdc-coref,mvrf.0,3343,3407,selma,3367,3370,wir,karl-/-selma
+gdc-coref,mvrf.0,3343,3407,selma,3377,3385,Komm mit,Das2
+gdc-coref,mvrf.0,3343,3407,selma,3397,3400,ich,selma
+gdc-coref,mvrf.0,3343,3407,selma,3401,3402,s,s2
+gdc-coref,mvrf.0,3343,3407,selma,3403,3406,dir,karl
+gdc-coref,mvrf.0,3412,3437,karl,3418,3421,Das,Das2
+gdc-coref,mvrf.0,3412,3437,karl,3428,3431,man,man-(der-mensch)
+gdc-coref,mvrf.0,3442,3646,selma,3458,3461,man,man-(der-mensch)
+gdc-coref,mvrf.0,3442,3646,selma,3479,3482,ich,selma
+gdc-coref,mvrf.0,3442,3646,selma,3508,3514,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,3442,3646,selma,3519,3522,mir,selma
+gdc-coref,mvrf.0,3442,3646,selma,3524,3576,"»Ich sei vernünftig, mich betrüge einmal kein Mann.«",Das3
+gdc-coref,mvrf.0,3442,3646,selma,3525,3528,Ich,selma
+gdc-coref,mvrf.0,3442,3646,selma,3545,3549,mich,selma
+gdc-coref,mvrf.0,3442,3646,selma,3577,3580,Das,Das3
+gdc-coref,mvrf.0,3442,3646,selma,3607,3610,Man,man-(der-mensch)
+gdc-coref,mvrf.0,3442,3646,selma,3637,3639,du,karl
+gdc-coref,mvrf.0,3651,3671,karl,3657,3660,Ich,karl
+gdc-coref,mvrf.0,3682,3728,_stage,3711,3719,Schritte,Schritte-(oberst)
+gdc-coref,mvrf.0,3732,3839,selma,3753,3756,dir,karl
+gdc-coref,mvrf.0,3732,3839,selma,3762,3765,man,man-(der-mensch)
+gdc-coref,mvrf.0,3732,3839,selma,3792,3795,dir,karl
+gdc-coref,mvrf.0,3732,3839,selma,3802,3805,ich,selma
+gdc-coref,mvrf.0,3732,3839,selma,3823,3830,Zur Tür,"Zur---------------Tür-(an-das-empfangszimmer-angrenzend,-unklar-welche-von-beiden,-oberst-kommt-und-geht-durch-diese-tür-ins-haus-daher-vermutl-korridortür))"
+gdc-coref,mvrf.0,3844,3874,karl,3850,3853,Ich,karl
+gdc-coref,mvrf.0,3844,3874,karl,3860,3864,dich,selma
+gdc-coref,mvrf.0,3885,3950,_stage,3885,3901,dem Eintretenden,oberst
+gdc-coref,mvrf.0,3885,3950,_stage,3934,3946,ihrem Bruder,karl
+gdc-coref,mvrf.0,3885,3950,_stage,3934,3939,ihrem,selma
+gdc-coref,mvrf.0,3879,3977,selma,3951,3966,Der Oberstonkel,oberst
+gdc-coref,mvrf.0,3982,4006,karl,4000,4005,Dirne,selma
+gdc-coref,mvrf.0,4017,4066,_stage,4042,4046,Karl,karl
+gdc-coref,mvrf.0,4067,4118,_stage,4067,4105,"Oberst Schipper, der Freund des Vaters",oberst
+gdc-coref,mvrf.0,4122,4159,oberst,4134,4144,euer Vater,lothar_weber_vater
+gdc-coref,mvrf.0,4122,4159,oberst,4134,4138,euer,karl-/-selma
+gdc-coref,mvrf.0,4122,4159,oberst,4154,4158,Haus,Hause-Weber
+gdc-coref,mvrf.0,4164,4194,karl,4177,4180,ich,karl
+gdc-coref,mvrf.0,4199,4250,selma,4230,4235,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,4199,4250,selma,4239,4247,"Du, Karl",karl
+gdc-coref,mvrf.0,4255,4293,karl,4267,4269,Er,lothar_weber_vater
+gdc-coref,mvrf.0,4255,4293,karl,4274,4278,sich,lothar_weber_vater
+gdc-coref,mvrf.0,4298,4379,oberst,4306,4318,Liebe Kinder,karl-/-selma
+gdc-coref,mvrf.0,4298,4379,oberst,4341,4343,er,lothar_weber_vater
+gdc-coref,mvrf.0,4298,4379,oberst,4363,4365,er,lothar_weber_vater
+gdc-coref,mvrf.0,4298,4379,oberst,4372,4378,kommen,es
+gdc-coref,mvrf.0,4384,4506,karl,4423,4426,ihn,lothar_weber_vater
+gdc-coref,mvrf.0,4384,4506,karl,4427,4437,die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,4384,4506,karl,4448,4451,Sie,frau_weber_mutter-/-lothar_weber_vater
+gdc-coref,mvrf.0,4511,4582,oberst,4528,4531,dir,karl
+gdc-coref,mvrf.0,4511,4582,oberst,4548,4551,Ich,oberst
+gdc-coref,mvrf.0,4511,4582,oberst,4570,4572,es,es
+gdc-coref,mvrf.0,4587,4635,karl,4612,4615,Sie,oberst
+gdc-coref,mvrf.0,4587,4635,karl,4616,4620,sich,oberst
+gdc-coref,mvrf.0,4640,4746,oberst,4648,4697,"Meine Beine haben das Gehen, sie geben keine Ruhe",es2
+gdc-coref,mvrf.0,4640,4746,oberst,4648,4659,Meine Beine,Meine-Beine-(oberst)
+gdc-coref,mvrf.0,4640,4746,oberst,4648,4653,Meine,oberst
+gdc-coref,mvrf.0,4640,4746,oberst,4677,4680,sie,Meine-Beine-(oberst)
+gdc-coref,mvrf.0,4640,4746,oberst,4702,4707,Selma,selma
+gdc-coref,mvrf.0,4640,4746,oberst,4709,4719,"Du, Kleine",selma
+gdc-coref,mvrf.0,4640,4746,oberst,4721,4723,es,es2
+gdc-coref,mvrf.0,4640,4746,oberst,4728,4732,mein,oberst
+gdc-coref,mvrf.0,4757,4826,_stage,4763,4767,sich,selma
+gdc-coref,mvrf.0,4757,4826,_stage,4768,4793,dem umher gehenden Oberst,oberst
+gdc-coref,mvrf.0,4757,4826,_stage,4806,4810,Karl,karl
+gdc-coref,mvrf.0,4751,4849,selma,4827,4829,Du,oberst
+gdc-coref,mvrf.0,4751,4849,selma,4843,4848,Witze,Witze
+gdc-coref,mvrf.0,4854,5044,oberst,4873,4876,ich,oberst
+gdc-coref,mvrf.0,4854,5044,oberst,4882,4885,dir,selma
+gdc-coref,mvrf.0,4854,5044,oberst,4902,4905,Ich,oberst
+gdc-coref,mvrf.0,4854,5044,oberst,4912,4957,"eine Familie, in der ist ein Unglück passiert",mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,4854,5044,oberst,4929,4932,der,mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,4854,5044,oberst,4937,4948,ein Unglück,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,4854,5044,oberst,4984,4987,Das,Das4
+gdc-coref,mvrf.0,4854,5044,oberst,5005,5017,immer lachen,Das4
+gdc-coref,mvrf.0,4854,5044,oberst,5023,5034,ein Unglück,ein-Unglück
+gdc-coref,mvrf.0,5050,5104,selma,5086,5088,du,oberst
+gdc-coref,mvrf.0,5109,5290,oberst,5147,5159,dem Witzbold,dem-Witzbold
+gdc-coref,mvrf.0,5109,5290,oberst,5166,5168,er,dem-Witzbold
+gdc-coref,mvrf.0,5109,5290,oberst,5187,5191,sein,dem-Witzbold
+gdc-coref,mvrf.0,5109,5290,oberst,5196,5204,im Witze,Witze
+gdc-coref,mvrf.0,5109,5290,oberst,5231,5233,er,dem-Witzbold
+gdc-coref,mvrf.0,5294,5386,selma,5301,5312,Oberstonkel,oberst
+gdc-coref,mvrf.0,5294,5386,selma,5314,5317,ich,selma
+gdc-coref,mvrf.0,5294,5386,selma,5336,5339,dir,oberst
+gdc-coref,mvrf.0,5294,5386,selma,5381,5385,Karl,karl
+gdc-coref,mvrf.0,5414,5438,oberst,5426,5429,ich,oberst
+gdc-coref,mvrf.0,5414,5438,oberst,5434,5437,dir,selma
+gdc-coref,mvrf.0,5463,5511,oberst,5492,5510,im dichtesten Wald,im-dichtesten-Wald
+gdc-coref,mvrf.0,5522,5556,_stage,5538,5548,dem Oberst,oberst
+gdc-coref,mvrf.0,5560,5588,oberst,5568,5570,Du,selma
+gdc-coref,mvrf.0,5620,6109,oberst,5628,5636,Im Walde,im-dichtesten-Wald
+gdc-coref,mvrf.0,5620,6109,oberst,5644,5647,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5648,5651,uns,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5693,5696,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5725,5728,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5736,5759,unter dem blauen Himmel,unter-dem-blauen-Himmel
+gdc-coref,mvrf.0,5620,6109,oberst,5769,5772,uns,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5823,5832,Die Vögel,Die-Vögel
+gdc-coref,mvrf.0,5620,6109,oberst,5840,5867,"singen »Vitrula lala, juhe«",Die-Vögel
+gdc-coref,mvrf.0,5620,6109,oberst,5869,5881,ein Weilchen,ein-Weilchen
+gdc-coref,mvrf.0,5620,6109,oberst,5891,5894,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5912,5915,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5922,5925,sie,Die-Vögel
+gdc-coref,mvrf.0,5620,6109,oberst,5949,5952,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,5974,5986,ihrem Gesang,Die-Vögel
+gdc-coref,mvrf.0,5620,6109,oberst,5974,5979,ihrem,Die-Vögel
+gdc-coref,mvrf.0,5620,6109,oberst,5998,6001,Wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,6026,6046,jedes von uns beiden,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,6069,6072,wir,oberst-/-selma
+gdc-coref,mvrf.0,5620,6109,oberst,6073,6076,uns,oberst-/-selma
+gdc-coref,mvrf.0,6141,6195,oberst,6159,6162,Ich,oberst
+gdc-coref,mvrf.0,6141,6195,oberst,6169,6171,du,selma
+gdc-coref,mvrf.0,6141,6195,oberst,6178,6194,etwas Besonderes,"etwas-Besonderes-(eine-besondere-beschäftigung-zwischen-selma-und-oberst,-an-die-selma-denkt)"
+gdc-coref,mvrf.0,6219,6277,oberst,6245,6247,es,"etwas-Besonderes-(eine-besondere-beschäftigung-zwischen-selma-und-oberst,-an-die-selma-denkt)"
+gdc-coref,mvrf.0,6219,6277,oberst,6248,6251,mir,oberst
+gdc-coref,mvrf.0,6219,6277,oberst,6253,6256,ich,oberst
+gdc-coref,mvrf.0,6288,6328,_stage,6309,6319,dem Oberst,oberst
+gdc-coref,mvrf.0,6282,6336,selma,6329,6333,Karl,karl
+gdc-coref,mvrf.0,6341,6451,oberst,6349,6360,Dein Bruder,karl
+gdc-coref,mvrf.0,6341,6451,oberst,6349,6353,Dein,selma
+gdc-coref,mvrf.0,6341,6451,oberst,6367,6370,der,karl
+gdc-coref,mvrf.0,6341,6451,oberst,6376,6378,es,"etwas-Besonderes-(eine-besondere-beschäftigung-zwischen-selma-und-oberst,-an-die-selma-denkt)"
+gdc-coref,mvrf.0,6341,6451,oberst,6392,6394,Er,karl
+gdc-coref,mvrf.0,6456,6566,selma,6472,6483,Alter E ...,oberst
+gdc-coref,mvrf.0,6456,6566,selma,6484,6487,Sie,selma
+gdc-coref,mvrf.0,6456,6566,selma,6493,6497,sich,selma
+gdc-coref,mvrf.0,6456,6566,selma,6509,6519,der Oberst,oberst
+gdc-coref,mvrf.0,6456,6566,selma,6525,6528,sie,selma
+gdc-coref,mvrf.0,6456,6566,selma,6535,6538,sie,selma
+gdc-coref,mvrf.0,6456,6566,selma,6549,6561,heiße Tränen,heiße-Tränen-(selma)
+gdc-coref,mvrf.0,6576,6598,_stage,6582,6592,die Tränen,heiße-Tränen-(selma)
+gdc-coref,mvrf.0,6571,6634,karl,6599,6602,Sie,oberst
+gdc-coref,mvrf.0,6571,6634,karl,6610,6613,ihr,selma
+gdc-coref,mvrf.0,6571,6634,karl,6614,6615,s,"etwas-Besonderes-(eine-besondere-beschäftigung-zwischen-selma-und-oberst,-an-die-selma-denkt)"
+gdc-coref,mvrf.0,6639,6794,oberst,6654,6658,Karl,karl
+gdc-coref,mvrf.0,6639,6794,oberst,6666,6681,deiner Siebzehn,deiner-Siebzehn-(alter-karls)
+gdc-coref,mvrf.0,6639,6794,oberst,6666,6672,deiner,karl
+gdc-coref,mvrf.0,6639,6794,oberst,6688,6691,ich,oberst
+gdc-coref,mvrf.0,6639,6794,oberst,6692,6693,s,s3
+gdc-coref,mvrf.0,6639,6794,oberst,6694,6697,dir,karl
+gdc-coref,mvrf.0,6639,6794,oberst,6699,6735,"So müßtest du als Vater sein, streng",s3
+gdc-coref,mvrf.0,6639,6794,oberst,6710,6712,du,karl
+gdc-coref,mvrf.0,6639,6794,oberst,6717,6722,Vater,Vater-(prädikativ-karl-als-vater)
+gdc-coref,mvrf.0,6639,6794,oberst,6737,6768,"Das Jährchen, das sie älter ist","Das-------------Jährchen,-das-sie-älter-ist"
+gdc-coref,mvrf.0,6639,6794,oberst,6751,6754,das,"Das-------------Jährchen,-das-sie-älter-ist"
+gdc-coref,mvrf.0,6639,6794,oberst,6755,6758,sie,selma
+gdc-coref,mvrf.0,6639,6794,oberst,6774,6777,sie,selma
+gdc-coref,mvrf.0,6824,6937,oberst,6832,6866,"Karl, wenn dein Vater nicht kommt,",Der-Satz
+gdc-coref,mvrf.0,6824,6937,oberst,6832,6836,Karl,karl
+gdc-coref,mvrf.0,6824,6937,oberst,6843,6853,dein Vater,lothar_weber_vater
+gdc-coref,mvrf.0,6824,6937,oberst,6843,6847,dein,karl
+gdc-coref,mvrf.0,6824,6937,oberst,6867,6875,Der Satz,Der-Satz
+gdc-coref,mvrf.0,6824,6937,oberst,6902,6905,ich,oberst
+gdc-coref,mvrf.0,6824,6937,oberst,6914,6920,Tränen,Tränen
+gdc-coref,mvrf.0,6948,7008,_stage,6952,6956,sich,selma
+gdc-coref,mvrf.0,6948,7008,_stage,6978,6982,sich,selma
+gdc-coref,mvrf.0,7017,7050,_stage,7039,7050,dem Oberst.,oberst
+gdc-coref,mvrf.0,7051,7283,_stage,7051,7061,Frau Weber,frau_weber_mutter
+gdc-coref,mvrf.0,7051,7283,_stage,7066,7080,Kaufmann Hecht,hecht
+gdc-coref,mvrf.0,7051,7283,_stage,7099,7104,Selma,selma
+gdc-coref,mvrf.0,7051,7283,_stage,7156,7160,sich,oberst
+gdc-coref,mvrf.0,7051,7283,_stage,7161,7171,der Oberst,oberst
+gdc-coref,mvrf.0,7051,7283,_stage,7176,7180,Karl,karl
+gdc-coref,mvrf.0,7051,7283,_stage,7198,7208,Frau Weber,frau_weber_mutter
+gdc-coref,mvrf.0,7051,7283,_stage,7266,7278,den Kaufmann,hecht
+gdc-coref,mvrf.0,7287,7330,frau_weber_mutter,7299,7309,Herr Hecht,hecht
+gdc-coref,mvrf.0,7287,7330,frau_weber_mutter,7312,7329,Herr ... Schipper,oberst
+gdc-coref,mvrf.0,7335,7359,oberst,7343,7358,Oberst Schipper,oberst
+gdc-coref,mvrf.0,7375,7420,_stage,7404,7419,ins Nebenzimmer,ins-Speisezimmer
+gdc-coref,mvrf.0,7424,7444,selma,7436,7442,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,7460,7543,_stage,7467,7471,sich,frau_weber_mutter
+gdc-coref,mvrf.0,7460,7543,_stage,7487,7499,ein Päckchen,ein-Päckchen
+gdc-coref,mvrf.0,7460,7543,_stage,7504,7515,einen Stuhl,Stühle
+gdc-coref,mvrf.0,7460,7543,_stage,7517,7522,Selma,selma
+gdc-coref,mvrf.0,7553,7575,_stage,7558,7574,einer Kunstpause,einer-Kunstpause-(sprechpause-hecht)
+gdc-coref,mvrf.0,7547,7614,hecht,7576,7579,Ich,hecht
+gdc-coref,mvrf.0,7547,7614,hecht,7588,7599,der Familie,mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,7645,7669,_stage,7657,7668,einer Pause,einer-Kunstpause-(sprechpause-hecht)
+gdc-coref,mvrf.0,7639,7728,hecht,7670,7673,Ich,hecht
+gdc-coref,mvrf.0,7639,7728,hecht,7689,7714,allen Familienereignissen,allen-Familienereignissen-(der-webers)
+gdc-coref,mvrf.0,7639,7728,hecht,7715,7727,regen Anteil,regen-Anteil-(anteilnahme-hecht-mit-der-familie-weber)
+gdc-coref,mvrf.0,7773,7861,hecht,7786,7789,ich,hecht
+gdc-coref,mvrf.0,7773,7861,hecht,7813,7816,ich,hecht
+gdc-coref,mvrf.0,7773,7861,hecht,7826,7853,den Geschehnissen des Tages,allen-Familienereignissen-(der-webers)
+gdc-coref,mvrf.0,7773,7861,hecht,7854,7860,Anteil,regen-Anteil-(anteilnahme-hecht-mit-der-familie-weber)
+gdc-coref,mvrf.0,7866,7925,oberst,7882,7885,Ich,oberst
+gdc-coref,mvrf.0,7866,7925,oberst,7903,7906,Sie,hecht
+gdc-coref,mvrf.0,7866,7925,oberst,7907,7911,mich,oberst
+gdc-coref,mvrf.0,7930,8049,hecht,7962,7965,Ich,hecht
+gdc-coref,mvrf.0,7930,8049,hecht,7998,8048,"die Ehre, den Herrn Oberst kennen lernen zu dürfen","die-Ehre,-den-Herrn-Oberst-------------kennen-lernen-zu-dürfen"
+gdc-coref,mvrf.0,7930,8049,hecht,8008,8024,den Herrn Oberst,oberst
+gdc-coref,mvrf.0,8054,8147,oberst,8070,8073,Sie,hecht
+gdc-coref,mvrf.0,8054,8147,oberst,8074,8077,mir,oberst
+gdc-coref,mvrf.0,8152,8200,hecht,8159,8161,Es,"die-Ehre,-den-Herrn-Oberst-------------kennen-lernen-zu-dürfen"
+gdc-coref,mvrf.0,8152,8200,hecht,8166,8170,sich,"die-Ehre,-den-Herrn-Oberst-------------kennen-lernen-zu-dürfen"
+gdc-coref,mvrf.0,8205,8405,oberst,8221,8232,das Treffen,"die-Ehre,-den-Herrn-Oberst-------------kennen-lernen-zu-dürfen"
+gdc-coref,mvrf.0,8205,8405,oberst,8273,8276,man,frau_weber_mutter
+gdc-coref,mvrf.0,8205,8405,oberst,8277,8280,Sie,hecht
+gdc-coref,mvrf.0,8205,8405,oberst,8316,8319,mir,oberst
+gdc-coref,mvrf.0,8205,8405,oberst,8345,8355,Frau Weber,frau_weber_mutter
+gdc-coref,mvrf.0,8205,8405,oberst,8377,8404,"mich, der so daher stolpert",oberst
+gdc-coref,mvrf.0,8205,8405,oberst,8377,8381,mich,oberst
+gdc-coref,mvrf.0,8205,8405,oberst,8383,8386,der,oberst
+gdc-coref,mvrf.0,8410,8489,hecht,8421,8423,es,es3
+gdc-coref,mvrf.0,8410,8489,hecht,8436,8488,wenn Freunde an den Trauertagen ganz besonders eilen,es3
+gdc-coref,mvrf.0,8494,8542,oberst,8517,8520,Sie,hecht
+gdc-coref,mvrf.0,8547,8827,hecht,8589,8592,Ich,hecht
+gdc-coref,mvrf.0,8547,8827,hecht,8600,8611,meine Hilfe,meine-Hilfe-(hecht-ggü-familie-weber)
+gdc-coref,mvrf.0,8547,8827,hecht,8600,8605,meine,hecht
+gdc-coref,mvrf.0,8547,8827,hecht,8633,8669,"der eigensinnige, leichtfertige Mann",lothar_weber_vater
+gdc-coref,mvrf.0,8547,8827,hecht,8675,8678,sie,meine-Hilfe-(hecht-ggü-familie-weber)
+gdc-coref,mvrf.0,8547,8827,hecht,8689,8692,Ich,hecht
+gdc-coref,mvrf.0,8547,8827,hecht,8697,8700,ihm,lothar_weber_vater
+gdc-coref,mvrf.0,8547,8827,hecht,8755,8757,Er,lothar_weber_vater
+gdc-coref,mvrf.0,8547,8827,hecht,8764,8768,sich,lothar_weber_vater
+gdc-coref,mvrf.0,8547,8827,hecht,8790,8792,er,lothar_weber_vater
+gdc-coref,mvrf.0,8547,8827,hecht,8815,8819,mich,hecht
+gdc-coref,mvrf.0,8832,9373,oberst,8840,8842,Er,lothar_weber_vater
+gdc-coref,mvrf.0,8832,9373,oberst,8883,8886,Ich,oberst
+gdc-coref,mvrf.0,8832,9373,oberst,8894,8897,ihn,ihn-(der-vom-vater-hinterzogene-geldbetrag)
+gdc-coref,mvrf.0,8832,9373,oberst,8907,8909,er,lothar_weber_vater
+gdc-coref,mvrf.0,8832,9373,oberst,8916,8919,ihn,ihn-(der-vom-vater-hinterzogene-geldbetrag)
+gdc-coref,mvrf.0,8832,9373,oberst,8964,9008,Man kann die Tropfen nicht am Himmel fesseln,es4
+gdc-coref,mvrf.0,8832,9373,oberst,9010,9013,ich,oberst
+gdc-coref,mvrf.0,8832,9373,oberst,9019,9021,es,es4
+gdc-coref,mvrf.0,8832,9373,oberst,9022,9025,ihm,lothar_weber_vater
+gdc-coref,mvrf.0,8832,9373,oberst,9027,9029,er,lothar_weber_vater
+gdc-coref,mvrf.0,8832,9373,oberst,9054,9056,er,lothar_weber_vater
+gdc-coref,mvrf.0,8832,9373,oberst,9075,9080,Hecht,hecht
+gdc-coref,mvrf.0,8832,9373,oberst,9094,9097,Sie,hecht
+gdc-coref,mvrf.0,8832,9373,oberst,9103,9106,das,das4
+gdc-coref,mvrf.0,8832,9373,oberst,9134,9192,"Das Gefühl, ein untreu Weib in des Bekannten Bett zu haben",das4
+gdc-coref,mvrf.0,8832,9373,oberst,9146,9192,ein untreu Weib in des Bekannten Bett zu haben,es5
+gdc-coref,mvrf.0,8832,9373,oberst,9146,9161,ein untreu Weib,frau_weber_mutter
+gdc-coref,mvrf.0,8832,9373,oberst,9165,9178,des Bekannten,lothar_weber_vater
+gdc-coref,mvrf.0,8832,9373,oberst,9198,9200,es,es5
+gdc-coref,mvrf.0,8832,9373,oberst,9234,9237,man,hecht
+gdc-coref,mvrf.0,8832,9373,oberst,9270,9273,Ich,oberst
+gdc-coref,mvrf.0,8832,9373,oberst,9280,9284,Weib,frau_weber_mutter
+gdc-coref,mvrf.0,8832,9373,oberst,9289,9293,Kerl,hecht
+gdc-coref,mvrf.0,8832,9373,oberst,9296,9298,Er,oberst
+gdc-coref,mvrf.0,8832,9373,oberst,9305,9317,den Kaufmann,hecht
+gdc-coref,mvrf.0,9384,9397,_stage,9392,9396,Karl,karl
+gdc-coref,mvrf.0,9378,9419,selma,9398,9401,Sie,hecht-/-oberst
+gdc-coref,mvrf.0,9378,9419,selma,9409,9418,den Vater,lothar_weber_vater
+gdc-coref,mvrf.0,9429,9452,_stage,9441,9451,die Stille,die-Stille-(sprechpause-aller)
+gdc-coref,mvrf.0,9424,9471,karl,9465,9470,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,9476,9536,oberst,9507,9521,Der Hausfreund,hecht
+gdc-coref,mvrf.0,9541,9568,karl,9547,9557,Hausfreund,hecht
+gdc-coref,mvrf.0,9541,9568,karl,9561,9567,Oberst,oberst
+gdc-coref,mvrf.0,9573,9778,hecht,9580,9583,Ich,hecht
+gdc-coref,mvrf.0,9573,9778,hecht,9607,9633,der ehrenwertesten Absicht,"der-ehrenwertesten-Absicht-(hechts-ggü-famile-weber,-meint-freundschaft)"
+gdc-coref,mvrf.0,9573,9778,hecht,9637,9649,diesem Hause,Hause-Weber
+gdc-coref,mvrf.0,9573,9778,hecht,9672,9676,Mein,hecht
+gdc-coref,mvrf.0,9573,9778,hecht,9716,9719,Sie,oberst
+gdc-coref,mvrf.0,9573,9778,hecht,9726,9777,einen abscheulichen Glauben von ihren Nebenmenschen,einen-abscheulichen-------------Glauben-von-ihren-Nebenmenschen-(obersts-blick-auf-seine-mitmenschen)
+gdc-coref,mvrf.0,9573,9778,hecht,9758,9763,ihren,oberst
+gdc-coref,mvrf.0,9803,9886,karl,9817,9822,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,9803,9886,karl,9833,9836,ich,karl
+gdc-coref,mvrf.0,9803,9886,karl,9857,9860,ich,karl
+gdc-coref,mvrf.0,9803,9886,karl,9865,9873,der Sohn,der-Sohn-(prädikativ-karl)
+gdc-coref,mvrf.0,9803,9886,karl,9875,9885,Ihr Herren,hecht-/-oberst
+gdc-coref,mvrf.0,9891,10203,hecht,9898,9901,Ich,hecht
+gdc-coref,mvrf.0,9891,10203,hecht,9945,9948,ich,hecht
+gdc-coref,mvrf.0,9891,10203,hecht,9956,9961,meine,hecht
+gdc-coref,mvrf.0,9891,10203,hecht,9971,9976,Ihnen,karl
+gdc-coref,mvrf.0,9891,10203,hecht,9981,9986,Ihren,karl
+gdc-coref,mvrf.0,9891,10203,hecht,10026,10037,einer Sache,Schiebungen-(tat-vergehen-des-vaters)
+gdc-coref,mvrf.0,9891,10203,hecht,10054,10080,Ihr geschätzter Herr Vater,lothar_weber_vater
+gdc-coref,mvrf.0,9891,10203,hecht,10054,10057,Ihr,karl-/-selma-+-1
+gdc-coref,mvrf.0,9891,10203,hecht,10085,10102,die ganze Familie,mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,9891,10203,hecht,10103,10114,ins Unglück,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,9891,10203,hecht,10128,10202,"ein Unglück, das Sie erst allmählich in vollem Umfang kennen lernen werden",ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,9891,10203,hecht,10141,10144,das,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,9891,10203,hecht,10145,10148,Sie,karl-/-selma-+-1
+gdc-coref,mvrf.0,9891,10203,hecht,10168,10181,vollem Umfang,vollem-Umfang-(des-unglücks-familie-weber)
+gdc-coref,mvrf.0,10208,10272,karl,10214,10217,Ich,karl
+gdc-coref,mvrf.0,10208,10272,karl,10223,10240,den ganzen Umfang,vollem-Umfang-(des-unglücks-familie-weber)
+gdc-coref,mvrf.0,10277,10367,hecht,10284,10286,Er,lothar_weber_vater
+gdc-coref,mvrf.0,10277,10367,hecht,10291,10302,Schiebungen,Schiebungen-(tat-vergehen-des-vaters)
+gdc-coref,mvrf.0,10277,10367,hecht,10316,10319,die,Schiebungen-(tat-vergehen-des-vaters)
+gdc-coref,mvrf.0,10277,10367,hecht,10320,10323,ihn,lothar_weber_vater
+gdc-coref,mvrf.0,10379,10419,_stage,10403,10418,den besten Witz,Witze
+gdc-coref,mvrf.0,10423,10658,hecht,10445,10658,"Ich kann behaupten, daß er mit unerhörter Gewissenlosigkeit im Gelde wirtschaftete, daß er schuld ist an dem Kummer seiner ausgezeichneten Frau, die mit ihren Kindern der Ungewißheit des Schicksals überlassen ist.",Das5
+gdc-coref,mvrf.0,10423,10658,hecht,10445,10448,Ich,hecht
+gdc-coref,mvrf.0,10423,10658,hecht,10469,10471,er,lothar_weber_vater
+gdc-coref,mvrf.0,10423,10658,hecht,10533,10535,er,lothar_weber_vater
+gdc-coref,mvrf.0,10423,10658,hecht,10550,10588,dem Kummer seiner ausgezeichneten Frau,dem-Kummer-seiner-ausgezeichneten-Frau
+gdc-coref,mvrf.0,10423,10658,hecht,10561,10588,seiner ausgezeichneten Frau,frau_weber_mutter
+gdc-coref,mvrf.0,10423,10658,hecht,10590,10593,die,frau_weber_mutter
+gdc-coref,mvrf.0,10423,10658,hecht,10598,10611,ihren Kindern,karl-/-selma-+-1
+gdc-coref,mvrf.0,10423,10658,hecht,10598,10603,ihren,frau_weber_mutter
+gdc-coref,mvrf.0,10423,10658,hecht,10628,10642,des Schicksals,des-Schicksals-(zukunft-famile-weber-ohne-vater)
+gdc-coref,mvrf.0,10663,10794,oberst,10671,10674,Das,Das5
+gdc-coref,mvrf.0,10663,10794,oberst,10698,10702,Karl,karl
+gdc-coref,mvrf.0,10663,10794,oberst,10710,10712,du,karl
+gdc-coref,mvrf.0,10663,10794,oberst,10734,10744,Dein Vater,lothar_weber_vater
+gdc-coref,mvrf.0,10878,10936,selma,10902,10911,Der Vater,lothar_weber_vater
+gdc-coref,mvrf.0,10941,10973,oberst,10949,10972,Geh du zu deiner Mutter,Das6
+gdc-coref,mvrf.0,10941,10973,oberst,10953,10955,du,selma
+gdc-coref,mvrf.0,10941,10973,oberst,10959,10972,deiner Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,10941,10973,oberst,10959,10965,deiner,selma
+gdc-coref,mvrf.0,10984,11013,_stage,10997,11012,ins Nebenzimmer,ins-Speisezimmer
+gdc-coref,mvrf.0,10978,11041,selma,11014,11017,Das,Das6
+gdc-coref,mvrf.0,10978,11041,selma,11021,11024,ich,selma
+gdc-coref,mvrf.0,10978,11041,selma,11029,11032,ich,selma
+gdc-coref,mvrf.0,10978,11041,selma,11037,11040,ich,selma
+gdc-coref,mvrf.0,11046,11076,oberst,11054,11058,Karl,karl
+gdc-coref,mvrf.0,11046,11076,oberst,11060,11075,deine Schwester,selma
+gdc-coref,mvrf.0,11081,11137,karl,11087,11090,Sie,selma
+gdc-coref,mvrf.0,11081,11137,karl,11106,11108,Er,karl
+gdc-coref,mvrf.0,11081,11137,karl,11115,11119,sich,karl
+gdc-coref,mvrf.0,11142,11226,hecht,11160,11163,sie,selma
+gdc-coref,mvrf.0,11231,11444,oberst,11290,11293,mir,oberst
+gdc-coref,mvrf.0,11231,11444,oberst,11320,11323,Ich,oberst
+gdc-coref,mvrf.0,11231,11444,oberst,11396,11400,mich,oberst
+gdc-coref,mvrf.0,11231,11444,oberst,11424,11435,ins Unglück,ein-Unglück
+gdc-coref,mvrf.0,11449,11557,hecht,11456,11459,Man,man-(der-mensch)
+gdc-coref,mvrf.0,11449,11557,hecht,11468,11470,Er,lothar_weber_vater
+gdc-coref,mvrf.0,11449,11557,hecht,11481,11494,unterschlagen,das5
+gdc-coref,mvrf.0,11449,11557,hecht,11496,11499,das,das5
+gdc-coref,mvrf.0,11449,11557,hecht,11504,11517,seine Familie,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,11449,11557,hecht,11504,11509,seine,lothar_weber_vater
+gdc-coref,mvrf.0,11449,11557,hecht,11519,11556,"seine Frau, die über alles ehrenwerte",frau_weber_mutter
+gdc-coref,mvrf.0,11449,11557,hecht,11519,11524,seine,lothar_weber_vater
+gdc-coref,mvrf.0,11562,11637,oberst,11588,11590,er,lothar_weber_vater
+gdc-coref,mvrf.0,11562,11637,oberst,11612,11636,seinem »herrlichen« Weib,frau_weber_mutter
+gdc-coref,mvrf.0,11562,11637,oberst,11612,11618,seinem,lothar_weber_vater
+gdc-coref,mvrf.0,11642,11697,hecht,11649,11651,Er,lothar_weber_vater
+gdc-coref,mvrf.0,11642,11697,hecht,11656,11659,ihr,frau_weber_mutter
+gdc-coref,mvrf.0,11642,11697,hecht,11684,11696,wie er steht,Das7
+gdc-coref,mvrf.0,11642,11697,hecht,11688,11690,er,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11718,11734,Sie Eingeweihter,hecht
+gdc-coref,mvrf.0,11702,12024,oberst,11738,11741,Das,Das7
+gdc-coref,mvrf.0,11702,12024,oberst,11747,11750,man,frau_weber_mutter
+gdc-coref,mvrf.0,11702,12024,oberst,11761,11764,man,frau_weber_mutter-/-lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11800,11802,er,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11818,11820,er,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11821,11825,sich,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11876,11884,der Esel,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11895,11898,ich,oberst
+gdc-coref,mvrf.0,11702,12024,oberst,11903,11907,sein,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11926,11935,sein Weib,frau_weber_mutter
+gdc-coref,mvrf.0,11702,12024,oberst,11926,11930,sein,lothar_weber_vater
+gdc-coref,mvrf.0,11702,12024,oberst,11947,11963,einen Hautpickel,einen-Hautpickel
+gdc-coref,mvrf.0,11702,12024,oberst,11965,11968,Man,man-(der-mensch)
+gdc-coref,mvrf.0,11702,12024,oberst,11981,11983,er,einen-Hautpickel
+gdc-coref,mvrf.0,11702,12024,oberst,12008,12010,er,einen-Hautpickel
+gdc-coref,mvrf.0,12029,12145,hecht,12043,12046,Sie,oberst
+gdc-coref,mvrf.0,12029,12145,hecht,12066,12074,den Sohn,karl
+gdc-coref,mvrf.0,12029,12145,hecht,12085,12087,er,karl
+gdc-coref,mvrf.0,12029,12145,hecht,12092,12105,seiner Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,12029,12145,hecht,12092,12098,seiner,karl
+gdc-coref,mvrf.0,12029,12145,hecht,12125,12144,seiner guten Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,12029,12145,hecht,12125,12131,seiner,karl
+gdc-coref,mvrf.0,12150,12179,karl,12165,12168,Ich,karl
+gdc-coref,mvrf.0,12184,12326,oberst,12192,12194,Er,karl
+gdc-coref,mvrf.0,12184,12326,oberst,12284,12325,"Leuten, die die Anschlagsäulen angiraffen","Leuten,-die-die-Anschlagsäulen-angiraffen"
+gdc-coref,mvrf.0,12184,12326,oberst,12292,12295,die,"Leuten,-die-die-Anschlagsäulen-angiraffen"
+gdc-coref,mvrf.0,12336,12348,_stage,12343,12347,sich,karl
+gdc-coref,mvrf.0,12331,12409,karl,12361,12367,Oberst,oberst
+gdc-coref,mvrf.0,12331,12409,karl,12373,12389,einem Tagelöhner,karl
+gdc-coref,mvrf.0,12414,12475,oberst,12422,12426,Karl,karl
+gdc-coref,mvrf.0,12414,12475,oberst,12457,12459,du,karl
+gdc-coref,mvrf.0,12414,12475,oberst,12466,12474,Verstand,Verstand
+gdc-coref,mvrf.0,12480,12757,karl,12503,12511,Verstand,Verstand
+gdc-coref,mvrf.0,12480,12757,karl,12516,12519,mir,karl
+gdc-coref,mvrf.0,12480,12757,karl,12533,12536,Ich,karl
+gdc-coref,mvrf.0,12480,12757,karl,12606,12609,ich,karl
+gdc-coref,mvrf.0,12480,12757,karl,12667,12677,Karl Weber,karl
+gdc-coref,mvrf.0,12480,12757,karl,12753,12756,ihm,karl
+gdc-coref,mvrf.0,12763,12810,hecht,12770,12773,Ich,hecht
+gdc-coref,mvrf.0,12763,12810,hecht,12779,12788,der erste,der-erste-(prädikativ-hecht-als-der-erste-der-mitleid-zeigt-ggü-familie-weber)
+gdc-coref,mvrf.0,12763,12810,hecht,12795,12797,wo,der-erste-(prädikativ-hecht-als-der-erste-der-mitleid-zeigt-ggü-familie-weber)
+gdc-coref,mvrf.0,12763,12810,hecht,12798,12805,Mitleid,Mitleid-(anteilnahme-hecht-ggü-familie-weber-wg-unglück)
+gdc-coref,mvrf.0,12815,12932,karl,12829,12832,Ich,karl
+gdc-coref,mvrf.0,12815,12932,karl,12851,12854,wir,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,12815,12932,karl,12884,12887,Ich,karl
+gdc-coref,mvrf.0,12815,12932,karl,12893,12906,"Ihnen, Oberst",oberst
+gdc-coref,mvrf.0,12937,12994,oberst,12961,12968,Bursche,karl
+gdc-coref,mvrf.0,12937,12994,oberst,12981,12983,du,karl
+gdc-coref,mvrf.0,12999,13032,hecht,13006,13009,Ich,hecht
+gdc-coref,mvrf.0,13037,13111,karl,13054,13057,ich,karl
+gdc-coref,mvrf.0,13037,13111,karl,13058,13062,mich,karl
+gdc-coref,mvrf.0,13037,13111,karl,13090,13096,meinen,karl
+gdc-coref,mvrf.0,13116,13183,oberst,13124,13132,"Karl, du",karl
+gdc-coref,mvrf.0,13116,13183,oberst,13138,13146,der Sohn,der-Sohn-(prädikativ-karl)
+gdc-coref,mvrf.0,13116,13183,oberst,13162,13175,deines Vaters,lothar_weber_vater
+gdc-coref,mvrf.0,13116,13183,oberst,13162,13168,deines,karl
+gdc-coref,mvrf.0,13188,13328,karl,13204,13207,ich,karl
+gdc-coref,mvrf.0,13188,13328,karl,13216,13225,alle Welt,man-(der-mensch)
+gdc-coref,mvrf.0,13188,13328,karl,13256,13259,ich,karl
+gdc-coref,mvrf.0,13188,13328,karl,13279,13290,die Familie,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,13188,13328,karl,13297,13301,sich,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,13188,13328,karl,13321,13327,Tränen,Tränen
+gdc-coref,mvrf.0,13333,13393,hecht,13358,13368,Herr Weber,karl
+gdc-coref,mvrf.0,13333,13393,hecht,13384,13386,es,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,13398,13591,oberst,13406,13409,Ich,oberst
+gdc-coref,mvrf.0,13398,13591,oberst,13424,13426,es,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,13398,13591,oberst,13454,13591,"Zum Beispiel, hast du uns gleich hinauszuwerfen. Mit Peitschen, dann wirst du sehen. Haue zuerst um dich, mache dir Platz zum Ueberlegen.",Unsinn
+gdc-coref,mvrf.0,13398,13591,oberst,13473,13475,du,karl
+gdc-coref,mvrf.0,13398,13591,oberst,13476,13479,uns,hecht-/-oberst
+gdc-coref,mvrf.0,13398,13591,oberst,13529,13531,du,karl
+gdc-coref,mvrf.0,13398,13591,oberst,13554,13558,dich,karl
+gdc-coref,mvrf.0,13398,13591,oberst,13566,13569,dir,karl
+gdc-coref,mvrf.0,13596,13634,hecht,13603,13606,Ich,hecht
+gdc-coref,mvrf.0,13596,13634,hecht,13617,13627,der Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,13639,13695,oberst,13652,13658,Unsinn,Unsinn
+gdc-coref,mvrf.0,13639,13695,oberst,13660,13677,Törichter Gedanke,Unsinn
+gdc-coref,mvrf.0,13639,13695,oberst,13679,13683,Karl,karl
+gdc-coref,mvrf.0,13639,13695,oberst,13691,13694,mir,oberst
+gdc-coref,mvrf.0,13700,13775,hecht,13707,13710,Ich,hecht
+gdc-coref,mvrf.0,13700,13775,hecht,13717,13746,den Zusammenbruch der Familie,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,13700,13775,hecht,13735,13746,der Familie,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,13700,13775,hecht,13751,13764,meiner Person,hecht
+gdc-coref,mvrf.0,13700,13775,hecht,13751,13757,meiner,hecht
+gdc-coref,mvrf.0,13780,13824,oberst,13796,13799,Sie,hecht
+gdc-coref,mvrf.0,13780,13824,oberst,13800,13803,ihn,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,13829,13857,hecht,13836,13839,Ich,hecht
+gdc-coref,mvrf.0,13869,13910,_stage,13878,13897,wuchtigen Schritten,Schritte-(oberst)
+gdc-coref,mvrf.0,13869,13910,_stage,13898,13906,der Türe,"Zur---------------Tür-(an-das-empfangszimmer-angrenzend,-unklar-welche-von-beiden,-oberst-kommt-und-geht-durch-diese-tür-ins-haus-daher-vermutl-korridortür))"
+gdc-coref,mvrf.0,13914,13943,hecht,13921,13924,Ich,hecht
+gdc-coref,mvrf.0,13955,13963,_stage,13958,13962,Karl,karl
+gdc-coref,mvrf.0,13948,14015,oberst,13964,14015,Der Herr wird heute nacht hier Gast sein oder Wirt.,die-anrüchige-Bedeutung
+gdc-coref,mvrf.0,13948,14015,oberst,13964,13972,Der Herr,hecht
+gdc-coref,mvrf.0,14020,14122,karl,14035,14058,die anrüchige Bedeutung,die-anrüchige-Bedeutung
+gdc-coref,mvrf.0,14020,14122,karl,14065,14068,Sie,oberst
+gdc-coref,mvrf.0,14020,14122,karl,14082,14088,Oberst,oberst
+gdc-coref,mvrf.0,14020,14122,karl,14099,14102,Sie,oberst
+gdc-coref,mvrf.0,14020,14122,karl,14113,14116,wir,mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,14127,14196,hecht,14142,14144,Er,oberst
+gdc-coref,mvrf.0,14127,14196,hecht,14150,14152,es,die-anrüchige-Bedeutung
+gdc-coref,mvrf.0,14127,14196,hecht,14159,14162,Sie,karl
+gdc-coref,mvrf.0,14127,14196,hecht,14183,14195,seinen Augen,einen-abscheulichen-------------Glauben-von-ihren-Nebenmenschen-(obersts-blick-auf-seine-mitmenschen)
+gdc-coref,mvrf.0,14127,14196,hecht,14183,14189,seinen,oberst
+gdc-coref,mvrf.0,14201,14221,karl,14211,14214,wir,mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,14226,14296,oberst,14234,14237,Ich,oberst
+gdc-coref,mvrf.0,14226,14296,oberst,14264,14268,Gott,Gott
+gdc-coref,mvrf.0,14226,14296,oberst,14273,14275,er,Gott
+gdc-coref,mvrf.0,14301,14340,hecht,14315,14318,Sie,oberst
+gdc-coref,mvrf.0,14301,14340,hecht,14325,14329,mich,hecht
+gdc-coref,mvrf.0,14345,14513,oberst,14353,14356,Wir,hecht-/-oberst
+gdc-coref,mvrf.0,14372,14513,_stage,14372,14376,Karl,karl
+gdc-coref,mvrf.0,14372,14513,_stage,14384,14406,dem weggehenden Oberst,oberst
+gdc-coref,mvrf.0,14372,14513,_stage,14428,14433,Hecht,hecht
+gdc-coref,mvrf.0,14372,14513,_stage,14441,14444,ihm,oberst
+gdc-coref,mvrf.0,14372,14513,_stage,14478,14486,der Türe,"Zur---------------Tür-(an-das-empfangszimmer-angrenzend,-unklar-welche-von-beiden,-oberst-kommt-und-geht-durch-diese-tür-ins-haus-daher-vermutl-korridortür))"
+gdc-coref,mvrf.0,14372,14513,_stage,14494,14498,sich,oberst
+gdc-coref,mvrf.0,14372,14513,_stage,14499,14509,der Oberst,oberst
+gdc-coref,mvrf.0,14518,14630,oberst,14537,14546,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,14518,14630,oberst,14552,14555,sie,mariechen_marie
+gdc-coref,mvrf.0,14518,14630,oberst,14563,14565,Er,oberst
+gdc-coref,mvrf.0,14518,14630,oberst,14571,14579,das Kind,mariechen_marie
+gdc-coref,mvrf.0,14518,14630,oberst,14583,14587,sich,oberst
+gdc-coref,mvrf.0,14518,14630,oberst,14595,14608,Du armes Kind,mariechen_marie
+gdc-coref,mvrf.0,14518,14630,oberst,14619,14629,zum Bruder,karl
+gdc-coref,mvrf.0,14635,14671,karl,14641,14647,Oberst,oberst
+gdc-coref,mvrf.0,14695,14754,karl,14701,14704,Sie,oberst
+gdc-coref,mvrf.0,14695,14754,karl,14726,14729,wir,karl-/-selma-+-1
+gdc-coref,mvrf.0,14759,14893,oberst,14767,14769,Du,karl
+gdc-coref,mvrf.0,14759,14893,oberst,14783,14799,was ich dir riet,Unsinn
+gdc-coref,mvrf.0,14759,14893,oberst,14787,14790,ich,oberst
+gdc-coref,mvrf.0,14759,14893,oberst,14791,14794,dir,karl
+gdc-coref,mvrf.0,14759,14893,oberst,14814,14816,du,karl
+gdc-coref,mvrf.0,14759,14893,oberst,14845,14856,Die Zukunft,des-Schicksals-(zukunft-famile-weber-ohne-vater)
+gdc-coref,mvrf.0,14759,14893,oberst,14863,14866,ich,oberst
+gdc-coref,mvrf.0,14759,14893,oberst,14886,14888,du,karl
+gdc-coref,mvrf.0,14759,14893,oberst,14889,14892,sie,des-Schicksals-(zukunft-famile-weber-ohne-vater)
+gdc-coref,mvrf.0,14898,14935,karl,14904,14908,Nein,Das8
+gdc-coref,mvrf.0,14898,14935,karl,14910,14913,Das,Das8
+gdc-coref,mvrf.0,14940,15199,oberst,14958,14960,du,karl
+gdc-coref,mvrf.0,14940,15199,oberst,15010,15015,Karls,karl
+gdc-coref,mvrf.0,14940,15199,oberst,15022,15040,ein leichter Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,14940,15199,oberst,15045,15059,fernes Brummen,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,14940,15199,oberst,15070,15080,ein Wetter,ein-Wetter
+gdc-coref,mvrf.0,14940,15199,oberst,15082,15092,Gute Nacht,Gute-Nacht
+gdc-coref,mvrf.0,14940,15199,oberst,15094,15103,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,15110,15199,_stage,15110,15119,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,15110,15199,_stage,15124,15134,ins Zimmer,Empfangszimmer-im-Hause-Weber
+gdc-coref,mvrf.0,15110,15199,_stage,15166,15198,ein Schulmädchen von zehn Jahren,mariechen_marie
+gdc-coref,mvrf.0,15110,15199,_stage,15187,15198,zehn Jahren,10-Jahre-(alter-marie)
+gdc-coref,mvrf.0,15203,15240,mariechen_marie,15226,15236,Gute Nacht,Gute-Nacht
+gdc-coref,mvrf.0,15250,15281,_stage,15253,15258,Hecht,hecht
+gdc-coref,mvrf.0,15245,15325,karl,15293,15314,ein schweres Gewitter,ein-Wetter
+gdc-coref,mvrf.0,15336,15351,_stage,15336,15340,sich,hecht
+gdc-coref,mvrf.0,15330,15366,hecht,15352,15355,Ich,hecht
+gdc-coref,mvrf.0,15371,15833,karl,15377,15380,Sie,hecht
+gdc-coref,mvrf.0,15371,15833,karl,15410,15413,uns,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,15371,15833,karl,15424,15427,ich,karl
+gdc-coref,mvrf.0,15371,15833,karl,15456,15459,mir,karl
+gdc-coref,mvrf.0,15371,15833,karl,15521,15541,dem schwarzen Himmel,unter-dem-blauen-Himmel
+gdc-coref,mvrf.0,15371,15833,karl,15597,15598,s,"eine-seltsame-Seligkeit-in-------------fester,-ernster-Trauer-(karls-glücksempfindung,-meint-evtl-seine-hoffnung)"
+gdc-coref,mvrf.0,15371,15833,karl,15602,15605,mir,karl
+gdc-coref,mvrf.0,15371,15833,karl,15611,15660,"eine seltsame Seligkeit in fester, ernster Trauer","eine-seltsame-Seligkeit-in-------------fester,-ernster-Trauer-(karls-glücksempfindung,-meint-evtl-seine-hoffnung)"
+gdc-coref,mvrf.0,15371,15833,karl,15701,15704,mir,karl
+gdc-coref,mvrf.0,15371,15833,karl,15705,15717,die Umgebung,die-Umgebung-(aktuelle-situation-wie-karl-sie-sieht)
+gdc-coref,mvrf.0,15371,15833,karl,15723,15726,sie,die-Umgebung-(aktuelle-situation-wie-karl-sie-sieht)
+gdc-coref,mvrf.0,15371,15833,karl,15783,15787,mich,karl
+gdc-coref,mvrf.0,15371,15833,karl,15794,15797,ich,karl
+gdc-coref,mvrf.0,15371,15833,karl,15809,15812,ich,karl
+gdc-coref,mvrf.0,15869,15907,mariechen_marie,15880,15890,Karlbruder,karl
+gdc-coref,mvrf.0,15869,15907,mariechen_marie,15892,15895,ich,mariechen_marie
+gdc-coref,mvrf.0,15912,15943,karl,15918,15921,Wir,karl-/-mariechen_marie
+gdc-coref,mvrf.0,15912,15943,karl,15934,15939,Licht,Licht-(die-lampen)
+gdc-coref,mvrf.0,15948,15978,hecht,15955,15957,Es,unter-dem-blauen-Himmel
+gdc-coref,mvrf.0,15983,16033,karl,16000,16015,"Sie, Herr Hecht",hecht
+gdc-coref,mvrf.0,16038,16100,hecht,16063,16066,Ich,hecht
+gdc-coref,mvrf.0,16038,16100,hecht,16072,16075,mir,hecht
+gdc-coref,mvrf.0,16115,16154,_stage,16121,16132,zum Fenster,hohe-----------Fenster
+gdc-coref,mvrf.0,16155,16218,_stage,16155,16171,Die Mutter Weber,frau_weber_mutter
+gdc-coref,mvrf.0,16155,16218,_stage,16194,16206,zur Nebentür,Türe-ins-Speisezimmer
+gdc-coref,mvrf.0,16222,16371,frau_weber_mutter,16234,16244,der Oberst,oberst
+gdc-coref,mvrf.0,16222,16371,frau_weber_mutter,16259,16262,Sie,hecht
+gdc-coref,mvrf.0,16222,16371,frau_weber_mutter,16324,16326,er,oberst
+gdc-coref,mvrf.0,16222,16371,frau_weber_mutter,16327,16330,mir,frau_weber_mutter
+gdc-coref,mvrf.0,16377,16407,karl,16396,16401,Grund,Grund-(der-mutter-oberst-nicht-zu-mögen)
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16420,16425,Grund,Grund-(der-mutter-oberst-nicht-zu-mögen)
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16428,16430,er,oberst
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16458,16470,der Hausherr,lothar_weber_vater
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16485,16487,du,karl
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16489,16491,er,oberst
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16496,16513,aus anderem Grund,aus-anderem-------------Grund-(absichten-des-oberst-ggü-familie-weber)
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16524,16527,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16533,16547,den Schleicher,oberst
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16552,16557,Hecht,hecht
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16567,16570,dem,oberst
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16580,16584,sich,man-(der-mensch)
+gdc-coref,mvrf.0,16412,16630,frau_weber_mutter,16602,16605,der,oberst
+gdc-coref,mvrf.0,16635,16706,hecht,16659,16661,er,oberst
+gdc-coref,mvrf.0,16635,16706,hecht,16662,16679,die beste Absicht,aus-anderem-------------Grund-(absichten-des-oberst-ggü-familie-weber)
+gdc-coref,mvrf.0,16635,16706,hecht,16686,16688,er,oberst
+gdc-coref,mvrf.0,16711,16796,frau_weber_mutter,16734,16737,Ihr,hecht
+gdc-coref,mvrf.0,16711,16796,frau_weber_mutter,16759,16796,Sie essen doch mit uns das Abendbrot?,Das9
+gdc-coref,mvrf.0,16711,16796,frau_weber_mutter,16759,16762,Sie,hecht
+gdc-coref,mvrf.0,16711,16796,frau_weber_mutter,16778,16781,uns,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,16711,16796,frau_weber_mutter,16782,16795,das Abendbrot,das-------------Abendbrot
+gdc-coref,mvrf.0,16801,16855,hecht,16808,16811,Das,Das9
+gdc-coref,mvrf.0,16801,16855,hecht,16817,16820,ich,hecht
+gdc-coref,mvrf.0,16801,16855,hecht,16842,16854,gnädige Frau,frau_weber_mutter
+gdc-coref,mvrf.0,16860,16894,karl,16866,16869,Wir,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,16860,16894,karl,16876,16893,solches Abendbrot,das-------------Abendbrot
+gdc-coref,mvrf.0,16942,17015,karl,16970,16973,Das,Das10
+gdc-coref,mvrf.0,16942,17015,karl,16979,16982,man,man-(der-mensch)
+gdc-coref,mvrf.0,16942,17015,karl,16993,16999,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,16942,17015,karl,17001,17014,wer bezahlt's,Das10
+gdc-coref,mvrf.0,16942,17015,karl,17013,17014,s,das-------------Abendbrot
+gdc-coref,mvrf.0,17020,17092,frau_weber_mutter,17045,17048,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,17097,17157,hecht,17104,17112,Ich gehe,es6
+gdc-coref,mvrf.0,17097,17157,hecht,17104,17107,Ich,hecht
+gdc-coref,mvrf.0,17097,17157,hecht,17114,17126,gnädige Frau,frau_weber_mutter
+gdc-coref,mvrf.0,17097,17157,hecht,17128,17130,es,es6
+gdc-coref,mvrf.0,17169,17183,_stage,17169,17177,zum Sohn,karl
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17184,17195,Du Jüngling,karl
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17200,17205,Hecht,hecht
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17207,17212,Tenor,Tenor-(stimme-tonfall-mutter)
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17239,17251,meinen Karl.,karl
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17239,17245,meinen,frau_weber_mutter
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17295,17298,ich,frau_weber_mutter
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17310,17315,Angst,Angst-(mutter)
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17330,17336,Kummer,dem-Kummer-seiner-ausgezeichneten-Frau
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17342,17349,Unglück,ins-Unglück-(der-familie-weber-als-folge-der-gefängnisstrafe-des-vaters)
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17374,17377,Sie,hecht
+gdc-coref,mvrf.0,17162,17400,frau_weber_mutter,17378,17382,mich,frau_weber_mutter
+gdc-coref,mvrf.0,17405,17448,karl,17411,17417,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,17405,17448,karl,17427,17432,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17487,17493,Lothar,lothar_weber_vater
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17520,17523,uns,mariechen_marie-/-selma-+-3-(familie-weber)
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17535,17556,die treuesten Freunde,hecht
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17579,17596,mein eigener Sohn,karl
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17579,17583,mein,frau_weber_mutter
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17607,17612,Ihnen,hecht
+gdc-coref,mvrf.0,17453,17626,frau_weber_mutter,17613,17625,den Beistand,Mitleid-(anteilnahme-hecht-ggü-familie-weber-wg-unglück)
+gdc-coref,mvrf.0,17631,17716,hecht,17638,17641,Ich,hecht
+gdc-coref,mvrf.0,17631,17716,hecht,17664,17676,Freundschaft,"der-ehrenwertesten-Absicht-(hechts-ggü-famile-weber,-meint-freundschaft)"
+gdc-coref,mvrf.0,17631,17716,hecht,17693,17696,man,karl
+gdc-coref,mvrf.0,17721,17751,frau_weber_mutter,17737,17741,Karl,karl
+gdc-coref,mvrf.0,17756,17815,karl,17766,17769,ich,karl
+gdc-coref,mvrf.0,17756,17815,karl,17770,17773,dir,frau_weber_mutter
+gdc-coref,mvrf.0,17756,17815,karl,17789,17792,Ich,karl
+gdc-coref,mvrf.0,17756,17815,karl,17797,17814,der Herr im Hause,Vater-(prädikativ-karl-als-vater)
+gdc-coref,mvrf.0,17756,17815,karl,17806,17814,im Hause,Hause-Weber
+gdc-coref,mvrf.0,17820,17856,frau_weber_mutter,17853,17855,du,karl
+gdc-coref,mvrf.0,17861,17924,karl,17871,17874,ich,karl
+gdc-coref,mvrf.0,17861,17924,karl,17907,17915,im Hause,Hause-Weber
+gdc-coref,mvrf.0,17929,18038,frau_weber_mutter,17963,17966,man,man-(der-mensch)
+gdc-coref,mvrf.0,17929,18038,frau_weber_mutter,17967,17971,dich,karl
+gdc-coref,mvrf.0,17929,18038,frau_weber_mutter,17977,18005,Herrn Hecht so zu beleidigen,eine-große-------------Unverfrorenheit
+gdc-coref,mvrf.0,17929,18038,frau_weber_mutter,17977,17988,Herrn Hecht,hecht
+gdc-coref,mvrf.0,17929,18038,frau_weber_mutter,18011,18037,eine große Unverfrorenheit,eine-große-------------Unverfrorenheit
+gdc-coref,mvrf.0,18043,18109,hecht,18055,18065,Herr Weber,karl
+gdc-coref,mvrf.0,18043,18109,hecht,18090,18093,ich,hecht
+gdc-coref,mvrf.0,18043,18109,hecht,18094,18102,das Feld,Hause-Weber
+gdc-coref,mvrf.0,18114,18156,karl,18141,18144,Sie,hecht
+gdc-coref,mvrf.0,18161,18272,frau_weber_mutter,18169,18179,Herr Weber,karl
+gdc-coref,mvrf.0,18161,18272,frau_weber_mutter,18183,18193,Herr Weber,karl
+gdc-coref,mvrf.0,18161,18272,frau_weber_mutter,18201,18204,Sie,frau_weber_mutter
+gdc-coref,mvrf.0,18161,18272,frau_weber_mutter,18213,18253,"den Kaufmann, der nicht sehr widerstrebt",hecht
+gdc-coref,mvrf.0,18161,18272,frau_weber_mutter,18227,18230,der,hecht
+gdc-coref,mvrf.0,18161,18272,frau_weber_mutter,18255,18271,ins Speisezimmer,ins-Speisezimmer
+gdc-coref,mvrf.0,18288,18316,_stage,18288,18294,Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,18320,18517,karl,18343,18353,Der Oberst,oberst
+gdc-coref,mvrf.0,18320,18517,karl,18367,18370,Wir,selma-/-frau_weber_mutter-+-2
+gdc-coref,mvrf.0,18320,18517,karl,18410,18413,ich,karl
+gdc-coref,mvrf.0,18320,18517,karl,18418,18428,der Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,18320,18517,karl,18434,18452,der eigenen Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,18320,18517,karl,18454,18456,Er,karl
+gdc-coref,mvrf.0,18320,18517,karl,18462,18466,sich,karl
+gdc-coref,mvrf.0,18482,18517,_stage,18482,18490,Die Türe,Türe-ins-Speisezimmer
+gdc-coref,mvrf.0,18482,18517,_stage,18497,18502,Selma,selma
+gdc-coref,mvrf.0,18521,18563,selma,18542,18545,wir,karl-/-selma
+gdc-coref,mvrf.0,18568,18615,karl,18591,18593,du,selma
+gdc-coref,mvrf.0,18568,18615,karl,18599,18614,meine Schwester,Meine-Schwester-(prädikativ-selma)
+gdc-coref,mvrf.0,18568,18615,karl,18599,18604,meine,karl
+gdc-coref,mvrf.0,18620,18652,selma,18627,18652,Es ist ja der von damals.,es7
+gdc-coref,mvrf.0,18620,18652,selma,18627,18629,Es,hecht
+gdc-coref,mvrf.0,18657,18740,karl,18663,18668,Selma,selma
+gdc-coref,mvrf.0,18657,18740,karl,18680,18696,was du mir sagst,es7
+gdc-coref,mvrf.0,18657,18740,karl,18684,18686,du,selma
+gdc-coref,mvrf.0,18657,18740,karl,18687,18690,mir,karl
+gdc-coref,mvrf.0,18657,18740,karl,18703,18705,es,es7
+gdc-coref,mvrf.0,18657,18740,karl,18730,18732,es,es7
+gdc-coref,mvrf.0,18745,18791,selma,18758,18761,Ich,selma
+gdc-coref,mvrf.0,18796,18838,karl,18812,18838,Die Peitsche! Er holt sie.,s4
+gdc-coref,mvrf.0,18796,18838,karl,18812,18825,Die Peitsche!,Die-Peitsche!
+gdc-coref,mvrf.0,18796,18838,karl,18826,18828,Er,karl
+gdc-coref,mvrf.0,18796,18838,karl,18834,18837,sie,Die-Peitsche!
+gdc-coref,mvrf.0,18849,18950,_stage,18853,18856,ihm,karl
+gdc-coref,mvrf.0,18849,18950,_stage,18857,18869,ein Weilchen,ein-Weilchen
+gdc-coref,mvrf.0,18849,18950,_stage,18911,18914,sie,selma
+gdc-coref,mvrf.0,18849,18950,_stage,18915,18916,s,s4
+gdc-coref,mvrf.0,18849,18950,_stage,18917,18927,der Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,18849,18950,_stage,18934,18949,ins Nebenzimmer,ins-Speisezimmer
+gdc-coref,mvrf.0,18843,19021,selma,18951,18957,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,18843,19021,selma,18959,18965,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,18971,19021,_stage,18971,18981,Die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,18971,19021,_stage,18990,18993,ihr,frau_weber_mutter
+gdc-coref,mvrf.0,18971,19021,_stage,18994,18999,Hecht,hecht
+gdc-coref,mvrf.0,19025,19055,selma,19032,19036,Karl,karl
+gdc-coref,mvrf.0,19025,19055,selma,19042,19054,die Peitsche,Die-Peitsche!
+gdc-coref,mvrf.0,19067,19100,_stage,19078,19086,der Türe,Türe-ins-Speisezimmer
+gdc-coref,mvrf.0,19067,19100,_stage,19087,19092,Hecht,hecht
+gdc-coref,mvrf.0,19060,19122,frau_weber_mutter,19108,19121,mein Liebchen,selma
+gdc-coref,mvrf.0,19060,19122,frau_weber_mutter,19108,19112,mein,frau_weber_mutter
+gdc-coref,mvrf.0,19127,19175,selma,19134,19137,Ich,selma
+gdc-coref,mvrf.0,19127,19175,selma,19143,19147,Karl,karl
+gdc-coref,mvrf.0,19127,19175,selma,19157,19175,Herr Hecht sei ...,s5
+gdc-coref,mvrf.0,19127,19175,selma,19157,19167,Herr Hecht,hecht
+gdc-coref,mvrf.0,19200,19220,selma,19207,19213,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,19225,19244,frau_weber_mutter,19237,19238,s,s5
+gdc-coref,mvrf.0,19249,19276,selma,19256,19262,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,19281,19310,frau_weber_mutter,19289,19292,Man,frau_weber_mutter
+gdc-coref,mvrf.0,19315,19344,selma,19332,19335,dir,frau_weber_mutter
+gdc-coref,mvrf.0,19349,19416,frau_weber_mutter,19361,19364,das,s5
+gdc-coref,mvrf.0,19349,19416,frau_weber_mutter,19376,19397,liebste Tochter Selma,selma
+gdc-coref,mvrf.0,19349,19416,frau_weber_mutter,19399,19415,Im Schmeichelton,Tenor-(stimme-tonfall-mutter)
+gdc-coref,mvrf.0,19421,19530,selma,19433,19437,Karl,karl
+gdc-coref,mvrf.0,19421,19530,selma,19443,19455,die Peitsche,Die-Peitsche!
+gdc-coref,mvrf.0,19458,19530,_stage,19467,19471,Karl,karl
+gdc-coref,mvrf.0,19458,19530,_stage,19472,19483,die Treppen,die-Treppen
+gdc-coref,mvrf.0,19458,19530,_stage,19498,19503,Hecht,hecht
+gdc-coref,mvrf.0,19458,19530,_stage,19510,19514,sich,hecht
+gdc-coref,mvrf.0,19541,19568,_stage,19541,19544,man,man-(der-mensch)
+gdc-coref,mvrf.0,19541,19568,_stage,19551,19554,ihr,frau_weber_mutter
+gdc-coref,mvrf.0,19541,19568,_stage,19555,19564,die Angst,Angst-(mutter)
+gdc-coref,mvrf.0,19534,19594,frau_weber_mutter,19569,19571,Er,karl
+gdc-coref,mvrf.0,19534,19594,frau_weber_mutter,19577,19581,sich,karl
+gdc-coref,mvrf.0,19599,19656,selma,19614,19615,s,ein-Wetter
+gdc-coref,mvrf.0,19599,19656,selma,19631,19646,Gießender Regen,Gießender-Regen
+gdc-coref,mvrf.0,19666,19739,_stage,19670,19698,einer kräftigen Reitpeitsche,Die-Peitsche!
+gdc-coref,mvrf.0,19666,19739,_stage,19708,19710,er,karl
+gdc-coref,mvrf.0,19661,19768,karl,19740,19746,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,19797,19825,karl,19803,19806,Ich,karl
+gdc-coref,mvrf.0,19797,19825,karl,19812,19815,dir,frau_weber_mutter
+gdc-coref,mvrf.0,19830,19879,frau_weber_mutter,19855,19857,du,karl
+gdc-coref,mvrf.0,19830,19879,frau_weber_mutter,19858,19862,mich,frau_weber_mutter
+gdc-coref,mvrf.0,19830,19879,frau_weber_mutter,19873,19878,Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,19884,19949,karl,19895,19897,du,frau_weber_mutter
+gdc-coref,mvrf.0,19884,19949,karl,19915,19921,Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,19884,19949,karl,19923,19927,Karl,karl
+gdc-coref,mvrf.0,19884,19949,karl,19938,19948,die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,19995,20038,karl,20011,20014,Sie,hecht
+gdc-coref,mvrf.0,19995,20038,karl,20023,20026,ich,karl
+gdc-coref,mvrf.0,20049,20107,_stage,20086,20092,seinem,hecht
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20184,20188,Karl,karl
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20199,20220,ein furchtbarer Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20225,20237,Donnerschlag,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20239,20249,die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20259,20264,Boden,Boden-(bühne)
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20266,20276,die beiden,karl-/-hecht
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20284,20292,einander,karl-/-hecht
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20318,20322,sich,karl-/-hecht
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20334,20339,Selma,selma
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20360,20369,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,20157,20402,frau_weber_mutter,20374,20378,sich,mariechen_marie
+gdc-coref,mvrf.0,20412,20474,_stage,20426,20436,die Stille,die-Stille-(sprechpause-aller)
+gdc-coref,mvrf.0,20412,20474,_stage,20438,20440,er,karl
+gdc-coref,mvrf.0,20407,20542,karl,20485,20489,mich,karl
+gdc-coref,mvrf.0,20407,20542,karl,20514,20518,alle,hecht-/-karl-+-3
+gdc-coref,mvrf.0,20547,20609,hecht,20580,20583,Ich,hecht
+gdc-coref,mvrf.0,20547,20609,hecht,20589,20592,sie,frau_weber_mutter
+gdc-coref,mvrf.0,20614,20642,karl,20620,20626,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,20657,20696,_stage,20673,20695,das Gesicht der Mutter,das-Gesicht-der-Mutter
+gdc-coref,mvrf.0,20657,20696,_stage,20685,20695,der Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,20647,20704,mariechen_marie,20697,20703,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,20709,20765,hecht,20716,20718,Es,Es-(schockzustand-mutter)
+gdc-coref,mvrf.0,20709,20765,hecht,20739,20742,wir,hecht-/-karl-+-3
+gdc-coref,mvrf.0,20709,20765,hecht,20751,20758,Tropfen,Tropfen
+gdc-coref,mvrf.0,20770,20807,karl,20783,20790,Tropfen,Tropfen
+gdc-coref,mvrf.0,20770,20807,karl,20792,20794,Er,karl
+gdc-coref,mvrf.0,20812,20918,hecht,20819,20824,Selma,selma
+gdc-coref,mvrf.0,20812,20918,hecht,20832,20836,Karl,karl
+gdc-coref,mvrf.0,20812,20918,hecht,20838,20843,Selma,selma
+gdc-coref,mvrf.0,20812,20918,hecht,20863,20865,es,Es-(schockzustand-mutter)
+gdc-coref,mvrf.0,20812,20918,hecht,20867,20872,Selma,selma
+gdc-coref,mvrf.0,20812,20918,hecht,20879,20884,Hecht,hecht
+gdc-coref,mvrf.0,20812,20918,hecht,20891,20895,sich,hecht
+gdc-coref,mvrf.0,20812,20918,hecht,20900,20910,Frau Weber,frau_weber_mutter
+gdc-coref,mvrf.0,20923,20950,frau_weber_mutter,20931,20950,Du bleibst doch da?,s6
+gdc-coref,mvrf.0,20923,20950,frau_weber_mutter,20931,20933,Du,hecht
+gdc-coref,mvrf.0,20955,21036,hecht,20962,20965,Ich,hecht
+gdc-coref,mvrf.0,20955,21036,hecht,20971,20972,s,s6
+gdc-coref,mvrf.0,20955,21036,hecht,20984,20986,es,es7
+gdc-coref,mvrf.0,20955,21036,hecht,20991,20994,ihn,karl
+gdc-coref,mvrf.0,20955,21036,hecht,21009,21013,mich,hecht
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21049,21058,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21060,21063,ich,frau_weber_mutter
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21087,21088,s,hecht
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21097,21100,der,lothar_weber_vater
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21118,21128,dein Vater,lothar_weber_vater
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21118,21122,dein,mariechen_marie
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21144,21147,dir,mariechen_marie
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21149,21151,er,lothar_weber_vater
+gdc-coref,mvrf.0,21041,21171,frau_weber_mutter,21159,21163,dich,mariechen_marie
+gdc-coref,mvrf.0,21176,21216,mariechen_marie,21195,21216,Ist der – Papa – tot?,s7
+gdc-coref,mvrf.0,21176,21216,mariechen_marie,21199,21209,der – Papa,lothar_weber_vater
+gdc-coref,mvrf.0,21221,21290,frau_weber_mutter,21229,21240,Du Dummchen,mariechen_marie
+gdc-coref,mvrf.0,21221,21290,frau_weber_mutter,21253,21262,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,21221,21290,frau_weber_mutter,21269,21270,s,s7
+gdc-coref,mvrf.0,21301,21336,_stage,21310,21312,Er,hecht
+gdc-coref,mvrf.0,21301,21336,_stage,21321,21331,Frau Weber,frau_weber_mutter
+gdc-coref,mvrf.0,21337,21385,_stage,21337,21341,Karl,karl
+gdc-coref,mvrf.0,21337,21385,_stage,21346,21351,Selma,selma
+gdc-coref,mvrf.0,21389,21417,karl,21405,21416,"dir, Mutter",frau_weber_mutter
+gdc-coref,mvrf.0,21422,21525,frau_weber_mutter,21447,21451,Karl,karl
+gdc-coref,mvrf.0,21422,21525,frau_weber_mutter,21473,21476,mir,frau_weber_mutter
+gdc-coref,mvrf.0,21422,21525,frau_weber_mutter,21478,21481,ich,frau_weber_mutter
+gdc-coref,mvrf.0,21422,21525,frau_weber_mutter,21504,21507,ich,frau_weber_mutter
+gdc-coref,mvrf.0,21422,21525,frau_weber_mutter,21508,21513,deine,karl
+gdc-coref,mvrf.0,21530,21575,karl,21536,21539,Ich,karl
+gdc-coref,mvrf.0,21530,21575,karl,21549,21551,du,frau_weber_mutter
+gdc-coref,mvrf.0,21530,21575,karl,21559,21564,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,21580,21685,frau_weber_mutter,21622,21625,ich,frau_weber_mutter
+gdc-coref,mvrf.0,21580,21685,frau_weber_mutter,21626,21629,den,lothar_weber_vater
+gdc-coref,mvrf.0,21580,21685,frau_weber_mutter,21664,21667,ich,frau_weber_mutter
+gdc-coref,mvrf.0,21690,21728,karl,21696,21698,Du,frau_weber_mutter
+gdc-coref,mvrf.0,21733,21839,frau_weber_mutter,21754,21770,Im Verrücktenton,Tenor-(stimme-tonfall-mutter)
+gdc-coref,mvrf.0,21733,21839,frau_weber_mutter,21779,21782,ich,frau_weber_mutter
+gdc-coref,mvrf.0,21733,21839,frau_weber_mutter,21812,21821,mein Mann,lothar_weber_vater
+gdc-coref,mvrf.0,21733,21839,frau_weber_mutter,21812,21816,mein,frau_weber_mutter
+gdc-coref,mvrf.0,21733,21839,frau_weber_mutter,21822,21834,im Zuchthaus,im-Zuchthaus
+gdc-coref,mvrf.0,21854,21897,_stage,21857,21867,der Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,21844,21923,mariechen_marie,21898,21904,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,21928,21991,karl,21943,21955,Im Zuchthaus,im-Zuchthaus
+gdc-coref,mvrf.0,21928,21991,karl,21959,21964,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,21928,21991,karl,21975,21984,Zuchthaus,im-Zuchthaus
+gdc-coref,mvrf.0,21928,21991,karl,21986,21990,Papa,lothar_weber_vater
+gdc-coref,mvrf.0,22037,22240,karl,22099,22108,ans Essen,das-------------Abendbrot
+gdc-coref,mvrf.0,22037,22240,karl,22135,22137,du,frau_weber_mutter
+gdc-coref,mvrf.0,22037,22240,karl,22159,22164,Nacht,Gute-Nacht
+gdc-coref,mvrf.0,22037,22240,karl,22168,22171,Ich,karl
+gdc-coref,mvrf.0,22037,22240,karl,22176,22179,ihn,
+gdc-coref,mvrf.0,22198,22240,_stage,22198,22207,Ein Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,22198,22240,_stage,22220,22224,Karl,karl
+gdc-coref,mvrf.0,22198,22240,_stage,22231,22235,sich,karl
+gdc-coref,mvrf.0,22244,22280,frau_weber_mutter,22252,22256,Karl,karl
+gdc-coref,mvrf.0,22244,22280,frau_weber_mutter,22265,22267,du,karl
+gdc-coref,mvrf.0,22244,22280,frau_weber_mutter,22268,22269,s,s8
+gdc-coref,mvrf.0,22295,22319,_stage,22310,22314,Karl,karl
+gdc-coref,mvrf.0,22285,22343,mariechen_marie,22320,22330,Karlbruder,karl
+gdc-coref,mvrf.0,22285,22343,mariechen_marie,22332,22342,Karlbruder,karl
+gdc-coref,mvrf.0,22348,22660,karl,22354,22367,"Mariechen, du",mariechen_marie
+gdc-coref,mvrf.0,22348,22660,karl,22380,22383,wir,karl-/-mariechen_marie
+gdc-coref,mvrf.0,22348,22660,karl,22393,22397,Papa,lothar_weber_vater
+gdc-coref,mvrf.0,22400,22660,_stage,22400,22406,Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,22400,22660,_stage,22407,22431,zum vorhergehenden Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,22400,22660,_stage,22433,22438,Selma,selma
+gdc-coref,mvrf.0,22400,22660,_stage,22445,22455,den beiden,karl-/-mariechen_marie
+gdc-coref,mvrf.0,22400,22660,_stage,22456,22470,durchs Fenster,hohe-----------Fenster
+gdc-coref,mvrf.0,22400,22660,_stage,22487,22498,einer Weile,ein-Weilchen
+gdc-coref,mvrf.0,22400,22660,_stage,22505,22508,man,man-(der-mensch)
+gdc-coref,mvrf.0,22400,22660,_stage,22509,22513,Karl,karl
+gdc-coref,mvrf.0,22400,22660,_stage,22572,22581,Mariechen,mariechen_marie
+gdc-coref,mvrf.0,22400,22660,_stage,22599,22609,die Treppe,die-Treppen
+gdc-coref,mvrf.0,22400,22660,_stage,22625,22651,Ein furchtbarer Platzregen,Gießender-Regen
+gdc-coref,mvrf.0,22664,22711,frau_weber_mutter,22672,22675,Wir,frau_weber_mutter-/-hecht
+gdc-coref,mvrf.0,22716,22742,hecht,22723,22741,Das bißchen Wetter,ein-Wetter
+gdc-coref,mvrf.0,22753,22870,_stage,22764,22783,einem grellen Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,22753,22870,_stage,22792,22802,der Himmel,unter-dem-blauen-Himmel
+gdc-coref,mvrf.0,22753,22870,_stage,22831,22869,ein fortwährendes Krachen und Knattern,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,22874,22928,frau_weber_mutter,22891,22927,"Der Weber, ganz lichtweiß im Fenster","Der-Weber,-ganz-lichtweiß-im-Fenster-(erscheinung-des-vaters-im-fenster,-evtl-ist-dies-auch-lüstling,-der-danach-kommt)"
+gdc-coref,mvrf.0,22874,22928,frau_weber_mutter,22917,22927,im Fenster,hohe-----------Fenster
+gdc-coref,mvrf.0,22939,22977,_stage,22965,22976,zum Fenster,hohe-----------Fenster
+gdc-coref,mvrf.0,22981,23011,frau_weber_mutter,22996,22997,s,"Der-Weber,-ganz-lichtweiß-im-Fenster-(erscheinung-des-vaters-im-fenster,-evtl-ist-dies-auch-lüstling,-der-danach-kommt)"
+gdc-coref,mvrf.0,22981,23011,frau_weber_mutter,22999,23002,ich,frau_weber_mutter
+gdc-coref,mvrf.0,22981,23011,frau_weber_mutter,23007,23010,ihn,lothar_weber_vater
+gdc-coref,mvrf.0,23016,23037,hecht,23023,23026,Das,"Der-Weber,-ganz-lichtweiß-im-Fenster-(erscheinung-des-vaters-im-fenster,-evtl-ist-dies-auch-lüstling,-der-danach-kommt)"
+gdc-coref,mvrf.0,23042,23076,selma,23054,23057,Ich,selma
+gdc-coref,mvrf.0,23042,23076,selma,23062,23065,ihn,lothar_weber_vater
+gdc-coref,mvrf.0,23088,23107,_stage,23093,23106,letzten Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,23081,23236,frau_weber_mutter,23128,23130,er,lothar_weber_vater
+gdc-coref,mvrf.0,23139,23236,_stage,23144,23154,eine Pause,die-Stille-(sprechpause-aller)
+gdc-coref,mvrf.0,23139,23236,_stage,23159,23169,zum Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,23139,23236,_stage,23182,23186,sich,frau_weber_mutter
+gdc-coref,mvrf.0,23139,23236,_stage,23187,23197,die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,23139,23236,_stage,23208,23219,beim Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,23240,23314,hecht,23282,23313,"die beiden, die im Regen tapsen",karl-/-mariechen_marie
+gdc-coref,mvrf.0,23240,23314,hecht,23294,23297,die,karl-/-mariechen_marie
+gdc-coref,mvrf.0,23240,23314,hecht,23298,23313,im Regen tapsen,es8
+gdc-coref,mvrf.0,23240,23314,hecht,23298,23306,im Regen,Gießender-Regen
+gdc-coref,mvrf.0,23319,23341,selma,23326,23329,Die,karl-/-mariechen_marie
+gdc-coref,mvrf.0,23346,23438,frau_weber_mutter,23374,23379,Ihnen,hecht
+gdc-coref,mvrf.0,23346,23438,frau_weber_mutter,23392,23395,sie,karl-/-mariechen_marie
+gdc-coref,mvrf.0,23346,23438,frau_weber_mutter,23407,23410,Sie,karl-/-mariechen_marie
+gdc-coref,mvrf.0,23346,23438,frau_weber_mutter,23415,23417,es,es8
+gdc-coref,mvrf.0,23346,23438,frau_weber_mutter,23426,23437,ihren Vater,lothar_weber_vater
+gdc-coref,mvrf.0,23346,23438,frau_weber_mutter,23426,23431,ihren,karl-/-mariechen_marie
+gdc-coref,mvrf.0,23443,23575,hecht,23460,23470,süßes Weib,frau_weber_mutter
+gdc-coref,mvrf.0,23443,23575,hecht,23472,23474,Er,hecht
+gdc-coref,mvrf.0,23443,23575,hecht,23482,23492,Frau Weber,frau_weber_mutter
+gdc-coref,mvrf.0,23443,23575,hecht,23496,23500,sich,frau_weber_mutter
+gdc-coref,mvrf.0,23443,23575,hecht,23516,23527,einem Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,23443,23575,hecht,23540,23545,Beide,frau_weber_mutter-/-hecht
+gdc-coref,mvrf.0,23443,23575,hecht,23546,23574,ins erleuchtete Speisezimmer,ins-Speisezimmer
+gdc-coref,mvrf.0,23580,23627,selma,23592,23594,du,frau_weber_mutter
+gdc-coref,mvrf.0,23580,23627,selma,23595,23598,mir,selma
+gdc-coref,mvrf.0,23580,23627,selma,23618,23626,Muttchen,frau_weber_mutter
+gdc-coref,mvrf.0,23632,23676,frau_weber_mutter,23651,23653,du,selma
+gdc-coref,mvrf.0,23632,23676,frau_weber_mutter,23666,23675,ein Paket,ein-Päckchen
+gdc-coref,mvrf.0,23681,23707,selma,23688,23702,Süßes Muttchen,frau_weber_mutter
+gdc-coref,mvrf.0,23712,23766,frau_weber_mutter,23724,23734,dem Sessel,Stühle
+gdc-coref,mvrf.0,23712,23766,frau_weber_mutter,23740,23743,man,man-(der-mensch)
+gdc-coref,mvrf.0,23712,23766,frau_weber_mutter,23749,23759,den Riegel,den-Riegel
+gdc-coref,mvrf.0,23777,23872,_stage,23783,23792,das Paket,ein-Päckchen
+gdc-coref,mvrf.0,23777,23872,_stage,23807,23820,eine Federboa,eine-Federboa
+gdc-coref,mvrf.0,23777,23872,_stage,23839,23843,sich,selma
+gdc-coref,mvrf.0,23777,23872,_stage,23844,23852,dieselbe,eine-Federboa
+gdc-coref,mvrf.0,23771,24010,selma,23873,23876,Ich,selma
+gdc-coref,mvrf.0,23895,24010,_stage,23918,23923,Nacht,Gute-Nacht
+gdc-coref,mvrf.0,23895,24010,_stage,23936,23942,Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,23895,24010,_stage,23946,23967,"Lüstling, Musiklehrer",luestling
+gdc-coref,mvrf.0,23895,24010,_stage,23983,23994,des Donners,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,23895,24010,_stage,24001,24009,die Türe,"Zur---------------Tür-(an-das-empfangszimmer-angrenzend,-unklar-welche-von-beiden,-oberst-kommt-und-geht-durch-diese-tür-ins-haus-daher-vermutl-korridortür))"
+gdc-coref,mvrf.0,24015,24381,luestling,24026,24065,"Immer kommt zur rechten Zeit, wer kommt",es9
+gdc-coref,mvrf.0,24015,24381,luestling,24072,24074,es,es9
+gdc-coref,mvrf.0,24015,24381,luestling,24082,24103,bei gewissen Pflanzen,bei-gewissen-Pflanzen
+gdc-coref,mvrf.0,24015,24381,luestling,24106,24115,Immergrün,bei-gewissen-Pflanzen
+gdc-coref,mvrf.0,24015,24381,luestling,24123,24126,man,man-(der-mensch)
+gdc-coref,mvrf.0,24015,24381,luestling,24189,24190,s,s9
+gdc-coref,mvrf.0,24015,24381,luestling,24228,24262,alle Spuren riechen und sie finden,s9
+gdc-coref,mvrf.0,24015,24381,luestling,24228,24239,alle Spuren,alle-Spuren
+gdc-coref,mvrf.0,24015,24381,luestling,24252,24255,sie,alle-Spuren
+gdc-coref,mvrf.0,24015,24381,luestling,24339,24342,dem,wer-dann-Mut-zum-Stubensteigen-hat
+gdc-coref,mvrf.0,24015,24381,luestling,24351,24352,s,s9
+gdc-coref,mvrf.0,24015,24381,luestling,24358,24361,mir,luestling
+gdc-coref,mvrf.0,24393,24418,_stage,24399,24403,sich,selma
+gdc-coref,mvrf.0,24422,24785,luestling,24450,24453,sie,selma
+gdc-coref,mvrf.0,24422,24785,luestling,24458,24462,mich,luestling
+gdc-coref,mvrf.0,24422,24785,luestling,24471,24503,Bin ihr vor dem Cabaret begegnet,s10
+gdc-coref,mvrf.0,24422,24785,luestling,24475,24478,ihr,selma
+gdc-coref,mvrf.0,24422,24785,luestling,24483,24494,dem Cabaret,dem-Cabaret
+gdc-coref,mvrf.0,24422,24785,luestling,24594,24595,s,s10
+gdc-coref,mvrf.0,24422,24785,luestling,24682,24685,sie,selma
+gdc-coref,mvrf.0,24422,24785,luestling,24769,24772,dir,selma
+gdc-coref,mvrf.0,24791,24830,selma,24798,24810,Meine Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,24791,24830,selma,24798,24803,Meine,selma
+gdc-coref,mvrf.0,24835,25084,luestling,24847,24853,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,24835,25084,luestling,24857,24870,Solche Mutter,"den-Müttern,-ohne-Vater"
+gdc-coref,mvrf.0,24835,25084,luestling,24880,24883,mir,luestling
+gdc-coref,mvrf.0,24835,25084,luestling,24898,24921,"den Müttern, ohne Vater","den-Müttern,-ohne-Vater"
+gdc-coref,mvrf.0,24835,25084,luestling,24932,24935,ich,luestling
+gdc-coref,mvrf.0,25018,25049,_stage,25041,25043,er,luestling
+gdc-coref,mvrf.0,24835,25084,luestling,25063,25066,sie,frau_weber_mutter
+gdc-coref,mvrf.0,25089,25182,selma,25155,25181,"der Kaufmann, dieser Hecht",hecht
+gdc-coref,mvrf.0,25187,25368,luestling,25209,25212,mir,luestling
+gdc-coref,mvrf.0,25187,25368,luestling,25216,25221,Jeder,man-(der-mensch)
+gdc-coref,mvrf.0,25187,25368,luestling,25259,25262,sie,dir
+gdc-coref,mvrf.0,25187,25368,luestling,25284,25287,sie,dir
+gdc-coref,mvrf.0,25187,25368,luestling,25294,25297,sie,dir
+gdc-coref,mvrf.0,25187,25368,luestling,25331,25334,Sie,selma
+gdc-coref,mvrf.0,25187,25368,luestling,25347,25352,ihrer,selma
+gdc-coref,mvrf.0,25375,25413,selma,25398,25401,mir,selma
+gdc-coref,mvrf.0,25441,25522,selma,25449,25463,Meine Freundin,Meine-Freundin
+gdc-coref,mvrf.0,25441,25522,selma,25449,25454,Meine,selma
+gdc-coref,mvrf.0,25441,25522,selma,25505,25509,jene,Meine-Freundin
+gdc-coref,mvrf.0,25441,25522,selma,25510,25521,alle Männer,alle-Männer
+gdc-coref,mvrf.0,25528,25946,luestling,25544,25547,sie,Meine-Freundin
+gdc-coref,mvrf.0,25528,25946,luestling,25560,25562,du,selma
+gdc-coref,mvrf.0,25528,25946,luestling,25580,25587,Mädchen,selma
+gdc-coref,mvrf.0,25528,25946,luestling,25604,25618,tausend Gönner,tausend-Gönner
+gdc-coref,mvrf.0,25528,25946,luestling,25628,25631,sie,tausend-Gönner
+gdc-coref,mvrf.0,25528,25946,luestling,25647,25650,mir,luestling
+gdc-coref,mvrf.0,25528,25946,luestling,25678,25681,ich,luestling
+gdc-coref,mvrf.0,25528,25946,luestling,25682,25699,deine Bildgraphie,deine-Bildgraphie
+gdc-coref,mvrf.0,25528,25946,luestling,25682,25687,deine,selma
+gdc-coref,mvrf.0,25528,25946,luestling,25707,25712,diese,deine-Bildgraphie
+gdc-coref,mvrf.0,25528,25946,luestling,25755,25758,sie,deine-Bildgraphie
+gdc-coref,mvrf.0,25528,25946,luestling,25774,25778,mich,luestling
+gdc-coref,mvrf.0,25528,25946,luestling,25786,25789,ich,luestling
+gdc-coref,mvrf.0,25528,25946,luestling,25796,25799,sie,deine-Bildgraphie
+gdc-coref,mvrf.0,25528,25946,luestling,25800,25803,mir,luestling
+gdc-coref,mvrf.0,25528,25946,luestling,25804,25821,beim Photographen,beim-Photographen
+gdc-coref,mvrf.0,25528,25946,luestling,25839,25854,den vom Cabaret,beim-Photographen
+gdc-coref,mvrf.0,25528,25946,luestling,25843,25854,vom Cabaret,dem-Cabaret
+gdc-coref,mvrf.0,25528,25946,luestling,25871,25874,ich,luestling
+gdc-coref,mvrf.0,25952,26035,selma,25960,25966,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,25952,26035,selma,25971,25974,mir,selma
+gdc-coref,mvrf.0,25952,26035,selma,26002,26004,es,Einem-treu-zu-bleiben
+gdc-coref,mvrf.0,25952,26035,selma,26012,26033,Einem treu zu bleiben,Einem-treu-zu-bleiben
+gdc-coref,mvrf.0,25952,26035,selma,26012,26017,Einem,alle-Männer
+gdc-coref,mvrf.0,26041,26326,luestling,26075,26078,mir,luestling
+gdc-coref,mvrf.0,26041,26326,luestling,26079,26096,eine Prachts-Idee,eine-Prachts-Idee
+gdc-coref,mvrf.0,26041,26326,luestling,26099,26110,Meine Karte,Meine-Karte
+gdc-coref,mvrf.0,26041,26326,luestling,26099,26104,Meine,luestling
+gdc-coref,mvrf.0,26041,26326,luestling,26116,26119,ich,luestling
+gdc-coref,mvrf.0,26041,26326,luestling,26124,26133,den Boden,Boden-(bühne)
+gdc-coref,mvrf.0,26041,26326,luestling,26173,26176,sie,selma
+gdc-coref,mvrf.0,26041,26326,luestling,26185,26190,Licht,Licht-(die-lampen)
+gdc-coref,mvrf.0,26041,26326,luestling,26220,26223,ich,luestling
+gdc-coref,mvrf.0,26274,26326,_stage,26274,26279,Blitz,ein---------------leichter-Blitz-(jeweils-unterschiedliche-blitze)
+gdc-coref,mvrf.0,26274,26326,_stage,26282,26288,Donner,fernes-Brummen-(jeweils-unterschiedliche-Donnergeräusche)
+gdc-coref,mvrf.0,26274,26326,_stage,26290,26298,Lüstling,luestling
+gdc-coref,mvrf.0,26274,26326,_stage,26318,26325,die Tür,"Zur---------------Tür-(an-das-empfangszimmer-angrenzend,-unklar-welche-von-beiden,-oberst-kommt-und-geht-durch-diese-tür-ins-haus-daher-vermutl-korridortür))"
+gdc-coref,mvrf.0,26330,26637,selma,26344,26347,mir,selma
+gdc-coref,mvrf.0,26330,26637,selma,26348,26353,Licht,Licht-(die-lampen)
+gdc-coref,mvrf.0,26356,26427,_stage,26356,26359,Sie,selma
+gdc-coref,mvrf.0,26330,26637,selma,26437,26459,dieses Rosenduftpapier,Meine-Karte
+gdc-coref,mvrf.0,26330,26637,selma,26470,26483,Unterricht im,Unterricht-im
+gdc-coref,mvrf.0,26330,26637,selma,26546,26562,"Lüstling, Lehrer",dem-Namen
+gdc-coref,mvrf.0,26330,26637,selma,26580,26581,s,s11
+gdc-coref,mvrf.0,26330,26637,selma,26587,26613,daß Vater nichts mehr sagt,s11
+gdc-coref,mvrf.0,26330,26637,selma,26591,26596,Vater,lothar_weber_vater
+gdc-coref,mvrf.0,26616,26637,_stage,26616,26626,Die Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,26649,26667,_stage,26649,26666,gerötetes Gesicht,das-Gesicht-der-Mutter
+gdc-coref,mvrf.0,26642,26762,frau_weber_mutter,26668,26673,Selma,selma
+gdc-coref,mvrf.0,26642,26762,frau_weber_mutter,26690,26699,zum Essen,das-------------Abendbrot
+gdc-coref,mvrf.0,26642,26762,frau_weber_mutter,26717,26720,ihr,selma
+gdc-coref,mvrf.0,26642,26762,frau_weber_mutter,26721,26737,die Visitenkarte,Meine-Karte
+gdc-coref,mvrf.0,26642,26762,frau_weber_mutter,26746,26748,du,selma
+gdc-coref,mvrf.0,26642,26762,frau_weber_mutter,26749,26761,diesen Herrn,luestling
+gdc-coref,mvrf.0,26784,26945,frau_weber_mutter,26792,26795,Das,Unterricht-im
+gdc-coref,mvrf.0,26784,26945,frau_weber_mutter,26831,26840,dem Namen,dem-Namen
+gdc-coref,mvrf.0,26784,26945,frau_weber_mutter,26850,26852,du,selma
+gdc-coref,mvrf.0,26784,26945,frau_weber_mutter,26883,26885,du,selma
+gdc-coref,mvrf.0,26784,26945,frau_weber_mutter,26901,26904,Wir,frau_weber_mutter-/-hecht
+gdc-coref,mvrf.0,26784,26945,frau_weber_mutter,26918,26924,Mutter,frau_weber_mutter
+gdc-coref,mvrf.0,26950,27076,selma,26969,26973,mich,selma
+gdc-coref,mvrf.0,26950,27076,selma,26974,26975,s,Unterricht-im
+gdc-coref,mvrf.0,26950,27076,selma,26985,26988,Ich,selma
+gdc-coref,mvrf.0,26950,27076,selma,27016,27019,Das,Unterricht-im
+gdc-coref,mvrf.0,26950,27076,selma,27042,27045,ich,selma
+gdc-coref,mvrf.0,28579,28768,brigitte,28698,28701,ich,brigitte
+gdc-coref,mvrf.0,28839,28857,karl,28851,28854,mir,karl
+gdc-coref,mvrf.0,28862,28919,brigitte,28894,28897,mir,brigitte
+gdc-coref,mvrf.0,28924,28968,karl,28930,28933,Ich,karl
+gdc-coref,mvrf.0,28924,28968,karl,28958,28961,ich,karl
+gdc-coref,mvrf.0,29200,29253,brigitte,29226,29229,mir,brigitte
+gdc-coref,mvrf.0,29200,29253,brigitte,29240,29243,ich,brigitte
+gdc-coref,mvrf.0,29258,29291,karl,29264,29267,Ich,karl
+gdc-coref,mvrf.0,29296,29334,brigitte,29311,29314,ich,brigitte
+gdc-coref,mvrf.0,29478,29688,brigitte,29617,29620,mir,brigitte
+gdc-coref,mvrf.0,30193,30346,brigitte,30326,30330,mein,brigitte
+gdc-coref,mvrf.0,30351,30456,karl,30373,30376,ich,karl
+gdc-coref,mvrf.0,30351,30456,karl,30400,30403,Ich,karl
+gdc-coref,mvrf.0,30351,30456,karl,30429,30432,ich,karl
+gdc-coref,mvrf.0,30461,30530,brigitte,30487,30493,meinen,brigitte
+gdc-coref,mvrf.0,30461,30530,brigitte,30508,30512,Mein,brigitte
+gdc-coref,mvrf.0,30536,30571,karl,30551,30554,ich,karl
+gdc-coref,mvrf.0,30576,30653,brigitte,30601,30607,meinen,brigitte
+gdc-coref,mvrf.0,30576,30653,brigitte,30616,30620,mich,brigitte
+gdc-coref,mvrf.0,30803,30853,karl,30820,30823,Ich,karl
+gdc-coref,mvrf.0,30858,30926,brigitte,30881,30884,ich,brigitte
+gdc-coref,mvrf.0,30963,31004,brigitte,30983,30987,mich,brigitte
+gdc-coref,mvrf.0,31009,31058,karl,31026,31029,ich,karl
+gdc-coref,mvrf.0,31221,31672,brigitte,31275,31278,Ich,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31287,31290,mir,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31336,31339,ich,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31365,31368,ich,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31381,31384,ich,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31402,31405,ich,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31479,31482,ich,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31483,31486,mir,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31502,31507,Meine,brigitte
+gdc-coref,mvrf.0,31221,31672,brigitte,31546,31549,ich,brigitte
+gdc-coref,mvrf.0,31677,31707,karl,31683,31686,Ich,karl
+gdc-coref,mvrf.0,31712,31819,brigitte,31732,31735,ich,brigitte
+gdc-coref,mvrf.0,31824,31940,karl,31830,31833,Ich,karl
+gdc-coref,mvrf.0,31824,31940,karl,31928,31931,ich,karl
+gdc-coref,mvrf.0,31945,32145,brigitte,31970,31973,mir,brigitte
+gdc-coref,mvrf.0,31945,32145,brigitte,31994,31997,Ich,brigitte
+gdc-coref,mvrf.0,31945,32145,brigitte,32018,32021,Ich,brigitte
+gdc-coref,mvrf.0,32171,32417,brigitte,32209,32212,ich,brigitte
+gdc-coref,mvrf.0,32171,32417,brigitte,32346,32349,ich,brigitte
+gdc-coref,mvrf.0,32471,32801,karl,32586,32589,ich,karl
+gdc-coref,mvrf.0,32471,32801,karl,32723,32726,Ich,karl
+gdc-coref,mvrf.0,33011,33178,karl,33025,33028,mir,karl
+gdc-coref,mvrf.0,33183,33463,oberst,33385,33389,mein,oberst
+gdc-coref,mvrf.0,33183,33463,oberst,33390,33393,ich,oberst
+gdc-coref,mvrf.0,33468,33596,karl,33482,33485,ich,karl
+gdc-coref,mvrf.0,33468,33596,karl,33496,33499,ich,karl
+gdc-coref,mvrf.0,33468,33596,karl,33518,33524,meinen,karl
+gdc-coref,mvrf.0,33601,33857,oberst,33646,33650,mich,oberst
+gdc-coref,mvrf.0,33601,33857,oberst,33664,33668,mein,oberst
+gdc-coref,mvrf.0,33601,33857,oberst,33669,33672,ich,oberst
+gdc-coref,mvrf.0,33601,33857,oberst,33717,33720,Ich,oberst
+gdc-coref,mvrf.0,33963,34251,oberst,34214,34217,ich,oberst
+gdc-coref,mvrf.0,34256,34460,karl,34348,34351,ich,karl
+gdc-coref,mvrf.0,34773,35019,karl,34787,34790,ich,karl
+gdc-coref,mvrf.0,34773,35019,karl,34812,34816,mein,karl
+gdc-coref,mvrf.0,34773,35019,karl,34834,34837,mir,karl
+gdc-coref,mvrf.0,34773,35019,karl,34948,34951,Ich,karl
+gdc-coref,mvrf.0,35151,35247,karl,35186,35192,meiner,karl
+gdc-coref,mvrf.0,35252,35944,oberst,35330,35333,Ich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35340,35344,mich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35395,35398,mir,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35511,35514,Ich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35613,35617,mich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35662,35665,ich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35689,35692,ich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35703,35706,ich,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35772,35775,mir,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35849,35855,meiner,oberst
+gdc-coref,mvrf.0,35252,35944,oberst,35889,35892,ich,oberst
+gdc-coref,mvrf.0,36441,36661,karl,36481,36486,meine,karl
+gdc-coref,mvrf.0,36441,36661,karl,36516,36519,ich,karl
+gdc-coref,mvrf.0,36441,36661,karl,36574,36580,meinen,karl
+gdc-coref,mvrf.0,36441,36661,karl,36595,36600,meine,karl
+gdc-coref,mvrf.0,36441,36661,karl,36637,36640,ich,karl
+gdc-coref,mvrf.0,36728,37035,oberst,36791,36797,meines,oberst
+gdc-coref,mvrf.0,36728,37035,oberst,36817,36823,meinen,oberst
+gdc-coref,mvrf.0,36728,37035,oberst,36841,36844,ich,oberst
+gdc-coref,mvrf.0,36728,37035,oberst,36928,36931,ich,oberst
+gdc-coref,mvrf.0,36728,37035,oberst,37007,37010,ich,oberst
+gdc-coref,mvrf.0,37040,37103,karl,37063,37066,mir,karl
+gdc-coref,mvrf.0,37040,37103,karl,37083,37087,mein,karl
+gdc-coref,mvrf.0,37213,37257,oberst,37247,37250,mir,oberst
+gdc-coref,mvrf.0,37262,37277,karl,37273,37276,mir,karl
+gdc-coref,mvrf.0,37328,37347,karl,37334,37339,Meine,karl
+gdc-coref,mvrf.0,37352,37417,oberst,37403,37408,meine,oberst
+gdc-coref,mvrf.0,37505,37537,karl,37511,37514,Ich,karl
+gdc-coref,mvrf.0,37990,38078,karl,38021,38024,ich,karl
+gdc-coref,mvrf.0,37990,38078,karl,38069,38072,mir,karl
+gdc-coref,mvrf.0,38083,38246,oberst,38153,38156,Ich,oberst
+gdc-coref,mvrf.0,38083,38246,oberst,38188,38191,ich,oberst
+gdc-coref,mvrf.0,38251,38292,karl,38272,38275,mir,karl
+gdc-coref,mvrf.0,38298,38357,oberst,38344,38347,mir,oberst
+gdc-coref,mvrf.0,38362,38404,karl,38393,38396,mir,karl
+gdc-coref,mvrf.0,38509,38549,karl,38537,38540,ich,karl
+gdc-coref,mvrf.0,38671,38774,karl,38701,38704,ich,karl
+gdc-coref,mvrf.0,38671,38774,karl,38769,38773,mich,karl
+gdc-coref,mvrf.0,38953,39016,karl,38986,38989,ich,karl
+gdc-coref,mvrf.0,38953,39016,karl,38996,39001,meine,karl
+gdc-coref,mvrf.0,39049,40123,karl,39064,39067,mir,karl
+gdc-coref,mvrf.0,39049,40123,karl,39107,39113,meines,karl
+gdc-coref,mvrf.0,39049,40123,karl,39417,39420,ich,karl
+gdc-coref,mvrf.0,39049,40123,karl,39711,39715,mein,karl
+gdc-coref,mvrf.0,39049,40123,karl,39865,39868,ich,karl
+gdc-coref,mvrf.0,39049,40123,karl,39888,39891,ich,karl
+gdc-coref,mvrf.0,40128,40227,oberst,40160,40163,ich,oberst
+gdc-coref,mvrf.0,40388,40527,oberst,40410,40413,ich,oberst
+gdc-coref,mvrf.0,40388,40527,oberst,40433,40436,ich,oberst
+gdc-coref,mvrf.0,40532,42009,karl,40563,40566,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40691,40694,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40708,40711,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40759,40762,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40846,40849,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40908,40911,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40947,40950,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,40973,40976,mir,karl
+gdc-coref,mvrf.0,40532,42009,karl,41050,41054,mich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41188,41194,meiner,karl
+gdc-coref,mvrf.0,40532,42009,karl,41225,41229,mich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41367,41371,mich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41380,41384,mich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41389,41395,meiner,karl
+gdc-coref,mvrf.0,40532,42009,karl,41423,41426,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41571,41574,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41625,41628,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41650,41653,mir,karl
+gdc-coref,mvrf.0,40532,42009,karl,41696,41699,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41740,41743,ich,karl
+gdc-coref,mvrf.0,40532,42009,karl,41744,41747,mir,karl
+gdc-coref,mvrf.0,40532,42009,karl,41849,41853,mich,karl
+gdc-coref,mvrf.0,42014,42170,oberst,42047,42050,ich,oberst
+gdc-coref,mvrf.0,42014,42170,oberst,42106,42109,ich,oberst
+gdc-coref,mvrf.0,42175,42649,karl,42245,42248,ich,karl
+gdc-coref,mvrf.0,42175,42649,karl,42294,42297,ich,karl
+gdc-coref,mvrf.0,42175,42649,karl,42343,42346,ich,karl
+gdc-coref,mvrf.0,42175,42649,karl,42368,42371,ich,karl
+gdc-coref,mvrf.0,42175,42649,karl,42459,42462,ich,karl
+gdc-coref,mvrf.0,42175,42649,karl,42463,42467,mich,karl
+gdc-coref,mvrf.0,42175,42649,karl,42475,42481,meiner,karl
+gdc-coref,mvrf.0,42175,42649,karl,42503,42506,ich,karl
+gdc-coref,mvrf.0,42749,42891,karl,42820,42823,Ich,karl
+gdc-coref,mvrf.0,42749,42891,karl,42842,42845,ich,karl
+gdc-coref,mvrf.0,42895,42966,mariechen_marie,42927,42930,mir,mariechen_marie
+gdc-coref,mvrf.0,43005,43250,mariechen_marie,43024,43027,ich,mariechen_marie
+gdc-coref,mvrf.0,43005,43250,mariechen_marie,43060,43063,Ich,mariechen_marie
+gdc-coref,mvrf.0,43005,43250,mariechen_marie,43084,43087,ich,mariechen_marie
+gdc-coref,mvrf.0,43429,43505,mariechen_marie,43442,43447,meine,mariechen_marie
+gdc-coref,mvrf.0,43833,43877,karl,43846,43849,ich,karl
+gdc-coref,mvrf.0,44168,44260,mariechen_marie,44196,44199,ich,mariechen_marie
+gdc-coref,mvrf.0,44334,44362,karl,44340,44343,Ich,karl
+gdc-coref,mvrf.0,44531,44658,mariechen_marie,44548,44551,ich,mariechen_marie
+gdc-coref,mvrf.0,44531,44658,mariechen_marie,44556,44562,meinem,mariechen_marie
+gdc-coref,mvrf.0,44817,44924,frau_weber_mutter,44834,44837,mir,frau_weber_mutter
+gdc-coref,mvrf.0,44817,44924,frau_weber_mutter,44880,44883,ich,frau_weber_mutter
+gdc-coref,mvrf.0,44929,45001,karl,44960,44963,ich,karl
+gdc-coref,mvrf.0,45006,45097,frau_weber_mutter,45014,45017,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,45302,45371,hecht,45318,45321,ich,hecht
+gdc-coref,mvrf.0,45376,45497,frau_weber_mutter,45401,45404,mir,frau_weber_mutter
+gdc-coref,mvrf.0,45591,45666,mariechen_marie,45598,45601,Ich,mariechen_marie
+gdc-coref,mvrf.0,45591,45666,mariechen_marie,45630,45634,mich,mariechen_marie
+gdc-coref,mvrf.0,46011,46088,frau_weber_mutter,46030,46033,ich,frau_weber_mutter
+gdc-coref,mvrf.0,46011,46088,frau_weber_mutter,46074,46079,meine,frau_weber_mutter
+gdc-coref,mvrf.0,46093,46213,karl,46181,46184,ich,karl
+gdc-coref,mvrf.0,46093,46213,karl,46192,46195,ich,karl
+gdc-coref,mvrf.0,46218,46262,frau_weber_mutter,46226,46231,Meine,frau_weber_mutter
+gdc-coref,mvrf.0,46267,46411,karl,46343,46346,mir,karl
+gdc-coref,mvrf.0,46416,46480,frau_weber_mutter,46429,46432,ich,frau_weber_mutter
+gdc-coref,mvrf.0,46485,46534,karl,46518,46521,ich,karl
+gdc-coref,mvrf.0,46633,46895,frau_weber_mutter,46672,46675,ich,frau_weber_mutter
+gdc-coref,mvrf.0,46633,46895,frau_weber_mutter,46704,46707,mir,frau_weber_mutter
+gdc-coref,mvrf.0,46633,46895,frau_weber_mutter,46730,46733,ich,frau_weber_mutter
+gdc-coref,mvrf.0,46633,46895,frau_weber_mutter,46773,46777,mich,frau_weber_mutter
+gdc-coref,mvrf.0,46633,46895,frau_weber_mutter,46852,46855,ich,frau_weber_mutter
+gdc-coref,mvrf.0,46633,46895,frau_weber_mutter,46879,46883,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47172,47219,karl,47192,47195,ich,karl
+gdc-coref,mvrf.0,47271,47403,karl,47286,47289,mir,karl
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47525,47528,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47554,47557,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47563,47567,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47585,47588,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47617,47620,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47626,47631,meine,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47714,47717,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47723,47727,mein,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47749,47752,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47786,47790,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47832,47835,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47408,47914,frau_weber_mutter,47859,47863,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48048,48051,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48062,48066,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48122,48125,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48169,48172,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48198,48201,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48261,48264,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48300,48303,ich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48339,48343,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48398,48402,mich,frau_weber_mutter
+gdc-coref,mvrf.0,47989,48444,frau_weber_mutter,48426,48430,mich,frau_weber_mutter
+gdc-coref,mvrf.0,48624,48736,frau_weber_mutter,48632,48635,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,48624,48736,frau_weber_mutter,48641,48645,mich,frau_weber_mutter
+gdc-coref,mvrf.0,48624,48736,frau_weber_mutter,48699,48702,ich,frau_weber_mutter
+gdc-coref,mvrf.0,48805,48870,hecht,48812,48815,Ich,hecht
+gdc-coref,mvrf.0,49048,49111,hecht,49070,49073,ich,hecht
+gdc-coref,mvrf.0,49116,49163,frau_weber_mutter,49145,49149,mich,frau_weber_mutter
+gdc-coref,mvrf.0,49200,49268,frau_weber_mutter,49263,49267,mich,frau_weber_mutter
+gdc-coref,mvrf.0,49273,49389,karl,49291,49294,mir,karl
+gdc-coref,mvrf.0,49273,49389,karl,49372,49375,ich,karl
+gdc-coref,mvrf.0,49273,49389,karl,49376,49379,mir,karl
+gdc-coref,mvrf.0,49394,49688,hecht,49441,49444,ich,hecht
+gdc-coref,mvrf.0,49394,49688,hecht,49504,49507,Ich,hecht
+gdc-coref,mvrf.0,49394,49688,hecht,49545,49549,mich,hecht
+gdc-coref,mvrf.0,49394,49688,hecht,49595,49600,meine,hecht
+gdc-coref,mvrf.0,49774,50021,hecht,49799,49802,Ich,hecht
+gdc-coref,mvrf.0,49774,50021,hecht,49889,49892,ich,hecht
+gdc-coref,mvrf.0,49774,50021,hecht,50002,50005,mir,hecht
+gdc-coref,mvrf.0,50026,50167,frau_weber_mutter,50076,50080,mich,frau_weber_mutter
+gdc-coref,mvrf.0,50172,50387,karl,50249,50252,ich,karl
+gdc-coref,mvrf.0,50392,50566,frau_weber_mutter,50545,50549,mich,frau_weber_mutter
+gdc-coref,mvrf.0,50638,50857,frau_weber_mutter,50672,50676,mich,frau_weber_mutter
+gdc-coref,mvrf.0,50638,50857,frau_weber_mutter,50722,50726,mich,frau_weber_mutter
+gdc-coref,mvrf.0,50638,50857,frau_weber_mutter,50780,50783,ich,frau_weber_mutter
+gdc-coref,mvrf.0,50638,50857,frau_weber_mutter,50842,50845,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,51259,51305,frau_weber_mutter,51289,51292,mir,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51403,51407,mich,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51432,51435,ich,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51490,51496,meinem,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51546,51550,mich,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51598,51601,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51680,51683,mir,frau_weber_mutter
+gdc-coref,mvrf.0,51344,51773,frau_weber_mutter,51731,51734,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,51778,51903,hecht,51832,51835,mir,hecht
+gdc-coref,mvrf.0,51778,51903,hecht,51861,51864,ich,hecht
+gdc-coref,mvrf.0,51778,51903,hecht,51887,51890,ich,hecht
+gdc-coref,mvrf.0,51908,52192,frau_weber_mutter,51930,51933,mir,frau_weber_mutter
+gdc-coref,mvrf.0,51908,52192,frau_weber_mutter,52007,52010,mir,frau_weber_mutter
+gdc-coref,mvrf.0,51908,52192,frau_weber_mutter,52101,52105,mich,frau_weber_mutter
+gdc-coref,mvrf.0,52255,52378,frau_weber_mutter,52333,52336,ich,frau_weber_mutter
+gdc-coref,mvrf.0,52255,52378,frau_weber_mutter,52362,52365,ich,frau_weber_mutter
+gdc-coref,mvrf.0,52383,52454,hecht,52428,52431,ich,hecht
+gdc-coref,mvrf.0,52459,52618,frau_weber_mutter,52467,52470,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,52459,52618,frau_weber_mutter,52495,52498,ich,frau_weber_mutter
+gdc-coref,mvrf.0,52459,52618,frau_weber_mutter,52554,52557,mir,frau_weber_mutter
+gdc-coref,mvrf.0,52459,52618,frau_weber_mutter,52596,52599,ich,frau_weber_mutter
+gdc-coref,mvrf.0,52623,52705,hecht,52639,52642,ich,hecht
+gdc-coref,mvrf.0,52623,52705,hecht,52664,52668,mich,hecht
+gdc-coref,mvrf.0,52816,52862,frau_weber_mutter,52841,52845,mich,frau_weber_mutter
+gdc-coref,mvrf.0,52867,52964,hecht,52902,52905,ich,hecht
+gdc-coref,mvrf.0,52867,52964,hecht,52959,52963,mich,hecht
+gdc-coref,mvrf.0,53156,53275,hecht,53163,53166,Ich,hecht
+gdc-coref,mvrf.0,53156,53275,hecht,53173,53177,mich,hecht
+gdc-coref,mvrf.0,53156,53275,hecht,53192,53195,ich,hecht
+gdc-coref,mvrf.0,53280,53337,frau_weber_mutter,53305,53308,ich,frau_weber_mutter
+gdc-coref,mvrf.0,53342,53381,hecht,53365,53368,Ich,hecht
+gdc-coref,mvrf.0,53386,53682,frau_weber_mutter,53487,53490,mir,frau_weber_mutter
+gdc-coref,mvrf.0,53386,53682,frau_weber_mutter,53511,53515,mich,frau_weber_mutter
+gdc-coref,mvrf.0,53386,53682,frau_weber_mutter,53572,53575,ich,frau_weber_mutter
+gdc-coref,mvrf.0,53386,53682,frau_weber_mutter,53595,53598,ich,frau_weber_mutter
+gdc-coref,mvrf.0,53386,53682,frau_weber_mutter,53619,53623,mich,frau_weber_mutter
+gdc-coref,mvrf.0,53687,53813,hecht,53730,53733,Ich,hecht
+gdc-coref,mvrf.0,53960,54064,hecht,53974,53977,ich,hecht
+gdc-coref,mvrf.0,54132,54526,johanna,54463,54467,mich,johanna
+gdc-coref,mvrf.0,54132,54526,johanna,54496,54499,ich,johanna
+gdc-coref,mvrf.0,54655,54722,johanna,54669,54672,ich,johanna
+gdc-coref,mvrf.0,55035,55085,johanna,55051,55055,mich,johanna
+gdc-coref,mvrf.0,55090,55252,frau_weber_mutter,55118,55121,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,55090,55252,frau_weber_mutter,55157,55160,mir,frau_weber_mutter
+gdc-coref,mvrf.0,55257,55366,johanna,55299,55302,ich,johanna
+gdc-coref,mvrf.0,55257,55366,johanna,55339,55342,ich,johanna
+gdc-coref,mvrf.0,55508,55555,johanna,55533,55536,Ich,johanna
+gdc-coref,mvrf.0,55922,56049,johanna,55985,55988,ich,johanna
+gdc-coref,mvrf.0,55922,56049,johanna,55995,55999,mein,johanna
+gdc-coref,mvrf.0,56150,56281,johanna,56183,56186,ich,johanna
+gdc-coref,mvrf.0,56150,56281,johanna,56269,56272,ich,johanna
+gdc-coref,mvrf.0,56458,56565,hecht,56515,56518,Ich,hecht
+gdc-coref,mvrf.0,56570,56604,johanna,56579,56582,Ich,johanna
+gdc-coref,mvrf.0,56570,56604,johanna,56592,56596,mein,johanna
+gdc-coref,mvrf.0,56726,56900,johanna,56735,56739,Mein,johanna
+gdc-coref,mvrf.0,56726,56900,johanna,56790,56794,mich,johanna
+gdc-coref,mvrf.0,56726,56900,johanna,56821,56824,ich,johanna
+gdc-coref,mvrf.0,56726,56900,johanna,56868,56871,ich,johanna
+gdc-coref,mvrf.0,57069,57200,johanna,57078,57081,Ich,johanna
+gdc-coref,mvrf.0,57069,57200,johanna,57114,57117,ich,johanna
+gdc-coref,mvrf.0,57069,57200,johanna,57148,57151,Ich,johanna
+gdc-coref,mvrf.0,57069,57200,johanna,57188,57191,ich,johanna
+gdc-coref,mvrf.0,57249,57340,frau_weber_mutter,57294,57299,meine,frau_weber_mutter
+gdc-coref,mvrf.0,57345,57415,johanna,57354,57357,Ich,johanna
+gdc-coref,mvrf.0,57451,57553,johanna,57471,57475,mich,johanna
+gdc-coref,mvrf.0,57687,57747,hecht,57722,57725,ich,hecht
+gdc-coref,mvrf.0,57897,57950,hecht,57916,57919,ich,hecht
+gdc-coref,mvrf.0,58008,58283,hecht,58026,58030,mein,hecht
+gdc-coref,mvrf.0,58008,58283,hecht,58079,58082,Ich,hecht
+gdc-coref,mvrf.0,58008,58283,hecht,58172,58175,ich,hecht
+gdc-coref,mvrf.0,58008,58283,hecht,58218,58221,ich,hecht
+gdc-coref,mvrf.0,58397,58439,hecht,58425,58428,ich,hecht
+gdc-coref,mvrf.0,58493,58626,hecht,58511,58514,ich,hecht
+gdc-coref,mvrf.0,58493,58626,hecht,58558,58561,ich,hecht
+gdc-coref,mvrf.0,58754,58985,frau_weber_mutter,58771,58774,ich,frau_weber_mutter
+gdc-coref,mvrf.0,58754,58985,frau_weber_mutter,58790,58793,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,59134,59169,frau_weber_mutter,59158,59161,mir,frau_weber_mutter
+gdc-coref,mvrf.0,59174,59244,selma,59202,59205,mir,selma
+gdc-coref,mvrf.0,59174,59244,selma,59207,59210,Ich,selma
+gdc-coref,mvrf.0,60080,60171,selma,60145,60148,mir,selma
+gdc-coref,mvrf.0,60176,60756,luestling,60316,60322,meiner,luestling
+gdc-coref,mvrf.0,60176,60756,luestling,60344,60347,ich,luestling
+gdc-coref,mvrf.0,60176,60756,luestling,60386,60389,ich,luestling
+gdc-coref,mvrf.0,60176,60756,luestling,60417,60420,Ich,luestling
+gdc-coref,mvrf.0,60176,60756,luestling,60509,60512,Ich,luestling
+gdc-coref,mvrf.0,60176,60756,luestling,60655,60658,ich,luestling
+gdc-coref,mvrf.0,60176,60756,luestling,60717,60721,mein,luestling
+gdc-coref,mvrf.0,60761,60811,selma,60793,60796,ich,selma
+gdc-coref,mvrf.0,60816,60892,frau_weber_mutter,60858,60862,mich,frau_weber_mutter
+gdc-coref,mvrf.0,60897,60933,luestling,60907,60910,Ich,luestling
+gdc-coref,mvrf.0,61010,61061,luestling,61025,61028,ich,luestling
+gdc-coref,mvrf.0,61066,61151,frau_weber_mutter,61086,61092,meinem,frau_weber_mutter
+gdc-coref,mvrf.0,61246,61335,luestling,61260,61263,ich,luestling
+gdc-coref,mvrf.0,61246,61335,luestling,61265,61268,ich,luestling
+gdc-coref,mvrf.0,61339,61550,luestling,61381,61384,mir,luestling
+gdc-coref,mvrf.0,61555,61618,hecht,61577,61580,ich,hecht
+gdc-coref,mvrf.0,61555,61618,hecht,61609,61613,mich,hecht
+gdc-coref,mvrf.0,63304,63364,johanna,63321,63325,mich,johanna
+gdc-coref,mvrf.0,63304,63364,johanna,63341,63344,ich,johanna
+gdc-coref,mvrf.0,63458,63509,lothar_weber_vater,63465,63468,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,63514,63576,johanna,63553,63556,Ich,johanna
+gdc-coref,mvrf.0,63582,63676,lothar_weber_vater,63605,63608,ich,lothar_weber_vater
+gdc-coref,mvrf.0,63582,63676,lothar_weber_vater,63609,63613,mich,lothar_weber_vater
+gdc-coref,mvrf.0,63582,63676,lothar_weber_vater,63647,63650,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,63681,63782,johanna,63761,63764,mir,johanna
+gdc-coref,mvrf.0,63927,63979,lothar_weber_vater,63943,63947,mein,lothar_weber_vater
+gdc-coref,mvrf.0,63927,63979,lothar_weber_vater,63966,63970,mein,lothar_weber_vater
+gdc-coref,mvrf.0,63984,64398,johanna,64320,64323,ich,johanna
+gdc-coref,mvrf.0,63984,64398,johanna,64332,64335,Ich,johanna
+gdc-coref,mvrf.0,64403,64432,lothar_weber_vater,64420,64423,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,64437,64482,johanna,64450,64453,Ich,johanna
+gdc-coref,mvrf.0,64487,64544,lothar_weber_vater,64494,64497,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,64487,64544,lothar_weber_vater,64532,64537,meine,lothar_weber_vater
+gdc-coref,mvrf.0,64549,64745,johanna,64602,64606,mich,johanna
+gdc-coref,mvrf.0,64750,64824,lothar_weber_vater,64814,64818,mein,lothar_weber_vater
+gdc-coref,mvrf.0,64829,64998,johanna,64881,64884,mir,johanna
+gdc-coref,mvrf.0,65003,65089,lothar_weber_vater,65010,65013,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,65094,65162,johanna,65106,65112,meinen,johanna
+gdc-coref,mvrf.0,65167,65317,lothar_weber_vater,65178,65184,meiner,lothar_weber_vater
+gdc-coref,mvrf.0,65440,65485,johanna,65457,65460,mir,johanna
+gdc-coref,mvrf.0,65519,65711,johanna,65537,65540,Ich,johanna
+gdc-coref,mvrf.0,65519,65711,johanna,65626,65629,ich,johanna
+gdc-coref,mvrf.0,65519,65711,johanna,65688,65691,ich,johanna
+gdc-coref,mvrf.0,65519,65711,johanna,65697,65701,mich,johanna
+gdc-coref,mvrf.0,65716,65746,lothar_weber_vater,65734,65740,meinem,lothar_weber_vater
+gdc-coref,mvrf.0,65751,65857,johanna,65771,65774,ich,johanna
+gdc-coref,mvrf.0,65751,65857,johanna,65800,65803,mir,johanna
+gdc-coref,mvrf.0,65862,66140,lothar_weber_vater,65906,65909,mir,lothar_weber_vater
+gdc-coref,mvrf.0,65862,66140,lothar_weber_vater,65948,65951,ich,lothar_weber_vater
+gdc-coref,mvrf.0,65862,66140,lothar_weber_vater,65981,65985,mich,lothar_weber_vater
+gdc-coref,mvrf.0,66310,66345,lothar_weber_vater,66317,66320,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,66350,66638,johanna,66462,66465,Ich,johanna
+gdc-coref,mvrf.0,66642,66747,lothar_weber_vater,66709,66713,mein,lothar_weber_vater
+gdc-coref,mvrf.0,66642,66747,lothar_weber_vater,66729,66732,ich,lothar_weber_vater
+gdc-coref,mvrf.0,66752,66966,johanna,66882,66885,ich,johanna
+gdc-coref,mvrf.0,66752,66966,johanna,66896,66899,ich,johanna
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67140,67143,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67148,67152,mich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67188,67191,ich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67227,67230,ich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67252,67255,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67282,67286,mich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67389,67392,ich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67409,67412,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67418,67422,mein,lothar_weber_vater
+gdc-coref,mvrf.0,67106,67740,lothar_weber_vater,67562,67565,mir,lothar_weber_vater
+gdc-coref,mvrf.0,68235,68329,lothar_weber_vater,68280,68283,mir,lothar_weber_vater
+gdc-coref,mvrf.0,68235,68329,lothar_weber_vater,68303,68306,ich,lothar_weber_vater
+gdc-coref,mvrf.0,68334,68360,johanna,68353,68356,ich,johanna
+gdc-coref,mvrf.0,68365,68435,lothar_weber_vater,68381,68385,mein,lothar_weber_vater
+gdc-coref,mvrf.0,68601,68651,johanna,68627,68630,Ich,johanna
+gdc-coref,mvrf.0,69180,69642,karl,69326,69329,ich,karl
+gdc-coref,mvrf.0,69180,69642,karl,69431,69435,mich,karl
+gdc-coref,mvrf.0,69180,69642,karl,69485,69488,ich,karl
+gdc-coref,mvrf.0,69701,69764,lothar_weber_vater,69714,69717,ich,lothar_weber_vater
+gdc-coref,mvrf.0,69701,69764,lothar_weber_vater,69737,69740,ich,lothar_weber_vater
+gdc-coref,mvrf.0,69769,69804,karl,69782,69786,mich,karl
+gdc-coref,mvrf.0,69809,69874,lothar_weber_vater,69816,69819,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,69809,69874,lothar_weber_vater,69863,69866,mir,lothar_weber_vater
+gdc-coref,mvrf.0,69966,70018,johanna,69984,69988,mich,johanna
+gdc-coref,mvrf.0,70023,70110,karl,70036,70040,mich,karl
+gdc-coref,mvrf.0,70023,70110,karl,70072,70075,Ich,karl
+gdc-coref,mvrf.0,70167,70233,johanna,70180,70183,ich,johanna
+gdc-coref,mvrf.0,70280,70349,johanna,70299,70302,ich,johanna
+gdc-coref,mvrf.0,70280,70349,johanna,70327,70330,ich,johanna
+gdc-coref,mvrf.0,70509,70626,karl,70538,70542,mich,karl
+gdc-coref,mvrf.0,70509,70626,karl,70554,70557,Ich,karl
+gdc-coref,mvrf.0,70509,70626,karl,70607,70610,ich,karl
+gdc-coref,mvrf.0,70631,70685,johanna,70665,70669,mich,johanna
+gdc-coref,mvrf.0,70736,70811,johanna,70745,70748,Ich,johanna
+gdc-coref,mvrf.0,70816,70869,karl,70848,70851,Ich,karl
+gdc-coref,mvrf.0,70874,71059,johanna,70923,70926,ich,johanna
+gdc-coref,mvrf.0,70874,71059,johanna,70941,70944,ich,johanna
+gdc-coref,mvrf.0,71065,71131,lothar_weber_vater,71086,71090,mich,lothar_weber_vater
+gdc-coref,mvrf.0,71136,71678,karl,71308,71314,meinen,karl
+gdc-coref,mvrf.0,71136,71678,karl,71516,71519,ich,karl
+gdc-coref,mvrf.0,71683,71899,johanna,71761,71765,mich,johanna
+gdc-coref,mvrf.0,71683,71899,johanna,71800,71804,mein,johanna
+gdc-coref,mvrf.0,71683,71899,johanna,71849,71852,ich,johanna
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,71943,71946,mir,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,71984,71987,ich,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,72061,72064,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,72120,72123,mir,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,72129,72132,ich,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,72174,72177,ich,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,72236,72240,mich,lothar_weber_vater
+gdc-coref,mvrf.0,71904,72291,lothar_weber_vater,72242,72245,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,72296,72343,karl,72319,72322,mir,karl
+gdc-coref,mvrf.0,72348,72465,lothar_weber_vater,72355,72358,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,72348,72465,lothar_weber_vater,72379,72382,ich,lothar_weber_vater
+gdc-coref,mvrf.0,72470,72725,karl,72480,72483,ich,karl
+gdc-coref,mvrf.0,72470,72725,karl,72546,72550,mich,karl
+gdc-coref,mvrf.0,72470,72725,karl,72614,72617,Ich,karl
+gdc-coref,mvrf.0,72470,72725,karl,72638,72643,meine,karl
+gdc-coref,mvrf.0,72470,72725,karl,72659,72662,mir,karl
+gdc-coref,mvrf.0,72470,72725,karl,72663,72667,mein,karl
+gdc-coref,mvrf.0,72470,72725,karl,72700,72704,mich,karl
+gdc-coref,mvrf.0,72730,72859,lothar_weber_vater,72743,72746,ich,lothar_weber_vater
+gdc-coref,mvrf.0,72730,72859,lothar_weber_vater,72841,72844,mir,lothar_weber_vater
+gdc-coref,mvrf.0,72864,72992,karl,72870,72874,Mein,karl
+gdc-coref,mvrf.0,72864,72992,karl,72902,72906,mich,karl
+gdc-coref,mvrf.0,72864,72992,karl,72971,72974,mir,karl
+gdc-coref,mvrf.0,72997,73038,lothar_weber_vater,73010,73013,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,73043,73150,karl,73049,73052,Ich,karl
+gdc-coref,mvrf.0,73043,73150,karl,73101,73104,ich,karl
+gdc-coref,mvrf.0,73043,73150,karl,73125,73128,ich,karl
+gdc-coref,mvrf.0,73191,73269,johanna,73241,73244,ich,johanna
+gdc-coref,mvrf.0,73274,73322,lothar_weber_vater,73304,73308,mich,lothar_weber_vater
+gdc-coref,mvrf.0,73401,73460,johanna,73432,73435,ich,johanna
+gdc-coref,mvrf.0,73465,73650,karl,73505,73509,mich,karl
+gdc-coref,mvrf.0,73465,73650,karl,73637,73640,ich,karl
+gdc-coref,mvrf.0,73655,73803,johanna,73704,73707,ich,johanna
+gdc-coref,mvrf.0,73655,73803,johanna,73748,73751,ich,johanna
+gdc-coref,mvrf.0,73655,73803,johanna,73778,73781,mir,johanna
+gdc-coref,mvrf.0,73808,73984,karl,73839,73843,mein,karl
+gdc-coref,mvrf.0,73808,73984,karl,73918,73922,Mich,karl
+gdc-coref,mvrf.0,73808,73984,karl,73936,73940,mein,karl
+gdc-coref,mvrf.0,73808,73984,karl,73974,73977,ich,karl
+gdc-coref,mvrf.0,73989,74226,lothar_weber_vater,74007,74011,mich,lothar_weber_vater
+gdc-coref,mvrf.0,73989,74226,lothar_weber_vater,74058,74061,ich,lothar_weber_vater
+gdc-coref,mvrf.0,74231,74407,karl,74363,74366,ich,karl
+gdc-coref,mvrf.0,74845,75033,karl,75001,75005,mich,karl
+gdc-coref,mvrf.0,74845,75033,karl,75007,75010,ich,karl
+gdc-coref,mvrf.0,74845,75033,karl,75018,75021,mir,karl
+gdc-coref,mvrf.0,75038,75212,lothar_weber_vater,75064,75067,ich,lothar_weber_vater
+gdc-coref,mvrf.0,75449,75477,mariechen_marie,75466,75469,mir,mariechen_marie
+gdc-coref,mvrf.0,75581,75664,karl,75612,75615,ich,karl
+gdc-coref,mvrf.0,75581,75664,karl,75637,75640,ich,karl
+gdc-coref,mvrf.0,75705,75780,karl,75731,75734,ich,karl
+gdc-coref,mvrf.0,75785,75860,mariechen_marie,75806,75810,mein,mariechen_marie
+gdc-coref,mvrf.0,75920,75946,mariechen_marie,75937,75941,mich,mariechen_marie
+gdc-coref,mvrf.0,75951,76010,karl,75983,75986,Ich,karl
+gdc-coref,mvrf.0,76015,76054,lothar_weber_vater,76022,76025,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,76099,76215,johanna,76108,76111,Ich,johanna
+gdc-coref,mvrf.0,76099,76215,johanna,76172,76175,mir,johanna
+gdc-coref,mvrf.0,76099,76215,johanna,76194,76198,mich,johanna
+gdc-coref,mvrf.0,76269,76490,karl,76310,76315,Meine,karl
+gdc-coref,mvrf.0,76269,76490,karl,76347,76350,ich,karl
+gdc-coref,mvrf.0,76269,76490,karl,76351,76355,mich,karl
+gdc-coref,mvrf.0,76269,76490,karl,76419,76422,ich,karl
+gdc-coref,mvrf.0,76269,76490,karl,76446,76449,mir,karl
+gdc-coref,mvrf.0,76269,76490,karl,76474,76477,ich,karl
+gdc-coref,mvrf.0,76269,76490,karl,76486,76489,mir,karl
+gdc-coref,mvrf.0,76534,76660,johanna,76543,76546,Ich,johanna
+gdc-coref,mvrf.0,76534,76660,johanna,76558,76561,ich,johanna
+gdc-coref,mvrf.0,76665,76701,karl,76682,76685,ich,karl
+gdc-coref,mvrf.0,76706,76762,mariechen_marie,76748,76751,mir,mariechen_marie
+gdc-coref,mvrf.0,76767,76885,karl,76816,76819,ich,karl
+gdc-coref,mvrf.0,76952,77020,mariechen_marie,76993,76996,ich,mariechen_marie
+gdc-coref,mvrf.0,76952,77020,mariechen_marie,77006,77009,ich,mariechen_marie
+gdc-coref,mvrf.0,77072,77110,mariechen_marie,77079,77082,Ich,mariechen_marie
+gdc-coref,mvrf.0,77072,77110,mariechen_marie,77087,77091,mich,mariechen_marie
+gdc-coref,mvrf.0,77115,77147,karl,77143,77146,ich,karl
+gdc-coref,mvrf.0,77259,77497,johanna,77281,77284,ich,johanna
+gdc-coref,mvrf.0,77501,77550,lothar_weber_vater,77546,77549,mir,lothar_weber_vater
+gdc-coref,mvrf.0,77555,77662,frau_weber_mutter,77586,77589,ich,frau_weber_mutter
+gdc-coref,mvrf.0,77667,77705,lothar_weber_vater,77692,77697,meine,lothar_weber_vater
+gdc-coref,mvrf.0,77781,77830,lothar_weber_vater,77798,77801,ich,lothar_weber_vater
+gdc-coref,mvrf.0,77835,77932,frau_weber_mutter,77855,77859,mich,frau_weber_mutter
+gdc-coref,mvrf.0,77835,77932,frau_weber_mutter,77861,77864,ich,frau_weber_mutter
+gdc-coref,mvrf.0,77835,77932,frau_weber_mutter,77896,77900,Mein,frau_weber_mutter
+gdc-coref,mvrf.0,77937,78038,lothar_weber_vater,77995,77998,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,78673,78723,frau_weber_mutter,78700,78703,mir,frau_weber_mutter
+gdc-coref,mvrf.0,78802,78974,frau_weber_mutter,78846,78849,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,78979,79122,lothar_weber_vater,79005,79008,mir,lothar_weber_vater
+gdc-coref,mvrf.0,78979,79122,lothar_weber_vater,79033,79036,ich,lothar_weber_vater
+gdc-coref,mvrf.0,78979,79122,lothar_weber_vater,79053,79056,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,79209,79297,karl,79281,79285,mein,karl
+gdc-coref,mvrf.0,79366,79614,karl,79408,79412,mein,karl
+gdc-coref,mvrf.0,79366,79614,karl,79487,79490,Mir,karl
+gdc-coref,mvrf.0,79366,79614,karl,79513,79517,mein,karl
+gdc-coref,mvrf.0,79366,79614,karl,79527,79531,mein,karl
+gdc-coref,mvrf.0,79366,79614,karl,79561,79564,ich,karl
+gdc-coref,mvrf.0,79619,79670,lothar_weber_vater,79641,79644,mir,lothar_weber_vater
+gdc-coref,mvrf.0,79827,79896,hecht,79851,79854,mir,hecht
+gdc-coref,mvrf.0,79901,80157,frau_weber_mutter,80030,80034,mich,frau_weber_mutter
+gdc-coref,mvrf.0,80162,80437,karl,80177,80180,ich,karl
+gdc-coref,mvrf.0,80162,80437,karl,80203,80206,Ich,karl
+gdc-coref,mvrf.0,80162,80437,karl,80283,80286,ich,karl
+gdc-coref,mvrf.0,80162,80437,karl,80287,80291,mich,karl
+gdc-coref,mvrf.0,80442,80673,frau_weber_mutter,80464,80467,ich,frau_weber_mutter
+gdc-coref,mvrf.0,80845,80964,lothar_weber_vater,80868,80871,ich,lothar_weber_vater
+gdc-coref,mvrf.0,80845,80964,lothar_weber_vater,80899,80902,mir,lothar_weber_vater
+gdc-coref,mvrf.0,80845,80964,lothar_weber_vater,80916,80920,mich,lothar_weber_vater
+gdc-coref,mvrf.0,81181,81215,karl,81187,81191,Mich,karl
+gdc-coref,mvrf.0,81291,81315,johanna,81300,81303,Ich,johanna
+gdc-coref,mvrf.0,81320,81371,frau_weber_mutter,81367,81370,mir,frau_weber_mutter
+gdc-coref,mvrf.0,81403,81465,frau_weber_mutter,81415,81419,mich,frau_weber_mutter
+gdc-coref,mvrf.0,81403,81465,frau_weber_mutter,81425,81428,ich,frau_weber_mutter
+gdc-coref,mvrf.0,81470,81517,johanna,81479,81482,Ich,johanna
+gdc-coref,mvrf.0,81543,81579,johanna,81552,81555,Ich,johanna
+gdc-coref,mvrf.0,81612,81733,frau_weber_mutter,81720,81723,ich,frau_weber_mutter
+gdc-coref,mvrf.0,81738,81804,johanna,81787,81791,mich,johanna
+gdc-coref,mvrf.0,81832,81856,johanna,81841,81845,Mein,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,81921,81924,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,81994,81998,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82021,82024,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82032,82037,meine,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82056,82059,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82124,82128,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82161,82164,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82199,82203,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82231,82234,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82245,82248,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82254,82259,meine,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82281,82284,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82359,82363,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82380,82383,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82422,82425,ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82426,82430,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82484,82487,Ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82526,82530,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82556,82560,mich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82594,82597,Ich,johanna
+gdc-coref,mvrf.0,81883,82679,johanna,82668,82671,mir,johanna
+gdc-coref,mvrf.0,82685,82717,karl,82701,82704,ich,karl
+gdc-coref,mvrf.0,82722,82844,johanna,82740,82743,ich,johanna
+gdc-coref,mvrf.0,82722,82844,johanna,82765,82768,mir,johanna
+gdc-coref,mvrf.0,82722,82844,johanna,82783,82786,mir,johanna
+gdc-coref,mvrf.0,83229,83274,lothar_weber_vater,83244,83247,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,83363,83404,lothar_weber_vater,83378,83381,ich,lothar_weber_vater
+gdc-coref,mvrf.0,83409,83456,frau_weber_mutter,83417,83420,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,83409,83456,frau_weber_mutter,83425,83428,mir,frau_weber_mutter
+gdc-coref,mvrf.0,83595,83646,frau_weber_mutter,83603,83606,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,83932,83998,karl,83970,83976,meinem,karl
+gdc-coref,mvrf.0,84070,84196,mariechen_marie,84113,84116,mir,mariechen_marie
+gdc-coref,mvrf.0,84070,84196,mariechen_marie,84143,84146,ich,mariechen_marie
+gdc-coref,mvrf.0,84256,84359,mariechen_marie,84347,84350,mir,mariechen_marie
+gdc-coref,mvrf.0,84499,84593,karl,84524,84528,mich,karl
+gdc-coref,mvrf.0,84499,84593,karl,84549,84553,mein,karl
+gdc-coref,mvrf.0,84499,84593,karl,84568,84572,mich,karl
+gdc-coref,mvrf.0,85088,85112,hecht,85095,85098,Ich,hecht
+gdc-coref,mvrf.0,85469,85522,lothar_weber_vater,85506,85510,mich,lothar_weber_vater
+gdc-coref,mvrf.0,85527,85644,frau_weber_mutter,85582,85585,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,85649,85763,karl,85699,85702,mir,karl
+gdc-coref,mvrf.0,85649,85763,karl,85729,85732,ich,karl
+gdc-coref,mvrf.0,85803,85841,karl,85817,85820,ich,karl
+gdc-coref,mvrf.0,85968,86033,karl,85974,85977,Ich,karl
+gdc-coref,mvrf.0,85968,86033,karl,85982,85986,mich,karl
+gdc-coref,mvrf.0,85968,86033,karl,86011,86015,mein,karl
+gdc-coref,mvrf.0,86090,86201,karl,86096,86099,Ich,karl
+gdc-coref,mvrf.0,86460,86548,hecht,86532,86535,ich,hecht
+gdc-coref,mvrf.0,86660,86757,lothar_weber_vater,86702,86705,ich,lothar_weber_vater
+gdc-coref,mvrf.0,86660,86757,lothar_weber_vater,86731,86734,ich,lothar_weber_vater
+gdc-coref,mvrf.0,86903,86968,karl,86954,86958,mich,karl
+gdc-coref,mvrf.0,87051,87152,lothar_weber_vater,87139,87142,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87157,87214,karl,87172,87175,ich,karl
+gdc-coref,mvrf.0,87157,87214,karl,87182,87186,mein,karl
+gdc-coref,mvrf.0,87157,87214,karl,87196,87200,mich,karl
+gdc-coref,mvrf.0,87219,87265,frau_weber_mutter,87256,87259,mir,frau_weber_mutter
+gdc-coref,mvrf.0,87270,87480,lothar_weber_vater,87277,87280,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,87270,87480,lothar_weber_vater,87330,87333,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87270,87480,lothar_weber_vater,87394,87397,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87270,87480,lothar_weber_vater,87437,87440,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87270,87480,lothar_weber_vater,87448,87451,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87485,87519,frau_weber_mutter,87505,87508,ich,frau_weber_mutter
+gdc-coref,mvrf.0,87524,87599,lothar_weber_vater,87531,87534,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,87524,87599,lothar_weber_vater,87535,87539,mein,lothar_weber_vater
+gdc-coref,mvrf.0,87524,87599,lothar_weber_vater,87552,87555,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87524,87599,lothar_weber_vater,87584,87587,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87604,87678,frau_weber_mutter,87667,87671,mich,frau_weber_mutter
+gdc-coref,mvrf.0,87683,87808,lothar_weber_vater,87717,87720,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87683,87808,lothar_weber_vater,87742,87747,meine,lothar_weber_vater
+gdc-coref,mvrf.0,87683,87808,lothar_weber_vater,87763,87766,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87813,87878,frau_weber_mutter,87853,87856,ich,frau_weber_mutter
+gdc-coref,mvrf.0,87883,88104,lothar_weber_vater,87931,87934,ich,lothar_weber_vater
+gdc-coref,mvrf.0,87883,88104,lothar_weber_vater,87959,87963,mein,lothar_weber_vater
+gdc-coref,mvrf.0,87883,88104,lothar_weber_vater,88024,88028,mein,lothar_weber_vater
+gdc-coref,mvrf.0,87883,88104,lothar_weber_vater,88045,88048,mir,lothar_weber_vater
+gdc-coref,mvrf.0,87883,88104,lothar_weber_vater,88070,88074,mich,lothar_weber_vater
+gdc-coref,mvrf.0,88109,88239,frau_weber_mutter,88124,88127,mir,frau_weber_mutter
+gdc-coref,mvrf.0,88109,88239,frau_weber_mutter,88148,88151,mir,frau_weber_mutter
+gdc-coref,mvrf.0,88109,88239,frau_weber_mutter,88182,88185,ich,frau_weber_mutter
+gdc-coref,mvrf.0,88109,88239,frau_weber_mutter,88197,88200,ich,frau_weber_mutter
+gdc-coref,mvrf.0,88282,88344,mariechen_marie,88300,88304,mich,mariechen_marie
+gdc-coref,mvrf.0,88349,88689,karl,88424,88427,mir,karl
+gdc-coref,mvrf.0,88349,88689,karl,88443,88446,ich,karl
+gdc-coref,mvrf.0,88349,88689,karl,88480,88484,mich,karl
+gdc-coref,mvrf.0,88693,88832,selma,88743,88746,Ich,selma
+gdc-coref,mvrf.0,88693,88832,selma,88754,88758,mich,selma
+gdc-coref,mvrf.0,88693,88832,selma,88779,88782,mir,selma
+gdc-coref,mvrf.0,88693,88832,selma,88817,88820,ich,selma
+gdc-coref,mvrf.0,88862,88923,frau_weber_mutter,88880,88883,ich,frau_weber_mutter
+gdc-coref,mvrf.0,89189,89504,luestling,89481,89485,mein,luestling
+gdc-coref,mvrf.0,89509,89561,lothar_weber_vater,89516,89519,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,89566,89699,luestling,89588,89591,ich,luestling
+gdc-coref,mvrf.0,89566,89699,luestling,89597,89601,mich,luestling
+gdc-coref,mvrf.0,89566,89699,luestling,89631,89634,ich,luestling
+gdc-coref,mvrf.0,89566,89699,luestling,89663,89667,mein,luestling
+gdc-coref,mvrf.0,89754,89992,luestling,89812,89815,ich,luestling
+gdc-coref,mvrf.0,90597,90622,selma,90604,90607,Ich,selma
+gdc-coref,mvrf.0,90648,90728,selma,90659,90662,ich,selma
+gdc-coref,mvrf.0,90648,90728,selma,90687,90691,mich,selma
+gdc-coref,mvrf.0,91038,91194,frau_weber_mutter,91103,91109,meinen,frau_weber_mutter
+gdc-coref,mvrf.0,91303,91385,luestling,91313,91316,Ich,luestling
+gdc-coref,mvrf.0,91390,91558,karl,91409,91413,mich,karl
+gdc-coref,mvrf.0,91390,91558,karl,91482,91485,ich,karl
+gdc-coref,mvrf.0,91390,91558,karl,91500,91503,ich,karl
+gdc-coref,mvrf.0,91597,91797,karl,91611,91614,ich,karl
+gdc-coref,mvrf.0,91597,91797,karl,91721,91724,ich,karl
+gdc-coref,mvrf.0,91801,91843,frau_weber_mutter,91818,91822,mein,frau_weber_mutter
+gdc-coref,mvrf.0,92381,92649,karl,92463,92466,Ich,karl
+gdc-coref,mvrf.0,92381,92649,karl,92536,92541,meine,karl
+gdc-coref,mvrf.0,92381,92649,karl,92623,92626,ich,karl
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92723,92726,ich,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92767,92770,mir,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92779,92782,ich,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92801,92804,ich,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92811,92817,meinem,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92839,92842,ich,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92848,92852,mich,lothar_weber_vater
+gdc-coref,mvrf.0,92654,93119,lothar_weber_vater,92880,92883,ich,lothar_weber_vater
+gdc-coref,mvrf.0,94022,94080,lothar_weber_vater,94040,94043,ich,lothar_weber_vater
+gdc-coref,mvrf.0,94022,94080,lothar_weber_vater,94068,94071,mir,lothar_weber_vater
+gdc-coref,mvrf.0,94118,94171,lothar_weber_vater,94155,94158,mir,lothar_weber_vater
+gdc-coref,mvrf.0,94199,94290,lothar_weber_vater,94227,94230,mir,lothar_weber_vater
+gdc-coref,mvrf.0,94199,94290,lothar_weber_vater,94277,94281,mich,lothar_weber_vater
+gdc-coref,mvrf.0,94427,94455,lothar_weber_vater,94442,94446,mein,lothar_weber_vater
+gdc-coref,mvrf.0,94487,94593,lothar_weber_vater,94494,94497,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,94487,94593,lothar_weber_vater,94525,94528,ich,lothar_weber_vater
+gdc-coref,mvrf.0,94669,94694,lothar_weber_vater,94684,94687,ich,lothar_weber_vater
+gdc-coref,mvrf.0,94755,94842,lothar_weber_vater,94762,94765,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,94755,94842,lothar_weber_vater,94827,94830,mir,lothar_weber_vater
+gdc-coref,mvrf.0,95212,95261,lothar_weber_vater,95226,95229,ich,lothar_weber_vater
+gdc-coref,mvrf.0,97060,97118,karl,97084,97087,ich,karl
+gdc-coref,mvrf.0,97123,97224,frau_weber_mutter,97154,97159,meine,frau_weber_mutter
+gdc-coref,mvrf.0,97229,97362,karl,97313,97316,Ich,karl
+gdc-coref,mvrf.0,97465,97621,karl,97471,97474,Ich,karl
+gdc-coref,mvrf.0,97465,97621,karl,97486,97489,ich,karl
+gdc-coref,mvrf.0,97465,97621,karl,97512,97515,ich,karl
+gdc-coref,mvrf.0,97465,97621,karl,97536,97540,mich,karl
+gdc-coref,mvrf.0,97465,97621,karl,97578,97581,ich,karl
+gdc-coref,mvrf.0,97465,97621,karl,97603,97607,mein,karl
+gdc-coref,mvrf.0,97680,97773,karl,97686,97689,Ich,karl
+gdc-coref,mvrf.0,97680,97773,karl,97733,97736,ich,karl
+gdc-coref,mvrf.0,97862,98148,karl,97897,97901,mein,karl
+gdc-coref,mvrf.0,97862,98148,karl,97927,97930,mir,karl
+gdc-coref,mvrf.0,97862,98148,karl,97960,97963,mir,karl
+gdc-coref,mvrf.0,97862,98148,karl,98049,98052,Ich,karl
+gdc-coref,mvrf.0,97862,98148,karl,98065,98068,ich,karl
+gdc-coref,mvrf.0,97862,98148,karl,98092,98095,ich,karl
+gdc-coref,mvrf.0,98732,98840,luestling,98782,98785,ich,luestling
+gdc-coref,mvrf.0,98981,99019,alle_gaeste_die_gesellschaft_rufe,99005,99008,ich,alle_gaeste_die_gesellschaft_rufe
+gdc-coref,mvrf.0,99073,99273,luestling,99107,99110,ich,luestling
+gdc-coref,mvrf.0,99073,99273,luestling,99111,99115,mich,luestling
+gdc-coref,mvrf.0,99073,99273,luestling,99127,99130,Ich,luestling
+gdc-coref,mvrf.0,99073,99273,luestling,99141,99147,meiner,luestling
+gdc-coref,mvrf.0,99073,99273,luestling,99169,99172,Ich,luestling
+gdc-coref,mvrf.0,99073,99273,luestling,99181,99184,mir,luestling
+gdc-coref,mvrf.0,99277,99299,brautvater,99289,99293,Mein,brautvater
+gdc-coref,mvrf.0,99304,99470,luestling,99389,99395,meinen,luestling
+gdc-coref,mvrf.0,99304,99470,luestling,99408,99411,ich,luestling
+gdc-coref,mvrf.0,99304,99470,luestling,99444,99447,Ich,luestling
+gdc-coref,mvrf.0,99304,99470,luestling,99462,99465,ich,luestling
+gdc-coref,mvrf.0,99634,99698,bleich,99657,99661,mein,bleich
+gdc-coref,mvrf.0,99634,99698,bleich,99684,99688,mich,bleich
+gdc-coref,mvrf.0,99742,99770,bleich,99759,99762,mir,bleich
+gdc-coref,mvrf.0,99775,99827,frau_weber_mutter,99788,99793,meine,frau_weber_mutter
+gdc-coref,mvrf.0,99922,100244,luestling,99940,99945,meine,luestling
+gdc-coref,mvrf.0,99922,100244,luestling,100143,100147,mich,luestling
+gdc-coref,mvrf.0,99922,100244,luestling,100152,100155,Ich,luestling
+gdc-coref,mvrf.0,100249,100295,frau_weber_mutter,100257,100260,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,100300,100402,luestling,100351,100354,ich,luestling
+gdc-coref,mvrf.0,100300,100402,luestling,100371,100374,ich,luestling
+gdc-coref,mvrf.0,100407,100454,selma,100436,100439,mir,selma
+gdc-coref,mvrf.0,101077,101199,lothar_weber_vater,101154,101157,Ich,lothar_weber_vater
+gdc-coref,mvrf.0,101232,101300,frau_weber_mutter,101279,101283,mich,frau_weber_mutter
+gdc-coref,mvrf.0,101305,101370,karl,101350,101354,mich,karl
+gdc-coref,mvrf.0,101422,101482,frau_weber_mutter,101444,101449,meine,frau_weber_mutter
+gdc-coref,mvrf.0,101422,101482,frau_weber_mutter,101478,101481,mir,frau_weber_mutter
+gdc-coref,mvrf.0,101683,101733,lothar_weber_vater,101720,101725,meine,lothar_weber_vater
+gdc-coref,mvrf.0,101858,101909,frau_weber_mutter,101866,101869,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,101914,102009,lothar_weber_vater,101966,101969,ich,lothar_weber_vater
+gdc-coref,mvrf.0,102014,102046,frau_weber_mutter,102031,102034,ich,frau_weber_mutter
+gdc-coref,mvrf.0,102173,102249,frau_weber_mutter,102193,102196,mir,frau_weber_mutter
+gdc-coref,mvrf.0,102173,102249,frau_weber_mutter,102222,102225,ich,frau_weber_mutter
+gdc-coref,mvrf.0,102457,102516,karl,102494,102497,ich,karl
+gdc-coref,mvrf.0,102702,102878,lothar_weber_vater,102761,102766,meine,lothar_weber_vater
+gdc-coref,mvrf.0,102948,103074,lothar_weber_vater,102979,102982,mir,lothar_weber_vater
+gdc-coref,mvrf.0,103155,103205,frau_weber_mutter,103186,103190,mein,frau_weber_mutter
+gdc-coref,mvrf.0,103250,103270,frau_weber_mutter,103258,103262,Mein,frau_weber_mutter
+gdc-coref,mvrf.0,103937,104068,frau_weber_mutter,103949,103952,ich,frau_weber_mutter
+gdc-coref,mvrf.0,103937,104068,frau_weber_mutter,103977,103980,ich,frau_weber_mutter
+gdc-coref,mvrf.0,104208,104284,frau_weber_mutter,104230,104234,mich,frau_weber_mutter
+gdc-coref,mvrf.0,104208,104284,frau_weber_mutter,104268,104272,mich,frau_weber_mutter
+gdc-coref,mvrf.0,104289,104358,hecht,104308,104311,ich,hecht
+gdc-coref,mvrf.0,104363,104505,frau_weber_mutter,104469,104473,mich,frau_weber_mutter
+gdc-coref,mvrf.0,104363,104505,frau_weber_mutter,104486,104489,mir,frau_weber_mutter
+gdc-coref,mvrf.0,104571,104788,frau_weber_mutter,104592,104595,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,104571,104788,frau_weber_mutter,104682,104686,mein,frau_weber_mutter
+gdc-coref,mvrf.0,104942,105011,hecht,104963,104966,mir,hecht
+gdc-coref,mvrf.0,105016,105045,frau_weber_mutter,105040,105044,mich,frau_weber_mutter
+gdc-coref,mvrf.0,105050,105110,hecht,105071,105074,ich,hecht
+gdc-coref,mvrf.0,105270,105347,hecht,105335,105338,ich,hecht
+gdc-coref,mvrf.0,105352,105410,frau_weber_mutter,105367,105370,ich,frau_weber_mutter
+gdc-coref,mvrf.0,105352,105410,frau_weber_mutter,105387,105390,mir,frau_weber_mutter
+gdc-coref,mvrf.0,105437,105554,frau_weber_mutter,105515,105519,mich,frau_weber_mutter
+gdc-coref,mvrf.0,105586,105727,frau_weber_mutter,105620,105623,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,105586,105727,frau_weber_mutter,105658,105661,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,105732,105848,hecht,105793,105796,ich,hecht
+gdc-coref,mvrf.0,105878,105904,hecht,105899,105903,mich,hecht
+gdc-coref,mvrf.0,105909,105999,frau_weber_mutter,105955,105958,ich,frau_weber_mutter
+gdc-coref,mvrf.0,105909,105999,frau_weber_mutter,105973,105976,mir,frau_weber_mutter
+gdc-coref,mvrf.0,106004,106057,hecht,106011,106014,Ich,hecht
+gdc-coref,mvrf.0,106112,106186,frau_weber_mutter,106120,106123,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,106284,106531,hecht,106296,106299,ich,hecht
+gdc-coref,mvrf.0,106536,106747,frau_weber_mutter,106565,106568,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,106536,106747,frau_weber_mutter,106609,106613,mein,frau_weber_mutter
+gdc-coref,mvrf.0,106536,106747,frau_weber_mutter,106642,106645,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,106536,106747,frau_weber_mutter,106661,106664,ich,frau_weber_mutter
+gdc-coref,mvrf.0,106536,106747,frau_weber_mutter,106676,106679,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,106859,106896,hecht,106866,106869,Ich,hecht
+gdc-coref,mvrf.0,107087,107208,frau_weber_mutter,107104,107107,ich,frau_weber_mutter
+gdc-coref,mvrf.0,107655,107769,frau_weber_mutter,107672,107675,ich,frau_weber_mutter
+gdc-coref,mvrf.0,107655,107769,frau_weber_mutter,107752,107756,mich,frau_weber_mutter
+gdc-coref,mvrf.0,107807,107910,frau_weber_mutter,107820,107823,ich,frau_weber_mutter
+gdc-coref,mvrf.0,107807,107910,frau_weber_mutter,107846,107850,mich,frau_weber_mutter
+gdc-coref,mvrf.0,107807,107910,frau_weber_mutter,107888,107892,mich,frau_weber_mutter
+gdc-coref,mvrf.0,107915,107970,hecht,107930,107933,mir,hecht
+gdc-coref,mvrf.0,108036,108091,frau_weber_mutter,108061,108064,ich,frau_weber_mutter
+gdc-coref,mvrf.0,108096,108143,hecht,108112,108115,ich,hecht
+gdc-coref,mvrf.0,108203,108395,hecht,108334,108339,meine,hecht
+gdc-coref,mvrf.0,108203,108395,hecht,108350,108354,mich,hecht
+gdc-coref,mvrf.0,108399,108452,hecht,108440,108444,mein,hecht
+gdc-coref,mvrf.0,108792,109705,karl,109030,109035,meine,karl
+gdc-coref,mvrf.0,108792,109705,karl,109113,109117,mein,karl
+gdc-coref,mvrf.0,108792,109705,karl,109391,109394,ich,karl
+gdc-coref,mvrf.0,108792,109705,karl,109611,109614,ich,karl
+gdc-coref,mvrf.0,109709,110122,luestling,109719,109722,Ich,luestling
+gdc-coref,mvrf.0,109709,110122,luestling,109780,109783,ich,luestling
+gdc-coref,mvrf.0,109709,110122,luestling,109801,109804,ich,luestling
+gdc-coref,mvrf.0,109709,110122,luestling,109878,109881,Ich,luestling
+gdc-coref,mvrf.0,109709,110122,luestling,109948,109951,ich,luestling
+gdc-coref,mvrf.0,109709,110122,luestling,109997,110000,ich,luestling
+gdc-coref,mvrf.0,110127,110232,karl,110133,110136,Ich,karl
+gdc-coref,mvrf.0,110127,110232,karl,110190,110193,ich,karl
+gdc-coref,mvrf.0,110293,110343,karl,110299,110302,Ich,karl
+gdc-coref,mvrf.0,110544,110602,karl,110550,110553,Ich,karl
+gdc-coref,mvrf.0,110707,110762,karl,110718,110721,ich,karl
+gdc-coref,mvrf.0,110707,110762,karl,110743,110747,mich,karl
+gdc-coref,mvrf.0,110767,110936,luestling,110782,110785,ich,luestling
+gdc-coref,mvrf.0,110767,110936,luestling,110832,110835,ich,luestling
+gdc-coref,mvrf.0,111130,111207,luestling,111157,111160,ich,luestling
+gdc-coref,mvrf.0,111130,111207,luestling,111176,111179,ich,luestling
+gdc-coref,mvrf.0,111212,111310,karl,111250,111253,ich,karl
+gdc-coref,mvrf.0,111212,111310,karl,111289,111293,mich,karl
+gdc-coref,mvrf.0,111315,111379,luestling,111338,111341,ich,luestling
+gdc-coref,mvrf.0,111315,111379,luestling,111375,111378,ich,luestling
+gdc-coref,mvrf.0,111384,111428,karl,111402,111408,meiner,karl
+gdc-coref,mvrf.0,111434,111589,luestling,111456,111459,Ich,luestling
+gdc-coref,mvrf.0,111594,111773,karl,111600,111603,Ich,karl
+gdc-coref,mvrf.0,111798,111881,karl,111826,111829,Ich,karl
+gdc-coref,mvrf.0,111886,111940,luestling,111923,111926,ich,luestling
+gdc-coref,mvrf.0,111970,112125,luestling,111987,111990,Ich,luestling
+gdc-coref,mvrf.0,112181,112230,luestling,112191,112194,Ich,luestling
+gdc-coref,mvrf.0,112181,112230,luestling,112225,112229,mich,luestling
+gdc-coref,mvrf.0,112291,112349,luestling,112308,112311,ich,luestling
+gdc-coref,mvrf.0,112291,112349,luestling,112322,112326,mich,luestling
+gdc-coref,mvrf.0,112466,112501,luestling,112488,112494,meinem,luestling
+gdc-coref,mvrf.0,112506,112816,karl,112555,112558,mir,karl
+gdc-coref,mvrf.0,112506,112816,karl,112628,112631,Ich,karl
+gdc-coref,mvrf.0,112506,112816,karl,112636,112640,mich,karl
+gdc-coref,mvrf.0,112506,112816,karl,112649,112652,ich,karl
+gdc-coref,mvrf.0,112506,112816,karl,112695,112698,mir,karl
+gdc-coref,mvrf.0,112506,112816,karl,112739,112742,ich,karl
+gdc-coref,mvrf.0,112820,113200,karl,112857,112860,ich,karl
+gdc-coref,mvrf.0,112820,113200,karl,112871,112874,ich,karl
+gdc-coref,mvrf.0,112820,113200,karl,112923,112926,ich,karl
+gdc-coref,mvrf.0,112820,113200,karl,112944,112947,mir,karl
+gdc-coref,mvrf.0,112820,113200,karl,113024,113027,ich,karl
+gdc-coref,mvrf.0,112820,113200,karl,113090,113096,meiner,karl
+gdc-coref,mvrf.0,113204,113847,karl,113365,113368,mir,karl
+gdc-coref,mvrf.0,113204,113847,karl,113547,113550,mir,karl
+gdc-coref,mvrf.0,113204,113847,karl,113672,113675,ich,karl
+gdc-coref,mvrf.0,113204,113847,karl,113692,113698,meinen,karl
+gdc-coref,mvrf.0,113204,113847,karl,113737,113740,mir,karl
+gdc-coref,mvrf.0,113852,114094,brigitte,113868,113871,ich,brigitte
+gdc-coref,mvrf.0,113852,114094,brigitte,113964,113967,ich,brigitte
+gdc-coref,mvrf.0,114099,114328,karl,114121,114125,mich,karl
+gdc-coref,mvrf.0,114099,114328,karl,114127,114130,ich,karl
+gdc-coref,mvrf.0,114099,114328,karl,114157,114160,mir,karl
+gdc-coref,mvrf.0,114099,114328,karl,114234,114237,ich,karl
+gdc-coref,mvrf.0,114099,114328,karl,114286,114289,mir,karl
+gdc-coref,mvrf.0,114333,114408,brigitte,114349,114352,ich,brigitte
+gdc-coref,mvrf.0,114333,114408,brigitte,114389,114393,mich,brigitte
+gdc-coref,mvrf.0,114413,114605,karl,114540,114544,mich,karl
+gdc-coref,mvrf.0,114610,114877,brigitte,114672,114676,mich,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114678,114681,ich,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114718,114722,mein,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114744,114747,ich,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114771,114774,ich,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114790,114796,meinem,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114807,114810,Ich,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114839,114842,ich,brigitte
+gdc-coref,mvrf.0,114610,114877,brigitte,114859,114862,ich,brigitte
+gdc-coref,mvrf.0,114882,114923,karl,114906,114910,mich,karl
+gdc-coref,mvrf.0,114928,114963,brigitte,114938,114941,Ich,brigitte
+gdc-coref,mvrf.0,114968,115146,karl,114974,114977,Ich,karl
+gdc-coref,mvrf.0,114968,115146,karl,114994,114997,ich,karl
+gdc-coref,mvrf.0,114968,115146,karl,115019,115022,Ich,karl
+gdc-coref,mvrf.0,114968,115146,karl,115028,115034,meinen,karl
+gdc-coref,mvrf.0,114968,115146,karl,115075,115078,ich,karl
+gdc-coref,mvrf.0,114968,115146,karl,115089,115093,mein,karl
+gdc-coref,mvrf.0,114968,115146,karl,115122,115125,ich,karl
+gdc-coref,mvrf.0,115151,115230,brigitte,115226,115229,mir,brigitte
+gdc-coref,mvrf.0,115264,115397,brigitte,115340,115346,meiner,brigitte
+gdc-coref,mvrf.0,115402,115453,karl,115417,115420,ich,karl
+gdc-coref,mvrf.0,115458,115907,brigitte,115530,115533,mir,brigitte
+gdc-coref,mvrf.0,115458,115907,brigitte,115668,115672,mich,brigitte
+gdc-coref,mvrf.0,115458,115907,brigitte,115718,115721,Ich,brigitte
+gdc-coref,mvrf.0,115458,115907,brigitte,115765,115768,mir,brigitte
+gdc-coref,mvrf.0,115458,115907,brigitte,115780,115783,ich,brigitte
+gdc-coref,mvrf.0,115458,115907,brigitte,115809,115813,mich,brigitte
+gdc-coref,mvrf.0,115912,115965,karl,115918,115921,Ich,karl
+gdc-coref,mvrf.0,115912,115965,karl,115961,115964,mir,karl
+gdc-coref,mvrf.0,116170,116372,brigitte,116185,116188,ich,brigitte
+gdc-coref,mvrf.0,116170,116372,brigitte,116228,116231,ich,brigitte
+gdc-coref,mvrf.0,116170,116372,brigitte,116232,116236,mich,brigitte
+gdc-coref,mvrf.0,116170,116372,brigitte,116314,116317,ich,brigitte
+gdc-coref,mvrf.0,116170,116372,brigitte,116345,116348,ich,brigitte
+gdc-coref,mvrf.0,116377,116434,karl,116410,116413,ich,karl
+gdc-coref,mvrf.0,116439,116507,brigitte,116462,116466,mich,brigitte
+gdc-coref,mvrf.0,116439,116507,brigitte,116497,116500,ich,brigitte
+gdc-coref,mvrf.0,116512,116694,karl,116560,116563,Ich,karl
+gdc-coref,mvrf.0,116512,116694,karl,116588,116592,mich,karl
+gdc-coref,mvrf.0,116699,116758,brigitte,116714,116717,ich,brigitte
+gdc-coref,mvrf.0,116816,116850,brigitte,116831,116834,ich,brigitte
+gdc-coref,mvrf.0,116869,116923,brigitte,116879,116882,Ich,brigitte
+gdc-coref,mvrf.0,116963,117093,brigitte,116979,116982,ich,brigitte
+gdc-coref,mvrf.0,116963,117093,brigitte,117034,117038,mich,brigitte
+gdc-coref,mvrf.0,117098,117239,karl,117122,117125,ich,karl
+gdc-coref,mvrf.0,117098,117239,karl,117181,117185,mein,karl
+gdc-coref,mvrf.0,117273,117304,karl,117300,117303,mir,karl
+gdc-coref,mvrf.0,117309,117343,johanna,117318,117321,Ich,johanna
+gdc-coref,mvrf.0,117380,117427,johanna,117389,117392,Ich,johanna
+gdc-coref,mvrf.0,117380,117427,johanna,117400,117404,mich,johanna
+gdc-coref,mvrf.0,117380,117427,johanna,117414,117417,ich,johanna
+gdc-coref,mvrf.0,117533,117693,johanna,117572,117576,mich,johanna
+gdc-coref,mvrf.0,117719,117840,johanna,117738,117742,mich,johanna
+gdc-coref,mvrf.0,117719,117840,johanna,117767,117770,Ich,johanna
+gdc-coref,mvrf.0,117845,118023,karl,117865,117869,mich,karl
+gdc-coref,mvrf.0,117845,118023,karl,117882,117885,ich,karl
+gdc-coref,mvrf.0,118089,118156,johanna,118103,118106,ich,johanna
+gdc-coref,mvrf.0,118089,118156,johanna,118132,118136,mich,johanna
+gdc-coref,mvrf.0,118161,118193,karl,118167,118170,Ich,karl
+gdc-coref,mvrf.0,118198,118243,johanna,118231,118235,mein,johanna
+gdc-coref,mvrf.0,118272,118336,johanna,118281,118285,Mein,johanna
+gdc-coref,mvrf.0,118272,118336,johanna,118332,118335,mir,johanna
+gdc-coref,mvrf.0,118341,118405,karl,118353,118357,mich,karl
+gdc-coref,mvrf.0,118341,118405,karl,118378,118381,ich,karl
+gdc-coref,mvrf.0,118341,118405,karl,118382,118387,meine,karl
+gdc-coref,mvrf.0,118410,118458,johanna,118441,118444,ich,johanna
+gdc-coref,mvrf.0,118463,118561,karl,118481,118485,mich,karl
+gdc-coref,mvrf.0,118463,118561,karl,118523,118527,mich,karl
+gdc-coref,mvrf.0,118566,118820,johanna,118575,118578,Ich,johanna
+gdc-coref,mvrf.0,118825,119195,karl,118899,118902,ich,karl
+gdc-coref,mvrf.0,118825,119195,karl,118977,118980,mir,karl
+gdc-coref,mvrf.0,118825,119195,karl,119009,119012,ich,karl
+gdc-coref,mvrf.0,118825,119195,karl,119018,119022,mich,karl
+gdc-coref,mvrf.0,118825,119195,karl,119095,119099,mich,karl
+gdc-coref,mvrf.0,118825,119195,karl,119152,119155,ich,karl
+gdc-coref,mvrf.0,119239,119466,karl,119254,119257,ich,karl
+gdc-coref,mvrf.0,119239,119466,karl,119290,119293,ich,karl
+gdc-coref,mvrf.0,119239,119466,karl,119388,119392,mich,karl
+gdc-coref,mvrf.0,119239,119466,karl,119423,119426,ich,karl
+gdc-coref,mvrf.0,119471,119546,johanna,119488,119492,mich,johanna
+gdc-coref,mvrf.0,119471,119546,johanna,119530,119533,ich,johanna
+gdc-coref,mvrf.0,119471,119546,johanna,119534,119538,mich,johanna
+gdc-coref,mvrf.0,119551,119693,karl,119562,119565,ich,karl
+gdc-coref,mvrf.0,119551,119693,karl,119586,119590,mich,karl
+gdc-coref,mvrf.0,119551,119693,karl,119659,119662,ich,karl
+gdc-coref,mvrf.0,119848,119976,johanna,119871,119875,mich,johanna
+gdc-coref,mvrf.0,119848,119976,johanna,119882,119885,Ich,johanna
+gdc-coref,mvrf.0,119981,120060,karl,120017,120020,Ich,karl
+gdc-coref,mvrf.0,120065,120106,johanna,120082,120085,mir,johanna
+gdc-coref,mvrf.0,120111,120165,karl,120134,120138,mich,karl
+gdc-coref,mvrf.0,120111,120165,karl,120161,120164,ich,karl
+gdc-coref,mvrf.0,120170,120215,johanna,120179,120182,Ich,johanna
+gdc-coref,mvrf.0,120399,120425,karl,120405,120408,Ich,karl
+gdc-coref,mvrf.0,120495,120541,johanna,120515,120518,ich,johanna
+gdc-coref,mvrf.0,120546,120593,karl,120567,120570,mir,karl
+gdc-coref,mvrf.0,120598,120631,johanna,120607,120610,Ich,johanna
+gdc-coref,mvrf.0,120636,120715,karl,120653,120656,ich,karl
+gdc-coref,mvrf.0,120720,120906,johanna,120851,120854,ich,johanna
+gdc-coref,mvrf.0,120911,120975,karl,120952,120956,mich,karl
+gdc-coref,mvrf.0,120980,121054,johanna,120989,120993,Mich,johanna
+gdc-coref,mvrf.0,121059,121139,karl,121065,121068,Ich,karl
+gdc-coref,mvrf.0,121059,121139,karl,121103,121107,mich,karl
+gdc-coref,mvrf.0,121145,121205,johanna,121181,121184,ich,johanna
+gdc-coref,mvrf.0,121279,121381,johanna,121298,121301,ich,johanna
+gdc-coref,mvrf.0,121279,121381,johanna,121349,121352,Ich,johanna
+gdc-coref,mvrf.0,121417,121622,johanna,121441,121444,ich,johanna
+gdc-coref,mvrf.0,121417,121622,johanna,121508,121511,mir,johanna
+gdc-coref,mvrf.0,121417,121622,johanna,121524,121527,Ich,johanna
+gdc-coref,mvrf.0,121417,121622,johanna,121534,121539,meine,johanna
+gdc-coref,mvrf.0,121417,121622,johanna,121573,121576,ich,johanna
+gdc-coref,mvrf.0,121417,121622,johanna,121582,121586,mich,johanna
+gdc-coref,mvrf.0,121627,121716,karl,121658,121661,mir,karl
+gdc-coref,mvrf.0,121627,121716,karl,121679,121682,mir,karl
+gdc-coref,mvrf.0,121627,121716,karl,121683,121688,meine,karl
+gdc-coref,mvrf.0,121721,121869,johanna,121730,121733,Ich,johanna
+gdc-coref,mvrf.0,121874,121975,karl,121963,121967,mich,karl
+gdc-coref,mvrf.0,121980,122204,johanna,122023,122027,mich,johanna
+gdc-coref,mvrf.0,121980,122204,johanna,122048,122051,ich,johanna
+gdc-coref,mvrf.0,121980,122204,johanna,122052,122055,mir,johanna
+gdc-coref,mvrf.0,121980,122204,johanna,122135,122138,Ich,johanna
+gdc-coref,mvrf.0,121980,122204,johanna,122178,122181,mir,johanna
+gdc-coref,mvrf.0,121980,122204,johanna,122186,122190,mein,johanna
+gdc-coref,mvrf.0,122209,122346,karl,122223,122227,mich,karl
+gdc-coref,mvrf.0,122209,122346,karl,122249,122252,ich,karl
+gdc-coref,mvrf.0,122209,122346,karl,122269,122272,Ich,karl
+gdc-coref,mvrf.0,122209,122346,karl,122329,122334,meine,karl
+gdc-coref,mvrf.0,122351,122574,johanna,122389,122392,ich,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122403,122406,ich,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122432,122435,ich,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122443,122446,ich,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122466,122469,Ich,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122485,122491,meinen,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122543,122546,ich,johanna
+gdc-coref,mvrf.0,122351,122574,johanna,122563,122566,ich,johanna
+gdc-coref,mvrf.0,122628,122696,johanna,122647,122650,ich,johanna
+gdc-coref,mvrf.0,122628,122696,johanna,122671,122674,mir,johanna
+gdc-coref,mvrf.0,122701,122777,karl,122743,122746,mir,karl
+gdc-coref,mvrf.0,122701,122777,karl,122750,122753,Ich,karl
+gdc-coref,mvrf.0,122782,122936,johanna,122811,122815,mich,johanna
+gdc-coref,mvrf.0,122782,122936,johanna,122817,122820,Ich,johanna
+gdc-coref,mvrf.0,122782,122936,johanna,122845,122849,mich,johanna
+gdc-coref,mvrf.0,122782,122936,johanna,122857,122860,Ich,johanna
+gdc-coref,mvrf.0,122941,123008,karl,122947,122950,Ich,karl
+gdc-coref,mvrf.0,123014,123070,johanna,123057,123061,mich,johanna
+gdc-coref,mvrf.0,123075,123103,karl,123081,123084,Ich,karl
+gdc-coref,mvrf.0,123207,123349,johanna,123292,123295,ich,johanna
+gdc-coref,mvrf.0,123207,123349,johanna,123338,123341,ich,johanna
+gdc-coref,mvrf.0,123354,123387,karl,123360,123363,Ich,karl
+gdc-coref,mvrf.0,123505,123532,johanna,123514,123517,Ich,johanna
+gdc-coref,mvrf.0,123537,123603,karl,123558,123562,mich,karl
+gdc-coref,mvrf.0,123668,123690,karl,123674,123677,Ich,karl
+gdc-coref,mvrf.0,123695,123804,johanna,123724,123727,mir,johanna
+gdc-coref,mvrf.0,123695,123804,johanna,123736,123739,ich,johanna
+gdc-coref,mvrf.0,123900,123927,karl,123913,123917,mich,karl
+gdc-coref,mvrf.0,123932,124086,johanna,123970,123973,ich,johanna
+gdc-coref,mvrf.0,124091,124176,karl,124138,124141,Ich,karl
+gdc-coref,mvrf.0,124212,124314,karl,124258,124262,mich,karl
+gdc-coref,mvrf.0,124212,124314,karl,124287,124290,Ich,karl
+gdc-coref,mvrf.0,124351,124462,karl,124362,124365,ich,karl
+gdc-coref,mvrf.0,124351,124462,karl,124416,124419,ich,karl
+gdc-coref,mvrf.0,124351,124462,karl,124440,124443,ich,karl
+gdc-coref,mvrf.0,124541,124625,karl,124547,124550,Ich,karl
+gdc-coref,mvrf.0,124631,126038,johanna,124640,124643,Ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,124690,124693,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,124711,124717,meines,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,124881,124884,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,124905,124908,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,124998,125004,meiner,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125041,125044,Ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125137,125140,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125183,125186,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125239,125242,mir,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125446,125449,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125481,125485,mich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125612,125615,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125688,125693,Meine,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125714,125717,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125945,125948,ich,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125954,125959,meine,johanna
+gdc-coref,mvrf.0,124631,126038,johanna,125970,125973,Ich,johanna
+gdc-coref,mvrf.0,126042,126375,frau_hecht,126139,126143,mich,frau_hecht
+gdc-coref,mvrf.0,126042,126375,frau_hecht,126215,126219,mich,frau_hecht
+gdc-coref,mvrf.0,126042,126375,frau_hecht,126285,126289,mich,frau_hecht
+gdc-coref,mvrf.0,126380,126546,johanna,126405,126408,ich,johanna
+gdc-coref,mvrf.0,126636,126711,johanna,126645,126648,Ich,johanna
+gdc-coref,mvrf.0,126636,126711,johanna,126662,126665,ich,johanna
+gdc-coref,mvrf.0,126636,126711,johanna,126701,126704,mir,johanna
+gdc-coref,mvrf.0,126716,126800,frau_hecht,126742,126746,mein,frau_hecht
+gdc-coref,mvrf.0,126926,127029,frau_hecht,126948,126952,mich,frau_hecht
+gdc-coref,mvrf.0,127140,127223,johanna,127163,127166,ich,johanna
+gdc-coref,mvrf.0,127140,127223,johanna,127178,127181,ich,johanna
+gdc-coref,mvrf.0,127305,127338,johanna,127327,127330,ich,johanna
+gdc-coref,mvrf.0,127343,127442,frau_hecht,127365,127368,ich,frau_hecht
+gdc-coref,mvrf.0,127515,127593,frau_hecht,127527,127530,Ich,frau_hecht
+gdc-coref,mvrf.0,127598,127655,johanna,127626,127629,ich,johanna
+gdc-coref,mvrf.0,127598,127655,johanna,127645,127648,ich,johanna
+gdc-coref,mvrf.0,127701,127746,johanna,127723,127726,ich,johanna
+gdc-coref,mvrf.0,127751,127822,frau_hecht,127786,127789,mir,frau_hecht
+gdc-coref,mvrf.0,127929,128006,frau_hecht,127949,127952,mir,frau_hecht
+gdc-coref,mvrf.0,127929,128006,frau_hecht,127982,127985,ich,frau_hecht
+gdc-coref,mvrf.0,128011,128074,johanna,128020,128023,Ich,johanna
+gdc-coref,mvrf.0,128140,128244,johanna,128187,128190,ich,johanna
+gdc-coref,mvrf.0,128392,128484,frau_hecht,128454,128457,ich,frau_hecht
+gdc-coref,mvrf.0,128690,128799,johanna,128731,128734,ich,johanna
+gdc-coref,mvrf.0,128804,129028,frau_hecht,128924,128927,ich,frau_hecht
+gdc-coref,mvrf.0,129033,129078,johanna,129042,129045,Ich,johanna
+gdc-coref,mvrf.0,129083,129165,frau_hecht,129100,129103,ich,frau_hecht
+gdc-coref,mvrf.0,129083,129165,frau_hecht,129136,129139,mir,frau_hecht
+gdc-coref,mvrf.0,129217,129256,frau_hecht,129242,129247,meine,frau_hecht
+gdc-coref,mvrf.0,129406,129505,frau_hecht,129418,129421,Ich,frau_hecht
+gdc-coref,mvrf.0,129406,129505,frau_hecht,129445,129448,ich,frau_hecht
+gdc-coref,mvrf.0,129406,129505,frau_hecht,129454,129458,mich,frau_hecht
+gdc-coref,mvrf.0,129857,129920,frau_hecht,129910,129914,mich,frau_hecht
+gdc-coref,mvrf.0,129925,129966,johanna,129943,129946,mir,johanna
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130036,130039,Ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130119,130122,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130281,130284,mir,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130317,130320,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130365,130370,meine,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130525,130528,mir,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130535,130538,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130688,130691,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130717,130723,meinem,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130768,130772,mich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130828,130831,mir,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130877,130881,mein,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130918,130923,meine,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130945,130950,meine,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130968,130973,meine,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,130981,130984,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131017,131020,Ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131051,131054,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131080,131085,meine,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131098,131102,mich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131116,131119,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131204,131207,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131380,131384,mich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131436,131439,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131560,131563,Ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131634,131637,Ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131688,131692,mich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131707,131710,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131726,131729,mir,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131801,131806,Meine,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,131956,131959,Ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,132048,132051,mir,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,132130,132133,ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,132283,132286,Ich,frau_hecht
+gdc-coref,mvrf.0,129971,132927,frau_hecht,132301,132304,ich,frau_hecht
+gdc-coref,mvrf.0,132931,133029,frau_hecht,132964,132968,mich,frau_hecht
+gdc-coref,mvrf.0,133068,133126,frau_hecht,133088,133091,ich,frau_hecht
+gdc-coref,mvrf.0,133068,133126,frau_hecht,133122,133125,mir,frau_hecht
+gdc-coref,mvrf.0,133389,133446,frau_hecht,133441,133445,mich,frau_hecht
+gdc-coref,mvrf.0,133451,133585,beamter,133460,133465,Meine,beamter
+gdc-coref,mvrf.0,133589,133650,frau_hecht,133645,133649,mich,frau_hecht
+gdc-coref,mvrf.0,133772,133882,beamter,133781,133784,Ich,beamter
+gdc-coref,mvrf.0,134772,134804,karl,134788,134791,ich,karl
+gdc-coref,mvrf.0,134809,134846,johanna,134818,134821,Ich,johanna
+gdc-coref,mvrf.0,134851,134984,karl,134864,134867,mir,karl
+gdc-coref,mvrf.0,134851,134984,karl,134912,134915,ich,karl
+gdc-coref,mvrf.0,134851,134984,karl,134971,134975,mich,karl
+gdc-coref,mvrf.0,134990,135015,johanna,134999,135002,Ich,johanna
+gdc-coref,mvrf.0,135020,135105,karl,135030,135034,Mein,karl
+gdc-coref,mvrf.0,135020,135105,karl,135073,135078,Meine,karl
+gdc-coref,mvrf.0,135110,135236,johanna,135126,135129,mir,johanna
+gdc-coref,mvrf.0,135110,135236,johanna,135177,135181,mein,johanna
+gdc-coref,mvrf.0,135110,135236,johanna,135203,135206,ich,johanna
+gdc-coref,mvrf.0,135241,135323,karl,135257,135260,mir,karl
+gdc-coref,mvrf.0,135241,135323,karl,135271,135274,ich,karl
+gdc-coref,mvrf.0,135241,135323,karl,135291,135295,mich,karl
+gdc-coref,mvrf.0,135241,135323,karl,135314,135317,mir,karl
+gdc-coref,mvrf.0,135386,135466,karl,135399,135402,mir,karl
+gdc-coref,mvrf.0,135562,135612,karl,135575,135578,mir,karl
+gdc-coref,mvrf.0,135617,135719,johanna,135701,135704,mir,johanna
+gdc-coref,mvrf.0,135724,135878,karl,135747,135750,ich,karl
+gdc-coref,mvrf.0,135724,135878,karl,135784,135787,mir,karl
+gdc-coref,mvrf.0,135724,135878,karl,135812,135815,mir,karl
+gdc-coref,mvrf.0,135724,135878,karl,135866,135870,mich,karl
+gdc-coref,mvrf.0,135930,135979,karl,135945,135948,ich,karl
+gdc-coref,mvrf.0,135930,135979,karl,135967,135970,ich,karl
+gdc-coref,mvrf.0,136022,136071,karl,136058,136061,mir,karl
+gdc-coref,mvrf.0,136076,136164,johanna,136090,136093,ich,johanna
+gdc-coref,mvrf.0,136076,136164,johanna,136121,136124,mir,johanna
+gdc-coref,mvrf.0,136169,136228,karl,136175,136178,Ich,karl
+gdc-coref,mvrf.0,136263,136325,karl,136302,136305,mir,karl
+gdc-coref,mvrf.0,136330,136404,johanna,136365,136368,mir,johanna
+gdc-coref,mvrf.0,136409,136467,karl,136415,136418,Ich,karl
+gdc-coref,mvrf.0,136409,136467,karl,136442,136446,mich,karl
+gdc-coref,mvrf.0,136572,136658,karl,136578,136581,Ich,karl
+gdc-coref,mvrf.0,136572,136658,karl,136607,136610,ich,karl
+gdc-coref,mvrf.0,136572,136658,karl,136648,136652,mich,karl
+gdc-coref,mvrf.0,136663,136825,johanna,136676,136679,mir,johanna
+gdc-coref,mvrf.0,136663,136825,johanna,136681,136684,Ich,johanna
+gdc-coref,mvrf.0,136663,136825,johanna,136708,136712,mich,johanna
+gdc-coref,mvrf.0,136663,136825,johanna,136735,136738,ich,johanna
+gdc-coref,mvrf.0,136663,136825,johanna,136769,136772,mir,johanna
+gdc-coref,mvrf.0,136830,136925,karl,136856,136859,Ich,karl
+gdc-coref,mvrf.0,136830,136925,karl,136903,136906,Ich,karl
+gdc-coref,mvrf.0,136930,137067,johanna,136939,136943,Mein,johanna
+gdc-coref,mvrf.0,136930,137067,johanna,137010,137013,Ich,johanna
+gdc-coref,mvrf.0,136930,137067,johanna,137053,137059,meinen,johanna
+gdc-coref,mvrf.0,137183,137240,karl,137202,137205,ich,karl
+gdc-coref,mvrf.0,137245,137293,johanna,137271,137274,ich,johanna
+gdc-coref,mvrf.0,137298,137395,karl,137356,137360,mich,karl
+gdc-coref,mvrf.0,137298,137395,karl,137383,137386,ich,karl
+gdc-coref,mvrf.0,137462,137552,karl,137490,137493,ich,karl
+gdc-coref,mvrf.0,137557,137647,johanna,137629,137632,ich,johanna
+gdc-coref,mvrf.0,137652,137783,karl,137692,137695,ich,karl
+gdc-coref,mvrf.0,137652,137783,karl,137769,137772,ich,karl
+gdc-coref,mvrf.0,137788,137960,johanna,137826,137829,ich,johanna
+gdc-coref,mvrf.0,137965,138231,karl,138103,138106,ich,karl
+gdc-coref,mvrf.0,138382,138428,karl,138401,138404,ich,karl
+gdc-coref,mvrf.0,138382,138428,karl,138424,138427,ich,karl
+gdc-coref,mvrf.0,138527,138664,karl,138635,138638,mir,karl
+gdc-coref,mvrf.0,138527,138664,karl,138647,138650,ich,karl
+gdc-coref,mvrf.0,138882,139003,karl,138888,138891,Ich,karl
+gdc-coref,mvrf.0,139114,139157,karl,139125,139129,mich,karl
+gdc-coref,mvrf.0,139114,139157,karl,139135,139138,ich,karl
+gdc-coref,mvrf.0,139199,139219,karl,139210,139214,mich,karl
+gdc-coref,mvrf.0,140148,140784,karl,140247,140251,mich,karl
+gdc-coref,mvrf.0,140148,140784,karl,140318,140324,meiner,karl
+gdc-coref,mvrf.0,140148,140784,karl,140333,140338,meine,karl
+gdc-coref,mvrf.0,140148,140784,karl,140379,140382,ich,karl
+gdc-coref,mvrf.0,140148,140784,karl,140525,140529,mich,karl
+gdc-coref,mvrf.0,140148,140784,karl,140556,140559,ich,karl
+gdc-coref,mvrf.0,140148,140784,karl,140612,140615,mir,karl
+gdc-coref,mvrf.0,140148,140784,karl,140647,140650,ich,karl
+gdc-coref,mvrf.0,140789,140882,karl,140807,140810,ich,karl
+gdc-coref,mvrf.0,141069,141834,karl,141140,141143,mir,karl
+gdc-coref,mvrf.0,141069,141834,karl,141175,141179,mich,karl
+gdc-coref,mvrf.0,141069,141834,karl,141227,141231,mich,karl
+gdc-coref,mvrf.0,141840,142408,karl,141907,141910,ich,karl
+gdc-coref,mvrf.0,141840,142408,karl,141944,141947,ich,karl
+gdc-coref,mvrf.0,141840,142408,karl,141960,141963,ich,karl
+gdc-coref,mvrf.0,141840,142408,karl,142028,142031,Ich,karl
+gdc-coref,mvrf.0,141840,142408,karl,142125,142129,mich,karl
+gdc-coref,mvrf.0,141840,142408,karl,142175,142179,mich,karl
+gdc-coref,mvrf.0,141840,142408,karl,142259,142262,ich,karl
+gdc-coref,mvrf.0,141840,142408,karl,142304,142307,Ich,karl
+gdc-coref,mvrf.0,141840,142408,karl,142333,142336,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142441,142444,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142470,142473,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142491,142497,meiner,karl
+gdc-coref,mvrf.0,142412,143577,karl,142532,142535,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142552,142555,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142566,142572,meinen,karl
+gdc-coref,mvrf.0,142412,143577,karl,142708,142711,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142764,142768,mich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142769,142773,mein,karl
+gdc-coref,mvrf.0,142412,143577,karl,142789,142792,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142809,142812,Ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142839,142842,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,142984,142987,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,143014,143017,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,143038,143041,ich,karl
+gdc-coref,mvrf.0,142412,143577,karl,143042,143046,mich,karl
+gdc-coref,mvrf.0,142412,143577,karl,143310,143314,mich,karl
+gdc-coref,mvrf.0,142412,143577,karl,143349,143352,ich,karl
+gdc-coref,mvrf.0,143581,143755,karl,143611,143614,ich,karl
+gdc-coref,mvrf.0,144837,144975,frau_weber_mutter,144921,144924,ich,frau_weber_mutter
+gdc-coref,mvrf.0,144837,144975,frau_weber_mutter,144951,144954,mir,frau_weber_mutter
+gdc-coref,mvrf.0,145016,145326,luestling,145026,145029,Ich,luestling
+gdc-coref,mvrf.0,145016,145326,luestling,145037,145041,mich,luestling
+gdc-coref,mvrf.0,145016,145326,luestling,145157,145160,ich,luestling
+gdc-coref,mvrf.0,145409,145458,luestling,145424,145429,meine,luestling
+gdc-coref,mvrf.0,145526,146483,luestling,145899,145902,ich,luestling
+gdc-coref,mvrf.0,145526,146483,luestling,146010,146014,mein,luestling
+gdc-coref,mvrf.0,145526,146483,luestling,146233,146236,ich,luestling
+gdc-coref,mvrf.0,146881,146964,luestling,146950,146953,mir,luestling
+gdc-coref,mvrf.0,146990,147438,luestling,147337,147340,ich,luestling
+gdc-coref,mvrf.0,147464,147510,luestling,147474,147477,Ich,luestling
+gdc-coref,mvrf.0,147464,147510,luestling,147484,147487,ich,luestling
+gdc-coref,mvrf.0,147515,147591,karl,147548,147551,Ich,karl
+gdc-coref,mvrf.0,147700,147826,karl,147718,147721,Ich,karl
+gdc-coref,mvrf.0,147700,147826,karl,147737,147740,ich,karl
+gdc-coref,mvrf.0,147700,147826,karl,147801,147804,ich,karl
+gdc-coref,mvrf.0,148131,148168,frau_weber_mutter,148139,148143,Mein,frau_weber_mutter
+gdc-coref,mvrf.0,148201,148233,frau_weber_mutter,148219,148222,mir,frau_weber_mutter
+gdc-coref,mvrf.0,148238,148384,karl,148244,148247,Ich,karl
+gdc-coref,mvrf.0,148238,148384,karl,148252,148256,mein,karl
+gdc-coref,mvrf.0,148238,148384,karl,148328,148331,ich,karl
+gdc-coref,mvrf.0,148238,148384,karl,148370,148373,ich,karl
+gdc-coref,mvrf.0,148414,148448,selma,148421,148424,Ich,selma
+gdc-coref,mvrf.0,148453,148709,karl,148459,148462,Ich,karl
+gdc-coref,mvrf.0,148453,148709,karl,148538,148544,meinen,karl
+gdc-coref,mvrf.0,148453,148709,karl,148651,148654,Ich,karl
+gdc-coref,mvrf.0,148453,148709,karl,148690,148694,mich,karl
+gdc-coref,mvrf.0,148773,148842,frau_weber_mutter,148815,148818,ich,frau_weber_mutter
+gdc-coref,mvrf.0,148847,148878,karl,148864,148868,mich,karl
+gdc-coref,mvrf.0,148883,148914,frau_weber_mutter,148891,148894,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,148919,149168,karl,148936,148940,mich,karl
+gdc-coref,mvrf.0,148919,149168,karl,149099,149103,mich,karl
+gdc-coref,mvrf.0,148919,149168,karl,149134,149137,ich,karl
+gdc-coref,mvrf.0,149173,149280,frau_weber_mutter,149223,149226,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,149173,149280,frau_weber_mutter,149253,149256,ich,frau_weber_mutter
+gdc-coref,mvrf.0,149173,149280,frau_weber_mutter,149261,149265,mich,frau_weber_mutter
+gdc-coref,mvrf.0,149401,149557,frau_weber_mutter,149439,149442,mir,frau_weber_mutter
+gdc-coref,mvrf.0,149401,149557,frau_weber_mutter,149475,149480,meine,frau_weber_mutter
+gdc-coref,mvrf.0,149562,149682,karl,149602,149605,ich,karl
+gdc-coref,mvrf.0,149715,149745,karl,149734,149738,mich,karl
+gdc-coref,mvrf.0,149750,149891,frau_weber_mutter,149774,149777,mir,frau_weber_mutter
+gdc-coref,mvrf.0,149750,149891,frau_weber_mutter,149813,149816,mir,frau_weber_mutter
+gdc-coref,mvrf.0,149896,150055,karl,149922,149925,ich,karl
+gdc-coref,mvrf.0,149896,150055,karl,149950,149953,ich,karl
+gdc-coref,mvrf.0,149896,150055,karl,150004,150007,Ich,karl
+gdc-coref,mvrf.0,149896,150055,karl,150019,150022,ich,karl
+gdc-coref,mvrf.0,149896,150055,karl,150041,150045,mich,karl
+gdc-coref,mvrf.0,150161,150209,karl,150186,150189,Ich,karl
+gdc-coref,mvrf.0,150214,150311,frau_weber_mutter,150257,150261,mein,frau_weber_mutter
+gdc-coref,mvrf.0,150316,150427,johanna,150355,150358,mir,johanna
+gdc-coref,mvrf.0,150432,150486,karl,150438,150441,Ich,karl
+gdc-coref,mvrf.0,150432,150486,karl,150463,150466,ich,karl
+gdc-coref,mvrf.0,150491,150551,johanna,150507,150510,ich,johanna
+gdc-coref,mvrf.0,150491,150551,johanna,150512,150515,Ich,johanna
+gdc-coref,mvrf.0,150556,150606,karl,150569,150574,meine,karl
+gdc-coref,mvrf.0,150611,150733,frau_weber_mutter,150672,150675,ich,frau_weber_mutter
+gdc-coref,mvrf.0,150738,150894,johanna,150747,150750,Ich,johanna
+gdc-coref,mvrf.0,150738,150894,johanna,150756,150759,mir,johanna
+gdc-coref,mvrf.0,151043,151090,karl,151085,151089,mich,karl
+gdc-coref,mvrf.0,151217,151310,johanna,151248,151251,ich,johanna
+gdc-coref,mvrf.0,151413,151447,bleich,151421,151424,Ich,bleich
+gdc-coref,mvrf.0,151587,151913,luestling,151597,151600,Ich,luestling
+gdc-coref,mvrf.0,151587,151913,luestling,151708,151712,mich,luestling
+gdc-coref,mvrf.0,151587,151913,luestling,151729,151732,ich,luestling
+gdc-coref,mvrf.0,151587,151913,luestling,151854,151857,ich,luestling
+gdc-coref,mvrf.0,152011,152100,karl,152067,152071,mich,karl
+gdc-coref,mvrf.0,152011,152100,karl,152095,152099,mich,karl
+gdc-coref,mvrf.0,152224,152319,karl,152239,152242,ich,karl
+gdc-coref,mvrf.0,152224,152319,karl,152250,152253,ich,karl
+gdc-coref,mvrf.0,152224,152319,karl,152271,152274,Ich,karl
+gdc-coref,mvrf.0,152545,152617,johanna,152554,152557,Ich,johanna
+gdc-coref,mvrf.0,152816,152886,luestling,152842,152845,ich,luestling
+gdc-coref,mvrf.0,153140,153241,johanna,153153,153156,mir,johanna
+gdc-coref,mvrf.0,153246,153274,karl,153252,153255,Ich,karl
+gdc-coref,mvrf.0,153463,153508,karl,153492,153495,ich,karl
+gdc-coref,mvrf.0,153764,153784,mariechen_marie,153771,153776,Meine,mariechen_marie
+gdc-coref,mvrf.0,153789,153839,karl,153813,153816,Ich,karl
+gdc-coref,mvrf.0,154053,154080,frau_weber_mutter,154061,154064,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,154455,154600,frau_weber_mutter,154472,154476,mich,frau_weber_mutter
+gdc-coref,mvrf.0,154455,154600,frau_weber_mutter,154513,154516,mir,frau_weber_mutter
+gdc-coref,mvrf.0,154455,154600,frau_weber_mutter,154528,154531,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,154455,154600,frau_weber_mutter,154569,154572,mir,frau_weber_mutter
+gdc-coref,mvrf.0,154751,154783,mariechen_marie,154758,154761,Ich,mariechen_marie
+gdc-coref,mvrf.0,154821,154861,mariechen_marie,154828,154831,Ich,mariechen_marie
+gdc-coref,mvrf.0,154912,154967,brigitte,154952,154955,ich,brigitte
+gdc-coref,mvrf.0,155016,155106,mariechen_marie,155092,155095,ich,mariechen_marie
+gdc-coref,mvrf.0,155236,155281,frau_weber_mutter,155271,155274,mir,frau_weber_mutter
+gdc-coref,mvrf.0,155286,155339,mariechen_marie,155293,155296,Ich,mariechen_marie
+gdc-coref,mvrf.0,155403,155540,frau_weber_mutter,155438,155441,mir,frau_weber_mutter
+gdc-coref,mvrf.0,155614,155776,brigitte,155653,155656,ich,brigitte
+gdc-coref,mvrf.0,155614,155776,brigitte,155689,155692,ich,brigitte
+gdc-coref,mvrf.0,155881,155914,brigitte,155891,155894,Ich,brigitte
+gdc-coref,mvrf.0,156476,156511,luestling,156486,156489,Ich,luestling
+gdc-coref,mvrf.0,156516,156548,brigitte,156526,156529,Ich,brigitte
+gdc-coref,mvrf.0,156649,156723,brigitte,156682,156686,mich,brigitte
+gdc-coref,mvrf.0,156774,156874,brigitte,156784,156787,Ich,brigitte
+gdc-coref,mvrf.0,156774,156874,brigitte,156824,156828,mich,brigitte
+gdc-coref,mvrf.0,156774,156874,brigitte,156838,156841,ich,brigitte
+gdc-coref,mvrf.0,157175,157221,mariechen_marie,157201,157205,mich,mariechen_marie
+gdc-coref,mvrf.0,157300,157342,mariechen_marie,157315,157319,mich,mariechen_marie
+gdc-coref,mvrf.0,157347,157414,karl,157358,157361,ich,karl
+gdc-coref,mvrf.0,157347,157414,karl,157371,157375,mich,karl
+gdc-coref,mvrf.0,157419,157477,mariechen_marie,157441,157445,mich,mariechen_marie
+gdc-coref,mvrf.0,157661,157730,frau_weber_mutter,157674,157677,ich,frau_weber_mutter
+gdc-coref,mvrf.0,157735,157801,mariechen_marie,157747,157751,mich,mariechen_marie
+gdc-coref,mvrf.0,157806,157869,luestling,157827,157830,Ich,luestling
+gdc-coref,mvrf.0,157874,157951,brigitte,157916,157920,mich,brigitte
+gdc-coref,mvrf.0,157981,158101,mariechen_marie,158009,158012,mir,mariechen_marie
+gdc-coref,mvrf.0,157981,158101,mariechen_marie,158027,158031,mich,mariechen_marie
+gdc-coref,mvrf.0,157981,158101,mariechen_marie,158050,158053,ich,mariechen_marie
+gdc-coref,mvrf.0,158133,158307,mariechen_marie,158186,158189,Ich,mariechen_marie
+gdc-coref,mvrf.0,158133,158307,mariechen_marie,158303,158306,mir,mariechen_marie
+gdc-coref,mvrf.0,158312,158684,karl,158335,158338,Ich,karl
+gdc-coref,mvrf.0,158312,158684,karl,158393,158399,meiner,karl
+gdc-coref,mvrf.0,158312,158684,karl,158486,158489,mir,karl
+gdc-coref,mvrf.0,158312,158684,karl,158517,158520,ich,karl
+gdc-coref,mvrf.0,158689,158737,mariechen_marie,158702,158706,mich,mariechen_marie
+gdc-coref,mvrf.0,158689,158737,mariechen_marie,158720,158723,ich,mariechen_marie
+gdc-coref,mvrf.0,158742,158823,karl,158748,158751,Ich,karl
+gdc-coref,mvrf.0,158742,158823,karl,158775,158779,mich,karl
+gdc-coref,mvrf.0,158742,158823,karl,158784,158787,ich,karl
+gdc-coref,mvrf.0,158742,158823,karl,158810,158813,mir,karl
+gdc-coref,mvrf.0,158868,158948,karl,158906,158909,ich,karl
+gdc-coref,mvrf.0,158868,158948,karl,158910,158914,mich,karl
+gdc-coref,mvrf.0,158868,158948,karl,158930,158934,mich,karl
+gdc-coref,mvrf.0,158953,159048,mariechen_marie,158964,158968,mich,mariechen_marie
+gdc-coref,mvrf.0,158953,159048,mariechen_marie,158980,158983,ich,mariechen_marie
+gdc-coref,mvrf.0,158953,159048,mariechen_marie,159031,159034,ich,mariechen_marie
+gdc-coref,mvrf.0,159086,159155,brigitte,159140,159144,mich,brigitte
+gdc-coref,mvrf.0,159160,159182,karl,159166,159169,Ich,karl
+gdc-coref,mvrf.0,159450,159586,karl,159487,159490,mir,karl
+gdc-coref,mvrf.0,159450,159586,karl,159504,159507,ich,karl
+gdc-coref,mvrf.0,159591,159709,mariechen_marie,159608,159612,mich,mariechen_marie
+gdc-coref,mvrf.0,159591,159709,mariechen_marie,159620,159623,mir,mariechen_marie
+gdc-coref,mvrf.0,159591,159709,mariechen_marie,159664,159667,ich,mariechen_marie
+gdc-coref,mvrf.0,159591,159709,mariechen_marie,159693,159698,meine,mariechen_marie
+gdc-coref,mvrf.0,159774,159821,mariechen_marie,159797,159801,mich,mariechen_marie
+gdc-coref,mvrf.0,159826,159918,luestling,159845,159848,ich,luestling
+gdc-coref,mvrf.0,159826,159918,luestling,159893,159896,ich,luestling
+gdc-coref,mvrf.0,159950,160113,luestling,159977,159980,Ich,luestling
+gdc-coref,mvrf.0,160118,160175,mariechen_marie,160125,160129,Mein,mariechen_marie
+gdc-coref,mvrf.0,160374,160466,mariechen_marie,160424,160427,ich,mariechen_marie
+gdc-coref,mvrf.0,160521,160686,mariechen_marie,160566,160569,mir,mariechen_marie
+gdc-coref,mvrf.0,160521,160686,mariechen_marie,160593,160596,mir,mariechen_marie
+gdc-coref,mvrf.0,160521,160686,mariechen_marie,160632,160636,mich,mariechen_marie
+gdc-coref,mvrf.0,160521,160686,mariechen_marie,160682,160685,mir,mariechen_marie
+gdc-coref,mvrf.0,160712,160755,johanna,160721,160724,Ich,johanna
+gdc-coref,mvrf.0,160760,160816,frau_weber_mutter,160791,160794,ich,frau_weber_mutter
+gdc-coref,mvrf.0,160821,160855,mariechen_marie,160843,160847,mich,mariechen_marie
+gdc-coref,mvrf.0,160860,160890,karl,160866,160869,Ich,karl
+gdc-coref,mvrf.0,160895,160976,johanna,160960,160963,ich,johanna
+gdc-coref,mvrf.0,160981,161050,karl,160987,160992,Meine,karl
+gdc-coref,mvrf.0,160981,161050,karl,161016,161020,mein,karl
+gdc-coref,mvrf.0,161055,161130,johanna,161111,161114,Ich,johanna
+gdc-coref,mvrf.0,161288,161346,karl,161316,161319,Ich,karl
+gdc-coref,mvrf.0,161351,161425,mariechen_marie,161373,161377,mich,mariechen_marie
+gdc-coref,mvrf.0,161351,161425,mariechen_marie,161383,161386,ich,mariechen_marie
+gdc-coref,mvrf.0,161430,161568,karl,161502,161505,ich,karl
+gdc-coref,mvrf.0,161430,161568,karl,161542,161546,mich,karl
+gdc-coref,mvrf.0,161633,161780,frau_weber_mutter,161641,161644,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,161633,161780,frau_weber_mutter,161723,161726,ich,frau_weber_mutter
+gdc-coref,mvrf.0,161785,161819,johanna,161802,161805,mir,johanna
+gdc-coref,mvrf.0,161824,161887,frau_weber_mutter,161832,161835,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,161892,161972,johanna,161901,161904,Ich,johanna
+gdc-coref,mvrf.0,161892,161972,johanna,161946,161949,ich,johanna
+gdc-coref,mvrf.0,161977,162034,frau_weber_mutter,161989,161992,mir,frau_weber_mutter
+gdc-coref,mvrf.0,162039,162111,johanna,162048,162051,Ich,johanna
+gdc-coref,mvrf.0,162039,162111,johanna,162083,162086,mir,johanna
+gdc-coref,mvrf.0,162039,162111,johanna,162088,162091,ich,johanna
+gdc-coref,mvrf.0,162141,162204,johanna,162155,162158,ich,johanna
+gdc-coref,mvrf.0,162141,162204,johanna,162166,162169,mir,johanna
+gdc-coref,mvrf.0,162259,162312,johanna,162300,162303,ich,johanna
+gdc-coref,mvrf.0,162317,162428,frau_weber_mutter,162383,162386,Ich,frau_weber_mutter
+gdc-coref,mvrf.0,162433,162494,johanna,162477,162480,Ich,johanna
+gdc-coref,mvrf.0,162542,162618,karl,162558,162561,ich,karl
+gdc-coref,mvrf.0,162745,162946,frau_weber_mutter,162878,162882,mein,frau_weber_mutter
+gdc-coref,mvrf.0,162951,163107,karl,162961,162965,mich,karl
+gdc-coref,mvrf.0,162951,163107,karl,163001,163004,Ich,karl
+gdc-coref,mvrf.0,162951,163107,karl,163010,163016,meinen,karl
+gdc-coref,mvrf.0,163260,163317,mariechen_marie,163306,163309,ich,mariechen_marie
+gdc-coref,mvrf.0,163689,163715,luestling,163699,163702,Ich,luestling
+gdc-coref,mvrf.0,163720,163776,mariechen_marie,163732,163735,ich,mariechen_marie
+gdc-coref,mvrf.0,163720,163776,mariechen_marie,163760,163764,mich,mariechen_marie
+gdc-coref,mvrf.0,163934,163966,luestling,163944,163947,Ich,luestling
+gdc-coref,mvrf.0,163971,164097,mariechen_marie,163987,163991,mich,mariechen_marie
+gdc-coref,mvrf.0,164508,164695,luestling,164550,164553,mir,luestling
+gdc-coref,mvrf.0,164882,164969,frau_weber_mutter,164900,164903,ich,frau_weber_mutter
+gdc-coref,mvrf.0,165148,165204,oberst,165187,165190,mir,oberst
+gdc-coref,mvrf.0,165239,165312,oberst,165251,165254,ich,oberst
+gdc-coref,mvrf.0,165317,165367,mariechen_marie,165353,165357,mich,mariechen_marie
+gdc-coref,mvrf.0,165552,165621,oberst,165587,165590,Ich,oberst
+gdc-coref,mvrf.0,165626,165692,mariechen_marie,165647,165650,Ich,mariechen_marie
+gdc-coref,mvrf.0,165626,165692,mariechen_marie,165658,165662,mich,mariechen_marie
+gdc-coref,mvrf.0,165626,165692,mariechen_marie,165668,165671,ich,mariechen_marie
+gdc-coref,mvrf.0,166022,166077,oberst,166039,166042,ich,oberst
+gdc-coref,mvrf.0,166022,166077,oberst,166069,166072,mir,oberst
+gdc-coref,mvrf.0,166240,166315,mariechen_marie,166270,166276,meinen,mariechen_marie
+gdc-coref,mvrf.0,166371,166772,mariechen_marie,166386,166390,mich,mariechen_marie
+gdc-coref,mvrf.0,166371,166772,mariechen_marie,166567,166570,mir,mariechen_marie
+gdc-coref,mvrf.0,166371,166772,mariechen_marie,166690,166693,ich,mariechen_marie
+gdc-coref,mvrf.0,166833,166863,oberst,166841,166844,Ich,oberst
+gdc-coref,mvrf.0,166887,167050,oberst,167005,167008,mir,oberst
+gdc-coref,mvrf.0,167055,167116,luestling,167086,167089,ich,luestling
+gdc-coref,mvrf.0,167055,167116,luestling,167090,167093,mir,luestling
+gdc-coref,mvrf.0,167121,167209,oberst,167139,167142,Ich,oberst
+gdc-coref,mvrf.0,167121,167209,oberst,167161,167165,mich,oberst
+gdc-coref,mvrf.0,167121,167209,oberst,167184,167187,Mir,oberst
+gdc-coref,mvrf.0,167298,167402,luestling,167351,167354,Ich,luestling
+gdc-coref,mvrf.0,167298,167402,luestling,167390,167394,mich,luestling
+gdc-coref,mvrf.0,167434,167578,luestling,167449,167452,ich,luestling
+gdc-coref,mvrf.0,167434,167578,luestling,167488,167491,ich,luestling
+gdc-coref,mvrf.0,167434,167578,luestling,167519,167522,ich,luestling
+gdc-coref,mvrf.0,167617,167638,selma,167634,167637,ich,selma
+gdc-coref,mvrf.0,167643,167660,johanna,167656,167659,ich,johanna
+gdc-coref,mvrf.0,167812,167869,johanna,167830,167833,ich,johanna
+gdc-coref,mvrf.0,167812,167869,johanna,167834,167838,mich,johanna
+gdc-coref,mvrf.0,168029,168189,luestling,168039,168043,Mein,luestling
+gdc-coref,mvrf.0,168029,168189,luestling,168044,168047,ich,luestling
+gdc-coref,mvrf.0,168029,168189,luestling,168148,168151,ich,luestling
+gdc-coref,mvrf.0,168029,168189,luestling,168157,168160,ich,luestling
+gdc-coref,mvrf.0,168194,168248,frau_weber_mutter,168223,168227,mich,frau_weber_mutter
+gdc-coref,mvrf.0,168253,168326,luestling,168282,168285,ich,luestling
+gdc-coref,mvrf.0,168253,168326,luestling,168294,168297,mir,luestling
+gdc-coref,mvrf.0,168253,168326,luestling,168311,168315,mein,luestling
+gdc-coref,mvrf.0,168600,168686,frau_weber_mutter,168615,168618,ich,frau_weber_mutter
+gdc-coref,mvrf.0,168600,168686,frau_weber_mutter,168670,168673,ich,frau_weber_mutter

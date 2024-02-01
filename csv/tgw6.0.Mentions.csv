@@ -1,0 +1,1633 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,tgw6.0,3802,3874,maari,3824,3827,Ich,maari
+gdc-coref,tgw6.0,3802,3874,maari,3853,3856,ich,maari
+gdc-coref,tgw6.0,4024,4165,frau_ermischer,4040,4045,Meine,frau_ermischer
+gdc-coref,tgw6.0,4024,4165,frau_ermischer,4080,4084,mich,frau_ermischer
+gdc-coref,tgw6.0,4792,5110,frau_ermischer,4962,4965,mir,frau_ermischer
+gdc-coref,tgw6.0,5115,5155,ermischer,5126,5129,Ich,ermischer
+gdc-coref,tgw6.0,5160,5374,frau_ermischer,5213,5216,ich,frau_ermischer
+gdc-coref,tgw6.0,5554,5916,frau_ermischer,5806,5809,mir,frau_ermischer
+gdc-coref,tgw6.0,5554,5916,frau_ermischer,5822,5825,mir,frau_ermischer
+gdc-coref,tgw6.0,6394,6442,ermischer,6430,6434,mich,ermischer
+gdc-coref,tgw6.0,7047,7113,frau_ermischer,7075,7078,ich,frau_ermischer
+gdc-coref,tgw6.0,7759,7817,maari,7801,7805,mich,maari
+gdc-coref,tgw6.0,7878,7934,maari,7905,7908,mir,maari
+gdc-coref,tgw6.0,8217,8277,maari,8261,8265,mich,maari
+gdc-coref,tgw6.0,9191,9362,ermischer,9276,9279,mir,ermischer
+gdc-coref,tgw6.0,9554,9583,ulbrich,9567,9570,ich,ulbrich
+gdc-coref,tgw6.0,9956,10126,ulbrich,9965,9968,Ich,ulbrich
+gdc-coref,tgw6.0,10189,10349,ulbrich,10337,10340,ich,ulbrich
+gdc-coref,tgw6.0,10548,10721,ermischer,10559,10562,Ich,ermischer
+gdc-coref,tgw6.0,10548,10721,ermischer,10591,10594,ich,ermischer
+gdc-coref,tgw6.0,11120,11228,ermischer,11216,11219,mir,ermischer
+gdc-coref,tgw6.0,11233,11410,ulbrich,11327,11330,ich,ulbrich
+gdc-coref,tgw6.0,11474,11754,ulbrich,11488,11491,ich,ulbrich
+gdc-coref,tgw6.0,11474,11754,ulbrich,11502,11505,ich,ulbrich
+gdc-coref,tgw6.0,11838,11867,ulbrich,11847,11850,Ich,ulbrich
+gdc-coref,tgw6.0,11872,11974,ermischer,11883,11886,Ich,ermischer
+gdc-coref,tgw6.0,11979,12041,ulbrich,12018,12021,ich,ulbrich
+gdc-coref,tgw6.0,12087,12315,ulbrich,12278,12281,ich,ulbrich
+gdc-coref,tgw6.0,12368,12580,ulbrich,12467,12470,ich,ulbrich
+gdc-coref,tgw6.0,12368,12580,ulbrich,12530,12533,ich,ulbrich
+gdc-coref,tgw6.0,12368,12580,ulbrich,12575,12579,mich,ulbrich
+gdc-coref,tgw6.0,12743,13175,ulbrich,12800,12803,ich,ulbrich
+gdc-coref,tgw6.0,12743,13175,ulbrich,12859,12862,mir,ulbrich
+gdc-coref,tgw6.0,12743,13175,ulbrich,12879,12885,meiner,ulbrich
+gdc-coref,tgw6.0,12743,13175,ulbrich,13100,13103,Ich,ulbrich
+gdc-coref,tgw6.0,13420,13659,ulbrich,13429,13432,Ich,ulbrich
+gdc-coref,tgw6.0,13890,14026,frau_ermischer,13916,13919,mir,frau_ermischer
+gdc-coref,tgw6.0,14077,14224,frau_ermischer,14097,14100,ich,frau_ermischer
+gdc-coref,tgw6.0,14342,14617,frau_ermischer,14490,14493,Ich,frau_ermischer
+gdc-coref,tgw6.0,14342,14617,frau_ermischer,14515,14518,ich,frau_ermischer
+gdc-coref,tgw6.0,14342,14617,frau_ermischer,14583,14586,Ich,frau_ermischer
+gdc-coref,tgw6.0,14745,14778,ermischer,14766,14770,mich,ermischer
+gdc-coref,tgw6.0,14783,14965,frau_ermischer,14907,14910,mir,frau_ermischer
+gdc-coref,tgw6.0,15568,15702,seifert,15577,15580,Ich,seifert
+gdc-coref,tgw6.0,15568,15702,seifert,15585,15588,mir,seifert
+gdc-coref,tgw6.0,15958,16298,seifert,16159,16162,ich,seifert
+gdc-coref,tgw6.0,16463,16588,ermischer,16576,16580,mich,ermischer
+gdc-coref,tgw6.0,16623,17042,ermischer,16774,16777,ich,ermischer
+gdc-coref,tgw6.0,17048,17349,frau_ermischer,17159,17162,ich,frau_ermischer
+gdc-coref,tgw6.0,17354,17552,seifert,17414,17417,ich,seifert
+gdc-coref,tgw6.0,17354,17552,seifert,17423,17427,mich,seifert
+gdc-coref,tgw6.0,17354,17552,seifert,17519,17522,ich,seifert
+gdc-coref,tgw6.0,17668,17845,seifert,17703,17706,Ich,seifert
+gdc-coref,tgw6.0,17668,17845,seifert,17736,17739,ich,seifert
+gdc-coref,tgw6.0,18808,18963,frau_ermischer,18916,18919,Ich,frau_ermischer
+gdc-coref,tgw6.0,18808,18963,frau_ermischer,18953,18956,ich,frau_ermischer
+gdc-coref,tgw6.0,19452,19528,frau_ermischer,19472,19475,ich,frau_ermischer
+gdc-coref,tgw6.0,20038,20133,ermischer,20099,20102,Ich,ermischer
+gdc-coref,tgw6.0,20038,20133,ermischer,20108,20112,mich,ermischer
+gdc-coref,tgw6.0,20968,21182,weigel,21103,21106,Ich,weigel
+gdc-coref,tgw6.0,21218,21310,ermischer,21278,21281,mir,ermischer
+gdc-coref,tgw6.0,21498,21697,weigel,21617,21621,Mich,weigel
+gdc-coref,tgw6.0,21941,22020,ermischer,21973,21976,ich,ermischer
+gdc-coref,tgw6.0,22025,22282,weigel,22112,22118,meiner,weigel
+gdc-coref,tgw6.0,22287,22372,ermischer,22311,22314,ich,ermischer
+gdc-coref,tgw6.0,22412,22511,ermischer,22455,22458,Mir,ermischer
+gdc-coref,tgw6.0,22516,22618,weigel,22557,22560,ich,weigel
+gdc-coref,tgw6.0,22516,22618,weigel,22564,22570,meinem,weigel
+gdc-coref,tgw6.0,22682,22816,weigel,22764,22767,mir,weigel
+gdc-coref,tgw6.0,23019,23083,ermischer,23030,23033,Ich,ermischer
+gdc-coref,tgw6.0,23019,23083,ermischer,23056,23059,mir,ermischer
+gdc-coref,tgw6.0,23145,23326,weigel,23158,23161,ich,weigel
+gdc-coref,tgw6.0,23145,23326,weigel,23274,23277,ich,weigel
+gdc-coref,tgw6.0,23425,23571,weigel,23541,23544,mir,weigel
+gdc-coref,tgw6.0,23576,23714,frau_ermischer,23603,23606,ich,frau_ermischer
+gdc-coref,tgw6.0,23719,23754,weigel,23732,23735,ich,weigel
+gdc-coref,tgw6.0,23719,23754,weigel,23740,23743,ich,weigel
+gdc-coref,tgw6.0,23898,23985,weigel,23956,23960,mich,weigel
+gdc-coref,tgw6.0,23990,24056,frau_ermischer,24025,24028,ich,frau_ermischer
+gdc-coref,tgw6.0,24061,24261,weigel,24134,24137,ich,weigel
+gdc-coref,tgw6.0,24061,24261,weigel,24225,24228,ich,weigel
+gdc-coref,tgw6.0,24416,24498,weigel,24433,24436,ich,weigel
+gdc-coref,tgw6.0,24559,24701,weigel,24591,24594,ich,weigel
+gdc-coref,tgw6.0,24559,24701,weigel,24636,24639,ich,weigel
+gdc-coref,tgw6.0,24559,24701,weigel,24679,24682,ich,weigel
+gdc-coref,tgw6.0,24706,24804,ermischer,24726,24729,ich,ermischer
+gdc-coref,tgw6.0,24706,24804,ermischer,24774,24777,ich,ermischer
+gdc-coref,tgw6.0,24706,24804,ermischer,24778,24782,mich,ermischer
+gdc-coref,tgw6.0,24971,25185,weigel,25015,25018,ich,weigel
+gdc-coref,tgw6.0,24971,25185,weigel,25047,25052,meine,weigel
+gdc-coref,tgw6.0,24971,25185,weigel,25150,25153,ich,weigel
+gdc-coref,tgw6.0,25190,25300,frau_ermischer,25212,25215,ich,frau_ermischer
+gdc-coref,tgw6.0,25190,25300,frau_ermischer,25236,25242,meinen,frau_ermischer
+gdc-coref,tgw6.0,25305,25462,weigel,25317,25320,ich,weigel
+gdc-coref,tgw6.0,25467,25573,ermischer,25539,25542,Ich,ermischer
+gdc-coref,tgw6.0,25578,25682,weigel,25664,25667,mir,weigel
+gdc-coref,tgw6.0,25895,26094,weigel,25916,25920,mich,weigel
+gdc-coref,tgw6.0,25895,26094,weigel,25992,25995,ich,weigel
+gdc-coref,tgw6.0,26134,26314,weigel,26187,26193,Meinen,weigel
+gdc-coref,tgw6.0,26134,26314,weigel,26212,26215,ich,weigel
+gdc-coref,tgw6.0,26598,26649,ermischer,26609,26612,Ich,ermischer
+gdc-coref,tgw6.0,26598,26649,ermischer,26619,26623,mich,ermischer
+gdc-coref,tgw6.0,27465,27508,ermischer,27476,27479,Ich,ermischer
+gdc-coref,tgw6.0,27465,27508,ermischer,27485,27489,mich,ermischer
+gdc-coref,tgw6.0,27857,28198,frau_ermischer,27897,27900,mir,frau_ermischer
+gdc-coref,tgw6.0,28203,28276,ermischer,28243,28247,mich,ermischer
+gdc-coref,tgw6.0,28501,28534,ermischer,28522,28526,mich,ermischer
+gdc-coref,tgw6.0,28539,28913,frau_ermischer,28572,28575,mir,frau_ermischer
+gdc-coref,tgw6.0,28539,28913,frau_ermischer,28618,28622,mich,frau_ermischer
+gdc-coref,tgw6.0,28539,28913,frau_ermischer,28711,28715,mich,frau_ermischer
+gdc-coref,tgw6.0,28918,29144,ermischer,28988,28991,ich,ermischer
+gdc-coref,tgw6.0,29150,29213,frau_ermischer,29204,29207,ich,frau_ermischer
+gdc-coref,tgw6.0,29218,29396,ermischer,29297,29300,Ich,ermischer
+gdc-coref,tgw6.0,29218,29396,ermischer,29305,29308,mir,ermischer
+gdc-coref,tgw6.0,29218,29396,ermischer,29368,29371,mir,ermischer
+gdc-coref,tgw6.0,29401,29533,seifert,29433,29436,Ich,seifert
+gdc-coref,tgw6.0,29649,29762,ermischer,29702,29705,Ich,ermischer
+gdc-coref,tgw6.0,29649,29762,ermischer,29744,29747,ich,ermischer
+gdc-coref,tgw6.0,30754,30933,frau_neubert,30828,30833,meine,frau_neubert
+gdc-coref,tgw6.0,30754,30933,frau_neubert,30855,30858,ich,frau_neubert
+gdc-coref,tgw6.0,30938,31078,frau_ermischer,31068,31071,ich,frau_ermischer
+gdc-coref,tgw6.0,31118,31226,neubert,31148,31151,ich,neubert
+gdc-coref,tgw6.0,31118,31226,neubert,31172,31175,ich,neubert
+gdc-coref,tgw6.0,31400,31452,neubert,31429,31433,mich,neubert
+gdc-coref,tgw6.0,31457,31587,frau_neubert,31539,31542,ich,frau_neubert
+gdc-coref,tgw6.0,31592,31740,neubert,31652,31657,meine,neubert
+gdc-coref,tgw6.0,31965,32013,neubert,31987,31991,mich,neubert
+gdc-coref,tgw6.0,32018,32094,frau_ermischer,32048,32051,mir,frau_ermischer
+gdc-coref,tgw6.0,32099,32370,neubert,32108,32111,Ich,neubert
+gdc-coref,tgw6.0,32099,32370,neubert,32225,32228,Ich,neubert
+gdc-coref,tgw6.0,32099,32370,neubert,32238,32244,meinen,neubert
+gdc-coref,tgw6.0,32099,32370,neubert,32290,32293,ich,neubert
+gdc-coref,tgw6.0,32099,32370,neubert,32318,32321,mir,neubert
+gdc-coref,tgw6.0,32375,32437,ermischer,32395,32398,ich,ermischer
+gdc-coref,tgw6.0,32375,32437,ermischer,32404,32408,mich,ermischer
+gdc-coref,tgw6.0,32442,32571,neubert,32507,32510,Ich,neubert
+gdc-coref,tgw6.0,32576,32775,ermischer,32654,32657,Ich,ermischer
+gdc-coref,tgw6.0,32875,33137,frau_neubert,32950,32953,mir,frau_neubert
+gdc-coref,tgw6.0,32875,33137,frau_neubert,33028,33031,mir,frau_neubert
+gdc-coref,tgw6.0,33402,33567,neubert,33427,33430,mir,neubert
+gdc-coref,tgw6.0,33402,33567,neubert,33500,33503,mir,neubert
+gdc-coref,tgw6.0,33402,33567,neubert,33524,33527,mir,neubert
+gdc-coref,tgw6.0,33756,33873,frau_ermischer,33840,33843,mir,frau_ermischer
+gdc-coref,tgw6.0,34157,34323,ermischer,34250,34253,mir,ermischer
+gdc-coref,tgw6.0,34157,34323,ermischer,34271,34274,mir,ermischer
+gdc-coref,tgw6.0,34931,34982,neubert,34959,34962,ich,neubert
+gdc-coref,tgw6.0,35269,35336,ermischer,35316,35319,ich,ermischer
+gdc-coref,tgw6.0,35341,35815,frau_neubert,35427,35431,Mein,frau_neubert
+gdc-coref,tgw6.0,35341,35815,frau_neubert,35626,35629,mir,frau_neubert
+gdc-coref,tgw6.0,35341,35815,frau_neubert,35742,35747,meine,frau_neubert
+gdc-coref,tgw6.0,35341,35815,frau_neubert,35773,35776,mir,frau_neubert
+gdc-coref,tgw6.0,36176,36269,maari,36200,36203,ich,maari
+gdc-coref,tgw6.0,36501,36828,maari,36575,36578,Ich,maari
+gdc-coref,tgw6.0,36501,36828,maari,36629,36632,mir,maari
+gdc-coref,tgw6.0,36501,36828,maari,36756,36761,meine,maari
+gdc-coref,tgw6.0,36501,36828,maari,36793,36799,meiner,maari
+gdc-coref,tgw6.0,36916,37058,seifert,36999,37002,Ich,seifert
+gdc-coref,tgw6.0,36916,37058,seifert,37026,37029,ich,seifert
+gdc-coref,tgw6.0,36916,37058,seifert,37044,37049,meine,seifert
+gdc-coref,tgw6.0,37495,37621,neumerkel,37546,37549,ich,neumerkel
+gdc-coref,tgw6.0,37495,37621,neumerkel,37589,37592,ich,neumerkel
+gdc-coref,tgw6.0,37495,37621,neumerkel,37597,37600,mir,neumerkel
+gdc-coref,tgw6.0,37674,37797,neumerkel,37685,37688,Ich,neumerkel
+gdc-coref,tgw6.0,37674,37797,neumerkel,37693,37696,mir,neumerkel
+gdc-coref,tgw6.0,37674,37797,neumerkel,37715,37718,ich,neumerkel
+gdc-coref,tgw6.0,37674,37797,neumerkel,37728,37734,meiner,neumerkel
+gdc-coref,tgw6.0,38093,38174,neubert,38137,38140,Ich,neubert
+gdc-coref,tgw6.0,38375,38453,neumerkel,38400,38403,ich,neumerkel
+gdc-coref,tgw6.0,38890,38976,neumerkel,38908,38911,ich,neumerkel
+gdc-coref,tgw6.0,38890,38976,neumerkel,38926,38929,Ich,neumerkel
+gdc-coref,tgw6.0,39162,39241,frau_neubert,39228,39232,mich,frau_neubert
+gdc-coref,tgw6.0,39246,39306,neubert,39292,39295,ich,neubert
+gdc-coref,tgw6.0,39311,39373,neumerkel,39339,39343,mich,neumerkel
+gdc-coref,tgw6.0,39311,39373,neumerkel,39352,39355,ich,neumerkel
+gdc-coref,tgw6.0,39450,39648,neubert,39563,39566,ich,neubert
+gdc-coref,tgw6.0,39450,39648,neubert,39567,39570,mir,neubert
+gdc-coref,tgw6.0,39450,39648,neubert,39596,39600,mich,neubert
+gdc-coref,tgw6.0,39450,39648,neubert,39614,39617,ich,neubert
+gdc-coref,tgw6.0,39995,40139,neumerkel,40051,40054,Ich,neumerkel
+gdc-coref,tgw6.0,40144,40214,ermischer,40193,40196,mir,ermischer
+gdc-coref,tgw6.0,40219,40346,neubert,40320,40323,Ich,neubert
+gdc-coref,tgw6.0,40351,40499,neumerkel,40449,40453,mich,neumerkel
+gdc-coref,tgw6.0,40504,40598,frau_neubert,40557,40561,mich,frau_neubert
+gdc-coref,tgw6.0,40937,41141,neumerkel,40988,40991,ich,neumerkel
+gdc-coref,tgw6.0,41146,41292,ermischer,41180,41183,mir,ermischer
+gdc-coref,tgw6.0,41146,41292,ermischer,41198,41201,Ich,ermischer
+gdc-coref,tgw6.0,41927,42006,neubert,41975,41978,ich,neubert
+gdc-coref,tgw6.0,41927,42006,neubert,41979,41982,mir,neubert
+gdc-coref,tgw6.0,42124,42180,ermischer,42139,42142,ich,ermischer
+gdc-coref,tgw6.0,42124,42180,ermischer,42149,42153,mich,ermischer
+gdc-coref,tgw6.0,42185,42274,frau_ermischer,42253,42256,mir,frau_ermischer
+gdc-coref,tgw6.0,42279,42323,neubert,42288,42291,Ich,neubert
+gdc-coref,tgw6.0,42279,42323,neubert,42302,42306,mein,neubert
+gdc-coref,tgw6.0,42378,42455,ermischer,42393,42396,ich,ermischer
+gdc-coref,tgw6.0,42378,42455,ermischer,42419,42422,ich,ermischer
+gdc-coref,tgw6.0,42515,42601,neubert,42524,42527,Ich,neubert
+gdc-coref,tgw6.0,42515,42601,neubert,42533,42537,mich,neubert
+gdc-coref,tgw6.0,42605,42712,frau_ermischer,42671,42674,mir,frau_ermischer
+gdc-coref,tgw6.0,46519,46561,fraenzel,46540,46543,ich,fraenzel
+gdc-coref,tgw6.0,46849,46942,gertrud,46867,46870,mir,gertrud
+gdc-coref,tgw6.0,47261,47536,frau_schoenherr,47378,47381,ich,frau_schoenherr
+gdc-coref,tgw6.0,47619,47763,frau_schoenherr,47649,47652,Ich,frau_schoenherr
+gdc-coref,tgw6.0,47619,47763,frau_schoenherr,47683,47686,ich,frau_schoenherr
+gdc-coref,tgw6.0,49363,49503,frau_schoenherr,49384,49387,mir,frau_schoenherr
+gdc-coref,tgw6.0,49638,49696,frau_schoenherr,49662,49665,mir,frau_schoenherr
+gdc-coref,tgw6.0,49701,49777,neumerkel,49748,49752,mich,neumerkel
+gdc-coref,tgw6.0,49867,50012,frau_schoenherr,49933,49936,mir,frau_schoenherr
+gdc-coref,tgw6.0,50068,50192,frau_schoenherr,50162,50165,Ich,frau_schoenherr
+gdc-coref,tgw6.0,50291,50411,neumerkel,50314,50317,ich,neumerkel
+gdc-coref,tgw6.0,50416,50603,frau_schoenherr,50437,50440,ich,frau_schoenherr
+gdc-coref,tgw6.0,50416,50603,frau_schoenherr,50531,50534,mir,frau_schoenherr
+gdc-coref,tgw6.0,50608,50682,neumerkel,50630,50633,ich,neumerkel
+gdc-coref,tgw6.0,50608,50682,neumerkel,50634,50638,mich,neumerkel
+gdc-coref,tgw6.0,50608,50682,neumerkel,50645,50651,meinen,neumerkel
+gdc-coref,tgw6.0,50740,50802,neumerkel,50770,50773,ich,neumerkel
+gdc-coref,tgw6.0,51264,51460,neumerkel,51282,51285,Ich,neumerkel
+gdc-coref,tgw6.0,51264,51460,neumerkel,51302,51305,ich,neumerkel
+gdc-coref,tgw6.0,51264,51460,neumerkel,51319,51322,Ich,neumerkel
+gdc-coref,tgw6.0,51264,51460,neumerkel,51354,51357,Ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,51877,51881,mich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,51926,51929,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,51948,51951,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52031,52034,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52072,52075,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52241,52244,mir,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52393,52396,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52466,52469,mir,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52534,52537,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52581,52584,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52620,52623,ich,neumerkel
+gdc-coref,tgw6.0,51838,52670,neumerkel,52653,52656,ich,neumerkel
+gdc-coref,tgw6.0,52927,53053,ulbrich,52942,52945,ich,ulbrich
+gdc-coref,tgw6.0,53197,53287,frau_schoenherr,53241,53244,mir,frau_schoenherr
+gdc-coref,tgw6.0,53598,53762,schoenherr,53613,53616,ich,schoenherr
+gdc-coref,tgw6.0,53785,53921,neumerkel,53868,53872,mich,neumerkel
+gdc-coref,tgw6.0,53926,54029,schoenherr,53974,53977,mir,schoenherr
+gdc-coref,tgw6.0,53926,54029,schoenherr,54007,54013,meinen,schoenherr
+gdc-coref,tgw6.0,54273,54304,ulbrich,54282,54285,Ich,ulbrich
+gdc-coref,tgw6.0,54273,54304,ulbrich,54292,54295,ich,ulbrich
+gdc-coref,tgw6.0,54510,54652,frau_schoenherr,54555,54558,Mir,frau_schoenherr
+gdc-coref,tgw6.0,54510,54652,frau_schoenherr,54602,54605,mir,frau_schoenherr
+gdc-coref,tgw6.0,54815,55344,schoenherr,55080,55083,ich,schoenherr
+gdc-coref,tgw6.0,54815,55344,schoenherr,55095,55099,mich,schoenherr
+gdc-coref,tgw6.0,54815,55344,schoenherr,55278,55281,ich,schoenherr
+gdc-coref,tgw6.0,55943,56098,schoenherr,56000,56003,mir,schoenherr
+gdc-coref,tgw6.0,56234,56403,schoenherr,56354,56357,mir,schoenherr
+gdc-coref,tgw6.0,56434,56601,neumerkel,56460,56463,ich,neumerkel
+gdc-coref,tgw6.0,56434,56601,neumerkel,56476,56479,Ich,neumerkel
+gdc-coref,tgw6.0,56434,56601,neumerkel,56511,56515,mich,neumerkel
+gdc-coref,tgw6.0,56606,56827,schoenherr,56654,56657,Ich,schoenherr
+gdc-coref,tgw6.0,56606,56827,schoenherr,56749,56752,ich,schoenherr
+gdc-coref,tgw6.0,56907,56975,schoenherr,56958,56961,mir,schoenherr
+gdc-coref,tgw6.0,57578,57681,neumerkel,57640,57643,mir,neumerkel
+gdc-coref,tgw6.0,57686,57870,frau_neubert,57849,57855,meinem,frau_neubert
+gdc-coref,tgw6.0,57875,57917,frau_schoenherr,57900,57903,mir,frau_schoenherr
+gdc-coref,tgw6.0,57922,58076,schoenherr,57999,58002,mir,schoenherr
+gdc-coref,tgw6.0,58081,58122,neubert,58090,58093,Ich,neubert
+gdc-coref,tgw6.0,58330,58540,neubert,58457,58460,ich,neubert
+gdc-coref,tgw6.0,58643,59035,neubert,58931,58934,Ich,neubert
+gdc-coref,tgw6.0,58643,59035,neubert,59011,59014,mir,neubert
+gdc-coref,tgw6.0,59040,59138,schoenherr,59072,59075,ich,schoenherr
+gdc-coref,tgw6.0,59143,59233,neubert,59200,59203,ich,neubert
+gdc-coref,tgw6.0,59239,59354,schoenherr,59281,59284,mir,schoenherr
+gdc-coref,tgw6.0,59438,59591,frau_neubert,59561,59564,mir,frau_neubert
+gdc-coref,tgw6.0,59687,59887,frau_neubert,59714,59717,Mir,frau_neubert
+gdc-coref,tgw6.0,59892,59988,frau_schoenherr,59920,59923,mir,frau_schoenherr
+gdc-coref,tgw6.0,59892,59988,frau_schoenherr,59939,59942,mir,frau_schoenherr
+gdc-coref,tgw6.0,60059,60194,neumerkel,60085,60089,mich,neumerkel
+gdc-coref,tgw6.0,60059,60194,neumerkel,60154,60157,mir,neumerkel
+gdc-coref,tgw6.0,60199,60330,neubert,60208,60211,Ich,neubert
+gdc-coref,tgw6.0,60199,60330,neubert,60289,60292,ich,neubert
+gdc-coref,tgw6.0,60335,60441,schoenherr,60361,60364,ich,schoenherr
+gdc-coref,tgw6.0,60335,60441,schoenherr,60399,60402,mir,schoenherr
+gdc-coref,tgw6.0,60446,60521,neubert,60455,60458,Ich,neubert
+gdc-coref,tgw6.0,60446,60521,neubert,60499,60502,ich,neubert
+gdc-coref,tgw6.0,60526,60642,neumerkel,60580,60583,ich,neumerkel
+gdc-coref,tgw6.0,60526,60642,neumerkel,60614,60617,ich,neumerkel
+gdc-coref,tgw6.0,60526,60642,neumerkel,60618,60622,mich,neumerkel
+gdc-coref,tgw6.0,60647,60727,frau_neubert,60715,60718,mir,frau_neubert
+gdc-coref,tgw6.0,60769,61908,frau_neubert,60863,60866,mir,frau_neubert
+gdc-coref,tgw6.0,60769,61908,frau_neubert,60903,60906,mir,frau_neubert
+gdc-coref,tgw6.0,60769,61908,frau_neubert,60937,60940,mir,frau_neubert
+gdc-coref,tgw6.0,60769,61908,frau_neubert,61021,61024,mir,frau_neubert
+gdc-coref,tgw6.0,60769,61908,frau_neubert,61063,61066,mir,frau_neubert
+gdc-coref,tgw6.0,60769,61908,frau_neubert,61485,61489,mein,frau_neubert
+gdc-coref,tgw6.0,62201,62541,neubert,62394,62397,ich,neubert
+gdc-coref,tgw6.0,62201,62541,neubert,62406,62409,Ich,neubert
+gdc-coref,tgw6.0,62546,62601,schoenherr,62575,62578,ich,schoenherr
+gdc-coref,tgw6.0,62606,62650,neubert,62626,62629,ich,neubert
+gdc-coref,tgw6.0,62655,62747,frau_neubert,62710,62713,mir,frau_neubert
+gdc-coref,tgw6.0,62752,62837,schoenherr,62812,62815,ich,schoenherr
+gdc-coref,tgw6.0,62752,62837,schoenherr,62821,62827,meinen,schoenherr
+gdc-coref,tgw6.0,62981,63037,frau_neubert,63016,63019,mir,frau_neubert
+gdc-coref,tgw6.0,63275,63571,schoenherr,63358,63361,ich,schoenherr
+gdc-coref,tgw6.0,63275,63571,schoenherr,63362,63366,mich,schoenherr
+gdc-coref,tgw6.0,63275,63571,schoenherr,63425,63428,mir,schoenherr
+gdc-coref,tgw6.0,63275,63571,schoenherr,63456,63459,ich,schoenherr
+gdc-coref,tgw6.0,63947,64045,frau_ulbrich,63978,63982,mich,frau_ulbrich
+gdc-coref,tgw6.0,63947,64045,frau_ulbrich,63984,63987,ich,frau_ulbrich
+gdc-coref,tgw6.0,64364,64491,frau_schoenherr,64412,64415,mir,frau_schoenherr
+gdc-coref,tgw6.0,64364,64491,frau_schoenherr,64422,64425,Mir,frau_schoenherr
+gdc-coref,tgw6.0,64364,64491,frau_schoenherr,64447,64450,mir,frau_schoenherr
+gdc-coref,tgw6.0,64695,64872,frau_ulbrich,64714,64717,Ich,frau_ulbrich
+gdc-coref,tgw6.0,64695,64872,frau_ulbrich,64753,64758,meine,frau_ulbrich
+gdc-coref,tgw6.0,65320,65412,schoenherr,65385,65388,mir,schoenherr
+gdc-coref,tgw6.0,65559,65753,schoenherr,65690,65694,mein,schoenherr
+gdc-coref,tgw6.0,65559,65753,schoenherr,65726,65730,mich,schoenherr
+gdc-coref,tgw6.0,65758,65907,ermischer,65769,65772,Mir,ermischer
+gdc-coref,tgw6.0,65985,66107,schoenherr,66010,66013,ich,schoenherr
+gdc-coref,tgw6.0,66112,66343,ermischer,66169,66172,ich,ermischer
+gdc-coref,tgw6.0,66112,66343,ermischer,66192,66195,ich,ermischer
+gdc-coref,tgw6.0,66347,66461,ermischer,66399,66402,ich,ermischer
+gdc-coref,tgw6.0,66347,66461,ermischer,66405,66408,mir,ermischer
+gdc-coref,tgw6.0,66466,66513,frau_ulbrich,66484,66487,ich,frau_ulbrich
+gdc-coref,tgw6.0,66701,67159,ermischer,66803,66806,ich,ermischer
+gdc-coref,tgw6.0,66701,67159,ermischer,67138,67141,ich,ermischer
+gdc-coref,tgw6.0,67247,67344,neumerkel,67267,67270,ich,neumerkel
+gdc-coref,tgw6.0,67247,67344,neumerkel,67271,67275,mich,neumerkel
+gdc-coref,tgw6.0,67247,67344,neumerkel,67294,67297,Ich,neumerkel
+gdc-coref,tgw6.0,67552,67620,frau_schoenherr,67598,67601,mir,frau_schoenherr
+gdc-coref,tgw6.0,67625,67747,ermischer,67658,67661,mir,ermischer
+gdc-coref,tgw6.0,68045,68119,frau_ulbrich,68086,68090,mich,frau_ulbrich
+gdc-coref,tgw6.0,68045,68119,frau_ulbrich,68099,68102,ich,frau_ulbrich
+gdc-coref,tgw6.0,68124,68355,schoenherr,68198,68201,ich,schoenherr
+gdc-coref,tgw6.0,68124,68355,schoenherr,68202,68206,mich,schoenherr
+gdc-coref,tgw6.0,68360,68419,neumerkel,68392,68395,ich,neumerkel
+gdc-coref,tgw6.0,68424,68482,schoenherr,68444,68447,ich,schoenherr
+gdc-coref,tgw6.0,68637,68778,weigel,68645,68648,Ich,weigel
+gdc-coref,tgw6.0,68637,68778,weigel,68748,68751,Ich,weigel
+gdc-coref,tgw6.0,68850,68938,weigel,68873,68876,ich,weigel
+gdc-coref,tgw6.0,68850,68938,weigel,68886,68889,Ich,weigel
+gdc-coref,tgw6.0,69028,69136,schoenherr,69055,69058,ich,schoenherr
+gdc-coref,tgw6.0,69028,69136,schoenherr,69116,69120,mein,schoenherr
+gdc-coref,tgw6.0,69231,69293,frau_schoenherr,69247,69250,Ich,frau_schoenherr
+gdc-coref,tgw6.0,69364,69438,ermischer,69375,69378,Ich,ermischer
+gdc-coref,tgw6.0,69632,69859,weigel,69777,69780,Ich,weigel
+gdc-coref,tgw6.0,70097,70415,weigel,70116,70120,mich,weigel
+gdc-coref,tgw6.0,70097,70415,weigel,70158,70161,ich,weigel
+gdc-coref,tgw6.0,70097,70415,weigel,70298,70301,mir,weigel
+gdc-coref,tgw6.0,70097,70415,weigel,70302,70306,mein,weigel
+gdc-coref,tgw6.0,70862,70961,schoenherr,70883,70887,mein,schoenherr
+gdc-coref,tgw6.0,71274,71335,ermischer,71302,71306,mich,ermischer
+gdc-coref,tgw6.0,71340,71424,schoenherr,71414,71418,mein,schoenherr
+gdc-coref,tgw6.0,71629,71712,neumerkel,71654,71657,ich,neumerkel
+gdc-coref,tgw6.0,71629,71712,neumerkel,71675,71678,ich,neumerkel
+gdc-coref,tgw6.0,72115,72149,seifert,72124,72127,Ich,seifert
+gdc-coref,tgw6.0,72115,72149,seifert,72137,72140,Ich,seifert
+gdc-coref,tgw6.0,72281,72354,ermischer,72292,72295,Ich,ermischer
+gdc-coref,tgw6.0,72281,72354,ermischer,72317,72320,ich,ermischer
+gdc-coref,tgw6.0,72556,72637,schoenherr,72579,72583,mein,schoenherr
+gdc-coref,tgw6.0,72830,73031,seifert,72867,72871,mich,seifert
+gdc-coref,tgw6.0,73074,73562,weigel,73287,73290,Ich,weigel
+gdc-coref,tgw6.0,73567,73621,schoenherr,73586,73589,ich,schoenherr
+gdc-coref,tgw6.0,73567,73621,schoenherr,73608,73614,meinem,schoenherr
+gdc-coref,tgw6.0,73626,73715,weigel,73634,73637,Ich,weigel
+gdc-coref,tgw6.0,73720,73828,ermischer,73802,73805,mir,ermischer
+gdc-coref,tgw6.0,76675,76821,frau_seifert,76741,76744,ich,frau_seifert
+gdc-coref,tgw6.0,76878,77078,frau_seifert,76929,76932,ich,frau_seifert
+gdc-coref,tgw6.0,77134,77228,frau_seifert,77208,77211,mir,frau_seifert
+gdc-coref,tgw6.0,77406,77584,ermischer,77513,77516,ich,ermischer
+gdc-coref,tgw6.0,77639,77716,ermischer,77693,77696,ich,ermischer
+gdc-coref,tgw6.0,77721,77920,frau_seifert,77751,77754,ich,frau_seifert
+gdc-coref,tgw6.0,77721,77920,frau_seifert,77777,77780,mir,frau_seifert
+gdc-coref,tgw6.0,77925,77967,ermischer,77936,77939,Ich,ermischer
+gdc-coref,tgw6.0,78190,78633,ermischer,78490,78493,mir,ermischer
+gdc-coref,tgw6.0,78190,78633,ermischer,78530,78533,ich,ermischer
+gdc-coref,tgw6.0,78190,78633,ermischer,78608,78611,ich,ermischer
+gdc-coref,tgw6.0,78772,78851,seifert,78790,78793,mir,seifert
+gdc-coref,tgw6.0,78772,78851,seifert,78805,78808,mir,seifert
+gdc-coref,tgw6.0,79320,79368,frau_seifert,79352,79355,mir,frau_seifert
+gdc-coref,tgw6.0,80138,80186,seifert,80164,80167,mir,seifert
+gdc-coref,tgw6.0,80191,80402,frau_seifert,80381,80384,ich,frau_seifert
+gdc-coref,tgw6.0,80407,80526,seifert,80480,80484,mich,seifert
+gdc-coref,tgw6.0,80407,80526,seifert,80507,80510,mir,seifert
+gdc-coref,tgw6.0,80600,80670,seifert,80634,80637,Mir,seifert
+gdc-coref,tgw6.0,80675,80721,frau_seifert,80698,80701,mir,frau_seifert
+gdc-coref,tgw6.0,80805,80903,frau_seifert,80860,80863,mir,frau_seifert
+gdc-coref,tgw6.0,80908,80980,seifert,80954,80958,mich,seifert
+gdc-coref,tgw6.0,80908,80980,seifert,80959,80965,meinen,seifert
+gdc-coref,tgw6.0,81772,81990,frau_seifert,81807,81811,mich,frau_seifert
+gdc-coref,tgw6.0,82146,82269,seifert,82195,82198,Ich,seifert
+gdc-coref,tgw6.0,82274,82512,frau_seifert,82327,82330,ich,frau_seifert
+gdc-coref,tgw6.0,82274,82512,frau_seifert,82370,82373,ich,frau_seifert
+gdc-coref,tgw6.0,82274,82512,frau_seifert,82409,82412,mir,frau_seifert
+gdc-coref,tgw6.0,83158,83343,seifert,83322,83325,ich,seifert
+gdc-coref,tgw6.0,83541,83652,seifert,83648,83651,ich,seifert
+gdc-coref,tgw6.0,83657,83680,frau_seifert,83671,83674,Ich,frau_seifert
+gdc-coref,tgw6.0,83797,83905,seifert,83894,83897,ich,seifert
+gdc-coref,tgw6.0,83910,84031,frau_seifert,83967,83970,Mir,frau_seifert
+gdc-coref,tgw6.0,83910,84031,frau_seifert,84010,84013,Ich,frau_seifert
+gdc-coref,tgw6.0,84036,84147,seifert,84110,84113,ich,seifert
+gdc-coref,tgw6.0,84152,84195,frau_seifert,84183,84186,ich,frau_seifert
+gdc-coref,tgw6.0,84317,84465,seifert,84371,84374,mir,seifert
+gdc-coref,tgw6.0,84470,84532,frau_seifert,84518,84521,ich,frau_seifert
+gdc-coref,tgw6.0,84537,84655,seifert,84585,84588,ich,seifert
+gdc-coref,tgw6.0,84537,84655,seifert,84605,84608,ich,seifert
+gdc-coref,tgw6.0,84808,84958,seifert,84891,84894,ich,seifert
+gdc-coref,tgw6.0,84808,84958,seifert,84915,84918,ich,seifert
+gdc-coref,tgw6.0,84808,84958,seifert,84931,84934,ich,seifert
+gdc-coref,tgw6.0,85030,85109,seifert,85039,85042,Ich,seifert
+gdc-coref,tgw6.0,85030,85109,seifert,85058,85061,ich,seifert
+gdc-coref,tgw6.0,85114,85422,frau_seifert,85180,85183,mir,frau_seifert
+gdc-coref,tgw6.0,85539,85631,frau_schoenherr,85615,85618,ich,frau_schoenherr
+gdc-coref,tgw6.0,85733,85860,frau_schoenherr,85762,85765,ich,frau_schoenherr
+gdc-coref,tgw6.0,85733,85860,frau_schoenherr,85781,85784,ich,frau_schoenherr
+gdc-coref,tgw6.0,85733,85860,frau_schoenherr,85789,85795,meinen,frau_schoenherr
+gdc-coref,tgw6.0,85865,86028,frau_seifert,85898,85901,mir,frau_seifert
+gdc-coref,tgw6.0,86033,86207,frau_schoenherr,86063,86066,ich,frau_schoenherr
+gdc-coref,tgw6.0,86349,86390,frau_schoenherr,86383,86386,ich,frau_schoenherr
+gdc-coref,tgw6.0,86717,87005,frau_schoenherr,86797,86800,Ich,frau_schoenherr
+gdc-coref,tgw6.0,86717,87005,frau_schoenherr,86806,86810,mich,frau_schoenherr
+gdc-coref,tgw6.0,87010,87117,frau_seifert,87074,87077,Mir,frau_seifert
+gdc-coref,tgw6.0,87321,87478,frau_seifert,87360,87364,mein,frau_seifert
+gdc-coref,tgw6.0,87321,87478,frau_seifert,87400,87403,ich,frau_seifert
+gdc-coref,tgw6.0,87483,87637,frau_schoenherr,87510,87513,Ich,frau_schoenherr
+gdc-coref,tgw6.0,87642,87683,frau_seifert,87679,87682,mir,frau_seifert
+gdc-coref,tgw6.0,88124,88170,frau_schoenherr,88140,88143,Mir,frau_schoenherr
+gdc-coref,tgw6.0,88215,88270,frau_schoenherr,88246,88249,mir,frau_schoenherr
+gdc-coref,tgw6.0,88275,88331,frau_seifert,88300,88303,mir,frau_seifert
+gdc-coref,tgw6.0,88766,88972,frau_seifert,88835,88838,ich,frau_seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89108,89112,mich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89158,89161,ich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89162,89166,mich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89202,89206,mich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89207,89213,meinen,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89381,89384,ich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89560,89563,ich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89643,89646,ich,seifert
+gdc-coref,tgw6.0,88977,89683,seifert,89647,89653,meinen,seifert
+gdc-coref,tgw6.0,89927,90134,frau_seifert,90046,90049,ich,frau_seifert
+gdc-coref,tgw6.0,90527,90614,neubert,90570,90573,Ich,neubert
+gdc-coref,tgw6.0,90678,90953,neubert,90727,90730,Ich,neubert
+gdc-coref,tgw6.0,90678,90953,neubert,90775,90778,mir,neubert
+gdc-coref,tgw6.0,90678,90953,neubert,90903,90907,mich,neubert
+gdc-coref,tgw6.0,90958,91038,seifert,91001,91004,ich,seifert
+gdc-coref,tgw6.0,91043,91593,neubert,91224,91227,ich,neubert
+gdc-coref,tgw6.0,91043,91593,neubert,91233,91237,mich,neubert
+gdc-coref,tgw6.0,91043,91593,neubert,91322,91325,ich,neubert
+gdc-coref,tgw6.0,91043,91593,neubert,91422,91426,mich,neubert
+gdc-coref,tgw6.0,91043,91593,neubert,91528,91532,mich,neubert
+gdc-coref,tgw6.0,91043,91593,neubert,91563,91566,ich,neubert
+gdc-coref,tgw6.0,91043,91593,neubert,91567,91570,mir,neubert
+gdc-coref,tgw6.0,91598,91727,frau_seifert,91675,91678,ich,frau_seifert
+gdc-coref,tgw6.0,91732,91778,neubert,91750,91753,ich,neubert
+gdc-coref,tgw6.0,91835,91968,neubert,91894,91897,ich,neubert
+gdc-coref,tgw6.0,92028,92150,neubert,92049,92052,ich,neubert
+gdc-coref,tgw6.0,92028,92150,neubert,92074,92077,ich,neubert
+gdc-coref,tgw6.0,92215,92314,neubert,92270,92273,mir,neubert
+gdc-coref,tgw6.0,92319,92435,seifert,92422,92425,ich,seifert
+gdc-coref,tgw6.0,92879,93177,neubert,93064,93067,Ich,neubert
+gdc-coref,tgw6.0,92879,93177,neubert,93075,93078,ich,neubert
+gdc-coref,tgw6.0,92879,93177,neubert,93099,93102,ich,neubert
+gdc-coref,tgw6.0,93182,93221,seifert,93191,93194,Ich,seifert
+gdc-coref,tgw6.0,93226,93353,frau_seifert,93279,93282,mir,frau_seifert
+gdc-coref,tgw6.0,93481,93665,frau_seifert,93504,93507,Mir,frau_seifert
+gdc-coref,tgw6.0,93481,93665,frau_seifert,93588,93591,Mir,frau_seifert
+gdc-coref,tgw6.0,93670,93856,neubert,93719,93722,Ich,neubert
+gdc-coref,tgw6.0,93861,93899,frau_seifert,93895,93898,mir,frau_seifert
+gdc-coref,tgw6.0,94164,94432,neubert,94191,94194,ich,neubert
+gdc-coref,tgw6.0,94164,94432,neubert,94203,94206,Ich,neubert
+gdc-coref,tgw6.0,94164,94432,neubert,94213,94217,mich,neubert
+gdc-coref,tgw6.0,94623,94727,seifert,94657,94660,ich,seifert
+gdc-coref,tgw6.0,95214,95315,seifert,95237,95240,ich,seifert
+gdc-coref,tgw6.0,95649,95717,weigel,95670,95673,ich,weigel
+gdc-coref,tgw6.0,95722,95837,frau_seifert,95763,95766,mir,frau_seifert
+gdc-coref,tgw6.0,95842,96039,weigel,95884,95887,ich,weigel
+gdc-coref,tgw6.0,96045,96100,seifert,96064,96067,ich,seifert
+gdc-coref,tgw6.0,96740,96830,weigel,96796,96802,meiner,weigel
+gdc-coref,tgw6.0,96835,96885,seifert,96844,96847,Ich,seifert
+gdc-coref,tgw6.0,97080,97145,seifert,97117,97120,ich,seifert
+gdc-coref,tgw6.0,97432,97627,seifert,97441,97444,Ich,seifert
+gdc-coref,tgw6.0,97861,97939,weigel,97919,97922,mir,weigel
+gdc-coref,tgw6.0,98229,98411,weigel,98248,98251,ich,weigel
+gdc-coref,tgw6.0,98229,98411,weigel,98293,98296,mir,weigel
+gdc-coref,tgw6.0,98229,98411,weigel,98308,98311,Ich,weigel
+gdc-coref,tgw6.0,98457,98718,weigel,98536,98539,Ich,weigel
+gdc-coref,tgw6.0,98457,98718,weigel,98678,98681,Ich,weigel
+gdc-coref,tgw6.0,98457,98718,weigel,98687,98691,mich,weigel
+gdc-coref,tgw6.0,98887,99162,weigel,99122,99125,ich,weigel
+gdc-coref,tgw6.0,99167,99313,frau_seifert,99268,99271,ich,frau_seifert
+gdc-coref,tgw6.0,99318,99458,weigel,99384,99387,ich,weigel
+gdc-coref,tgw6.0,99463,99599,frau_seifert,99487,99490,ich,frau_seifert
+gdc-coref,tgw6.0,99463,99599,frau_seifert,99555,99558,ich,frau_seifert
+gdc-coref,tgw6.0,99604,99730,weigel,99645,99648,ich,weigel
+gdc-coref,tgw6.0,99796,99957,weigel,99841,99844,ich,weigel
+gdc-coref,tgw6.0,99796,99957,weigel,99880,99885,meine,weigel
+gdc-coref,tgw6.0,99796,99957,weigel,99939,99942,ich,weigel
+gdc-coref,tgw6.0,100159,100275,weigel,100197,100200,ich,weigel
+gdc-coref,tgw6.0,100159,100275,weigel,100249,100253,mich,weigel
+gdc-coref,tgw6.0,100280,100451,seifert,100425,100428,mir,seifert
+gdc-coref,tgw6.0,100456,100577,weigel,100469,100472,ich,weigel
+gdc-coref,tgw6.0,101255,101426,weigel,101342,101345,ich,weigel
+gdc-coref,tgw6.0,101580,101675,seifert,101593,101596,ich,seifert
+gdc-coref,tgw6.0,101995,102243,frau_seifert,102082,102085,ich,frau_seifert
+gdc-coref,tgw6.0,102291,102490,frau_seifert,102454,102457,mir,frau_seifert
+gdc-coref,tgw6.0,102495,102651,seifert,102504,102509,Meine,seifert
+gdc-coref,tgw6.0,102495,102651,seifert,102577,102580,ich,seifert
+gdc-coref,tgw6.0,103290,103442,weigel,103298,103301,Ich,weigel
+gdc-coref,tgw6.0,103290,103442,weigel,103351,103354,ich,weigel
+gdc-coref,tgw6.0,103290,103442,weigel,103373,103376,ich,weigel
+gdc-coref,tgw6.0,103290,103442,weigel,103429,103432,ich,weigel
+gdc-coref,tgw6.0,103865,103895,weigel,103873,103876,Ich,weigel
+gdc-coref,tgw6.0,103900,103987,frau_seifert,103967,103970,mir,frau_seifert
+gdc-coref,tgw6.0,104112,104152,seifert,104121,104124,Ich,seifert
+gdc-coref,tgw6.0,104112,104152,seifert,104137,104140,ich,seifert
+gdc-coref,tgw6.0,104157,104222,weigel,104203,104206,mir,weigel
+gdc-coref,tgw6.0,104227,104334,frau_seifert,104275,104278,ich,frau_seifert
+gdc-coref,tgw6.0,104227,104334,frau_seifert,104300,104303,ich,frau_seifert
+gdc-coref,tgw6.0,104339,104530,weigel,104360,104363,ich,weigel
+gdc-coref,tgw6.0,105247,105321,weigel,105279,105283,mich,weigel
+gdc-coref,tgw6.0,105377,105436,weigel,105395,105398,ich,weigel
+gdc-coref,tgw6.0,105522,105632,weigel,105607,105610,mir,weigel
+gdc-coref,tgw6.0,105637,105889,seifert,105774,105777,Ich,seifert
+gdc-coref,tgw6.0,106707,106799,frau_seifert,106755,106758,mir,frau_seifert
+gdc-coref,tgw6.0,107494,107564,weigel,107526,107529,ich,weigel
+gdc-coref,tgw6.0,107494,107564,weigel,107530,107533,mir,weigel
+gdc-coref,tgw6.0,107569,107662,ulbrich,107614,107617,Mir,ulbrich
+gdc-coref,tgw6.0,107667,107771,frau_ulbrich,107725,107729,mein,frau_ulbrich
+gdc-coref,tgw6.0,107776,107902,ulbrich,107810,107815,Meine,ulbrich
+gdc-coref,tgw6.0,107906,107978,ulbrich,107922,107925,mir,ulbrich
+gdc-coref,tgw6.0,108178,108234,seifert,108187,108192,Meine,seifert
+gdc-coref,tgw6.0,108239,108522,ulbrich,108411,108414,Ich,ulbrich
+gdc-coref,tgw6.0,108766,108814,ulbrich,108779,108782,ich,ulbrich
+gdc-coref,tgw6.0,108819,108945,frau_seifert,108865,108868,ich,frau_seifert
+gdc-coref,tgw6.0,109163,109301,weigel,109240,109243,ich,weigel
+gdc-coref,tgw6.0,109630,109659,ulbrich,109648,109651,ich,ulbrich
+gdc-coref,tgw6.0,110121,110218,frau_ulbrich,110190,110194,mich,frau_ulbrich
+gdc-coref,tgw6.0,111156,111241,ulbrich,111187,111190,mir,ulbrich
+gdc-coref,tgw6.0,111643,111856,seifert,111817,111820,mir,seifert
+gdc-coref,tgw6.0,111978,112033,seifert,111994,111997,Ich,seifert
+gdc-coref,tgw6.0,112356,112460,frau_seifert,112424,112429,meine,frau_seifert
+gdc-coref,tgw6.0,112814,112884,ulbrich,112851,112854,ich,ulbrich
+gdc-coref,tgw6.0,112889,113105,seifert,112970,112973,mir,seifert
+gdc-coref,tgw6.0,112889,113105,seifert,113012,113015,ich,seifert
+gdc-coref,tgw6.0,112889,113105,seifert,113037,113040,mir,seifert
+gdc-coref,tgw6.0,113151,113269,ulbrich,113181,113186,meine,ulbrich
+gdc-coref,tgw6.0,113151,113269,ulbrich,113250,113253,mir,ulbrich
+gdc-coref,tgw6.0,114013,114076,neumerkel,114051,114054,ich,neumerkel
+gdc-coref,tgw6.0,114130,114273,neumerkel,114207,114210,mir,neumerkel
+gdc-coref,tgw6.0,114344,114474,weigel,114469,114473,mich,weigel
+gdc-coref,tgw6.0,114746,114918,neumerkel,114769,114772,Ich,neumerkel
+gdc-coref,tgw6.0,114746,114918,neumerkel,114869,114873,mich,neumerkel
+gdc-coref,tgw6.0,114746,114918,neumerkel,114889,114892,ich,neumerkel
+gdc-coref,tgw6.0,114746,114918,neumerkel,114893,114897,mein,neumerkel
+gdc-coref,tgw6.0,114990,115067,seifert,115015,115019,Mein,seifert
+gdc-coref,tgw6.0,115072,115287,neumerkel,115092,115095,Mir,neumerkel
+gdc-coref,tgw6.0,115072,115287,neumerkel,115159,115162,ich,neumerkel
+gdc-coref,tgw6.0,115292,115436,seifert,115321,115325,Mein,seifert
+gdc-coref,tgw6.0,115292,115436,seifert,115343,115346,ich,seifert
+gdc-coref,tgw6.0,115490,115637,frau_seifert,115537,115540,Mir,frau_seifert
+gdc-coref,tgw6.0,115490,115637,frau_seifert,115563,115566,mir,frau_seifert
+gdc-coref,tgw6.0,115642,115906,weigel,115657,115660,ich,weigel
+gdc-coref,tgw6.0,115642,115906,weigel,115661,115665,mich,weigel
+gdc-coref,tgw6.0,115912,115967,ulbrich,115963,115966,ich,ulbrich
+gdc-coref,tgw6.0,115972,116123,frau_seifert,116037,116040,mir,frau_seifert
+gdc-coref,tgw6.0,116237,116368,neumerkel,116296,116299,ich,neumerkel
+gdc-coref,tgw6.0,116550,116620,weigel,116562,116565,ich,weigel
+gdc-coref,tgw6.0,116550,116620,weigel,116581,116584,Ich,weigel
+gdc-coref,tgw6.0,116944,117092,seifert,116993,116996,Ich,seifert
+gdc-coref,tgw6.0,117097,117204,frau_ulbrich,117151,117155,mich,frau_ulbrich
+gdc-coref,tgw6.0,117097,117204,frau_ulbrich,117184,117188,mich,frau_ulbrich
+gdc-coref,tgw6.0,117278,117425,ulbrich,117371,117374,mir,ulbrich
+gdc-coref,tgw6.0,117809,117940,_stage,117809,117828,Die beiden Ulbrichs,ulbrich-/-frau_ulbrich
+gdc-coref,tgw6.0,117809,117940,_stage,117830,117849,Die beiden Seiferts,seifert-/-frau_seifert
+gdc-coref,tgw6.0,117809,117940,_stage,117851,117860,Ermischer,ermischer
+gdc-coref,tgw6.0,117809,117940,_stage,117862,117869,Neubert,neubert
+gdc-coref,tgw6.0,117809,117940,_stage,117871,117877,Weigel,weigel
+gdc-coref,tgw6.0,117809,117940,_stage,117879,117888,Neumerkel,neumerkel-bb
+gdc-coref,tgw6.0,117809,117940,_stage,117890,117899,Schönherr,schoenherr
+gdc-coref,tgw6.0,117809,117940,_stage,117901,117917,Schnitzlersleute,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,117809,117940,_stage,117919,117931,Waldarbeiter,die_waldarbeiter
+gdc-coref,tgw6.0,117809,117940,_stage,117933,117939,Bauern,die_bauern
+gdc-coref,tgw6.0,117941,119648,_stage,117966,117974,Ulbrichs,ulbrich-/-frau_ulbrich
+gdc-coref,tgw6.0,117941,119648,_stage,117976,118047,"Eine Wohnstube, die in ein provisorisches Schanklokal umgewandelt wurde","Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,117941,119648,_stage,117992,117995,die,"Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,117941,119648,_stage,118049,118076,Beschränkter niedriger Raum,"Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,117941,119648,_stage,118095,118106,Linker Hand,Linker-Hand-(linke-seite-der-bühne-oder-linke-seitenwand-ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,118113,118123,der Straße,der-Straße-(um-ulbrichs-haus)
+gdc-coref,tgw6.0,117941,119648,_stage,118128,118191,"zwei niedrige Fenster, durch die man ein paar kahle Bäume sieht","zwei-niedrige-Fenster,-durch-die-man-ein-paar-kahle-Bäume-sieht-(schanklokal-eg-ulbrichs)"
+gdc-coref,tgw6.0,117941,119648,_stage,118157,118160,die,"zwei-niedrige-Fenster,-durch-die-man-ein-paar-kahle-Bäume-sieht-(schanklokal-eg-ulbrichs)"
+gdc-coref,tgw6.0,117941,119648,_stage,118196,118210,der Hinterwand,der-Hinterwand-(schanklokal-eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118217,118238,die Türe zum Hausflur,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118226,118238,zum Hausflur,zum-Hausflur-(eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118253,118275,der rechten Seitenwand,der-rechten-Seitenwand-(ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,118364,118381,der Türe zum Flur,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118373,118381,zum Flur,zum-Hausflur-(eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118457,118471,der Hinterwand,der-Hinterwand-(schanklokal-eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118478,118584,ein ärmlicher Glasschrank mit allerlei altertümlichem Porzellangeschirr und mit Prunkstücken vollgepfropft,ein-ärmlicher-Glasschrank-mit-allerlei-altertümlichem-Porzellangeschirr-----------und-mit-Prunkstücken-vollgepfropft
+gdc-coref,tgw6.0,117941,119648,_stage,118636,118644,der Türe,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118645,118678,ein kleiner Tisch mit Biergläsern,ein-kleiner-Tisch-mit-Biergläsern
+gdc-coref,tgw6.0,117941,119648,_stage,118691,118707,dem Glasschranke,ein-ärmlicher-Glasschrank-mit-allerlei-altertümlichem-Porzellangeschirr-----------und-mit-Prunkstücken-vollgepfropft
+gdc-coref,tgw6.0,117941,119648,_stage,118715,118768,"dem mächtigen Kachelofen, der sich in der Ecke erhebt","dem-mächtigen-----------Kachelofen,-der-sich-in-der-Ecke-erhebt"
+gdc-coref,tgw6.0,117941,119648,_stage,118741,118744,der,"dem-mächtigen-----------Kachelofen,-der-sich-in-der-Ecke-erhebt"
+gdc-coref,tgw6.0,117941,119648,_stage,118745,118749,sich,"dem-mächtigen-----------Kachelofen,-der-sich-in-der-Ecke-erhebt"
+gdc-coref,tgw6.0,117941,119648,_stage,118796,118832,Schüsseln voll Wurst und Wellfleisch,Schüsseln-voll-Wurst-----------und-Wellfleisch-(zwiter-tisch-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,118901,118915,der Hinterwand,der-Hinterwand-(schanklokal-eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,118965,119006,"Ein Fleischer, der ein Schwein schlachtet","Ein-Fleischer,-der-ein-Schwein-----------schlachtet-(auf-dem-kunstdruck-schanklokal-zu-sehen)"
+gdc-coref,tgw6.0,117941,119648,_stage,118980,118983,der,"Ein-Fleischer,-der-ein-Schwein-----------schlachtet-(auf-dem-kunstdruck-schanklokal-zu-sehen)"
+gdc-coref,tgw6.0,117941,119648,_stage,119075,119083,dem Ofen,"dem-mächtigen-----------Kachelofen,-der-sich-in-der-Ecke-erhebt"
+gdc-coref,tgw6.0,117941,119648,_stage,119084,119093,eine Bank,"eine-Bank-(vor-dem-ofen-schanklokal,-andere-bank-als-mit-bierfässern)"
+gdc-coref,tgw6.0,117941,119648,_stage,119098,119120,der rechten Seitenwand,der-rechten-Seitenwand-(ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,119173,119181,der Wand,der-rechten-Seitenwand-(ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,119202,119207,Links,Linker-Hand-(linke-seite-der-bühne-oder-linke-seitenwand-ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,119217,119229,den Fenstern,"zwei-niedrige-Fenster,-durch-die-man-ein-paar-kahle-Bäume-sieht-(schanklokal-eg-ulbrichs)"
+gdc-coref,tgw6.0,117941,119648,_stage,119230,119251,ein plumpes Ledersofa,ein-plumpes-Ledersofa
+gdc-coref,tgw6.0,117941,119648,_stage,119256,119264,der Wand,Linker-Hand-(linke-seite-der-bühne-oder-linke-seitenwand-ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,119357,119366,der Stube,"Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,117941,119648,_stage,119367,119383,ein runder Tisch,ein-runder-Tisch
+gdc-coref,tgw6.0,117941,119648,_stage,119388,119391,ihn,ein-runder-Tisch
+gdc-coref,tgw6.0,117941,119648,_stage,119419,119435,der rechten Wand,der-rechten-Seitenwand-(ulbrichs-schanklokal)
+gdc-coref,tgw6.0,117941,119648,_stage,119470,119478,dem Sofa,ein-plumpes-Ledersofa
+gdc-coref,tgw6.0,117941,119648,_stage,119489,119500,dem Fenster,"zwei-niedrige-Fenster,-durch-die-man-ein-paar-kahle-Bäume-sieht-(schanklokal-eg-ulbrichs)"
+gdc-coref,tgw6.0,117941,119648,_stage,119538,119562,die Türe im Hintergrunde,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,119547,119562,im Hintergrunde,der-Hinterwand-(schanklokal-eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,119570,119573,man,man-(der-mensch)
+gdc-coref,tgw6.0,117941,119648,_stage,119596,119609,des Hausflurs,zum-Hausflur-(eg-ulbrichs)
+gdc-coref,tgw6.0,117941,119648,_stage,119614,119647,"eine Stube, in der ein Bett steht","eine-Stube,-in-der-ein-Bett-steht"
+gdc-coref,tgw6.0,117941,119648,_stage,119629,119632,der,"eine-Stube,-in-der-ein-Bett-steht"
+gdc-coref,tgw6.0,117941,119648,_stage,119633,119641,ein Bett,ein-Bett
+gdc-coref,tgw6.0,119649,119786,_stage,119689,119719,"Frau Ulbrich, sauber gekleidet",frau_ulbrich
+gdc-coref,tgw6.0,119649,119786,_stage,119748,119755,am Ofen,"dem-mächtigen-----------Kachelofen,-der-sich-in-der-Ecke-erhebt"
+gdc-coref,tgw6.0,119649,119786,_stage,119763,119785,ihren Fleischschüsseln,Schüsseln-voll-Wurst-----------und-Wellfleisch-(zwiter-tisch-schanklokal)
+gdc-coref,tgw6.0,119649,119786,_stage,119763,119768,ihren,frau_ulbrich
+gdc-coref,tgw6.0,119788,119881,schoenherr,119830,119838,Tag ooch,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,119788,119881,schoenherr,119840,119854,Fra' Ulbrich'n,frau_ulbrich
+gdc-coref,tgw6.0,119788,119881,schoenherr,119859,119866,der Mon,ulbrich
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,119901,119904,Tag,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,119906,119913,Meester,schoenherr
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,119920,119922,er,ulbrich
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,119936,119939,Ich,frau_ulbrich
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,119959,119978,Die Reih'schankzeit,Die-Reih'schankzeit-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,119996,120001,Leute,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,120013,120015,er,ulbrich
+gdc-coref,tgw6.0,119887,120038,frau_ulbrich,120021,120025,mich,frau_ulbrich
+gdc-coref,tgw6.0,120043,120151,schoenherr,120054,120057,Ich,schoenherr
+gdc-coref,tgw6.0,120043,120151,schoenherr,120084,120098,was Bestimmtes,was-Bestimmtes-(die-information-die-schönherr-wissen-will)
+gdc-coref,tgw6.0,120043,120151,schoenherr,120115,120118,mir,schoenherr
+gdc-coref,tgw6.0,120043,120151,schoenherr,120119,120127,een Glas,een-Glas-(bier)
+gdc-coref,tgw6.0,120043,120151,schoenherr,120136,120150,Frau Ulbrich'n,frau_ulbrich
+gdc-coref,tgw6.0,120156,120290,frau_ulbrich,120204,120211,Meester,schoenherr
+gdc-coref,tgw6.0,120156,120290,frau_ulbrich,120213,120216,Sie,schoenherr
+gdc-coref,tgw6.0,120156,120290,frau_ulbrich,120240,120243,M'r,ulbrich-/-frau_ulbrich
+gdc-coref,tgw6.0,120156,120290,frau_ulbrich,120251,120254,Sie,schoenherr
+gdc-coref,tgw6.0,120156,120290,frau_ulbrich,120263,120266,uns,ulbrich-/-frau_ulbrich
+gdc-coref,tgw6.0,120156,120290,frau_ulbrich,120274,120289,zum Reih'schank,Die-Reih'schankzeit-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,120295,120410,schoenherr,120306,120309,M'r,schoenherr
+gdc-coref,tgw6.0,120295,120410,schoenherr,120364,120379,dem Reih'schank,dem-------------Reih'schank
+gdc-coref,tgw6.0,120295,120410,schoenherr,120381,120384,Ich,schoenherr
+gdc-coref,tgw6.0,120415,120497,frau_ulbrich,120433,120436,des,des
+gdc-coref,tgw6.0,120415,120497,frau_ulbrich,120449,120496,die Leute hangen nich' mehr an den alten Sachen,des
+gdc-coref,tgw6.0,120415,120497,frau_ulbrich,120449,120458,die Leute,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,120502,120554,schoenherr,120534,120536,'r,ulbrich
+gdc-coref,tgw6.0,120559,120601,frau_ulbrich,120576,120578,'s,was-Bestimmtes-(die-information-die-schönherr-wissen-will)
+gdc-coref,tgw6.0,120559,120601,frau_ulbrich,120593,120600,Meester,schoenherr
+gdc-coref,tgw6.0,120606,120724,schoenherr,120621,120624,ich,schoenherr
+gdc-coref,tgw6.0,120606,120724,schoenherr,120636,120639,ihm,ulbrich
+gdc-coref,tgw6.0,120606,120724,schoenherr,120652,120679,"dem Gesell'n, den Neimerkel",neumerkel-bb
+gdc-coref,tgw6.0,120606,120724,schoenherr,120681,120684,Man,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,120606,120724,schoenherr,120694,120723,er hat eene Erbschaft gemacht,des2
+gdc-coref,tgw6.0,120606,120724,schoenherr,120694,120696,er,neumerkel-bb
+gdc-coref,tgw6.0,120606,120724,schoenherr,120701,120715,eene Erbschaft,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,120729,120787,frau_ulbrich,120770,120773,des,des2
+gdc-coref,tgw6.0,120792,121408,schoenherr,120803,120805,Er,neumerkel-bb
+gdc-coref,tgw6.0,120792,121408,schoenherr,120815,120880,"eene Schwester, drüben in Marienberg, een ganz armes Bettelmensch","eene-Schwester,-drüben-in-Marienberg,-een-ganz-armes-Bettelmensch-(neumerkels-schwester)"
+gdc-coref,tgw6.0,120792,121408,schoenherr,120882,120885,Die,"eene-Schwester,-drüben-in-Marienberg,-een-ganz-armes-Bettelmensch-(neumerkels-schwester)"
+gdc-coref,tgw6.0,120792,121408,schoenherr,120908,120910,se,se-(die-die-neumerkels-schwester-aus-dem-sarg-holen)
+gdc-coref,tgw6.0,120792,121408,schoenherr,120911,120914,sie,"eene-Schwester,-drüben-in-Marienberg,-een-ganz-armes-Bettelmensch-(neumerkels-schwester)"
+gdc-coref,tgw6.0,120792,121408,schoenherr,120944,120947,sie,"eene-Schwester,-drüben-in-Marienberg,-een-ganz-armes-Bettelmensch-(neumerkels-schwester)"
+gdc-coref,tgw6.0,120792,121408,schoenherr,120977,120979,se,se-(die-die-neumerkels-schwester-aus-dem-sarg-holen)
+gdc-coref,tgw6.0,120792,121408,schoenherr,121015,121044,'n zwanzig Daler an Ersparten,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,120792,121408,schoenherr,121049,121062,Der Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,120792,121408,schoenherr,121126,121129,ihm,neumerkel-bb
+gdc-coref,tgw6.0,120792,121408,schoenherr,121130,121141,der Ulbrich,ulbrich
+gdc-coref,tgw6.0,120792,121408,schoenherr,121170,121223,"Itze is 'r nach Olbernhau uff die Post, 's Geld holen",Währenddem
+gdc-coref,tgw6.0,120792,121408,schoenherr,121179,121180,r,neumerkel-bb
+gdc-coref,tgw6.0,120792,121408,schoenherr,121186,121195,Olbernhau,Olbernhau
+gdc-coref,tgw6.0,120792,121408,schoenherr,121210,121217,'s Geld,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,121226,121408,_stage,121226,121236,Währenddem,Währenddem
+gdc-coref,tgw6.0,121226,121408,_stage,121242,121263,ein paar Waldarbeiter,die_waldarbeiter
+gdc-coref,tgw6.0,121226,121408,_stage,121318,121321,Sie,die_waldarbeiter
+gdc-coref,tgw6.0,121226,121408,_stage,121371,121374,Sie,die_waldarbeiter
+gdc-coref,tgw6.0,121443,121466,_stage,121443,121465,Ausrufe des Erstaunens,Ausrufe-des-Erstaunens-(waldarbeiter-und-frau-ulbrich)
+gdc-coref,tgw6.0,121443,121466,_stage,121451,121465,des Erstaunens,des-Erstaunens
+gdc-coref,tgw6.0,121412,121535,frau_ulbrich,121483,121485,er,neumerkel-bb
+gdc-coref,tgw6.0,121412,121535,frau_ulbrich,121500,121513,eso viel Geld,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,121412,121535,frau_ulbrich,121518,121531,eso een Glück,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,121540,121757,schoenherr,121565,121568,man,man-(der-mensch)
+gdc-coref,tgw6.0,121540,121757,schoenherr,121592,121594,er,neumerkel-bb
+gdc-coref,tgw6.0,121540,121757,schoenherr,121629,121642,all dem Gelde,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,121645,121757,_stage,121645,121661,Die Waldarbeiter,die_waldarbeiter
+gdc-coref,tgw6.0,121645,121757,_stage,121669,121673,sich,die_waldarbeiter
+gdc-coref,tgw6.0,121645,121757,_stage,121690,121702,Frau Ulbrich,frau_ulbrich
+gdc-coref,tgw6.0,121645,121757,_stage,121710,121715,ihnen,die_waldarbeiter
+gdc-coref,tgw6.0,121645,121757,_stage,121739,121746,Ulbrich,ulbrich
+gdc-coref,tgw6.0,121761,121779,ulbrich,121770,121778,Tag ooch,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,121784,121835,die_waldarbeiter,121809,121821,"er, der Wirt",ulbrich
+gdc-coref,tgw6.0,121784,121835,die_waldarbeiter,121826,121834,Tag ooch,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,121840,121891,frau_ulbrich,121867,121871,Mann,ulbrich
+gdc-coref,tgw6.0,121905,122013,_stage,121911,121922,im Hausflur,zum-Hausflur-(eg-ulbrichs)
+gdc-coref,tgw6.0,121905,122013,_stage,121930,121935,seine,ulbrich
+gdc-coref,tgw6.0,121905,122013,_stage,121951,121968,die hintere Stube,"eine-Stube,-in-der-ein-Bett-steht"
+gdc-coref,tgw6.0,121905,122013,_stage,121969,121978,aufs Bett,ein-Bett
+gdc-coref,tgw6.0,122017,122086,schoenherr,122028,122033,Hat's,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,122017,122086,schoenherr,122039,122056,seine Richtigkeet,seine-Richtigkeet-(rechtmäßigkeit-von-neumerkels-erbschaftsvorgang)
+gdc-coref,tgw6.0,122017,122086,schoenherr,122039,122044,seine,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,122017,122086,schoenherr,122061,122081,Neimerkels Erbschaft,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,122017,122086,schoenherr,122061,122071,Neimerkels,neumerkel-bb
+gdc-coref,tgw6.0,122091,122290,ulbrich,122108,122112,mich,ulbrich
+gdc-coref,tgw6.0,122091,122290,ulbrich,122119,122122,ich,ulbrich
+gdc-coref,tgw6.0,122091,122290,ulbrich,122128,122132,mich,ulbrich
+gdc-coref,tgw6.0,122091,122290,ulbrich,122153,122155,'s,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,122091,122290,ulbrich,122160,122165,alles,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,122091,122290,ulbrich,122166,122183,seine Richtigkeet,seine-Richtigkeet-(rechtmäßigkeit-von-neumerkels-erbschaftsvorgang)
+gdc-coref,tgw6.0,122091,122290,ulbrich,122166,122171,seine,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,122091,122290,ulbrich,122185,122188,Ich,ulbrich
+gdc-coref,tgw6.0,122091,122290,ulbrich,122208,122213,wie'n,neumerkel-bb
+gdc-coref,tgw6.0,122091,122290,ulbrich,122227,122234,'s Geld,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,122091,122290,ulbrich,122251,122264,Zwanzig Taler,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,122267,122290,_stage,122267,122289,Ausrufe des Erstaunens,Ausrufe-des-Erstaunens-(waldarbeiter-und-frau-ulbrich)
+gdc-coref,tgw6.0,122267,122290,_stage,122275,122289,des Erstaunens,des-Erstaunens
+gdc-coref,tgw6.0,122294,122321,schoenherr,122315,122317,er,neumerkel-bb
+gdc-coref,tgw6.0,122326,122406,ulbrich,122335,122337,Er,neumerkel-bb
+gdc-coref,tgw6.0,122326,122406,ulbrich,122363,122372,Olbernhau,Olbernhau
+gdc-coref,tgw6.0,122410,122457,schoenherr,122426,122428,er,neumerkel-bb
+gdc-coref,tgw6.0,122462,122765,ulbrich,122487,122490,ihm,neumerkel-bb
+gdc-coref,tgw6.0,122462,122765,ulbrich,122491,122506,sein bill' Geld,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,122462,122765,ulbrich,122491,122495,sein,neumerkel-bb
+gdc-coref,tgw6.0,122536,122765,_stage,122536,122545,Ermischer,ermischer
+gdc-coref,tgw6.0,122536,122765,_stage,122550,122557,Seifert,seifert
+gdc-coref,tgw6.0,122536,122765,_stage,122573,122583,Ermischers,ermischer
+gdc-coref,tgw6.0,122536,122765,_stage,122625,122634,Die Leute,die_waldarbeiter
+gdc-coref,tgw6.0,122536,122765,_stage,122642,122646,sich,die_waldarbeiter
+gdc-coref,tgw6.0,122536,122765,_stage,122651,122658,Zeichen,Zeichen-(gestik-waldarbeiter)
+gdc-coref,tgw6.0,122536,122765,_stage,122683,122692,Ermischer,ermischer
+gdc-coref,tgw6.0,122536,122765,_stage,122702,122721,einem leeren Tische,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,122536,122765,_stage,122729,122736,Seifert,seifert
+gdc-coref,tgw6.0,122536,122765,_stage,122743,122747,sich,seifert
+gdc-coref,tgw6.0,122536,122765,_stage,122752,122764,die Ofenbank,"eine-Bank-(vor-dem-ofen-schanklokal,-andere-bank-als-mit-bierfässern)"
+gdc-coref,tgw6.0,122769,122787,ermischer,122780,122786,Ta-a-g,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,122792,122812,die_waldarbeiter,122803,122811,Tag ooch,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,122817,122968,ulbrich,122872,122885,der Ermischer,ermischer
+gdc-coref,tgw6.0,122817,122968,ulbrich,122915,122918,mir,ulbrich
+gdc-coref,tgw6.0,122817,122968,ulbrich,122951,122953,du,ermischer
+gdc-coref,tgw6.0,122817,122968,ulbrich,122954,122958,mich,ulbrich
+gdc-coref,tgw6.0,122973,123085,ermischer,122995,123006,Reih'schank,Die-Reih'schankzeit-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,122973,123085,ermischer,123008,123013,Meine,ermischer
+gdc-coref,tgw6.0,122973,123085,ermischer,123025,123027,es,es
+gdc-coref,tgw6.0,122973,123085,ermischer,123029,123054,nach dem Rechten zu seh'n,es
+gdc-coref,tgw6.0,122973,123085,ermischer,123034,123045,dem Rechten,dem-Rechten
+gdc-coref,tgw6.0,122973,123085,ermischer,123059,123073,een Zuckerbier,een-Glas-(bier)
+gdc-coref,tgw6.0,122973,123085,ermischer,123081,123084,ich,ermischer
+gdc-coref,tgw6.0,123090,123125,ulbrich,123113,123124,der Seifert,seifert
+gdc-coref,tgw6.0,123130,123175,seifert,123139,123142,Ich,seifert
+gdc-coref,tgw6.0,123130,123175,seifert,123157,123160,ich,seifert
+gdc-coref,tgw6.0,123130,123175,seifert,123165,123174,im Dienst,im-Dienst-(seifert)
+gdc-coref,tgw6.0,123180,123280,ulbrich,123196,123213,een Glas Eefaches,een-Glas-(bier)
+gdc-coref,tgw6.0,123180,123280,ulbrich,123219,123221,du,seifert
+gdc-coref,tgw6.0,123180,123280,ulbrich,123222,123225,mir,ulbrich
+gdc-coref,tgw6.0,123285,123401,seifert,123298,123300,du,ulbrich
+gdc-coref,tgw6.0,123285,123401,seifert,123301,123305,mich,seifert
+gdc-coref,tgw6.0,123285,123401,seifert,123317,123326,Een jeder,man-(der-mensch)
+gdc-coref,tgw6.0,123285,123401,seifert,123333,123337,sein,man-(der-mensch)
+gdc-coref,tgw6.0,123285,123401,seifert,123350,123353,ich,seifert
+gdc-coref,tgw6.0,123285,123401,seifert,123359,123365,meinen,seifert
+gdc-coref,tgw6.0,123391,123401,_stage,123391,123400,Gelächter,Gelächter
+gdc-coref,tgw6.0,123405,123593,ulbrich,123418,123423,seine,seifert
+gdc-coref,tgw6.0,123405,123593,ulbrich,123447,123460,der Dingerich,seifert
+gdc-coref,tgw6.0,123480,123593,_stage,123499,123505,Bauern,die_bauern
+gdc-coref,tgw6.0,123480,123593,_stage,123557,123560,Die,die_bauern
+gdc-coref,tgw6.0,123480,123593,_stage,123568,123572,sich,die_bauern
+gdc-coref,tgw6.0,123480,123593,_stage,123576,123592,Ermischers Tisch,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,123480,123593,_stage,123576,123586,Ermischers,ermischer
+gdc-coref,tgw6.0,123597,123778,schoenherr,123612,123631,"Herr Fierstand, Sie",ermischer
+gdc-coref,tgw6.0,123597,123778,schoenherr,123651,123661,dem Posten,dem-Posten-(dienst-ermischer)
+gdc-coref,tgw6.0,123597,123778,schoenherr,123691,123694,ich,schoenherr
+gdc-coref,tgw6.0,123597,123778,schoenherr,123695,123698,Sie,ermischer
+gdc-coref,tgw6.0,123597,123778,schoenherr,123709,123712,Sie,ermischer
+gdc-coref,tgw6.0,123597,123778,schoenherr,123728,123731,Sie,ermischer
+gdc-coref,tgw6.0,123754,123778,_stage,123754,123777,Unterdrücktes Gelächter,Gelächter
+gdc-coref,tgw6.0,123793,123842,_stage,123812,123821,Schönherr,schoenherr
+gdc-coref,tgw6.0,123793,123842,_stage,123831,123841,den Bauern,die_bauern
+gdc-coref,tgw6.0,123783,123885,ermischer,123843,123880,Der Reih'schank geht recht laut dahie,Des
+gdc-coref,tgw6.0,123783,123885,ermischer,123843,123858,Der Reih'schank,Die-Reih'schankzeit-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,123890,124015,ein_bauer,123901,123904,Des,Des
+gdc-coref,tgw6.0,123890,124015,ein_bauer,123936,123956,der Neibert-Verlag'r,neubert
+gdc-coref,tgw6.0,124030,124056,_stage,124042,124055,den Arbeitern,die_waldarbeiter
+gdc-coref,tgw6.0,124020,124314,schoenherr,124068,124122,der große Neibert möchte doch gerne in den Gemeenderat,die-Sache
+gdc-coref,tgw6.0,124020,124314,schoenherr,124068,124085,der große Neibert,neubert
+gdc-coref,tgw6.0,124020,124314,schoenherr,124107,124122,den Gemeenderat,den-Gemeenderat
+gdc-coref,tgw6.0,124020,124314,schoenherr,124132,124134,'r,neubert
+gdc-coref,tgw6.0,124020,124314,schoenherr,124138,124155,'ne Lage Freibier,'ne-------------Lage-Freibier-(bestechungsbier-neuberts-an)
+gdc-coref,tgw6.0,124020,124314,schoenherr,124174,124183,die Sache,die-Sache
+gdc-coref,tgw6.0,124200,124314,_stage,124200,124220,Der Verleger Neubert,neubert
+gdc-coref,tgw6.0,124200,124314,_stage,124237,124245,der Türe,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,124200,124314,_stage,124250,124313,"einer Anzahl Schnitzlermeistern, dürftigen, schüchternen Leuten",die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124318,124456,neubert,124334,124337,Sie,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124318,124456,neubert,124350,124355,meine,neubert
+gdc-coref,tgw6.0,124318,124456,neubert,124364,124367,Sie,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124318,124456,neubert,124377,124381,sich,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124318,124456,neubert,124401,124455,Ich sehe eine Ehre drinn ... heut sind Sie meine Gäste,des3
+gdc-coref,tgw6.0,124318,124456,neubert,124401,124404,Ich,neubert
+gdc-coref,tgw6.0,124318,124456,neubert,124440,124443,Sie,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124318,124456,neubert,124444,124449,meine,neubert
+gdc-coref,tgw6.0,124461,124564,die_schnitzler_schnitzlersleute,124482,124494,Herr Neibert,neubert
+gdc-coref,tgw6.0,124461,124564,die_schnitzler_schnitzlersleute,124505,124508,des,des3
+gdc-coref,tgw6.0,124461,124564,die_schnitzler_schnitzlersleute,124518,124521,Des,des3
+gdc-coref,tgw6.0,124461,124564,die_schnitzler_schnitzlersleute,124529,124532,mir,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124461,124564,die_schnitzler_schnitzlersleute,124547,124550,Mir,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124569,124796,neubert,124585,124588,Sie,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124569,124796,neubert,124624,124637,nem Glas Bier,een-Glas-(bier)
+gdc-coref,tgw6.0,124569,124796,neubert,124639,124647,Herrgott,Herrgott-(wohl-floskel)
+gdc-coref,tgw6.0,124569,124796,neubert,124658,124661,Ich,neubert
+gdc-coref,tgw6.0,124569,124796,neubert,124703,124706,Tag,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,124720,124796,_stage,124720,124738,Allgemeines Grüßen,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,124720,124796,_stage,124740,124749,Schönherr,schoenherr
+gdc-coref,tgw6.0,124720,124796,_stage,124754,124761,Neubert,neubert
+gdc-coref,tgw6.0,124800,124927,neubert,124813,124820,Ulbrich,ulbrich
+gdc-coref,tgw6.0,124800,124927,neubert,124822,124825,ich,neubert
+gdc-coref,tgw6.0,124800,124927,neubert,124843,124848,Ihnen,ulbrich-/-frau_ulbrich
+gdc-coref,tgw6.0,124800,124927,neubert,124892,124919,'nem Reih'schank im Gebirge,dem-------------Reih'schank
+gdc-coref,tgw6.0,124932,124987,ulbrich,124951,124963,Herr Neibert,neubert
+gdc-coref,tgw6.0,124932,124987,ulbrich,124976,124979,ich,ulbrich
+gdc-coref,tgw6.0,124992,125269,neubert,125007,125010,Sie,ulbrich
+gdc-coref,tgw6.0,124992,125269,neubert,125016,125020,Bier,een-Glas-(bier)
+gdc-coref,tgw6.0,124992,125269,neubert,125026,125038,Den Meistern,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,124992,125269,neubert,125074,125090,die Waldarbeiter,die_waldarbeiter
+gdc-coref,tgw6.0,124992,125269,neubert,125097,125100,ihr,die_waldarbeiter
+gdc-coref,tgw6.0,124992,125269,neubert,125106,125116,die Gläser,een-Glas-(bier)
+gdc-coref,tgw6.0,124992,125269,neubert,125135,125138,Sie,ulbrich
+gdc-coref,tgw6.0,124992,125269,neubert,125147,125156,'ne Runde,'ne-------------Lage-Freibier-(bestechungsbier-neuberts-an)
+gdc-coref,tgw6.0,125163,125269,_stage,125163,125179,Die Waldarbeiter,die_waldarbeiter
+gdc-coref,tgw6.0,125163,125269,_stage,125202,125212,Die Bauern,die_bauern
+gdc-coref,tgw6.0,125163,125269,_stage,125217,125226,Schönherr,schoenherr
+gdc-coref,tgw6.0,125273,125439,neubert,125282,125320,"Da sagen nun die Leute, ich wäre stolz",ihr's
+gdc-coref,tgw6.0,125273,125439,neubert,125295,125304,die Leute,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,125273,125439,neubert,125306,125309,ich,neubert
+gdc-coref,tgw6.0,125273,125439,neubert,125322,125334,"Ulbrich, Sie",ulbrich
+gdc-coref,tgw6.0,125273,125439,neubert,125343,125346,mir,neubert
+gdc-coref,tgw6.0,125273,125439,neubert,125352,125361,alle Tage,alle-Tage
+gdc-coref,tgw6.0,125273,125439,neubert,125395,125398,Sie,ulbrich
+gdc-coref,tgw6.0,125273,125439,neubert,125427,125430,mir,neubert
+gdc-coref,tgw6.0,125444,125481,ulbrich,125459,125471,Herr Neibert,neubert
+gdc-coref,tgw6.0,125486,125596,neubert,125507,125512,ihr's,
+gdc-coref,tgw6.0,125486,125596,neubert,125517,125536,Alles leeres Gerede,ihr's
+gdc-coref,tgw6.0,125486,125596,neubert,125538,125541,Ich,neubert
+gdc-coref,tgw6.0,125486,125596,neubert,125567,125577,die andern,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,125486,125596,neubert,125586,125595,ihr Leute,die_waldarbeiter-/-die_bauern-+-4
+gdc-coref,tgw6.0,125601,125638,die_waldarbeiter,125616,125628,Herr Neibert,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125671,125674,ich,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125694,125720,der allgemeinen Interessen,der-allgemeinen-Interessen
+gdc-coref,tgw6.0,125643,126106,neubert,125766,125769,Ich,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125782,125787,meine,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125801,125821,"Die, die mich wählen","Die,-die-mich-------------wählen"
+gdc-coref,tgw6.0,125643,126106,neubert,125806,125809,die,"Die,-die-mich-------------wählen"
+gdc-coref,tgw6.0,125643,126106,neubert,125810,125814,mich,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125830,125848,den richtigen Mann,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125853,125872,den richtigen Platz,den-Gemeenderat
+gdc-coref,tgw6.0,125643,126106,neubert,125894,125903,ihr Leute,die_waldarbeiter-/-die_bauern-+-4
+gdc-coref,tgw6.0,125643,126106,neubert,125927,125935,Gemurmel,Gemurmel
+gdc-coref,tgw6.0,125643,126106,neubert,125938,125941,Ich,neubert
+gdc-coref,tgw6.0,125643,126106,neubert,125974,125981,im Orte,im-Orte
+gdc-coref,tgw6.0,126060,126106,_stage,126060,126070,Die Bauern,die_bauern
+gdc-coref,tgw6.0,126060,126106,_stage,126096,126105,Ermischer,ermischer
+gdc-coref,tgw6.0,126110,126201,ermischer,126128,126131,Sie,neubert
+gdc-coref,tgw6.0,126110,126201,ermischer,126156,126159,ich,ermischer
+gdc-coref,tgw6.0,126214,126277,_stage,126218,126221,ihm,ermischer
+gdc-coref,tgw6.0,126206,126495,neubert,126289,126292,Sie,ermischer
+gdc-coref,tgw6.0,126206,126495,neubert,126299,126302,man,man-(der-mensch)
+gdc-coref,tgw6.0,126206,126495,neubert,126337,126340,man,man-(der-mensch)
+gdc-coref,tgw6.0,126206,126495,neubert,126370,126373,ich,neubert
+gdc-coref,tgw6.0,126206,126495,neubert,126380,126384,mich,neubert
+gdc-coref,tgw6.0,126206,126495,neubert,126392,126395,Ich,neubert
+gdc-coref,tgw6.0,126206,126495,neubert,126457,126460,Sie,ulbrich
+gdc-coref,tgw6.0,126206,126495,neubert,126471,126485,'ne Runde Bier,'ne-------------Lage-Freibier-(bestechungsbier-neuberts-an)
+gdc-coref,tgw6.0,126206,126495,neubert,126481,126485,Bier,een-Glas-(bier)
+gdc-coref,tgw6.0,126500,126592,ulbrich,126517,126529,Herr Neibert,neubert
+gdc-coref,tgw6.0,126500,126592,ulbrich,126531,126534,des,een-Glas-(bier)
+gdc-coref,tgw6.0,126550,126592,_stage,126550,126560,Die Bauern,die_bauern
+gdc-coref,tgw6.0,126550,126592,_stage,126562,126571,Schönherr,schoenherr
+gdc-coref,tgw6.0,126596,126698,weigel,126617,126620,Tag,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,126596,126698,weigel,126622,126636,lieber Ulbrich,ulbrich
+gdc-coref,tgw6.0,126596,126698,weigel,126638,126641,ich,weigel
+gdc-coref,tgw6.0,126596,126698,weigel,126657,126669,'n Glas Bier,een-Glas-(bier)
+gdc-coref,tgw6.0,126596,126698,weigel,126674,126689,dem Reih'schank,Die-Reih'schankzeit-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,126703,126748,ulbrich,126722,126730,Tag ooch,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,126703,126748,ulbrich,126732,126747,Herr Schandarme,weigel
+gdc-coref,tgw6.0,126753,126791,neubert,126762,126765,Tag,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,126753,126791,neubert,126767,126779,Herr Gendarm,weigel
+gdc-coref,tgw6.0,126796,126907,weigel,126804,126809,T-a-g,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,126796,126907,weigel,126811,126818,Neubert,neubert
+gdc-coref,tgw6.0,126796,126907,weigel,126856,126868,Herr Neubert,neubert
+gdc-coref,tgw6.0,126796,126907,weigel,126875,126888,Herrn Neubert,neubert
+gdc-coref,tgw6.0,126912,126964,neubert,126928,126931,Sie,weigel
+gdc-coref,tgw6.0,126912,126964,neubert,126932,126936,sich,weigel
+gdc-coref,tgw6.0,126969,127103,weigel,126982,126994,Herr Neubert,neubert
+gdc-coref,tgw6.0,126969,127103,weigel,127010,127013,ich,weigel
+gdc-coref,tgw6.0,126969,127103,weigel,127029,127033,sich,weigel
+gdc-coref,tgw6.0,126969,127103,weigel,127037,127044,Neubert,neubert
+gdc-coref,tgw6.0,126969,127103,weigel,127059,127068,Ermischer,ermischer
+gdc-coref,tgw6.0,126969,127103,weigel,127092,127102,"Ah, Servus","Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,127108,127207,neubert,127117,127129,'n Glas Bier,een-Glas-(bier)
+gdc-coref,tgw6.0,127108,127207,neubert,127134,127153,den Herrn Gendarmen,weigel
+gdc-coref,tgw6.0,127108,127207,neubert,127165,127168,Sie,weigel
+gdc-coref,tgw6.0,127108,127207,neubert,127181,127191,den Dienst,den-Dienst-(weigel)
+gdc-coref,tgw6.0,127212,127319,weigel,127278,127281,ich,weigel
+gdc-coref,tgw6.0,127212,127319,weigel,127288,127294,im Ort,im-Orte
+gdc-coref,tgw6.0,127212,127319,weigel,127295,127308,einen Auflauf,einen-------------Auflauf
+gdc-coref,tgw6.0,127324,127362,neubert,127333,127346,Einen Auflauf,einen-------------Auflauf
+gdc-coref,tgw6.0,127324,127362,neubert,127352,127355,Sie,weigel
+gdc-coref,tgw6.0,127367,127502,weigel,127396,127441,"der bucklige Spielwarenmacher, der Neumerkel.",neumerkel-bb
+gdc-coref,tgw6.0,127367,127502,weigel,127442,127450,Der Kerl,neumerkel-bb
+gdc-coref,tgw6.0,127367,127502,weigel,127478,127487,Olbernhau,Olbernhau
+gdc-coref,tgw6.0,127507,127546,ulbrich,127516,127518,Er,neumerkel-bb
+gdc-coref,tgw6.0,127507,127546,ulbrich,127523,127537,eene Erbschaft,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,127551,127606,neubert,127560,127574,Eine Erbschaft,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,127551,127606,neubert,127580,127583,das,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,127611,127735,weigel,127627,127630,die,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,127611,127735,weigel,127636,127638,er,neumerkel-bb
+gdc-coref,tgw6.0,127611,127735,weigel,127674,127678,Lärm,"Lärm-(viele-stimmen,-auflauf-um-neumerkel)"
+gdc-coref,tgw6.0,127611,127735,weigel,127697,127702,Sie's,
+gdc-coref,tgw6.0,127611,127735,weigel,127719,127721,'r,neumerkel-bb
+gdc-coref,tgw6.0,127740,128023,neubert,127749,127874,Da sieht man's nun wieder. Für solche Leute is plötzlicher Geldbesitz geradezu 'n Unglück. Solche Leute muß man knapp halten.,Das
+gdc-coref,tgw6.0,127740,128023,neubert,127758,127763,man's,
+gdc-coref,tgw6.0,127740,128023,neubert,127776,127839,Für solche Leute is plötzlicher Geldbesitz geradezu 'n Unglück.,Für-solche-Leute-is-plötzlicher-Geldbesitz-geradezu-'n-------------Unglück.
+gdc-coref,tgw6.0,127740,128023,neubert,127780,127792,solche Leute,solche-Leute-(typ-neumerkel)
+gdc-coref,tgw6.0,127740,128023,neubert,127840,127852,Solche Leute,solche-Leute-(typ-neumerkel)
+gdc-coref,tgw6.0,127740,128023,neubert,127857,127860,man,man-(der-mensch)
+gdc-coref,tgw6.0,127740,128023,neubert,127878,127892,den Anwesenden,frau_ulbrich-/-die_waldarbeiter-+-7
+gdc-coref,tgw6.0,127740,128023,neubert,127894,127897,Das,Das
+gdc-coref,tgw6.0,127740,128023,neubert,127905,127908,ich,neubert
+gdc-coref,tgw6.0,127740,128023,neubert,127915,127918,das,Das
+gdc-coref,tgw6.0,127740,128023,neubert,127946,127968,diesen speziellen Fall,eso-een-Glück-(der-vorgang-der-erbschaft-neumerkels)
+gdc-coref,tgw6.0,127740,128023,neubert,127991,127994,ich,neubert
+gdc-coref,tgw6.0,127740,128023,neubert,127995,127998,das,Das
+gdc-coref,tgw6.0,127740,128023,neubert,128013,128022,ihr Leute,frau_ulbrich-/-die_waldarbeiter-+-7
+gdc-coref,tgw6.0,128028,128262,die_waldarbeiter,128050,128062,Herr Neibert,neubert
+gdc-coref,tgw6.0,128072,128262,_stage,128072,128081,Neumerkel,neumerkel-bb
+gdc-coref,tgw6.0,128072,128262,_stage,128112,128118,seinem,neumerkel-bb
+gdc-coref,tgw6.0,128072,128262,_stage,128148,128186,"einen nagelneuen, grauseidenen Filzhut","einen-nagelneuen,-grauseidenen-Filzhut-(neumerkel)"
+gdc-coref,tgw6.0,128072,128262,_stage,128202,128214,weiße Glacés,weiße-Glacés-(wohl-handschuhe-neumerkel)
+gdc-coref,tgw6.0,128072,128262,_stage,128218,128228,den Händen,den-------------Händen-(neumerkel)
+gdc-coref,tgw6.0,128072,128262,_stage,128237,128261,einem neuen Sonnenschirm,einem-neuen-Sonnenschirm-(neumerkel)
+gdc-coref,tgw6.0,128276,128311,_stage,128276,128287,im Hausflur,zum-Hausflur-(eg-ulbrichs)
+gdc-coref,tgw6.0,128276,128311,_stage,128293,128303,die Straße,der-Straße-(um-ulbrichs-haus)
+gdc-coref,tgw6.0,128266,128492,neumerkel,128321,128324,ihr,ihr-(auflauf-menschen-um-neumerkel-bei-seiner-ankunft-im-schanklokal-in-auftritt-4)
+gdc-coref,tgw6.0,128266,128492,neumerkel,128326,128329,ihr,ihr-(auflauf-menschen-um-neumerkel-bei-seiner-ankunft-im-schanklokal-in-auftritt-4)
+gdc-coref,tgw6.0,128266,128492,neumerkel,128336,128340,mich,neumerkel
+gdc-coref,tgw6.0,128266,128492,neumerkel,128352,128355,Ich,neumerkel
+gdc-coref,tgw6.0,128266,128492,neumerkel,128362,128366,euch,ihr-(auflauf-menschen-um-neumerkel-bei-seiner-ankunft-im-schanklokal-in-auftritt-4)
+gdc-coref,tgw6.0,128266,128492,neumerkel,128389,128398,s Kapital,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,128266,128492,neumerkel,128423,128470,Wirft eine Handvoll Kupfermünzen auf die Gasse.,dees
+gdc-coref,tgw6.0,128266,128492,neumerkel,128460,128469,die Gasse,der-Straße-(um-ulbrichs-haus)
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128553,128557,dees,dees
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128567,128569,Er,neumerkel-bb
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128579,128580,s,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128585,128598,vollen Händen,den-------------Händen-(neumerkel)
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128603,128612,die Gasse,der-Straße-(um-ulbrichs-haus)
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128614,128616,Er,neumerkel-bb
+gdc-coref,tgw6.0,128496,128645,die_waldarbeiter,128621,128627,s Geld,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,128660,128673,_stage,128663,128672,der Stube,"Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,128650,128855,neumerkel,128685,128689,euch,die_bauern-/-frau_ulbrich-+-8
+gdc-coref,tgw6.0,128650,128855,neumerkel,128695,128708,den Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,128650,128855,neumerkel,128722,128724,'r,die_bauern-/-frau_ulbrich-+-8
+gdc-coref,tgw6.0,128650,128855,neumerkel,128740,128743,ich,neumerkel
+gdc-coref,tgw6.0,128650,128855,neumerkel,128785,128788,mir,
+gdc-coref,tgw6.0,128650,128855,neumerkel,128833,128836,Mir,neumerkel-bb
+gdc-coref,tgw6.0,128650,128855,neumerkel,128842,128846,Geld,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,128860,128918,weigel,128868,128883,Ihre paar Taler,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,128860,128918,weigel,128868,128872,Ihre,neumerkel-bb
+gdc-coref,tgw6.0,128860,128918,weigel,128894,128904,der Teufel,der-Teufel-(wohl-sprichwörtl)
+gdc-coref,tgw6.0,128923,129078,neumerkel,128943,128947,mich,neumerkel
+gdc-coref,tgw6.0,128923,129078,neumerkel,128954,128955,s,'n-zwanzig-Daler-(erbe-neumerkel)
+gdc-coref,tgw6.0,128923,129078,neumerkel,128960,128975,Eenen neien Hut,"einen-nagelneuen,-grauseidenen-Filzhut-(neumerkel)"
+gdc-coref,tgw6.0,128923,129078,neumerkel,128981,128984,ich,neumerkel
+gdc-coref,tgw6.0,128923,129078,neumerkel,128986,129004,een paar Klassiker,weiße-Glacés-(wohl-handschuhe-neumerkel)
+gdc-coref,tgw6.0,128923,129078,neumerkel,129009,129021,eenen Schärm,einem-neuen-Sonnenschirm-(neumerkel)
+gdc-coref,tgw6.0,128923,129078,neumerkel,129034,129037,ich,neumerkel
+gdc-coref,tgw6.0,128923,129078,neumerkel,129038,129056,meine Erbschwester,"eene-Schwester,-drüben-in-Marienberg,-een-ganz-armes-Bettelmensch-(neumerkels-schwester)"
+gdc-coref,tgw6.0,128923,129078,neumerkel,129038,129043,meine,neumerkel
+gdc-coref,tgw6.0,129068,129078,_stage,129068,129077,Gelächter,Gelächter
+gdc-coref,tgw6.0,129082,129210,weigel,129090,129092,Es,Es
+gdc-coref,tgw6.0,129082,129210,weigel,129112,129135,daß Sie hier fortkommen,Es
+gdc-coref,tgw6.0,129082,129210,weigel,129116,129119,Sie,neumerkel-bb
+gdc-coref,tgw6.0,129082,129210,weigel,129137,129210,Bei 'nem andern Gemeindevorstand säßen Sie schon längst in Numero Sicher.,Bei-'nem-andern-Gemeindevorstand-säßen-------------Sie-schon-längst-in-Numero-Sicher.
+gdc-coref,tgw6.0,129082,129210,weigel,129176,129179,Sie,neumerkel-bb
+gdc-coref,tgw6.0,129082,129210,weigel,129196,129209,Numero Sicher,Numero-Sicher
+gdc-coref,tgw6.0,129215,129273,neubert,129238,129250,Herr Gendarm,weigel
+gdc-coref,tgw6.0,129278,129334,neumerkel,129293,129296,m'r,man-(der-mensch)
+gdc-coref,tgw6.0,129339,129477,ermischer,129361,129364,Des,Bei-'nem-andern-Gemeindevorstand-säßen-------------Sie-schon-längst-in-Numero-Sicher.
+gdc-coref,tgw6.0,129339,129477,ermischer,129402,129404,du,neumerkel-bb
+gdc-coref,tgw6.0,129339,129477,ermischer,129405,129409,dich,neumerkel-bb
+gdc-coref,tgw6.0,129339,129477,ermischer,129450,129452,du,neumerkel-bb
+gdc-coref,tgw6.0,129339,129477,ermischer,129460,129476,ins Spritzenhaus,Numero-Sicher
+gdc-coref,tgw6.0,129482,129613,schoenherr,129513,129516,Des,Des2
+gdc-coref,tgw6.0,129482,129613,schoenherr,129552,129612,deß een Gesell' vom Meester Scheenherr ins Spritzenhaus käme,Des2
+gdc-coref,tgw6.0,129482,129613,schoenherr,129572,129590,Meester Scheenherr,schoenherr
+gdc-coref,tgw6.0,129482,129613,schoenherr,129591,129607,ins Spritzenhaus,Numero-Sicher
+gdc-coref,tgw6.0,129618,129658,neubert,129632,129634,er,neumerkel-bb
+gdc-coref,tgw6.0,129618,129658,neubert,129635,129639,sich,neumerkel-bb
+gdc-coref,tgw6.0,129663,129867,schoenherr,129674,129676,Es,Es2
+gdc-coref,tgw6.0,129663,129867,schoenherr,129699,129756,deß 'r sein Geld uff die Gasse schmeißt und sich betrinkt,Es2
+gdc-coref,tgw6.0,129663,129867,schoenherr,129703,129705,'r,neumerkel-bb
+gdc-coref,tgw6.0,129663,129867,schoenherr,129706,129715,sein Geld,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,129663,129867,schoenherr,129706,129710,sein,neumerkel-bb
+gdc-coref,tgw6.0,129663,129867,schoenherr,129720,129729,die Gasse,der-Straße-(um-ulbrichs-haus)
+gdc-coref,tgw6.0,129663,129867,schoenherr,129743,129747,sich,neumerkel-bb
+gdc-coref,tgw6.0,129663,129867,schoenherr,129763,129792,was 'r mit seinem Gelde macht,des4
+gdc-coref,tgw6.0,129663,129867,schoenherr,129767,129769,'r,neumerkel-bb
+gdc-coref,tgw6.0,129663,129867,schoenherr,129774,129786,seinem Gelde,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,129663,129867,schoenherr,129774,129780,seinem,neumerkel-bb
+gdc-coref,tgw6.0,129663,129867,schoenherr,129794,129797,des,des4
+gdc-coref,tgw6.0,129663,129867,schoenherr,129803,129816,den Fierstand,ermischer
+gdc-coref,tgw6.0,129829,129867,_stage,129829,129866,Zustimmende Gebärden der Waldarbeiter,Zeichen-(gestik-waldarbeiter)
+gdc-coref,tgw6.0,129829,129867,_stage,129850,129866,der Waldarbeiter,die_waldarbeiter
+gdc-coref,tgw6.0,129871,129924,ermischer,129889,129891,Er,neumerkel-bb
+gdc-coref,tgw6.0,129871,129924,ermischer,129898,129910,der Gemeende,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,129871,129924,ermischer,129916,129923,Schaden,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,129929,130047,neumerkel,129950,129957,Schaden,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,129929,130047,neumerkel,129968,129971,ich,neumerkel
+gdc-coref,tgw6.0,129929,130047,neumerkel,130004,130007,ich,neumerkel
+gdc-coref,tgw6.0,129929,130047,neumerkel,130008,130021,eenen Schaden,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,129929,130047,neumerkel,130032,130038,wird's,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,130052,130185,ermischer,130063,130065,Du,neumerkel-bb
+gdc-coref,tgw6.0,130052,130185,ermischer,130088,130090,du,neumerkel-bb
+gdc-coref,tgw6.0,130052,130185,ermischer,130091,130095,dich,neumerkel-bb
+gdc-coref,tgw6.0,130052,130185,ermischer,130117,130129,deinem Gelde,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,130052,130185,ermischer,130117,130123,deinem,neumerkel-bb
+gdc-coref,tgw6.0,130052,130185,ermischer,130138,130140,du,neumerkel-bb
+gdc-coref,tgw6.0,130052,130185,ermischer,130148,130160,der Gemeende,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,130052,130185,ermischer,130161,130184,was du ihr gekost' hast,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,130052,130185,ermischer,130165,130167,du,neumerkel-bb
+gdc-coref,tgw6.0,130052,130185,ermischer,130168,130171,ihr,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,130190,130295,die_bauern,130220,130222,Er,neumerkel-bb
+gdc-coref,tgw6.0,130190,130295,die_bauern,130233,130242,sein Geld,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,130190,130295,die_bauern,130233,130237,sein,neumerkel-bb
+gdc-coref,tgw6.0,130190,130295,die_bauern,130246,130248,Er,neumerkel-bb
+gdc-coref,tgw6.0,130190,130295,die_bauern,130263,130294,was 'r uns Unkosten gemacht hat,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,130190,130295,die_bauern,130267,130269,'r,neumerkel-bb
+gdc-coref,tgw6.0,130190,130295,die_bauern,130270,130273,uns,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,130310,130345,_stage,130327,130338,ihren Tisch,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,130310,130345,_stage,130327,130332,ihren,die_bauern
+gdc-coref,tgw6.0,130300,130406,neumerkel,130355,130358,ich,neumerkel
+gdc-coref,tgw6.0,130300,130406,neumerkel,130359,130379,euch Kartuffelbauern,die_bauern
+gdc-coref,tgw6.0,130396,130406,_stage,130396,130405,Gelächter,Gelächter
+gdc-coref,tgw6.0,130410,130561,ermischer,130427,130429,du,neumerkel-bb
+gdc-coref,tgw6.0,130410,130561,ermischer,130460,130462,Du,neumerkel-bb
+gdc-coref,tgw6.0,130410,130561,ermischer,130468,130471,uns,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,130410,130561,ermischer,130486,130497,deine Katze,deine-Katze
+gdc-coref,tgw6.0,130410,130561,ermischer,130486,130491,deine,neumerkel-bb
+gdc-coref,tgw6.0,130410,130561,ermischer,130513,130533,die Verfahrenskosten,die-Verfahrenskosten-xxx
+gdc-coref,tgw6.0,130410,130561,ermischer,130535,130557,die Verpflägungskosten,die-Verpflägungskosten-xxx
+gdc-coref,tgw6.0,130566,130680,neubert,130589,130592,ich,neubert
+gdc-coref,tgw6.0,130566,130680,neubert,130639,130679,Reinigung von Wäsche und Kleidungstücken,Reinigung-von-Wäsche-------------und-Kleidungstücken-(neubert)
+gdc-coref,tgw6.0,130685,130735,ermischer,130700,130702,du,neumerkel-bb
+gdc-coref,tgw6.0,130685,130735,ermischer,130710,130714,dich,neumerkel-bb
+gdc-coref,tgw6.0,130740,130799,weigel,130748,130760,Dem Burschen,neumerkel-bb
+gdc-coref,tgw6.0,130804,130871,die_bauern,130816,130826,Schmeißt'n,neumerkel-bb
+gdc-coref,tgw6.0,130804,130871,die_bauern,130846,130854,dem Kerl,neumerkel-bb
+gdc-coref,tgw6.0,130876,131061,schoenherr,130926,130937,mein Gesell,neumerkel-bb
+gdc-coref,tgw6.0,130876,131061,schoenherr,130926,130930,mein,schoenherr
+gdc-coref,tgw6.0,130876,131061,schoenherr,130970,130972,er,neumerkel-bb
+gdc-coref,tgw6.0,130876,131061,schoenherr,131024,131033,Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,130876,131061,schoenherr,131045,131047,du,neumerkel-bb
+gdc-coref,tgw6.0,131066,131220,neumerkel,131104,131112,zur Türe,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,131066,131220,neumerkel,131145,131149,euch,die_bauern-/-frau_ulbrich-+-8
+gdc-coref,tgw6.0,131066,131220,neumerkel,131156,131159,'ch,neumerkel-bb
+gdc-coref,tgw6.0,131066,131220,neumerkel,131160,131164,mich,neumerkel
+gdc-coref,tgw6.0,131066,131220,neumerkel,131194,131196,'s,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,131066,131220,neumerkel,131204,131207,des,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,131066,131220,neumerkel,131216,131219,ich,neumerkel
+gdc-coref,tgw6.0,131235,131314,_stage,131241,131244,ihn,neumerkel-bb
+gdc-coref,tgw6.0,131235,131314,_stage,131293,131297,sich,ermischer
+gdc-coref,tgw6.0,131235,131314,_stage,131301,131313,seinen Tisch,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,131235,131314,_stage,131301,131307,seinen,ermischer
+gdc-coref,tgw6.0,131328,131371,_stage,131340,131345,Taler,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,131328,131371,_stage,131351,131356,Taler,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,131328,131371,_stage,131361,131370,den Tisch,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,131318,131526,neumerkel,131372,131483,"Dehie und hie und hie ...! Hie sein die Unkosten, gebt mir mein Eegentum 'raus und mir sein fertig miteinander.",Des3
+gdc-coref,tgw6.0,131318,131526,neumerkel,131408,131420,die Unkosten,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,131318,131526,neumerkel,131427,131430,mir,neumerkel
+gdc-coref,tgw6.0,131318,131526,neumerkel,131431,131444,mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,131318,131526,neumerkel,131431,131435,mein,neumerkel
+gdc-coref,tgw6.0,131318,131526,neumerkel,131455,131458,mir,
+gdc-coref,tgw6.0,131485,131526,_stage,131485,131493,Gemurmel,Gemurmel
+gdc-coref,tgw6.0,131485,131526,_stage,131495,131504,Erstaunen,des-Erstaunens
+gdc-coref,tgw6.0,131485,131526,_stage,131506,131525,allgemeine Spannung,allgemeine-Spannung
+gdc-coref,tgw6.0,131540,131596,_stage,131556,131564,das Geld,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,131540,131596,_stage,131578,131580,es,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,131530,131780,ermischer,131597,131600,Des,Des3
+gdc-coref,tgw6.0,131530,131780,ermischer,131606,131609,ich,ermischer
+gdc-coref,tgw6.0,131530,131780,ermischer,131610,131613,mir,ermischer
+gdc-coref,tgw6.0,131530,131780,ermischer,131642,131757,"Die paar Neigroschen, die iebrig sein, kannste morgen uff'm Gemeendeamt holen. Da kannste ooch deine Katze kriegen.",des5
+gdc-coref,tgw6.0,131530,131780,ermischer,131642,131679,"Die paar Neigroschen, die iebrig sein","Die-paar-Neigroschen,-die-iebrig-sein-(rückgeld-neumerkel)"
+gdc-coref,tgw6.0,131530,131780,ermischer,131664,131667,die,"Die-paar-Neigroschen,-die-iebrig-sein-(rückgeld-neumerkel)"
+gdc-coref,tgw6.0,131530,131780,ermischer,131696,131713,uff'm Gemeendeamt,uff'm-Gemeendeamt
+gdc-coref,tgw6.0,131530,131780,ermischer,131737,131748,deine Katze,deine-Katze
+gdc-coref,tgw6.0,131530,131780,ermischer,131737,131742,deine,neumerkel-bb
+gdc-coref,tgw6.0,131759,131780,_stage,131769,131779,der Bauern,die_bauern
+gdc-coref,tgw6.0,131784,131855,neumerkel,131799,131802,des,des5
+gdc-coref,tgw6.0,131784,131855,neumerkel,131824,131833,mein Geld,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,131784,131855,neumerkel,131824,131828,mein,neumerkel
+gdc-coref,tgw6.0,131784,131855,neumerkel,131841,131854,mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,131784,131855,neumerkel,131841,131845,mein,neumerkel
+gdc-coref,tgw6.0,131860,131956,schoenherr,131871,131874,Des,des5
+gdc-coref,tgw6.0,131860,131956,schoenherr,131902,131910,der Mann,neumerkel-bb
+gdc-coref,tgw6.0,131860,131956,schoenherr,131911,131922,den Schaden,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,131860,131956,schoenherr,131936,131938,er,neumerkel-bb
+gdc-coref,tgw6.0,131860,131956,schoenherr,131939,131949,seine Sach,deine-Katze
+gdc-coref,tgw6.0,131860,131956,schoenherr,131939,131944,seine,neumerkel-bb
+gdc-coref,tgw6.0,131961,132083,die_waldarbeiter,132007,132009,'r,schoenherr
+gdc-coref,tgw6.0,131961,132083,die_waldarbeiter,132019,132022,Des,des5
+gdc-coref,tgw6.0,131961,132083,die_waldarbeiter,132044,132052,Der Mann,neumerkel-bb
+gdc-coref,tgw6.0,131961,132083,die_waldarbeiter,132072,132081,sein Sach,deine-Katze
+gdc-coref,tgw6.0,131961,132083,die_waldarbeiter,132072,132076,sein,neumerkel-bb
+gdc-coref,tgw6.0,132089,132266,ulbrich,132106,132115,Ermischer,ermischer
+gdc-coref,tgw6.0,132089,132266,ulbrich,132117,132121,mich,ulbrich
+gdc-coref,tgw6.0,132089,132266,ulbrich,132122,132128,geht's,des5
+gdc-coref,tgw6.0,132089,132266,ulbrich,132145,132148,des,des5
+gdc-coref,tgw6.0,132089,132266,ulbrich,132157,132160,mir,ulbrich
+gdc-coref,tgw6.0,132089,132266,ulbrich,132179,132194,Der arme Mensch,neumerkel-bb
+gdc-coref,tgw6.0,132089,132266,ulbrich,132200,132212,sein Letztes,so's-Kapital-(vermögen-geld-neumerkel-allg)
+gdc-coref,tgw6.0,132089,132266,ulbrich,132200,132204,sein,neumerkel-bb
+gdc-coref,tgw6.0,132089,132266,ulbrich,132226,132228,er,neumerkel-bb
+gdc-coref,tgw6.0,132089,132266,ulbrich,132244,132246,'r,neumerkel-bb
+gdc-coref,tgw6.0,132089,132266,ulbrich,132247,132258,seine Sach',deine-Katze
+gdc-coref,tgw6.0,132089,132266,ulbrich,132247,132252,seine,neumerkel-bb
+gdc-coref,tgw6.0,132271,132309,ermischer,132282,132284,Er,neumerkel-bb
+gdc-coref,tgw6.0,132271,132309,ermischer,132290,132292,se,deine-Katze
+gdc-coref,tgw6.0,132314,132396,schoenherr,132334,132336,er,neumerkel-bb
+gdc-coref,tgw6.0,132314,132396,schoenherr,132337,132339,se,deine-Katze
+gdc-coref,tgw6.0,132355,132396,_stage,132355,132362,Neubert,neubert
+gdc-coref,tgw6.0,132355,132396,_stage,132380,132389,der Stube,"Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,132400,132560,weigel,132408,132415,Ulbrich,ulbrich
+gdc-coref,tgw6.0,132565,132712,ermischer,132587,132590,mir,
+gdc-coref,tgw6.0,132565,132712,ermischer,132591,132594,uns,ermischer-/-neumerkel
+gdc-coref,tgw6.0,132565,132712,ermischer,132608,132622,Gemeendediener,seifert
+gdc-coref,tgw6.0,132565,132712,ermischer,132628,132635,Seifert,seifert
+gdc-coref,tgw6.0,132565,132712,ermischer,132641,132648,Seifert,seifert
+gdc-coref,tgw6.0,132652,132712,_stage,132652,132659,Seifert,seifert
+gdc-coref,tgw6.0,132652,132712,_stage,132666,132688,in schlotternder Angst,in-schlotternder-Angst-(seifert)
+gdc-coref,tgw6.0,132652,132712,_stage,132689,132697,vom Ofen,"dem-mächtigen-----------Kachelofen,-der-sich-in-der-Ecke-erhebt"
+gdc-coref,tgw6.0,132716,132772,ermischer,132746,132759,den Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,132716,132772,ermischer,132760,132771,seine Katze,deine-Katze
+gdc-coref,tgw6.0,132716,132772,ermischer,132760,132765,seine,neumerkel-bb
+gdc-coref,tgw6.0,132829,132901,seifert,132838,132840,'s,'s
+gdc-coref,tgw6.0,132829,132901,seifert,132853,132888,meine Fra' wird nich' d'rheeme sinn,'s
+gdc-coref,tgw6.0,132829,132901,seifert,132853,132863,meine Fra',frau_seifert
+gdc-coref,tgw6.0,132829,132901,seifert,132853,132858,meine,seifert
+gdc-coref,tgw6.0,132891,132901,_stage,132891,132900,Gelächter,Gelächter
+gdc-coref,tgw6.0,132905,133064,ermischer,132920,132923,des,'s
+gdc-coref,tgw6.0,132905,133064,ermischer,132963,132986,Gemeendeangelegenheeten,der-allgemeinen-Interessen
+gdc-coref,tgw6.0,132905,133064,ermischer,132992,133002,deiner Fra,frau_seifert
+gdc-coref,tgw6.0,132905,133064,ermischer,132992,132998,deiner,seifert
+gdc-coref,tgw6.0,132905,133064,ermischer,133005,133014,Allongsch,seifert
+gdc-coref,tgw6.0,133026,133064,_stage,133026,133033,Seifert,seifert
+gdc-coref,tgw6.0,133026,133064,_stage,133043,133047,sich,seifert
+gdc-coref,tgw6.0,133026,133064,_stage,133051,133063,großer Angst,in-schlotternder-Angst-(seifert)
+gdc-coref,tgw6.0,133068,133099,ulbrich,133090,133098,der Kerl,seifert
+gdc-coref,tgw6.0,133104,133297,neubert,133119,133122,Mir,neubert
+gdc-coref,tgw6.0,133104,133297,neubert,133129,133138,die Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,133104,133297,neubert,133174,133176,es,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,133104,133297,neubert,133197,133200,ich,neubert
+gdc-coref,tgw6.0,133104,133297,neubert,133201,133215,im Gemeinderat,den-Gemeenderat
+gdc-coref,tgw6.0,133104,133297,neubert,133232,133244,Herr Gendarm,weigel
+gdc-coref,tgw6.0,133104,133297,neubert,133280,133287,'n Bier,een-Glas-(bier)
+gdc-coref,tgw6.0,133104,133297,neubert,133289,133296,Ulbrich,ulbrich
+gdc-coref,tgw6.0,133302,133423,weigel,133333,133345,Herr Neubert,neubert
+gdc-coref,tgw6.0,133302,133423,weigel,133350,133353,Ich,weigel
+gdc-coref,tgw6.0,133302,133423,weigel,133360,133372,Herr Neubert,neubert
+gdc-coref,tgw6.0,133302,133423,weigel,133380,133384,sich,neubert
+gdc-coref,tgw6.0,133302,133423,weigel,133389,133404,den Gemeinderat,den-Gemeenderat
+gdc-coref,tgw6.0,133428,133555,neubert,133464,133468,mich,neubert
+gdc-coref,tgw6.0,133428,133555,neubert,133491,133494,ich,neubert
+gdc-coref,tgw6.0,133428,133555,neubert,133519,133522,ich,neubert
+gdc-coref,tgw6.0,133428,133555,neubert,133537,133540,man,Leute-(in-um-das-dorf-evtl-die-gemeinde)
+gdc-coref,tgw6.0,133428,133555,neubert,133541,133545,mich,neubert
+gdc-coref,tgw6.0,133560,133691,weigel,133585,133678,"niemand hier unter Ulbrichs Gästen sein, der Herr Neubert nich' mit Freuden seine Stimme gäbe","niemand-hier-unter-Ulbrichs-Gästen-sein,-der-Herr-Neubert-nich'-mit-------------Freuden-seine-Stimme-gäbe"
+gdc-coref,tgw6.0,133560,133691,weigel,133604,133612,Ulbrichs,ulbrich
+gdc-coref,tgw6.0,133560,133691,weigel,133626,133629,der,"niemand-hier-unter-Ulbrichs-Gästen-sein,-der-Herr-Neubert-nich'-mit-------------Freuden-seine-Stimme-gäbe"
+gdc-coref,tgw6.0,133560,133691,weigel,133630,133642,Herr Neubert,neubert
+gdc-coref,tgw6.0,133681,133691,_stage,133681,133690,Schweigen,Schweigen
+gdc-coref,tgw6.0,133705,133721,_stage,133705,133720,höhnische Lache,höhnische-Lache-(schönherr)
+gdc-coref,tgw6.0,133725,134073,weigel,133746,133749,Sie,schoenherr
+gdc-coref,tgw6.0,133725,134073,weigel,133767,133788,Herr Verleger Neubert,neubert
+gdc-coref,tgw6.0,133725,134073,weigel,133792,133836,"ein bereister Mann, der die Welt gesehen hat","ein-bereister-Mann,-der-die-------------Welt-gesehen-hat-(prädikativ-neubert)"
+gdc-coref,tgw6.0,133725,134073,weigel,133812,133815,der,"ein-bereister-Mann,-der-die-------------Welt-gesehen-hat-(prädikativ-neubert)"
+gdc-coref,tgw6.0,133725,134073,weigel,133838,133840,Er,neubert
+gdc-coref,tgw6.0,133725,134073,weigel,133869,133871,er,neubert
+gdc-coref,tgw6.0,133725,134073,weigel,133941,133943,er,neubert
+gdc-coref,tgw6.0,133725,134073,weigel,133986,134009,der hiesige Gemeinderat,den-Gemeenderat
+gdc-coref,tgw6.0,133725,134073,weigel,134023,134026,Der,neubert
+gdc-coref,tgw6.0,133725,134073,weigel,134037,134044,Ordnung,dem-Rechten
+gdc-coref,tgw6.0,133725,134073,weigel,134060,134072,Herr Neubert,neubert
+gdc-coref,tgw6.0,134078,134154,neubert,134087,134154,"O gewiß. Ordnung ... Wo ich Schlumperei sehe, fahr' ich dazwischen.",ihr's2
+gdc-coref,tgw6.0,134078,134154,neubert,134096,134103,Ordnung,dem-Rechten
+gdc-coref,tgw6.0,134078,134154,neubert,134111,134114,ich,neubert
+gdc-coref,tgw6.0,134078,134154,neubert,134115,134126,Schlumperei,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,134078,134154,neubert,134139,134142,ich,neubert
+gdc-coref,tgw6.0,134159,134277,weigel,134184,134189,ihr's,ihr's2
+gdc-coref,tgw6.0,134159,134277,weigel,134194,134244,Und Schlumperei gibt's doch in der Gemeinde genug.,sehr-zutreffende-Andeutungen
+gdc-coref,tgw6.0,134159,134277,weigel,134198,134209,Schlumperei,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,134159,134277,weigel,134225,134237,der Gemeinde,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,134246,134277,_stage,134266,134276,der Bauern,die_bauern
+gdc-coref,tgw6.0,134281,134438,ermischer,134309,134322,der Schandarm,weigel
+gdc-coref,tgw6.0,134281,134438,ermischer,134339,134342,ich,ermischer
+gdc-coref,tgw6.0,134281,134438,ermischer,134359,134374,die Schlumperei,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,134387,134438,_stage,134387,134394,Neubert,neubert
+gdc-coref,tgw6.0,134387,134438,_stage,134399,134405,Weigel,weigel
+gdc-coref,tgw6.0,134442,134471,weigel,134455,134458,ich,weigel
+gdc-coref,tgw6.0,134476,134552,neubert,134497,134500,Sie,weigel
+gdc-coref,tgw6.0,134557,134634,weigel,134585,134588,Sie,ermischer
+gdc-coref,tgw6.0,134639,134756,ermischer,134667,134685,»lieber Ermischer«,»lieber-Ermischer«
+gdc-coref,tgw6.0,134639,134756,ermischer,134687,134690,des,»lieber-Ermischer«
+gdc-coref,tgw6.0,134639,134756,ermischer,134716,134719,Ich,ermischer
+gdc-coref,tgw6.0,134639,134756,ermischer,134740,134755,»lieber Weigel«,»lieber-Weigel«
+gdc-coref,tgw6.0,134761,134808,weigel,134769,134772,Das,»lieber-Weigel«
+gdc-coref,tgw6.0,134761,134808,weigel,134779,134782,ich,weigel
+gdc-coref,tgw6.0,134761,134808,weigel,134783,134786,mir,weigel
+gdc-coref,tgw6.0,134813,134851,ermischer,134828,134831,ich,ermischer
+gdc-coref,tgw6.0,134813,134851,ermischer,134841,134844,mir,ermischer
+gdc-coref,tgw6.0,134813,134851,ermischer,134845,134848,des,»lieber-Ermischer«
+gdc-coref,tgw6.0,134856,135137,weigel,134893,134896,Ich,weigel
+gdc-coref,tgw6.0,134856,135137,weigel,134903,134910,manches,den-Dienst-(weigel)
+gdc-coref,tgw6.0,134856,135137,weigel,134949,134952,ich,weigel
+gdc-coref,tgw6.0,134856,135137,weigel,135051,135054,ich,weigel
+gdc-coref,tgw6.0,134856,135137,weigel,135059,135072,»Schlumperei«,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,134856,135137,weigel,135085,135088,ich,weigel
+gdc-coref,tgw6.0,134856,135137,weigel,135103,135116,was ich meine,Sie's
+gdc-coref,tgw6.0,134856,135137,weigel,135107,135110,ich,weigel
+gdc-coref,tgw6.0,134856,135137,weigel,135128,135131,Sie,ermischer
+gdc-coref,tgw6.0,134856,135137,weigel,135132,135136,mich,weigel
+gdc-coref,tgw6.0,135142,135212,ermischer,135170,135185,Herr Schandarme,weigel
+gdc-coref,tgw6.0,135142,135212,ermischer,135201,135206,Sie's,Sie's
+gdc-coref,tgw6.0,135142,135212,ermischer,135201,135204,Sie,weigel
+gdc-coref,tgw6.0,135217,135392,weigel,135240,135243,Ich,weigel
+gdc-coref,tgw6.0,135217,135392,weigel,135260,135327,"'ne gewisse Gemeinde, wo's nächstens 'nen großen Wechsel geben wird",der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,135217,135392,weigel,135282,135284,wo,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,135217,135392,weigel,135332,135351,den oberen Regionen,dem-Posten-(dienst-ermischer)
+gdc-coref,tgw6.0,135217,135392,weigel,135372,135376,sich,ermischer
+gdc-coref,tgw6.0,135217,135392,weigel,135377,135382,einer,ermischer
+gdc-coref,tgw6.0,135397,135490,ermischer,135425,135428,Ich,ermischer
+gdc-coref,tgw6.0,135397,135490,ermischer,135457,135460,mir,ermischer
+gdc-coref,tgw6.0,135397,135490,ermischer,135466,135480,een Zuckerbier,een-Glas-(bier)
+gdc-coref,tgw6.0,135397,135490,ermischer,135482,135489,Ulbrich,ulbrich
+gdc-coref,tgw6.0,135495,135574,neubert,135504,135507,Sie,weigel
+gdc-coref,tgw6.0,135495,135574,neubert,135523,135551,sehr zutreffende Andeutungen,sehr-zutreffende-Andeutungen
+gdc-coref,tgw6.0,135579,135681,weigel,135615,135618,ich,weigel
+gdc-coref,tgw6.0,135579,135681,weigel,135623,135636,»Schlumperei«,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,135579,135681,weigel,135651,135654,ich,weigel
+gdc-coref,tgw6.0,135579,135681,weigel,135665,135668,ich,weigel
+gdc-coref,tgw6.0,135686,135781,neubert,135708,135711,man,man-(der-mensch)
+gdc-coref,tgw6.0,135686,135781,neubert,135720,135724,sich,man-(der-mensch)
+gdc-coref,tgw6.0,135686,135781,neubert,135761,135777,der Gemeindewege,der-Gemeindewege
+gdc-coref,tgw6.0,135786,135848,weigel,135822,135826,'was,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,135786,135848,weigel,135837,135838,s,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,135853,135927,ermischer,135864,135886,Eso eene arme Gemeende,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,135933,136076,die_bauern,135961,135964,Uns,die_bauern
+gdc-coref,tgw6.0,135933,136076,die_bauern,135970,135986,die Gemeendewege,der-Gemeindewege
+gdc-coref,tgw6.0,135933,136076,die_bauern,136001,136004,Mir,die_bauern
+gdc-coref,tgw6.0,135933,136076,die_bauern,136047,136050,Mir,die_bauern
+gdc-coref,tgw6.0,136081,136224,neubert,136094,136115,die Gemeindefeuerwehr,die-Gemeindefeuerwehr
+gdc-coref,tgw6.0,136081,136224,neubert,136124,136127,Sie,weigel
+gdc-coref,tgw6.0,136081,136224,neubert,136155,136161,meiner,neubert
+gdc-coref,tgw6.0,136081,136224,neubert,136182,136185,sie,die-Gemeindefeuerwehr
+gdc-coref,tgw6.0,136081,136224,neubert,136201,136223,'ne brauchbare Spritze,'ne-brauchbare-Spritze
+gdc-coref,tgw6.0,136229,136259,ermischer,136240,136243,Mir,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,136264,136386,die_bauern,136303,136306,mir,die_bauern
+gdc-coref,tgw6.0,136264,136386,die_bauern,136307,136323,'ne Feuerspritze,'ne-brauchbare-Spritze
+gdc-coref,tgw6.0,136264,136386,die_bauern,136327,136330,Mir,die_bauern
+gdc-coref,tgw6.0,136264,136386,die_bauern,136359,136362,Mir,die_bauern
+gdc-coref,tgw6.0,136391,136505,ulbrich,136401,136402,s,s-(der-Zustand-der-gemeinde-allg)
+gdc-coref,tgw6.0,136391,136505,ulbrich,136417,136418,s,s-(der-Zustand-der-gemeinde-allg)
+gdc-coref,tgw6.0,136391,136505,ulbrich,136425,136428,ich,ulbrich
+gdc-coref,tgw6.0,136391,136505,ulbrich,136468,136489,den Gemeendefierstand,ermischer
+gdc-coref,tgw6.0,136510,136623,schoenherr,136534,136537,m'r,man-(der-mensch)
+gdc-coref,tgw6.0,136510,136623,schoenherr,136551,136564,der Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,136510,136623,schoenherr,136565,136578,sein Eigentum,deine-Katze
+gdc-coref,tgw6.0,136510,136623,schoenherr,136565,136569,sein,neumerkel-bb
+gdc-coref,tgw6.0,136510,136623,schoenherr,136602,136605,mir,
+gdc-coref,tgw6.0,136628,136761,weigel,136650,136658,der Mann,neumerkel-bb
+gdc-coref,tgw6.0,136628,136761,weigel,136659,136672,sein Eigentum,deine-Katze
+gdc-coref,tgw6.0,136628,136761,weigel,136659,136663,sein,neumerkel-bb
+gdc-coref,tgw6.0,136628,136761,weigel,136715,136724,die Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,136628,136761,weigel,136731,136734,ich,weigel
+gdc-coref,tgw6.0,136628,136761,weigel,136735,136739,mich,weigel
+gdc-coref,tgw6.0,136786,136832,_stage,136801,136803,er,seifert
+gdc-coref,tgw6.0,136786,136832,_stage,136820,136831,seiner Frau,frau_seifert
+gdc-coref,tgw6.0,136786,136832,_stage,136820,136826,seiner,seifert
+gdc-coref,tgw6.0,136836,136942,die_waldarbeiter,136854,136865,der Seifert,seifert
+gdc-coref,tgw6.0,136836,136942,die_waldarbeiter,136869,136871,Er,seifert
+gdc-coref,tgw6.0,136836,136942,die_waldarbeiter,136876,136886,seine Fra',frau_seifert
+gdc-coref,tgw6.0,136836,136942,die_waldarbeiter,136876,136881,seine,seifert
+gdc-coref,tgw6.0,136836,136942,die_waldarbeiter,136902,136904,Er,seifert
+gdc-coref,tgw6.0,136836,136942,die_waldarbeiter,136912,136921,die Katz',deine-Katze
+gdc-coref,tgw6.0,136947,137029,frau_seifert,136967,136972,T-a-g,"Tag-ooch-(begrüßungsfloskel,-evtl-dasgleiche-wie-der-tag-des-vierten-aktes)"
+gdc-coref,tgw6.0,136947,137029,frau_seifert,137013,137024,meinen Mann,seifert
+gdc-coref,tgw6.0,136947,137029,frau_seifert,137013,137019,meinen,frau_seifert
+gdc-coref,tgw6.0,137034,137087,ermischer,137056,137058,'r,seifert-/-frau_seifert
+gdc-coref,tgw6.0,137034,137087,ermischer,137059,137068,die Katz',deine-Katze
+gdc-coref,tgw6.0,137092,137161,neumerkel,137113,137116,Ich,neumerkel
+gdc-coref,tgw6.0,137092,137161,neumerkel,137126,137139,mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,137092,137161,neumerkel,137126,137130,mein,neumerkel
+gdc-coref,tgw6.0,137092,137161,neumerkel,137147,137160,mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,137092,137161,neumerkel,137147,137151,mein,neumerkel
+gdc-coref,tgw6.0,137166,137229,schoenherr,137181,137183,du,neumerkel-bb
+gdc-coref,tgw6.0,137166,137229,schoenherr,137202,137205,des,deine-Katze
+gdc-coref,tgw6.0,137166,137229,schoenherr,137211,137215,sich,deine-Katze
+gdc-coref,tgw6.0,137234,137337,frau_seifert,137248,137251,Ich,frau_seifert
+gdc-coref,tgw6.0,137234,137337,frau_seifert,137271,137297,Die Katz' is uff un' davon,Des-(der-umstand-dass-die-katze-weg-ist-und-nicht-zurückgegeben-werden-kann)
+gdc-coref,tgw6.0,137234,137337,frau_seifert,137271,137280,Die Katz',deine-Katze
+gdc-coref,tgw6.0,137300,137337,_stage,137300,137304,Alle,frau_ulbrich-/-die_waldarbeiter-+-8
+gdc-coref,tgw6.0,137341,137404,weigel,137354,137357,ich,weigel
+gdc-coref,tgw6.0,137341,137404,weigel,137358,137359,s,sehr-zutreffende-Andeutungen
+gdc-coref,tgw6.0,137341,137404,weigel,137383,137386,man,man-(der-mensch)
+gdc-coref,tgw6.0,137341,137404,weigel,137387,137388,s,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,137409,137489,ulbrich,137418,137421,Des,Des-(der-umstand-dass-die-katze-weg-ist-und-nicht-zurückgegeben-werden-kann)
+gdc-coref,tgw6.0,137409,137489,ulbrich,137443,137461,Dem armen Menschen,neumerkel-bb
+gdc-coref,tgw6.0,137409,137489,ulbrich,137472,137488,s größte Unrecht,Schlumperei-(unrecht-politische-schlamperei)
+gdc-coref,tgw6.0,137494,137584,neumerkel,137505,137508,Ich,neumerkel
+gdc-coref,tgw6.0,137494,137584,neumerkel,137518,137531,mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,137494,137584,neumerkel,137518,137522,mein,neumerkel
+gdc-coref,tgw6.0,137494,137584,neumerkel,137539,137542,Ich,neumerkel
+gdc-coref,tgw6.0,137494,137584,neumerkel,137557,137560,ich,neumerkel
+gdc-coref,tgw6.0,137494,137584,neumerkel,137570,137583,mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,137494,137584,neumerkel,137570,137574,mein,neumerkel
+gdc-coref,tgw6.0,137589,137686,schoenherr,137607,137620,"Neimerkel, du",neumerkel-bb
+gdc-coref,tgw6.0,137589,137686,schoenherr,137668,137671,ich,schoenherr
+gdc-coref,tgw6.0,137691,137832,ermischer,137702,137705,Des,deine-Katze
+gdc-coref,tgw6.0,137691,137832,ermischer,137737,137748,der Seifert,seifert
+gdc-coref,tgw6.0,137691,137832,ermischer,137753,137755,se,deine-Katze
+gdc-coref,tgw6.0,137691,137832,ermischer,137759,137769,Verwahrung,"Verwahrung-(obhut-der-katze,-seiferts)"
+gdc-coref,tgw6.0,137691,137832,ermischer,137789,137791,se,deine-Katze
+gdc-coref,tgw6.0,137691,137832,ermischer,137804,137807,des,seifert
+gdc-coref,tgw6.0,137838,137950,frau_seifert,137856,137859,mir,
+gdc-coref,tgw6.0,137838,137950,frau_seifert,137884,137886,se,deine-Katze
+gdc-coref,tgw6.0,137838,137950,frau_seifert,137897,137900,mir,frau_seifert
+gdc-coref,tgw6.0,137838,137950,frau_seifert,137908,137910,se,deine-Katze
+gdc-coref,tgw6.0,137838,137950,frau_seifert,137936,137950,die Kosten ...,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,137955,137997,schoenherr,137966,137978,Mei' Gesell',neumerkel-bb
+gdc-coref,tgw6.0,137955,137997,schoenherr,137983,137988,alles,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,138002,138108,frau_seifert,138028,138034,O Gott,Herrgott-(wohl-floskel)
+gdc-coref,tgw6.0,138002,138108,frau_seifert,138036,138042,o Gott,Herrgott-(wohl-floskel)
+gdc-coref,tgw6.0,138002,138108,frau_seifert,138044,138050,o Gott,Herrgott-(wohl-floskel)
+gdc-coref,tgw6.0,138002,138108,frau_seifert,138052,138054,Se,deine-Katze
+gdc-coref,tgw6.0,138002,138108,frau_seifert,138063,138066,Ich,frau_seifert
+gdc-coref,tgw6.0,138002,138108,frau_seifert,138093,138095,du,seifert
+gdc-coref,tgw6.0,138113,138151,neumerkel,138124,138137,Mein Eegentum,deine-Katze
+gdc-coref,tgw6.0,138113,138151,neumerkel,138124,138128,Mein,neumerkel
+gdc-coref,tgw6.0,138113,138151,neumerkel,138143,138150,'s Geld,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,138164,138197,_stage,138181,138190,der Stube,"Eine-Wohnstube,-die-in-ein-provisorisches-----------Schanklokal-umgewandelt-wurde"
+gdc-coref,tgw6.0,138209,138225,_stage,138212,138224,Frau Seifert,frau_seifert
+gdc-coref,tgw6.0,138201,138353,ulbrich,138237,138239,du,frau_seifert
+gdc-coref,tgw6.0,138201,138353,ulbrich,138248,138250,du,frau_seifert
+gdc-coref,tgw6.0,138201,138353,ulbrich,138258,138261,uns,frau_ulbrich-/-die_waldarbeiter-+-8
+gdc-coref,tgw6.0,138201,138353,ulbrich,138272,138278,deiner,frau_seifert
+gdc-coref,tgw6.0,138201,138353,ulbrich,138329,138332,wir,frau_ulbrich-/-die_waldarbeiter-+-8
+gdc-coref,tgw6.0,138201,138353,ulbrich,138335,138338,dir,frau_seifert
+gdc-coref,tgw6.0,138358,138400,ermischer,138375,138378,ihr,seifert-/-frau_seifert
+gdc-coref,tgw6.0,138405,138516,weigel,138418,138422,Ruhe,Schweigen
+gdc-coref,tgw6.0,138405,138516,weigel,138424,138433,Die Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,138405,138516,weigel,138444,138447,ich,weigel
+gdc-coref,tgw6.0,138405,138516,weigel,138457,138460,Das,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,138405,138516,weigel,138481,138484,ich,weigel
+gdc-coref,tgw6.0,138405,138516,weigel,138496,138501,Licht,s-(die-wahrheit-über-den-verbleib-der-katze)
+gdc-coref,tgw6.0,138521,138586,ulbrich,138538,138540,Se,weigel
+gdc-coref,tgw6.0,138521,138586,ulbrich,138577,138579,Se,weigel
+gdc-coref,tgw6.0,138591,138670,weigel,138638,138647,die Katze,deine-Katze
+gdc-coref,tgw6.0,138675,138815,frau_seifert,138689,138692,Ich,frau_seifert
+gdc-coref,tgw6.0,138675,138815,frau_seifert,138732,138815,een unbekannter Mon ... mit 'n schwarzen Mantel un' eenen großen schwarzen Bart ...,een-unbekannter-Mon-...-mit-'n-schwarzen-------------Mantel-un'-eenen-großen-schwarzen-Bart-...
+gdc-coref,tgw6.0,138820,139038,weigel,138828,138836,Den Mann,een-unbekannter-Mon-...-mit-'n-schwarzen-------------Mantel-un'-eenen-großen-schwarzen-Bart-...
+gdc-coref,tgw6.0,138820,139038,weigel,138843,138846,ich,weigel
+gdc-coref,tgw6.0,138820,139038,weigel,138848,138851,Der,een-unbekannter-Mon-...-mit-'n-schwarzen-------------Mantel-un'-eenen-großen-schwarzen-Bart-...
+gdc-coref,tgw6.0,138820,139038,weigel,138867,138877,den Dummen,den-Dummen
+gdc-coref,tgw6.0,138820,139038,weigel,138884,138887,sie,den-Dummen
+gdc-coref,tgw6.0,138820,139038,weigel,138888,138892,sich,den-Dummen
+gdc-coref,tgw6.0,138820,139038,weigel,138928,138942,Gemeindediener,seifert
+gdc-coref,tgw6.0,138820,139038,weigel,138970,138979,die Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,138820,139038,weigel,138996,138999,ich,weigel
+gdc-coref,tgw6.0,139043,139154,frau_seifert,139076,139091,Herr Schandarme,weigel
+gdc-coref,tgw6.0,139043,139154,frau_seifert,139093,139105,Herr Ulbrich,ulbrich
+gdc-coref,tgw6.0,139043,139154,frau_seifert,139110,139113,ich,frau_seifert
+gdc-coref,tgw6.0,139043,139154,frau_seifert,139132,139135,mir,
+gdc-coref,tgw6.0,139043,139154,frau_seifert,139141,139153,Freundschaft,Freundschaft-(prädikativ-die-seiferts-als-freund-der-anderen)
+gdc-coref,tgw6.0,139169,139185,_stage,139169,139184,höhnische Lache,höhnische-Lache-(schönherr)
+gdc-coref,tgw6.0,139159,139216,schoenherr,139195,139197,se,seifert-/-frau_seifert
+gdc-coref,tgw6.0,139159,139216,schoenherr,139203,139215,Freundschaft,Freundschaft-(prädikativ-die-seiferts-als-freund-der-anderen)
+gdc-coref,tgw6.0,139221,139262,ulbrich,139258,139261,ich,ulbrich
+gdc-coref,tgw6.0,139267,139496,weigel,139280,139283,ich,weigel
+gdc-coref,tgw6.0,139267,139496,weigel,139284,139293,im Dienst,den-Dienst-(weigel)
+gdc-coref,tgw6.0,139267,139496,weigel,139305,139308,ich,weigel
+gdc-coref,tgw6.0,139267,139496,weigel,139362,139369,Seifert,seifert
+gdc-coref,tgw6.0,139267,139496,weigel,139382,139391,Ihre Lage,Ihre-Lage-(situation-seiferts-bezügl-der-katze))
+gdc-coref,tgw6.0,139267,139496,weigel,139382,139386,Ihre,seifert
+gdc-coref,tgw6.0,139267,139496,weigel,139445,139448,Sie,seifert
+gdc-coref,tgw6.0,139267,139496,weigel,139477,139487,dem Dienst,im-Dienst-(seifert)
+gdc-coref,tgw6.0,139501,139643,seifert,139585,139588,ich,seifert
+gdc-coref,tgw6.0,139501,139643,seifert,139597,139600,ich,seifert
+gdc-coref,tgw6.0,139501,139643,seifert,139610,139620,dem Dienst,im-Dienst-(seifert)
+gdc-coref,tgw6.0,139501,139643,seifert,139628,139631,mir,seifert
+gdc-coref,tgw6.0,139648,139676,weigel,139668,139669,s,s-(die-wahrheit-über-den-verbleib-der-katze)
+gdc-coref,tgw6.0,139681,139724,frau_seifert,139695,139698,Mon,seifert
+gdc-coref,tgw6.0,139681,139724,frau_seifert,139700,139703,Mon,seifert
+gdc-coref,tgw6.0,139729,139796,ulbrich,139744,139746,du,frau_seifert
+gdc-coref,tgw6.0,139729,139796,ulbrich,139747,139758,deinen Mann,seifert
+gdc-coref,tgw6.0,139729,139796,ulbrich,139747,139753,deinen,ulbrich
+gdc-coref,tgw6.0,139801,139862,seifert,139810,139812,Se,deine-Katze
+gdc-coref,tgw6.0,139801,139862,seifert,139837,139840,mir,
+gdc-coref,tgw6.0,139801,139862,seifert,139846,139848,se,deine-Katze
+gdc-coref,tgw6.0,139873,139894,_stage,139876,139893,höchster Spannung,allgemeine-Spannung
+gdc-coref,tgw6.0,139905,140178,seifert,139914,139917,Ich,seifert
+gdc-coref,tgw6.0,139905,140178,seifert,139923,139926,ihr,deine-Katze
+gdc-coref,tgw6.0,139905,140178,seifert,139947,139957,meine Fra',frau_seifert
+gdc-coref,tgw6.0,139905,140178,seifert,139947,139952,meine,seifert
+gdc-coref,tgw6.0,139905,140178,seifert,139962,139964,se,deine-Katze
+gdc-coref,tgw6.0,139905,140178,seifert,139977,139985,ihr zwee,weigel-/-ulbrich
+gdc-coref,tgw6.0,139905,140178,seifert,139993,139999,Weigel,weigel
+gdc-coref,tgw6.0,139905,140178,seifert,140004,140011,Ulbrich,ulbrich
+gdc-coref,tgw6.0,139905,140178,seifert,140023,140026,ihr,weigel-/-ulbrich
+gdc-coref,tgw6.0,139905,140178,seifert,140032,140034,se,deine-Katze
+gdc-coref,tgw6.0,140048,140178,_stage,140048,140054,Weigel,weigel
+gdc-coref,tgw6.0,140048,140178,_stage,140059,140066,Ulbrich,ulbrich
+gdc-coref,tgw6.0,140048,140178,_stage,140091,140134,"Die Leute, die einen Augenblick starr waren",frau_ulbrich-/-die_waldarbeiter-+-4
+gdc-coref,tgw6.0,140048,140178,_stage,140102,140105,die,frau_ulbrich-/-die_waldarbeiter-+-4
+gdc-coref,tgw6.0,140048,140178,_stage,140147,140173,ein endloses Hohngelächter,Gelächter
+gdc-coref,tgw6.0,140182,140262,ulbrich,140191,140194,Ihr,seifert-/-frau_seifert
+gdc-coref,tgw6.0,140182,140262,ulbrich,140209,140212,ihr,seifert-/-frau_seifert
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140304,140307,Mir,seifert-/-frau_seifert
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140331,140334,mir,
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140431,140433,'r,weigel-/-ulbrich
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140447,140449,'r,weigel-/-ulbrich
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140450,140460,meinen Mon,seifert
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140450,140456,meinen,frau_seifert
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140464,140477,seinen Posten,im-Dienst-(seifert)
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140464,140470,seinen,seifert
+gdc-coref,tgw6.0,140267,140513,frau_seifert,140493,140496,mir,frau_seifert
+gdc-coref,tgw6.0,140503,140513,_stage,140503,140512,Gelächter,Gelächter
+gdc-coref,tgw6.0,140525,140640,_stage,140532,140536,sich,ulbrich
+gdc-coref,tgw6.0,140525,140640,_stage,140575,140590,den Schanktisch,ein-kleiner-Tisch-mit-Biergläsern
+gdc-coref,tgw6.0,140525,140640,_stage,140594,140605,seiner Frau,frau_ulbrich
+gdc-coref,tgw6.0,140525,140640,_stage,140594,140600,seiner,ulbrich
+gdc-coref,tgw6.0,140525,140640,_stage,140614,140616,er,ulbrich
+gdc-coref,tgw6.0,140644,140691,neumerkel,140655,140668,Mei' Eegentum,deine-Katze
+gdc-coref,tgw6.0,140644,140691,neumerkel,140676,140684,Mei Geld,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,140696,140829,ermischer,140715,140718,ich,ermischer
+gdc-coref,tgw6.0,140696,140829,ermischer,140719,140723,mich,ermischer
+gdc-coref,tgw6.0,140696,140829,ermischer,140724,140733,der Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,140696,140829,ermischer,140749,140756,Seifert,seifert
+gdc-coref,tgw6.0,140696,140829,ermischer,140768,140784,uffs Gemeendeamt,uff'm-Gemeendeamt
+gdc-coref,tgw6.0,140696,140829,ermischer,140790,140793,mir,ermischer
+gdc-coref,tgw6.0,140834,141092,seifert,140853,140864,Mein Posten,im-Dienst-(seifert)
+gdc-coref,tgw6.0,140834,141092,seifert,140853,140857,Mein,seifert
+gdc-coref,tgw6.0,140834,141092,seifert,140881,140884,ich,seifert
+gdc-coref,tgw6.0,140834,141092,seifert,140897,140909,'ne Gemeende,'ne-Gemeende
+gdc-coref,tgw6.0,140834,141092,seifert,140918,140921,die,'ne-Gemeende
+gdc-coref,tgw6.0,140834,141092,seifert,140922,140948,eenen tücht'gen Poll'zeier,seifert
+gdc-coref,tgw6.0,140959,141092,_stage,140959,140961,Er,seifert
+gdc-coref,tgw6.0,140959,141092,_stage,140973,140996,dem Gelächter der Leute,Gelächter
+gdc-coref,tgw6.0,140959,141092,_stage,140987,140996,der Leute,frau_ulbrich-/-die_waldarbeiter-+-4
+gdc-coref,tgw6.0,140959,141092,_stage,141010,141022,"seiner Frau,",frau_seifert
+gdc-coref,tgw6.0,140959,141092,_stage,141010,141016,seiner,seifert
+gdc-coref,tgw6.0,140959,141092,_stage,141037,141044,der Tür,die-Türe-zum-Hausflur-(schanklokal-ulbrichs)
+gdc-coref,tgw6.0,140959,141092,_stage,141052,141056,sich,frau_seifert
+gdc-coref,tgw6.0,140959,141092,_stage,141057,141062,diese,frau_seifert
+gdc-coref,tgw6.0,140959,141092,_stage,141078,141088,die Bauern,die_bauern
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141120,141139,ihr Kartuffelbauern,die_bauern
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141140,141144,euch,die_bauern
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141174,141177,ihr,die_bauern
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141178,141194,euren Poll'zeier,seifert
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141178,141183,euren,die_bauern
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141219,141226,den Tag,alle-Tage
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141242,141245,ihr,die_bauern
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141246,141249,ihm,seifert
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141268,141278,Verwahrung,"Verwahrung-(obhut-der-katze,-seiferts)"
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141292,141303,ihrem Manne,seifert
+gdc-coref,tgw6.0,141096,141331,frau_seifert,141292,141297,ihrem,frau_seifert
+gdc-coref,tgw6.0,141311,141331,_stage,141311,141330,Gelächter der Leute,Gelächter
+gdc-coref,tgw6.0,141311,141331,_stage,141321,141330,der Leute,frau_ulbrich-/-die_waldarbeiter-+-4
+gdc-coref,tgw6.0,141342,141457,_stage,141342,141345,der,weigel
+gdc-coref,tgw6.0,141342,141457,_stage,141404,141408,sich,weigel
+gdc-coref,tgw6.0,141342,141457,_stage,141447,141456,Ermischer,ermischer
+gdc-coref,tgw6.0,141335,141608,weigel,141458,141479,Herr Gemeindevorstand,ermischer
+gdc-coref,tgw6.0,141335,141608,weigel,141486,141489,ich,weigel
+gdc-coref,tgw6.0,141335,141608,weigel,141504,141513,der Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,141335,141608,weigel,141518,141521,ich,weigel
+gdc-coref,tgw6.0,141335,141608,weigel,141532,141553,Ihre gütige Nachsicht,Ihre-gütige-------------Nachsicht-(ermischer-ggü-weigel)
+gdc-coref,tgw6.0,141335,141608,weigel,141532,141536,Ihre,ermischer
+gdc-coref,tgw6.0,141335,141608,weigel,141558,141563,meine,weigel
+gdc-coref,tgw6.0,141613,141725,ermischer,141624,141627,Ich,ermischer
+gdc-coref,tgw6.0,141613,141725,ermischer,141651,141654,Das,Ihre-gütige-------------Nachsicht-(ermischer-ggü-weigel)
+gdc-coref,tgw6.0,141613,141725,ermischer,141660,141664,sich,Ihre-gütige-------------Nachsicht-(ermischer-ggü-weigel)
+gdc-coref,tgw6.0,141613,141725,ermischer,141676,141681,Ihrem,weigel
+gdc-coref,tgw6.0,141730,141824,weigel,141794,141800,Befehl,Befehl-(anweisung-ermischers)
+gdc-coref,tgw6.0,141730,141824,weigel,141802,141823,Herr Gemeindevorstand,ermischer
+gdc-coref,tgw6.0,141830,141917,ermischer,141841,141844,Ich,ermischer
+gdc-coref,tgw6.0,141830,141917,ermischer,141850,141859,die Sach',die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,141830,141917,ermischer,141871,141874,Sie,weigel
+gdc-coref,tgw6.0,141830,141917,ermischer,141896,141899,Sie,weigel
+gdc-coref,tgw6.0,141922,141963,weigel,141933,141939,Befehl,Befehl-(anweisung-ermischers)
+gdc-coref,tgw6.0,141922,141963,weigel,141941,141962,Herr Gemeindevorstand,ermischer
+gdc-coref,tgw6.0,141968,142094,ermischer,141986,141990,sich,irgend-een-Entschuldigungsgrund
+gdc-coref,tgw6.0,141968,142094,ermischer,141991,142022,irgend een Entschuldigungsgrund,irgend-een-Entschuldigungsgrund
+gdc-coref,tgw6.0,141968,142094,ermischer,142032,142035,ich,ermischer
+gdc-coref,tgw6.0,141968,142094,ermischer,142036,142040,mich,ermischer
+gdc-coref,tgw6.0,141968,142094,ermischer,142041,142046,Ihrer,weigel
+gdc-coref,tgw6.0,141968,142094,ermischer,142069,142093,lieber ... lieber Weigel,weigel
+gdc-coref,tgw6.0,142099,142184,weigel,142144,142148,mich,weigel
+gdc-coref,tgw6.0,142099,142184,weigel,142162,142183,Herr Gemeindevorstand,ermischer
+gdc-coref,tgw6.0,142189,142256,ermischer,142215,142218,ich,ermischer
+gdc-coref,tgw6.0,142189,142256,ermischer,142219,142224,Ihnen,weigel
+gdc-coref,tgw6.0,142261,142411,weigel,142277,142280,ich,weigel
+gdc-coref,tgw6.0,142261,142411,weigel,142291,142295,mich,weigel
+gdc-coref,tgw6.0,142261,142411,weigel,142296,142322,dem Herrn Gemeindevorstand,ermischer
+gdc-coref,tgw6.0,142261,142411,weigel,142393,142396,ihm,weigel
+gdc-coref,tgw6.0,142261,142411,weigel,142401,142410,Gelächter,Gelächter
+gdc-coref,tgw6.0,142416,142453,ermischer,142427,142430,Den,weigel
+gdc-coref,tgw6.0,142416,142453,ermischer,142436,142439,ich,ermischer
+gdc-coref,tgw6.0,142458,142507,neumerkel,142473,142506,was wird denn nu mit meinem Gelde,s
+gdc-coref,tgw6.0,142458,142507,neumerkel,142494,142506,meinem Gelde,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,142458,142507,neumerkel,142494,142500,meinem,neumerkel
+gdc-coref,tgw6.0,142512,142599,ermischer,142528,142529,s,s
+gdc-coref,tgw6.0,142512,142599,ermischer,142544,142559,Der Gemeenderat,den-Gemeenderat
+gdc-coref,tgw6.0,142512,142599,ermischer,142586,142592,wirste,neumerkel-bb
+gdc-coref,tgw6.0,142604,142714,schoenherr,142623,142625,er,neumerkel-bb
+gdc-coref,tgw6.0,142604,142714,schoenherr,142637,142640,Ich,schoenherr
+gdc-coref,tgw6.0,142604,142714,schoenherr,142653,142655,er,neumerkel-bb
+gdc-coref,tgw6.0,142604,142714,schoenherr,142656,142669,sein Eegentum,deine-Katze
+gdc-coref,tgw6.0,142604,142714,schoenherr,142656,142660,sein,neumerkel-bb
+gdc-coref,tgw6.0,142604,142714,schoenherr,142688,142690,er,neumerkel-bb
+gdc-coref,tgw6.0,142604,142714,schoenherr,142691,142700,sein Geld,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,142604,142714,schoenherr,142691,142695,sein,neumerkel-bb
+gdc-coref,tgw6.0,142719,142869,ermischer,142730,142741,Der Schaden,die-Verfahrenskosten…-/-die-Verpflägungskost…-+-2
+gdc-coref,tgw6.0,142719,142869,ermischer,142768,142780,Herr Neibert,neubert
+gdc-coref,tgw6.0,142719,142869,ermischer,142786,142791,seine,neubert
+gdc-coref,tgw6.0,142719,142869,ermischer,142806,142821,die ganze Sache,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,142719,142869,ermischer,142831,142833,Er,neubert
+gdc-coref,tgw6.0,142719,142869,ermischer,142843,142868,vier Daler Schadensersatz,vier-Daler-Schadensersatz
+gdc-coref,tgw6.0,142882,142916,_stage,142882,142885,der,neubert
+gdc-coref,tgw6.0,142874,143088,neubert,142931,142934,Sie,ermischer
+gdc-coref,tgw6.0,142874,143088,neubert,142948,142960,die Gemeinde,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,142874,143088,neubert,142982,142985,Sie,ermischer
+gdc-coref,tgw6.0,142874,143088,neubert,142986,142989,mir,neubert
+gdc-coref,tgw6.0,142874,143088,neubert,142995,143009,die Geschichte,die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,142874,143088,neubert,143052,143055,ich,neubert
+gdc-coref,tgw6.0,142874,143088,neubert,143067,143087,allen Schadensersatz,vier-Daler-Schadensersatz
+gdc-coref,tgw6.0,143103,143122,_stage,143111,143121,den Leuten,frau_ulbrich-/-die_waldarbeiter-+-5
+gdc-coref,tgw6.0,143093,143231,schoenherr,143128,143131,ihr,frau_ulbrich-/-die_waldarbeiter-+-5
+gdc-coref,tgw6.0,143093,143231,schoenherr,143132,143133,s,s2
+gdc-coref,tgw6.0,143093,143231,schoenherr,143142,143184,Herr Neibert verzichtet uff Schadensersatz,s2
+gdc-coref,tgw6.0,143093,143231,schoenherr,143142,143154,Herr Neibert,neubert
+gdc-coref,tgw6.0,143093,143231,schoenherr,143170,143184,Schadensersatz,vier-Daler-Schadensersatz
+gdc-coref,tgw6.0,143093,143231,schoenherr,143193,143202,Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,143093,143231,schoenherr,143203,143217,die vier Daler,vier-Daler-Schadensersatz
+gdc-coref,tgw6.0,143281,143343,_stage,143287,143326,"Neubert, der ihm den Rücken gekehrt hat",neubert
+gdc-coref,tgw6.0,143281,143343,_stage,143296,143299,der,neubert
+gdc-coref,tgw6.0,143281,143343,_stage,143300,143303,ihm,ermischer
+gdc-coref,tgw6.0,143271,143513,ermischer,143353,143356,des,s2
+gdc-coref,tgw6.0,143271,143513,ermischer,143357,143371,Herrn Neiberts,neubert
+gdc-coref,tgw6.0,143271,143513,ermischer,143389,143392,ich,ermischer
+gdc-coref,tgw6.0,143271,143513,ermischer,143419,143429,vier Taler,vier---------------Taler-(schadensersatzzahlung-die-neumerkel-zurückerhält)
+gdc-coref,tgw6.0,143271,143513,ermischer,143434,143443,den Tisch,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,143271,143513,ermischer,143452,143470,der Schadensersatz,vier---------------Taler-(schadensersatzzahlung-die-neumerkel-zurückerhält)
+gdc-coref,tgw6.0,143473,143513,_stage,143473,143482,Neumerkel,neumerkel-bb
+gdc-coref,tgw6.0,143473,143513,_stage,143492,143500,das Geld,vier---------------Taler-(schadensersatzzahlung-die-neumerkel-zurückerhält)
+gdc-coref,tgw6.0,143517,143674,neubert,143526,143529,Das,s2
+gdc-coref,tgw6.0,143517,143674,neubert,143540,143543,das,s2
+gdc-coref,tgw6.0,143517,143674,neubert,143569,143572,ich,neubert
+gdc-coref,tgw6.0,143517,143674,neubert,143620,143634,diese Seiferts,seifert-/-frau_seifert
+gdc-coref,tgw6.0,143517,143674,neubert,143635,143653,Verpflegungskosten,die-Verpflägungskosten-xxx
+gdc-coref,tgw6.0,143679,143770,ermischer,143698,143701,Sie,neubert
+gdc-coref,tgw6.0,143679,143770,ermischer,143714,143728,Lage der Sach',Ihre-Lage-(situation-seiferts-bezügl-der-katze))
+gdc-coref,tgw6.0,143679,143770,ermischer,143719,143728,der Sach',die-Sache-(die-umstände-um-die-rückgabe-der-katze-an-neumerkel)
+gdc-coref,tgw6.0,143679,143770,ermischer,143736,143747,der Seifeit,seifert
+gdc-coref,tgw6.0,143775,143829,neubert,143801,143804,Sie,ermischer
+gdc-coref,tgw6.0,143775,143829,neubert,143815,143818,das,die-Verpflägungskosten-xxx
+gdc-coref,tgw6.0,143845,143869,_stage,143850,143854,Geld,Geld-(rückzahlung-verpflegungsgeld-an-neumerkel)
+gdc-coref,tgw6.0,143845,143869,_stage,143859,143868,den Tisch,einem-leeren-Tische-(ermischer-und-bauern-im-schanklokal)
+gdc-coref,tgw6.0,143835,143943,ermischer,143887,143914,zwee Daler Verpflegungsgeld,Geld-(rückzahlung-verpflegungsgeld-an-neumerkel)
+gdc-coref,tgw6.0,143917,143943,_stage,143917,143926,Neumerkel,neumerkel-bb
+gdc-coref,tgw6.0,143917,143943,_stage,143936,143938,es,Geld-(rückzahlung-verpflegungsgeld-an-neumerkel)
+gdc-coref,tgw6.0,143947,144106,schoenherr,143979,143998,n Verfahrungskosten,die-Verfahrenskosten-xxx
+gdc-coref,tgw6.0,143947,144106,schoenherr,144000,144106,"Wie kommt der Neimerkel dazu, der Gemeende Verfahrungskosten zu bezahlen, wenn des Objekt verschwunden is?",Das2
+gdc-coref,tgw6.0,143947,144106,schoenherr,144010,144023,der Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,143947,144106,schoenherr,144030,144042,der Gemeende,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,143947,144106,schoenherr,144043,144060,Verfahrungskosten,die-Verfahrenskosten-xxx
+gdc-coref,tgw6.0,143947,144106,schoenherr,144079,144089,des Objekt,deine-Katze
+gdc-coref,tgw6.0,144111,144197,neubert,144120,144123,Das,Das2
+gdc-coref,tgw6.0,144111,144197,neubert,144146,144149,ich,neubert
+gdc-coref,tgw6.0,144111,144197,neubert,144172,144184,die Gemeinde,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,144202,144249,ermischer,144218,144230,die Auslagen,'s-ausgegebene-Geld
+gdc-coref,tgw6.0,144254,144309,schoenherr,144265,144308,Aber der Neimerkel hat se nich' zu bezahlen,Des4
+gdc-coref,tgw6.0,144254,144309,schoenherr,144270,144283,der Neimerkel,neumerkel-bb
+gdc-coref,tgw6.0,144254,144309,schoenherr,144288,144290,se,die-Verfahrenskosten-xxx
+gdc-coref,tgw6.0,144314,144405,ermischer,144335,144338,Des,Des4
+gdc-coref,tgw6.0,144314,144405,ermischer,144362,144371,die Daler,die-Daler
+gdc-coref,tgw6.0,144314,144405,ermischer,144381,144400,den Rest des Geldes,die-Daler
+gdc-coref,tgw6.0,144314,144405,ermischer,144390,144400,des Geldes,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,144420,144436,_stage,144429,144431,es,die-Daler
+gdc-coref,tgw6.0,144410,144514,neumerkel,144467,144480,Die Erbschaft,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,144504,144514,_stage,144504,144513,Gelächter,Gelächter
+gdc-coref,tgw6.0,144518,144640,ermischer,144560,144579,'s ausgegebene Geld,'s-ausgegebene-Geld
+gdc-coref,tgw6.0,144518,144640,ermischer,144590,144602,der Gemeende,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,144518,144640,ermischer,144630,144639,die Sach','s-ausgegebene-Geld
+gdc-coref,tgw6.0,144645,144752,schoenherr,144686,144708,Herr Gemeendefierstand,ermischer
+gdc-coref,tgw6.0,144645,144752,schoenherr,144710,144713,die,'s-ausgegebene-Geld
+gdc-coref,tgw6.0,144767,144845,_stage,144774,144777,ihn,schoenherr
+gdc-coref,tgw6.0,144767,144845,_stage,144816,144822,seinem,ermischer
+gdc-coref,tgw6.0,144757,144923,ermischer,144856,144866,der Deifel,der-Teufel-(wohl-sprichwörtl)
+gdc-coref,tgw6.0,144898,144923,_stage,144898,144907,Gelächter,Gelächter
+gdc-coref,tgw6.0,144898,144923,_stage,144915,144918,ihm,ermischer
+gdc-coref,tgw6.0,144927,145178,neubert,144966,144979,Der Neumerkel,neumerkel-bb
+gdc-coref,tgw6.0,144927,145178,neubert,144984,144993,sein Geld,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,144927,145178,neubert,144984,144988,sein,neumerkel-bb
+gdc-coref,tgw6.0,144927,145178,neubert,145002,145005,ich,neubert
+gdc-coref,tgw6.0,144927,145178,neubert,145011,145022,den Schaden,Reinigung-von-Wäsche-------------und-Kleidungstücken-(neubert)
+gdc-coref,tgw6.0,144927,145178,neubert,145062,145066,sich,neubert
+gdc-coref,tgw6.0,144927,145178,neubert,145068,145071,Ich,neubert
+gdc-coref,tgw6.0,144927,145178,neubert,145076,145080,mich,neubert
+gdc-coref,tgw6.0,144927,145178,neubert,145100,145116,so 'ner Gemeinde,der-Gemeende-(politisches-konzept-das-sich-aus-den-bewohner-und-ihren-vertretern-konstituiert)
+gdc-coref,tgw6.0,145168,145178,_stage,145168,145177,Gelächter,Gelächter
+gdc-coref,tgw6.0,145202,145217,_stage,145209,145212,ihm,neubert
+gdc-coref,tgw6.0,145182,145321,ulbrich,145218,145230,Herr Neibert,neubert
+gdc-coref,tgw6.0,145182,145321,ulbrich,145232,145244,Herr Neibert,neubert
+gdc-coref,tgw6.0,145182,145321,ulbrich,145246,145249,Sie,neubert
+gdc-coref,tgw6.0,145182,145321,ulbrich,145258,145268,s Freibier,'ne-------------Lage-Freibier-(bestechungsbier-neuberts-an)
+gdc-coref,tgw6.0,145182,145321,ulbrich,145292,145304,Herr Neibert,neubert
+gdc-coref,tgw6.0,145311,145321,_stage,145311,145320,Gelächter,Gelächter
+gdc-coref,tgw6.0,145335,145358,_stage,145348,145357,dem Gelde,"Taler-(die-neumerkel-auf-den-tisch-legt-um-seine-schulden-zu-begleichen,-ungefähr-der-betrag-seines-erbes,-aber-nicht-deckungsgleich)"
+gdc-coref,tgw6.0,145325,145411,neumerkel,145367,145368,s,s3
+gdc-coref,tgw6.0,145325,145411,neumerkel,145370,145377,Meester,die_schnitzler_schnitzlersleute
+gdc-coref,tgw6.0,145325,145411,neumerkel,145379,145410,wenn ich die Zeche glatt machte,s3
+gdc-coref,tgw6.0,145325,145411,neumerkel,145384,145387,ich,neumerkel
+gdc-coref,tgw6.0,145416,145565,schoenherr,145443,145452,Neimerkel,neumerkel-bb

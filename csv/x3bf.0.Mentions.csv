@@ -1,0 +1,2249 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+gdc-coref,x3bf.0,1114,1417,der_normale_leser,1150,1153,Ich,der_normale_leser
+gdc-coref,x3bf.0,1114,1417,der_normale_leser,1214,1217,mir,der_normale_leser
+gdc-coref,x3bf.0,1114,1417,der_normale_leser,1303,1306,ich,der_normale_leser
+gdc-coref,x3bf.0,1114,1417,der_normale_leser,1361,1364,ich,der_normale_leser
+gdc-coref,x3bf.0,1423,1702,der_ruehrige_verleger,1454,1457,ich,der_ruehrige_verleger
+gdc-coref,x3bf.0,1708,2011,der_verschaemte_autor,1763,1766,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,1708,2011,der_verschaemte_autor,1805,1811,meines,der_verschaemte_autor
+gdc-coref,x3bf.0,1708,2011,der_verschaemte_autor,1827,1830,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,1708,2011,der_verschaemte_autor,1856,1859,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,1708,2011,der_verschaemte_autor,1940,1943,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,1708,2011,der_verschaemte_autor,1973,1976,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,2017,2309,der_hohe_staatsanwalt,2055,2058,Ich,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,2017,2309,der_hohe_staatsanwalt,2115,2118,mir,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,2315,2633,der_verschaemte_autor,2347,2351,Mich,der_verschaemte_autor
+gdc-coref,x3bf.0,2315,2633,der_verschaemte_autor,2402,2405,mir,der_verschaemte_autor
+gdc-coref,x3bf.0,2315,2633,der_verschaemte_autor,2539,2543,Mich,der_verschaemte_autor
+gdc-coref,x3bf.0,2315,2633,der_verschaemte_autor,2590,2594,Mein,der_verschaemte_autor
+gdc-coref,x3bf.0,2639,2924,der_hohe_staatsanwalt,2674,2677,ich,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,2639,2924,der_hohe_staatsanwalt,2772,2775,ich,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,2930,3216,der_normale_leser,2962,2965,ich,der_normale_leser
+gdc-coref,x3bf.0,2930,3216,der_normale_leser,2974,2978,mein,der_normale_leser
+gdc-coref,x3bf.0,2930,3216,der_normale_leser,3003,3006,Ich,der_normale_leser
+gdc-coref,x3bf.0,2930,3216,der_normale_leser,3042,3045,ich,der_normale_leser
+gdc-coref,x3bf.0,2930,3216,der_normale_leser,3090,3094,mich,der_normale_leser
+gdc-coref,x3bf.0,3222,3572,der_hohe_staatsanwalt,3510,3513,Ich,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,3579,3891,der_verschaemte_autor,3613,3617,mich,der_verschaemte_autor
+gdc-coref,x3bf.0,3579,3891,der_verschaemte_autor,3664,3667,mir,der_verschaemte_autor
+gdc-coref,x3bf.0,3579,3891,der_verschaemte_autor,3711,3717,meines,der_verschaemte_autor
+gdc-coref,x3bf.0,3579,3891,der_verschaemte_autor,3793,3796,Ich,der_verschaemte_autor
+gdc-coref,x3bf.0,3579,3891,der_verschaemte_autor,3860,3864,mich,der_verschaemte_autor
+gdc-coref,x3bf.0,3897,4198,der_hohe_staatsanwalt,3997,4000,ich,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,4204,4479,der_verschaemte_autor,4236,4239,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,4204,4479,der_verschaemte_autor,4397,4400,Ich,der_verschaemte_autor
+gdc-coref,x3bf.0,4485,4772,der_hohe_staatsanwalt,4744,4750,meinen,der_hohe_staatsanwalt
+gdc-coref,x3bf.0,4778,5086,der_verschaemte_autor,4813,4817,mich,der_verschaemte_autor
+gdc-coref,x3bf.0,4778,5086,der_verschaemte_autor,4916,4921,meine,der_verschaemte_autor
+gdc-coref,x3bf.0,4778,5086,der_verschaemte_autor,4930,4934,Mein,der_verschaemte_autor
+gdc-coref,x3bf.0,4778,5086,der_verschaemte_autor,5052,5055,mir,der_verschaemte_autor
+gdc-coref,x3bf.0,5092,5406,der_ruehrige_verleger,5245,5248,ich,der_ruehrige_verleger
+gdc-coref,x3bf.0,5092,5406,der_ruehrige_verleger,5371,5374,ich,der_ruehrige_verleger
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5474,5477,ich,der_normale_leser
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5484,5488,mich,der_normale_leser
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5513,5519,meinem,der_normale_leser
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5579,5582,ich,der_normale_leser
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5583,5587,mich,der_normale_leser
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5684,5687,ich,der_normale_leser
+gdc-coref,x3bf.0,5412,5753,der_normale_leser,5727,5730,mir,der_normale_leser
+gdc-coref,x3bf.0,5914,6024,der_normale_leser,5939,5942,ich,der_normale_leser
+gdc-coref,x3bf.0,5914,6024,der_normale_leser,5982,5985,Mir,der_normale_leser
+gdc-coref,x3bf.0,6030,6186,der_ruehrige_verleger,6103,6106,Ich,der_ruehrige_verleger
+gdc-coref,x3bf.0,6030,6186,der_ruehrige_verleger,6113,6117,mich,der_ruehrige_verleger
+gdc-coref,x3bf.0,6192,6295,der_verschaemte_autor,6235,6238,ich,der_verschaemte_autor
+gdc-coref,x3bf.0,6192,6295,der_verschaemte_autor,6239,6244,meine,der_verschaemte_autor
+gdc-coref,x3bf.0,6192,6295,der_verschaemte_autor,6277,6282,meine,der_verschaemte_autor
+gdc-coref,x3bf.0,6319,7740,_stage,6319,6410,Prachtvoller Saal in deutscher Renaissance mit schwerem Plafond aus geschnitztem Eichenholz,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,6319,7740,_stage,6551,6559,der Saal,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,6319,7740,_stage,6566,6588,eine verhängte Galerie,eine-----------verhängte-Galerie
+gdc-coref,x3bf.0,6319,7740,_stage,6608,6611,der,eine-----------verhängte-Galerie
+gdc-coref,x3bf.0,6319,7740,_stage,6618,6641,eine monumentale Treppe,eine-monumentale-Treppe
+gdc-coref,x3bf.0,6319,7740,_stage,6704,6715,der Galerie,eine-----------verhängte-Galerie
+gdc-coref,x3bf.0,6319,7740,_stage,6725,6729,sich,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,6319,7740,_stage,6730,6782,die Eingangstür mit gewundenen Säulen und Frontispiz,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,6319,7740,_stage,6949,6975,eine geschlossene Portiere,eine-geschlossene-Portiere
+gdc-coref,x3bf.0,6319,7740,_stage,7030,7061,eine leere dekorative Staffelei,eine-leere-dekorative-Staffelei
+gdc-coref,x3bf.0,6319,7740,_stage,7083,7087,sich,eine-----------breite-Ottomane
+gdc-coref,x3bf.0,6319,7740,_stage,7088,7108,eine breite Ottomane,eine-----------breite-Ottomane
+gdc-coref,x3bf.0,6319,7740,_stage,7134,7202,"ein vierkantiger Tisch, um den drei hochlehnige Polstersessel stehen","ein-vierkantiger-Tisch,-um-den-drei-hochlehnige-----------Polstersessel-stehen"
+gdc-coref,x3bf.0,6319,7740,_stage,7161,7164,den,"ein-vierkantiger-Tisch,-um-den-drei-hochlehnige-----------Polstersessel-stehen"
+gdc-coref,x3bf.0,6319,7740,_stage,7215,7239,ein kleiner Serviertisch,ein-kleiner-Serviertisch
+gdc-coref,x3bf.0,6319,7740,_stage,7249,7263,ein Lehnsessel,ein-Lehnsessel
+gdc-coref,x3bf.0,6319,7740,_stage,7265,7273,Der Saal,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,6319,7740,_stage,7293,7308,dem Mitteltisch,"ein-vierkantiger-Tisch,-um-den-drei-hochlehnige-----------Polstersessel-stehen"
+gdc-coref,x3bf.0,6319,7740,_stage,7366,7376,Alwa Schön,alwa
+gdc-coref,x3bf.0,6319,7740,_stage,7386,7401,der Eingangstür,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,6319,7740,_stage,7422,7434,der Ottomane,eine-----------breite-Ottomane
+gdc-coref,x3bf.0,6319,7740,_stage,7441,7448,Rodrigo,rodrigo
+gdc-coref,x3bf.0,6319,7740,_stage,7454,7463,Bedienter,Bedienter-(prädikativ-rodrigo)
+gdc-coref,x3bf.0,6319,7740,_stage,7485,7499,dem Lehnsessel,ein-Lehnsessel
+gdc-coref,x3bf.0,6319,7740,_stage,7504,7535,"schwarzem, enganliegenden Kleid","schwarzem,-enganliegenden-----------Kleid-(geschwitz)"
+gdc-coref,x3bf.0,6319,7740,_stage,7562,7573,einen Plaid,einen-Plaid-(decke-geschwitz-lehnsessel)
+gdc-coref,x3bf.0,6319,7740,_stage,7596,7616,die Gräfin Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,6319,7740,_stage,7624,7627,ihr,die_geschwitz
+gdc-coref,x3bf.0,6319,7740,_stage,7632,7641,dem Tisch,ein-kleiner-Serviertisch
+gdc-coref,x3bf.0,6319,7740,_stage,7687,7703,schwarzem Kaffee,den-Kaffee
+gdc-coref,x3bf.0,7742,7798,rodrigo,7751,7753,Er,schigolch
+gdc-coref,x3bf.0,7742,7798,rodrigo,7763,7767,sich,schigolch
+gdc-coref,x3bf.0,7803,7856,die_geschwitz,7818,7821,Ich,die_geschwitz
+gdc-coref,x3bf.0,7803,7856,die_geschwitz,7832,7835,Sie,rodrigo
+gdc-coref,x3bf.0,7803,7856,die_geschwitz,7846,7849,Sie,rodrigo
+gdc-coref,x3bf.0,7861,8064,rodrigo,7878,7883,einer,einer-(ein-mensch)
+gdc-coref,x3bf.0,7861,8064,rodrigo,7908,7910,er,einer-(ein-mensch)
+gdc-coref,x3bf.0,7861,8064,rodrigo,7945,7948,ich,rodrigo
+gdc-coref,x3bf.0,7861,8064,rodrigo,7952,7954,Es,Es
+gdc-coref,x3bf.0,7861,8064,rodrigo,7960,7963,mir,rodrigo
+gdc-coref,x3bf.0,7861,8064,rodrigo,7996,8063,daß sie sich dabei sogar noch zu ihrem Vorteil verändert haben soll,Es
+gdc-coref,x3bf.0,7861,8064,rodrigo,8000,8003,sie,lulu-braut
+gdc-coref,x3bf.0,7861,8064,rodrigo,8004,8008,sich,lulu-braut
+gdc-coref,x3bf.0,7861,8064,rodrigo,8029,8042,ihrem Vorteil,"ihrem-Vorteil-(lulus-körperlicher,-ein-besseres-aussehen-als-zuvor)"
+gdc-coref,x3bf.0,7861,8064,rodrigo,8029,8034,ihrem,lulu-braut
+gdc-coref,x3bf.0,8069,8143,die_geschwitz,8084,8087,Sie,lulu-braut
+gdc-coref,x3bf.0,8069,8143,die_geschwitz,8119,8122,ich,die_geschwitz
+gdc-coref,x3bf.0,8069,8143,die_geschwitz,8123,8126,sie,lulu-braut
+gdc-coref,x3bf.0,8149,8635,rodrigo,8165,8169,mich,rodrigo
+gdc-coref,x3bf.0,8149,8635,rodrigo,8192,8195,ich,rodrigo
+gdc-coref,x3bf.0,8149,8635,rodrigo,8196,8200,mein,rodrigo
+gdc-coref,x3bf.0,8149,8635,rodrigo,8217,8221,Ihre,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8256,8259,ihr,lulu-braut
+gdc-coref,x3bf.0,8149,8635,rodrigo,8260,8273,die Krankheit,die-Krankheit-(lulus-cholera)
+gdc-coref,x3bf.0,8149,8635,rodrigo,8305,8310,Ihnen,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8321,8324,ich,rodrigo
+gdc-coref,x3bf.0,8149,8635,rodrigo,8333,8336,Sie,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8347,8365,die Isolierbaracke,der-------------Isolierbaracke
+gdc-coref,x3bf.0,8149,8635,rodrigo,8370,8442,"eine verunglückte Kautschukdame, die sich aufs Kunsthungern geworfen hat","eine-verunglückte-Kautschukdame,-die-sich-------------aufs-Kunsthungern-geworfen-hat"
+gdc-coref,x3bf.0,8149,8635,rodrigo,8403,8406,die,"eine-verunglückte-Kautschukdame,-die-sich-------------aufs-Kunsthungern-geworfen-hat"
+gdc-coref,x3bf.0,8149,8635,rodrigo,8407,8411,sich,"eine-verunglückte-Kautschukdame,-die-sich-------------aufs-Kunsthungern-geworfen-hat"
+gdc-coref,x3bf.0,8149,8635,rodrigo,8444,8447,Sie,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8455,8459,sich,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8504,8507,Sie,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8531,8535,Ihre,die_geschwitz
+gdc-coref,x3bf.0,8149,8635,rodrigo,8573,8575,es,es
+gdc-coref,x3bf.0,8149,8635,rodrigo,8598,8634,damit Sie die Spitze nicht abbrechen,es
+gdc-coref,x3bf.0,8149,8635,rodrigo,8604,8607,Sie,die_geschwitz
+gdc-coref,x3bf.0,8640,8723,die_geschwitz,8655,8723,"Was uns unter die Erde bringt, gibt ihr Kraft und Gesundheit wieder.",Das
+gdc-coref,x3bf.0,8640,8723,die_geschwitz,8655,8684,Was uns unter die Erde bringt,Was-uns-unter-die-Erde-bringt-(cholera-krankheit-lulu-und-geschwitz)
+gdc-coref,x3bf.0,8640,8723,die_geschwitz,8659,8662,uns,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,8640,8723,die_geschwitz,8691,8694,ihr,lulu-braut
+gdc-coref,x3bf.0,8728,8830,rodrigo,8737,8740,Das,Das
+gdc-coref,x3bf.0,8728,8830,rodrigo,8766,8769,Ich,rodrigo
+gdc-coref,x3bf.0,8835,8905,die_geschwitz,8850,8853,Sie,rodrigo
+gdc-coref,x3bf.0,8835,8905,die_geschwitz,8861,8871,Ihre Braut,lulu-braut
+gdc-coref,x3bf.0,8835,8905,die_geschwitz,8861,8865,Ihre,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,8938,8946,der Alte,schigolch
+gdc-coref,x3bf.0,8910,9454,rodrigo,8955,8958,sie,lulu-braut
+gdc-coref,x3bf.0,8910,9454,rodrigo,8989,8994,Meine,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9011,9014,sie,lulu-braut
+gdc-coref,x3bf.0,8910,9454,rodrigo,9050,9053,ich,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9078,9091,meine Kostüme,"meine-Kostüme-(rodrigos,-die-er-in-auftrag-gegeben-hat)"
+gdc-coref,x3bf.0,8910,9454,rodrigo,9078,9083,meine,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9107,9110,Ich,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9144,9154,die Grenze,"die-Grenze-(die-bald-überquert-wird,-von-deutschland-nach-frankreich)"
+gdc-coref,x3bf.0,8910,9454,rodrigo,9173,9176,sie,lulu-braut
+gdc-coref,x3bf.0,8910,9454,rodrigo,9177,9181,sich,lulu-braut
+gdc-coref,x3bf.0,8910,9454,rodrigo,9262,9265,ich,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9266,9269,sie,lulu-braut
+gdc-coref,x3bf.0,8910,9454,rodrigo,9274,9300,einem anständigen Publikum,einem-anständigen-Publikum-(textintrinsisch)
+gdc-coref,x3bf.0,8910,9454,rodrigo,9319,9322,Ich,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9332,9342,einer Frau,einer-Frau
+gdc-coref,x3bf.0,8910,9454,rodrigo,9375,9379,sich,einer-Frau
+gdc-coref,x3bf.0,8910,9454,rodrigo,9380,9390,die Weiber,einer-Frau
+gdc-coref,x3bf.0,8910,9454,rodrigo,9403,9406,mir,rodrigo
+gdc-coref,x3bf.0,8910,9454,rodrigo,9424,9429,Ihnen,alwa
+gdc-coref,x3bf.0,9459,9503,alwa,9465,9468,Ich,alwa
+gdc-coref,x3bf.0,9459,9503,alwa,9492,9495,Sie,rodrigo
+gdc-coref,x3bf.0,9508,9991,rodrigo,9517,9520,Ich,rodrigo
+gdc-coref,x3bf.0,9508,9991,rodrigo,9527,9539,meine Person,rodrigo
+gdc-coref,x3bf.0,9508,9991,rodrigo,9527,9532,meine,rodrigo
+gdc-coref,x3bf.0,9508,9991,rodrigo,9553,9565,das Komplott,das-Komplott-(der-befreiungsakt-lulus)
+gdc-coref,x3bf.0,9508,9991,rodrigo,9583,9586,sie,lulu-braut
+gdc-coref,x3bf.0,9508,9991,rodrigo,9587,9590,mir,rodrigo
+gdc-coref,x3bf.0,9508,9991,rodrigo,9601,9619,ihrer Verurteilung,ihrer-Verurteilung-(lulus-wg-dem-mord-an-dr.-schön)
+gdc-coref,x3bf.0,9508,9991,rodrigo,9601,9606,ihrer,lulu-braut
+gdc-coref,x3bf.0,9508,9991,rodrigo,9665,9668,sie,lulu-braut
+gdc-coref,x3bf.0,9508,9991,rodrigo,9669,9673,sich,lulu-braut
+gdc-coref,x3bf.0,9508,9991,rodrigo,9674,9684,im Ausland,im-Ausland
+gdc-coref,x3bf.0,9508,9991,rodrigo,9750,9753,ich,rodrigo
+gdc-coref,x3bf.0,9508,9991,rodrigo,9754,9757,sie,lulu-braut
+gdc-coref,x3bf.0,9508,9991,rodrigo,9787,9793,London,London
+gdc-coref,x3bf.0,9508,9991,rodrigo,9804,9807,sie,lulu-braut
+gdc-coref,x3bf.0,9508,9991,rodrigo,9830,9836,London,London
+gdc-coref,x3bf.0,9508,9991,rodrigo,9842,9845,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,9508,9991,rodrigo,9897,9900,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,9508,9991,rodrigo,9904,9910,London,London
+gdc-coref,x3bf.0,9996,10151,alwa,10002,10005,Ich,alwa
+gdc-coref,x3bf.0,9996,10151,alwa,10012,10016,mich,alwa
+gdc-coref,x3bf.0,9996,10151,alwa,10037,10041,sich,"jemand,-der-zu-Zuchthausstrafe-verurteilt-war"
+gdc-coref,x3bf.0,9996,10151,alwa,10042,10087,"jemand, der zu Zuchthausstrafe verurteilt war","jemand,-der-zu-Zuchthausstrafe-verurteilt-war"
+gdc-coref,x3bf.0,9996,10151,alwa,10050,10053,der,"jemand,-der-zu-Zuchthausstrafe-verurteilt-war"
+gdc-coref,x3bf.0,10156,10203,die_geschwitz,10176,10186,der Mensch,lulu-braut
+gdc-coref,x3bf.0,10209,11316,rodrigo,10218,10221,Ich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10236,10252,meine Requisiten,meine-Requisiten-(rodrigos)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10236,10241,meine,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10262,10279,dem Pfandleihhaus,dem-Pfandleihhaus
+gdc-coref,x3bf.0,10209,11316,rodrigo,10290,10324,sechshundert Kilo vom besten Eisen,meine-Requisiten-(rodrigos)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10347,10351,mich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10375,10380,meine,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10409,10429,die ganze Ausrüstung,meine-Requisiten-(rodrigos)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10458,10461,ich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10484,10496,im Pfandhaus,dem-Pfandleihhaus
+gdc-coref,x3bf.0,10209,11316,rodrigo,10516,10520,mich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10525,10535,die Sachen,meine-Requisiten-(rodrigos)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10555,10566,Die Kostüme,"meine-Kostüme-(rodrigos,-die-er-in-auftrag-gegeben-hat)"
+gdc-coref,x3bf.0,10209,11316,rodrigo,10573,10576,ich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10577,10580,mir,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,10602,10612,im Ausland,im-Ausland
+gdc-coref,x3bf.0,10209,11316,rodrigo,10639,10650,Der Pariser,Der-Pariser-(kostümbildner-schneider)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10651,10663,zum Beispiel,zum-Beispiel
+gdc-coref,x3bf.0,10209,11316,rodrigo,10664,10716,"merkt auf den ersten Blick, wo man seine Vorzüge hat",das
+gdc-coref,x3bf.0,10209,11316,rodrigo,10695,10698,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10699,10704,seine,einer-(ein-mensch)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10734,10736,er,Der-Pariser-(kostümbildner-schneider)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10759,10762,das,das
+gdc-coref,x3bf.0,10209,11316,rodrigo,10769,10773,sich,das
+gdc-coref,x3bf.0,10209,11316,rodrigo,10810,10813,das,das
+gdc-coref,x3bf.0,10209,11316,rodrigo,10878,10881,sie,sie-(deutsche-menschen)
+gdc-coref,x3bf.0,10209,11316,rodrigo,10917,10928,im Auslande,im-Ausland
+gdc-coref,x3bf.0,10209,11316,rodrigo,10952,10967,Vor zwei Jahren,Vor-zwei-Jahren
+gdc-coref,x3bf.0,10209,11316,rodrigo,10974,10977,ich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,11036,11039,man,sie-(deutsche-menschen)
+gdc-coref,x3bf.0,10209,11316,rodrigo,11049,11052,ich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,11072,11081,der Brust,der-Brust-(rodrigo)
+gdc-coref,x3bf.0,10209,11316,rodrigo,11279,11282,ich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,11283,11287,mich,rodrigo
+gdc-coref,x3bf.0,10209,11316,rodrigo,11288,11299,jeden Monat,jeden-Monat
+gdc-coref,x3bf.0,11321,12500,alwa,11332,11335,ich,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,11348,11379,meine ganze geistige Spannkraft,meine-ganze-geistige-Spannkraft-(alwa)
+gdc-coref,x3bf.0,11321,12500,alwa,11348,11353,meine,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,11383,11404,dem »Weltbeherrscher«,dem-»Weltbeherrscher«
+gdc-coref,x3bf.0,11321,12500,alwa,11425,11428,ich,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,11429,11440,das Problem,das-Problem-(meint-entweder-die-tatsache-dass-nacktheit-im-theater-nicht-mehr-möglich-ist-oder-ob-verurteilte-noch-hauptrollen-besetzen-sollten
+gdc-coref,x3bf.0,11321,12500,alwa,11450,11455,seine,das-Problem-(meint-entweder-die-tatsache-dass-nacktheit-im-theater-nicht-mehr-möglich-ist-oder-ob-verurteilte-noch-hauptrollen-besetzen-sollten
+gdc-coref,x3bf.0,11321,12500,alwa,11480,11483,Das,Das2
+gdc-coref,x3bf.0,11321,12500,alwa,11507,11531,unserer jungen Literatur,unserer-jungen-Literatur
+gdc-coref,x3bf.0,11321,12500,alwa,11507,11514,unserer,sie-(deutsche-menschen)
+gdc-coref,x3bf.0,11321,12500,alwa,11540,11572,daß wir viel zu literarisch sind,Das2
+gdc-coref,x3bf.0,11321,12500,alwa,11574,11577,Wir,
+gdc-coref,x3bf.0,11321,12500,alwa,11623,11681,"solche, die unter Schriftstellern und Gelehrten auftauchen","solche,-die-unter-Schriftstellern-und-Gelehrten-------------auftauchen-(probleme-und-fragen-mit-denen-sich-gelehrte-und-schriftsteller-befassen)"
+gdc-coref,x3bf.0,11321,12500,alwa,11631,11634,die,"solche,-die-unter-Schriftstellern-und-Gelehrten-------------auftauchen-(probleme-und-fragen-mit-denen-sich-gelehrte-und-schriftsteller-befassen)"
+gdc-coref,x3bf.0,11321,12500,alwa,11635,11670,unter Schriftstellern und Gelehrten,
+gdc-coref,x3bf.0,11321,12500,alwa,11683,11688,Unser,
+gdc-coref,x3bf.0,11321,12500,alwa,11727,11734,unserer,
+gdc-coref,x3bf.0,11321,12500,alwa,11765,12015,"Um wieder auf die Fährte einer großen gewaltigen Kunst zu gelangen, müßten wir uns möglichst viel unter Menschen bewegen, die nie in ihrem Leben ein Buch gelesen haben, denen die einfachsten animalischen Instinkte bei ihren Handlungen maßgebend sind.",diesen-Prinzipien
+gdc-coref,x3bf.0,11321,12500,alwa,11840,11843,wir,
+gdc-coref,x3bf.0,11321,12500,alwa,11844,11847,uns,
+gdc-coref,x3bf.0,11321,12500,alwa,11863,11877,unter Menschen,unter-Menschen-(ungebildete)
+gdc-coref,x3bf.0,11321,12500,alwa,11887,11890,die,unter-Menschen-(ungebildete)
+gdc-coref,x3bf.0,11321,12500,alwa,11898,11903,ihrem,unter-Menschen-(ungebildete)
+gdc-coref,x3bf.0,11321,12500,alwa,11934,11939,denen,unter-Menschen-(ungebildete)
+gdc-coref,x3bf.0,11321,12500,alwa,11983,11988,ihren,unter-Menschen-(ungebildete)
+gdc-coref,x3bf.0,11321,12500,alwa,12019,12036,meinem ›Erdgeist‹,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,11321,12500,alwa,12019,12025,meinem,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,12042,12045,ich,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,12074,12091,diesen Prinzipien,diesen-Prinzipien
+gdc-coref,x3bf.0,11321,12500,alwa,12113,12180,"Das Weib, das mir zu der Hauptfigur des Stückes Modell stehen mußte",lulu-braut
+gdc-coref,x3bf.0,11321,12500,alwa,12123,12126,das,lulu-braut
+gdc-coref,x3bf.0,11321,12500,alwa,12127,12130,mir,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,12149,12160,des Stückes,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,11321,12500,alwa,12194,12216,seit einem vollen Jahr,seit-einem-vollen-Jahr-(zeitraum-in-dem-lulu-im-Gefängnis-war)
+gdc-coref,x3bf.0,11321,12500,alwa,12259,12268,das Drama,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,11321,12500,alwa,12310,12347,der freien literarischen Gesellschaft,der-freien-literarischen-Gesellschaft
+gdc-coref,x3bf.0,11321,12500,alwa,12349,12363,zur Aufführung,zur-Aufführung-(erdgeist)
+gdc-coref,x3bf.0,11321,12500,alwa,12374,12467,"Solange mein Vater noch lebte, standen meinen Schöpfungen sämtliche Bühnen Deutschlands offen",Das3
+gdc-coref,x3bf.0,11321,12500,alwa,12382,12392,mein Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,11321,12500,alwa,12382,12386,mein,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,12413,12431,meinen Schöpfungen,meinen-------------Schöpfungen-(alwas-schriftstellerische-allg)
+gdc-coref,x3bf.0,11321,12500,alwa,12413,12419,meinen,alwa
+gdc-coref,x3bf.0,11321,12500,alwa,12469,12472,Das,Das3
+gdc-coref,x3bf.0,11321,12500,alwa,12477,12481,sich,Das3
+gdc-coref,x3bf.0,12505,13274,rodrigo,12514,12517,Ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12523,12526,mir,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12527,12558,Trikots im zartesten Blau- Grün,"meine-Kostüme-(rodrigos,-die-er-in-auftrag-gegeben-hat)"
+gdc-coref,x3bf.0,12505,13274,rodrigo,12583,12586,die,"meine-Kostüme-(rodrigos,-die-er-in-auftrag-gegeben-hat)"
+gdc-coref,x3bf.0,12505,13274,rodrigo,12587,12597,im Ausland,im-Ausland
+gdc-coref,x3bf.0,12505,13274,rodrigo,12629,12632,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12656,12672,Die Schamhöschen,Die-Schamhöschen
+gdc-coref,x3bf.0,12505,13274,rodrigo,12694,12697,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12698,12702,mich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12703,12708,damit,Die-Schamhöschen
+gdc-coref,x3bf.0,12505,13274,rodrigo,12784,12810,meine fürchterliche Plauze,meine-fürchterliche-Plauze-(rodrigos-bauch)
+gdc-coref,x3bf.0,12505,13274,rodrigo,12784,12789,meine,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12820,12823,die,meine-fürchterliche-Plauze-(rodrigos-bauch)
+gdc-coref,x3bf.0,12505,13274,rodrigo,12824,12827,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12828,12888,meiner tätigen Mitwirkung in dieser großartigen Verschwörung,meiner-tätigen-Mitwirkung-in-------------dieser-großartigen-Verschwörung-(rodrigos-beitrag-zur-befreiung-lulus)
+gdc-coref,x3bf.0,12505,13274,rodrigo,12828,12834,meiner,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,12857,12888,dieser großartigen Verschwörung,das-Komplott-(der-befreiungsakt-lulus)
+gdc-coref,x3bf.0,12505,13274,rodrigo,12905,12965,Bei gesunden Gliedern drei Monate lang im Krankenhaus liegen,das2
+gdc-coref,x3bf.0,12505,13274,rodrigo,12927,12943,drei Monate lang,drei-Monate-lang-(krankenhausaufenthalt-rodrigos)
+gdc-coref,x3bf.0,12505,13274,rodrigo,12944,12958,im Krankenhaus,im-Krankenhaus
+gdc-coref,x3bf.0,12505,13274,rodrigo,12967,12970,das,das2
+gdc-coref,x3bf.0,12505,13274,rodrigo,13043,13046,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,13067,13070,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,13112,13117,Nacht,Nacht-(nachts)
+gdc-coref,x3bf.0,12505,13274,rodrigo,13123,13126,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,13163,13166,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,13172,13182,die Grenze,"die-Grenze-(die-bald-überquert-wird,-von-deutschland-nach-frankreich)"
+gdc-coref,x3bf.0,12505,13274,rodrigo,13196,13199,ich,rodrigo
+gdc-coref,x3bf.0,12505,13274,rodrigo,13227,13230,ich,rodrigo
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13294,13360,Wie ihr gestern im Krankenhaus das Wachtpersonal aus dem Wege ging,das3
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13298,13301,ihr,lulu-braut
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13310,13324,im Krankenhaus,im-Krankenhaus
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13325,13342,das Wachtpersonal,Man-(aufsicht-personal-lulus-im-krankenhaus-isolierbracke)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13362,13365,das,das3
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13396,13406,Der Garten,Der-Garten
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13428,13457,der herrlichsten Mittagssonne,der-herrlichsten-Mittagssonne
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13465,13469,sich,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13470,13490,die Rekonvaleszenten,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13532,13550,der Isolierbaracke,der-------------Isolierbaracke
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13556,13559,sie,lulu-braut
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13600,13604,sich,lulu-braut
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13621,13633,den Knöcheln,den-Knöcheln-(lulu)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13653,13657,mich,die_geschwitz
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13677,13725,"ein Assistenzarzt, der mir im Korridor begegnete","ein-Assistenzarzt,-------------der-mir-im-Korridor-begegnete"
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13696,13699,der,"ein-Assistenzarzt,-------------der-mir-im-Korridor-begegnete"
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13700,13703,mir,die_geschwitz
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13752,13755,ihn,"ein-Assistenzarzt,-------------der-mir-im-Korridor-begegnete"
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13785,13806,Die Krankenschwestern,Die-Krankenschwestern
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13867,13870,ich,die_geschwitz
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13892,13901,im Garten,Der-Garten
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13924,13934,eine Seele,einer-(ein-mensch)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13945,13960,Die Gelegenheit,Die-------------Gelegenheit-(zur-flucht-lulus)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,13967,13971,sich,Die-------------Gelegenheit-(zur-flucht-lulus)
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,14006,14009,wir,schigolch-(lulus-vat…-/-rodrigo-+-2
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,14062,14072,der Mensch,rodrigo
+gdc-coref,x3bf.0,13279,14093,die_geschwitz,14074,14076,er,rodrigo
+gdc-coref,x3bf.0,14098,14664,rodrigo,14107,14110,Ich,rodrigo
+gdc-coref,x3bf.0,14098,14664,rodrigo,14120,14142,die armen Spitalbrüder,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14144,14152,Der eine,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14174,14184,der andere,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14224,14265,die leibhaftige Todesversicherungsagentin,die_geschwitz
+gdc-coref,x3bf.0,14098,14664,rodrigo,14279,14284,ihnen,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14293,14308,den Rittersälen,den-Rittersälen
+gdc-coref,x3bf.0,14098,14664,rodrigo,14319,14388,"die gesegnete Abteilung, von der aus ich meine  Spionage organisierte",den-Rittersälen
+gdc-coref,x3bf.0,14098,14664,rodrigo,14348,14351,der,den-Rittersälen
+gdc-coref,x3bf.0,14098,14664,rodrigo,14356,14359,ich,rodrigo
+gdc-coref,x3bf.0,14098,14664,rodrigo,14360,14375,meine  Spionage,meiner-tätigen-Mitwirkung-in-------------dieser-großartigen-Verschwörung-(rodrigos-beitrag-zur-befreiung-lulus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14360,14365,meine,rodrigo
+gdc-coref,x3bf.0,14098,14664,rodrigo,14394,14398,sich,die-Kunde
+gdc-coref,x3bf.0,14098,14664,rodrigo,14402,14411,die Kunde,die-Kunde
+gdc-coref,x3bf.0,14098,14664,rodrigo,14429,14452,die Schwester Theophila,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,14098,14664,rodrigo,14457,14460,Tod,Tod
+gdc-coref,x3bf.0,14098,14664,rodrigo,14520,14523,Sie,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14574,14577,sie,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14578,14582,ihre,die-Rekonvaleszenten-(die-kranken-im-krankenhaus)
+gdc-coref,x3bf.0,14098,14664,rodrigo,14632,14635,ich,rodrigo
+gdc-coref,x3bf.0,14669,15746,alwa,14684,14687,Sie,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,14688,14691,mir,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,14733,14739,meinen,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,14766,14774,Die Frau,lulu-braut
+gdc-coref,x3bf.0,14669,15746,alwa,14782,14795,diesem Zimmer,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,14669,15746,alwa,14796,14808,meinen Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,14669,15746,alwa,14796,14802,meinen,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,14835,14838,ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,14842,14851,dem Morde,dem-Morde-(lulus-an-dr.-schön)
+gdc-coref,x3bf.0,14669,15746,alwa,14859,14869,der Strafe,der-Strafe-(haftstrafe-lulus-wg-dem-mord-an-dr.-schön)
+gdc-coref,x3bf.0,14669,15746,alwa,14889,14914,ein entsetzliches Unglück,ein-entsetzliches-Unglück-(prädikativ-lulus-mord-an-dr.-schön-und-ihre-haftstrafe)
+gdc-coref,x3bf.0,14669,15746,alwa,14922,14925,das,ein-entsetzliches-Unglück-(prädikativ-lulus-mord-an-dr.-schön-und-ihre-haftstrafe)
+gdc-coref,x3bf.0,14669,15746,alwa,14926,14929,sie,lulu-braut
+gdc-coref,x3bf.0,14669,15746,alwa,14945,14948,Ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,14962,14972,mein Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,14669,15746,alwa,14962,14966,mein,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,14985,14987,er,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,14669,15746,alwa,15017,15022,seine,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,14669,15746,alwa,15050,15053,ihr,lulu-braut
+gdc-coref,x3bf.0,14669,15746,alwa,15068,15073,Ihnen,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15074,15092,Ihr Befreiungsplan,Ihr-------------Befreiungsplan-(geschwitz-plan-zum-befreiungsunternehmung-lulus)
+gdc-coref,x3bf.0,14669,15746,alwa,15074,15077,Ihr,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15116,15119,mir,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15152,15155,ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15156,15159,Sie,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15190,15193,ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15216,15320,"die Bewunderung, die mir Ihre Aufopferung, Ihre Tatkraft, Ihre übermenschliche Todesverachtung einflößen","die-Bewunderung,-die-mir-Ihre-------------Aufopferung,-Ihre-Tatkraft,-Ihre-übermenschliche-Todesverachtung-einflößen-(bewunderung-alwa-ggü-geschwitz)"
+gdc-coref,x3bf.0,14669,15746,alwa,15233,15236,die,"die-Bewunderung,-die-mir-Ihre-------------Aufopferung,-Ihre-Tatkraft,-Ihre-übermenschliche-Todesverachtung-einflößen-(bewunderung-alwa-ggü-geschwitz)"
+gdc-coref,x3bf.0,14669,15746,alwa,15237,15240,mir,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15241,15245,Ihre,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15259,15263,Ihre,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15274,15278,Ihre,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15322,15325,Ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15347,15355,ein Mann,ein-Mann
+gdc-coref,x3bf.0,14669,15746,alwa,15367,15376,eine Frau,einer-Frau
+gdc-coref,x3bf.0,14669,15746,alwa,15411,15421,aufs Spiel,"aufs-Spiel-(risiko,-aufs-spiel-setzen)"
+gdc-coref,x3bf.0,14669,15746,alwa,15435,15438,Ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15451,15473,Fräulein von Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15517,15541,diese Bewerkstelligungen,das-Komplott-(der-befreiungsakt-lulus)
+gdc-coref,x3bf.0,14669,15746,alwa,15549,15553,Ihre,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15598,15601,ich,alwa
+gdc-coref,x3bf.0,14669,15746,alwa,15602,15607,Ihnen,die_geschwitz
+gdc-coref,x3bf.0,14669,15746,alwa,15608,15644,ein Darlehen von zwanzigtausend Mark,ein-Darlehen-von-zwanzigtausend-Mark-(geld-das-alwa-geschwitz-anbietet)
+gdc-coref,x3bf.0,14669,15746,alwa,15655,15661,dessen,ein-Darlehen-von-zwanzigtausend-Mark-(geld-das-alwa-geschwitz-anbietet)
+gdc-coref,x3bf.0,14669,15746,alwa,15681,15691,barem Geld,barem-Geld
+gdc-coref,x3bf.0,14669,15746,alwa,15696,15700,mich,alwa
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15770,15773,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15794,15817,die Schwester Theophila,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15859,15862,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15878,15881,Wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15919,15922,Ich,die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15929,15932,ihr,sie-(lulu-als-geschwitz)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15933,15938,meine,die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15978,15989,ihre Stimme,ihre-Stimme-(lulu)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,15978,15982,ihre,lulu-braut
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16001,16014,der Professor,"der-Professor-(in-der-isolierbaracke,-unklar-wer-gemeint-ist)-"
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16027,16029,er,"der-Professor-(in-der-isolierbaracke,-unklar-wer-gemeint-ist)-"
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16030,16033,sie,sie-(lulu-als-geschwitz)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16072,16075,mir,
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16088,16094,sich's,sich's-(das-leben)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16106,16118,im Gefängnis,im-Gefängnis
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16125,16138,die Schwester,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16165,16168,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16191,16194,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16207,16216,fünf Tage,fünf-Tage-(seitdem-lulu-und-geschwitz-an-cholera-erkrankt-sind)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16236,16238,es,es2
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16239,16243,sich,es2
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16280,16297,der Assistenzarzt,der-Assistenzarzt
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16314,16337,der Schwester Theophila,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16351,16354,Wir,Ich-(geschwitz-als-l…-/-sie-(lulu-als-geschw…
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16369,16372,uns,Ich-(geschwitz-als-l…-/-sie-(lulu-als-geschw…
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16380,16386,seinem,der-Assistenzarzt
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16403,16405,er,der-Assistenzarzt
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16425,16428,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16429,16432,uns,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16448,16452,Gott,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16457,16461,Dank,"Dank-(lulu-und-geschwitz-ggü-gott,-evtl.-nur-phrase)"
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16463,16467,Gott,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16472,16476,Dank,"Dank-(lulu-und-geschwitz-ggü-gott,-evtl.-nur-phrase)"
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16492,16494,es,es3
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16504,16562,"damit mein Liebling nicht verriet, wie gesund er schon war",es3
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16510,16523,mein Liebling,sie-(lulu-als-geschwitz)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16510,16514,mein,die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16550,16552,er,sie-(lulu-als-geschwitz)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16566,16568,Du,lulu-braut
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16574,16594,neun Jahre Gefängnis,der-Strafe-(haftstrafe-lulus-wg-dem-mord-an-dr.-schön)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16599,16602,dir,lulu-braut
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16610,16613,ich,die_geschwitz
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16635,16638,Man,Man-(aufsicht-personal-lulus-im-krankenhaus-isolierbracke)
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16644,16647,sie,lulu-braut
+gdc-coref,x3bf.0,15751,16702,die_geschwitz,16683,16701,der Isolierbaracke,der-------------Isolierbaracke
+gdc-coref,x3bf.0,16707,17113,rodrigo,16716,16719,Ich,rodrigo
+gdc-coref,x3bf.0,16707,17113,rodrigo,16725,16742,volle drei Monate,drei-Monate-lang-(krankenhausaufenthalt-rodrigos)
+gdc-coref,x3bf.0,16707,17113,rodrigo,16743,16757,im Krankenhaus,im-Krankenhaus
+gdc-coref,x3bf.0,16707,17113,rodrigo,16770,16781,das Terrain,im-Krankenhaus
+gdc-coref,x3bf.0,16707,17113,rodrigo,16804,16807,ich,rodrigo
+gdc-coref,x3bf.0,16707,17113,rodrigo,16808,16811,mir,rodrigo
+gdc-coref,x3bf.0,16707,17113,rodrigo,16830,16862,einem so ausgedehnten Aufenthalt,das2
+gdc-coref,x3bf.0,16707,17113,rodrigo,16917,16920,ich,rodrigo
+gdc-coref,x3bf.0,16707,17113,rodrigo,16930,16948,"Ihnen, Herr Doktor",alwa
+gdc-coref,x3bf.0,16707,17113,rodrigo,16950,16966,den Kammerdiener,Bedienter-(prädikativ-rodrigo)
+gdc-coref,x3bf.0,16707,17113,rodrigo,17023,17036,ein Bräutigam,ein-Bräutigam
+gdc-coref,x3bf.0,16707,17113,rodrigo,17046,17051,seine,ein-Bräutigam
+gdc-coref,x3bf.0,16707,17113,rodrigo,17065,17070,Meine,rodrigo
+gdc-coref,x3bf.0,17118,17532,alwa,17129,17131,es,es4
+gdc-coref,x3bf.0,17118,17532,alwa,17132,17137,Ihnen,rodrigo
+gdc-coref,x3bf.0,17118,17532,alwa,17147,17199,die Frau zu einer anständigen Künstlerin auszubilden,es4
+gdc-coref,x3bf.0,17118,17532,alwa,17147,17155,die Frau,lulu-braut
+gdc-coref,x3bf.0,17118,17532,alwa,17212,17215,Sie,rodrigo
+gdc-coref,x3bf.0,17118,17532,alwa,17216,17220,sich,rodrigo
+gdc-coref,x3bf.0,17118,17532,alwa,17224,17228,Ihre,rodrigo
+gdc-coref,x3bf.0,17118,17532,alwa,17259,17274,dem Temperament,dem-Temperament-(charakter-leidenschaft-lulu)
+gdc-coref,x3bf.0,17118,17532,alwa,17294,17351,die sie aus dem Innersten ihrer Natur heraus zu geben hat,der-Schönheit-(ausse…-/-dem-Temperament-(cha…-cc
+gdc-coref,x3bf.0,17118,17532,alwa,17298,17301,sie,lulu-braut
+gdc-coref,x3bf.0,17118,17532,alwa,17320,17325,ihrer,lulu-braut
+gdc-coref,x3bf.0,17118,17532,alwa,17358,17361,sie,lulu-braut
+gdc-coref,x3bf.0,17118,17532,alwa,17362,17387,das blasierteste Publikum,einem-anständigen-Publikum-(textintrinsisch)
+gdc-coref,x3bf.0,17118,17532,alwa,17415,17418,sie,
+gdc-coref,x3bf.0,17118,17532,alwa,17440,17456,der Leidenschaft,dem-Temperament-(charakter-leidenschaft-lulu)
+gdc-coref,x3bf.0,17537,17588,rodrigo,17546,17549,Ich,rodrigo
+gdc-coref,x3bf.0,17537,17588,rodrigo,17555,17558,ihr,lulu-braut
+gdc-coref,x3bf.0,17537,17588,rodrigo,17559,17570,ihre Zicken,dem-Temperament-(charakter-leidenschaft-lulu)
+gdc-coref,x3bf.0,17537,17588,rodrigo,17559,17563,ihre,lulu-braut
+gdc-coref,x3bf.0,17593,17876,die_geschwitz,17617,17619,er,schigolch
+gdc-coref,x3bf.0,17622,17876,_stage,17626,17637,der Galerie,eine-----------verhängte-Galerie
+gdc-coref,x3bf.0,17622,17876,_stage,17671,17675,sich,der-Vorhang-über-der-Treppe
+gdc-coref,x3bf.0,17622,17876,_stage,17676,17703,der Vorhang über der Treppe,der-Vorhang-über-der-Treppe
+gdc-coref,x3bf.0,17622,17876,_stage,17693,17703,der Treppe,eine-monumentale-Treppe
+gdc-coref,x3bf.0,17622,17876,_stage,17709,17746,Schigolch im langen schwarzen Gehrock,schigolch
+gdc-coref,x3bf.0,17622,17876,_stage,17829,17833,sein,schigolch
+gdc-coref,x3bf.0,17880,17963,schigolch,17933,17938,einem,einer-(ein-mensch)
+gdc-coref,x3bf.0,17880,17963,schigolch,17939,17948,die Sonne,der-herrlichsten-Mittagssonne
+gdc-coref,x3bf.0,17982,18017,_stage,17982,17986,sich,die_geschwitz
+gdc-coref,x3bf.0,17982,18017,_stage,17998,18007,der Decke,einen-Plaid-(decke-geschwitz-lehnsessel)
+gdc-coref,x3bf.0,17968,18034,die_geschwitz,18018,18021,Ich,die_geschwitz
+gdc-coref,x3bf.0,18039,18163,rodrigo,18048,18064,Gräfliche Gnaden,die_geschwitz
+gdc-coref,x3bf.0,18168,18451,schigolch,18209,18212,ich,schigolch
+gdc-coref,x3bf.0,18168,18451,schigolch,18303,18306,ich,schigolch
+gdc-coref,x3bf.0,18168,18451,schigolch,18370,18373,mir,schigolch
+gdc-coref,x3bf.0,18456,18505,rodrigo,18474,18477,ihr,schigolch-(lulus-vat…-/-lulu-braut
+gdc-coref,x3bf.0,18510,18575,schigolch,18553,18574,im Hotel Ochsenbutter,im-Hotel-Ochsenbutter
+gdc-coref,x3bf.0,18580,18716,rodrigo,18589,18592,Ich,rodrigo
+gdc-coref,x3bf.0,18580,18716,rodrigo,18598,18602,euch,schigolch-(lulus-vat…-/-lulu-braut
+gdc-coref,x3bf.0,18580,18716,rodrigo,18640,18643,Ich,rodrigo
+gdc-coref,x3bf.0,18735,18765,_stage,18735,18739,sich,die_geschwitz
+gdc-coref,x3bf.0,18735,18765,_stage,18740,18752,im Rohrstuhl,ein-Lehnsessel
+gdc-coref,x3bf.0,18721,18786,die_geschwitz,18773,18776,Sie,rodrigo
+gdc-coref,x3bf.0,18721,18786,die_geschwitz,18777,18780,mir,die_geschwitz
+gdc-coref,x3bf.0,18799,18826,_stage,18822,18825,sie,die_geschwitz
+gdc-coref,x3bf.0,18791,18899,rodrigo,18838,18841,ihr,schigolch-(lulus-vat…-/-lulu-braut
+gdc-coref,x3bf.0,18791,18899,rodrigo,18860,18871,der Polizei,der-Polizei-(polizisten)
+gdc-coref,x3bf.0,18904,18985,die_geschwitz,18919,18921,Er,rodrigo
+gdc-coref,x3bf.0,18904,18985,die_geschwitz,18927,18930,Sie,schigolch
+gdc-coref,x3bf.0,18904,18985,die_geschwitz,18967,18970,ihr,lulu-braut
+gdc-coref,x3bf.0,18990,19043,schigolch,19001,19003,Er,rodrigo
+gdc-coref,x3bf.0,18990,19043,schigolch,19024,19030,seinen,rodrigo
+gdc-coref,x3bf.0,19048,19158,rodrigo,19066,19069,ihr,schigolch-(lulus-vat…-/-die_geschwitz
+gdc-coref,x3bf.0,19048,19158,rodrigo,19079,19082,mir,rodrigo
+gdc-coref,x3bf.0,19048,19158,rodrigo,19088,19091,ich,rodrigo
+gdc-coref,x3bf.0,19048,19158,rodrigo,19095,19101,meinem,rodrigo
+gdc-coref,x3bf.0,19163,19318,schigolch,19179,19202,die Schwester Theophila,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,19163,19318,schigolch,19229,19239,gen Himmel,gen-Himmel-(tod-jenseits)
+gdc-coref,x3bf.0,19163,19318,schigolch,19255,19258,sie,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,19163,19318,schigolch,19259,19263,sich,die-------------Schwester-Theophila
+gdc-coref,x3bf.0,19163,19318,schigolch,19268,19284,unsere Patientin,lulu-braut
+gdc-coref,x3bf.0,19163,19318,schigolch,19268,19274,unsere,schigolch-(lulus-vat…-/-rodrigo-+-2
+gdc-coref,x3bf.0,19323,19513,rodrigo,19337,19342,einer,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,19323,19513,rodrigo,19361,19364,ihr,lulu-braut
+gdc-coref,x3bf.0,19323,19513,rodrigo,19386,19389,sie,lulu-braut
+gdc-coref,x3bf.0,19323,19513,rodrigo,19390,19394,sich,lulu-braut
+gdc-coref,x3bf.0,19323,19513,rodrigo,19412,19423,zur Geltung,"ihrem-Vorteil-(lulus-körperlicher,-ein-besseres-aussehen-als-zuvor)"
+gdc-coref,x3bf.0,19323,19513,rodrigo,19433,19435,Es,Es2
+gdc-coref,x3bf.0,19323,19513,rodrigo,19441,19444,ihr,lulu-braut
+gdc-coref,x3bf.0,19323,19513,rodrigo,19471,19512,wenn sie sich vorher noch etwas auslüftet,Es2
+gdc-coref,x3bf.0,19323,19513,rodrigo,19476,19479,sie,lulu-braut
+gdc-coref,x3bf.0,19323,19513,rodrigo,19480,19484,sich,lulu-braut
+gdc-coref,x3bf.0,19523,19622,_stage,19523,19539,eine Brieftasche,eine-Brieftasche-(alwa)
+gdc-coref,x3bf.0,19523,19622,_stage,19553,19621,"zur Geschwitz, die auf eine Stuhllehne gestützt am Mitteltisch steht",die_geschwitz
+gdc-coref,x3bf.0,19523,19622,_stage,19568,19571,die,die_geschwitz
+gdc-coref,x3bf.0,19523,19622,_stage,19601,19615,am Mitteltisch,"ein-vierkantiger-Tisch,-um-den-drei-hochlehnige-----------Polstersessel-stehen"
+gdc-coref,x3bf.0,19518,19661,alwa,19623,19635,Diese Tasche,eine-Brieftasche-(alwa)
+gdc-coref,x3bf.0,19518,19661,alwa,19644,19660,zehntausend Mark,zehntausend-Mark-(geld-in-alwas-brieftasche)
+gdc-coref,x3bf.0,19666,19697,die_geschwitz,19681,19684,Ich,die_geschwitz
+gdc-coref,x3bf.0,19702,19737,alwa,19708,19711,Ich,alwa
+gdc-coref,x3bf.0,19702,19737,alwa,19718,19721,Sie,die_geschwitz
+gdc-coref,x3bf.0,19702,19737,alwa,19723,19726,sie,zehntausend-Mark-(geld-in-alwas-brieftasche)
+gdc-coref,x3bf.0,19756,19769,_stage,19759,19768,Schigolch,schigolch
+gdc-coref,x3bf.0,19742,19794,die_geschwitz,19777,19780,Sie,schigolch
+gdc-coref,x3bf.0,19799,19926,schigolch,19818,19831,mein Fräulein,die_geschwitz
+gdc-coref,x3bf.0,19799,19926,schigolch,19818,19822,mein,schigolch
+gdc-coref,x3bf.0,19799,19926,schigolch,19833,19835,Es,Es-(fluchtweg-lulu-aus-dem-krankenhaus-in-den-saal)
+gdc-coref,x3bf.0,19799,19926,schigolch,19847,19885,der Katzensprung über die Spitalstraße,Es-(fluchtweg-lulu-aus-dem-krankenhaus-in-den-saal)
+gdc-coref,x3bf.0,19799,19926,schigolch,19909,19912,ich,schigolch
+gdc-coref,x3bf.0,19799,19926,schigolch,19917,19920,ihr,lulu-braut
+gdc-coref,x3bf.0,19931,19957,alwa,19937,19940,Sie,schigolch
+gdc-coref,x3bf.0,19931,19957,alwa,19949,19952,sie,lulu-braut
+gdc-coref,x3bf.0,19962,20033,schigolch,19973,19976,Ich,schigolch
+gdc-coref,x3bf.0,19962,20033,schigolch,19984,19987,sie,lulu-braut
+gdc-coref,x3bf.0,19962,20033,schigolch,20009,20012,Sie,alwa
+gdc-coref,x3bf.0,19962,20033,schigolch,20017,20021,Ihre,alwa
+gdc-coref,x3bf.0,20038,20087,alwa,20044,20047,Das,Das4
+gdc-coref,x3bf.0,20038,20087,alwa,20054,20057,Sie,schigolch
+gdc-coref,x3bf.0,20038,20087,alwa,20064,20086,daß ich nichts fürchte,Das4
+gdc-coref,x3bf.0,20038,20087,alwa,20068,20071,ich,alwa
+gdc-coref,x3bf.0,20092,20294,rodrigo,20101,20116,Der Herr Doktor,alwa
+gdc-coref,x3bf.0,20092,20294,rodrigo,20199,20216,seinen »Erdgeist«,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,20092,20294,rodrigo,20199,20205,seinen,alwa
+gdc-coref,x3bf.0,20092,20294,rodrigo,20261,20275,zur Aufführung,zur-Aufführung-(erdgeist)
+gdc-coref,x3bf.0,20305,20345,_stage,20305,20336,die Mitteltür unter der Galerie,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,20305,20345,_stage,20325,20336,der Galerie,eine-----------verhängte-Galerie
+gdc-coref,x3bf.0,20300,20463,alwa,20346,20349,Sie,schigolch-(lulus-vat…-/-die_geschwitz
+gdc-coref,x3bf.0,20369,20463,_stage,20369,20378,Schigolch,schigolch
+gdc-coref,x3bf.0,20369,20463,_stage,20383,20403,die Gräfin Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,20369,20463,_stage,20414,20422,den Saal,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,20369,20463,_stage,20424,20428,Alwa,alwa
+gdc-coref,x3bf.0,20369,20463,_stage,20441,20449,die Türe,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,20369,20463,_stage,20457,20462,ihnen,schigolch-(lulus-vat…-/-die_geschwitz
+gdc-coref,x3bf.0,20467,20526,rodrigo,20476,20525,Sie wollten der verrückten Rakete noch Geld geben,das4
+gdc-coref,x3bf.0,20467,20526,rodrigo,20476,20479,Sie,alwa
+gdc-coref,x3bf.0,20467,20526,rodrigo,20488,20509,der verrückten Rakete,die_geschwitz
+gdc-coref,x3bf.0,20467,20526,rodrigo,20515,20519,Geld,zehntausend-Mark-(ge…-/-ein-Darlehen-von-zwa…
+gdc-coref,x3bf.0,20531,20558,alwa,20546,20549,Sie,rodrigo
+gdc-coref,x3bf.0,20531,20558,alwa,20550,20553,das,das4
+gdc-coref,x3bf.0,20563,20764,rodrigo,20572,20576,Mich,rodrigo
+gdc-coref,x3bf.0,20563,20764,rodrigo,20623,20626,ich,rodrigo
+gdc-coref,x3bf.0,20563,20764,rodrigo,20627,20657,sämtliche Schwestern im Spital,Die-Krankenschwestern
+gdc-coref,x3bf.0,20563,20764,rodrigo,20648,20657,im Spital,im-Krankenhaus
+gdc-coref,x3bf.0,20563,20764,rodrigo,20727,20737,Geheimräte,Geheimräte-(im-krankenhaus)
+gdc-coref,x3bf.0,20769,20872,alwa,20782,20785,Sie,rodrigo
+gdc-coref,x3bf.0,20769,20872,alwa,20786,20789,mir,alwa
+gdc-coref,x3bf.0,20769,20872,alwa,20816,20820,sich,Geheimräte-(im-krankenhaus)
+gdc-coref,x3bf.0,20769,20872,alwa,20821,20835,die Geheimräte,Geheimräte-(im-krankenhaus)
+gdc-coref,x3bf.0,20769,20872,alwa,20842,20845,Sie,rodrigo
+gdc-coref,x3bf.0,20877,21002,rodrigo,20890,20937,"dem Gelde, das mich diese Herren gekostet haben","dem-Gelde,-das-mich-diese-Herren-gekostet-haben-(bestechungsgeld-rodrigos-für-assistenzärzte-und-geheimräte-des-krankenhauses)"
+gdc-coref,x3bf.0,20877,21002,rodrigo,20905,20909,mich,rodrigo
+gdc-coref,x3bf.0,20877,21002,rodrigo,20946,20949,ich,rodrigo
+gdc-coref,x3bf.0,20877,21002,rodrigo,20953,20960,Amerika,Amerika
+gdc-coref,x3bf.0,20877,21002,rodrigo,20971,20994,der Vereinigten Staaten,Amerika
+gdc-coref,x3bf.0,21007,22004,alwa,21013,21035,Fräulein von Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,21007,22004,alwa,21040,21045,Ihnen,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21051,21090,"jeden Pfennig, den Sie ausgegeben haben","dem-Gelde,-das-mich-diese-Herren-gekostet-haben-(bestechungsgeld-rodrigos-für-assistenzärzte-und-geheimräte-des-krankenhauses)"
+gdc-coref,x3bf.0,21007,22004,alwa,21066,21069,den,"dem-Gelde,-das-mich-diese-Herren-gekostet-haben-(bestechungsgeld-rodrigos-für-assistenzärzte-und-geheimräte-des-krankenhauses)"
+gdc-coref,x3bf.0,21007,22004,alwa,21070,21073,Sie,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21116,21119,ich,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21135,21138,Sie,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21200,21203,ihr,die_geschwitz
+gdc-coref,x3bf.0,21007,22004,alwa,21205,21207,Es,Es3
+gdc-coref,x3bf.0,21007,22004,alwa,21214,21219,einem,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21246,21300,an Ihre Liebe zu der unglücklichen Mörderin zu glauben,Es3
+gdc-coref,x3bf.0,21007,22004,alwa,21249,21253,Ihre,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21263,21289,der unglücklichen Mörderin,lulu-braut
+gdc-coref,x3bf.0,21007,22004,alwa,21302,21372,"Wenn ich eben Fräulein von Geschwitz darum bat, meine Hilfe anzunehmen",es5
+gdc-coref,x3bf.0,21007,22004,alwa,21307,21310,ich,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21316,21338,Fräulein von Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,21007,22004,alwa,21350,21361,meine Hilfe,zehntausend-Mark-(ge…-/-ein-Darlehen-von-zwa…
+gdc-coref,x3bf.0,21007,22004,alwa,21350,21355,meine,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21385,21387,es,es5
+gdc-coref,x3bf.0,21007,22004,alwa,21404,21408,Ihre,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21447,21528,"Die Bewunderung, die ich vor Fräulein von Geschwitz in dieser Sache hegen gelernt","die-Bewunderung,-die-mir-Ihre-------------Aufopferung,-Ihre-Tatkraft,-Ihre-übermenschliche-Todesverachtung-einflößen-(bewunderung-alwa-ggü-geschwitz)"
+gdc-coref,x3bf.0,21007,22004,alwa,21464,21467,die,"die-Bewunderung,-die-mir-Ihre-------------Aufopferung,-Ihre-Tatkraft,-Ihre-übermenschliche-Todesverachtung-einflößen-(bewunderung-alwa-ggü-geschwitz)"
+gdc-coref,x3bf.0,21007,22004,alwa,21468,21471,ich,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21476,21498,Fräulein von Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,21007,22004,alwa,21502,21514,dieser Sache,das-Komplott-(der-befreiungsakt-lulus)
+gdc-coref,x3bf.0,21007,22004,alwa,21539,21542,ich,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21543,21548,Ihnen,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21577,21579,Es,Es4
+gdc-coref,x3bf.0,21007,22004,alwa,21584,21587,mir,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21606,21650,was Sie an mich für Ansprüche geltend machen,Es4
+gdc-coref,x3bf.0,21007,22004,alwa,21610,21613,Sie,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21617,21621,mich,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21656,21659,Sie,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21673,21700,der Ermordung meines Vaters,dem-Morde-(lulus-an-dr.-schön)
+gdc-coref,x3bf.0,21007,22004,alwa,21687,21700,meines Vaters,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,21007,22004,alwa,21687,21693,meines,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21729,21734,Ihnen,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21739,21742,mir,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21820,21823,ich,alwa
+gdc-coref,x3bf.0,21007,22004,alwa,21850,21853,Sie,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21860,21865,Ihnen,rodrigo
+gdc-coref,x3bf.0,21007,22004,alwa,21866,21912,das heroische Unternehmen der Gräfin Geschwitz,Ihr-------------Befreiungsplan-(geschwitz-plan-zum-befreiungsunternehmung-lulus)
+gdc-coref,x3bf.0,21007,22004,alwa,21892,21912,der Gräfin Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,22009,22886,rodrigo,22029,22032,Sie,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22042,22047,Ihnen,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22068,22071,Sie,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22072,22111,"das Käseblatt, das Ihr Vater redigierte","das-Käseblatt,-das-Ihr-Vater-------------redigierte"
+gdc-coref,x3bf.0,22009,22886,rodrigo,22087,22090,das,"das-Käseblatt,-das-Ihr-Vater-------------redigierte"
+gdc-coref,x3bf.0,22009,22886,rodrigo,22091,22100,Ihr Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,22009,22886,rodrigo,22091,22094,Ihr,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22157,22160,Sie,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22168,22172,sich,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22291,22294,Sie,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22303,22306,Sie,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22313,22329,ein Schauerdrama,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,22009,22886,rodrigo,22346,22349,dem,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,22009,22886,rodrigo,22350,22372,die Waden meiner Braut,die-Waden-meiner-Braut-(evtl-lulus-beine)
+gdc-coref,x3bf.0,22009,22886,rodrigo,22360,22372,meiner Braut,lulu-braut
+gdc-coref,x3bf.0,22009,22886,rodrigo,22360,22366,meiner,rodrigo
+gdc-coref,x3bf.0,22009,22886,rodrigo,22406,22409,das,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,22009,22886,rodrigo,22426,22440,zur Aufführung,zur-Aufführung-(erdgeist)
+gdc-coref,x3bf.0,22009,22886,rodrigo,22449,22467,Sie Nachtjacke Sie,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22469,22488,Sie Schnodderlumpen,alwa
+gdc-coref,x3bf.0,22009,22886,rodrigo,22490,22586,Ich habe auf diesem Brustkasten noch vor zwei Jahren zwei gesattelte Kavalleriepferde balanciert,das5
+gdc-coref,x3bf.0,22009,22886,rodrigo,22490,22493,Ich,rodrigo
+gdc-coref,x3bf.0,22009,22886,rodrigo,22503,22521,diesem Brustkasten,der-Brust-(rodrigo)
+gdc-coref,x3bf.0,22009,22886,rodrigo,22527,22542,vor zwei Jahren,Vor-zwei-Jahren
+gdc-coref,x3bf.0,22009,22886,rodrigo,22592,22595,das,das5
+gdc-coref,x3bf.0,22009,22886,rodrigo,22606,22616,der Plauze,meine-fürchterliche-Plauze-(rodrigos-bauch)
+gdc-coref,x3bf.0,22009,22886,rodrigo,22634,22637,mir,rodrigo
+gdc-coref,x3bf.0,22009,22886,rodrigo,22661,22679,Die Ausländerinnen,Die-Ausländerinnen
+gdc-coref,x3bf.0,22009,22886,rodrigo,22741,22744,sie,Die-Ausländerinnen
+gdc-coref,x3bf.0,22009,22886,rodrigo,22745,22748,mir,rodrigo
+gdc-coref,x3bf.0,22009,22886,rodrigo,22792,22803,den Trikots,"meine-Kostüme-(rodrigos,-die-er-in-auftrag-gegeben-hat)"
+gdc-coref,x3bf.0,22009,22886,rodrigo,22818,22821,Ich,rodrigo
+gdc-coref,x3bf.0,22009,22886,rodrigo,22867,22873,meiner,rodrigo
+gdc-coref,x3bf.0,22891,22922,alwa,22897,22900,Sie,rodrigo
+gdc-coref,x3bf.0,22927,23133,rodrigo,22943,22947,Gott,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,22927,23133,rodrigo,22949,22952,Sie,alwa
+gdc-coref,x3bf.0,22927,23133,rodrigo,22980,22983,Sie,alwa
+gdc-coref,x3bf.0,22927,23133,rodrigo,22984,22988,mich,rodrigo
+gdc-coref,x3bf.0,22927,23133,rodrigo,23014,23133,"Dann setze ich Ihnen die Fußspitze unter die Kinnlade, daß Ihnen Ihre Zunge dort drüben an der Tapete spazierenkriecht.",das6
+gdc-coref,x3bf.0,22927,23133,rodrigo,23025,23028,ich,rodrigo
+gdc-coref,x3bf.0,22927,23133,rodrigo,23029,23034,Ihnen,alwa
+gdc-coref,x3bf.0,22927,23133,rodrigo,23073,23078,Ihnen,alwa
+gdc-coref,x3bf.0,22927,23133,rodrigo,23079,23083,Ihre,alwa
+gdc-coref,x3bf.0,23138,23212,alwa,23154,23157,Sie,rodrigo
+gdc-coref,x3bf.0,23138,23212,alwa,23158,23161,das,das6
+gdc-coref,x3bf.0,23169,23212,_stage,23169,23211,Tritte und Stimmen werden von außen hörbar,das7
+gdc-coref,x3bf.0,23216,23238,alwa,23230,23233,das,das7
+gdc-coref,x3bf.0,23243,23316,rodrigo,23252,23255,Sie,alwa
+gdc-coref,x3bf.0,23243,23316,rodrigo,23263,23267,Gott,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,23243,23316,rodrigo,23280,23283,ich,rodrigo
+gdc-coref,x3bf.0,23243,23316,rodrigo,23307,23310,mir,rodrigo
+gdc-coref,x3bf.0,23321,23346,alwa,23336,23339,das,das7
+gdc-coref,x3bf.0,23351,23447,rodrigo,23360,23363,Das,das7
+gdc-coref,x3bf.0,23351,23447,rodrigo,23368,23373,meine,rodrigo
+gdc-coref,x3bf.0,23351,23447,rodrigo,23384,23407,Seit einem vollen Jahre,seit-einem-vollen-Jahr-(zeitraum-in-dem-lulu-im-Gefängnis-war)
+gdc-coref,x3bf.0,23351,23447,rodrigo,23414,23417,wir,lulu-braut-/-rodrigo
+gdc-coref,x3bf.0,23351,23447,rodrigo,23418,23421,uns,lulu-braut-/-rodrigo
+gdc-coref,x3bf.0,23452,23543,alwa,23475,23478,die,schigolch-(lulus-vat…-/-lulu-braut
+gdc-coref,x3bf.0,23452,23543,alwa,23521,23524,Ich,alwa
+gdc-coref,x3bf.0,23548,23595,rodrigo,23582,23585,Sie,alwa
+gdc-coref,x3bf.0,23600,23626,alwa,23617,23620,Sie,rodrigo
+gdc-coref,x3bf.0,23600,23626,alwa,23621,23625,sich,rodrigo
+gdc-coref,x3bf.0,23631,23870,rodrigo,23640,23643,Ich,rodrigo
+gdc-coref,x3bf.0,23631,23870,rodrigo,23651,23655,mich,rodrigo
+gdc-coref,x3bf.0,23631,23870,rodrigo,23663,23675,die Portiere,eine-geschlossene-Portiere
+gdc-coref,x3bf.0,23631,23870,rodrigo,23685,23688,ich,rodrigo
+gdc-coref,x3bf.0,23734,23870,_stage,23734,23741,Rodrigo,rodrigo
+gdc-coref,x3bf.0,23734,23870,_stage,23762,23785,der Portiere links vorn,eine-geschlossene-Portiere
+gdc-coref,x3bf.0,23734,23870,_stage,23787,23791,Alwa,alwa
+gdc-coref,x3bf.0,23734,23870,_stage,23799,23813,die Mitteltüre,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,23734,23870,_stage,23822,23859,"Alfred Hugenberg, den Hut in der Hand",hugenberg
+gdc-coref,x3bf.0,23874,23927,alwa,23893,23896,ich,alwa
+gdc-coref,x3bf.0,23874,23927,alwa,23901,23904,Sie,hugenberg
+gdc-coref,x3bf.0,23874,23927,alwa,23913,23916,Sie,hugenberg
+gdc-coref,x3bf.0,23932,23960,hugenberg,23943,23959,Alfred Hugenberg,hugenberg
+gdc-coref,x3bf.0,23965,23988,alwa,23984,23987,Sie,hugenberg
+gdc-coref,x3bf.0,23993,24063,hugenberg,24004,24007,Ich,hugenberg
+gdc-coref,x3bf.0,23993,24063,hugenberg,24031,24034,Ich,hugenberg
+gdc-coref,x3bf.0,24069,24152,alwa,24075,24078,Ich,alwa
+gdc-coref,x3bf.0,24069,24152,alwa,24097,24100,Ich,alwa
+gdc-coref,x3bf.0,24157,24275,hugenberg,24168,24171,Ich,hugenberg
+gdc-coref,x3bf.0,24157,24275,hugenberg,24180,24190,Ihre Hilfe,Ihre-Hilfe-(unterstützung-hilfe-alwa-ggü-hugenberg)
+gdc-coref,x3bf.0,24157,24275,hugenberg,24180,24184,Ihre,alwa
+gdc-coref,x3bf.0,24157,24275,hugenberg,24192,24195,Sie,alwa
+gdc-coref,x3bf.0,24157,24275,hugenberg,24203,24206,sie,Ihre-Hilfe-(unterstützung-hilfe-alwa-ggü-hugenberg)
+gdc-coref,x3bf.0,24157,24275,hugenberg,24207,24210,mir,hugenberg
+gdc-coref,x3bf.0,24157,24275,hugenberg,24227,24230,Ich,hugenberg
+gdc-coref,x3bf.0,24157,24275,hugenberg,24236,24246,einen Plan,einen-Plan-(hugenbergs-zur-befreiung)
+gdc-coref,x3bf.0,24157,24275,hugenberg,24267,24270,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,24280,24327,alwa,24301,24304,Sie,hugenberg
+gdc-coref,x3bf.0,24280,24327,alwa,24316,24326,einen Plan,einen-Plan-(hugenbergs-zur-befreiung)
+gdc-coref,x3bf.0,24332,24359,hugenberg,24348,24351,Sie,alwa
+gdc-coref,x3bf.0,24364,24405,alwa,24387,24390,Sie,hugenberg
+gdc-coref,x3bf.0,24364,24405,alwa,24391,24394,mir,alwa
+gdc-coref,x3bf.0,24410,24728,hugenberg,24421,24424,Ich,hugenberg
+gdc-coref,x3bf.0,24410,24728,hugenberg,24479,24482,ich,hugenberg
+gdc-coref,x3bf.0,24410,24728,hugenberg,24483,24488,Ihnen,alwa
+gdc-coref,x3bf.0,24410,24728,hugenberg,24564,24567,ich,hugenberg
+gdc-coref,x3bf.0,24410,24728,hugenberg,24568,24572,Geld,barem-Geld
+gdc-coref,x3bf.0,24410,24728,hugenberg,24586,24589,ich,hugenberg
+gdc-coref,x3bf.0,24410,24728,hugenberg,24590,24593,Sie,alwa
+gdc-coref,x3bf.0,24410,24728,hugenberg,24622,24625,Ich,hugenberg
+gdc-coref,x3bf.0,24410,24728,hugenberg,24663,24666,Sie,alwa
+gdc-coref,x3bf.0,24410,24728,hugenberg,24667,24670,mir,hugenberg
+gdc-coref,x3bf.0,24410,24728,hugenberg,24687,24692,Ihnen,alwa
+gdc-coref,x3bf.0,24410,24728,hugenberg,24693,24707,meinen Entwurf,einen-Plan-(hugenbergs-zur-befreiung)
+gdc-coref,x3bf.0,24410,24728,hugenberg,24693,24699,meinen,hugenberg
+gdc-coref,x3bf.0,24733,24802,alwa,24746,24749,Sie,hugenberg
+gdc-coref,x3bf.0,24733,24802,alwa,24750,24753,mir,alwa
+gdc-coref,x3bf.0,24733,24802,alwa,24767,24801,wovon Sie denn eigentlich sprechen,das8
+gdc-coref,x3bf.0,24733,24802,alwa,24773,24776,Sie,hugenberg
+gdc-coref,x3bf.0,24807,25014,hugenberg,24818,25014,"Die Frau kann Ihnen unmöglich so gleichgültig sein, daß ich Ihnen das sagen muß. Was Sie vor dem Untersuchungsrichter zu Protokoll gaben, hat ihr mehr genützt als alles, was der Verteidiger sagte.",eine-derartige-Unterstellung
+gdc-coref,x3bf.0,24807,25014,hugenberg,24818,24826,Die Frau,lulu-braut
+gdc-coref,x3bf.0,24807,25014,hugenberg,24832,24837,Ihnen,alwa
+gdc-coref,x3bf.0,24807,25014,hugenberg,24874,24877,ich,hugenberg
+gdc-coref,x3bf.0,24807,25014,hugenberg,24878,24883,Ihnen,alwa
+gdc-coref,x3bf.0,24807,25014,hugenberg,24884,24887,das,das8
+gdc-coref,x3bf.0,24807,25014,hugenberg,24903,24906,Sie,alwa
+gdc-coref,x3bf.0,24807,25014,hugenberg,24911,24935,dem Untersuchungsrichter,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,24807,25014,hugenberg,24960,24963,ihr,lulu-braut
+gdc-coref,x3bf.0,25019,25071,alwa,25025,25071,Ich verbitte mir eine derartige Unterstellung.,Das5
+gdc-coref,x3bf.0,25019,25071,alwa,25025,25028,Ich,alwa
+gdc-coref,x3bf.0,25019,25071,alwa,25038,25041,mir,alwa
+gdc-coref,x3bf.0,25019,25071,alwa,25042,25070,eine derartige Unterstellung,eine-derartige-Unterstellung
+gdc-coref,x3bf.0,25076,25181,hugenberg,25087,25103,Das sagen Sie so,das9
+gdc-coref,x3bf.0,25076,25181,hugenberg,25087,25090,Das,Das5
+gdc-coref,x3bf.0,25076,25181,hugenberg,25097,25100,Sie,alwa
+gdc-coref,x3bf.0,25076,25181,hugenberg,25105,25108,das,das9
+gdc-coref,x3bf.0,25076,25181,hugenberg,25118,25121,ich,hugenberg
+gdc-coref,x3bf.0,25076,25181,hugenberg,25138,25141,Sie,alwa
+gdc-coref,x3bf.0,25076,25181,hugenberg,25153,25156,ihr,lulu-braut
+gdc-coref,x3bf.0,25186,25281,alwa,25192,25195,Sie,hugenberg
+gdc-coref,x3bf.0,25186,25281,alwa,25207,25210,Sie,hugenberg
+gdc-coref,x3bf.0,25186,25281,alwa,25219,25229,mein Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,25186,25281,alwa,25219,25223,mein,alwa
+gdc-coref,x3bf.0,25186,25281,alwa,25235,25280,"sie zwingen wollen, sich selbst zu erschießen",Das6
+gdc-coref,x3bf.0,25186,25281,alwa,25235,25238,sie,lulu-braut
+gdc-coref,x3bf.0,25186,25281,alwa,25255,25259,sich,lulu-braut
+gdc-coref,x3bf.0,25286,25371,hugenberg,25297,25300,Das,Das6
+gdc-coref,x3bf.0,25286,25371,hugenberg,25308,25310,er,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,25286,25371,hugenberg,25322,25325,man,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,25286,25371,hugenberg,25334,25337,mir,hugenberg
+gdc-coref,x3bf.0,25286,25371,hugenberg,25345,25348,ich,hugenberg
+gdc-coref,x3bf.0,25376,25406,alwa,25392,25395,Sie,hugenberg
+gdc-coref,x3bf.0,25411,25493,hugenberg,25426,25492,"einer Besserungsanstalt, aus der ich heute morgen ausgebrochen bin","einer-Besserungsanstalt,-aus-der-ich-heute-morgen-ausgebrochen-bin-(hugenberg-als-insasse)"
+gdc-coref,x3bf.0,25411,25493,hugenberg,25455,25458,der,"einer-Besserungsanstalt,-aus-der-ich-heute-morgen-ausgebrochen-bin-(hugenberg-als-insasse)"
+gdc-coref,x3bf.0,25411,25493,hugenberg,25459,25462,ich,hugenberg
+gdc-coref,x3bf.0,25498,25530,alwa,25526,25529,Sie,hugenberg
+gdc-coref,x3bf.0,25535,25606,hugenberg,25546,25549,Ich,hugenberg
+gdc-coref,x3bf.0,25535,25606,hugenberg,25562,25565,mir,hugenberg
+gdc-coref,x3bf.0,25535,25606,hugenberg,25580,25605,eines Gefängnisschließers,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,25611,25645,alwa,25630,25633,Sie,hugenberg
+gdc-coref,x3bf.0,25650,25724,hugenberg,25661,25664,Ich,hugenberg
+gdc-coref,x3bf.0,25650,25724,hugenberg,25675,25723,"einem Mädchen, das ein Kind von meinem Vater hat","einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,25650,25724,hugenberg,25690,25693,das,"einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,25650,25724,hugenberg,25694,25702,ein Kind,ein-Kind-(von-hugenbergs-vater)-iii
+gdc-coref,x3bf.0,25650,25724,hugenberg,25707,25719,meinem Vater,meinem-Vater-(hugenbergs)
+gdc-coref,x3bf.0,25650,25724,hugenberg,25707,25713,meinem,hugenberg
+gdc-coref,x3bf.0,25729,25753,alwa,25743,25752,Ihr Vater,meinem-Vater-(hugenbergs)
+gdc-coref,x3bf.0,25729,25753,alwa,25743,25746,Ihr,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25769,25771,Er,meinem-Vater-(hugenbergs)
+gdc-coref,x3bf.0,25758,26358,hugenberg,25793,25796,Ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25803,25816,das Gefängnis,das-Gefängnis-(lulus)
+gdc-coref,x3bf.0,25758,26358,hugenberg,25827,25830,ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25852,25856,mich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25870,25873,ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25928,25931,ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25943,25946,Ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,25952,26066,"eine eiserne Leiter, von der man  vom ersten Hof aus aufs Dach und durch eine Dachluke unter den Dachboden gelangt","eine-eiserne-Leiter,-von-der-man--vom-ersten-Hof-aus-aufs-Dach-und-------------durch-eine-Dachluke-unter-den-Dachboden-gelangt"
+gdc-coref,x3bf.0,25758,26358,hugenberg,25977,25980,der,"eine-eiserne-Leiter,-von-der-man--vom-ersten-Hof-aus-aufs-Dach-und-------------durch-eine-Dachluke-unter-den-Dachboden-gelangt"
+gdc-coref,x3bf.0,25758,26358,hugenberg,25986,26000,vom ersten Hof,vom-ersten-Hof-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26005,26014,aufs Dach,aufs-Dach-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26045,26058,den Dachboden,den-Dachboden-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26068,26078,Vom Innern,Vom-Innern-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26115,26133,allen fünf Flügeln,Vom-Innern-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26141,26148,Bretter,Bretter-lll
+gdc-coref,x3bf.0,25758,26358,hugenberg,26153,26159,Latten,Latten-lll
+gdc-coref,x3bf.0,25758,26358,hugenberg,26166,26177,den Dächern,aufs-Dach-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26202,26205,Ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,26215,26226,die Bretter,Bretter-lll
+gdc-coref,x3bf.0,25758,26358,hugenberg,26231,26237,Latten,Latten-lll
+gdc-coref,x3bf.0,25758,26358,hugenberg,26241,26251,fünf Enden,Vom-Innern-(lulus-gefängnis)
+gdc-coref,x3bf.0,25758,26358,hugenberg,26271,26274,sie,Bretter-lll-/-Latten-lll
+gdc-coref,x3bf.0,25758,26358,hugenberg,26279,26282,Ich,hugenberg
+gdc-coref,x3bf.0,25758,26358,hugenberg,26301,26357,"voll Zündmaterial, wie es zum Feuermachen gebraucht wird","voll-Zündmaterial,-wie-es-zum-Feuermachen-gebraucht-wird"
+gdc-coref,x3bf.0,25758,26358,hugenberg,26324,26326,es,"voll-Zündmaterial,-wie-es-zum-Feuermachen-gebraucht-wird"
+gdc-coref,x3bf.0,26363,26394,alwa,26385,26388,Sie,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26426,26429,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26463,26477,den ersten Hof,vom-ersten-Hof-(lulus-gefängnis)
+gdc-coref,x3bf.0,26399,26997,hugenberg,26493,26496,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26497,26510,den Schließer,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26514,26520,meiner,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26552,26555,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26556,26560,Geld,barem-Geld
+gdc-coref,x3bf.0,26399,26997,hugenberg,26568,26594,daß ich ihn bestechen will,das10
+gdc-coref,x3bf.0,26399,26997,hugenberg,26572,26575,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26576,26579,ihn,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26596,26599,das,das10
+gdc-coref,x3bf.0,26399,26997,hugenberg,26622,26625,Ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26630,26633,ihm,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26634,26642,das Geld,zweihundert-Mark-(bestechungsgeld-hugenberg-für-schließer)
+gdc-coref,x3bf.0,26399,26997,hugenberg,26664,26666,er,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26667,26684,seine drei Kinder,seine-drei-Kinder-(hugenbergs-schließers)
+gdc-coref,x3bf.0,26399,26997,hugenberg,26667,26672,seine,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26688,26705,die Sommerfrische,die-Sommerfrische
+gdc-coref,x3bf.0,26399,26997,hugenberg,26733,26736,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26737,26741,mich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26837,26839,Er,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26856,26859,mir,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26864,26866,Er,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26873,26877,mich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26883,26886,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26896,26899,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26906,26909,ihn,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,26399,26997,hugenberg,26911,26915,mich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26973,26976,ich,hugenberg
+gdc-coref,x3bf.0,26399,26997,hugenberg,26983,26996,dem Dachboden,den-Dachboden-(lulus-gefängnis)
+gdc-coref,x3bf.0,27002,27057,alwa,27017,27020,Sie,hugenberg
+gdc-coref,x3bf.0,27002,27057,alwa,27025,27046,der Besserungsanstalt,"einer-Besserungsanstalt,-aus-der-ich-heute-morgen-ausgebrochen-bin-(hugenberg-als-insasse)"
+gdc-coref,x3bf.0,27062,27205,hugenberg,27073,27076,Ich,hugenberg
+gdc-coref,x3bf.0,27062,27205,hugenberg,27111,27114,Ich,hugenberg
+gdc-coref,x3bf.0,27062,27205,hugenberg,27123,27139,zweihundert Mark,zweihundert-Mark-(bestechungsgeld-hugenberg-für-schließer)
+gdc-coref,x3bf.0,27062,27205,hugenberg,27147,27155,der Kerl,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,27062,27205,hugenberg,27156,27169,seine Familie,seine-drei-Kinder-(hugenbergs-schließers)
+gdc-coref,x3bf.0,27062,27205,hugenberg,27156,27161,seine,"eines-Gefängnisschließers-(in-lulus-gefängnis,-dessen-vertrauen-hugenberg-erschleicht)"
+gdc-coref,x3bf.0,27062,27205,hugenberg,27173,27190,die Sommerfrische,die-Sommerfrische
+gdc-coref,x3bf.0,27218,27243,_stage,27222,27234,der Portiere,eine-geschlossene-Portiere
+gdc-coref,x3bf.0,27210,27324,rodrigo,27253,27267,der Herr Baron,alwa
+gdc-coref,x3bf.0,27210,27324,rodrigo,27268,27278,den Kaffee,den-Kaffee
+gdc-coref,x3bf.0,27329,27426,hugenberg,27349,27359,der Mensch,rodrigo
+gdc-coref,x3bf.0,27329,27426,hugenberg,27372,27386,derselben Türe,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,27329,27426,hugenberg,27390,27392,Er,rodrigo
+gdc-coref,x3bf.0,27329,27426,hugenberg,27404,27418,derselben Türe,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,27431,27489,alwa,27437,27440,Ich,alwa
+gdc-coref,x3bf.0,27431,27489,alwa,27446,27449,ihn,rodrigo
+gdc-coref,x3bf.0,27431,27489,alwa,27470,27472,Er,rodrigo
+gdc-coref,x3bf.0,27504,27534,_stage,27504,27508,sich,hugenberg
+gdc-coref,x3bf.0,27494,27564,hugenberg,27535,27547,Ich Dummkopf,hugenberg
+gdc-coref,x3bf.0,27494,27564,hugenberg,27535,27538,Ich,hugenberg
+gdc-coref,x3bf.0,27494,27564,hugenberg,27551,27563,Ich Dummkopf,hugenberg
+gdc-coref,x3bf.0,27494,27564,hugenberg,27551,27554,Ich,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27586,27589,wir,rodrigo-/-hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27596,27599,uns,rodrigo-/-hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27628,27631,Sie,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27632,27636,sich,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27640,27660,Ihrer Frau Vize-Mama,"einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,27569,27935,rodrigo,27640,27645,Ihrer,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27662,27676,Ihr Brüderchen,ein-Kind-(von-hugenbergs-vater)-iii
+gdc-coref,x3bf.0,27569,27935,rodrigo,27662,27665,Ihr,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27684,27690,seinen,ein-Kind-(von-hugenbergs-vater)-iii
+gdc-coref,x3bf.0,27569,27935,rodrigo,27731,27734,Sie,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27735,27751,Ihren Herrn Papa,meinem-Vater-(hugenbergs)
+gdc-coref,x3bf.0,27569,27935,rodrigo,27735,27740,Ihren,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27766,27772,seiner,meinem-Vater-(hugenbergs)
+gdc-coref,x3bf.0,27569,27935,rodrigo,27781,27784,Sie,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27791,27794,uns,schigolch-(lulus-vat…-/-rodrigo-+-2
+gdc-coref,x3bf.0,27569,27935,rodrigo,27809,27812,Sie,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27813,27816,mir,rodrigo
+gdc-coref,x3bf.0,27569,27935,rodrigo,27866,27875,die Augen,die-Augen-(rodrigo)
+gdc-coref,x3bf.0,27569,27935,rodrigo,27897,27900,ich,rodrigo
+gdc-coref,x3bf.0,27569,27935,rodrigo,27901,27906,Ihnen,hugenberg
+gdc-coref,x3bf.0,27569,27935,rodrigo,27907,27917,den Kürbis,den-Kürbis-(wohl-kopf-hugenberg)
+gdc-coref,x3bf.0,27941,27968,alwa,27953,27956,Sie,rodrigo
+gdc-coref,x3bf.0,27973,27997,hugenberg,27984,27996,Ich Dummkopf,hugenberg
+gdc-coref,x3bf.0,27973,27997,hugenberg,27984,27987,Ich,hugenberg
+gdc-coref,x3bf.0,28002,28117,rodrigo,28022,28025,Sie,hugenberg
+gdc-coref,x3bf.0,28002,28117,rodrigo,28030,28052,Ihren Brennmaterialien,Bretter-lll-/-Latten-lll
+gdc-coref,x3bf.0,28002,28117,rodrigo,28030,28035,Ihren,hugenberg
+gdc-coref,x3bf.0,28002,28117,rodrigo,28063,28066,Sie,hugenberg
+gdc-coref,x3bf.0,28002,28117,rodrigo,28083,28091,die Frau,lulu-braut
+gdc-coref,x3bf.0,28002,28117,rodrigo,28097,28108,drei Wochen,drei-Wochen
+gdc-coref,x3bf.0,28122,28167,hugenberg,28141,28144,ihr,lulu-braut
+gdc-coref,x3bf.0,28122,28167,hugenberg,28145,28153,den Kopf,den-Kopf-(lulu-phys)
+gdc-coref,x3bf.0,28172,28237,rodrigo,28187,28190,den,den-Kopf-(lulu-phys)
+gdc-coref,x3bf.0,28172,28237,rodrigo,28195,28198,sie,lulu-braut
+gdc-coref,x3bf.0,28172,28237,rodrigo,28205,28237,Sie ist an der Cholera krepiert.,Das7
+gdc-coref,x3bf.0,28172,28237,rodrigo,28205,28208,Sie,lulu-braut
+gdc-coref,x3bf.0,28172,28237,rodrigo,28216,28227,der Cholera,die-Krankheit-(lulus-cholera)
+gdc-coref,x3bf.0,28242,28272,hugenberg,28253,28256,Das,Das7
+gdc-coref,x3bf.0,28277,28462,rodrigo,28297,28300,Sie,hugenberg
+gdc-coref,x3bf.0,28277,28462,rodrigo,28326,28329,Sie,hugenberg
+gdc-coref,x3bf.0,28277,28462,rodrigo,28343,28360,ein Zeitungsblatt,ein-Zeitungsblatt
+gdc-coref,x3bf.0,28277,28462,rodrigo,28383,28393,eine Notiz,eine-Notiz
+gdc-coref,x3bf.0,28277,28462,rodrigo,28401,28433,»Die Mörderin des Dr. Schön ...«,eine-Notiz
+gdc-coref,x3bf.0,28277,28462,rodrigo,28402,28428,Die Mörderin des Dr. Schön,lulu-braut
+gdc-coref,x3bf.0,28277,28462,rodrigo,28415,28428,des Dr. Schön,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,28277,28462,rodrigo,28439,28448,das Blatt,ein-Zeitungsblatt
+gdc-coref,x3bf.0,28277,28462,rodrigo,28452,28461,Hugenberg,hugenberg
+gdc-coref,x3bf.0,28467,28620,hugenberg,28485,28511,Die Mörderin des Dr. Schön,
+gdc-coref,x3bf.0,28467,28620,hugenberg,28498,28511,des Dr. Schön,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,28467,28620,hugenberg,28516,28528,im Gefängnis,das-Gefängnis-(lulus)
+gdc-coref,x3bf.0,28467,28620,hugenberg,28557,28568,der Cholera,die-Krankheit-(lulus-cholera)
+gdc-coref,x3bf.0,28467,28620,hugenberg,28602,28605,sie,lulu-braut
+gdc-coref,x3bf.0,28625,29123,rodrigo,28643,28646,sie,lulu-braut
+gdc-coref,x3bf.0,28625,29123,rodrigo,28671,28674,Sie,lulu-braut
+gdc-coref,x3bf.0,28625,29123,rodrigo,28686,28697,drei Wochen,drei-Wochen
+gdc-coref,x3bf.0,28625,29123,rodrigo,28768,28817,"die kleinen Kreuze sind, an denen kein Name steht","die-kleinen-Kreuze-sind,-an-denen-kein-------------Name-steht"
+gdc-coref,x3bf.0,28625,29123,rodrigo,28796,28801,denen,"die-kleinen-Kreuze-sind,-an-denen-kein-------------Name-steht"
+gdc-coref,x3bf.0,28625,29123,rodrigo,28828,28831,sie,lulu-braut
+gdc-coref,x3bf.0,28625,29123,rodrigo,28838,28848,dem ersten,dem-ersten-(der-kreuze-ohne-namen-unter-dem-angeblich-lulu-liegt)
+gdc-coref,x3bf.0,28625,29123,rodrigo,28850,28853,Sie,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,28863,28872,den Platz,dem-ersten-(der-kreuze-ohne-namen-unter-dem-angeblich-lulu-liegt)
+gdc-coref,x3bf.0,28625,29123,rodrigo,28916,28919,Sie,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,28957,28960,Sie,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,28966,28969,Sie,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,28980,29004,Ihre Kinderbewahranstalt,"einer-Besserungsanstalt,-aus-der-ich-heute-morgen-ausgebrochen-bin-(hugenberg-als-insasse)"
+gdc-coref,x3bf.0,28625,29123,rodrigo,28980,28984,Ihre,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,29030,29033,ich,rodrigo
+gdc-coref,x3bf.0,28625,29123,rodrigo,29034,29037,Sie,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,29038,29049,der Polizei,der-Polizei-(polizisten)
+gdc-coref,x3bf.0,28625,29123,rodrigo,29051,29054,Ich,rodrigo
+gdc-coref,x3bf.0,28625,29123,rodrigo,29061,29122,"das Frauenzimmer, das sich durch Sie ihre Mußestunden versüßt","einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,28625,29123,rodrigo,29079,29082,das,"einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,28625,29123,rodrigo,29083,29087,sich,"einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,28625,29123,rodrigo,29094,29097,Sie,hugenberg
+gdc-coref,x3bf.0,28625,29123,rodrigo,29098,29102,ihre,"einem-Mädchen,-das-ein-Kind-von-meinem-Vater-hat"
+gdc-coref,x3bf.0,29138,29146,_stage,29141,29145,Alwa,alwa
+gdc-coref,x3bf.0,29128,29176,hugenberg,29151,29153,es,es6
+gdc-coref,x3bf.0,29128,29176,hugenberg,29160,29175,daß sie tot ist,es6
+gdc-coref,x3bf.0,29128,29176,hugenberg,29164,29167,sie,lulu-braut
+gdc-coref,x3bf.0,29181,29310,alwa,29187,29191,Gott,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,29181,29310,alwa,29208,29211,Ich,alwa
+gdc-coref,x3bf.0,29181,29310,alwa,29218,29221,Sie,hugenberg
+gdc-coref,x3bf.0,29181,29310,alwa,29223,29227,mich,alwa
+gdc-coref,x3bf.0,29181,29310,alwa,29264,29268,Mein,alwa
+gdc-coref,x3bf.0,29181,29310,alwa,29284,29287,mir,alwa
+gdc-coref,x3bf.0,29315,29527,hugenberg,29326,29331,Meine,hugenberg
+gdc-coref,x3bf.0,29315,29527,hugenberg,29364,29367,Ich,hugenberg
+gdc-coref,x3bf.0,29315,29527,hugenberg,29374,29421,"das letzte Bißchen, das mir das Leben noch gilt","das-letzte-Bißchen,-das-mir-das-Leben-------------noch-gilt-(wert-von-hugenbergs-leben)"
+gdc-coref,x3bf.0,29315,29527,hugenberg,29394,29397,das,"das-letzte-Bißchen,-das-mir-das-Leben-------------noch-gilt-(wert-von-hugenbergs-leben)"
+gdc-coref,x3bf.0,29315,29527,hugenberg,29398,29401,mir,hugenberg
+gdc-coref,x3bf.0,29315,29527,hugenberg,29432,29435,ihr,lulu-braut
+gdc-coref,x3bf.0,29315,29527,hugenberg,29467,29485,Auf irgendeine Art,in-irgendwelcher-Weise
+gdc-coref,x3bf.0,29315,29527,hugenberg,29492,29495,ich,hugenberg
+gdc-coref,x3bf.0,29532,29858,rodrigo,29546,29549,Sie,hugenberg
+gdc-coref,x3bf.0,29532,29858,rodrigo,29550,29554,sich,hugenberg
+gdc-coref,x3bf.0,29532,29858,rodrigo,29571,29574,mir,rodrigo
+gdc-coref,x3bf.0,29532,29858,rodrigo,29580,29601,dem Herrn Doktor hier,alwa
+gdc-coref,x3bf.0,29532,29858,rodrigo,29607,29642,meinem ehrenwerten Freund Schigolch,schigolch
+gdc-coref,x3bf.0,29532,29858,rodrigo,29607,29613,meinem,rodrigo
+gdc-coref,x3bf.0,29532,29858,rodrigo,29648,29670,in irgendwelcher Weise,in-irgendwelcher-Weise
+gdc-coref,x3bf.0,29532,29858,rodrigo,29704,29707,ich,rodrigo
+gdc-coref,x3bf.0,29532,29858,rodrigo,29708,29711,Sie,hugenberg
+gdc-coref,x3bf.0,29532,29858,rodrigo,29749,29754,Ihnen,hugenberg
+gdc-coref,x3bf.0,29532,29858,rodrigo,29791,29794,Sie,hugenberg
+gdc-coref,x3bf.0,29532,29858,rodrigo,29806,29817,Ihre Finger,Ihre-Finger-(hugenbergs-handeln-einmischen-betätigung)
+gdc-coref,x3bf.0,29532,29858,rodrigo,29806,29810,Ihre,hugenberg
+gdc-coref,x3bf.0,29864,29888,hugenberg,29875,29887,Ich Dummkopf,hugenberg
+gdc-coref,x3bf.0,29864,29888,hugenberg,29875,29878,Ich,hugenberg
+gdc-coref,x3bf.0,29893,30058,rodrigo,29917,29926,Hugenberg,hugenberg
+gdc-coref,x3bf.0,29893,30058,rodrigo,29927,29934,zur Tür,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,29893,30058,rodrigo,29969,29973,mich,rodrigo
+gdc-coref,x3bf.0,29893,30058,rodrigo,29986,29989,Sie,alwa
+gdc-coref,x3bf.0,29893,30058,rodrigo,29990,30000,dem Lümmel,hugenberg
+gdc-coref,x3bf.0,29893,30058,rodrigo,30012,30028,Ihr Portemonnaie,eine-Brieftasche-(alwa)
+gdc-coref,x3bf.0,29893,30058,rodrigo,30012,30015,Ihr,alwa
+gdc-coref,x3bf.0,29893,30058,rodrigo,30029,30042,zur Verfügung,Ihre-Finger-(hugenbergs-handeln-einmischen-betätigung)
+gdc-coref,x3bf.0,30063,30157,alwa,30069,30072,Ich,alwa
+gdc-coref,x3bf.0,30063,30157,alwa,30082,30085,mir,alwa
+gdc-coref,x3bf.0,30063,30157,alwa,30086,30090,Ihre,rodrigo
+gdc-coref,x3bf.0,30063,30157,alwa,30107,30116,Der Junge,hugenberg
+gdc-coref,x3bf.0,30063,30157,alwa,30153,30156,Sie,rodrigo
+gdc-coref,x3bf.0,30162,30545,rodrigo,30171,30174,Ich,rodrigo
+gdc-coref,x3bf.0,30162,30545,rodrigo,30183,30199,dieser Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,30162,30545,rodrigo,30233,30244,meine Braut,lulu-braut
+gdc-coref,x3bf.0,30162,30545,rodrigo,30233,30238,meine,rodrigo
+gdc-coref,x3bf.0,30162,30545,rodrigo,30333,30336,Ich,rodrigo
+gdc-coref,x3bf.0,30162,30545,rodrigo,30382,30385,ihr,lulu-braut
+gdc-coref,x3bf.0,30162,30545,rodrigo,30420,30424,mein,rodrigo
+gdc-coref,x3bf.0,30162,30545,rodrigo,30431,30441,aufs Spiel,"aufs-Spiel-(risiko,-aufs-spiel-setzen)"
+gdc-coref,x3bf.0,30162,30545,rodrigo,30457,30460,ich,rodrigo
+gdc-coref,x3bf.0,30162,30545,rodrigo,30496,30544,"die Kavaliere, die sie bei sich zu empfangen hat","die-Kavaliere,-------------die-sie-bei-sich-zu-empfangen-hat-(männer-mit-denen-lulu-verkehren-soll)"
+gdc-coref,x3bf.0,30162,30545,rodrigo,30511,30514,die,"die-Kavaliere,-------------die-sie-bei-sich-zu-empfangen-hat-(männer-mit-denen-lulu-verkehren-soll)"
+gdc-coref,x3bf.0,30162,30545,rodrigo,30515,30518,sie,lulu-braut
+gdc-coref,x3bf.0,30162,30545,rodrigo,30523,30527,sich,lulu-braut
+gdc-coref,x3bf.0,30550,30926,alwa,30556,30565,Der Junge,hugenberg
+gdc-coref,x3bf.0,30550,30926,alwa,30570,30602,"das, was unserem Zeitalter fehlt","das,-was-unserem-Zeitalter-fehlt-(heldenmut)"
+gdc-coref,x3bf.0,30550,30926,alwa,30575,30578,was,"das,-was-unserem-Zeitalter-fehlt-(heldenmut)"
+gdc-coref,x3bf.0,30550,30926,alwa,30579,30596,unserem Zeitalter,unserem-Zeitalter
+gdc-coref,x3bf.0,30550,30926,alwa,30579,30586,unserem,einer-(ein-mensch)
+gdc-coref,x3bf.0,30550,30926,alwa,30604,30606,Er,hugenberg
+gdc-coref,x3bf.0,30550,30926,alwa,30629,30631,Er,hugenberg
+gdc-coref,x3bf.0,30550,30926,alwa,30674,30677,Sie,rodrigo
+gdc-coref,x3bf.0,30550,30926,alwa,30678,30682,sich,rodrigo
+gdc-coref,x3bf.0,30550,30926,alwa,30688,30690,er,hugenberg
+gdc-coref,x3bf.0,30550,30926,alwa,30695,30719,Verkündigung des Urteils,ihrer-Verurteilung-(lulus-wg-dem-mord-an-dr.-schön)
+gdc-coref,x3bf.0,30550,30926,alwa,30708,30719,des Urteils,der-Strafe-(haftstrafe-lulus-wg-dem-mord-an-dr.-schön)
+gdc-coref,x3bf.0,30550,30926,alwa,30750,30766,dem Vorsitzenden,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,30550,30926,alwa,30789,30792,Sie,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,30550,30926,alwa,30809,30814,Ihnen,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,30550,30926,alwa,30835,30838,Sie,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,30550,30926,alwa,30839,30843,sich,dem-Untersuchungsrichter-(lulus-verurteilung)
+gdc-coref,x3bf.0,30550,30926,alwa,30866,30876,die Nächte,Nacht-(nachts)
+gdc-coref,x3bf.0,30931,31093,rodrigo,30946,30949,ich,rodrigo
+gdc-coref,x3bf.0,30931,31093,rodrigo,30950,30953,ihm,hugenberg
+gdc-coref,x3bf.0,30931,31093,rodrigo,30979,30989,die Fresse,den-Kürbis-(wohl-kopf-hugenberg)
+gdc-coref,x3bf.0,30931,31093,rodrigo,31022,31092,"Zuchthäuser, in denen man solchem Pack Achtung vor dem Gesetz einflößt",im-Gefängnis
+gdc-coref,x3bf.0,30931,31093,rodrigo,31038,31043,denen,im-Gefängnis
+gdc-coref,x3bf.0,31098,31359,alwa,31104,31106,Er,hugenberg
+gdc-coref,x3bf.0,31098,31359,alwa,31112,31178,"so einer, der mir in meinem »Weltbeherrscher« Modell stehen könnte","so-einer,-der-mir-in-meinem-»Weltbeherrscher«-Modell-stehen-könnte-(prädikativ-hugenberg)"
+gdc-coref,x3bf.0,31098,31359,alwa,31122,31125,der,"so-einer,-der-mir-in-meinem-»Weltbeherrscher«-Modell-stehen-könnte-(prädikativ-hugenberg)"
+gdc-coref,x3bf.0,31098,31359,alwa,31126,31129,mir,alwa
+gdc-coref,x3bf.0,31098,31359,alwa,31133,31157,meinem »Weltbeherrscher«,dem-»Weltbeherrscher«
+gdc-coref,x3bf.0,31098,31359,alwa,31133,31139,meinem,alwa
+gdc-coref,x3bf.0,31098,31359,alwa,31180,31323,"Seit zwanzig Jahren bringt die Literatur nichts als Halbmenschen zustande; Männer, die keine Kinder machen und Weiber, die keine gebären können",Das8
+gdc-coref,x3bf.0,31098,31359,alwa,31207,31220,die Literatur,unserer-jungen-Literatur
+gdc-coref,x3bf.0,31098,31359,alwa,31255,31286,"Männer, die keine Kinder machen","Männer,-die-keine-------------Kinder-machen"
+gdc-coref,x3bf.0,31098,31359,alwa,31263,31266,die,"Männer,-die-keine-------------Kinder-machen"
+gdc-coref,x3bf.0,31098,31359,alwa,31291,31323,"Weiber, die keine gebären können","Weiber,-die-keine-gebären-können"
+gdc-coref,x3bf.0,31098,31359,alwa,31299,31302,die,"Weiber,-die-keine-gebären-können"
+gdc-coref,x3bf.0,31098,31359,alwa,31325,31328,Das,Das8
+gdc-coref,x3bf.0,31098,31359,alwa,31335,31339,sich,Das8
+gdc-coref,x3bf.0,31364,32516,rodrigo,31373,31376,Ich,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,31382,31385,mir,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,31386,31423,eine zwei Zoll dicke Nilpferdpeitsche,eine-zwei-Zoll-dicke-Nilpferdpeitsche
+gdc-coref,x3bf.0,31364,32516,rodrigo,31439,31442,die,eine-zwei-Zoll-dicke-Nilpferdpeitsche
+gdc-coref,x3bf.0,31364,32516,rodrigo,31461,31464,ihr,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,31480,31483,ich,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,31524,31526,es,es-(mittel-mit-dem-man-weiberfleisch-begegnet)
+gdc-coref,x3bf.0,31364,32516,rodrigo,31540,31542,es,es-(mittel-mit-dem-man-weiberfleisch-begegnet)
+gdc-coref,x3bf.0,31364,32516,rodrigo,31588,31590,es,"es-(weiberfleisch,-weiblicher-körper)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31621,31623,es,"es-(weiberfleisch,-weiblicher-körper)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31643,31646,Sie,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,31762,31766,sich,"die-------------Herzensbedürfnisse-(lulus,-seelische)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31784,31806,die Herzensbedürfnisse,"die-------------Herzensbedürfnisse-(lulus,-seelische)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31813,31821,dem Kerl,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31899,31902,sie,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,31903,31906,ihn,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31919,31929,der Mensch,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,31953,31956,ihn,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,32007,32009,er,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,32066,32069,Ich,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,32114,32117,sie,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,32137,32140,sie,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,32215,32218,ich,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,32219,32225,meinen,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,32262,32266,mein,rodrigo
+gdc-coref,x3bf.0,31364,32516,rodrigo,32302,32331,ihrer praktischen Einrichtung,ihrer-praktischen-Einrichtung-(äußere-erscheinung-körperliche-vorzüge-lulu)
+gdc-coref,x3bf.0,31364,32516,rodrigo,32302,32307,ihrer,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,32342,32350,die Frau,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,32375,32385,ihren Mann,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,31364,32516,rodrigo,32375,32380,ihren,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,32419,32422,ihr,lulu-braut
+gdc-coref,x3bf.0,31364,32516,rodrigo,32423,32431,der Mann,"dem-Kerl-(den-lulu-lieben-wird,-der-ihe-herzensbedürfnisse-erfüllt,-rodrigo-spricht-wohl-über-sich-selbst)"
+gdc-coref,x3bf.0,32521,32764,alwa,32527,32530,Ich,alwa
+gdc-coref,x3bf.0,32521,32764,alwa,32536,32550,die Menschheit,einer-(ein-mensch)
+gdc-coref,x3bf.0,32521,32764,alwa,32599,32602,mir,alwa
+gdc-coref,x3bf.0,32521,32764,alwa,32632,32641,der Junge,hugenberg
+gdc-coref,x3bf.0,32521,32764,alwa,32647,32650,mir,alwa
+gdc-coref,x3bf.0,32521,32764,alwa,32661,32669,dem Kopf,meine-ganze-geistige-Spannkraft-(alwa)
+gdc-coref,x3bf.0,32521,32764,alwa,32671,32674,Ich,alwa
+gdc-coref,x3bf.0,32521,32764,alwa,32684,32703,diesem Gymnasiasten,hugenberg
+gdc-coref,x3bf.0,32769,33145,rodrigo,32778,32781,Sie,lulu-braut
+gdc-coref,x3bf.0,32769,33145,rodrigo,32813,32832,Tausendmarkscheinen,barem-Geld
+gdc-coref,x3bf.0,32769,33145,rodrigo,32852,32866,Den Direktoren,Den-------------Direktoren
+gdc-coref,x3bf.0,32769,33145,rodrigo,32873,32876,ich,rodrigo
+gdc-coref,x3bf.0,32769,33145,rodrigo,32877,32886,die Gagen,die-Gagen-(für-rodrigos-vorstellungen-mit-lulu)
+gdc-coref,x3bf.0,32769,33145,rodrigo,32916,32919,Ich,rodrigo
+gdc-coref,x3bf.0,32769,33145,rodrigo,32926,32935,die Bande,Den-------------Direktoren
+gdc-coref,x3bf.0,32769,33145,rodrigo,32946,32949,sie,Den-------------Direktoren
+gdc-coref,x3bf.0,32769,33145,rodrigo,32950,32955,einen,einer-(ein-mensch)
+gdc-coref,x3bf.0,32769,33145,rodrigo,32973,32976,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,32769,33145,rodrigo,32977,32982,ihnen,Den-------------Direktoren
+gdc-coref,x3bf.0,32769,33145,rodrigo,33012,33015,sie,Den-------------Direktoren
+gdc-coref,x3bf.0,32769,33145,rodrigo,33016,33031,eine Künstlerin,eine-------------Künstlerin
+gdc-coref,x3bf.0,32769,33145,rodrigo,33060,33063,sie,Den-------------Direktoren
+gdc-coref,x3bf.0,32769,33145,rodrigo,33064,33067,sie,eine-------------Künstlerin
+gdc-coref,x3bf.0,33150,33440,alwa,33159,33165,meinen,alwa
+gdc-coref,x3bf.0,33150,33440,alwa,33185,33188,ich,alwa
+gdc-coref,x3bf.0,33150,33440,alwa,33195,33202,dem Tod,Tod
+gdc-coref,x3bf.0,33150,33440,alwa,33274,33277,ich,alwa
+gdc-coref,x3bf.0,33150,33440,alwa,33303,33306,ich,alwa
+gdc-coref,x3bf.0,33150,33440,alwa,33350,33355,meine,alwa
+gdc-coref,x3bf.0,33445,33873,rodrigo,33454,33457,Sie,lulu-braut
+gdc-coref,x3bf.0,33445,33873,rodrigo,33464,33478,Papa Schigolch,schigolch
+gdc-coref,x3bf.0,33445,33873,rodrigo,33483,33487,mich,rodrigo
+gdc-coref,x3bf.0,33445,33873,rodrigo,33529,33532,wir,rodrigo-/-schigolch-(lulus-vat…
+gdc-coref,x3bf.0,33445,33873,rodrigo,33533,33536,ihr,lulu-braut
+gdc-coref,x3bf.0,33445,33873,rodrigo,33592,33597,Jeder,rodrigo-/-schigolch-(lulus-vat…
+gdc-coref,x3bf.0,33445,33873,rodrigo,33653,33656,wir,rodrigo-/-schigolch-(lulus-vat…
+gdc-coref,x3bf.0,33445,33873,rodrigo,33657,33667,den Jungen,hugenberg
+gdc-coref,x3bf.0,33445,33873,rodrigo,33695,33697,Er,hugenberg
+gdc-coref,x3bf.0,33445,33873,rodrigo,33742,33751,Schigolch,schigolch
+gdc-coref,x3bf.0,33445,33873,rodrigo,33759,33762,ihn,hugenberg
+gdc-coref,x3bf.0,33445,33873,rodrigo,33792,33795,Der,hugenberg
+gdc-coref,x3bf.0,33817,33873,_stage,33826,33837,der Galerie,eine-----------verhängte-Galerie
+gdc-coref,x3bf.0,33878,34100,rodrigo,33894,33897,sie,lulu-braut
+gdc-coref,x3bf.0,33878,34100,rodrigo,33901,33958,Die zukünftige pompöseste Luftgymnastikerin der Jetztzeit,lulu-braut
+gdc-coref,x3bf.0,33878,34100,rodrigo,33945,33958,der Jetztzeit,unserem-Zeitalter
+gdc-coref,x3bf.0,33961,34100,_stage,33966,33976,der Treppe,eine-monumentale-Treppe
+gdc-coref,x3bf.0,33961,34100,_stage,33983,33987,sich,der-Vorhang-über-der-Treppe
+gdc-coref,x3bf.0,33961,34100,_stage,33988,33999,der Vorhang,der-Vorhang-über-der-Treppe
+gdc-coref,x3bf.0,33961,34100,_stage,34005,34009,Lulu,lulu-braut
+gdc-coref,x3bf.0,33961,34100,_stage,34010,34028,im schwarzen Kleid,"schwarzem,-enganliegenden-----------Kleid-(geschwitz)"
+gdc-coref,x3bf.0,33961,34100,_stage,34033,34043,Schigolchs,schigolch
+gdc-coref,x3bf.0,33961,34100,_stage,34067,34071,sich,lulu-braut
+gdc-coref,x3bf.0,33961,34100,_stage,34080,34090,die Treppe,eine-monumentale-Treppe
+gdc-coref,x3bf.0,34104,34173,schigolch,34119,34133,alter Schimmel,lulu-braut
+gdc-coref,x3bf.0,34104,34173,schigolch,34135,34138,Wir,schigolch-(lulus-vat…-/-lulu-braut
+gdc-coref,x3bf.0,34104,34173,schigolch,34162,34172,die Grenze,"die-Grenze-(die-bald-überquert-wird,-von-deutschland-nach-frankreich)"
+gdc-coref,x3bf.0,34186,34219,_stage,34186,34190,Lulu,lulu-braut
+gdc-coref,x3bf.0,34186,34219,_stage,34195,34207,blöden Augen,die-Augen-(rodrigo)
+gdc-coref,x3bf.0,34258,34315,_stage,34281,34290,des Aktes,des-Aktes
+gdc-coref,x3bf.0,34258,34315,_stage,34300,34314,munterstem Ton,ihre-Stimme-(lulu)
+gdc-coref,x3bf.0,34253,34352,lulu,34325,34327,Du,schigolch
+gdc-coref,x3bf.0,34253,34352,lulu,34336,34339,mir,lulu
+gdc-coref,x3bf.0,34357,34465,rodrigo,34379,34381,du,schigolch
+gdc-coref,x3bf.0,34357,34465,rodrigo,34406,34432,einem solchen Wolfsgesicht,lulu-braut
+gdc-coref,x3bf.0,34357,34465,rodrigo,34437,34450,dem Gefängnis,das-Gefängnis-(lulus)
+gdc-coref,x3bf.0,34504,34748,rodrigo,34513,34516,Ich,rodrigo
+gdc-coref,x3bf.0,34504,34748,rodrigo,34528,34540,der Polizei!,der-Polizei-(polizisten)
+gdc-coref,x3bf.0,34504,34748,rodrigo,34541,34544,Ich,rodrigo
+gdc-coref,x3bf.0,34504,34748,rodrigo,34560,34748,"Diese Vogelscheuche will sich in Trikots sehen lassen. Da kosten schon die Wattons zwei Monatsgagen. – Du bist die perfideste Hochstaplerin, die je im Hotel Ochsenbutter Logis bezogen hat!",das11
+gdc-coref,x3bf.0,34504,34748,rodrigo,34560,34579,Diese Vogelscheuche,lulu-braut
+gdc-coref,x3bf.0,34504,34748,rodrigo,34585,34589,sich,lulu-braut
+gdc-coref,x3bf.0,34504,34748,rodrigo,34643,34659,zwei Monatsgagen,die-Gagen-(für-rodrigos-vorstellungen-mit-lulu)
+gdc-coref,x3bf.0,34504,34748,rodrigo,34663,34665,Du,lulu-braut
+gdc-coref,x3bf.0,34504,34748,rodrigo,34671,34747,"die perfideste Hochstaplerin, die je im Hotel Ochsenbutter Logis bezogen hat","die-perfideste-------------Hochstaplerin,-die-je-im-Hotel-Ochsenbutter-Logis-bezogen-hat-(prädikativ-lulu)"
+gdc-coref,x3bf.0,34504,34748,rodrigo,34701,34704,die,"die-perfideste-------------Hochstaplerin,-die-je-im-Hotel-Ochsenbutter-Logis-bezogen-hat-(prädikativ-lulu)"
+gdc-coref,x3bf.0,34504,34748,rodrigo,34708,34729,im Hotel Ochsenbutter,im-Hotel-Ochsenbutter
+gdc-coref,x3bf.0,34753,34804,alwa,34759,34762,Ich,alwa
+gdc-coref,x3bf.0,34753,34804,alwa,34769,34772,Sie,rodrigo
+gdc-coref,x3bf.0,34753,34804,alwa,34774,34782,die Frau,lulu-braut
+gdc-coref,x3bf.0,34809,35260,rodrigo,34837,34840,Sie,alwa
+gdc-coref,x3bf.0,34809,35260,rodrigo,34841,34844,das,das11
+gdc-coref,x3bf.0,34809,35260,rodrigo,34849,34852,Ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,34858,34861,mir,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,34862,34887,dieser abgenagten Knochen,ihrer-praktischen-Einrichtung-(äußere-erscheinung-körperliche-vorzüge-lulu)
+gdc-coref,x3bf.0,34809,35260,rodrigo,34894,34906,meinen Wanst,meine-fürchterliche-Plauze-(rodrigos-bauch)
+gdc-coref,x3bf.0,34809,35260,rodrigo,34894,34900,meinen,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,34920,34923,Ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,34944,34947,Ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,34978,34981,ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,35027,35031,mich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,35046,35056,dem Platze,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,34809,35260,rodrigo,35084,35087,ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,35088,35091,mir,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,35149,35154,Ihren,lulu-braut
+gdc-coref,x3bf.0,34809,35260,rodrigo,35191,35194,ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,35195,35200,Ihnen,alwa
+gdc-coref,x3bf.0,34809,35260,rodrigo,35226,35229,Ich,rodrigo
+gdc-coref,x3bf.0,34809,35260,rodrigo,35241,35252,der Polizei,der-Polizei-(polizisten)
+gdc-coref,x3bf.0,35291,35317,lulu,35297,35300,Der,rodrigo
+gdc-coref,x3bf.0,35291,35317,lulu,35306,35310,sich,rodrigo
+gdc-coref,x3bf.0,35322,35393,schigolch,35333,35336,Den,rodrigo
+gdc-coref,x3bf.0,35322,35393,schigolch,35342,35345,wir,lulu-braut-/-alwa-+-2
+gdc-coref,x3bf.0,35322,35393,schigolch,35363,35379,schwarzen Kaffee,den-Kaffee
+gdc-coref,x3bf.0,35322,35393,schigolch,35384,35392,die Dame,lulu-braut
+gdc-coref,x3bf.0,35403,35423,_stage,35403,35411,am Tisch,ein-kleiner-Serviertisch
+gdc-coref,x3bf.0,35398,35471,alwa,35433,35439,Kaffee,den-Kaffee
+gdc-coref,x3bf.0,35398,35471,alwa,35441,35444,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,35476,35533,schigolch,35487,35490,Ich,schigolch
+gdc-coref,x3bf.0,35538,35581,lulu,35561,35581,Herr Gott im Himmel!,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,35538,35581,lulu,35571,35580,im Himmel,gen-Himmel-(tod-jenseits)
+gdc-coref,x3bf.0,35586,35760,schigolch,35624,35627,ich,schigolch
+gdc-coref,x3bf.0,35586,35760,schigolch,35628,35632,dich,lulu-braut
+gdc-coref,x3bf.0,35586,35760,schigolch,35650,35653,wir,lulu-braut-/-alwa-+-2
+gdc-coref,x3bf.0,35586,35760,schigolch,35677,35680,Ich,schigolch
+gdc-coref,x3bf.0,35586,35760,schigolch,35690,35730,"ein Souper, das  bis morgen früh vorhält","ein-Souper,-das--bis-morgen-früh-vorhält"
+gdc-coref,x3bf.0,35586,35760,schigolch,35702,35705,das,"ein-Souper,-das--bis-morgen-früh-vorhält"
+gdc-coref,x3bf.0,35586,35760,schigolch,35734,35746,Guten Morgen,"Guten-Morgen-(evtl-phrase,-der-morgen-des-heutigen-tages)"
+gdc-coref,x3bf.0,35586,35760,schigolch,35748,35759,Herr Doktor,alwa
+gdc-coref,x3bf.0,35765,35783,alwa,35771,35782,Guten Abend,"Guten-Morgen-(evtl-phrase,-der-morgen-des-heutigen-tages)"
+gdc-coref,x3bf.0,35788,35914,schigolch,35824,35827,ich,schigolch
+gdc-coref,x3bf.0,35891,35914,_stage,35897,35910,die Mitteltür,die-Eingangstür-----------mit-gewundenen-Säulen-und-Frontispiz
+gdc-coref,x3bf.0,35918,36006,lulu,35924,35927,Ich,lulu
+gdc-coref,x3bf.0,35918,36006,lulu,35938,35955,anderthalb Jahren,seit-einem-vollen-Jahr-(zeitraum-in-dem-lulu-im-Gefängnis-war)
+gdc-coref,x3bf.0,36011,36041,alwa,36024,36026,du,lulu-braut
+gdc-coref,x3bf.0,36046,36135,lulu,36052,36055,Ich,lulu
+gdc-coref,x3bf.0,36046,36135,lulu,36066,36076,fünf Tagen,fünf-Tage-(seitdem-lulu-und-geschwitz-an-cholera-erkrankt-sind)
+gdc-coref,x3bf.0,36046,36135,lulu,36077,36093,schwarzen Kaffee,den-Kaffee
+gdc-coref,x3bf.0,36046,36135,lulu,36117,36119,du,alwa
+gdc-coref,x3bf.0,36140,36170,alwa,36146,36149,Ich,alwa
+gdc-coref,x3bf.0,36140,36170,alwa,36155,36169,Elixier de Spa,Elixier-de-Spa
+gdc-coref,x3bf.0,36175,36288,lulu,36181,36184,Das,Elixier-de-Spa
+gdc-coref,x3bf.0,36175,36288,lulu,36216,36220,sich,lulu-braut
+gdc-coref,x3bf.0,36175,36288,lulu,36230,36234,Alwa,alwa
+gdc-coref,x3bf.0,36175,36288,lulu,36254,36261,im Saal,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,36175,36288,lulu,36278,36287,mein Bild,mein-Bild
+gdc-coref,x3bf.0,36175,36288,lulu,36278,36282,mein,lulu
+gdc-coref,x3bf.0,36293,36360,alwa,36299,36302,Das,mein-Bild
+gdc-coref,x3bf.0,36293,36360,alwa,36308,36311,ich,alwa
+gdc-coref,x3bf.0,36293,36360,alwa,36315,36328,meinem Zimmer,meinem-Zimmer-(alwas)
+gdc-coref,x3bf.0,36293,36360,alwa,36315,36321,meinem,alwa
+gdc-coref,x3bf.0,36293,36360,alwa,36336,36339,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,36293,36360,alwa,36340,36342,es,mein-Bild
+gdc-coref,x3bf.0,36365,36393,lulu,36380,36388,das Bild,mein-Bild
+gdc-coref,x3bf.0,36398,36461,alwa,36409,36411,du,lulu-braut
+gdc-coref,x3bf.0,36398,36461,alwa,36412,36417,deine,lulu-braut
+gdc-coref,x3bf.0,36398,36461,alwa,36433,36445,im Gefängnis,im-Gefängnis
+gdc-coref,x3bf.0,36466,36814,lulu,36486,36491,einem,einer-(ein-mensch)
+gdc-coref,x3bf.0,36466,36814,lulu,36512,36515,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,36466,36814,lulu,36527,36531,sich,einer-(ein-mensch)
+gdc-coref,x3bf.0,36466,36814,lulu,36574,36577,ich,lulu
+gdc-coref,x3bf.0,36466,36814,lulu,36578,36609,eine nagelneue Kehrichtschaufel,eine-nagelneue-Kehrichtschaufel
+gdc-coref,x3bf.0,36466,36814,lulu,36616,36619,ich,lulu
+gdc-coref,x3bf.0,36466,36814,lulu,36654,36657,ich,lulu
+gdc-coref,x3bf.0,36466,36814,lulu,36658,36661,sie,eine-nagelneue-Kehrichtschaufel
+gdc-coref,x3bf.0,36466,36814,lulu,36662,36665,mir,lulu
+gdc-coref,x3bf.0,36466,36814,lulu,36684,36696,vors Gesicht,vors-Gesicht-(lulu)
+gdc-coref,x3bf.0,36466,36814,lulu,36698,36707,Das Blech,eine-nagelneue-Kehrichtschaufel
+gdc-coref,x3bf.0,36466,36814,lulu,36732,36735,ich,lulu
+gdc-coref,x3bf.0,36466,36814,lulu,36747,36752,meine,lulu
+gdc-coref,x3bf.0,36466,36814,lulu,36767,36775,das Bild,mein-Bild
+gdc-coref,x3bf.0,36466,36814,lulu,36780,36793,deinem Zimmer,meinem-Zimmer-(alwas)
+gdc-coref,x3bf.0,36466,36814,lulu,36780,36786,deinem,alwa
+gdc-coref,x3bf.0,36466,36814,lulu,36800,36803,ich,lulu
+gdc-coref,x3bf.0,36819,36864,alwa,36828,36834,Gottes,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,36819,36864,alwa,36843,36845,du,lulu-braut
+gdc-coref,x3bf.0,36819,36864,alwa,36851,36855,dich,lulu-braut
+gdc-coref,x3bf.0,36869,36973,lulu,36875,36878,Ich,lulu
+gdc-coref,x3bf.0,36869,36973,lulu,36884,36888,mich,lulu
+gdc-coref,x3bf.0,36917,36973,_stage,36917,36921,Alwa,alwa
+gdc-coref,x3bf.0,36917,36973,_stage,36955,36963,das Bild,mein-Bild
+gdc-coref,x3bf.0,36977,37275,lulu,36990,36992,Er,alwa
+gdc-coref,x3bf.0,36977,37275,lulu,37015,37019,sich,einer-(ein-mensch)
+gdc-coref,x3bf.0,36977,37275,lulu,37020,37035,vierzehn Monate,seit-einem-vollen-Jahr-(zeitraum-in-dem-lulu-im-Gefängnis-war)
+gdc-coref,x3bf.0,36977,37275,lulu,37073,37075,Er,alwa
+gdc-coref,x3bf.0,36977,37275,lulu,37102,37119,seine beiden Knie,seine-beiden-Knie-(alwa)
+gdc-coref,x3bf.0,36977,37275,lulu,37102,37107,seine,alwa
+gdc-coref,x3bf.0,36977,37275,lulu,37182,37188,Gottes,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,36977,37275,lulu,37206,37209,ich,lulu
+gdc-coref,x3bf.0,36977,37275,lulu,37213,37226,diesem Zimmer,Prachtvoller-Saal-in-deutscher-Renaissance-mit-schwerem-Plafond-aus-geschnitztem-----------Eichenholz
+gdc-coref,x3bf.0,36977,37275,lulu,37231,37243,seinen Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,36977,37275,lulu,37231,37237,seinen,alwa
+gdc-coref,x3bf.0,37285,37330,_stage,37302,37329,Lulus Bild im Pierrotkostüm,mein-Bild
+gdc-coref,x3bf.0,37285,37330,_stage,37302,37307,Lulus,lulu-braut
+gdc-coref,x3bf.0,37280,37411,alwa,37331,37333,Es,mein-Bild
+gdc-coref,x3bf.0,37280,37411,alwa,37354,37357,Ich,alwa
+gdc-coref,x3bf.0,37280,37411,alwa,37364,37366,es,mein-Bild
+gdc-coref,x3bf.0,37416,37471,lulu,37422,37424,Du,alwa
+gdc-coref,x3bf.0,37416,37471,lulu,37430,37432,es,mein-Bild
+gdc-coref,x3bf.0,37416,37471,lulu,37458,37461,ich,lulu
+gdc-coref,x3bf.0,37477,37725,alwa,37483,37486,Ich,alwa
+gdc-coref,x3bf.0,37477,37725,alwa,37514,37529,unserer Zeitung,"das-Käseblatt,-das-Ihr-Vater-------------redigierte"
+gdc-coref,x3bf.0,37477,37725,alwa,37572,37585,Die Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,37477,37725,alwa,37592,37594,es,mein-Bild
+gdc-coref,x3bf.0,37477,37725,alwa,37605,37609,sich,die_geschwitz
+gdc-coref,x3bf.0,37477,37725,alwa,37613,37626,ihrer Wohnung,ihrer-Wohnung-(geschwitz)
+gdc-coref,x3bf.0,37477,37725,alwa,37613,37618,ihrer,die_geschwitz
+gdc-coref,x3bf.0,37477,37725,alwa,37650,37653,sie,die_geschwitz
+gdc-coref,x3bf.0,37690,37725,_stage,37690,37692,Er,alwa
+gdc-coref,x3bf.0,37690,37725,_stage,37698,37706,das Bild,mein-Bild
+gdc-coref,x3bf.0,37690,37725,_stage,37711,37724,die Staffelei,eine-leere-dekorative-Staffelei
+gdc-coref,x3bf.0,37729,37841,lulu,37750,37768,das arme Ungeheuer,das-arme-ungeheuer-(unklar-wer-gemeint-ist)
+gdc-coref,x3bf.0,37729,37841,lulu,37786,37807,im Hotel Ochsenbutter,im-Hotel-Ochsenbutter
+gdc-coref,x3bf.0,37729,37841,lulu,37817,37833,eigner Erfahrung,das-arme-ungeheuer-(unklar-wer-gemeint-ist)
+gdc-coref,x3bf.0,37846,37928,alwa,37852,37855,Ich,alwa
+gdc-coref,x3bf.0,37846,37928,alwa,37887,37901,die Ereignisse,das-Komplott-(der-befreiungsakt-lulus)
+gdc-coref,x3bf.0,37933,38643,lulu,37943,37956,die Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,37961,37964,das,das-Komplott-(der-befreiungsakt-lulus)
+gdc-coref,x3bf.0,37933,38643,lulu,37989,37992,ich,lulu
+gdc-coref,x3bf.0,37933,38643,lulu,38003,38008,ihren,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38029,38036,Hamburg,Hamburg
+gdc-coref,x3bf.0,37933,38643,lulu,38116,38119,sie,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38120,38151,ihren Plan zu meiner Befreiung.,Ihr-------------Befreiungsplan-(geschwitz-plan-zum-befreiungsunternehmung-lulus)
+gdc-coref,x3bf.0,37933,38643,lulu,38120,38125,ihren,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38134,38140,meiner,lulu
+gdc-coref,x3bf.0,37933,38643,lulu,38152,38155,Sie,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38207,38210,sie,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38247,38250,sie,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38262,38269,Hamburg,Hamburg
+gdc-coref,x3bf.0,37933,38643,lulu,38306,38342,"der ersten Gelegenheit, die sich bot","der-ersten-Gelegenheit,-die-sich-bot"
+gdc-coref,x3bf.0,37933,38643,lulu,38330,38333,die,"der-ersten-Gelegenheit,-die-sich-bot"
+gdc-coref,x3bf.0,37933,38643,lulu,38334,38338,sich,"der-ersten-Gelegenheit,-die-sich-bot"
+gdc-coref,x3bf.0,37933,38643,lulu,38348,38351,sie,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38357,38373,die Unterkleider,die-Unterkleider-(der-cholerakranken-die-geschwitz-zunächst-trägt-und-dann-mit-lulu-tauscht)
+gdc-coref,x3bf.0,37933,38643,lulu,38381,38386,denen,die-Unterkleider-(der-cholerakranken-die-geschwitz-zunächst-trägt-und-dann-mit-lulu-tauscht)
+gdc-coref,x3bf.0,37933,38643,lulu,38422,38425,die,die-Unterkleider-(der-cholerakranken-die-geschwitz-zunächst-trägt-und-dann-mit-lulu-tauscht)
+gdc-coref,x3bf.0,37933,38643,lulu,38493,38496,sie,die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38521,38524,mir,lulu
+gdc-coref,x3bf.0,37933,38643,lulu,38525,38538,ins Gefängnis,das-Gefängnis-(lulus)
+gdc-coref,x3bf.0,37933,38643,lulu,38540,38642,"In meiner Zelle, als die Aufseherin draußen war, vertauschten wir beide dann rasch unsere Unterkleider",Das9
+gdc-coref,x3bf.0,37933,38643,lulu,38543,38549,meiner,lulu
+gdc-coref,x3bf.0,37933,38643,lulu,38602,38605,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,37933,38643,lulu,38623,38629,unsere,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,38648,38753,alwa,38654,38657,Das,Das9
+gdc-coref,x3bf.0,38648,38753,alwa,38667,38751,"die Ursache, weshalb die Geschwitz und du am gleichen Tage an der Cholera erkrankten","die-Ursache,-weshalb-die-Geschwitz-und-du-am-gleichen-Tage-an-der-Cholera-------------erkrankten-(prädikativ-der-tausch-der-unterkleider-lulu-geschwitz-im-gefängnis)"
+gdc-coref,x3bf.0,38648,38753,alwa,38688,38701,die Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,38648,38753,alwa,38706,38708,du,lulu-braut
+gdc-coref,x3bf.0,38648,38753,alwa,38709,38725,am gleichen Tage,am-gleichen-Tage-(tag-an-dem-lulu-und-geschwitz-sich-mit-cholera-infizieren)
+gdc-coref,x3bf.0,38648,38753,alwa,38729,38740,der Cholera,Was-uns-unter-die-Erde-bringt-(cholera-krankheit-lulu-und-geschwitz)
+gdc-coref,x3bf.0,38758,39412,lulu,38771,38774,Das,Das9
+gdc-coref,x3bf.0,38758,39412,lulu,38779,38788,der Grund,"die-Ursache,-weshalb-die-Geschwitz-und-du-am-gleichen-Tage-an-der-Cholera-------------erkrankten-(prädikativ-der-tausch-der-unterkleider-lulu-geschwitz-im-gefängnis)"
+gdc-coref,x3bf.0,38758,39412,lulu,38792,38805,Die Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,38816,38829,ihrer Wohnung,ihrer-Wohnung-(geschwitz)
+gdc-coref,x3bf.0,38758,39412,lulu,38816,38821,ihrer,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,38850,38885,die Isolierbaracke beim Krankenhaus,der-------------Isolierbaracke
+gdc-coref,x3bf.0,38758,39412,lulu,38869,38885,beim Krankenhaus,im-Krankenhaus
+gdc-coref,x3bf.0,38758,39412,lulu,38905,38908,mir,lulu
+gdc-coref,x3bf.0,38758,39412,lulu,38954,38957,wir,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,38977,39018,der Isolierbaracke hinter dem Krankenhaus,der-------------Isolierbaracke
+gdc-coref,x3bf.0,38758,39412,lulu,39003,39018,dem Krankenhaus,im-Krankenhaus
+gdc-coref,x3bf.0,38758,39412,lulu,39024,39037,die Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39042,39056,vom ersten Tag,am-gleichen-Tage-(tag-an-dem-lulu-und-geschwitz-sich-mit-cholera-infizieren)
+gdc-coref,x3bf.0,38758,39412,lulu,39065,39069,ihre,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39085,39091,unsere,lulu-braut-/-die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39162,39165,sie,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39198,39201,sie,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39224,39227,sie,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39233,39237,ihre,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39253,39256,Ich,lulu
+gdc-coref,x3bf.0,38758,39412,lulu,39261,39273,ihre Kleider,"schwarzem,-enganliegenden-----------Kleid-(geschwitz)"
+gdc-coref,x3bf.0,38758,39412,lulu,39261,39265,ihre,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39278,39281,sie,die_geschwitz
+gdc-coref,x3bf.0,38758,39412,lulu,39295,39301,meinen,lulu
+gdc-coref,x3bf.0,38758,39412,lulu,39333,39336,ich,
+gdc-coref,x3bf.0,38758,39412,lulu,39365,39368,sie,Ich-(geschwitz-als-lulu)
+gdc-coref,x3bf.0,38758,39412,lulu,39398,39411,des Dr. Schön,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,39417,39515,alwa,39427,39436,dem Bilde,mein-Bild
+gdc-coref,x3bf.0,39417,39515,alwa,39444,39446,du,lulu-braut
+gdc-coref,x3bf.0,39417,39515,alwa,39447,39449,es,es7
+gdc-coref,x3bf.0,39417,39515,alwa,39458,39460,es,es7
+gdc-coref,x3bf.0,39417,39515,alwa,39461,39483,die äußere Erscheinung,ihrer-praktischen-Einrichtung-(äußere-erscheinung-körperliche-vorzüge-lulu)
+gdc-coref,x3bf.0,39521,39642,lulu,39527,39537,Im Gesicht,vors-Gesicht-(lulu)
+gdc-coref,x3bf.0,39521,39642,lulu,39542,39545,ich,lulu
+gdc-coref,x3bf.0,39521,39642,lulu,39576,39579,ich,lulu
+gdc-coref,x3bf.0,39521,39642,lulu,39597,39600,Man,einer-(ein-mensch)
+gdc-coref,x3bf.0,39521,39642,lulu,39629,39641,im Gefängnis,im-Gefängnis
+gdc-coref,x3bf.0,39647,39704,alwa,39653,39683,Du sahst schrecklich elend aus,Das10
+gdc-coref,x3bf.0,39647,39704,alwa,39653,39655,Du,lulu-braut
+gdc-coref,x3bf.0,39647,39704,alwa,39689,39691,du,lulu-braut
+gdc-coref,x3bf.0,39709,39831,lulu,39715,39718,Das,Das10
+gdc-coref,x3bf.0,39709,39831,lulu,39725,39728,ich,lulu
+gdc-coref,x3bf.0,39709,39831,lulu,39733,39736,uns,lulu-braut-/-alwa-+-2
+gdc-coref,x3bf.0,39709,39831,lulu,39737,39754,den Springfritzen,rodrigo
+gdc-coref,x3bf.0,39709,39831,lulu,39784,39786,du,alwa
+gdc-coref,x3bf.0,39709,39831,lulu,39797,39799,du,alwa
+gdc-coref,x3bf.0,39709,39831,lulu,39803,39824,den anderthalb Jahren,seit-einem-vollen-Jahr-(zeitraum-in-dem-lulu-im-Gefängnis-war)
+gdc-coref,x3bf.0,39836,39955,alwa,39842,39845,Ich,alwa
+gdc-coref,x3bf.0,39836,39955,alwa,39856,39898,"einem Stück, das ich über dich geschrieben",meinem-›Erdgeist‹
+gdc-coref,x3bf.0,39836,39955,alwa,39869,39872,das,meinem-›Erdgeist‹
+gdc-coref,x3bf.0,39836,39955,alwa,39873,39876,ich,alwa
+gdc-coref,x3bf.0,39836,39955,alwa,39882,39886,dich,lulu-braut
+gdc-coref,x3bf.0,39836,39955,alwa,39924,39954,der literarischen Gesellschaft,der-freien-literarischen-Gesellschaft
+gdc-coref,x3bf.0,39960,39986,lulu,39974,39985,dein Schatz,"dein-Schatz-(unklar,-alwas-schatz,-meint-vermutl-die-schauspielerin-die-im-erdgeist-lulu-spielt)"
+gdc-coref,x3bf.0,39960,39986,lulu,39974,39978,dein,alwa
+gdc-coref,x3bf.0,39991,40071,alwa,39997,40070,"Eine Schauspielerin, der ich eine Wohnung in der Karlstraße gemietet habe","dein-Schatz-(unklar,-alwas-schatz,-meint-vermutl-die-schauspielerin-die-im-erdgeist-lulu-spielt)"
+gdc-coref,x3bf.0,39991,40071,alwa,40018,40021,der,"dein-Schatz-(unklar,-alwas-schatz,-meint-vermutl-die-schauspielerin-die-im-erdgeist-lulu-spielt)"
+gdc-coref,x3bf.0,39991,40071,alwa,40022,40025,ich,alwa
+gdc-coref,x3bf.0,40076,40097,lulu,40082,40096,Liebt sie dich,das12
+gdc-coref,x3bf.0,40076,40097,lulu,40088,40091,sie,"dein-Schatz-(unklar,-alwas-schatz,-meint-vermutl-die-schauspielerin-die-im-erdgeist-lulu-spielt)"
+gdc-coref,x3bf.0,40076,40097,lulu,40092,40096,dich,alwa
+gdc-coref,x3bf.0,40102,40183,alwa,40117,40120,ich,alwa
+gdc-coref,x3bf.0,40102,40183,alwa,40121,40124,das,das12
+gdc-coref,x3bf.0,40102,40183,alwa,40133,40182,Ich habe die Frau seit sechs Wochen nicht gesehen,das13
+gdc-coref,x3bf.0,40102,40183,alwa,40133,40136,Ich,alwa
+gdc-coref,x3bf.0,40102,40183,alwa,40142,40150,die Frau,"dein-Schatz-(unklar,-alwas-schatz,-meint-vermutl-die-schauspielerin-die-im-erdgeist-lulu-spielt)"
+gdc-coref,x3bf.0,40188,40210,lulu,40203,40205,du,alwa
+gdc-coref,x3bf.0,40188,40210,lulu,40206,40209,das,das13
+gdc-coref,x3bf.0,40215,40459,alwa,40231,40233,du,lulu-braut
+gdc-coref,x3bf.0,40215,40459,alwa,40253,40256,mir,alwa
+gdc-coref,x3bf.0,40215,40459,alwa,40302,40321,meiner Sinnlichkeit,meiner-------------Sinnlichkeit-(alwa)
+gdc-coref,x3bf.0,40215,40459,alwa,40302,40308,meiner,alwa
+gdc-coref,x3bf.0,40215,40459,alwa,40326,40351,meinem geistigen Schaffen,meinen-------------Schöpfungen-(alwas-schriftstellerische-allg)
+gdc-coref,x3bf.0,40215,40459,alwa,40326,40332,meinem,alwa
+gdc-coref,x3bf.0,40215,40459,alwa,40356,40368,zum Beispiel,zum-Beispiel
+gdc-coref,x3bf.0,40215,40459,alwa,40376,40379,mir,alwa
+gdc-coref,x3bf.0,40215,40459,alwa,40380,40383,dir,lulu-braut
+gdc-coref,x3bf.0,40215,40459,alwa,40408,40412,dich,lulu-braut
+gdc-coref,x3bf.0,40215,40459,alwa,40444,40448,dich,lulu-braut
+gdc-coref,x3bf.0,40469,40483,_stage,40469,40482,im Märchenton,ihre-Stimme-(lulu)
+gdc-coref,x3bf.0,40464,40595,lulu,40521,40524,ich,lulu
+gdc-coref,x3bf.0,40464,40595,lulu,40581,40584,mir,lulu
+gdc-coref,x3bf.0,40464,40595,lulu,40585,40594,einen Kuß,einen-Kuß-(lulu-und-alwa)
+gdc-coref,x3bf.0,40600,40719,alwa,40609,40621,deinen Augen,deinen-Augen-(lulu)
+gdc-coref,x3bf.0,40600,40719,alwa,40609,40615,deinen,lulu-braut
+gdc-coref,x3bf.0,40600,40719,alwa,40661,40718,"einem tiefen Brunnen, in den man einen Stein geworfen hat","einem-tiefen-Brunnen,-in-den-man-------------einen-Stein-geworfen-hat"
+gdc-coref,x3bf.0,40600,40719,alwa,40686,40689,den,"einem-tiefen-Brunnen,-in-den-man-------------einen-Stein-geworfen-hat"
+gdc-coref,x3bf.0,40600,40719,alwa,40690,40693,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,40745,40754,_stage,40750,40753,sie,lulu-braut
+gdc-coref,x3bf.0,40740,40806,alwa,40755,40760,Deine,lulu-braut
+gdc-coref,x3bf.0,40811,41119,lulu,40823,40826,Sie,lulu-braut
+gdc-coref,x3bf.0,40811,41119,lulu,40834,40837,ihn,alwa
+gdc-coref,x3bf.0,40811,41119,lulu,40864,40868,sich,lulu-braut
+gdc-coref,x3bf.0,40811,41119,lulu,40869,40872,ihm,alwa
+gdc-coref,x3bf.0,40811,41119,lulu,40873,40882,aufs Knie,seine-beiden-Knie-(alwa)
+gdc-coref,x3bf.0,40811,41119,lulu,40890,40893,dir,alwa
+gdc-coref,x3bf.0,40811,41119,lulu,40898,40901,mir,lulu
+gdc-coref,x3bf.0,40811,41119,lulu,40905,40973,Im Hotel Ochsenbutter bekamen wir alle vier Wochen ein lauwarmes Bad,die-Gelegenheit
+gdc-coref,x3bf.0,40811,41119,lulu,40905,40926,Im Hotel Ochsenbutter,im-Hotel-Ochsenbutter
+gdc-coref,x3bf.0,40811,41119,lulu,40935,40938,wir,"uns-(wohl-die-frauen-im-ochsenbutter,-inkl.-lulu)"
+gdc-coref,x3bf.0,40811,41119,lulu,40939,40955,alle vier Wochen,jeden-Monat
+gdc-coref,x3bf.0,40811,41119,lulu,40956,40973,ein lauwarmes Bad,ein-lauwarmes-Bad
+gdc-coref,x3bf.0,40811,41119,lulu,41008,41023,die Gelegenheit,die-Gelegenheit
+gdc-coref,x3bf.0,40811,41119,lulu,41028,41031,uns,"uns-(wohl-die-frauen-im-ochsenbutter,-inkl.-lulu)"
+gdc-coref,x3bf.0,40811,41119,lulu,41040,41043,wir,"uns-(wohl-die-frauen-im-ochsenbutter,-inkl.-lulu)"
+gdc-coref,x3bf.0,40811,41119,lulu,41044,41053,im Wasser,ein-lauwarmes-Bad
+gdc-coref,x3bf.0,40811,41119,lulu,41089,41092,Sie,lulu-braut
+gdc-coref,x3bf.0,40811,41119,lulu,41098,41101,ihn,alwa
+gdc-coref,x3bf.0,41142,41229,lulu,41148,41150,Du,alwa
+gdc-coref,x3bf.0,41142,41229,lulu,41162,41164,du,alwa
+gdc-coref,x3bf.0,41142,41229,lulu,41180,41183,ich,lulu
+gdc-coref,x3bf.0,41142,41229,lulu,41217,41221,mich,lulu
+gdc-coref,x3bf.0,41235,41317,alwa,41255,41258,ich,alwa
+gdc-coref,x3bf.0,41235,41317,alwa,41288,41306,deine Herrlichkeit,der-Schönheit-(ausse…-/-dem-Temperament-(cha…-cc
+gdc-coref,x3bf.0,41235,41317,alwa,41288,41293,deine,lulu-braut
+gdc-coref,x3bf.0,41322,41394,lulu,41328,41331,Ich,lulu
+gdc-coref,x3bf.0,41322,41394,lulu,41339,41343,mich,lulu
+gdc-coref,x3bf.0,41322,41394,lulu,41353,41393,"das scheußliche Schuhwerk, das ich trage","das-scheußliche-Schuhwerk,-das-ich-trage-(lulu)"
+gdc-coref,x3bf.0,41322,41394,lulu,41380,41383,das,"das-scheußliche-Schuhwerk,-das-ich-trage-(lulu)"
+gdc-coref,x3bf.0,41322,41394,lulu,41384,41387,ich,lulu
+gdc-coref,x3bf.0,41399,41491,alwa,41424,41435,deine Reize,der-Schönheit-(ausse…-/-dem-Temperament-(cha…-cc
+gdc-coref,x3bf.0,41399,41491,alwa,41424,41429,deine,lulu-braut
+gdc-coref,x3bf.0,41399,41491,alwa,41447,41450,uns,lulu-braut-/-alwa
+gdc-coref,x3bf.0,41496,41781,lulu,41502,41505,Mir,lulu
+gdc-coref,x3bf.0,41496,41781,lulu,41552,41554,du,alwa
+gdc-coref,x3bf.0,41496,41781,lulu,41555,41559,dich,alwa
+gdc-coref,x3bf.0,41496,41781,lulu,41560,41614,"des Kostümballes, auf dem ich als Knappe gekleidet war","des-Kostümballes,-auf-dem-ich-------------als-Knappe-gekleidet-war"
+gdc-coref,x3bf.0,41496,41781,lulu,41582,41585,dem,"des-Kostümballes,-auf-dem-ich-------------als-Knappe-gekleidet-war"
+gdc-coref,x3bf.0,41496,41781,lulu,41586,41589,ich,lulu
+gdc-coref,x3bf.0,41496,41781,lulu,41620,41623,mir,lulu
+gdc-coref,x3bf.0,41496,41781,lulu,41631,41654,die beschwipsten Frauen,einer-Frau
+gdc-coref,x3bf.0,41496,41781,lulu,41668,41681,Die Geschwitz,die_geschwitz
+gdc-coref,x3bf.0,41496,41781,lulu,41688,41691,mir,lulu
+gdc-coref,x3bf.0,41496,41781,lulu,41718,41722,mich,lulu
+gdc-coref,x3bf.0,41496,41781,lulu,41724,41727,ich,lulu
+gdc-coref,x3bf.0,41496,41781,lulu,41735,41738,ihr,die_geschwitz
+gdc-coref,x3bf.0,41496,41781,lulu,41743,41749,meinen,lulu
+gdc-coref,x3bf.0,41786,41809,alwa,41798,41808,süßes Herz,lulu-braut
+gdc-coref,x3bf.0,41819,41871,_stage,41822,41870,"dem Tone, in dem man ein unartiges Kind beruhigt",ihre-Stimme-(lulu)
+gdc-coref,x3bf.0,41819,41871,_stage,41835,41838,dem,ihre-Stimme-(lulu)
+gdc-coref,x3bf.0,41819,41871,_stage,41839,41842,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,41814,41912,lulu,41879,41882,ich,lulu
+gdc-coref,x3bf.0,41814,41912,lulu,41888,41900,deinen Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,41814,41912,lulu,41888,41894,deinen,alwa
+gdc-coref,x3bf.0,41917,41972,alwa,41938,41941,ich,alwa
+gdc-coref,x3bf.0,41917,41972,alwa,41942,41946,dich,lulu-braut
+gdc-coref,x3bf.0,41917,41972,alwa,41962,41971,Einen Kuß,einen-Kuß-(lulu-und-alwa)
+gdc-coref,x3bf.0,42006,42031,_stage,42006,42009,Sie,lulu-braut
+gdc-coref,x3bf.0,42006,42031,_stage,42015,42018,ihn,alwa
+gdc-coref,x3bf.0,42035,42312,alwa,42041,42043,Du,lulu-braut
+gdc-coref,x3bf.0,42035,42312,alwa,42051,42067,meine Seelenglut,meiner-------------Sinnlichkeit-(alwa)
+gdc-coref,x3bf.0,42035,42312,alwa,42051,42056,meine,alwa
+gdc-coref,x3bf.0,42035,42312,alwa,42074,42099,die geschicktesten Künste,der-Schönheit-(ausse…-/-dem-Temperament-(cha…-cc
+gdc-coref,x3bf.0,42035,42312,alwa,42120,42125,deine,lulu-braut
+gdc-coref,x3bf.0,42035,42312,alwa,42162,42202,"deine beiden großen, dunklen Kinderaugen",deinen-Augen-(lulu)
+gdc-coref,x3bf.0,42035,42312,alwa,42162,42167,deine,lulu-braut
+gdc-coref,x3bf.0,42035,42312,alwa,42222,42225,ich,alwa
+gdc-coref,x3bf.0,42035,42312,alwa,42226,42230,dich,lulu-braut
+gdc-coref,x3bf.0,42035,42312,alwa,42235,42258,die abgefeimteste Dirne,die-abgefeimteste-Dirne-(prädikativ-lulu)
+gdc-coref,x3bf.0,42035,42312,alwa,42267,42270,die,die-abgefeimteste-Dirne-(prädikativ-lulu)
+gdc-coref,x3bf.0,42035,42312,alwa,42274,42284,einen Mann,ein-Mann
+gdc-coref,x3bf.0,42317,42491,lulu,42341,42345,Gott,Gott-(evtl-phrase)
+gdc-coref,x3bf.0,42317,42491,lulu,42347,42350,ich,lulu
+gdc-coref,x3bf.0,42317,42491,lulu,42356,42359,das,die-abgefeimteste-Dirne-(prädikativ-lulu)
+gdc-coref,x3bf.0,42317,42491,lulu,42381,42391,die Grenze,"die-Grenze-(die-bald-überquert-wird,-von-deutschland-nach-frankreich)"
+gdc-coref,x3bf.0,42317,42491,lulu,42405,42408,wir,lulu-braut-/-alwa
+gdc-coref,x3bf.0,42317,42491,lulu,42409,42412,uns,lulu-braut-/-alwa
+gdc-coref,x3bf.0,42317,42491,lulu,42426,42429,wir,lulu-braut-/-alwa
+gdc-coref,x3bf.0,42496,43014,alwa,42508,42520,dieses Kleid,"schwarzem,-enganliegenden-----------Kleid-(geschwitz)"
+gdc-coref,x3bf.0,42496,43014,alwa,42530,42533,ich,alwa
+gdc-coref,x3bf.0,42496,43014,alwa,42534,42546,deinen Wuchs,ihrer-praktischen-Einrichtung-(äußere-erscheinung-körperliche-vorzüge-lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42534,42540,deinen,lulu-braut
+gdc-coref,x3bf.0,42496,43014,alwa,42567,42607,"Diese schmalen Knöchel, dieses Cantabile",den-Knöcheln-(lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42609,42639,dieses entzückende Anschwellen,die-Waden-meiner-Braut-(evtl-lulus-beine)
+gdc-coref,x3bf.0,42496,43014,alwa,42679,42712,das gewaltige Andante der Wollust,das-gewaltige-Andante-der-Wollust-(unklar-evtl-beine-oberschenkel-lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42730,42734,sich,das-gewaltige-Andante-der-Wollust-(unklar-evtl-beine-oberschenkel-lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42735,42763,die beiden schlanken Rivalen,das-gewaltige-Andante-der-Wollust-(unklar-evtl-beine-oberschenkel-lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42814,42824,dem andern,das-gewaltige-Andante-der-Wollust-(unklar-evtl-beine-oberschenkel-lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42856,42880,die launische Gebieterin,lulu-braut
+gdc-coref,x3bf.0,42496,43014,alwa,42893,42915,die beiden Nebenbuhler,das-gewaltige-Andante-der-Wollust-(unklar-evtl-beine-oberschenkel-lulu)
+gdc-coref,x3bf.0,42496,43014,alwa,42961,42964,Ich,alwa
+gdc-coref,x3bf.0,42496,43014,alwa,42971,42975,dein,lulu-braut
+gdc-coref,x3bf.0,42496,43014,alwa,42992,42995,dir,lulu-braut
+gdc-coref,x3bf.0,43019,43117,lulu,43032,43079,Derweil vergrabe ich meine Hände in deinem Haar,es8
+gdc-coref,x3bf.0,43019,43117,lulu,43049,43052,ich,lulu
+gdc-coref,x3bf.0,43019,43117,lulu,43053,43058,meine,lulu
+gdc-coref,x3bf.0,43019,43117,lulu,43068,43074,deinem,alwa
+gdc-coref,x3bf.0,43019,43117,lulu,43081,43084,Sie,lulu-braut
+gdc-coref,x3bf.0,43019,43117,lulu,43089,43091,es,es8
+gdc-coref,x3bf.0,43019,43117,lulu,43109,43112,man,einer-(ein-mensch)
+gdc-coref,x3bf.0,43019,43117,lulu,43113,43116,uns,lulu-braut-/-alwa
+gdc-coref,x3bf.0,43122,43169,alwa,43128,43130,Du,lulu-braut
+gdc-coref,x3bf.0,43122,43169,alwa,43136,43140,mich,alwa
+gdc-coref,x3bf.0,43122,43169,alwa,43144,43159,meinen Verstand,meine-ganze-geistige-Spannkraft-(alwa)
+gdc-coref,x3bf.0,43122,43169,alwa,43144,43150,meinen,alwa
+gdc-coref,x3bf.0,43175,43207,lulu,43188,43190,du,alwa
+gdc-coref,x3bf.0,43212,43246,alwa,43218,43226,Der Alte,schigolch
+gdc-coref,x3bf.0,43212,43246,alwa,43242,43245,dir,lulu-braut
+gdc-coref,x3bf.0,43251,43357,lulu,43257,43260,Der,schigolch
+gdc-coref,x3bf.0,43251,43357,lulu,43308,43356,"der Diwan, auf dem sich dein Vater verblutet hat","der-Diwan,-auf-dem-sich-dein-Vater-------------verblutet-hat-(prädikativ-wohl-ein-teppich-im-saal)"
+gdc-coref,x3bf.0,43251,43357,lulu,43323,43326,dem,"der-Diwan,-auf-dem-sich-dein-Vater-------------verblutet-hat-(prädikativ-wohl-ein-teppich-im-saal)"
+gdc-coref,x3bf.0,43251,43357,lulu,43332,43342,dein Vater,mein-Vater-(alwas-vater-dr.-schön)
+gdc-coref,x3bf.0,43251,43357,lulu,43332,43336,dein,alwa
+gdc-coref,x3bf.0,45675,46066,rodrigo,45711,45716,Meine,rodrigo
+gdc-coref,x3bf.0,45675,46066,rodrigo,45754,45758,mich,rodrigo
+gdc-coref,x3bf.0,45675,46066,rodrigo,45785,45788,ich,rodrigo
+gdc-coref,x3bf.0,45675,46066,rodrigo,45812,45815,mir,rodrigo
+gdc-coref,x3bf.0,45675,46066,rodrigo,45821,45824,ich,rodrigo
+gdc-coref,x3bf.0,45675,46066,rodrigo,45979,45982,Ich,rodrigo
+gdc-coref,x3bf.0,45675,46066,rodrigo,46011,46016,meine,rodrigo
+gdc-coref,x3bf.0,46070,46129,alwa,46110,46113,Ich,alwa
+gdc-coref,x3bf.0,46134,46179,rodrigo,46143,46146,Ich,rodrigo
+gdc-coref,x3bf.0,46283,46375,bianetta,46322,46325,mir,bianetta
+gdc-coref,x3bf.0,46283,46375,bianetta,46327,46331,mein,bianetta
+gdc-coref,x3bf.0,46380,46468,rodrigo,46397,46400,ich,rodrigo
+gdc-coref,x3bf.0,46380,46468,rodrigo,46402,46406,mein,rodrigo
+gdc-coref,x3bf.0,46380,46468,rodrigo,46422,46425,ich,rodrigo
+gdc-coref,x3bf.0,46380,46468,rodrigo,46443,46448,meine,rodrigo
+gdc-coref,x3bf.0,46473,46667,magelone,46483,46486,Ich,magelone
+gdc-coref,x3bf.0,46473,46667,magelone,46633,46636,mir,magelone
+gdc-coref,x3bf.0,47077,47182,magelone,47087,47090,Ich,magelone
+gdc-coref,x3bf.0,47355,47449,magelone,47403,47408,meine,magelone
+gdc-coref,x3bf.0,47454,47658,puntschu,47486,47490,mich,puntschu
+gdc-coref,x3bf.0,47454,47658,puntschu,47542,47548,meines,puntschu
+gdc-coref,x3bf.0,47454,47658,puntschu,47561,47564,ich,puntschu
+gdc-coref,x3bf.0,47454,47658,puntschu,47577,47580,ich,puntschu
+gdc-coref,x3bf.0,47663,47820,magelone,47691,47696,meine,magelone
+gdc-coref,x3bf.0,47663,47820,magelone,47737,47740,Ich,magelone
+gdc-coref,x3bf.0,47663,47820,magelone,47802,47805,mir,magelone
+gdc-coref,x3bf.0,47975,48130,magelone,48019,48022,mir,magelone
+gdc-coref,x3bf.0,47975,48130,magelone,48051,48057,meinem,magelone
+gdc-coref,x3bf.0,48200,48284,ludmilla_steinherz,48255,48258,Ich,ludmilla_steinherz
+gdc-coref,x3bf.0,48394,48530,die_geschwitz,48414,48417,ich,die_geschwitz
+gdc-coref,x3bf.0,48394,48530,die_geschwitz,48430,48434,mich,die_geschwitz
+gdc-coref,x3bf.0,48394,48530,die_geschwitz,48475,48478,Ich,die_geschwitz
+gdc-coref,x3bf.0,48394,48530,die_geschwitz,48502,48508,meiner,die_geschwitz
+gdc-coref,x3bf.0,48535,48667,casti-piani,48578,48581,ich,casti-piani
+gdc-coref,x3bf.0,48672,48828,ludmilla_steinherz,48706,48709,mir,ludmilla_steinherz
+gdc-coref,x3bf.0,48832,48925,magelone,48920,48924,mich,magelone
+gdc-coref,x3bf.0,48931,49451,puntschu,49250,49253,Ich,puntschu
+gdc-coref,x3bf.0,48931,49451,puntschu,49324,49327,ich,puntschu
+gdc-coref,x3bf.0,48931,49451,puntschu,49338,49342,mich,puntschu
+gdc-coref,x3bf.0,49456,49566,heilmann,49466,49469,Ich,heilmann
+gdc-coref,x3bf.0,49456,49566,heilmann,49529,49532,Ich,heilmann
+gdc-coref,x3bf.0,49571,49712,puntschu,49581,49584,Ich,puntschu
+gdc-coref,x3bf.0,49571,49712,puntschu,49658,49661,ich,puntschu
+gdc-coref,x3bf.0,49717,49934,magelone,49735,49740,meine,magelone
+gdc-coref,x3bf.0,49717,49934,magelone,49771,49774,ich,magelone
+gdc-coref,x3bf.0,49717,49934,magelone,49775,49779,mich,magelone
+gdc-coref,x3bf.0,49717,49934,magelone,49797,49802,Meine,magelone
+gdc-coref,x3bf.0,49717,49934,magelone,49910,49913,ich,magelone
+gdc-coref,x3bf.0,49939,50008,puntschu,49949,49952,Ich,puntschu
+gdc-coref,x3bf.0,49939,50008,puntschu,49957,49960,mir,puntschu
+gdc-coref,x3bf.0,49939,50008,puntschu,49961,49967,meiner,puntschu
+gdc-coref,x3bf.0,49939,50008,puntschu,49993,49998,meine,puntschu
+gdc-coref,x3bf.0,50013,50320,alwa,50075,50078,Ich,alwa
+gdc-coref,x3bf.0,50013,50320,alwa,50155,50158,Ich,alwa
+gdc-coref,x3bf.0,50013,50320,alwa,50164,50169,meine,alwa
+gdc-coref,x3bf.0,50325,50580,magelone,50406,50410,mein,magelone
+gdc-coref,x3bf.0,50584,50849,rodrigo,50735,50738,ich,rodrigo
+gdc-coref,x3bf.0,50584,50849,rodrigo,50773,50776,Ich,rodrigo
+gdc-coref,x3bf.0,50584,50849,rodrigo,50811,50814,ich,rodrigo
+gdc-coref,x3bf.0,50584,50849,rodrigo,50815,50818,mir,rodrigo
+gdc-coref,x3bf.0,50903,50973,casti-piani,50954,50957,mir,casti-piani
+gdc-coref,x3bf.0,51077,51144,rodrigo,51086,51089,Ich,rodrigo
+gdc-coref,x3bf.0,51077,51144,rodrigo,51105,51109,mich,rodrigo
+gdc-coref,x3bf.0,51202,51271,lulu,51228,51231,ich,lulu
+gdc-coref,x3bf.0,51469,51523,casti-piani,51501,51504,mir,casti-piani
+gdc-coref,x3bf.0,51600,51670,casti-piani,51621,51624,mir,casti-piani
+gdc-coref,x3bf.0,51810,51937,lulu,51854,51858,mich,lulu
+gdc-coref,x3bf.0,51810,51937,lulu,51893,51896,mir,lulu
+gdc-coref,x3bf.0,51942,52550,casti-piani,51964,51967,ich,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,51969,51972,Ich,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,52027,52031,mein,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,52043,52046,Ich,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,52083,52087,mich,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,52106,52109,ich,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,52171,52174,mir,casti-piani
+gdc-coref,x3bf.0,51942,52550,casti-piani,52526,52529,ich,casti-piani
+gdc-coref,x3bf.0,52555,52640,lulu,52586,52589,ich,lulu
+gdc-coref,x3bf.0,52555,52640,lulu,52607,52610,mir,lulu
+gdc-coref,x3bf.0,52646,52716,casti-piani,52659,52662,Ich,casti-piani
+gdc-coref,x3bf.0,52646,52716,casti-piani,52683,52686,ich,casti-piani
+gdc-coref,x3bf.0,52721,52766,lulu,52738,52741,mir,lulu
+gdc-coref,x3bf.0,52771,53788,casti-piani,52836,52839,ich,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,52870,52873,ich,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,52918,52921,ich,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53127,53130,ich,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53182,53185,ich,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53186,53189,mir,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53297,53301,mich,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53454,53459,Meine,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53504,53507,Mir,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53532,53538,meinen,casti-piani
+gdc-coref,x3bf.0,52771,53788,casti-piani,53689,53692,ich,casti-piani
+gdc-coref,x3bf.0,53793,53852,lulu,53819,53822,Ich,lulu
+gdc-coref,x3bf.0,53857,54479,casti-piani,53908,53911,mir,casti-piani
+gdc-coref,x3bf.0,53857,54479,casti-piani,54061,54064,Ich,casti-piani
+gdc-coref,x3bf.0,53857,54479,casti-piani,54148,54151,ich,casti-piani
+gdc-coref,x3bf.0,53857,54479,casti-piani,54354,54357,ich,casti-piani
+gdc-coref,x3bf.0,53857,54479,casti-piani,54398,54404,meinen,casti-piani
+gdc-coref,x3bf.0,53857,54479,casti-piani,54452,54455,ich,casti-piani
+gdc-coref,x3bf.0,54484,55623,lulu,54549,54555,meinem,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54600,54603,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54634,54637,mir,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54679,54682,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54694,54697,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54730,54733,Ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54741,54744,mir,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54842,54846,mich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54871,54874,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,54986,54989,mir,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55005,55009,mich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55018,55021,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55031,55035,mich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55040,55046,meinen,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55059,55062,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55097,55100,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55128,55132,mich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55157,55160,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55214,55217,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55254,55257,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55370,55373,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55374,55378,mich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55385,55390,meine,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55425,55428,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55429,55433,mich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55517,55520,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55525,55528,mir,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55582,55585,ich,lulu
+gdc-coref,x3bf.0,54484,55623,lulu,55592,55596,mich,lulu
+gdc-coref,x3bf.0,55628,56751,casti-piani,55862,55865,Ich,casti-piani
+gdc-coref,x3bf.0,56756,56996,lulu,56784,56787,Ich,lulu
+gdc-coref,x3bf.0,56756,56996,lulu,56887,56890,ich,lulu
+gdc-coref,x3bf.0,56756,56996,lulu,56891,56894,mir,lulu
+gdc-coref,x3bf.0,57001,57065,casti-piani,57014,57017,Ich,casti-piani
+gdc-coref,x3bf.0,57001,57065,casti-piani,57023,57026,mir,casti-piani
+gdc-coref,x3bf.0,57070,57126,lulu,57114,57117,ich,lulu
+gdc-coref,x3bf.0,57131,57684,casti-piani,57194,57197,ich,casti-piani
+gdc-coref,x3bf.0,57689,57874,lulu,57731,57735,mich,lulu
+gdc-coref,x3bf.0,57689,57874,lulu,57813,57816,ich,lulu
+gdc-coref,x3bf.0,57689,57874,lulu,57817,57821,mich,lulu
+gdc-coref,x3bf.0,57879,57946,casti-piani,57914,57917,ich,casti-piani
+gdc-coref,x3bf.0,57951,58054,lulu,57985,57989,mich,lulu
+gdc-coref,x3bf.0,58059,58179,casti-piani,58072,58075,Ich,casti-piani
+gdc-coref,x3bf.0,58059,58179,casti-piani,58119,58122,ich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58262,58265,Ich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58271,58275,mich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58610,58613,ich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58720,58723,ich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58823,58829,meiner,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58884,58887,ich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,58888,58891,mir,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,59102,59105,ich,casti-piani
+gdc-coref,x3bf.0,58230,59264,casti-piani,59147,59150,ich,casti-piani
+gdc-coref,x3bf.0,59324,59415,casti-piani,59369,59372,mir,casti-piani
+gdc-coref,x3bf.0,59420,59551,lulu,59426,59429,Ich,lulu
+gdc-coref,x3bf.0,59420,59551,lulu,59474,59477,ich,lulu
+gdc-coref,x3bf.0,59420,59551,lulu,59483,59487,mich,lulu
+gdc-coref,x3bf.0,59556,59977,casti-piani,59639,59642,Ich,casti-piani
+gdc-coref,x3bf.0,59556,59977,casti-piani,59725,59728,ich,casti-piani
+gdc-coref,x3bf.0,59556,59977,casti-piani,59908,59911,mir,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60149,60153,Mein,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60178,60181,mir,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60292,60296,mich,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60361,60364,Ich,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60383,60387,mein,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60417,60420,ich,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60502,60505,ich,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60692,60695,ich,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,60873,60876,Ich,casti-piani
+gdc-coref,x3bf.0,60054,61510,casti-piani,61442,61445,ich,casti-piani
+gdc-coref,x3bf.0,61515,61590,lulu,61530,61533,Ich,lulu
+gdc-coref,x3bf.0,61515,61590,lulu,61575,61579,mein,lulu
+gdc-coref,x3bf.0,61595,61635,casti-piani,61612,61616,mich,casti-piani
+gdc-coref,x3bf.0,61640,61714,lulu,61655,61658,Ich,lulu
+gdc-coref,x3bf.0,61719,61952,casti-piani,61738,61741,mir,casti-piani
+gdc-coref,x3bf.0,61719,61952,casti-piani,61769,61772,ich,casti-piani
+gdc-coref,x3bf.0,61957,61995,lulu,61973,61977,mich,lulu
+gdc-coref,x3bf.0,62000,62499,casti-piani,62053,62056,ich,casti-piani
+gdc-coref,x3bf.0,62000,62499,casti-piani,62060,62066,meinem,casti-piani
+gdc-coref,x3bf.0,62000,62499,casti-piani,62088,62091,Ich,casti-piani
+gdc-coref,x3bf.0,62503,62717,alwa,62601,62604,mir,alwa
+gdc-coref,x3bf.0,62722,62826,lulu,62735,62738,Ich,lulu
+gdc-coref,x3bf.0,63290,63330,die_geschwitz,63320,63323,ich,die_geschwitz
+gdc-coref,x3bf.0,63335,63406,lulu,63402,63405,ich,lulu
+gdc-coref,x3bf.0,63411,63605,die_geschwitz,63434,63438,mich,die_geschwitz
+gdc-coref,x3bf.0,63411,63605,die_geschwitz,63462,63465,ich,die_geschwitz
+gdc-coref,x3bf.0,63411,63605,die_geschwitz,63544,63547,mir,die_geschwitz
+gdc-coref,x3bf.0,63610,63736,lulu,63625,63628,Ich,lulu
+gdc-coref,x3bf.0,63610,63736,lulu,63686,63689,Ich,lulu
+gdc-coref,x3bf.0,63610,63736,lulu,63714,63717,mir,lulu
+gdc-coref,x3bf.0,63741,63940,die_geschwitz,63824,63828,mich,die_geschwitz
+gdc-coref,x3bf.0,63741,63940,die_geschwitz,63895,63898,ich,die_geschwitz
+gdc-coref,x3bf.0,63741,63940,die_geschwitz,63899,63903,mich,die_geschwitz
+gdc-coref,x3bf.0,63945,64194,lulu,63964,63967,mir,lulu
+gdc-coref,x3bf.0,63945,64194,lulu,64004,64007,Ich,lulu
+gdc-coref,x3bf.0,63945,64194,lulu,64078,64081,ich,lulu
+gdc-coref,x3bf.0,63945,64194,lulu,64105,64109,Mich,lulu
+gdc-coref,x3bf.0,64199,64264,die_geschwitz,64231,64235,mich,die_geschwitz
+gdc-coref,x3bf.0,64269,64622,lulu,64397,64400,ich,lulu
+gdc-coref,x3bf.0,64269,64622,lulu,64401,64405,mich,lulu
+gdc-coref,x3bf.0,64269,64622,lulu,64416,64419,ich,lulu
+gdc-coref,x3bf.0,64269,64622,lulu,64470,64474,mein,lulu
+gdc-coref,x3bf.0,64627,64686,die_geschwitz,64663,64666,Ich,die_geschwitz
+gdc-coref,x3bf.0,64692,64995,lulu,64707,64710,Ich,lulu
+gdc-coref,x3bf.0,64692,64995,lulu,64906,64909,mir,lulu
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65015,65018,Ich,die_geschwitz
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65159,65162,Ich,die_geschwitz
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65217,65220,ich,die_geschwitz
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65243,65246,mir,die_geschwitz
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65247,65251,mein,die_geschwitz
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65290,65293,Ich,die_geschwitz
+gdc-coref,x3bf.0,65000,65375,die_geschwitz,65300,65304,mich,die_geschwitz
+gdc-coref,x3bf.0,65416,65555,die_geschwitz,65431,65434,Ich,die_geschwitz
+gdc-coref,x3bf.0,65560,66384,lulu,65575,65578,Ich,lulu
+gdc-coref,x3bf.0,65560,66384,lulu,65659,65663,mich,lulu
+gdc-coref,x3bf.0,65560,66384,lulu,65766,65769,mir,lulu
+gdc-coref,x3bf.0,65560,66384,lulu,65805,65808,mir,lulu
+gdc-coref,x3bf.0,66569,66630,bianetta,66579,66582,Mir,bianetta
+gdc-coref,x3bf.0,66569,66630,bianetta,66592,66595,ich,bianetta
+gdc-coref,x3bf.0,66635,66718,ludmilla_steinherz,66685,66689,mein,ludmilla_steinherz
+gdc-coref,x3bf.0,66955,67053,heilmann,66965,66968,Ich,heilmann
+gdc-coref,x3bf.0,66955,67053,heilmann,66974,66977,mir,heilmann
+gdc-coref,x3bf.0,67058,67205,alwa,67076,67081,meine,alwa
+gdc-coref,x3bf.0,67209,67280,rodrigo,67232,67236,mein,rodrigo
+gdc-coref,x3bf.0,67209,67280,rodrigo,67253,67259,meinen,rodrigo
+gdc-coref,x3bf.0,67285,67396,lulu,67296,67299,mir,lulu
+gdc-coref,x3bf.0,67285,67396,lulu,67334,67337,Ich,lulu
+gdc-coref,x3bf.0,67401,67546,rodrigo,67414,67418,mich,rodrigo
+gdc-coref,x3bf.0,67551,67655,lulu,67610,67613,Mir,lulu
+gdc-coref,x3bf.0,67660,67955,rodrigo,67669,67672,Ich,rodrigo
+gdc-coref,x3bf.0,67660,67955,rodrigo,67711,67714,ich,rodrigo
+gdc-coref,x3bf.0,67660,67955,rodrigo,67886,67889,mir,rodrigo
+gdc-coref,x3bf.0,67660,67955,rodrigo,67890,67895,meine,rodrigo
+gdc-coref,x3bf.0,67660,67955,rodrigo,67921,67924,ich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68011,68014,Ich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68077,68081,mein,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68098,68101,ich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68118,68124,meiner,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68179,68183,mich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68198,68201,Ich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68239,68243,mich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68288,68294,meinem,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68314,68317,mir,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68463,68466,ich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68506,68510,mich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68577,68580,ich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68605,68611,meiner,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68725,68729,mich,rodrigo
+gdc-coref,x3bf.0,68002,68967,rodrigo,68733,68739,meiner,rodrigo
+gdc-coref,x3bf.0,68972,69004,lulu,68978,68984,Meinen,lulu
+gdc-coref,x3bf.0,69009,69147,rodrigo,69034,69037,mir,rodrigo
+gdc-coref,x3bf.0,69009,69147,rodrigo,69056,69059,Ich,rodrigo
+gdc-coref,x3bf.0,69009,69147,rodrigo,69065,69071,meiner,rodrigo
+gdc-coref,x3bf.0,69009,69147,rodrigo,69086,69089,ich,rodrigo
+gdc-coref,x3bf.0,69249,69596,rodrigo,69258,69263,Meine,rodrigo
+gdc-coref,x3bf.0,69249,69596,rodrigo,69302,69305,mir,rodrigo
+gdc-coref,x3bf.0,69249,69596,rodrigo,69504,69507,Ich,rodrigo
+gdc-coref,x3bf.0,69249,69596,rodrigo,69541,69544,ich,rodrigo
+gdc-coref,x3bf.0,69249,69596,rodrigo,69545,69549,mich,rodrigo
+gdc-coref,x3bf.0,69705,69969,rodrigo,69750,69753,Ich,rodrigo
+gdc-coref,x3bf.0,69705,69969,rodrigo,69780,69784,mich,rodrigo
+gdc-coref,x3bf.0,69705,69969,rodrigo,69872,69875,mir,rodrigo
+gdc-coref,x3bf.0,69705,69969,rodrigo,69916,69919,mir,rodrigo
+gdc-coref,x3bf.0,69974,69999,lulu,69980,69983,Ich,lulu
+gdc-coref,x3bf.0,70004,70326,rodrigo,70013,70016,Ich,rodrigo
+gdc-coref,x3bf.0,70004,70326,rodrigo,70054,70057,ich,rodrigo
+gdc-coref,x3bf.0,70004,70326,rodrigo,70058,70062,mich,rodrigo
+gdc-coref,x3bf.0,70729,70814,lulu,70747,70750,ich,lulu
+gdc-coref,x3bf.0,70819,71069,rodrigo,70864,70867,ich,rodrigo
+gdc-coref,x3bf.0,70819,71069,rodrigo,70935,70938,ich,rodrigo
+gdc-coref,x3bf.0,71135,71175,heilmann,71151,71154,ich,heilmann
+gdc-coref,x3bf.0,71325,71398,heilmann,71387,71391,mein,heilmann
+gdc-coref,x3bf.0,71474,71621,heilmann,71522,71525,Ich,heilmann
+gdc-coref,x3bf.0,71625,72045,puntschu,71674,71677,ich,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71719,71722,mir,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71733,71736,ich,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71753,71757,mein,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71772,71775,ich,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71776,71779,mir,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71791,71797,meinem,puntschu
+gdc-coref,x3bf.0,71625,72045,puntschu,71833,71837,mein,puntschu
+gdc-coref,x3bf.0,72283,72365,bob,72288,72291,Ich,bob
+gdc-coref,x3bf.0,72283,72365,bob,72331,72335,mich,bob
+gdc-coref,x3bf.0,72426,72544,kadidja,72504,72507,mir,kadidja
+gdc-coref,x3bf.0,72549,72614,puntschu,72565,72569,mein,puntschu
+gdc-coref,x3bf.0,72619,72684,kadidja,72628,72631,Ich,kadidja
+gdc-coref,x3bf.0,72619,72684,kadidja,72651,72654,ich,kadidja
+gdc-coref,x3bf.0,72689,72891,puntschu,72752,72755,ich,puntschu
+gdc-coref,x3bf.0,72896,72958,kadidja,72939,72944,meine,kadidja
+gdc-coref,x3bf.0,72963,73014,bob,73000,73003,mir,bob
+gdc-coref,x3bf.0,73106,73154,kadidja,73127,73130,ich,kadidja
+gdc-coref,x3bf.0,73217,73377,kadidja,73239,73242,ich,kadidja
+gdc-coref,x3bf.0,73217,73377,kadidja,73268,73271,ich,kadidja
+gdc-coref,x3bf.0,73444,73497,kadidja,73475,73478,ich,kadidja
+gdc-coref,x3bf.0,73502,73750,magelone,73520,73524,mich,magelone
+gdc-coref,x3bf.0,73502,73750,magelone,73539,73542,ich,magelone
+gdc-coref,x3bf.0,73502,73750,magelone,73558,73562,mich,magelone
+gdc-coref,x3bf.0,73754,73855,magelone,73782,73785,mir,magelone
+gdc-coref,x3bf.0,73754,73855,magelone,73823,73826,ich,magelone
+gdc-coref,x3bf.0,73859,73927,lulu,73884,73888,mein,lulu
+gdc-coref,x3bf.0,74039,74213,ludmilla_steinherz,74113,74116,mir,ludmilla_steinherz
+gdc-coref,x3bf.0,74039,74213,ludmilla_steinherz,74118,74122,mein,ludmilla_steinherz
+gdc-coref,x3bf.0,74347,74559,puntschu,74461,74465,mich,puntschu
+gdc-coref,x3bf.0,74347,74559,puntschu,74539,74544,meine,puntschu
+gdc-coref,x3bf.0,74564,74758,die_geschwitz,74579,74582,Ich,die_geschwitz
+gdc-coref,x3bf.0,75238,75346,schigolch,75262,75265,Ich,schigolch
+gdc-coref,x3bf.0,75238,75346,schigolch,75298,75301,Ich,schigolch
+gdc-coref,x3bf.0,75238,75346,schigolch,75307,75313,meiner,schigolch
+gdc-coref,x3bf.0,75412,75577,schigolch,75511,75514,mir,schigolch
+gdc-coref,x3bf.0,75988,76522,schigolch,76096,76100,mein,schigolch
+gdc-coref,x3bf.0,76527,76649,lulu,76546,76550,mich,lulu
+gdc-coref,x3bf.0,76527,76649,lulu,76575,76579,mich,lulu
+gdc-coref,x3bf.0,76527,76649,lulu,76604,76607,Ich,lulu
+gdc-coref,x3bf.0,76654,76724,schigolch,76665,76668,Ich,schigolch
+gdc-coref,x3bf.0,76654,76724,schigolch,76685,76688,ich,schigolch
+gdc-coref,x3bf.0,76729,76777,lulu,76746,76752,meinen,lulu
+gdc-coref,x3bf.0,76729,76777,lulu,76769,76773,mich,lulu
+gdc-coref,x3bf.0,76849,76901,schigolch,76894,76897,ich,schigolch
+gdc-coref,x3bf.0,76906,77001,lulu,76939,76942,Ich,lulu
+gdc-coref,x3bf.0,76906,77001,lulu,76982,76985,mir,lulu
+gdc-coref,x3bf.0,77006,77145,schigolch,77028,77031,mir,schigolch
+gdc-coref,x3bf.0,77006,77145,schigolch,77055,77059,Mein,schigolch
+gdc-coref,x3bf.0,77240,77405,lulu,77246,77249,Ich,lulu
+gdc-coref,x3bf.0,77240,77405,lulu,77307,77310,mir,lulu
+gdc-coref,x3bf.0,77445,77516,lulu,77464,77467,mir,lulu
+gdc-coref,x3bf.0,77674,77715,schigolch,77695,77699,mein,schigolch
+gdc-coref,x3bf.0,77720,77772,lulu,77736,77739,ich,lulu
+gdc-coref,x3bf.0,77778,77815,schigolch,77799,77802,ich,schigolch
+gdc-coref,x3bf.0,77820,77864,lulu,77855,77858,ich,lulu
+gdc-coref,x3bf.0,78010,78066,schigolch,78021,78026,Meine,schigolch
+gdc-coref,x3bf.0,78100,78152,schigolch,78121,78124,ich,schigolch
+gdc-coref,x3bf.0,78200,78230,schigolch,78211,78214,Ich,schigolch
+gdc-coref,x3bf.0,78235,78272,lulu,78252,78255,mir,lulu
+gdc-coref,x3bf.0,78235,78272,lulu,78268,78271,mir,lulu
+gdc-coref,x3bf.0,78565,78591,schigolch,78576,78579,Ich,schigolch
+gdc-coref,x3bf.0,78596,78647,lulu,78609,78612,Ich,lulu
+gdc-coref,x3bf.0,78652,78708,schigolch,78678,78682,mich,schigolch
+gdc-coref,x3bf.0,78788,78830,lulu,78794,78798,Mein,lulu
+gdc-coref,x3bf.0,78901,78969,schigolch,78930,78933,Ich,schigolch
+gdc-coref,x3bf.0,79010,79265,schigolch,79045,79049,mein,schigolch
+gdc-coref,x3bf.0,79010,79265,schigolch,79069,79072,ich,schigolch
+gdc-coref,x3bf.0,79269,79323,rodrigo,79292,79296,mich,rodrigo
+gdc-coref,x3bf.0,79328,79469,casti-piani,79373,79377,mich,casti-piani
+gdc-coref,x3bf.0,79328,79469,casti-piani,79402,79405,Ich,casti-piani
+gdc-coref,x3bf.0,79475,79515,rodrigo,79500,79504,mich,rodrigo
+gdc-coref,x3bf.0,79520,79640,casti-piani,79548,79551,mir,casti-piani
+gdc-coref,x3bf.0,79698,79849,casti-piani,79727,79730,mir,casti-piani
+gdc-coref,x3bf.0,79698,79849,casti-piani,79815,79818,ich,casti-piani
+gdc-coref,x3bf.0,79854,80029,rodrigo,79898,79901,mir,rodrigo
+gdc-coref,x3bf.0,79854,80029,rodrigo,79929,79932,ich,rodrigo
+gdc-coref,x3bf.0,79854,80029,rodrigo,79964,79967,ich,rodrigo
+gdc-coref,x3bf.0,80034,80117,casti-piani,80074,80077,ich,casti-piani
+gdc-coref,x3bf.0,80121,80317,rodrigo,80159,80162,ich,rodrigo
+gdc-coref,x3bf.0,80121,80317,rodrigo,80247,80250,ich,rodrigo
+gdc-coref,x3bf.0,80430,80494,rodrigo,80448,80451,ich,rodrigo
+gdc-coref,x3bf.0,80430,80494,rodrigo,80479,80482,mir,rodrigo
+gdc-coref,x3bf.0,80519,80620,rodrigo,80587,80590,ich,rodrigo
+gdc-coref,x3bf.0,80625,80758,lulu,80649,80652,mir,lulu
+gdc-coref,x3bf.0,80625,80758,lulu,80667,80670,ich,lulu
+gdc-coref,x3bf.0,80625,80758,lulu,80671,80675,mich,lulu
+gdc-coref,x3bf.0,80625,80758,lulu,80722,80728,meines,lulu
+gdc-coref,x3bf.0,80763,81193,rodrigo,80966,80969,mir,rodrigo
+gdc-coref,x3bf.0,80763,81193,rodrigo,81009,81012,ich,rodrigo
+gdc-coref,x3bf.0,80763,81193,rodrigo,81127,81131,mich,rodrigo
+gdc-coref,x3bf.0,80763,81193,rodrigo,81151,81154,ich,rodrigo
+gdc-coref,x3bf.0,81450,81527,rodrigo,81473,81476,ich,rodrigo
+gdc-coref,x3bf.0,81532,81750,lulu,81548,81551,mir,lulu
+gdc-coref,x3bf.0,81532,81750,lulu,81576,81580,mich,lulu
+gdc-coref,x3bf.0,81532,81750,lulu,81689,81692,ich,lulu
+gdc-coref,x3bf.0,81755,81796,rodrigo,81773,81776,ich,rodrigo
+gdc-coref,x3bf.0,81801,81862,lulu,81817,81821,mich,lulu
+gdc-coref,x3bf.0,81801,81862,lulu,81835,81838,ich,lulu
+gdc-coref,x3bf.0,82026,82404,rodrigo,82056,82059,ich,rodrigo
+gdc-coref,x3bf.0,82026,82404,rodrigo,82079,82082,Ich,rodrigo
+gdc-coref,x3bf.0,82026,82404,rodrigo,82207,82211,mich,rodrigo
+gdc-coref,x3bf.0,82026,82404,rodrigo,82262,82266,Mein,rodrigo
+gdc-coref,x3bf.0,82026,82404,rodrigo,82362,82365,ich,rodrigo
+gdc-coref,x3bf.0,82450,82579,rodrigo,82571,82574,ich,rodrigo
+gdc-coref,x3bf.0,82584,82635,lulu,82621,82624,ich,lulu
+gdc-coref,x3bf.0,82640,82697,rodrigo,82649,82654,Meine,rodrigo
+gdc-coref,x3bf.0,82640,82697,rodrigo,82681,82684,ich,rodrigo
+gdc-coref,x3bf.0,82702,82733,lulu,82718,82721,ich,lulu
+gdc-coref,x3bf.0,82738,82820,rodrigo,82780,82783,ich,rodrigo
+gdc-coref,x3bf.0,82852,83162,rodrigo,82875,82878,ich,rodrigo
+gdc-coref,x3bf.0,82852,83162,rodrigo,82891,82894,Ich,rodrigo
+gdc-coref,x3bf.0,82852,83162,rodrigo,82924,82927,Ich,rodrigo
+gdc-coref,x3bf.0,83166,83240,lulu,83181,83185,Mein,lulu
+gdc-coref,x3bf.0,83166,83240,lulu,83209,83213,mich,lulu
+gdc-coref,x3bf.0,83246,83278,die_geschwitz,83270,83273,ich,die_geschwitz
+gdc-coref,x3bf.0,83359,83394,die_geschwitz,83384,83388,mein,die_geschwitz
+gdc-coref,x3bf.0,83399,83487,lulu,83472,83476,mich,lulu
+gdc-coref,x3bf.0,83492,83602,die_geschwitz,83521,83524,ich,die_geschwitz
+gdc-coref,x3bf.0,83492,83602,die_geschwitz,83552,83555,ich,die_geschwitz
+gdc-coref,x3bf.0,83492,83602,die_geschwitz,83564,83570,meinem,die_geschwitz
+gdc-coref,x3bf.0,83722,83959,die_geschwitz,83834,83837,mir,die_geschwitz
+gdc-coref,x3bf.0,83722,83959,die_geschwitz,83864,83867,Ich,die_geschwitz
+gdc-coref,x3bf.0,83722,83959,die_geschwitz,83922,83925,mir,die_geschwitz
+gdc-coref,x3bf.0,83964,84014,lulu,84001,84005,mich,lulu
+gdc-coref,x3bf.0,84019,84199,die_geschwitz,84034,84037,Ich,die_geschwitz
+gdc-coref,x3bf.0,84019,84199,die_geschwitz,84046,84052,meinem,die_geschwitz
+gdc-coref,x3bf.0,84204,84598,lulu,84230,84233,Ich,lulu
+gdc-coref,x3bf.0,84204,84598,lulu,84253,84256,ich,lulu
+gdc-coref,x3bf.0,84603,84825,die_geschwitz,84681,84684,Ich,die_geschwitz
+gdc-coref,x3bf.0,84603,84825,die_geschwitz,84719,84723,mich,die_geschwitz
+gdc-coref,x3bf.0,84603,84825,die_geschwitz,84791,84795,mich,die_geschwitz
+gdc-coref,x3bf.0,84885,85288,die_geschwitz,84965,84968,ich,die_geschwitz
+gdc-coref,x3bf.0,84885,85288,die_geschwitz,85002,85005,Ich,die_geschwitz
+gdc-coref,x3bf.0,84885,85288,die_geschwitz,85011,85015,mich,die_geschwitz
+gdc-coref,x3bf.0,84885,85288,die_geschwitz,85144,85147,ich,die_geschwitz
+gdc-coref,x3bf.0,85469,85593,die_geschwitz,85493,85496,ich,die_geschwitz
+gdc-coref,x3bf.0,85469,85593,die_geschwitz,85503,85506,ich,die_geschwitz
+gdc-coref,x3bf.0,85469,85593,die_geschwitz,85531,85534,ich,die_geschwitz
+gdc-coref,x3bf.0,85469,85593,die_geschwitz,85562,85566,mich,die_geschwitz
+gdc-coref,x3bf.0,85598,85778,lulu,85604,85607,Ich,lulu
+gdc-coref,x3bf.0,85598,85778,lulu,85618,85622,mein,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,85820,85823,Ich,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,85838,85842,mein,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,85849,85852,Ich,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,85905,85908,Ich,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,85932,85935,ich,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,85961,85964,ich,lulu
+gdc-coref,x3bf.0,85814,86022,lulu,86013,86016,mir,lulu
+gdc-coref,x3bf.0,86067,86154,lulu,86115,86119,mein,lulu
+gdc-coref,x3bf.0,86203,86262,lulu,86236,86239,ich,lulu
+gdc-coref,x3bf.0,86203,86262,lulu,86248,86252,mein,lulu
+gdc-coref,x3bf.0,86267,86355,rodrigo,86332,86335,ich,rodrigo
+gdc-coref,x3bf.0,86360,86441,die_geschwitz,86395,86398,Ich,die_geschwitz
+gdc-coref,x3bf.0,86360,86441,die_geschwitz,86430,86436,meiner,die_geschwitz
+gdc-coref,x3bf.0,86575,86812,lulu,86593,86598,meine,lulu
+gdc-coref,x3bf.0,86575,86812,lulu,86769,86773,mich,lulu
+gdc-coref,x3bf.0,86868,87177,lulu,86931,86934,mir,lulu
+gdc-coref,x3bf.0,86868,87177,lulu,86960,86965,meine,lulu
+gdc-coref,x3bf.0,87181,87341,heilmann,87331,87335,mein,heilmann
+gdc-coref,x3bf.0,87408,87477,heilmann,87444,87447,mir,heilmann
+gdc-coref,x3bf.0,87720,87924,puntschu,87741,87744,ich,puntschu
+gdc-coref,x3bf.0,87720,87924,puntschu,87772,87775,ich,puntschu
+gdc-coref,x3bf.0,87720,87924,puntschu,87842,87845,ich,puntschu
+gdc-coref,x3bf.0,87720,87924,puntschu,87854,87860,meiner,puntschu
+gdc-coref,x3bf.0,87720,87924,puntschu,87896,87899,mir,puntschu
+gdc-coref,x3bf.0,87929,88008,heilmann,87985,87991,meines,heilmann
+gdc-coref,x3bf.0,88290,88488,puntschu,88314,88317,ich,puntschu
+gdc-coref,x3bf.0,88290,88488,puntschu,88334,88337,ich,puntschu
+gdc-coref,x3bf.0,88290,88488,puntschu,88338,88342,mein,puntschu
+gdc-coref,x3bf.0,88290,88488,puntschu,88392,88395,ich,puntschu
+gdc-coref,x3bf.0,88493,88608,magelone,88531,88534,ich,magelone
+gdc-coref,x3bf.0,88493,88608,magelone,88549,88552,ich,magelone
+gdc-coref,x3bf.0,88955,89124,puntschu,88986,88990,mein,puntschu
+gdc-coref,x3bf.0,88955,89124,puntschu,89012,89016,mich,puntschu
+gdc-coref,x3bf.0,89430,89539,heilmann,89440,89443,Ich,heilmann
+gdc-coref,x3bf.0,89430,89539,heilmann,89465,89471,meinem,heilmann
+gdc-coref,x3bf.0,89430,89539,heilmann,89502,89505,mir,heilmann
+gdc-coref,x3bf.0,89677,89705,heilmann,89687,89690,Ich,heilmann
+gdc-coref,x3bf.0,90361,90552,kadidja,90400,90403,Ich,kadidja
+gdc-coref,x3bf.0,90361,90552,kadidja,90412,90416,mich,kadidja
+gdc-coref,x3bf.0,91049,91206,kadidja,91063,91066,ich,kadidja
+gdc-coref,x3bf.0,91049,91206,kadidja,91104,91107,ich,kadidja
+gdc-coref,x3bf.0,91049,91206,kadidja,91131,91134,Ich,kadidja
+gdc-coref,x3bf.0,91049,91206,kadidja,91163,91166,Ich,kadidja
+gdc-coref,x3bf.0,91049,91206,kadidja,91193,91197,mich,kadidja
+gdc-coref,x3bf.0,91211,91466,magelone,91238,91242,mein,magelone
+gdc-coref,x3bf.0,91211,91466,magelone,91302,91305,ich,magelone
+gdc-coref,x3bf.0,91211,91466,magelone,91312,91316,mich,magelone
+gdc-coref,x3bf.0,91211,91466,magelone,91386,91390,mein,magelone
+gdc-coref,x3bf.0,91559,91609,kadidja,91573,91577,mich,kadidja
+gdc-coref,x3bf.0,91614,91823,magelone,91642,91645,mir,magelone
+gdc-coref,x3bf.0,91614,91823,magelone,91739,91742,ich,magelone
+gdc-coref,x3bf.0,91828,91871,kadidja,91849,91852,ich,kadidja
+gdc-coref,x3bf.0,91828,91871,kadidja,91853,91857,mich,kadidja
+gdc-coref,x3bf.0,93060,93126,schigolch,93086,93089,mir,schigolch
+gdc-coref,x3bf.0,93275,93365,schigolch,93306,93310,mein,schigolch
+gdc-coref,x3bf.0,93911,93953,lulu,93925,93928,ich,lulu
+gdc-coref,x3bf.0,94217,94294,lulu,94236,94239,ich,lulu
+gdc-coref,x3bf.0,94217,94294,lulu,94264,94268,mich,lulu
+gdc-coref,x3bf.0,94299,94489,alwa,94318,94321,ich,alwa
+gdc-coref,x3bf.0,94299,94489,alwa,94322,94325,mir,alwa
+gdc-coref,x3bf.0,94700,94805,lulu,94711,94715,mich,lulu
+gdc-coref,x3bf.0,94700,94805,lulu,94717,94720,Ich,lulu
+gdc-coref,x3bf.0,94700,94805,lulu,94757,94760,ich,lulu
+gdc-coref,x3bf.0,94810,94856,alwa,94816,94819,Ich,alwa
+gdc-coref,x3bf.0,94861,94961,schigolch,94891,94894,Ich,schigolch
+gdc-coref,x3bf.0,94861,94961,schigolch,94901,94905,mich,schigolch
+gdc-coref,x3bf.0,94861,94961,schigolch,94951,94954,ich,schigolch
+gdc-coref,x3bf.0,94966,95129,alwa,94976,94979,ich,alwa
+gdc-coref,x3bf.0,94966,95129,alwa,94986,94990,mich,alwa
+gdc-coref,x3bf.0,95239,95539,lulu,95280,95283,mir,lulu
+gdc-coref,x3bf.0,95239,95539,lulu,95357,95362,meine,lulu
+gdc-coref,x3bf.0,95239,95539,lulu,95401,95404,ich,lulu
+gdc-coref,x3bf.0,95239,95539,lulu,95452,95455,Ich,lulu
+gdc-coref,x3bf.0,95239,95539,lulu,95502,95505,ich,lulu
+gdc-coref,x3bf.0,95544,96075,alwa,95550,95553,Ich,alwa
+gdc-coref,x3bf.0,95544,96075,alwa,95608,95611,ich,alwa
+gdc-coref,x3bf.0,95544,96075,alwa,95637,95640,ich,alwa
+gdc-coref,x3bf.0,95544,96075,alwa,95777,95780,ich,alwa
+gdc-coref,x3bf.0,95544,96075,alwa,95812,95815,ich,alwa
+gdc-coref,x3bf.0,95544,96075,alwa,95875,95878,ich,alwa
+gdc-coref,x3bf.0,95544,96075,alwa,95879,95883,mich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96111,96114,Ich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96120,96123,mir,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96162,96165,ich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96202,96206,mich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96220,96223,ich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96224,96228,mich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96251,96254,ich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96271,96274,ich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96296,96299,ich,alwa
+gdc-coref,x3bf.0,96105,96516,alwa,96379,96382,mir,alwa
+gdc-coref,x3bf.0,96521,96907,schigolch,96591,96595,mein,schigolch
+gdc-coref,x3bf.0,96521,96907,schigolch,96604,96607,Ich,schigolch
+gdc-coref,x3bf.0,96521,96907,schigolch,96616,96619,ich,schigolch
+gdc-coref,x3bf.0,96521,96907,schigolch,96701,96704,ich,schigolch
+gdc-coref,x3bf.0,96521,96907,schigolch,96768,96771,ich,schigolch
+gdc-coref,x3bf.0,96521,96907,schigolch,96831,96834,mir,schigolch
+gdc-coref,x3bf.0,96521,96907,schigolch,96847,96850,ich,schigolch
+gdc-coref,x3bf.0,96912,97029,lulu,96945,96948,ich,lulu
+gdc-coref,x3bf.0,97105,97134,lulu,97111,97114,Ich,lulu
+gdc-coref,x3bf.0,97139,97226,alwa,97170,97174,mein,alwa
+gdc-coref,x3bf.0,97139,97226,alwa,97206,97209,Ich,alwa
+gdc-coref,x3bf.0,97322,97416,alwa,97366,97371,meine,alwa
+gdc-coref,x3bf.0,97322,97416,alwa,97381,97385,mich,alwa
+gdc-coref,x3bf.0,97421,97441,lulu,97431,97434,ich,lulu
+gdc-coref,x3bf.0,97446,97536,alwa,97460,97464,mich,alwa
+gdc-coref,x3bf.0,97446,97536,alwa,97498,97502,mich,alwa
+gdc-coref,x3bf.0,97446,97536,alwa,97514,97520,meines,alwa
+gdc-coref,x3bf.0,97541,97780,lulu,97611,97614,ich,lulu
+gdc-coref,x3bf.0,97541,97780,lulu,97650,97653,ich,lulu
+gdc-coref,x3bf.0,97541,97780,lulu,97654,97657,mir,lulu
+gdc-coref,x3bf.0,97541,97780,lulu,97691,97694,ich,lulu
+gdc-coref,x3bf.0,97541,97780,lulu,97695,97699,mich,lulu
+gdc-coref,x3bf.0,97541,97780,lulu,97709,97714,meine,lulu
+gdc-coref,x3bf.0,97784,97888,alwa,97801,97804,mir,alwa
+gdc-coref,x3bf.0,98300,98446,lulu,98311,98314,ich,lulu
+gdc-coref,x3bf.0,98536,98687,lulu,98542,98545,Mir,lulu
+gdc-coref,x3bf.0,98536,98687,lulu,98568,98572,mich,lulu
+gdc-coref,x3bf.0,98692,98785,schigolch,98756,98762,meinen,schigolch
+gdc-coref,x3bf.0,98790,98895,alwa,98829,98832,ich,alwa
+gdc-coref,x3bf.0,98790,98895,alwa,98847,98850,ich,alwa
+gdc-coref,x3bf.0,98900,98958,schigolch,98919,98922,ich,schigolch
+gdc-coref,x3bf.0,98963,99361,alwa,99054,99057,Ich,alwa
+gdc-coref,x3bf.0,98963,99361,alwa,99180,99184,mein,alwa
+gdc-coref,x3bf.0,98963,99361,alwa,99213,99216,ich,alwa
+gdc-coref,x3bf.0,99388,99797,alwa,99574,99578,mich,alwa
+gdc-coref,x3bf.0,99388,99797,alwa,99713,99718,meine,alwa
+gdc-coref,x3bf.0,99802,99865,schigolch,99813,99816,Ich,schigolch
+gdc-coref,x3bf.0,99870,99911,alwa,99876,99879,Ich,alwa
+gdc-coref,x3bf.0,99948,100702,alwa,100137,100140,ich,alwa
+gdc-coref,x3bf.0,99948,100702,alwa,100268,100271,mir,alwa
+gdc-coref,x3bf.0,99948,100702,alwa,100557,100563,meines,alwa
+gdc-coref,x3bf.0,99948,100702,alwa,100593,100599,meines,alwa
+gdc-coref,x3bf.0,99948,100702,alwa,100618,100623,meine,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,100907,100910,Ich,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101029,101032,ich,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101055,101061,meines,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101078,101082,mich,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101259,101262,ich,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101311,101314,ich,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101315,101319,mich,alwa
+gdc-coref,x3bf.0,100901,101386,alwa,101373,101377,mich,alwa
+gdc-coref,x3bf.0,101469,101542,alwa,101488,101491,Ich,alwa
+gdc-coref,x3bf.0,101469,101542,alwa,101516,101519,Ich,alwa
+gdc-coref,x3bf.0,101996,102062,alwa,102015,102018,Ich,alwa
+gdc-coref,x3bf.0,102435,102464,lulu,102450,102455,meine,lulu
+gdc-coref,x3bf.0,102769,102819,lulu,102790,102793,mir,lulu
+gdc-coref,x3bf.0,102913,102952,lulu,102919,102922,Ich,lulu
+gdc-coref,x3bf.0,103751,103812,lulu,103771,103774,Ich,lulu
+gdc-coref,x3bf.0,103751,103812,lulu,103793,103796,mir,lulu
+gdc-coref,x3bf.0,105003,105039,alwa,105009,105012,Ich,alwa
+gdc-coref,x3bf.0,105655,105871,schigolch,105678,105681,mir,schigolch
+gdc-coref,x3bf.0,106477,106965,lulu,106494,106498,mich,lulu
+gdc-coref,x3bf.0,106969,107009,lulu,106986,106990,mich,lulu
+gdc-coref,x3bf.0,107052,107112,lulu,107087,107090,Ich,lulu
+gdc-coref,x3bf.0,107422,107478,alwa,107452,107455,Ich,alwa
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107752,107755,ich,die_geschwitz
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107788,107791,ich,die_geschwitz
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107803,107806,Ich,die_geschwitz
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107881,107884,Ich,die_geschwitz
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107915,107918,ich,die_geschwitz
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107944,107948,Mein,die_geschwitz
+gdc-coref,x3bf.0,107732,107986,die_geschwitz,107960,107963,mir,die_geschwitz
+gdc-coref,x3bf.0,108084,108122,lulu,108097,108100,Ich,lulu
+gdc-coref,x3bf.0,108127,108425,die_geschwitz,108176,108179,Ich,die_geschwitz
+gdc-coref,x3bf.0,108127,108425,die_geschwitz,108225,108228,Ich,die_geschwitz
+gdc-coref,x3bf.0,108127,108425,die_geschwitz,108280,108283,mir,die_geschwitz
+gdc-coref,x3bf.0,108127,108425,die_geschwitz,108325,108328,Ich,die_geschwitz
+gdc-coref,x3bf.0,108127,108425,die_geschwitz,108358,108362,mich,die_geschwitz
+gdc-coref,x3bf.0,108468,108616,alwa,108580,108584,mein,alwa
+gdc-coref,x3bf.0,108621,108744,lulu,108688,108691,mir,lulu
+gdc-coref,x3bf.0,108749,109204,alwa,108845,108848,ich,alwa
+gdc-coref,x3bf.0,108749,109204,alwa,108849,108854,meine,alwa
+gdc-coref,x3bf.0,108749,109204,alwa,108886,108889,mir,alwa
+gdc-coref,x3bf.0,108749,109204,alwa,108890,108894,mein,alwa
+gdc-coref,x3bf.0,109447,109555,die_geschwitz,109462,109465,Ich,die_geschwitz
+gdc-coref,x3bf.0,109867,110082,alwa,109878,109882,mich,alwa
+gdc-coref,x3bf.0,109867,110082,alwa,109888,109891,ich,alwa
+gdc-coref,x3bf.0,109867,110082,alwa,109908,109911,ich,alwa
+gdc-coref,x3bf.0,110268,110491,alwa,110435,110438,Mir,alwa
+gdc-coref,x3bf.0,110687,110885,die_geschwitz,110726,110732,meiner,die_geschwitz
+gdc-coref,x3bf.0,110687,110885,die_geschwitz,110752,110755,Ich,die_geschwitz
+gdc-coref,x3bf.0,111287,111490,schigolch,111389,111392,ich,schigolch
+gdc-coref,x3bf.0,112099,112177,lulu,112130,112133,Ich,lulu
+gdc-coref,x3bf.0,112182,112249,alwa,112240,112243,ich,alwa
+gdc-coref,x3bf.0,112411,112467,die_geschwitz,112438,112441,ich,die_geschwitz
+gdc-coref,x3bf.0,112585,112663,die_geschwitz,112606,112609,ich,die_geschwitz
+gdc-coref,x3bf.0,112585,112663,die_geschwitz,112639,112642,Ich,die_geschwitz
+gdc-coref,x3bf.0,112585,112663,die_geschwitz,112659,112662,mir,die_geschwitz
+gdc-coref,x3bf.0,112770,112829,lulu,112787,112791,mich,lulu
+gdc-coref,x3bf.0,112770,112829,lulu,112796,112799,Ich,lulu
+gdc-coref,x3bf.0,112834,112948,die_geschwitz,112881,112884,Ich,die_geschwitz
+gdc-coref,x3bf.0,113003,113121,alwa,113052,113055,Ich,alwa
+gdc-coref,x3bf.0,113003,113121,alwa,113064,113067,ich,alwa
+gdc-coref,x3bf.0,113277,113372,alwa,113291,113295,mich,alwa
+gdc-coref,x3bf.0,113277,113372,alwa,113327,113331,mich,alwa
+gdc-coref,x3bf.0,113465,113543,alwa,113538,113542,mich,alwa
+gdc-coref,x3bf.0,113548,113679,schigolch,113568,113571,mir,schigolch
+gdc-coref,x3bf.0,113548,113679,schigolch,113606,113611,meine,schigolch
+gdc-coref,x3bf.0,113684,113775,alwa,113690,113693,Ich,alwa
+gdc-coref,x3bf.0,113684,113775,alwa,113708,113714,meinem,alwa
+gdc-coref,x3bf.0,113870,114023,alwa,113963,113967,Mein,alwa
+gdc-coref,x3bf.0,113870,114023,alwa,113974,113978,mein,alwa
+gdc-coref,x3bf.0,113870,114023,alwa,113994,113997,ich,alwa
+gdc-coref,x3bf.0,113870,114023,alwa,114002,114008,meinem,alwa
+gdc-coref,x3bf.0,114028,114150,schigolch,114067,114073,meinem,schigolch
+gdc-coref,x3bf.0,114028,114150,schigolch,114125,114128,ich,schigolch
+gdc-coref,x3bf.0,114028,114150,schigolch,114129,114132,mir,schigolch
+gdc-coref,x3bf.0,114155,114225,alwa,114180,114185,meine,alwa
+gdc-coref,x3bf.0,114230,114343,schigolch,114241,114244,Ich,schigolch
+gdc-coref,x3bf.0,114348,114762,alwa,114354,114357,Ich,alwa
+gdc-coref,x3bf.0,114348,114762,alwa,114466,114469,Ich,alwa
+gdc-coref,x3bf.0,114348,114762,alwa,114480,114484,mich,alwa
+gdc-coref,x3bf.0,114348,114762,alwa,114645,114648,Ich,alwa
+gdc-coref,x3bf.0,114348,114762,alwa,114666,114672,meines,alwa
+gdc-coref,x3bf.0,114348,114762,alwa,114696,114702,meines,alwa
+gdc-coref,x3bf.0,114348,114762,alwa,114715,114718,ich,alwa
+gdc-coref,x3bf.0,114933,115019,schigolch,114954,114957,ich,schigolch
+gdc-coref,x3bf.0,115405,115427,alwa,115411,115414,Ich,alwa
+gdc-coref,x3bf.0,115545,115717,alwa,115551,115554,Ich,alwa
+gdc-coref,x3bf.0,115545,115717,alwa,115595,115599,mich,alwa
+gdc-coref,x3bf.0,115545,115717,alwa,115639,115645,meiner,alwa
+gdc-coref,x3bf.0,116390,116456,kungu_poti,116425,116428,ich,kungu_poti
+gdc-coref,x3bf.0,116461,116520,lulu,116488,116491,Ich,lulu
+gdc-coref,x3bf.0,116658,116874,kungu_poti,116670,116674,Mein,kungu_poti
+gdc-coref,x3bf.0,116658,116874,kungu_poti,116705,116708,Ich,kungu_poti
+gdc-coref,x3bf.0,116658,116874,kungu_poti,116791,116794,ich,kungu_poti
+gdc-coref,x3bf.0,116658,116874,kungu_poti,116807,116812,meine,kungu_poti
+gdc-coref,x3bf.0,116658,116874,kungu_poti,116832,116835,ich,kungu_poti
+gdc-coref,x3bf.0,116879,116910,lulu,116906,116909,mir,lulu
+gdc-coref,x3bf.0,117030,117091,lulu,117050,117053,mir,lulu
+gdc-coref,x3bf.0,117030,117091,lulu,117087,117090,mir,lulu
+gdc-coref,x3bf.0,117096,117132,kungu_poti,117108,117111,Ich,kungu_poti
+gdc-coref,x3bf.0,117137,117178,lulu,117169,117172,mir,lulu
+gdc-coref,x3bf.0,117293,117490,lulu,117339,117343,mich,lulu
+gdc-coref,x3bf.0,117293,117490,lulu,117360,117364,mich,lulu
+gdc-coref,x3bf.0,117930,118097,lulu,117940,117943,Ich,lulu
+gdc-coref,x3bf.0,118101,119007,schigolch,118341,118344,Ich,schigolch
+gdc-coref,x3bf.0,118101,119007,schigolch,118614,118618,mich,schigolch
+gdc-coref,x3bf.0,118101,119007,schigolch,118913,118916,Ich,schigolch
+gdc-coref,x3bf.0,119278,119317,die_geschwitz,119305,119309,mich,die_geschwitz
+gdc-coref,x3bf.0,119322,119415,schigolch,119372,119375,mir,schigolch
+gdc-coref,x3bf.0,119322,119415,schigolch,119383,119386,ich,schigolch
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,119441,119444,Ich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,119450,119454,mich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,119477,119480,Ich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120555,120558,ich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120577,120581,mich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120617,120620,Ich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120639,120643,mein,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120695,120698,ich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120777,120780,ich,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120805,120809,mein,die_geschwitz
+gdc-coref,x3bf.0,119419,121008,die_geschwitz,120830,120833,ich,die_geschwitz
+gdc-coref,x3bf.0,121012,121079,lulu,121065,121068,mir,lulu
+gdc-coref,x3bf.0,121202,121290,lulu,121276,121279,mir,lulu
+gdc-coref,x3bf.0,121354,121389,lulu,121360,121363,Ich,lulu
+gdc-coref,x3bf.0,122288,122468,lulu,122317,122320,Ich,lulu
+gdc-coref,x3bf.0,122710,122771,lulu,122767,122770,mir,lulu
+gdc-coref,x3bf.0,122814,122849,lulu,122830,122833,mir,lulu
+gdc-coref,x3bf.0,122814,122849,lulu,122845,122848,mir,lulu
+gdc-coref,x3bf.0,122928,122948,lulu,122944,122947,mir,lulu
+gdc-coref,x3bf.0,123035,123063,lulu,123041,123044,Ich,lulu
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123278,123282,mich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123292,123298,meinem,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123329,123332,mir,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123351,123354,Ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123461,123465,mich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123527,123530,ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123618,123621,Ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123641,123644,ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123750,123753,mir,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123763,123767,mich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123833,123836,ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,123912,123916,mich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124261,124264,mir,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124289,124293,mich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124332,124336,mein,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124365,124368,Ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124391,124394,Ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124469,124472,ich,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124571,124575,Mein,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124595,124599,Mein,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124606,124610,Mein,die_geschwitz
+gdc-coref,x3bf.0,123202,125057,die_geschwitz,124668,124672,mein,die_geschwitz
+gdc-coref,x3bf.0,125108,125206,lulu,125122,125127,meine,lulu
+gdc-coref,x3bf.0,125108,125206,lulu,125163,125166,Ich,lulu
+gdc-coref,x3bf.0,125108,125206,lulu,125183,125186,ich,lulu
+gdc-coref,x3bf.0,125262,125298,lulu,125276,125279,ich,lulu
+gdc-coref,x3bf.0,125262,125298,lulu,125284,125290,meiner,lulu
+gdc-coref,x3bf.0,125303,125383,jack,125367,125370,ich,jack
+gdc-coref,x3bf.0,125450,125501,jack,125462,125465,ich,jack
+gdc-coref,x3bf.0,125450,125501,jack,125483,125486,Ich,jack
+gdc-coref,x3bf.0,125664,125733,lulu,125670,125673,Ich,lulu
+gdc-coref,x3bf.0,125862,126035,jack,125933,125936,ich,jack
+gdc-coref,x3bf.0,125862,126035,jack,125993,125996,ich,jack
+gdc-coref,x3bf.0,125862,126035,jack,126016,126019,mir,jack
+gdc-coref,x3bf.0,126040,126146,lulu,126059,126062,ich,lulu
+gdc-coref,x3bf.0,126040,126146,lulu,126126,126129,Ich,lulu
+gdc-coref,x3bf.0,126180,126239,lulu,126201,126204,mir,lulu
+gdc-coref,x3bf.0,126180,126239,lulu,126229,126232,ich,lulu
+gdc-coref,x3bf.0,126668,126713,lulu,126690,126694,mich,lulu
+gdc-coref,x3bf.0,126718,126826,jack,126724,126727,Ich,jack
+gdc-coref,x3bf.0,126718,126826,jack,126772,126775,Ich,jack
+gdc-coref,x3bf.0,126718,126826,jack,126782,126785,mir,jack
+gdc-coref,x3bf.0,126875,126973,jack,126881,126884,Ich,jack
+gdc-coref,x3bf.0,126875,126973,jack,126931,126934,Ich,jack
+gdc-coref,x3bf.0,126875,126973,jack,126969,126972,mir,jack
+gdc-coref,x3bf.0,126978,127022,lulu,127014,127017,mir,lulu
+gdc-coref,x3bf.0,127027,127120,jack,127041,127044,mir,jack
+gdc-coref,x3bf.0,127027,127120,jack,127080,127083,ich,jack
+gdc-coref,x3bf.0,127125,127161,lulu,127131,127134,Ich,lulu
+gdc-coref,x3bf.0,127166,127254,jack,127241,127245,mich,jack
+gdc-coref,x3bf.0,127260,127316,lulu,127307,127310,ich,lulu
+gdc-coref,x3bf.0,127321,127349,jack,127331,127334,mir,jack
+gdc-coref,x3bf.0,127354,127417,lulu,127360,127363,Ich,lulu
+gdc-coref,x3bf.0,127354,127417,lulu,127398,127401,ich,lulu
+gdc-coref,x3bf.0,127422,127452,jack,127438,127441,mir,jack
+gdc-coref,x3bf.0,127592,127751,lulu,127663,127666,Ich,lulu
+gdc-coref,x3bf.0,127592,127751,lulu,127692,127695,Ich,lulu
+gdc-coref,x3bf.0,127592,127751,lulu,127725,127729,mich,lulu
+gdc-coref,x3bf.0,127756,127979,jack,127762,127765,Mir,jack
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128058,128061,ich,die_geschwitz
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128091,128094,Ich,die_geschwitz
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128126,128131,Meine,die_geschwitz
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128147,128150,mir,die_geschwitz
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128168,128171,Ich,die_geschwitz
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128178,128182,mich,die_geschwitz
+gdc-coref,x3bf.0,127983,128257,die_geschwitz,128200,128203,Ich,die_geschwitz
+gdc-coref,x3bf.0,128684,129239,jack,128762,128765,Ich,jack
+gdc-coref,x3bf.0,129309,129386,jack,129339,129342,mir,jack
+gdc-coref,x3bf.0,129447,129901,jack,129577,129580,Ich,jack
+gdc-coref,x3bf.0,129447,129901,jack,129826,129829,mir,jack
+gdc-coref,x3bf.0,129906,130081,die_geschwitz,129936,129940,Mein,die_geschwitz
+gdc-coref,x3bf.0,129906,130081,die_geschwitz,129980,129983,Ich,die_geschwitz
